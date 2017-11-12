@@ -1,0 +1,1777 @@
+Message 0:
+ああああああああああああああああああああう{PAUSE}
+い
+ああああああああああああああああああああう{PAUSE}{EOM}{EOM}
+
+Message 1:
+あ{EOM}{EOM}
+
+Message 2:
+や{EOM}{EOM}
+
+Message 3:
+あ{EOM}{EOM}
+
+Message 4:
+あ{EOM}{EOM}
+
+Message 5:
+べ{EOM}{EOM}
+
+Message 6:
+が{EOM}{EOM}
+
+Message 7:
+す{EOM}{EOM}
+
+Message 8:
+ア{EOM}{EOM}
+
+Message 9:
+な{EOM}{EOM}
+
+Message 10:
+う{EOM}{EOM}
+
+Message 11:
+1{EOM}{EOM}
+
+Message 12:
+た{EOM}{EOM}
+
+Message 13:
+た{EOM}{EOM}
+
+Message 14:
+た{EOM}{EOM}
+
+Message 15:
+せ—ぶろ—どしけんよう
+めっせ—じその1でござる
+とりあえずこんな
+かんじを{EOM}{EOM}{EOM}
+
+Message 16:
+セ—ブロ—ドしけんよう
+めっせ—じです 
+せんたくしはどうなるのかな{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+{CROP_0001}{PAUSE}
+{KATE}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+{?_3880} {C12}イヌのしつけ{C17}のじかん{?_3830}{PAUSE}{WIPE}
+さて {?_3880}は
+きちんと{C12}イヌのしつけ{C17}をしているの{?_3830}{PAUSE}
+{?_3880}のたいせつな{C13}{?_3817}{C17}や{C13}{?_3817}{C17}に
+なんとなくかみついたりしないために 
+{C12}イヌのしつけ{C17}はとてもたいせつ{?_3880} {PAUSE}{EOM}
+
+Message 19:
+<>{PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 21:
+いちじていし{?_39}かいじょ{PAUSE}{EOM}{EOM}
+
+Message 22:
+モジュ—ルせんたく
+{CHOICE6 DEF0}
+いろいろ
+2Dがめんその1
+2Dがめんその2
+2Dがめんその3
+ミニゲ—ム
+はじめから{EOM}
+
+Message 23:
+モジュ—ルせんたく
+{CHOICE5 DEF0}
+init
+WorldMap
+room
+debug
+通信{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+2Dがめんせんたくその1
+{CHOICE9 DEF0}
+リュックサックがめん(Init)
+しょくもつちょぞうこがめん
+たねおきだながめん(Init)
+セ—ブがめん
+れいぞうこがめん
+はっくつひんがめん(Init)
+日めくりがめん
+なまえにゅりょくがめん(Init)
+メ—カ—ロゴがめん{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+2Dがめんせんたくその2
+{CHOICE8 DEF0}
+ぜんたいマップがめん
+だいちょうがめん
+さくもつしゅっかばこがめん
+らくのうしゅっかばこがめん
+はっちゅうがめん
+どうぶつこやえさばこけっていがめん
+ものおきだながめん
+どうぐだながめん{EOM}
+
+Message 26:
+2Dがめんせんたくその3
+{CHOICE8 DEF0}
+0デモがめん
+しさんひょうがめん
+カレンダ—がめん
+めざましとけいせっていがめん
+ざいりょうせんたくがめん(Init)
+タイトルがめん
+ロ—ドがめん
+エンデイングがめん{EOM}{EOM}{EOM}
+
+Message 27:
+ミニゲ—ムせんたく
+{CHOICE3 DEF0}
+おはかみがき
+ボ—ドゲ—ム
+ぎゅうにゅうはやのみ{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+0た実0場
+{CHOICE8 DEF0}
+フエ—ド
+カメラ
+マップ
+キャラクタ
+画0フラッシュ
+そ—ご—
+コ—ル
+終了{EOM}
+
+Message 29:
+フエ—ド0せんたく
+{CHOICE2 DEF0}
+0
+0{EOM}
+
+Message 30:
+00せんたく
+{CHOICE2 DEF0}
+moveCameraPosition()
+回0{EOM}{EOM}{EOM}
+
+Message 31:
+00せんたく
+{CHOICE3 DEF0}
+X
+Y
+Z{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+マップせんたく
+{CHOICE3 DEF0}
+ワ—ルド
+0たくリビング
+äちく00{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+ナミを主人公の0に{PAUSE}{EOM}
+
+Message 34:
+ナミを回0{PAUSE}{EOM}
+
+Message 35:
+ナミを00{PAUSE}{EOM}
+
+Message 36:
+キャラいじり終了{PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+時0待ち{PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+äちく00へ00{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+キャラクタを出す{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+カメラのタ—ゲットをしゅじんこうに{PAUSE}{EOM}
+
+Message 41:
+カメラをセピリアに{PAUSE}{EOM}
+
+Message 42:
+カメラをナミに{PAUSE}{EOM}
+
+Message 43:
+カメラをム—ム—に{PAUSE}{EOM}
+
+Message 44:
+カメラをもどしてタ—ゲットをセピリアに{PAUSE}{EOM}
+
+Message 45:
+ナミにタ—ゲットをいどう{PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+カメラをもどす{PAUSE}{EOM}
+
+Message 47:
+カメラ00 ö0{PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+カメラ00 たて回りこみ{PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+カメラ00 0回りこみ{PAUSE}{EOM}
+
+Message 50:
+たてパン{PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+0パン{PAUSE}{EOM}
+
+Message 52:
+しゅじんこうへズ—ムイン{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+しゅじんこうアクション{PAUSE}{EOM}
+
+Message 54:
+testのスクリプトがよべないぽい{PAUSE}{EOM}
+
+Message 55:
+終了待ち{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+所00が足りているか?
+{CHOICE2 DEF0}
+足りていない
+足りている{EOM}{EOM}{EOM}
+
+Message 57:
+おくさんはダレ?
+{CHOICE2 DEF0}
+{NAMI}
+{MUFFY}{EOM}{EOM}{EOM}
+
+Message 58:
+おくさんはダレ?
+{CHOICE3 DEF0}
+{NAMI}
+{MUFFY}
+{CELIA}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+0子のやんちゃ0は?
+{CHOICE2 DEF0}
+50以上
+50以0{EOM}{EOM}{EOM}
+
+Message 60:
+Ö生トリガ—は?
+{CHOICE2 DEF0}
+NONE
+DOOR{EOM}{EOM}{EOM}
+
+Message 61:
+000820閤0イベント{PAUSE}{EOM}{EOM}{EOM}
+
+Message 62:
+000920終了イベント{PAUSE}{EOM}{EOM}{EOM}
+
+Message 63:
+むすこタイプ
+{CHOICE6 DEF0}
+0定なし
+らくのうとのうぎょう
+おんがく
+びじゅつ
+うんどう
+がくもん{EOM}{EOM}{EOM}
+
+Message 64:
+よめせんたく
+{CHOICE4 DEF0}
+0定なし
+セピリア
+ナミ
+ム—ム—{EOM}
+
+Message 65:
+軽えい00
+{CHOICE3 DEF0}
+0定なし
+ヤバい
+ヤバくない{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+0010 30閤0イベント{PAUSE}{EOM}{EOM}
+
+Message 67:
+むすこは
+{CHOICE3 DEF0}
+0定なし
+やんちゃ
+おとなしい{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+いぬせんたく
+{CHOICE3 DEF0}
+0定なし
+ビ—グル
+コ—ギ—{EOM}{EOM}
+
+Message 69:
+0011 30終了イベント{PAUSE}{EOM}{EOM}
+
+Message 70:
+うしを
+{CHOICE3 DEF0}
+0定なし
+もってる
+もってない{EOM}{EOM}
+
+Message 71:
+0012 40閤0イベント{PAUSE}{EOM}{EOM}
+
+Message 72:
+0013 40終了イベント{PAUSE}{EOM}{EOM}
+
+Message 73:
+むすこタイプ
+{CHOICE4 DEF0}
+0定なし
+らくのう
+のうぎょう
+そのた{EOM}
+
+Message 74:
+0014 50閤0イベント{PAUSE}{EOM}{EOM}
+
+Message 75:
+軽えい00
+{CHOICE4 DEF0}
+0定なし
+よい
+ふつう
+わるい{EOM}{EOM}{EOM}
+
+Message 76:
+0015 50終了イベント{PAUSE}{EOM}{EOM}
+
+Message 77:
+むすこタイプ
+{CHOICE6 DEF0}
+0定なし
+おんがく
+びじゅつ
+うんどう
+がくもん
+その他{EOM}
+
+Message 78:
+0016 60閤0イベント{PAUSE}{EOM}{EOM}
+
+Message 79:
+0017 エンデイング{PAUSE}{EOM}{EOM}
+
+Message 80:
+むすこタイプ
+{CHOICE7 DEF0}
+0定なし
+らくのう
+のうぎょう
+おんがく
+びじゅつ
+うんどう
+がくもん{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+6048 0ってきたナミさん{PAUSE}n>{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+ナミの友00
+{CHOICE3 DEF0}
+0定なし
+0い
+0い{EOM}{EOM}
+
+Message 83:
+トイレ{PAUSE}{EOM}
+
+Message 84:
+ふろ{PAUSE}{EOM}{EOM}{EOM}
+
+Message 85:
+ここでパラメ—タしょりや
+フラグのON·OFFをするよていです 
+しょうさいはスクリプトにかいてあります {PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+つるたんがいる?
+{CHOICE2 DEF0}
+いない
+いる{EOM}
+
+Message 87:
+べてゅ—のお0 
+{CHOICE9 DEF0}
+フエ—ド
+カメラ
+マップ
+キャラクタ
+画0フラッシュ
+0合
+メッセ—ジ
+コ—ル
+終了{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+フエ—ド0のせんたく
+{CHOICE2 DEF0}
+くろ
+しろ{EOM}{EOM}{EOM}
+
+Message 89:
+カメラ00せんたく
+{CHOICE2 DEF0}
+moveCameraPosition()
+カメラ回0{EOM}{EOM}{EOM}
+
+Message 90:
+00せんたく
+{CHOICE3 DEF0}
+X
+Y
+Z{EOM}{EOM}{EOM}{EOM}
+
+Message 91:
+マップのせんたく
+{CHOICE3 DEF0}
+ワ—ルド
+0たくリビング
+エントランス{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+ナミを主人公の0におきます {PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+ナミを回0させます {PAUSE}{EOM}{EOM}{EOM}
+
+Message 94:
+ナミを00させます {PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+キャラテスト終了です {PAUSE}{EOM}
+
+Message 96:
+ナミが0います {PAUSE}{EOM}{EOM}{EOM}
+
+Message 97:
+主人公の0へ0けます {PAUSE}{EOM}
+
+Message 98:
+500待ちます {PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+待ち時0終了 {PAUSE}{EOM}
+
+Message 100:
+äちく00へ00します {PAUSE}{EOM}{EOM}{EOM}
+
+Message 101:
+キャラクタを出す {PAUSE}{EOM}
+
+Message 102:
+カメラのタ—ゲットを主人公にします {PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+カメラをセピリアしてんにします {PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+伺じくカメラをナミしてんに {PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+0にカメラをム—ム—してんに {PAUSE}{EOM}
+
+Message 106:
+セピリアにタ—ゲットをいどう {PAUSE}{EOM}
+
+Message 107:
+ナミにタ—ゲットをいどう {PAUSE}{EOM}
+
+Message 108:
+カメラをもどします {PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+カメラをö0に00します {PAUSE}{EOM}
+
+Message 110:
+カメラをたて回りこみします {PAUSE}{EOM}{EOM}{EOM}
+
+Message 111:
+カメラを0回りこみします {PAUSE}{EOM}
+
+Message 112:
+たてパン {PAUSE}{EOM}
+
+Message 113:
+0パン {PAUSE}{EOM}{EOM}{EOM}
+
+Message 114:
+しゅじんこうへズ—ムイン{PAUSE}{EOM}{EOM}{EOM}
+
+Message 115:
+しゅじんこう00アクション{PAUSE}{EOM}
+
+Message 116:
+たく0出してみる {PAUSE}{EOM}
+
+Message 117:
+testのスクリプトはよべないらしいです {PAUSE}{EOM}
+
+Message 118:
+終了待ち {PAUSE}{EOM}
+
+Message 119:
+メッセ—ジテストを行います {PAUSE}{WIPE}
+{CHOICE3 DEF0}
+00
+00
+00{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+{C12}之0が00に変0します {PAUSE}
+途中で0が {PAUSE}{C17}Üに戻ります {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 121:
+{C14}之0が00に変0します {PAUSE}
+{C17}0行0 戻ります {PAUSE}{EOM}
+
+Message 122:
+{C13}之0が00に変0します {PAUSE}{WIPE}
+{C11}0にして {PAUSE}{C15}00にして {PAUSE}
+{C17}Üに戻します {PAUSE}{EOM}
+
+Message 123:
+テストメッセ—ジその2 
+{CHOICE3 DEF0}
+メッセ—ジストップ
+メッセ—ジサイズ
+メッセ—ジ00{EOM}{EOM}
+
+Message 124:
+メッセ—ジをポ—ズしてキャラを0かします {FACER_000000}
+{?_39}
+もÄ00めます {FACER_000000} {?_39}
+こんな感じです {PAUSE}{WIPE}
+ちなみに 00を0定して0めると {PAUSE}
+5 {S_3203E8}4 {S_3203E8}3 {S_3203E8}2 {S_3203E8}1{S_3203E8}
+となります {PAUSE}{EOM}{EOM}
+
+Message 125:
+メッセ—ジサイズの変0 {PAUSE}
+{?_1880}どんどんと {PAUSE}
+{?_1881}之0サイズが {PAUSE}
+{?_1881}変わってるかと {PAUSE}
+{?_1881}思います… {PAUSE}
+{19}こんな感じです {PAUSE}{EOM}{EOM}
+
+Message 126:
+メッセ—ジ00を変0します {PAUSE}
+0通の00はこんなですが 0くすると…{PAUSE}
+{DRAW_01}あいたたたたたたたたたたたたたたたたっ {DRAW_00}{PAUSE}{WIPE}
+{DRAW_02}00りだとこんな感じ {DRAW_00}{PAUSE}
+といった感じになります {PAUSE}{EOM}{EOM}
+
+Message 127:
+テストメッセ—ジその3 
+{CHOICE3 DEF0}
+メッセ—ジいっかつ
+さまざまな名ö
+之0をつめる{EOM}{EOM}
+
+Message 128:
+メッセ—ジをÄかつで00します {PAUSE}{WIPE}
+通0に00{SKIP}
+ここから 
+Äかつ00!されます 
+{SKIP}{EOM}そしてÜ通りに00します {PAUSE}
+以上です {PAUSE}{EOM}{EOM}
+
+Message 129:
+用意されたラベルを使って 
+0名 人名 アイテム名などを00します {PAUSE}{WIPE}
+{C14}人の名ö {C17}{TAKAKURA}さんは 
+{C12}アイテムの名ö {C17}{ITEM_043C}と 
+{C13}0物の名ö {C17}{CROP_0002}を食べて {PAUSE}
+{C15}0名 {C17}{STRUC_23}へいった 
+などです {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+之0をつめめてみます {PAUSE}
+{GOLD_0007}7行0つめです 
+こんな感じです {PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+以上でメッセ—ジテスト終了です {PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+ダミ—フラグ 
+{CHOICE2 DEF0}
+1
+0{EOM}
+
+Message 133:
+イベント閤00öの主人公の0場所は?
+{CHOICE2 DEF0}
+リビング
+寝0{EOM}{EOM}{EOM}
+
+Message 134:
+ガ—フアンライブ用ダミ—フラグ 
+{CHOICE3 DEF0}
+ム—ム—は0
+0じゃない 0場にいる
+0じゃない 0場にいない{EOM}{EOM}
+
+Message 135:
+グスタフアが··· 
+{CHOICE2 DEF0}
+ギンユウ0人のäにいる
+ギンユウ0人のäにいない{EOM}
+
+Message 136:
+入ヵされた名öは
+{C13}{PREV_80}{C17}です {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+1000 食品00000完了イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+1002 さく0000完了イベント{PAUSE}{EOM}{EOM}
+
+Message 139:
+1004 人0000完了イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+1008 00きたなが売ってたぞイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+1009 00きたな入0タカクライベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+1010 00きたな入0ダリルイベント{PAUSE}{EOM}{EOM}
+
+Message 143:
+1014ac タカクラ出0イベントac{PAUSE}{EOM}{EOM}
+
+Message 144:
+1014b 0物売0·0付けどう入イベント{PAUSE}{EOM}{EOM}
+
+Message 145:
+1014r タカクラ0かんイベント{PAUSE}{EOM}{EOM}
+
+Message 146:
+1014s タカクラ0かんイベント{PAUSE}{EOM}{EOM}
+
+Message 147:
+1014t タカクラ0かんイベント{PAUSE}{EOM}{EOM}
+
+Message 148:
+1014u タカクラ0かんイベント{PAUSE}{EOM}{EOM}
+
+Message 149:
+1014v タカクラ0物売0イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+1014w タカクラ0物売0イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 151:
+1015 タカクラメモお0らせイベント{PAUSE}{EOM}{EOM}
+
+Message 152:
+1016 カ—フハッチてっきょイベント{PAUSE}{EOM}{EOM}
+
+Message 153:
+2000 0入0イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 154:
+2001a 0物0入イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 155:
+2001b 0物0入イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+2005 00入0イベント{PAUSE}{EOM}{EOM}
+
+Message 157:
+2008 0物00イベント{PAUSE}{EOM}{EOM}
+
+Message 158:
+2009a 00付けイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+2009b 00付けイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 160:
+2011 子0たんじょうイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 161:
+2012a ひよアヒルたんじょうイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 162:
+2012b ひよアヒルたんじょうイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+2013 かくりイベント1{PAUSE}{EOM}{EOM}
+
+Message 164:
+2014 かくりイベント2{PAUSE}{EOM}{EOM}
+
+Message 165:
+2015 はじめてのかくりイベント{PAUSE}{EOM}{EOM}
+
+Message 166:
+2019 00イベント{PAUSE}{EOM}{EOM}
+
+Message 167:
+2020 0物育たないイベント{PAUSE}{EOM}{EOM}
+
+Message 168:
+4005 1人おふろイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 169:
+4007 トイレイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+4011 16 00子0しょうイベント{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+4012 00しょうイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+4013a 00しょうイベント{PAUSE}{EOM}{EOM}
+
+Message 173:
+4013c 0しゅう寝イベント{PAUSE}{EOM}{EOM}
+
+Message 174:
+4014a 0子しゅう寝イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 175:
+4014b 0子しゅう寝イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 176:
+4014c 0子しゅう寝イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 177:
+4015 0子0しょうイベント{PAUSE}{EOM}{EOM}
+
+Message 178:
+4017 0むかえイベント{PAUSE}{EOM}{EOM}
+
+Message 179:
+7009 0主終了イベント{PAUSE}{EOM}{EOM}
+
+Message 180:
+7010 Ö掘イベントA{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+7011 Ö掘イベントB{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 182:
+7012 Ö掘終了イベント{PAUSE}{EOM}{EOM}
+
+Message 183:
+8007 0üみ終了イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 184:
+8009 通信閤0イベント{PAUSE}{EOM}{EOM}
+
+Message 185:
+8010 じん0りゲ—ム終了イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+1012a 0物出00イベントA{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+1012b 0物出0000イベントB{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+2004 アヒル入0イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 189:
+2007 ねこ入0イベント{PAUSE}{EOM}{EOM}
+
+Message 190:
+2018 0登場イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 191:
+3077 00イベント{PAUSE}{EOM}{EOM}
+
+Message 192:
+3111 ナミ0100イベント{PAUSE}{EOM}{EOM}
+
+Message 193:
+3121 ナミ0200イベント{PAUSE}{EOM}{EOM}
+
+Message 194:
+3130 ナミ0300イベント{PAUSE}{EOM}{EOM}
+
+Message 195:
+3141 ナミ0400イベント{PAUSE}{EOM}{EOM}
+
+Message 196:
+3151 ナミ0500イベント{PAUSE}{EOM}{EOM}
+
+Message 197:
+3171 ナミ0い00イベント{PAUSE}{EOM}{EOM}
+
+Message 198:
+3211 ム—ム—0100イベント{PAUSE}{EOM}{EOM}
+
+Message 199:
+3221 ム—ム—0200イベント{PAUSE}{EOM}{EOM}
+
+Message 200:
+3231 ム—ム—0300イベント{PAUSE}{EOM}{EOM}
+
+Message 201:
+3241 ム—ム—0400イベント{PAUSE}{EOM}{EOM}
+
+Message 202:
+3251 ム—ム—0500イベント{PAUSE}{EOM}{EOM}
+
+Message 203:
+3271 ム—ム—0い00イベント{PAUSE}{EOM}{EOM}
+
+Message 204:
+3311 セピリア0100イベント{PAUSE}{EOM}{EOM}
+
+Message 205:
+3321 セピリア0200イベント{PAUSE}{EOM}{EOM}
+
+Message 206:
+3331 セピリア0300イベント{PAUSE}{EOM}{EOM}
+
+Message 207:
+3341 セピリア0400イベント{PAUSE}{EOM}{EOM}
+
+Message 208:
+3350 セピリア0500イベント{PAUSE}{EOM}{EOM}
+
+Message 209:
+3371 セピリア0い00イベント{PAUSE}{EOM}{EOM}
+
+Message 210:
+4006 0子とおふろイベント{PAUSE}{EOM}{EOM}
+
+Message 211:
+4030 000イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+4031 0子の恋イベント{PAUSE}{EOM}{EOM}
+
+Message 213:
+4032 お0じまんイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 214:
+4035 0中ながしイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 215:
+5000 かわったクワ入0イベント{PAUSE}{EOM}{EOM}
+
+Message 216:
+5001 あやしいクワ入0イベント{PAUSE}{EOM}{EOM}
+
+Message 217:
+5002 あやしいカマ入0イベント{PAUSE}{EOM}{EOM}
+
+Message 218:
+5003 かわったカマ入0イベント{PAUSE}{EOM}{EOM}
+
+Message 219:
+5004 へんなじょうろ入0イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 220:
+5005 バリカン入0イベント{PAUSE}{EOM}{EOM}
+
+Message 221:
+5006 ひでんの0味0イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 222:
+5007 ゲイジュツ品入0イベント{PAUSE}{EOM}{EOM}
+
+Message 223:
+5012 つぼ入0イベント{PAUSE}{EOM}{EOM}
+
+Message 224:
+5013 ダ—ちゃん入0イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+5014 めざまし時0イベント{PAUSE}{EOM}{EOM}
+
+Message 226:
+5017 0い00入0イベント{PAUSE}{EOM}{EOM}
+
+Message 227:
+6001 セバスチャンのひ0イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 228:
+6004 ルミナピアノ上0イベント{PAUSE}{EOM}{EOM}
+
+Message 229:
+6007 かなわぬ恋?イベント{PAUSE}{EOM}{EOM}
+
+Message 230:
+6011 グラ—ト出世か!?イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 231:
+6013 サンのしつけイベント{PAUSE}{EOM}{EOM}
+
+Message 232:
+6028 ドクタ—イベント{PAUSE}{EOM}{EOM}
+
+Message 233:
+6030 いどばたかいぎイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 234:
+6033 モイさん0るöへんイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 235:
+6035 かっぱらいイベント1{PAUSE}{EOM}{EOM}
+
+Message 236:
+6036 ガ—フアンライブイベント{PAUSE}{EOM}{EOM}
+
+Message 237:
+6041 0売人イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 238:
+6043 バアン行0閤0イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 239:
+6044 バアン行0終了イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 240:
+6054 00にやさしい人イベント{PAUSE}{EOM}{EOM}
+
+Message 241:
+6057 ケイトとフロ—ライベント{PAUSE}{EOM}{EOM}
+
+Message 242:
+6058 ガ—フアンとム—ム—イベント{PAUSE}{EOM}{EOM}
+
+Message 243:
+6060 マッシュと0すイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 244:
+6065 カミナリ研究イベント{PAUSE}{EOM}{EOM}
+
+Message 245:
+6066 たいようでんちイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 246:
+6067 0しげんかくほイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 247:
+6068 おんだんか00イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 248:
+6069 リサイクルイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 249:
+6070 子供研究イベント{PAUSE}{EOM}{EOM}
+
+Message 250:
+6072 みかくにんせいぶつイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 251:
+6074 0ごうだつイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 252:
+6076 ぼくたちコロボックルイベント{PAUSE}{EOM}{EOM}
+
+Message 253:
+6086 めがみさまイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 254:
+6087a 男の友0イベントA{PAUSE}{EOM}{EOM}
+
+Message 255:
+6087b 男の友0イベントB{PAUSE}{EOM}{EOM}
+
+Message 256:
+6088 かっぱらいイベント2{PAUSE}{EOM}{EOM}
+
+Message 257:
+6089 かっぱらいイベント3{PAUSE}{EOM}{EOM}
+
+Message 258:
+6090 かっぱらいイベント4{PAUSE}{EOM}{EOM}
+
+Message 259:
+6091 かっぱらいイベント5{PAUSE}{EOM}{EOM}
+
+Message 260:
+6092 モイさん0る0へん{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 261:
+6093 ダリルのワナ!!1イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 262:
+6094 ダリルのワナ!!2イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 263:
+6095 バアンのダイエットイベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 264:
+8001 00イベント{PAUSE}{EOM}{EOM}
+
+Message 265:
+8002 なつ0りイベント{PAUSE}{EOM}{EOM}
+
+Message 266:
+8004 0かく0イベント{PAUSE}{EOM}{EOM}
+
+Message 267:
+8005 000イベント{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+{CHOICE5 DEF0}
+デフオルトモ—ション
+セットモ—ション 1ル—プ
+セットモ—ション 1ル—プ0立ち
+セットモ—ション 3ル—プ
+セットモ—ション for之で3回{EOM}
+
+Message 269:
+END{PAUSE}{EOM}
+
+Message 270:
+きょうせいかきかえする?
+{CHOICE2 DEF0}
+する
+しない{EOM}
+
+Message 271:
+0物のしゅるいは?
+{CHOICE3 DEF0}
+0番のかちくをだいにゅう
+0番のかきんをだいにゅう
+だいにゅうしない{EOM}{EOM}{EOM}{EOM}
+
+Message 272:
+えさばこの番0は?
+{CHOICE8 DEF0}
+0番
+1番
+2番
+3番
+4番
+5番
+6番
+7番{EOM}{EOM}{EOM}
+
+Message 273:
+せいちょうぐあいは?
+{CHOICE2 DEF0}
+おおうし
+ちゅううし{EOM}
+
+Message 274:
+しゅるいは?
+{CHOICE8 DEF0}
+ほるすたいん おす
+ほるすたいん めす
+がんじ—   おす
+がんじ—   めす
+じゃ—じ—  おす
+じゃ—じ—  めす
+えあしゃ—  おす
+えあしゃ—  めす{EOM}
+
+Message 275:
+Ö生トリガは?
+{CHOICE3 DEF0}
+0終了をセット
+それ以0
+そのままのトリガを使用{EOM}{EOM}{EOM}{EOM}
+
+Message 276:
+らぶらぶらんちゃ—
+{CHOICE3 DEF0}
+ナミ
+ム—ム—
+セピリア{EOM}{EOM}{EOM}{EOM}
+
+Message 277:
+{CHOICE8 DEF0}
+レベル1
+レベル2
+レベル3
+レベル4
+レベル5
+おみあい
+おしかけ
+けっこん{EOM}{EOM}
+
+Message 278:
+{CHOICE6 DEF0}
+010
+020
+030
+040
+050
+060{EOM}{EOM}{EOM}{EOM}
+
+Message 279:
+{CHOICE2 DEF0}
+閤0
+終了{EOM}{EOM}{EOM}{EOM}
+
+Message 280:
+どこいくモイ?
+{CHOICE8 DEF0}
+0へ
+戻る
+00リビング
+00しょくにんのä
+ゲイジュツカのä
+0学0のä
+ギンユウ0人のä
+0場{EOM}{EOM}{EOM}
+
+Message 281:
+さっさときめるモイ♪
+{CHOICE8 DEF0}
+0へ
+戻る
+00
+0守のä
+おやしき
+考古学0テント
+Ö掘現場
+コロボックルのä{EOM}{EOM}{EOM}
+
+Message 282:
+モ~イモイ♪
+{CHOICE8 DEF0}
+0へ
+戻る
+0ä 0
+0ä 0住0
+タカクラのä
+0物00
+食物0
+終了{EOM}
+
+Message 283:
+モフ?
+{CHOICE8 DEF0}
+0へ
+戻る
+みんか1 10
+みんか2 10
+みんか3 じじばば用
+みんか3 バドッグ用
+0げる 0走用
+終了{EOM}{EOM}
+
+Message 284:
+{CHOICE8 DEF0}
+0ってきたナミ
+ダミ—
+ダミ—
+ダミ—
+ダミ—
+ダミ—
+ダミ—
+ダミ—{EOM}{EOM}
+
+Message 285:
+デバッグメッセ—ジ
+主人公は0負に…
+{CHOICE3 DEF0}
+0った
+負けた
+変0しない{EOM}
+
+Message 286:
+デバッグメッセ—ジ
+00祖0は…
+{CHOICE4 DEF0}
+グラ—ト
+ロック
+ヒュ—
+変0しない{EOM}{EOM}{EOM}{EOM}
+
+Message 287:
+モイさんボイス1…{S_320190}{S_340172}{S_3205DC}
+モイさんボイス2…{S_320190}{S_340173}{S_3205DC}
+モイさんボイス3…{S_320190}{S_340174}{S_3205DC}いじょう {PAUSE}{EOM}{EOM}
+
+Message 288:
+ムクムクボイス1…{S_320190}{S_340199}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 289:
+ダリルボイス1…{S_320190}{S_340163}{S_3205DC}
+ダリルボイス2…{S_320190}{S_340164}{S_3205DC}
+ダリルボイス3…{S_320190}{S_340165}{PAUSE}{EOM}
+
+Message 290:
+タカクラボイス1…{S_320190}{S_340136}{S_3205DC}
+タカクラボイス2…{S_320190}{S_340137}{S_3205DC}
+タカクラボイス3…{S_320190}{S_340138}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 291:
+ルミナボイス1…{S_320190}{S_34013C}{PAUSE}{EOM}
+
+Message 292:
+ロマナボイス1…{S_320190}{S_340139}{S_3205DC}
+ロマナボイス2…{S_320190}{S_34013A}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 293:
+セバスチャンボイス1…{S_320190}{S_34013F}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 294:
+スアリ—ボイス1…{S_320190}{S_340142}{S_3205DC}
+スアリ—ボイス2…{S_320190}{S_340143}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 295:
+クリスボイス1…{S_320190}{S_340145}{PAUSE}{EOM}
+
+Message 296:
+ヒュ—ボイス1(6さい·9さい用)…{S_320190}{S_340148}{S_3205DC}
+ヒュ—ボイス2(14さい用)…{S_320190}{S_34014B}{S_3205DC}
+ヒュ—ボイス3(21さい用)…{S_320190}{S_34014E}{PAUSE}{EOM}
+
+Message 297:
+グラ—トボイス1…{S_320190}{S_340151}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 298:
+ケイトボイス1(7さい·12さい用)…{S_320190}{S_340157}{S_3205DC}
+ケイトボイス2(7さい·12さい用)…{S_320190}{S_340158}{S_3205DC}
+ケイトボイス3(7さい·12さい用)…{S_320190}{S_340159}{S_3205DC}{PAUSE}
+ケイトボイス4(19さい用)…{S_320190}{S_34015A}{PAUSE}{EOM}{EOM}
+
+Message 299:
+ガリボイス1…{S_320190}{S_34015D}{S_3205DC}
+ガリボイス2…{S_320190}{S_34015E}{S_3205DC}
+ガリボイス3…{S_320190}{S_34015F}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 300:
+ニ—ナボイス1…{S_320190}{S_340160}{S_3205DC}{PAUSE}{EOM}{EOM}
+
+Message 301:
+グスタフアボイス1…{S_320190}{S_340166}{S_3205DC}{PAUSE}{EOM}{EOM}
+
+Message 302:
+ゴ—デイボイス1…{S_320190}{S_340169}{S_3205DC}
+ゴ—デイボイス2…{S_320190}{S_34016A}{S_3205DC}
+ゴ—デイボイス3…{S_320190}{S_34016B}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 303:
+ケサランボイス1…{S_320190}{S_34016C}{S_3205DC}
+ケサランボイス2…{S_320190}{S_34016D}{S_3205DC}
+ケサランボイス3…{S_320190}{S_34016E}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 304:
+パサランボイス1…{S_320190}{S_34016F}{S_3205DC}
+パサランボイス2…{S_320190}{S_340170}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 305:
+テイボイス1…{S_320190}{S_340175}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 306:
+ナミボイス1…{S_320190}{S_34017B}{S_3205DC}
+ナミボイス2…{S_320190}{S_34017C}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 307:
+ロックボイス1…{S_320190}{S_34017E}{S_3205DC}
+ロックボイス2…{S_320190}{S_34017F}{S_3205DC}
+ロックボイス3…{S_320190}{S_340180}{S_3205DC}{PAUSE}{EOM}{EOM}
+
+Message 308:
+ガ—フアンボイス1…{S_320190}{S_340181}{S_3205DC}
+ガ—フアンボイス2…{S_320190}{S_340182}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 309:
+ム—ム—ボイス1…{S_320190}{S_340184}{S_3205DC}
+ム—ム—ボイス2…{S_320190}{S_340185}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 310:
+カ—タ—ボイス1…{S_320190}{S_340187}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 311:
+マッシュボイス1…{S_320190}{S_340190}{S_3205DC}
+マッシュボイス2…{S_320190}{S_340191}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 312:
+セピリアボイス1…{S_320190}{S_340193}{S_3205DC}
+セピリアボイス2…{S_320190}{S_340194}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 313:
+バドッグボイス1…{S_320190}{S_340196}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 314:
+バアンボイス1…{S_320190}{S_34019C}{S_3205DC}{PAUSE}{EOM}{EOM}
+
+Message 315:
+モイ
+あのさぁ{S_3203E8}
+{FACE_050013}くさくない?{PAUSE}{EOM}{EOM}
+
+Message 316:
+スケジュ—ル変0する?
+{CHOICE2 DEF0}
+変0する
+ヤメル{EOM}{EOM}{EOM}
+
+Message 317:
+どちらさん?
+{CHOICE8 DEF0}
+0へ
+戻る
+カ—タ—
+バドッグ
+バアン
+ダリル
+フロ—ラ
+ヤメル{EOM}{EOM}{EOM}
+
+Message 318:
+どちらさん?
+{CHOICE8 DEF0}
+0へ
+戻る
+ガ—フアン
+ガリ
+ゴ—デイ
+グラ—ト
+ヒュ—
+ヤメル{EOM}{EOM}{EOM}
+
+Message 319:
+どちらさん?
+{CHOICE8 DEF0}
+0へ
+戻る
+ケサラン
+パサラン
+クリス
+ルミナ
+マッシュ
+ヤメル{EOM}{EOM}{EOM}
+
+Message 320:
+どちらさん?
+{CHOICE8 DEF0}
+0へ
+戻る
+ム—ム—
+ニ—ナ
+ロック
+ロマナ
+ルウ
+ヤメル{EOM}
+
+Message 321:
+どちらさん?
+{CHOICE8 DEF0}
+0へ
+戻る
+セバスチャン
+セピリア
+スアリ—
+タカクラ
+テイ
+ヤメル{EOM}{EOM}{EOM}
+
+Message 322:
+どちらさん?
+{CHOICE8 DEF0}
+0へ
+戻る
+ベスタ
+セピリア0Ver
+ム—ム—0Ver
+ナミ0Ver
+サン
+ヤメル{EOM}
+
+Message 323:
+スケジュ—ル何番?
+{CHOICE8 DEF0}
+0へ
+戻る
+0番
+1番
+2番
+3番
+4番
+ヤメル{EOM}
+
+Message 324:
+スケジュ—ル何番?
+{CHOICE8 DEF0}
+0へ
+戻る
+5番
+6番
+7番
+8番
+9番
+ヤメル{EOM}
+
+Message 325:
+スケジュ—ル何番?
+{CHOICE8 DEF0}
+0へ
+戻る
+10番
+11番
+12番
+13番
+14番
+15番{EOM}{EOM}{EOM}
+
+Message 326:
+このNPCの現0のIDは({DBG_3780000000})です{PAUSE}{EOM}{EOM}
+
+Message 327:
+あのね··· {PAUSE}{EOM}
+
+Message 328:
+なんでございますかな {S_32012C}
+ルミナおじょうさま {PAUSE}{EOM}
+
+Message 329:
+···お0いがあるの {PAUSE}{EOM}
+
+Message 330:
+どうも {PETE}さま {S_3201F4}
+私は用事が出0ましたので出かけますが 
+どうぞごゆっくり {PAUSE}{EOM}{EOM}
+
+Message 331:
+{CHOICE2 DEF0}
+0いかける
+0いかけない{EOM}{EOM}
+
+Message 332:
+あなたに0みはございませんが 
+これもルミナおじょうさまのため!{S_3200C8}
+おかくごなされよ!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 333:
+まいりますぞ!{S_3201F4}はぁぁぁぁッッ!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 334:
+む {S_3201F4}むねん···
+ルミナおじょうさまのために 最0の0ふでを
+さしあげようと思ったのですが··· {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 335:
+あっ {S_32012C}{PETE}さん 
+ずっとここにいらしたんですか?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 336:
+··················· {PAUSE}{EOM}{EOM}{EOM}
+
+Message 337:
+{PETE}さん {S_3201F4}0って0きですか?{PAUSE}{EOM}{EOM}
+
+Message 338:
+ふふっ {S_32012C}今0 0顔0を0いてあげますね♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 339:
+ふふふっ {S_3201F4}じゃぁ私はこれで 
+ゆっくりしていってくださいね {PAUSE}{EOM}
+
+Message 340:
+それにしても セバスチャンったら 
+予0の0ふで 
+どこに0しにいったのかしら··· {PAUSE}{EOM}{EOM}{EOM}
+
+Message 341:
+モフア?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 342:
+あ!{S_3201F4}セバスチャン {PAUSE}{EOM}{EOM}
+
+Message 343:
+どうされました?{S_32012C}
+ルミナおじょうさま {PAUSE}{EOM}{EOM}{EOM}
+
+Message 344:
+ちょっといい?{PAUSE}{EOM}
+
+Message 345:
+ええ {S_32012C}いいですとも {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 346:
+それじゃ {PETE}さん 
+またね♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 347:
+時0の0定と
+現0のタカクラのスケジュ—ルチエック
+せっていめにゅ—
+{CHOICE3 DEF0}
+時0を002時590にセット
+時0を300送める
+現0のタカクラのスケジュ—ル番0をみる{EOM}{EOM}{EOM}{EOM}
+
+Message 348:
+どちらさん?
+{CHOICE8 DEF0}
+0へ
+戻る
+ベスタ
+ナミ
+モイ
+ムクムク
+ケイト
+グスタフア{EOM}{EOM}{EOM}
+
+Message 349:
+どちらさん?
+{CHOICE8 DEF0}
+0へ
+戻る
+セバスチャン
+セピリア
+スアリ—
+タカクラ
+テイ
+0子{EOM}
+
+Message 350:
+ワ—ルドマップ
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 351:
+ワ—ルドマップ(0場内)
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 352:
+00リビング
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 353:
+000所
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 354:
+00子供00
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 355:
+00しんしつ
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 356:
+どうぶつごや
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 357:
+さくにゅう0
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 358:
+とりごや
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 359:
+しょくもつこ
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 360:
+食品000
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 361:
+どうぐごや
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 362:
+タカクラのä
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 363:
+00しょくにんのä
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 364:
+ゲイジュツカのä
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 365:
+かがくしゃのä
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 366:
+ぎんゆうしじんのä
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 367:
+さかば000
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 368:
+さかば住000
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 369:
+やどや エントランス
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}
+
+Message 370:
+やどや ふうふの00
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}
+
+Message 371:
+やどや 0所
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}
+
+Message 372:
+やどや 客01
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 373:
+やどや 客02
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 374:
+やどや 客00の20ろうか
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 375:
+はか守のä
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 376:
+おやしき1 ロマナの00
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}
+
+Message 377:
+おやしき2 セバスチャンの00
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 378:
+おやしき3 ちゅうぼう
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 379:
+おやしき4 ルミナの00
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}
+
+Message 380:
+おやしき 10エントランス
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 381:
+おやしき 20ろうか0
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 382:
+みんか1 10
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 383:
+みんか1 20
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 384:
+みんか2 10
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 385:
+みんか1 20
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 386:
+みんか3 0人コンビ用
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 387:
+みんか3 バドッグ用
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}
+
+Message 388:
+考古学0テント
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 389:
+Ö掘現場
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 390:
+コロボックルのä
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}
+
+Message 391:
+のうか1 000
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}
+
+Message 392:
+のうか1 0住00
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 393:
+のうか1 やねうら00
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}
+
+Message 394:
+どこにもいねぇっすよ(?0?)
+(X Z)0({DBG_3780000000} {DBG_3780000001}){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 395:
+{CHOICE9 DEF0}
+0へ
+かちく0
+かちく1
+かちく2
+かちく3
+かちく4
+かちく5
+かちく6
+かちく7{EOM}
+
+Message 396:
+{CHOICE9 DEF0}
+戻る
+かきん0
+かきん1
+かきん2
+かきん3
+かきん4
+かきん5
+かきん6
+かきん7{EOM}
+
+Message 397:
+0物はいません {PAUSE}{EOM}{EOM}{EOM}
+
+Message 398:
+{PREV_80}の所00は{PAUSE}{EOM}{EOM}{EOM}
+
+Message 399:
+どちらさん?
+{CHOICE8 DEF0}
+0へ
+戻る
+ム—ム—
+ニ—ナ
+ロック
+ロマナ
+ルウ
+サン{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

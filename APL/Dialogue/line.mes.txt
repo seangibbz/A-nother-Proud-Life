@@ -1,0 +1,276 @@
+Message 0:
+Good morning.{EOM}{EOM}{EOM}
+
+Message 1:
+{WIPE}"{VAR_00} Day {GOLD_0002}
+ {VAR_01} is sick."{PAUSE}{EOM}
+
+Message 2:
+{WIPE}"{VAR_00} Day {GOLD_0002}
+ {VAR_01} is acting
+  strangely. Pregnant?"{PAUSE}{EOM}
+
+Message 3:
+{WIPE}"{VAR_00} Day {GOLD_0002}
+ {VAR_01} is sick."{PAUSE}{EOM}
+
+Message 4:
+{WIPE}"{VAR_00} Day {GOLD_0002}
+ {VAR_01} is acting
+  strangely. Pregnant?"{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+{WIPE}You have enough:{PAUSE}{WIPE}
+{C13}{VAR_02}
+{VAR_03}
+{VAR_04}{C17}.{PAUSE}{WIPE}
+Take the package
+by the door."{PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+{WIPE}"You can't sell
+{C13}Wool{C17} in the city."{PAUSE}{EOM}{EOM}
+
+Message 7:
+{WIPE}"Only the {C13}crops{C17}/{C13}seeds{C17}
+  you named can be
+  sold."{PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+{WIPE}"Take the money." {FACER_000000}{EOM}{?_39}
+Made {GOLD_0207}G.{PAUSE}{EOM}{EOM}
+
+Message 9:
+{WIPE}"The Order was
+canceled because the
+barn is full."{PAUSE}{EOM}{EOM}
+
+Message 10:
+{WIPE}"Here is your money
+back." {FACER_000000}
+{?_39}
+  Got {GOLD_0307}G back.{EOM}{EOM}
+
+Message 11:
+{WIPE}{EOM}{EOM}{EOM}
+
+Message 12:
+{VAR_00} {EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+{C12}{GOLD_0002}{C17} {C13}{VAR_00}{C17}.{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+{C12}{GOLD_0102}{C17} {C13}{VAR_01}{C17}.{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+{C12}{GOLD_0202}{C17} {C13}{VAR_02}{C17}.{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{C12}{GOLD_0302}{C17} {C13}{VAR_03}{C17}.{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+{C13}{VAR_00}{C17}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+{C13}{VAR_01}{C17}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+{C13}{VAR_02}{C17}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+{C13}{VAR_03}{C17}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{S_320000}{EOM}
+
+Message 22:
+これは たぶんあいてむです {EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+だってこれは とくしゅメッセ—ジだもん もんもん 
+21もじをこえたらどうなるかな— {EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+{WIPE}そもそも これは とくしゅメッセ—ジだもん {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+{WIPE}｢パ—ロットのつき1日
+ {C14}きくのすけ{C17}0:につき0れてゆけず
+                タカクラ｣{PAUSE}{EOM}
+
+Message 26:
+{WIPE}｢インデイゴのつき5日
+ 売れないものは入れるべからず｣{PAUSE}{WIPE}
+ とくしゅメッセ—ジ2ペ—ジめ 
+｢とくしゅメッセ—ジ内にCLEARを
+ いれたときのテスト イケてる?｣{PAUSE}{EOM}{EOM}{EOM}
+
+Message 27:
+{WIPE}{EOM}{EOM}{EOM}
+
+Message 28:
+｢お0はかえしておく｣(ここでお0を00)n
+所00に00されました {PAUSE}{EOM}{EOM}
+
+Message 29:
+Cultivated land.{EOM}
+
+Message 30:
+A {CROP_8002} seed
+is planted here.{PAUSE}{EOM}
+
+Message 31:
+A {CROP_8002} is
+sprouting.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+A {CROP_8002} is
+growing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+A {CROP_8002}
+flower will bloom
+soon.{PAUSE}{EOM}
+
+Message 34:
+A {CROP_8002}
+flower is blooming.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 35:
+A {CROP_8002} is
+growing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+This {CROP_8002}
+will wilt soon.{PAUSE}{EOM}{EOM}
+
+Message 37:
+This {CROP_8002}
+is dead.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+A new {CROP_8002}
+tree.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+Cultivated land.{EOM}
+
+Message 40:
+This {CROP_8002}
+is dead.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+This is a(an)
+{CROP_8002} tree.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+Water the plant.{EOM}{EOM}
+
+Message 43:
+Not good in this
+season.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 44:
+It doesn't grow
+near a tree.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+Soon to be
+harvested.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+Water, and it will
+sprout.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+The soil is not
+very fertile.{PAUSE}{EOM}{EOM}
+
+Message 48:
+The soil is
+fertile.{PAUSE}{EOM}{EOM}
+
+Message 49:
+The soil is very
+fertile.{PAUSE}{EOM}
+
+Message 50:
+Use a hoe if you
+don't want it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+
+{EOM}{EOM}{EOM}
+
+Message 52:
+Wow! I made some
+funky plant!{EOM}{EOM}{EOM}
+
+Message 53:
+Mmm... I made
+a strange plant!{EOM}
+
+Message 54:
+Mmm... Not that
+exciting...{EOM}
+
+Message 55:
+I had this once
+before.{EOM}{EOM}
+
+Message 56:
+It's the same thing,
+but somewhat...{EOM}
+
+Message 57:
+I've never seen it...{EOM}
+
+Message 58:
+This is probably
+a(an) {VAR_01}.{EOM}{EOM}
+
+Message 59:
+It turned out to be a
+{VAR_01}.{EOM}{EOM}
+
+Message 60:
+A(An) {VAR_01},
+right?{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+A strange {VAR_01}.{EOM}{EOM}
+
+Message 62:
+Hey! Name it,
+{PETE}.{EOM}{EOM}{EOM}
+
+Message 63:
+{VAR_02} is the
+season for this one.{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+That's about it.{EOM}{EOM}
+
+Message 65:
+It's {VAR_00}.{EOM}{EOM}{EOM}
+
+Message 66:
+It tastes...
+{VAR_01}.{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+{VAR_02} is the
+season for this one.{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+What's this
+{VAR_00} thing!?{EOM}
+
+Message 69:
+It's {VAR_01}!!{EOM}
+
+Message 70:
+What if I got a
+stomach ache!?{EOM}{EOM}
+

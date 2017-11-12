@@ -1,0 +1,1184 @@
+Message 0:
+Hi, {NICKNAME}. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+So you're open
+for business, huh? {PAUSE}{EOM}
+
+Message 2:
+{FACE_020004}There's nothing
+here? {PAUSE}{WIPE}
+Your customers won't
+like that. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+{FACE_020004}You've really got
+to put some effort
+into it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+{FACE_020019}{S_340193}You're such a
+scatterbrain... {PAUSE}{WIPE}
+The shop is open
+even though there's
+nothing to sell. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+You sold everything?
+{FACE_020003}I'm happy to
+hear that. {PAUSE}{EOM}
+
+Message 6:
+Am I in the way?
+It's okay if I just
+look, right? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+{S_340193}Do your best... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+You're selling all
+sorts of things.
+How are you doing?
+{CHOICE2 DEF0}
+Selling great.
+Not too good.{EOM}
+
+Message 9:
+{FACE_020003}Thats good news.
+Keep it up. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+Oh...
+Well you'll start
+selling soon! {PAUSE}{WIPE}
+{FACE_020003}Keep trying. {PAUSE}{EOM}{EOM}
+
+Message 11:
+I'm going now. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_020009}Huh... {PAUSE}{EOM}{EOM}
+
+Message 13:
+{FACE_020009}I'm really in a
+hole today. {PAUSE}{EOM}
+
+Message 14:
+Don't worry about
+me, {NICKNAME}. {PAUSE}{WIPE}
+Just stay focused
+on your work. {PAUSE}{EOM}{EOM}
+
+Message 15:
+I think I'll be
+better after a
+rest. {PAUSE}{WIPE}
+{FACE_020009}Sorry if I made you
+worried at all. {PAUSE}{EOM}{EOM}
+
+Message 16:
+{FACE_020004}...... {PAUSE}{EOM}{EOM}
+
+Message 17:
+{FACE_020004}.........
+Never mind... {PAUSE}{EOM}{EOM}
+
+Message 18:
+{FACE_020004}Even I can have a
+bad day once in a
+while. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+{FACE_020005}I said it's nothing.
+You'll just make
+me more angry. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+I'm so tired... {PAUSE}{EOM}{EOM}
+
+Message 21:
+{S_340193}{FACE_020003}Good morning,
+{NICKNAME}! {PAUSE}{EOM}{EOM}
+
+Message 22:
+Let's do our best
+again today! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 23:
+{FACE_020003}I love the
+morning...! {PAUSE}{EOM}
+
+Message 24:
+I wonder what I'll
+do today... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 25:
+{S_340193}{NICKNAME}, how
+was your work today?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 26:
+You did a good job
+today, {NICKNAME}. {PAUSE}{WIPE}
+Oh, you're not
+done yet? {PAUSE}{EOM}
+
+Message 27:
+{S_340193}Do your best. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+You can't sleep?
+Neither can I. {PAUSE}{EOM}
+
+Message 29:
+{S_340193}Sometimes it's nice
+to be up in the
+middle of the night. {PAUSE}{EOM}{EOM}
+
+Message 30:
+It's a little cold
+outside... {PAUSE}{WIPE}
+We should back
+in the house... {PAUSE}{EOM}
+
+Message 31:
+You can't sleep?
+Neither can I. {PAUSE}{EOM}
+
+Message 32:
+Sometimes it's nice
+to be up in the
+middle of the night. {PAUSE}{EOM}
+
+Message 33:
+{TATSUYA} looks so
+cute when asleep. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+{S_340193}Welcome home.
+Are you done with
+work for today? {PAUSE}{EOM}
+
+Message 35:
+You should at least
+relax when you're
+at home. {PAUSE}{EOM}{EOM}
+
+Message 36:
+What are you doing
+up so late? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+I'm going home. {PAUSE}{EOM}{EOM}
+
+Message 38:
+{TATSUYA} woke up
+and didn't see
+either of us. {PAUSE}{WIPE}
+He was so
+surprised. {PAUSE}{EOM}
+
+Message 39:
+Look who's here.
+What are you doing
+here? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+That looks so good!
+{CHOICE3 DEF0}
+Give.
+Don't give.
+Sell.{EOM}{EOM}
+
+Message 41:
+{S_340194}Really?
+{FACE_020003}You're so nice,
+{NICKNAME}. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+You're just showing
+it to me?
+{FACE_020003}{S_340193}You're so weird! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 43:
+{S_340194}Stop saying
+such silly things.
+Weirdo! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+That looks really
+delicious.{PAUSE}{EOM}{EOM}
+
+Message 45:
+That's wonderful.
+{CHOICE3 DEF0}
+Give.
+Don't give.
+Sell.{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+{S_340194}For me? {PAUSE}
+{FACE_020003}Thank you, I'm
+very happy. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+Thanks for showing
+that to me. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+{FACE_020009}{S_340194}I'm sorry, {NICKNAME}.
+I can't buy that.
+It's too expensive.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+It's wonderful. {PAUSE}{EOM}
+
+Message 50:
+What's that?
+You're going to
+eat that right? {PAUSE}{EOM}
+
+Message 51:
+{FACE_020019}I'll pass on that.{PAUSE}{EOM}{EOM}
+
+Message 52:
+What is that?
+Is that something
+you need? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+I'll just accept
+the thought for now.{PAUSE}{WIPE}
+Get that the heck
+out of here. {PAUSE}{EOM}
+
+Message 54:
+{S_340193}{FACE_020003}Isn't it nice,
+{TATSUYA}?{PAUSE}{WIPE}
+See how Daddy picks
+you up? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+Try not to over
+excite him. {PAUSE}{WIPE}
+He takes forever
+to put him to bed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+Oh, {DOG}!
+Are you a hungry
+doggy today? {PAUSE}{EOM}{EOM}
+
+Message 57:
+{DOG} is so cute.
+Yes, he is! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+Oh, {NAME?}.
+Are you saying
+goodbye? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+{NAME?}, you've got
+such angelic eyes. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+Hello, cutie.
+You're a very
+pretty white. {PAUSE}{EOM}{EOM}
+
+Message 61:
+You know, thinking
+of chickens... {PAUSE}{WIPE}
+{TATSUYA} loves
+chasing them
+around... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+Chickens really help
+us out by laying
+delicious eggs. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+If you raise your
+chickens with love,
+they'll lay {PAUSE}
+golden eggs right? {PAUSE}{WIPE}
+Let's take good
+care of them. {PAUSE}{EOM}{EOM}
+
+Message 64:
+Everyday you should
+watch whether or not
+they're happy. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+Aw, how cute.
+His head is a
+perfect circle. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+Hope you grow up
+quickly. {PAUSE}{WIPE}
+It'll be nice when
+you can lay eggs. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+{S_340193}How cute. {PAUSE}{EOM}{EOM}
+
+Message 68:
+{S_340193}Oh! Hee hee hee!
+How are you today
+Mr. Duck? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+That big beak
+is very cute. {PAUSE}{EOM}
+
+Message 70:
+What a small little
+duck.
+Grow up quickly! {PAUSE}{EOM}
+
+Message 71:
+Everyday you should
+watch whether or not
+they're happy. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+Planting seeds?{PAUSE}{WIPE}
+Make sure that your
+planting time is
+accurate. {PAUSE}{EOM}
+
+Message 73:
+I hope we can get
+some large crops.{PAUSE}{WIPE}
+Let's take good
+care of them. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+Oh, those are
+your crops. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+I'll be happy when
+we have a large
+harvest. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+If you raise crops
+with love, they'll
+taste sweet. {PAUSE}{EOM}{EOM}
+
+Message 77:
+That's some
+delicious looking
+milk. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+A milk's taste
+depends on how the
+cow is raised. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 79:
+If your cows are
+raised properly,
+they'll give you {PAUSE}
+lots and lots
+of milk in return. {PAUSE}{EOM}
+
+Message 80:
+Be careful not to
+spill any of it. {PAUSE}{EOM}
+
+Message 81:
+Oh, that's some
+delicious looking
+cheese. {PAUSE}{WIPE}
+Did you make it,
+{NICKNAME}? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+It's nice to be able
+to make cheese at
+home. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+Next time we should
+bring some to
+{VESTA}. {PAUSE}{WIPE}
+That's a good
+idea right? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+Oh, that's some
+delicious looking
+butter. {PAUSE}{WIPE}
+Did you make it,
+{NICKNAME}? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+I've made butter
+before too. {PAUSE}{WIPE}
+It was hard because
+it was handmade. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+It's great to use
+butter in your
+cooking. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+An egg.
+Was this from one
+of the hens? {PAUSE}{EOM}{EOM}
+
+Message 88:
+We need to be
+grateful to our
+chickens. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+Oh you caught
+a fish?
+Nice job. {PAUSE}{EOM}{EOM}
+
+Message 90:
+Today we'll have
+seafood. {PAUSE}{WIPE}
+I wonder how we'll
+prepare it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 91:
+Nice and fresh. {PAUSE}{EOM}{EOM}
+
+Message 92:
+That's delicious
+looking wild plant. {PAUSE}{WIPE}
+Did you pick that
+from the {C14}{STRUC_26}{C17}? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+{C14}{STRUC_30}{C17}
+has many blessing
+from Nature. {PAUSE}{EOM}
+
+Message 94:
+You made that
+by yourself? {PAUSE}{WIPE}
+It looks really
+good.
+{CHOICE2 DEF0}
+Want some?
+It's all for me.{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+Really?
+I'll enjoy it
+nice and slow then. {PAUSE}{WIPE}
+{FACE_020003}Thank you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+Hmmm.
+Next time will you
+cook for me? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 97:
+That's a good hoe. {PAUSE}{WIPE}
+You could really
+enjoy your work
+with that. {PAUSE}{EOM}{EOM}
+
+Message 98:
+You have to dig up
+the ground first
+to plant crops. {PAUSE}{EOM}{EOM}
+
+Message 99:
+That's a very
+nice hoe. {PAUSE}{WIPE}
+It looks very
+efficient. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+You can harvest
+a lot of crops
+with that. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 101:
+That's a brand
+new hoe. {PAUSE}{WIPE}
+Hurry up and
+use it already. {PAUSE}{EOM}
+
+Message 102:
+I hope that you get
+a lot of use out
+of it. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+That hoe is really
+broken in. {PAUSE}{WIPE}
+You can tell that
+you use it a lot. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+It may be hard to
+grow crops, but it's
+also fun right? {PAUSE}{EOM}
+
+Message 105:
+That hoe has really
+been used. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 106:
+It may not look
+good , but it still
+works. {PAUSE}{WIPE}
+It's better to have
+tools that are
+broken in anyway. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+That sickle looks
+very sharp. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+Be careful not to
+hurt yourself. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+That sickle really
+looks sharp. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+Don't injure
+yourself, okay? {PAUSE}{EOM}
+
+Message 111:
+That's a brand new
+sickle. {PAUSE}{EOM}{EOM}
+
+Message 112:
+Hope your hand gets
+used to it quickly. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+That sickle has
+really adapted to
+your hand well. {PAUSE}{WIPE}
+You can tell
+it's used a lot. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+When I would help
+harvest the crops,
+I used that too. {PAUSE}{EOM}{EOM}
+
+Message 115:
+This sickle has
+been used for a
+long time. {PAUSE}{EOM}{EOM}
+
+Message 116:
+It's more important
+to have a sickle
+that you're used to,{PAUSE}
+than to have one
+that is very sharp. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 117:
+That's a very nice
+watering can. {PAUSE}{WIPE}
+It's probably easy
+to carry water. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+Don't forget to
+water the plants
+everyday. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 119:
+Nice clean tools
+make you feel better
+about work. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+Good luck with
+your watering. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 121:
+The plants will be
+happy to be watered
+by you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+Make sure that
+everyone gets
+some water. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+Wow, that watering
+can has seen much
+better days. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+I guess as long as
+it doesn't leak
+it's okay. {PAUSE}{EOM}
+
+Message 125:
+Oh, you're going
+milking now? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+I'm sure the cows
+are happy if you're
+using nice tools. {PAUSE}{EOM}{EOM}
+
+Message 127:
+Oh, you're going
+milking now? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+It's nice when we
+get a lot of milk. {PAUSE}{EOM}{EOM}
+
+Message 129:
+You're going to
+milk the cows
+with that? {PAUSE}{EOM}
+
+Message 130:
+It might be better
+if you bought a
+new one instead. {PAUSE}{EOM}{EOM}
+
+Message 131:
+Are you going to
+shear the sheep
+now? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+It looks like it
+will take a long
+time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+New clippers. {PAUSE}{WIPE}
+Looks like you'll
+be having fun next
+time you shear. {PAUSE}{EOM}{EOM}
+
+Message 134:
+They've grown
+a lot of fleece
+for you, so make {PAUSE}
+sure you give
+the sheep a good
+shearing. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 135:
+Are you going to
+shear the sheep
+now? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+Have you gotten used
+to the shears? {PAUSE}{EOM}{EOM}
+
+Message 137:
+Oh dear... {PAUSE}{WIPE}
+Those shears have
+really been used
+a lot... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+Broken-in tools are
+always much more
+productive. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 139:
+You bought a new
+tool?
+That's nice. {PAUSE}{EOM}{EOM}
+
+Message 140:
+Good luck with
+work. {PAUSE}{EOM}
+
+Message 141:
+That tool looks
+almost broken-in. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+That looks really
+easy to use. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 143:
+Oh dear...
+It's been used
+so much. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+That tools really
+suits you well,
+{NICKNAME}. {PAUSE}{EOM}
+
+Message 145:
+Oooh...
+You found such a
+pretty stone. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 146:
+{S_340193}It's very pretty. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 147:
+I could be happy by
+just gazing at
+the stone. {PAUSE}{EOM}
+
+Message 148:
+It's really
+wonderful. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 149:
+Did you find that
+over by {CARTER}'s
+site? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 150:
+I guess you like
+that too. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+It looks cute and
+it might even be
+healthy for you. {PAUSE}{EOM}{EOM}
+
+Message 152:
+It might be good to
+mix in next time
+you're cooking... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+Do you want to
+listen to it
+together? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+It'd be nice to have
+music I could go
+relax to. {PAUSE}{EOM}{EOM}
+
+Message 155:
+It's the ingredient
+you got from {RUBY}. {PAUSE}{WIPE}
+Planning on trying
+it next time you
+are cooking? {PAUSE}{EOM}{EOM}
+
+Message 156:
+What flavor is this?
+I want to try it
+myself next time. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+{S_340193}Oooh, that's such a
+nice medal! {PAUSE}{WIPE}
+That's {WALLY}'s
+right? {PAUSE}{EOM}{EOM}
+
+Message 158:
+I used to have
+something like
+that... {PAUSE}{EOM}{EOM}
+
+Message 159:
+That's a very
+nice decoration... {PAUSE}{EOM}{EOM}
+
+Message 160:
+Take good care
+of it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 161:
+That music looks
+difficult to
+play. {PAUSE}{EOM}
+
+Message 162:
+So {LUMINA}
+gave up on this
+piece? {PAUSE}{EOM}{EOM}
+
+Message 163:
+{LUMINA}
+wishes she could be
+like {NICKNAME}. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 164:
+I wonder if she just
+couldn't handle the
+intense practice... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+{FACE_020002}...!
+You surprised me.
+Does that have
+gunpowder inside? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 166:
+{FACE_020005}You can't go walking
+around with a thing
+like that... {PAUSE}{WIPE}
+And don't even
+THINK of keeping
+it at home. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 167:
+What are you going
+to do with that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 168:
+Okay okay,
+I got it... {PAUSE}{EOM}{EOM}
+
+Message 169:
+Aunt {VESTA} used
+to bring me fresh
+vegetables when I {PAUSE}
+used to live in
+{C14}{STRUC_31}{C17}
+with my parents. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 170:
+My parents thought
+it would be good
+for my health. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+Nobdy agrees with
+Aunt {VESTA}
+when she said to {PAUSE}
+come move out here
+to this valley. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 172:
+I'm glad to have
+come here to
+{C14}{STRUC_30}{C17}. {PAUSE}{WIPE}
+Even if I am
+separated from
+my parents now... {PAUSE}{EOM}
+
+Message 173:
+I was constantly
+being pressured to
+get married. {PAUSE}{WIPE}
+My aunt would always
+try to set me up
+with some nice guy. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 174:
+{FACE_02000A}I wonder what my
+life would be like
+if I hadn't gotten {PAUSE}
+married to you
+first... {PAUSE}{WIPE}
+Hmmm...
+I don't even want
+to picture it. {PAUSE}{EOM}{EOM}
+
+Message 175:
+I'm really very
+surprised your
+cooking is good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 176:
+You really made
+this well. {PAUSE}{WIPE}
+Keep trying to
+get better. {PAUSE}{EOM}{EOM}
+
+Message 177:
+Everyone says how
+{FARM}'s animals
+are superior. {PAUSE}{WIPE}
+{FACE_020003}Thank goodness. {PAUSE}{EOM}{EOM}
+
+Message 178:
+I'm impressed by
+how well you grow
+your crops. {PAUSE}{EOM}{EOM}
+
+Message 179:
+Your cooking is
+better than mine,
+{NICKNAME}. {PAUSE}{WIPE}
+Where did you
+learn? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 180:
+{NICKNAME}, you've
+gotten really good
+at raising animals. {PAUSE}{WIPE}
+It's almost like
+you were raised
+on a farm. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+You've gotten very
+good at growing
+crops. {PAUSE}{WIPE}
+You're probably
+even better than
+me at it. {PAUSE}{EOM}
+
+Message 182:
+You really like
+cooking, don't you?{PAUSE}{WIPE}
+If you stick to it,
+you can become a
+great chef. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+What would happen
+if you tried raising
+other animals? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 184:
+You don't really
+like raising crops? {PAUSE}{WIPE}
+If you grow them
+the right way, the
+rewards are great. {PAUSE}{EOM}
+
+Message 185:
+{NICKNAME}, why don't
+you learn a little
+more about cooking? {PAUSE}{WIPE}
+You'd be in trouble
+if I ever got sick. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+I plan on living in
+{C14}{STRUC_30}{C17}
+all my life. {PAUSE}{WIPE}
+You too, right? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+I hope this place
+never ever changes...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 188:
+I'm really glad I
+said no to the
+first proposal! {PAUSE}{WIPE}
+I wonder what would
+happen if I hadn't
+married you? {PAUSE}{EOM}{EOM}
+
+Message 189:
+{TATSUYA} thinks
+{C14}{STRUC_30}{C17}
+is wonderful. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 190:
+I wasn't always
+so strong... {PAUSE}{WIPE}
+Now I can't believe
+I was weak before.{PAUSE}{EOM}{EOM}
+
+Message 191:
+I think the only
+reason I developed
+healthy at all is {PAUSE}
+thanks to my aunt
+not letting me stay
+inside all the time. {PAUSE}{EOM}{EOM}
+
+Message 192:
+The air here is
+great. {PAUSE}{WIPE}
+I could just go
+anywhere I want. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 193:
+It was so much
+colder last Spring. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+All living things
+are happy when it
+gets warm. {PAUSE}{EOM}{EOM}
+
+Message 195:
+{FACE_02001A}Mmmm...
+I'm getting sleepy.
+{S_340193}Hee hee. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+Today's another
+hot day. {PAUSE}{EOM}
+
+Message 197:
+{NICKNAME}, try to
+stay in the shade as
+much as possible. {PAUSE}{EOM}
+
+Message 198:
+You really need to
+eat properly in
+the Summer. {PAUSE}{EOM}{EOM}
+
+Message 199:
+Is {TATSUYA}
+getting enough
+fluids? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 200:
+Today is a nice
+cool day. {PAUSE}{EOM}
+
+Message 201:
+I couldn't believe
+how hot it was
+last Fall. {PAUSE}{EOM}{EOM}
+
+Message 202:
+These are the days
+where time just
+flows by slowly. {PAUSE}{WIPE}
+Perfect for
+reading a lot
+of books. {PAUSE}{EOM}
+
+Message 203:
+{TATSUYA} loves
+finding things in
+the forest. {PAUSE}{WIPE}
+How cute. {PAUSE}{EOM}
+
+Message 204:
+Today's another
+chilly day... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 205:
+Are you feeling
+okay, {NICKNAME}? {PAUSE}{WIPE}
+You're not catching
+a cold are you? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+The tress of the
+{C14}{STRUC_26}{C17}
+wait for Spring. {PAUSE}{EOM}
+
+Message 207:
+{S_340193}La la la ♪
+Oh {NICKNAME}. {PAUSE}{WIPE}
+How long have
+you been there? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 208:
+Washing dishes is
+fun. {PAUSE}{WIPE}
+They get all clean
+and shiny. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+I came to see that
+the room isn't all
+messed up. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 210:
+{NICKNAME}, keep an
+eye on our son
+too, okay? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 211:
+I wonder if our son
+is getting along
+with everybody here. {PAUSE}{EOM}{EOM}
+
+Message 212:
+I wonder what boys
+are into these days. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 213:
+That was great.
+Time just slips away
+when I read. {PAUSE}{EOM}
+
+Message 214:
+I think a book's
+impact changes each
+time you read it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 215:
+{NICKNAME}, I know
+your really busy
+with your work, {PAUSE}
+but it would be
+good for you to
+read occasionally. {PAUSE}{EOM}
+
+Message 216:
+I'm finally done
+with the housework
+for today. {PAUSE}{EOM}
+
+Message 217:
+It's important to
+relax. {PAUSE}{WIPE}
+Can't go on
+without rest. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 218:
+The skin of oranges
+or potatoes is
+great for sucking {PAUSE}
+up any excess
+oil. {PAUSE}{WIPE}
+I guess you learn
+a few things by
+being married. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 219:
+Our son can help
+with the housework
+too, you know. {PAUSE}{WIPE}
+People should always
+their fair share
+and help out. {PAUSE}{EOM}
+
+Message 220:
+I'm grateful, but
+I can't accept
+right now. {PAUSE}{WIPE}
+Sorry...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 221:
+I'll just take
+your good intentions
+for now. {PAUSE}{EOM}
+
+Message 222:
+...... {PAUSE}{EOM}{EOM}
+
+Message 223:
+......... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 224:
+{TATSUYA}, doesn't
+it feel great?♥{PAUSE}{EOM}{EOM}{EOM}
+
+Message 225:
+{FACE_020003}All clean,
+{TATSUYA}♪{PAUSE}{EOM}{EOM}{EOM}
+
+Message 226:
+Poor little {TATSUYA}. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

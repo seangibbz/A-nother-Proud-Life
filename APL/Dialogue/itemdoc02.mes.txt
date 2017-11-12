@@ -1,0 +1,2259 @@
+Message 0:
+{C13}{ITEM_029E}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+{C13}{ITEM_029F}A
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Very Slow{PAUSE}{EOM}
+
+Message 2:
+{C13}{ITEM_02A0}A
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Slow{PAUSE}{EOM}
+
+Message 3:
+{C13}{ITEM_02A1}A
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Very Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+{C13}{ITEM_02A2}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+{C13}{ITEM_02A3}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Very Slow{PAUSE}{EOM}
+
+Message 6:
+{C13}{ITEM_02A4}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Very Slow{PAUSE}{EOM}
+
+Message 7:
+{C13}{ITEM_02A5}S
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Very Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+{C13}{ITEM_02A6}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+{C13}{ITEM_02A7}B
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}
+
+Message 10:
+{C13}{ITEM_02A8}B
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}
+
+Message 11:
+{C13}{ITEM_02A9}B
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{C13}{ITEM_02AA}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+{C13}{ITEM_02AB}A
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}
+
+Message 14:
+{C13}{ITEM_02AC}A
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}
+
+Message 15:
+{C13}{ITEM_02AD}A
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{C13}{ITEM_02AE}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+{C13}{ITEM_02AF}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}
+
+Message 18:
+{C13}{ITEM_02B0}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}
+
+Message 19:
+{C13}{ITEM_02B1}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}
+
+Message 20:
+{C13}{ITEM_02B2}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{C13}{ITEM_02B3}B
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 22:
+{C13}{ITEM_02B4}B
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 23:
+{C13}{ITEM_02B5}B
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+{C13}{ITEM_02B6}B
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+{C13}{ITEM_02B7}A
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 26:
+{C13}{ITEM_02B8}A
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 27:
+{C13}{ITEM_02B9}A
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+{C13}{ITEM_02BA}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+{C13}{ITEM_02BB}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 30:
+{C13}{ITEM_02BC}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 31:
+{C13}{ITEM_02BD}S
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+{C13}{ITEM_02BE}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+{C13}{ITEM_02BF}B
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 34:
+{C13}{ITEM_02C0}B
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 35:
+{C13}{ITEM_02C1}B
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+{C13}{ITEM_02C2}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+{C13}{ITEM_02C3}A
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 38:
+{C13}{ITEM_02C4}A
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 39:
+{C13}{ITEM_02C5}A
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+{C13}{ITEM_02C6}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+{C13}{ITEM_02C7}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 42:
+{C13}{ITEM_02C8}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 43:
+{C13}{ITEM_02C9}S
+{C17}Seasons: Any
+Soil: Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+{C13}{ITEM_02CA}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+{C13}{ITEM_02CB}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+{C13}{ITEM_02CC}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 47:
+{C13}{ITEM_02CD}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+{C13}{ITEM_02CE}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+{C13}{ITEM_02CF}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+{C13}{ITEM_02D0}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 51:
+{C13}{ITEM_02D1}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 52:
+{C13}{ITEM_02D2}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+{C13}{ITEM_02D3}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+{C13}{ITEM_02D4}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 55:
+{C13}{ITEM_02D5}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+{C13}{ITEM_02D6}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+{C13}{ITEM_02D7}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+{C13}{ITEM_02D8}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+{C13}{ITEM_02D9}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 60:
+{C13}{ITEM_02DA}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+{C13}{ITEM_02DB}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 62:
+{C13}{ITEM_02DC}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{C13}{ITEM_02DD}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 64:
+{C13}{ITEM_02DE}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+{C13}{ITEM_02DF}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 66:
+{C13}{ITEM_02E0}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+{C13}{ITEM_02E1}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 68:
+{C13}{ITEM_02E2}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+{C13}{ITEM_02E3}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+{C13}{ITEM_02E4}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 71:
+{C13}{ITEM_02E5}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+{C13}{ITEM_02E6}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 73:
+{C13}{ITEM_02E7}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+{C13}{ITEM_02E8}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+{C13}{ITEM_02E9}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 76:
+{C13}{ITEM_02EA}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+{C13}{ITEM_02EB}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+{C13}{ITEM_02EC}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 79:
+{C13}{ITEM_02ED}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 80:
+{C13}{ITEM_02EE}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+{C13}{ITEM_02EF}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+{C13}{ITEM_02F0}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 83:
+{C13}{ITEM_02F1}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+{C13}{ITEM_02F2}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{C13}{ITEM_02F3}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+{C13}{ITEM_02F4}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 87:
+{C13}{ITEM_02F5}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+{C13}{ITEM_02F6}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 89:
+{C13}{ITEM_02F7}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+{C13}{ITEM_02F8}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 91:
+{C13}{ITEM_02F9}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 92:
+{C13}{ITEM_02FA}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+{C13}{ITEM_02FB}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+{C13}{ITEM_02FC}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 95:
+{C13}{ITEM_02FD}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 96:
+{C13}{ITEM_02FE}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+{C13}{ITEM_02FF}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+{C13}{ITEM_0300}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 99:
+{C13}{ITEM_0301}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+{C13}{ITEM_0302}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 101:
+{C13}{ITEM_0303}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+{C13}{ITEM_0304}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 103:
+{C13}{ITEM_0305}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+{C13}{ITEM_0306}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 105:
+{C13}{ITEM_0307}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+{C13}{ITEM_0308}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 107:
+{C13}{ITEM_0309}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 108:
+{C13}{ITEM_030A}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+{C13}{ITEM_030B}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+{C13}{ITEM_030C}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 111:
+{C13}{ITEM_030D}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 112:
+{C13}{ITEM_030E}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 113:
+{C13}{ITEM_030F}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+{C13}{ITEM_0310}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 115:
+{C13}{ITEM_0311}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 116:
+{C13}{ITEM_0312}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+{C13}{ITEM_0313}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+{C13}{ITEM_0314}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 119:
+{C13}{ITEM_0315}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+{C13}{ITEM_0316}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 121:
+{C13}{ITEM_0317}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 122:
+{C13}{ITEM_0318}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 123:
+{C13}{ITEM_0319}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+{C13}{ITEM_031A}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+{C13}{ITEM_031B}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+{C13}{ITEM_031C}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 127:
+{C13}{ITEM_031D}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 128:
+{C13}{ITEM_031E}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 129:
+{C13}{ITEM_031F}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+{C13}{ITEM_0320}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 131:
+{C13}{ITEM_0321}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+{C13}{ITEM_0322}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+{C13}{ITEM_0323}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 134:
+{C13}{ITEM_0324}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 135:
+{C13}{ITEM_0325}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+{C13}{ITEM_0326}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+{C13}{ITEM_0327}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+{C13}{ITEM_0328}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 139:
+{C13}{ITEM_0329}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+{C13}{ITEM_032A}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+{C13}{ITEM_032B}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Ferile
+Growth: Slow{PAUSE}{EOM}{EOM}
+
+Message 142:
+{C13}{ITEM_032C}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 143:
+{C13}{ITEM_032D}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 144:
+{C13}{ITEM_032E}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+{C13}{ITEM_032F}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 146:
+{C13}{ITEM_0330}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 147:
+{C13}{ITEM_0331}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+{C13}{ITEM_0332}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 149:
+{C13}{ITEM_0333}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Fertile
+Growth: Slow{PAUSE}{EOM}
+
+Message 150:
+{C13}{ITEM_0334}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 151:
+{C13}{ITEM_0335}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 152:
+{C13}{ITEM_0336}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+{C13}{ITEM_0337}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 154:
+{C13}{ITEM_0338}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 155:
+{C13}{ITEM_0339}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+{C13}{ITEM_033A}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 157:
+{C13}{ITEM_033B}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 158:
+{C13}{ITEM_033C}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 159:
+{C13}{ITEM_033D}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+{C13}{ITEM_033E}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 161:
+{C13}{ITEM_033F}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 162:
+{C13}{ITEM_0340}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 163:
+{C13}{ITEM_0341}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 164:
+{C13}{ITEM_0342}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 165:
+{C13}{ITEM_0343}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 166:
+{C13}{ITEM_0344}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 167:
+{C13}{ITEM_0345}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 168:
+{C13}{ITEM_0346}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 169:
+{C13}{ITEM_0347}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+{C13}{ITEM_0348}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 171:
+{C13}{ITEM_0349}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 172:
+{C13}{ITEM_034A}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 173:
+{C13}{ITEM_034B}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+{C13}{ITEM_034C}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 175:
+{C13}{ITEM_034D}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 176:
+{C13}{ITEM_034E}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 177:
+{C13}{ITEM_034F}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+{C13}{ITEM_0350}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 179:
+{C13}{ITEM_0351}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+{C13}{ITEM_0352}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+{C13}{ITEM_0353}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 182:
+{C13}{ITEM_0354}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 183:
+{C13}{ITEM_0355}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 184:
+{C13}{ITEM_0356}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+{C13}{ITEM_0357}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+{C13}{ITEM_0358}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 187:
+{C13}{ITEM_0359}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 188:
+{C13}{ITEM_035A}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 189:
+{C13}{ITEM_035B}B
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 190:
+{C13}{ITEM_035C}B
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 191:
+{C13}{ITEM_035D}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+{C13}{ITEM_035E}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 193:
+{C13}{ITEM_035F}A
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+{C13}{ITEM_0360}A
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 195:
+{C13}{ITEM_0361}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 196:
+{C13}{ITEM_0362}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 197:
+{C13}{ITEM_0363}S
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 198:
+{C13}{ITEM_0364}S
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 199:
+{C13}{ITEM_0365}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 200:
+{C13}{ITEM_0366}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+{C13}{ITEM_0367}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 202:
+{C13}{ITEM_0368}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 203:
+{C13}{ITEM_0369}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 204:
+{C13}{ITEM_036A}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 205:
+{C13}{ITEM_036B}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 206:
+{C13}{ITEM_036C}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 207:
+{C13}{ITEM_036D}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 208:
+{C13}{ITEM_036E}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+{C13}{ITEM_036F}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 210:
+{C13}{ITEM_0370}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 211:
+{C13}{ITEM_0371}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 212:
+{C13}{ITEM_0372}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+{C13}{ITEM_0373}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 214:
+{C13}{ITEM_0374}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 215:
+{C13}{ITEM_0375}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 216:
+{C13}{ITEM_0376}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+{C13}{ITEM_0377}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 218:
+{C13}{ITEM_0378}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 219:
+{C13}{ITEM_0379}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 220:
+{C13}{ITEM_037A}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 221:
+{C13}{ITEM_037B}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 222:
+{C13}{ITEM_037C}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 223:
+{C13}{ITEM_037D}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 224:
+{C13}{ITEM_037E}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+{C13}{ITEM_037F}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 226:
+{C13}{ITEM_0380}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 227:
+{C13}{ITEM_0381}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 228:
+{C13}{ITEM_0382}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 229:
+{C13}{ITEM_0383}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 230:
+{C13}{ITEM_0384}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 231:
+{C13}{ITEM_0385}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 232:
+{C13}{ITEM_0386}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 233:
+{C13}{ITEM_0387}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 234:
+{C13}{ITEM_0388}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 235:
+{C13}{ITEM_0389}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 236:
+{C13}{ITEM_038A}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 237:
+{C13}{ITEM_038B}B
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 238:
+{C13}{ITEM_038C}B
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 239:
+{C13}{ITEM_038D}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 240:
+{C13}{ITEM_038E}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 241:
+{C13}{ITEM_038F}A
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 242:
+{C13}{ITEM_0390}A
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 243:
+{C13}{ITEM_0391}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 244:
+{C13}{ITEM_0392}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 245:
+{C13}{ITEM_0393}S
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 246:
+{C13}{ITEM_0394}S
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 247:
+{C13}{ITEM_0395}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 248:
+{C13}{ITEM_0396}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 249:
+{C13}{ITEM_0397}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 250:
+{C13}{ITEM_0398}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 251:
+{C13}{ITEM_0399}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 252:
+{C13}{ITEM_039A}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 253:
+{C13}{ITEM_039B}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 254:
+{C13}{ITEM_039C}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 255:
+{C13}{ITEM_039D}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 256:
+{C13}{ITEM_039E}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 257:
+{C13}{ITEM_039F}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 258:
+{C13}{ITEM_03A0}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 259:
+{C13}{ITEM_03A1}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 260:
+{C13}{ITEM_03A2}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 261:
+{C13}{ITEM_03A3}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 262:
+{C13}{ITEM_03A4}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 263:
+{C13}{ITEM_03A5}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 264:
+{C13}{ITEM_03A6}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 265:
+{C13}{ITEM_03A7}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 266:
+{C13}{ITEM_03A8}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 267:
+{C13}{ITEM_03A9}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 268:
+{C13}{ITEM_03AA}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 269:
+{C13}{ITEM_03AB}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 270:
+{C13}{ITEM_03AC}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 271:
+{C13}{ITEM_03AD}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 272:
+{C13}{ITEM_03AE}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 273:
+{C13}{ITEM_03AF}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 274:
+{C13}{ITEM_03B0}B
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 275:
+{C13}{ITEM_03B1}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 276:
+{C13}{ITEM_03B2}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 277:
+{C13}{ITEM_03B3}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 278:
+{C13}{ITEM_03B4}A
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 279:
+{C13}{ITEM_03B5}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 280:
+{C13}{ITEM_03B6}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 281:
+{C13}{ITEM_03B7}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 282:
+{C13}{ITEM_03B8}S
+{C17}Seasons:
+Fall only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 283:
+{C13}{ITEM_03B9}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 284:
+{C13}{ITEM_03BA}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 285:
+{C13}{ITEM_03BB}B
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 286:
+{C13}{ITEM_03BC}B
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 287:
+{C13}{ITEM_03BD}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 288:
+{C13}{ITEM_03BE}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 289:
+{C13}{ITEM_03BF}A
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 290:
+{C13}{ITEM_03C0}A
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 291:
+{C13}{ITEM_03C1}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 292:
+{C13}{ITEM_03C2}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 293:
+{C13}{ITEM_03C3}S
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 294:
+{C13}{ITEM_03C4}S
+{C17}Seasons:
+Winter only{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 295:
+{C13}{ITEM_03C5}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Very Fast{PAUSE}{EOM}{EOM}
+
+Message 296:
+{C13}{ITEM_03C6}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 297:
+{C13}{ITEM_03C7}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 298:
+{C13}{ITEM_03C8}B
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 299:
+{C13}{ITEM_03C9}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 300:
+{C13}{ITEM_03CA}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 301:
+{C13}{ITEM_03CB}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 302:
+{C13}{ITEM_03CC}A
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 303:
+{C13}{ITEM_03CD}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 304:
+{C13}{ITEM_03CE}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 305:
+{C13}{ITEM_03CF}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 306:
+{C13}{ITEM_03D0}S
+{C17}Seasons:
+Spring only{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}
+
+Message 307:
+{C13}{ITEM_03D1}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}
+
+Message 308:
+{C13}{ITEM_03D2}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 309:
+{C13}{ITEM_03D3}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 310:
+{C13}{ITEM_03D4}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 311:
+{C13}{ITEM_03D5}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 312:
+{C13}{ITEM_03D6}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 313:
+{C13}{ITEM_03D7}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 314:
+{C13}{ITEM_03D8}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 315:
+{C13}{ITEM_03D9}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 316:
+{C13}{ITEM_03DA}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 317:
+{C13}{ITEM_03DB}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 318:
+{C13}{ITEM_03DC}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 319:
+{C13}{ITEM_03DD}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 320:
+{C13}{ITEM_03DE}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 321:
+{C13}{ITEM_03DF}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 322:
+{C13}{ITEM_03E0}B
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 323:
+{C13}{ITEM_03E1}B
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 324:
+{C13}{ITEM_03E2}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 325:
+{C13}{ITEM_03E3}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 326:
+{C13}{ITEM_03E4}A
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 327:
+{C13}{ITEM_03E5}A
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 328:
+{C13}{ITEM_03E6}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 329:
+{C13}{ITEM_03E7}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Very Fertile
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 330:
+{C13}{ITEM_03E8}S
+{C17}Seasons:
+Summer only{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}
+
+Message 331:
+{C13}{ITEM_03E9}S
+{C17}Seasons: Any
+Soil: Very Fertile{PAUSE}{WIPE}
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}
+
+Message 332:
+{C13}{ITEM_03EA}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Slow{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 333:
+{C13}{ITEM_03EB}B
+{C17}Any soil.
+Harvest in Summer.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 334:
+{C13}{ITEM_03EC}A
+{C17}Any soil.
+Harvest in Summer.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

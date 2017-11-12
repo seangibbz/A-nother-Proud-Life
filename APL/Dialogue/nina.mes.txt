@@ -1,0 +1,787 @@
+Message 0:
+I think it's my
+bedtime...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+It's very late...
+Will you please head
+on home? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+Well, good night.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+I need to be going
+soon, so...{PAUSE}{EOM}
+
+Message 4:
+I really do need
+to be going so...{PAUSE}{EOM}{EOM}
+
+Message 5:
+See you another
+time...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+Hello.
+Can I just take
+look?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+{PETE}, can
+you help me? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+Oh, that's too bad.
+Everything is sold
+out? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+I guess I've no other
+choice than to come
+back here again.{PAUSE}{EOM}{EOM}
+
+Message 10:
+Oh, pay no mind
+to me. {PAUSE}{WIPE}
+Sometimes I just
+enjoy looking
+around...{PAUSE}{EOM}
+
+Message 11:
+I wonder if there's
+anything else here?
+Hmm... Let's see...{PAUSE}{EOM}{EOM}
+
+Message 12:
+Sorry to be a bother,
+but I'm all set
+for now. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+Oh, well if it isn't
+our new arrival,
+{PETE}. {PAUSE}{WIPE}
+As you can see,
+my husband and I are
+old...{PAUSE}{WIPE}
+We live in this
+valley quietly.{PAUSE}{EOM}{EOM}
+
+Message 14:
+{FACE_120002}......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+{FACE_120002}...Hah......
+As you get old,
+problems start to{PAUSE}
+pile up. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{FACE_120002}Yes, do you need
+something from me...?{PAUSE}{EOM}
+
+Message 17:
+{FACE_120002}If you don't need
+me for anything,
+then I'd prefer {PAUSE}
+to just be left
+alone. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+{S_340161}Why, good morning to
+you. {PAUSE}{EOM}
+
+Message 19:
+{S_340161}A very good
+afternoon to you. {PAUSE}{EOM}{EOM}
+
+Message 20:
+{S_340161}A good evening
+to you dear. {PAUSE}{EOM}{EOM}
+
+Message 21:
+{S_340161}Good evening to
+you dear. {PAUSE}{WIPE}
+But what on earth
+are you doing up
+this late at night? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+{S_340161}Oh my, {PETE}.
+What are you doing
+up this late? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+{S_340161}Oh my, {PETE}.
+How nice of you
+to come. {PAUSE}{WIPE}
+Please, make
+yourself
+comfortable. {PAUSE}{EOM}{EOM}
+
+Message 24:
+{S_340161}What brings you here
+so late at night? {PAUSE}{WIPE}
+Is there something
+the matter?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 25:
+{S_340161}Oh my, {PETE}.
+Imagine meeting you
+here of all places. {PAUSE}{EOM}{EOM}
+
+Message 26:
+Oh, you're giving
+this to me? {PAUSE}{WIPE}
+{FACE_120003}Why, I don't know
+what to say really.
+It just happens to{PAUSE}
+be my favorite.
+{CHOICE Y/N DEF1}{EOM}
+
+Message 27:
+{S_340160}{FACE_120003}{S_340160}Why, thank you,
+thank you! {PAUSE}{WIPE}
+I'm really quite
+grateful to you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+{FACE_120002}I see... That's too
+bad, but it's your
+choice...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 29:
+Yes, that's
+my favorite. {PAUSE}{EOM}
+
+Message 30:
+Hmmmm...that's
+very nice. {PAUSE}{WIPE}
+{FACE_120003}Oh dear, you're
+offering it to me?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 31:
+I really do have
+a bit of a weakness
+for that...{PAUSE}{EOM}
+
+Message 32:
+{FACE_120009}So sorry, but that
+really isn't my
+cup of tea dear...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+I did like that
+when I was younger...{PAUSE}{WIPE}
+But tastes change
+as you get older.
+I'm quite sorry. {PAUSE}{EOM}
+
+Message 34:
+I don't really
+fancy that at all. {PAUSE}{EOM}{EOM}
+
+Message 35:
+No matter which
+way I look at it,
+I don't like it. {PAUSE}{WIPE}
+Sorry dear. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+{FACE_120003}Oh, this is such a
+cute one it is... {PAUSE}{EOM}{EOM}
+
+Message 37:
+{FACE_120003}Babies are so cute.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+Oh, dear, he's such
+a cute little pup...{PAUSE}{WIPE}
+Animals keep the
+heart soft and
+caring...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+{S_340161}He really is a very
+cute doggie...{PAUSE}
+I wonder if I too
+should get a dog? {PAUSE}{EOM}
+
+Message 40:
+{S_340161}Oh, what kind of
+seed is that? {PAUSE}{EOM}
+
+Message 41:
+I don't know what
+kind of seed that
+happens to be, but {PAUSE}
+nevertheless, grow
+some very healthy
+crops from it. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+Oh, you took this
+from your farm
+did you? {PAUSE}{WIPE}
+It looks so fresh,
+that it just
+has to taste good. {PAUSE}{EOM}{EOM}
+
+Message 43:
+Got milk dear? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+{S_340160}{S_340160}Oh dear, but that
+looks delicious.{PAUSE}{WIPE}
+{FACE_120003}Hmm? Oh is this for
+me? {PAUSE}
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 45:
+Oh, my.
+This does look quite
+scrumptious. {PAUSE}{EOM}{EOM}
+
+Message 46:
+Does it work well?
+Sorry, dear but
+those things are {PAUSE}
+positively lost
+on an old woman
+like me...{PAUSE}{EOM}{EOM}
+
+Message 47:
+Oh, are you off to
+till your fields? {PAUSE}{WIPE}
+You're such a
+hard worker
+you know. {PAUSE}{EOM}
+
+Message 48:
+You know what they
+say, "Practice makes
+perfect". {PAUSE}{WIPE}
+The more you use it,
+the easier it will
+be for you. {PAUSE}{WIPE}
+Not quite the same
+for us old folk. {PAUSE}{EOM}
+
+Message 49:
+Is this a good
+sickle? {PAUSE}{WIPE}
+Sorry dear, but
+those things are
+positively lost {PAUSE}
+on an old woman
+like me...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+It's just plain
+common sense...{PAUSE}{WIPE}
+You don't swing a
+sickle around in
+a place like this. {PAUSE}{WIPE}
+Do be careful,
+dear. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+When someone says
+watering can
+around me, all I {PAUSE}
+can think of is
+my husband's
+bonsai trees. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+Are you using that
+to take care of your
+bonsai, too? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+What in the world
+is that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 54:
+Hmmm...
+So that's a machine
+for cows is it? {PAUSE}{WIPE}
+I heard that thing
+can milk well. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+Those are...clippers.
+Careful with those.
+They're dangerous. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+That's for cutting
+sheep hair? {PAUSE}{WIPE}
+Careful you don't
+lose an arm or
+something. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+What kind of tool
+is that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+The more you use a
+tool, the easier it
+becomes for you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 59:
+I may be on in years,
+but jewelry still
+catches my heart...{PAUSE}{WIPE}
+What kind of stone
+is that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+Hmmm, it's a very
+unique stone...{PAUSE}{WIPE}
+It's got to be a
+rough of some high
+quality gem.{PAUSE}{EOM}
+
+Message 61:
+{S_340160}Ooooh...
+That's quite
+amazing. {PAUSE}{EOM}{EOM}
+
+Message 62:
+Where did you happen
+to pick that up? {PAUSE}{WIPE}
+It's kind of
+exciting, isn't it? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+What kind of plant
+is that?{PAUSE}{EOM}{EOM}
+
+Message 64:
+I don't really know
+that too well. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+What is that you've
+got there? {PAUSE}{WIPE}
+It looks like a
+big black cookie. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 66:
+What are you going
+to do with that
+black cookie? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+What is that you've
+got there? {PAUSE}{WIPE}
+Is it some kind of
+seasoning? {PAUSE}{EOM}{EOM}
+
+Message 68:
+If you use that in
+your cooking, you can
+make some great food.{PAUSE}{WIPE}
+If you do I hope
+that I'll be lucky
+enough to get some.{PAUSE}{EOM}{EOM}
+
+Message 69:
+{S_3400DA}{S_3205DC}Oooooh, that's a
+very strange sound. {PAUSE}{EOM}
+
+Message 70:
+{S_3400DA}{S_3205DC}That's quite an
+interesting sound. {PAUSE}{WIPE}
+Wherever did you
+find such a thing? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+What kind of medal
+is that? {PAUSE}{WIPE}
+Hmm? I think I've
+seen that before. {PAUSE}{EOM}
+
+Message 72:
+I have never earned
+a medal in my life.{PAUSE}{EOM}
+
+Message 73:
+Oh, why it's a
+necklace. {PAUSE}{WIPE}
+It's not really
+my cup of tea dear.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+If I was just a
+little younger, it
+might suit me. {PAUSE}{EOM}{EOM}
+
+Message 75:
+What kind of book
+is that? {PAUSE}{WIPE}
+The characters are
+really close
+together and small. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+Ah, is that sheet
+music for an
+instrument? {PAUSE}{EOM}
+
+Message 77:
+Oh my, what type of
+bomb is that you
+have? {PAUSE}{WIPE}
+Hey, are you in your
+right mind, dear? {PAUSE}{EOM}{EOM}
+
+Message 78:
+It's...a firework?
+Don't play tricks
+on a poor old lady. {PAUSE}{WIPE}
+My heart almost
+stopped it did. {PAUSE}{EOM}{EOM}
+
+Message 79:
+You're giving this
+to me? {PAUSE}{WIPE}
+That's okay, it's
+the thought that
+counts really. {PAUSE}{EOM}
+
+Message 80:
+{S_340160}Hmm?
+Are you giving that
+to someone? {PAUSE}{EOM}
+
+Message 81:
+We used to live in
+the city, Galen
+and I. {PAUSE}{WIPE}
+But we're getting on
+in years, and so we
+both decided to {PAUSE}
+come here to this
+Valley to retire
+in peace and quiet. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 82:
+He may be stubborn
+at times, but I know
+that he always has {PAUSE}
+me as his priority
+in all that he does. {PAUSE}{WIPE}
+I'm very grateful
+for all he is to me. {PAUSE}{EOM}
+
+Message 83:
+Since we've come
+to the valley, he's
+always helped me. {PAUSE}{WIPE}
+We plan on being
+together like that
+till the end. {PAUSE}{EOM}{EOM}
+
+Message 84:
+{FACE_120003}I loved that food I
+got before. It was
+really delicious. {PAUSE}{WIPE}
+Thank you dear. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{FACE_120002}I really wasn't too
+fond of the food
+I got last time. {PAUSE}{WIPE}
+Sorry for your
+trouble. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+The {VAR_00} from
+before had a very...
+interesting taste. {PAUSE}{EOM}{EOM}
+
+Message 87:
+The {VAR_00} I
+got from before was
+not bad at all. {PAUSE}{WIPE}
+I hope you'll bring
+me some more in the
+near future. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+{FACE_120003}That {VAR_00} from
+before was really
+delicious. {PAUSE}{WIPE}
+Thank you so much
+for thinking of me. {PAUSE}{EOM}
+
+Message 89:
+{FACE_120003}That {VAR_00} from
+before is actually
+my favorite food. {PAUSE}{WIPE}
+Thank you dear. {PAUSE}{EOM}{EOM}
+
+Message 90:
+I couldn't tell what
+type of milk that
+was from before, {PAUSE}
+but it really
+didn't agree with
+me at all dear. {PAUSE}{EOM}{EOM}
+
+Message 91:
+I thought the milk
+you gave me last
+time was alright. {PAUSE}{EOM}{EOM}
+
+Message 92:
+{FACE_12000A}I couldn't tell what
+type of milk that
+was from before, {PAUSE}
+but I really loved
+the taste! Thanks! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+{FACE_120003}I'm not too clear on
+what kind of milk it
+was, but it had {PAUSE}
+an absolutely
+wonderful taste.
+Thank you much! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+I couldn't tell what
+type of milk that
+was from before, {PAUSE}
+but it had a slight
+odor to it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+I'm not too clear on
+what kind of milk it
+was, but I really{PAUSE}
+fancied it. It did
+smell a tad, though. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+{FACE_12000A}I couldn't tell what
+type of cheese that
+was from before, {PAUSE}
+but it was very
+tasty. Thank you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 97:
+You made that
+cheese I had before,
+didn't you? {PAUSE}{EOM}{EOM}
+
+Message 98:
+{FACE_12000A}I couldn't tell what
+type of cheese that
+was from before, {PAUSE}
+it was very
+delicious dear,
+thank you. {PAUSE}{EOM}
+
+Message 99:
+You made that butter
+you gave me last
+time, didn't you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+{FACE_12000A}The food I had
+before tasted very
+good. {PAUSE}{WIPE}
+Thank you so much
+dear for bringing
+it to me. {PAUSE}{EOM}{EOM}
+
+Message 101:
+{FACE_12000A}That food from
+last time...{PAUSE}{WIPE}
+I can't put my
+finger on it, but
+it was...{PAUSE}{WIPE}
+Well, anyway
+thank you dear. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+Everyday you work
+so hard. {PAUSE}{WIPE}
+You've become quite
+dependable. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+I do believe you're
+getting the hang of
+the farm life dear. {PAUSE}{WIPE}
+You're still so
+young that if you
+work hard, you can {PAUSE}
+really do amazing
+things with your
+life. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+So much time has
+passed since we've
+come here...{PAUSE}{WIPE}
+This valley is such
+a wonderful place
+to live. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+The longer I live in
+this valley, the more
+I come to appreciate{PAUSE}
+living in a place
+like this. {PAUSE}{WIPE}
+It's so separated
+from everything, but
+very nice...{PAUSE}{EOM}
+
+Message 106:
+I've really come to
+fancy this valley...{PAUSE}{WIPE}
+I'd like to be
+buried here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 108:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+Well, make yourself
+comfortable.{PAUSE}{WIPE}
+Enjoy the peace and
+quiet of the
+country. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 110:
+Don't hesitate.
+Just make yourself
+at home. {PAUSE}{EOM}{EOM}
+
+Message 111:
+I feel so at peace
+here. I'm really
+very lucky. {PAUSE}{EOM}
+
+Message 112:
+You like it
+here too right?
+Why, of course. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 113:
+{FACE_12000A}Spring always makes
+me remember coming
+here with Galen. {PAUSE}{WIPE}
+The flowers were
+beautiful then
+too...{PAUSE}{EOM}{EOM}
+
+Message 114:
+This valley is
+such an easy place
+for old folks like {PAUSE}
+us to sit back and
+relax. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 115:
+Oh my, it's quite
+hot now isn't it? {PAUSE}
+But compared to
+other places, the
+valley is cool. {PAUSE}{EOM}{EOM}
+
+Message 116:
+So hot...
+It really affects
+us old folks...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+This is a nice time
+of year. {PAUSE}{WIPE}
+Not hot, not cold.
+It's the best for
+my old body...{PAUSE}{EOM}
+
+Message 118:
+This season tends to
+make me feel sad. {PAUSE}{WIPE}
+I wonder if it's
+because I'm
+getting older...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 119:
+It's grown quite
+cold hasn't it? {PAUSE}{WIPE}
+But compared to
+other places, the
+valley is warm. {PAUSE}{EOM}
+
+Message 120:
+It's so c-cold.
+This season is the
+hardest on the old. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 121:
+{FACE_12000A}Hugh is really cute,
+isn't he? He's a
+handful, but that{PAUSE}
+makes him even
+lovable.{PAUSE}{EOM}{EOM}
+
+Message 122:
+{FACE_12000A}Every time I look at
+Hugh, he reminds me
+of my grandchildren{PAUSE}
+in the city... I
+wonder how they are
+doing...{PAUSE}{EOM}{EOM}
+
+Message 123:
+{FACE_12000A}I love Hugh just as
+my own grandson.
+He's a dear boy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+Van always brings
+us tools...{PAUSE}{WIPE}
+His wares are nice,
+inexpensive and
+always help us. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+Do you buy a lot of
+things from Van? {PAUSE}{WIPE}
+Without him the
+valley would be
+in trouble. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+Vesta always brings
+us some fruits and
+vegetables.{PAUSE}{WIPE}
+She helps us out
+a lot.{PAUSE}{EOM}{EOM}
+
+Message 127:
+Vesta always brings
+us some fruits and
+vegetables.{PAUSE}{WIPE}
+She helps us out
+a lot.{PAUSE}{EOM}{EOM}
+
+Message 128:
+...Actually,
+you can keep it
+this time. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

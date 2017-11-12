@@ -1,0 +1,955 @@
+Message 0:
+No is NO!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+Thank you very much.
+I had a fun time
+talking with you. {S_3207D0}{EOM}
+
+Message 2:
+There's really no
+reason but... {PAUSE}{WIPE}
+I thought I'd like
+to listen to
+{FLORA}'s story. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+{FLORA} came to
+{C14}{STRUC_30}{C17}
+a long time ago and{PAUSE}
+has been here since. {PAUSE}{WIPE}
+Doesn't she ever
+think about going
+back to {C14}{STRUC_31}{C17}? {PAUSE}{WIPE}
+What about her love
+in the city...? {PAUSE}{WIPE}
+What about being
+fashionable...? {PAUSE}{WIPE}
+Is she really
+okay without them?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+That's not what I
+mean... {PAUSE}{WIPE}
+I was just wondering
+if all she's ever
+done was be part {PAUSE}
+of the dig that's
+going on. {PAUSE}{WIPE}
+Never mind, I'm
+just being silly. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+...... {PAUSE}{EOM}{EOM}
+
+Message 6:
+Thank you, {FLORA}. {PAUSE}{EOM}{EOM}
+
+Message 7:
+I really learned
+a lot from this.
+Thank you. {PAUSE}{EOM}{EOM}
+
+Message 8:
+Uncle, were you
+listening to us? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+I was just thinking
+of what to do
+next... {S_3202BC}{PAUSE}{EOM}
+
+Message 10:
+Thanks a lot. {S_3202BC}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+But the carrots
+don't taste
+good... {PAUSE}{EOM}
+
+Message 12:
+Why so soon...?
+I wanted to hear
+more stories... {PAUSE}{EOM}{EOM}
+
+Message 13:
+{GRIFFIN}, sing
+something in honor
+of him!! {PAUSE}{EOM}{EOM}
+
+Message 14:
+Hey, excuse me... {PAUSE}{EOM}{EOM}
+
+Message 15:
+I said excuse me... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 16:
+Hey, you have
+nothing to sell. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+Bring something that
+can be sold. {PAUSE}{EOM}
+
+Message 18:
+I'm just looking... {PAUSE}{EOM}{EOM}
+
+Message 19:
+I said I'm just
+looking... {PAUSE}{EOM}{EOM}
+
+Message 20:
+How much is that
+{VAR_00}?
+{CHOICE3 DEF2}
+It goes for {GOLD_0105}G.
+{GOLD_0205}G.
+Not for sale.{EOM}
+
+Message 21:
+{FACE_10000A}You'll give me
+a discount? {S_3201F4}
+{FACE_100000}Oh, but I don't have
+money with me, so I
+can't buy it. {PAUSE}{EOM}
+
+Message 22:
+But I don't have any
+money with me, so I
+can't buy it. {PAUSE}{EOM}{EOM}
+
+Message 23:
+{FACE_100002}Hmph, I didn't want
+it anyway. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+I don't have any
+money with me, so
+I can't buy. {PAUSE}{EOM}{EOM}
+
+Message 25:
+Ah, you run
+the farm right? {PAUSE}{WIPE}
+Are you working
+hard? {PAUSE}{EOM}{EOM}
+
+Message 26:
+{FACE_100002}...... {PAUSE}{EOM}{EOM}
+
+Message 27:
+{FACE_100002}I don't want to
+talk right now... {PAUSE}{EOM}{EOM}
+
+Message 28:
+{FACE_100002}Can I help you...? {PAUSE}{EOM}
+
+Message 29:
+Good morning.
+Where are you going? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 30:
+{FACE_10000A}Hello.
+Are you well? {PAUSE}{EOM}
+
+Message 31:
+You should hurry
+home. Your wife is
+waiting for you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+What are you doing
+up in the middle
+of the night? {PAUSE}{EOM}{EOM}
+
+Message 33:
+What are you doing
+up in the middle
+of the night? {PAUSE}{EOM}{EOM}
+
+Message 34:
+Did you come to
+visit me? {PAUSE}{EOM}
+
+Message 35:
+Did you need to
+come here too? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+{FACE_10000A}Oh, that's my
+favorite!
+Can I have it? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+{FACE_100003}Yea! Thanks.
+You're wonderful! {PAUSE}{EOM}
+
+Message 38:
+{FACE_100002}You're so cheap... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+It looks really
+good. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+You've got something
+good, haven't you?
+Can I have it? {CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 41:
+That looks
+soooo good... {PAUSE}{EOM}
+
+Message 42:
+{FACE_100002}You've got another
+thing coming if you
+think I'll eat that. {PAUSE}{EOM}{EOM}
+
+Message 43:
+{FACE_100004}I hate things like
+that... {PAUSE}{EOM}{EOM}
+
+Message 44:
+{FACE_100002}What's that...?
+Please take that
+away from me. {PAUSE}{EOM}
+
+Message 45:
+Aw, he's so cuuute.
+I'll play with him
+when he gets bigger. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+I'll play with him
+when he gets much
+bigger. {PAUSE}{EOM}{EOM}
+
+Message 47:
+That's a cute
+dog. {PAUSE}{EOM}
+
+Message 48:
+I want a dog
+too... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+That's a cute
+little kitty. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+I like how free
+and independent
+cats are... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+Are you raising
+chickens on your
+farm? {PAUSE}{WIPE}
+I'm not good with
+chickens at all. {PAUSE}{EOM}{EOM}
+
+Message 52:
+Oh, it's so cute... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+What a cute little
+chicky. {PAUSE}{EOM}{EOM}
+
+Message 54:
+I said I'm no good
+when it comes to
+chickens... {PAUSE}{EOM}
+
+Message 55:
+Haven't seen a
+duck in awhile. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+What a cute little
+duck. {PAUSE}{EOM}{EOM}
+
+Message 57:
+You can't help but
+like ducks.
+They're so cuuute. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+What's that...
+It looks like a
+flower seed... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 59:
+...... {PAUSE}{EOM}{EOM}
+
+Message 60:
+If you have any
+veggies I'll give
+them to my mom. {PAUSE}{WIPE}
+That will make her
+happy for sure. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+Mom would definitely
+want some. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+Did you get that
+milk from your farm?
+I love fresh milk. {PAUSE}{EOM}
+
+Message 63:
+When I drink milk
+my stomach gets
+all rumbly. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+I'll give that to
+my Mom... {PAUSE}{EOM}
+
+Message 65:
+I can't just
+eat butter all
+by itself. {PAUSE}{EOM}
+
+Message 66:
+{FACE_100002}I don't like eggs. {PAUSE}{EOM}
+
+Message 67:
+{FACE_100005}I said I don't
+like eggs! {PAUSE}{EOM}
+
+Message 68:
+That's a weird
+looking thing. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+Can you eat that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+Did you make this?
+Not bad! {PAUSE}{EOM}
+
+Message 71:
+Can I eat that?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 72:
+A tasty looking
+dish.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 73:
+What are you going
+to do with that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+I don't want that. {PAUSE}{EOM}
+
+Message 75:
+Don't spin around
+with that. {PAUSE}{EOM}{EOM}
+
+Message 76:
+Is that...
+A watering can?
+It's shaped weird. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+That's a strange
+watering can. {PAUSE}{EOM}{EOM}
+
+Message 78:
+Is there water
+inside that can? {PAUSE}{EOM}
+
+Message 79:
+Don't water me. {PAUSE}{EOM}{EOM}
+
+Message 80:
+What's that?
+It's a weird
+machine. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 81:
+What are you going
+to do with that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 82:
+That's used for
+cutting hair... {PAUSE}{WIPE}
+You should try
+using that on Hugh.
+{FACE_100003}{S_340157}Ha ha ha... {PAUSE}{EOM}{EOM}
+
+Message 83:
+I don't need
+anything like that. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+That's a pretty
+stone. {PAUSE}{EOM}
+
+Message 85:
+That's a pretty
+stone. {PAUSE}{EOM}
+
+Message 86:
+{S_340157}That's an unusual
+piece... {PAUSE}{WIPE}
+Where did you
+pick it up from? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+I really like things
+like that. {PAUSE}{EOM}
+
+Message 88:
+Is that flower...
+A present for me? {CHOICE Y/N DEF0}{EOM}
+
+Message 89:
+That's a pretty
+flower. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+That's a record.
+I know what it is.
+Dad had one once. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+My Dad would love it
+if you showed that
+to him. {PAUSE}{EOM}{EOM}
+
+Message 92:
+What is that? {PAUSE}{WIPE}
+You should mix that
+in food and then
+give it to my Mom. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+It smells nice... {PAUSE}{EOM}{EOM}
+
+Message 94:
+{S_3400DA}{S_3205DC}It makes a funny
+sound. {PAUSE}{EOM}{EOM}
+
+Message 95:
+{S_3400DA}{S_3205DC}That's a strange
+drum... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 96:
+What's so special
+about that medal?{PAUSE}{EOM}{EOM}
+
+Message 97:
+It's just gold
+"plated" right? {PAUSE}{EOM}{EOM}
+
+Message 98:
+A strange necklace.
+That's not a present
+for me is it? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 99:
+That's a pretty
+necklace. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+What's that...
+I don't know
+what it is... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 101:
+What are you going
+to do with that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+That firework is
+huge... {PAUSE}{EOM}
+
+Message 103:
+Tell me when you are
+going to shoot it
+off. {PAUSE}{EOM}
+
+Message 104:
+Is that a present
+for someone? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+I don't want that.{PAUSE}{EOM}{EOM}
+
+Message 106:
+{FACE_10001A}How could someone
+call a girl like me
+a tomboy? {PAUSE}{EOM}
+
+Message 107:
+I think my neighbor
+Hugh is handsome,
+but whenever we {PAUSE}
+get together he
+I can't help but
+pick on him. {PAUSE}{EOM}
+
+Message 108:
+There's nothing to
+do around here, so
+I get bored easy. {PAUSE}{WIPE}
+But then again
+there are many
+things I like too... {PAUSE}{WIPE}
+Of course the
+city is also
+good... {PAUSE}{EOM}
+
+Message 109:
+Mom told me the
+farmer in Mineral
+Town is a miser. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+Dad told me that
+the farmer in
+Mineral Town is a{PAUSE}
+very popular guy.
+Is he really? {PAUSE}{EOM}
+
+Message 111:
+{VAR_00}'s fields
+are pretty amazing
+I heard. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+{VAR_00}'s animals
+must be in Heaven. {PAUSE}{WIPE}
+They get so well
+taken care of... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+Mom told me all the
+farmer in Mineral
+Town does is mine. {PAUSE}{EOM}
+
+Message 114:
+Dad told me the
+farmer in Mineral
+Town is an {PAUSE}
+incredibly famous
+fisherman. {PAUSE}{EOM}{EOM}
+
+Message 115:
+{VAR_00} of
+Mineral Town has
+walked over {PAUSE}
+1,000,000 steps
+in his lifetime... {PAUSE}{WIPE}
+I'm not very
+impressed by that. {PAUSE}{EOM}{EOM}
+
+Message 116:
+{VAR_00} of
+Mineral Town has
+worked over 50 years. {PAUSE}{WIPE}
+You better do
+something with your
+farm, okay? {PAUSE}{EOM}
+
+Message 117:
+Dad told me that the
+farmer in Mineral
+Town has really {PAUSE}
+great luck when
+fishing. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+Mom told me that the
+farmer in Mineral
+Town has bad taste. {PAUSE}{EOM}
+
+Message 119:
+The farmer in
+Mineral Town owns
+3 vacation houses. {PAUSE}{WIPE}
+My Mom is really
+jealous of him. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+Dad said there is a
+great blacksmith
+in Mineral Town. {PAUSE}{EOM}
+
+Message 121:
+{FACE_10000A}The food you gave me
+last time was
+delicious. {PAUSE}{WIPE}
+Give me some more
+again sometime. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+{FACE_10000A}The {VAR_00}
+you made last time
+was great. {PAUSE}{WIPE}
+I love food that has
+intense flavors. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 123:
+The dish you made
+last time was
+delicious. {PAUSE}{EOM}
+
+Message 124:
+You're really working
+hard, aren't you? {PAUSE}{WIPE}
+Mom says you've
+become a great
+farmer. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+Seems like things
+have gotten better
+for you at the farm. {PAUSE}{WIPE}
+You're really
+trying hard, aren't
+you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+How's your farm
+going? {PAUSE}{WIPE}
+You seem to be
+getting the hang
+of things... {PAUSE}{EOM}
+
+Message 127:
+I don't really like
+living here much. {PAUSE}{WIPE}
+It's just so
+boring. {PAUSE}{EOM}
+
+Message 128:
+This lifestyle
+might be for me. {PAUSE}{WIPE}
+There's nothing to
+really do, so I get
+to look at things {PAUSE}
+and think about them
+all on my own. {PAUSE}{WIPE}
+I've been enjoying
+that lately. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 129:
+I guess the most fun
+is when I play with
+Hugh... {PAUSE}{WIPE}
+I'm just being nice
+though, nothing more
+than that. {PAUSE}{WIPE}
+{FACE_100019}I don't pick on him,
+I'm nice to him. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+Lately even when
+I pick on Hugh, he
+doesn't cry. {PAUSE}{WIPE}
+He actually talks
+back to me. {PAUSE}{WIPE}
+He must finally
+be rebelling. {PAUSE}{WIPE}
+It makes him
+cooler... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+There's so many
+weird people here
+I could never get {PAUSE}
+tired of talking
+to any of them. {PAUSE}{WIPE}
+I love getting all
+sorts of news
+from people. {PAUSE}{WIPE}
+I should write
+a book about
+everyone here... {PAUSE}{WIPE}
+I'm gonna make
+the stories more
+interesting. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+Hello.
+Do you think I'm
+a tomboy?
+{CHOICE2 DEF1}
+I think so.
+Not at all.{EOM}{EOM}{EOM}
+
+Message 133:
+{FACE_10001A}I knew it...
+I think so too. {PAUSE}{WIPE}
+{FACE_100023}I always knew I
+should have been
+born a boy. {PAUSE}{WIPE}
+If I was a boy I
+wouldn't get called
+tomboy. {PAUSE}{EOM}{EOM}
+
+Message 134:
+You really think so?
+Are you sure you're
+not flattering me? {PAUSE}{WIPE}
+I don't care if you
+think am or not... {PAUSE}{WIPE}
+That's just my
+personality. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 135:
+Hi. Want to know
+what I'm thinking?
+{CHOICE3 DEF1}
+Sure.
+No thanks.
+Don't care.{EOM}{EOM}{EOM}{EOM}
+
+Message 136:
+Really?
+Okay...
+Um... {PAUSE}{WIPE}
+Never mind I can't
+do it. {PAUSE}{WIPE}
+I'm not done yet.
+When it's complete
+I'll tell you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+Oh, I see.
+Never mind then. {PAUSE}{WIPE}
+Well when you want
+to know, you'll come
+back and beg me. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+Okay... I'm still in
+the middle of making
+it... {PAUSE}{WIPE}
+I'll tell you about
+it next time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 139:
+I wish I lived a
+more stimulating
+lifestyle... {PAUSE}{EOM}
+
+Message 140:
+Maybe I'll become
+a novelist. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+You look like you
+have time. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 142:
+Mom was getting on
+my nerves so I
+figured I go out {PAUSE}
+somewhere and
+take a walk... {PAUSE}{EOM}{EOM}
+
+Message 143:
+My Mom was yelling
+at me, so I decided
+to get out of there. {PAUSE}{EOM}
+
+Message 144:
+I'm SO bored... {PAUSE}{EOM}{EOM}
+
+Message 145:
+It's better to think
+about things outside.{PAUSE}{WIPE}
+You get so many more
+images in your head
+as a result. {PAUSE}{EOM}{EOM}
+
+Message 146:
+Isn't there anything
+to do here...? {PAUSE}{EOM}
+
+Message 147:
+I love it when the
+air is nice and warm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 148:
+If I go back home
+Mom is going to
+yell at me again. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 149:
+If I go back home
+Mom will start
+nagging me again. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+Lately if you go to
+the beach at night,
+you can see such {PAUSE}
+pretty red stars
+in the sky. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 151:
+I wonder what I'll
+do today... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 152:
+It's been hot
+lately. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 153:
+Why does Mom nag
+me so much... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 154:
+Why does Mom nag
+me so much...? {PAUSE}{WIPE}
+I'm already an
+adult... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 155:
+I love this season. {PAUSE}{WIPE}
+Just wandering
+around and enjoying
+the scenery. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+If you look above
+the waterfall,
+you can see a pretty{PAUSE}
+blue star in the sky.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+It's cold, isn't
+it...? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 158:
+Hi, what's up?{S_3201F4}
+{FACE_100019}...I was just
+thinking about{PAUSE}
+something...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 159:
+This place is so
+calming. {PAUSE}{WIPE}
+It's the perfect
+place to think of
+about things. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 160:
+What's up?
+You have free time? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 161:
+Go over there.
+I'm trying to zone
+out! {PAUSE}{EOM}
+
+Message 162:
+{FACE_100023}Thinking... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+I'm talking to
+Romana. {PAUSE}{WIPE}
+Maybe I'll use her
+as a character in
+my book?{PAUSE}{EOM}
+
+Message 164:
+Romana has lived a
+long life, so she's
+sure to have some {PAUSE}
+really good stories
+to listen to. {PAUSE}{EOM}
+
+Message 165:
+I'm busy, don't
+bother me now. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+I'm talking to
+Lumina. {PAUSE}{WIPE}
+Maybe I'll use her
+as a character in
+my book?{PAUSE}{EOM}
+
+Message 167:
+Lumina's ideas are
+a really good source
+for my book. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 168:
+I'm a little busy
+right now so
+don't bother me. {PAUSE}{EOM}
+
+Message 169:
+I'm talking with
+Sebastian. {PAUSE}{WIPE}
+Maybe I'll use him
+as a character in
+my book?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 170:
+Sebastian knows
+a lot so he's a
+good source for {PAUSE}
+when I write my
+future book. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+{FACE_100002}I'm busy right now,
+so please don't
+bother me. {PAUSE}{EOM}{EOM}
+
+Message 172:
+I'm talking with
+Gustafa right now.{PAUSE}{WIPE}
+Maybe I'll use him
+as a character in
+my book? {PAUSE}{EOM}
+
+Message 173:
+Gustafa is both a
+poet and musician. {PAUSE}{WIPE}
+That's why he feels
+so deeply for
+things. {PAUSE}{EOM}
+
+Message 174:
+{FACE_100002}I'm busy right now,
+so please don't
+bother me. {PAUSE}{EOM}{EOM}
+
+Message 175:
+Thank you.
+But I changed my
+mind. {PAUSE}{WIPE}
+Come back again
+sometime okay? {PAUSE}{EOM}{EOM}
+
+Message 176:
+I'm about to sleep
+so... {PAUSE}{EOM}{EOM}
+
+Message 177:
+It's time for me
+to go to bed, so
+you'll need to go. {PAUSE}{EOM}{EOM}
+
+Message 178:
+Good night. {PAUSE}{EOM}
+
+Message 179:
+It's time for me to
+get going... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 180:
+I really have to
+get going so... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+See you... {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,1721 @@
+Message 0:
+{ITEM_0000}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+{C13}{ITEM_0001}
+{C17}Improves the quality
+of the crops.{PAUSE}{EOM}{EOM}
+
+Message 2:
+{C13}{ITEM_0002}
+{C17}Place it in the
+feed box in the coop.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+{C13}{ITEM_0003}
+{C17}Main food for animals
+in the {STRUC_20}.{PAUSE}{EOM}
+
+Message 4:
+{C13}{ITEM_0004}
+{C17}Improves the quality
+of the milk.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+{C13}{ITEM_0005}
+{C17}Give one a day
+until they heal.{PAUSE}{EOM}
+
+Message 6:
+{C13}{ITEM_0006}
+{C17}Special milk from
+Mother cows. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+{C13}{ITEM_0007}C
+{C17}The quality is
+not that good.{PAUSE}{EOM}{EOM}
+
+Message 8:
+{C13}{ITEM_0008}B
+{C17}The quality is
+average.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+{C13}{ITEM_0009}A
+{C17}The quality is
+good.{PAUSE}{EOM}{EOM}
+
+Message 10:
+{C13}{ITEM_000A}S
+{C17}The quality is
+excellent.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+{C13}{ITEM_000B}C
+{C17}The quality is
+not that good.{PAUSE}{EOM}{EOM}
+
+Message 12:
+{C13}{ITEM_000C}B
+{C17}The quality is
+average.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+{C13}{ITEM_000D}A
+{C17}The quality is
+good.{PAUSE}{EOM}{EOM}
+
+Message 14:
+{C13}{ITEM_000E}S
+{C17}The quality is
+excellent.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+{C13}{ITEM_000F}C
+{C17}The quality is
+not that good.{PAUSE}{EOM}{EOM}
+
+Message 16:
+{C13}{ITEM_0010}B
+{C17}The quality is
+average.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+{C13}{ITEM_0011}A
+{C17}The quality is
+good.{PAUSE}{EOM}{EOM}
+
+Message 18:
+{C13}{ITEM_0012}S
+{C17}The quality is
+excellent.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+{C13}{ITEM_0013}C
+{C17}The quality is
+not that good.{PAUSE}{EOM}{EOM}
+
+Message 20:
+{C13}{ITEM_0014}B
+{C17}The quality is
+average.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{C13}{ITEM_0015}A
+{C17}The quality is
+good.{PAUSE}{EOM}{EOM}
+
+Message 22:
+{C13}{ITEM_0016}S
+{C17}The quality is
+excellent.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+{C13}{ITEM_0017}
+{C17}It has an unique
+scent.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+{C13}{ITEM_0018}
+{C17}Good for people
+with weak stomachs.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+{C13}{ITEM_0019}
+{C17}No shine. The
+quality is not good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+{C13}{ITEM_001A}
+{C17}Average quality.{PAUSE}{EOM}{EOM}
+
+Message 27:
+{C13}{ITEM_001B}
+{C17}Shiny and of good
+quality.{PAUSE}{EOM}
+
+Message 28:
+{C13}{ITEM_001C}
+{C17}A regular
+non-fertilized egg.{PAUSE}{EOM}{EOM}
+
+Message 29:
+{C13}{ITEM_001D}
+{C17}A rare non-
+fertilized egg.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 30:
+{C13}{ITEM_001E}
+{C17}A fertilized egg.
+It becomes a chick.{PAUSE}{EOM}
+
+Message 31:
+{C13}{ITEM_001F}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+{C13}{ITEM_0020}A
+{C17}Sweeter than
+{ITEM_001F}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+{C13}{ITEM_0021}S
+{C17}Sweet and very
+good quality.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+{C13}{ITEM_0022}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 35:
+{C13}{ITEM_0023}A
+{C17}Juicier than
+{ITEM_0022}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+{C13}{ITEM_0024}S
+{C17}Juicy and very
+good quality.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+{C13}{ITEM_0025}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+{C13}{ITEM_0026}A
+{C17}Sweeter than
+{ITEM_0025}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+{C13}{ITEM_0027}S
+{C17}Sweet and very
+good quality.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+{C13}{ITEM_0028}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+{C13}{ITEM_0029}A
+{C17}Sweeter than
+{ITEM_0028}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+{C13}{ITEM_002A}S
+{C17}Sweet and very
+good quality.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 43:
+{C13}{ITEM_002B}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+{C13}{ITEM_002C}A
+{C17}Nicer than
+{ITEM_002B}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+{C13}{ITEM_002D}S
+{C17}Bitter and juicy.
+Very good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+{C13}{ITEM_002E}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+{C13}{ITEM_002F}A
+{C17}Better texture than
+{ITEM_002E}.{PAUSE}{EOM}
+
+Message 48:
+{C13}{ITEM_0030}S
+{C17}Nice and sweet.
+Very good quality. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+{C13}{ITEM_0031}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+{C13}{ITEM_0032}A
+{C17}Juicier than
+{ITEM_0031}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+{C13}{ITEM_0033}S
+{C17}Juicy and sweet.
+Very good quality.{PAUSE}{EOM}{EOM}
+
+Message 52:
+{C13}{ITEM_0034}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+{C13}{ITEM_0035}A
+{C17}Sweeter than
+{ITEM_0034}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+{C13}{ITEM_0036}S
+{C17}Sweet and very
+good quality.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 55:
+{C13}{ITEM_0037}B
+{C17}Pretty bitter.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{C13}{ITEM_0038}A
+{C17}Tasty and juicier
+than {ITEM_0037}B.{PAUSE}{EOM}{EOM}
+
+Message 57:
+{C13}{ITEM_0039}S
+{C17}Juicy and sweet.
+Very good quality.{PAUSE}{EOM}{EOM}
+
+Message 58:
+{C13}{ITEM_003A}B
+{C17}Pretty bitter.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+{C13}{ITEM_003B}A
+{C17}Less bitter than
+{ITEM_003A}B.{PAUSE}{EOM}
+
+Message 60:
+{C13}{ITEM_003C}S
+{C17}Nice and sweet.
+Very good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+{C13}{ITEM_003D}B
+{C17}Fresh and sweet.{PAUSE}{EOM}
+
+Message 62:
+{C13}{ITEM_003E}A
+{C17}Sweeter and tastier
+than {ITEM_003D}B.{PAUSE}{EOM}{EOM}
+
+Message 63:
+{C13}{ITEM_003F}S
+{C17}Sweet, sour and
+juicy. Good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+{C13}{ITEM_0040}B
+{C17}Very sour.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+{C13}{ITEM_0041}A
+{C17}Juicier than
+{ITEM_0040}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+{C13}{ITEM_0042}S
+{C17}Sweet and tasty.{PAUSE}{EOM}
+
+Message 67:
+{C13}{ITEM_0043}B
+{C17}Sweet and juicy.{PAUSE}{EOM}
+
+Message 68:
+{C13}{ITEM_0044}A
+{C17}Juicer than
+{ITEM_0043}B.{PAUSE}{EOM}{EOM}
+
+Message 69:
+{C13}{ITEM_0045}S
+{C17}Sweet and Juicy.
+Very good quality.{PAUSE}{EOM}{EOM}
+
+Message 70:
+{C13}{ITEM_0046}B
+{C17}Pretty tangy.{PAUSE}{EOM}{EOM}
+
+Message 71:
+{C13}{ITEM_0047}A
+{C17}Less tangy than
+{ITEM_0046}B.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+{C13}{ITEM_0048}S
+{C17}Juicy and sweet.
+Very good quality.{PAUSE}{EOM}{EOM}
+
+Message 73:
+{C13}{ITEM_0049}B
+{C17}Pretty tangy.{PAUSE}{EOM}{EOM}
+
+Message 74:
+{C13}{ITEM_004A}A
+{C17}Less tangy than
+{ITEM_0049}B.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+{C13}{ITEM_004B}S
+{C17}Juicy and somewhat
+tangy. Good quality.{PAUSE}{EOM}{EOM}
+
+Message 76:
+{C13}{ITEM_004C}B
+{C17}Robust and tangy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+{C13}{ITEM_004D}A
+{C17}Less tangy than
+{ITEM_004C}B.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+{C13}{ITEM_004E}S
+{C17}Robust and
+very good quality.{PAUSE}{EOM}
+
+Message 79:
+{C13}{ITEM_004F}B
+{C17}Somewhat bitter.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+{C13}{ITEM_0050}A
+{C17}Less bitter than
+{ITEM_004F}B.{PAUSE}{EOM}
+
+Message 81:
+{C13}{ITEM_0051}S
+{C17}Bitter and sweet.
+Very good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+{C13}{ITEM_0052}B
+{C17}Good texture but
+bitter.{PAUSE}{EOM}{EOM}
+
+Message 83:
+{C13}{ITEM_0053}A
+{C17}Less bitter than
+{ITEM_0052}B.{PAUSE}{EOM}
+
+Message 84:
+{C13}{ITEM_0054}S
+{C17}Sweet and bitter.
+Very good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{C13}{ITEM_0055}B
+{C17}Bitter and
+astringent.{PAUSE}{EOM}
+
+Message 86:
+{C13}{ITEM_0056}A
+{C17}Sweet and bitter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+{C13}{ITEM_0057}S
+{C17}Sweet and tasty.
+Very good quality.{PAUSE}{EOM}{EOM}
+
+Message 88:
+{C13}{ITEM_0058}B
+{C17}Tangy and sharp.{PAUSE}{EOM}
+
+Message 89:
+{C13}{ITEM_0059}A
+{C17}Sweet and bitter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+{C13}{ITEM_005A}S
+{C17}Tangy, sweet and
+tasty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 91:
+{C13}{ITEM_005B}B
+{C17}Very sour and hot.{PAUSE}{EOM}{EOM}
+
+Message 92:
+{C13}{ITEM_005C}A
+{C17}Tangy but
+somewhat sweet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+{C13}{ITEM_005D}S
+{C17}Sweet and juicy.{PAUSE}{EOM}
+
+Message 94:
+{C13}{ITEM_005E}B
+{C17}Sweet and sour.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+{C13}{ITEM_005F}A
+{C17}Sweet, sour and
+tasty. {PAUSE}{EOM}
+
+Message 96:
+{C13}{ITEM_0060}S
+{C17}Sweet, sour and
+juicy. Good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+{C13}{ITEM_0061}B
+{C17}Tangy and bitter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 98:
+{C13}{ITEM_0062}A
+{C17}Sweet and sour
+but a little bitter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+{C13}{ITEM_0063}S
+{C17}Fruity and juicy.
+Very good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+{C13}{ITEM_0064}B
+{C17}Sour and tangy
+but tasty.{PAUSE}{EOM}
+
+Message 101:
+{C13}{ITEM_0065}A
+{C17}Sweet and sour.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+{C13}{ITEM_0066}S
+{C17}Sweet, sour and
+juicy. Good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+{C13}{ITEM_0067}B
+{C17}Hot and tangy.{PAUSE}{EOM}
+
+Message 104:
+{C13}{ITEM_0068}A
+{C17}Hot yet sweet.{PAUSE}{EOM}
+
+Message 105:
+{C13}{ITEM_0069}S
+{C17}Sweet, juicy and
+tastefully hot.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 106:
+{C13}{ITEM_006A}B
+{C17}Slightly sweet
+and bitter.{PAUSE}{EOM}{EOM}
+
+Message 107:
+{C13}{ITEM_006B}A
+{C17}Sweet and bitter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 108:
+{C13}{ITEM_006C}S
+{C17}Sweet and tasty.{PAUSE}{EOM}
+
+Message 109:
+{C13}{ITEM_006D}B
+{C17}Somewhat bitter and
+tasty.{PAUSE}{EOM}{EOM}
+
+Message 110:
+{C13}{ITEM_006E}A
+{C17}Bitter yet sweet.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 111:
+{C13}{ITEM_006F}S
+{C17}Tastefully sweet
+and bitter.{PAUSE}{EOM}{EOM}
+
+Message 112:
+{C13}{ITEM_0070}B
+{C17}Slightly bitter
+and sweet.{PAUSE}{EOM}{EOM}
+
+Message 113:
+{C13}{ITEM_0071}A
+{C17}Sweet and tasty.{PAUSE}{EOM}
+
+Message 114:
+{C13}{ITEM_0072}S
+{C17}Sweet and very
+tasty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 115:
+{C13}{ITEM_0073}B
+{C17}Very tangy.{PAUSE}{EOM}{EOM}
+
+Message 116:
+{C13}{ITEM_0074}A
+{C17}Sweet, sour and
+spicy.{PAUSE}{EOM}{EOM}
+
+Message 117:
+{C13}{ITEM_0075}S
+{C17}Sweet, sour,
+juicy and spicy.{PAUSE}{EOM}
+
+Message 118:
+{C13}{ITEM_0076}B
+{C17}Very sour,
+spicy and sweet.{PAUSE}{EOM}
+
+Message 119:
+{C13}{ITEM_0077}A
+{C17}Less spicy than
+{ITEM_0076}B.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+{C13}{ITEM_0078}S
+{C17}Very tasty and
+good quality.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+{C13}{ITEM_0079}B
+{C17}Sour and bitter.{PAUSE}{EOM}
+
+Message 122:
+{C13}{ITEM_007A}A
+{C17}Tangy and bitter
+but somewhat sweet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+{C13}{ITEM_007B}S
+{C17}Tastefully sweet
+and not bitter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+{C13}{ITEM_007C}B
+{C17}Very sour.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+{C13}{ITEM_007D}A
+{C17}Pretty sour but
+sweet and tasty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+{C13}{ITEM_007E}S
+{C17}Sweet, sour and
+very tasty.{PAUSE}{EOM}
+
+Message 127:
+{C13}{ITEM_007F}B
+{C17}Spicy hot but
+somewhat sweet.{PAUSE}{EOM}
+
+Message 128:
+{C13}{ITEM_0080}A
+{C17}Sweet, juicy
+and spicy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 129:
+{C13}{ITEM_0081}S
+{C17}Sweet and juicy yet
+tastefully spicy.{PAUSE}{EOM}{EOM}
+
+Message 130:
+{C13}{ITEM_0082}B
+{C17}Somewhat sweet.{PAUSE}{EOM}{EOM}
+
+Message 131:
+{C13}{ITEM_0083}A
+{C17}Somewhat sweet
+and slightly bitter.{PAUSE}{EOM}
+
+Message 132:
+{C13}{ITEM_0084}S
+{C17}Sweet and very
+tasty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+{C13}{ITEM_0085}B
+{C17}Bitter and
+astringent.{PAUSE}{EOM}
+
+Message 134:
+{C13}{ITEM_0086}A
+{C17}Sweet, bitter
+and robust.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 135:
+{C13}{ITEM_0087}S
+{C17}Sweet and tastefully
+bitter and robust.{PAUSE}{EOM}{EOM}
+
+Message 136:
+{C13}{ITEM_0088}B
+{C17}Plain and
+somewhat sweet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+{C13}{ITEM_0089}A
+{C17}Juicy and
+slightly sweet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+{C13}{ITEM_008A}S
+{C17}Sweet, juicy
+and robust.{PAUSE}{EOM}{EOM}
+
+Message 139:
+{C13}{ITEM_008B}B
+{C17}Somewhat sweet.
+Unique shape.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+{C13}{ITEM_008C}A
+{C17}Pretty sweet.
+Unique shape.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+{C13}{ITEM_008D}S
+{C17}Sweet and robust.
+Unique shape.{PAUSE}{EOM}
+
+Message 142:
+{C13}{ITEM_008E}B
+{C17}Bitter. Swings
+like a pendulum.{PAUSE}{EOM}
+
+Message 143:
+{C13}{ITEM_008F}A
+{C17}Tangy. Swings
+like a pendulum.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 144:
+{C13}{ITEM_0090}S
+{C17}Very tangy. Swings
+like a pendulum.{PAUSE}{EOM}{EOM}
+
+Message 145:
+{C13}{ITEM_0091}B
+{C17}Bitter...2 fruits
+in a shell.{PAUSE}{EOM}
+
+Message 146:
+{C13}{ITEM_0092}A
+{C17}Plain...2 fruits
+in a shell.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 147:
+{C13}{ITEM_0093}S
+{C17}Sweet and bitter...2
+fruits in a shell.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+{C13}{ITEM_0094}B
+{C17}Very bitter. The stem
+functions uniquely.{PAUSE}{EOM}{EOM}
+
+Message 149:
+{C13}{ITEM_0095}A
+{C17}Bitter. The stem
+functions uniquely.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 150:
+{C13}{ITEM_0096}S
+{C17}Robust. The stem
+functions uniquely.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+{C13}{ITEM_0097}B
+{C17}Spicy. Several
+peas in a pod.{PAUSE}{EOM}{EOM}
+
+Message 152:
+{C13}{ITEM_0098}A
+{C17}Very hot. Several
+peas in a pod.{PAUSE}{EOM}
+
+Message 153:
+{C13}{ITEM_0099}S
+{C17}Super hot. Several
+peas in a pod.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+{C13}{ITEM_009A}B
+{C17}Bitter and robust.
+Unique taste.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 155:
+{C13}{ITEM_009B}A
+{C17}Bitter and robust.
+Unique scent.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+{C13}{ITEM_009C}S
+{C17}Plain flavor.{PAUSE}{EOM}{EOM}
+
+Message 157:
+{C13}{ITEM_009D}B
+{C17}Plain flavor.{PAUSE}{EOM}{EOM}
+
+Message 158:
+{C13}{ITEM_009E}A
+{C17}Plain and
+slightly sweet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+{C13}{ITEM_009F}S
+{C17}Sweet and robust.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+{C13}{ITEM_00A0}B
+{C17}Bitter and robust.
+Medicinal use.{PAUSE}{EOM}
+
+Message 161:
+{C13}{ITEM_00A1}A
+{C17}Very robust.
+Removes fatigue.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 162:
+{C13}{ITEM_00A2}S
+{C17}Super bitter.
+Very good for you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+{C13}{ITEM_00A3}B
+{C17}Very tangy
+and sticky.{PAUSE}{EOM}{EOM}
+
+Message 164:
+{C13}{ITEM_00A4}A
+{C17}Sweet, sour and
+sticky. Good for you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+{C13}{ITEM_00A5}S
+{C17}Sweet, sour and
+sticky. Good for you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+{C13}{ITEM_00A6}B
+{C17}Sweet and tasty.
+Sounds like a bell.{PAUSE}{EOM}
+
+Message 167:
+{C13}{ITEM_00A7}A
+{C17}Sweet and robust.
+Sounds like a bell.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 168:
+{C13}{ITEM_00A8}S
+{C17}Very sweet.
+Sounds like a bell.{PAUSE}{EOM}{EOM}
+
+Message 169:
+{C13}{ITEM_00A9}B
+{C17}Pretty hot. Sounds
+like the maracas.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+{C13}{ITEM_00AA}A
+{C17}Very hot. Sounds
+like the maracas.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 171:
+{C13}{ITEM_00AB}S
+{C17}Super hot. Sounds
+like the maracas.{PAUSE}{EOM}{EOM}
+
+Message 172:
+{C13}{ITEM_00AC}B
+{C17}Sour. Sounds
+like the cymbals.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 173:
+{C13}{ITEM_00AD}A
+{C17}Very sour. Sounds
+like the cymbals.{PAUSE}{EOM}{EOM}
+
+Message 174:
+{C13}{ITEM_00AE}S
+{C17}Super sour. Sounds
+like the cymbals.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 175:
+{C13}{ITEM_00AF}B
+{C17}Bitter. Sounds
+like a whistle.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 176:
+{C13}{ITEM_00B0}A
+{C17}Very bitter. Sounds
+like a whistle.{PAUSE}{EOM}{EOM}
+
+Message 177:
+{C13}{ITEM_00B1}S
+{C17}Super bitter. Sounds
+like a whistle.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+{C13}{ITEM_00B2}B
+{C17}Bitter and robust.
+Smells after eaten.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+{C13}{ITEM_00B3}A
+{C17}Tasty. Smells
+strong after eaten.{PAUSE}{EOM}
+
+Message 180:
+{C13}{ITEM_00B4}S
+{C17}Tasty. Smells
+bad after eaten.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+{C13}{ITEM_00B5}B
+{C17}Bitter. Flowers
+eat insects.{PAUSE}{EOM}{EOM}
+
+Message 182:
+{C13}{ITEM_00B6}A
+{C17}Robust and tangy.
+Flowers eat insects.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+{C13}{ITEM_00B7}S
+{C17}Very robust.
+Flowers eat insects.{PAUSE}{EOM}
+
+Message 184:
+{C13}{ITEM_00B8}B
+{C17}Sweet. A big
+{ITEM_0034}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 185:
+{C13}{ITEM_00B9}A
+{C17}Very sweet. A big
+{ITEM_0035}.{PAUSE}{EOM}{EOM}
+
+Message 186:
+{C13}{ITEM_00BA}S
+{C17}Super sweet. A big
+{ITEM_0036}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+{C13}{ITEM_00BB}B
+{C17}Bitter.
+a.k.a. Cordyceps.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 188:
+{C13}{ITEM_00BC}A
+{C17}Bitter and good.
+a.k.a. Cordyceps.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+{C13}{ITEM_00BD}S
+{C17}Super bitter.
+a.k.a. Cordyceps.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 190:
+{C13}{ITEM_00BE}B
+{C17}Sweet and hot.
+Flashes red.{PAUSE}{EOM}
+
+Message 191:
+{C13}{ITEM_00BF}A
+{C17}Very sweet and hot.
+Flashes red.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 192:
+{C13}{ITEM_00C0}S
+{C17}Super sweet and hot.
+Flashes red.{PAUSE}{EOM}{EOM}
+
+Message 193:
+{C13}{ITEM_00C1}B
+{C17}Sweet and sour.
+Glows blue.{PAUSE}{EOM}
+
+Message 194:
+{C13}{ITEM_00C2}A
+{C17}Very sweet and sour.
+Glows blue.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 195:
+{C13}{ITEM_00C3}S
+{C17}Super sweet and sour.
+Glows blue.{PAUSE}{EOM}{EOM}
+
+Message 196:
+{C13}{ITEM_00C4}B
+{C17}Sour and spicy.
+Flashes yellow.{PAUSE}{EOM}
+
+Message 197:
+{C13}{ITEM_00C5}A
+{C17}Very tangy.
+Flashes yellow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 198:
+{C13}{ITEM_00C6}S
+{C17}Super tangy.
+Flashes yellow.{PAUSE}{EOM}{EOM}
+
+Message 199:
+{C13}{ITEM_00C7}B
+{C17}Bitter and robust.
+Flashes white.{PAUSE}{EOM}
+
+Message 200:
+{C13}{ITEM_00C8}A
+{C17}Bitter and strong.
+Flashes white.{PAUSE}{EOM}
+
+Message 201:
+{C13}{ITEM_00C9}S
+{C17}Super bitter.
+Flashes white.{PAUSE}{EOM}{EOM}
+
+Message 202:
+{C13}{ITEM_00CA}B
+{C17}Hot with an
+unique shape.{PAUSE}{EOM}
+
+Message 203:
+{C13}{ITEM_00CB}A
+{C17}Sweet and robust.
+Beautiful.{PAUSE}{EOM}{EOM}
+
+Message 204:
+{C13}{ITEM_00CC}S
+{C17}Sweet and hot.
+A strong contrast.{PAUSE}{EOM}{EOM}
+
+Message 205:
+{C13}{ITEM_00CD}B
+{C17}Hot. Flowers
+face the moon.{PAUSE}{EOM}
+
+Message 206:
+{C13}{ITEM_00CE}A
+{C17}Very hot. Flowers
+face the moon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 207:
+{C13}{ITEM_00CF}S
+{C17}Super hot. Flowers
+face the moon.{PAUSE}{EOM}{EOM}
+
+Message 208:
+{C13}{ITEM_00D0}B
+{C17}Hot. Flowers
+face the sun.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 209:
+{C13}{ITEM_00D1}A
+{C17}Very hot. Flowers
+face the sun.{PAUSE}{EOM}{EOM}
+
+Message 210:
+{C13}{ITEM_00D2}S
+{C17}Super hot. Flowers
+face the sun.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 211:
+{C13}{ITEM_00D3}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+{C13}{ITEM_00D4}A
+{C17}Juicier than
+{ITEM_00D3}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+{C13}{ITEM_00D5}S
+{C17}Very sweet and
+good quality.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+{C13}{ITEM_00D6}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 215:
+{C13}{ITEM_00D7}A
+{C17}Juicier than
+{ITEM_00D6}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 216:
+{C13}{ITEM_00D8}S
+{C17}Sweet and sour.
+Very good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+{C13}{ITEM_00D9}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 218:
+{C13}{ITEM_00DA}A
+{C17}Juicier than
+{ITEM_00D9}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 219:
+{C13}{ITEM_00DB}S
+{C17}Very sweet and
+good quality.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 220:
+{C13}{ITEM_00DC}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 221:
+{C13}{ITEM_00DD}A
+{C17}Sweeter than
+{ITEM_00DC}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 222:
+{C13}{ITEM_00DE}S
+{C17}Very sweet and
+good quality.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 223:
+{C13}{ITEM_00DF}B
+{C17}Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 224:
+{C13}{ITEM_00E0}A
+{C17}Sweeter than
+{ITEM_00DF}B.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+{C13}{ITEM_00E1}S
+{C17}Sweet and sour.
+Very good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 226:
+{C13}{ITEM_00E2}B
+{C17}Sour and tasty.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+{C13}{ITEM_00E3}A
+{C17}Sweet, sour and
+juicy.{PAUSE}{EOM}{EOM}
+
+Message 228:
+{C13}{ITEM_00E4}S
+{C17}Sweet, sour and
+juicy. Good quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 229:
+{C13}{ITEM_00E5}B
+{C17}Bitter and robust
+yet sweet and sour.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 230:
+{C13}{ITEM_00E6}A
+{C17}Bitter and robust
+yet sweet and tasty.{PAUSE}{EOM}
+
+Message 231:
+{C13}{ITEM_00E7}S
+{C17}Juicy, sweet
+and robust.{PAUSE}{EOM}{EOM}
+
+Message 232:
+{C13}{ITEM_00E8}B
+{C17}Sweet and sour.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 233:
+{C13}{ITEM_00E9}A
+{C17}Juicy, sweet
+and sour.{PAUSE}{EOM}{EOM}
+
+Message 234:
+{C13}{ITEM_00EA}S
+{C17}Sweet, robust
+and juicy.{PAUSE}{EOM}{EOM}
+
+Message 235:
+{C13}{ITEM_00EB}B
+{C17}Pretty sour and
+sweet.{PAUSE}{EOM}{EOM}
+
+Message 236:
+{C13}{ITEM_00EC}A
+{C17}Sweet, sour, juicy
+and robust.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 237:
+{C13}{ITEM_00ED}S
+{C17}Sweet, sour,
+robust and juicy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 238:
+{C13}{ITEM_00EE}B
+{C17}Sour yet sweet
+and bitter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 239:
+{C13}{ITEM_00EF}A
+{C17}Sweet, sour and
+robust.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 240:
+{C13}{ITEM_00F0}S
+{C17}Sweet, sour,
+robust and juicy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 241:
+{C13}{ITEM_00F1}B
+{C17}Sweet and sour.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 242:
+{C13}{ITEM_00F2}A
+{C17}Sweet, sour and
+robust.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 243:
+{C13}{ITEM_00F3}S
+{C17}Sweet, sour,
+robust and juicy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 244:
+{C13}{ITEM_00F4}B
+{C17}Very sour.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 245:
+{C13}{ITEM_00F5}A
+{C17}Sweet, sour and
+juicy.{PAUSE}{EOM}{EOM}
+
+Message 246:
+{C13}{ITEM_00F6}S
+{C17}Sweet, sour,
+robust and juicy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 247:
+{C13}{ITEM_00F7}B
+{C17}Sour and bitter.{PAUSE}{EOM}
+
+Message 248:
+{C13}{ITEM_00F8}A
+{C17}Sweet and sour
+yet bitter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 249:
+{C13}{ITEM_00F9}S
+{C17}Sweet, robust
+and juicy.{PAUSE}{EOM}{EOM}
+
+Message 250:
+{C13}{ITEM_00FA}B
+{C17}Sour and bitter
+yet slightly sweet.{PAUSE}{EOM}{EOM}
+
+Message 251:
+{C13}{ITEM_00FB}A
+{C17}Very robust.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 252:
+{C13}{ITEM_00FC}S
+{C17}Robust, juicy
+and slightly sweet.{PAUSE}{EOM}
+
+Message 253:
+{C13}{ITEM_00FD}B
+{C17}Very sour and
+tasty.{PAUSE}{EOM}{EOM}
+
+Message 254:
+{C13}{ITEM_00FE}A
+{C17}Sweet and sour.
+Very tasty.{PAUSE}{EOM}
+
+Message 255:
+{C13}{ITEM_00FF}S
+{C17}Robust and sweet.
+Very juicy.{PAUSE}{EOM}
+
+Message 256:
+{C13}{ITEM_0100}B
+{C17}Slightly sweet
+with pulp.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 257:
+{C13}{ITEM_0101}A
+{C17}Very sweet.{PAUSE}{EOM}{EOM}
+
+Message 258:
+{C13}{ITEM_0102}S
+{C17}Sweet, robust
+and juicy.{PAUSE}{EOM}{EOM}
+
+Message 259:
+{C13}{ITEM_0103}B
+{C17}Sweet and sour.
+Very seedy.{PAUSE}{EOM}
+
+Message 260:
+{C13}{ITEM_0104}A
+{C17}Very sweet and sour.
+Very seedy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 261:
+{C13}{ITEM_0105}S
+{C17}Sweet and robust.
+Slightly sour.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 262:
+{C13}{ITEM_0106}B
+{C17}Very bitter.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 263:
+{C13}{ITEM_0107}A
+{C17}Sweet and robust.
+Slightly bitter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 264:
+{C13}{ITEM_0108}S
+{C17}Very sweet and
+juicy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 265:
+{C13}{ITEM_0109}B
+{C17}Uniquely sweet.
+Strong scent.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 266:
+{C13}{ITEM_010A}A
+{C17}Very sweet.
+Strong scent.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 267:
+{C13}{ITEM_010B}S
+{C17}Super sweet.
+Strong scent.{PAUSE}{EOM}{EOM}
+
+Message 268:
+{C13}{ITEM_010C}B
+{C17}Sour juice in
+a hard shell.{PAUSE}{EOM}{EOM}
+
+Message 269:
+{C13}{ITEM_010D}A
+{C17}Sweet and sour juice
+in a hard shell.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 270:
+{C13}{ITEM_010E}S
+{C17}Very sweet juice
+in a hard shell.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 271:
+{C13}{ITEM_010F}B
+{C17}Sweet and robust.
+Strong flavor.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 272:
+{C13}{ITEM_0110}A
+{C17}Slightly sweet
+and bitter.{PAUSE}{EOM}{EOM}
+
+Message 273:
+{C13}{ITEM_0111}S
+{C17}Uniquely sweet
+and bitter.{PAUSE}{EOM}{EOM}
+
+Message 274:
+{C13}{ITEM_0112}B
+{C17}Slightly sweet.{PAUSE}{EOM}{EOM}
+
+Message 275:
+{C13}{ITEM_0113}A
+{C17}Tropical sweet.{PAUSE}{EOM}{EOM}
+
+Message 276:
+{C13}{ITEM_0114}S
+{C17}Sweet, sour,
+robust and juicy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 277:
+{C13}{ITEM_0115}B
+{C17}Sweet and tangy.
+Very seedy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 278:
+{C13}{ITEM_0116}A
+{C17}Sweet and sour.
+Very seedy.{PAUSE}{EOM}
+
+Message 279:
+{C13}{ITEM_0117}S
+{C17}Sweet, robust
+and juicy.{PAUSE}{EOM}{EOM}
+
+Message 280:
+{C13}{ITEM_0118}B
+{C17}Sour.{PAUSE}{EOM}
+
+Message 281:
+{C13}{ITEM_0119}A
+{C17}Sour, tangy
+and slightly sweet.{PAUSE}{EOM}
+
+Message 282:
+{C13}{ITEM_011A}S
+{C17}Very sour and
+tangy.{PAUSE}{EOM}{EOM}
+
+Message 283:
+{C13}{ITEM_011B}B
+{C17}Seasons:
+Spring - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 284:
+{C13}{ITEM_011C}B
+{C17}Seasons:
+Spring - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 285:
+{C13}{ITEM_011D}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 286:
+{C13}{ITEM_011E}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 287:
+{C13}{ITEM_011F}A
+{C17}Seasons:
+Spring - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 288:
+{C13}{ITEM_0120}A
+{C17}Seasons:
+Spring - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 289:
+{C13}{ITEM_0121}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 290:
+{C13}{ITEM_0122}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 291:
+{C13}{ITEM_0123}S
+{C17}Seasons:
+Spring - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 292:
+{C13}{ITEM_0124}S
+{C17}Seasons:
+Spring - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 293:
+{C13}{ITEM_0125}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 294:
+{C13}{ITEM_0126}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 295:
+{C13}{ITEM_0127}B
+{C17}Seasons:
+Spring - Summer{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 296:
+{C13}{ITEM_0128}B
+{C17}Seasons:
+Spring - Summer{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 297:
+{C13}{ITEM_0129}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 298:
+{C13}{ITEM_012A}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 299:
+{C13}{ITEM_012B}A
+{C17}Seasons:
+Spring - Summer{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 300:
+{C13}{ITEM_012C}A
+{C17}Seasons:
+Spring - Summer{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 301:
+{C13}{ITEM_012D}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 302:
+{C13}{ITEM_012E}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 303:
+{C13}{ITEM_012F}S
+{C17}Seasons:
+Spring - Summer{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 304:
+{C13}{ITEM_0130}S
+{C17}Seasons:
+Spring - Summer{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 305:
+{C13}{ITEM_0131}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 306:
+{C13}{ITEM_0132}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 307:
+{C13}{ITEM_0133}B
+{C17}Seasons:
+Fall - Spring{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 308:
+{C13}{ITEM_0134}B
+{C17}Seasons:
+Fall - Spring{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 309:
+{C13}{ITEM_0135}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 310:
+{C13}{ITEM_0136}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 311:
+{C13}{ITEM_0137}A
+{C17}Seasons:
+Fall - Spring{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 312:
+{C13}{ITEM_0138}A
+{C17}Seasons:
+Fall - Spring{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 313:
+{C13}{ITEM_0139}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 314:
+{C13}{ITEM_013A}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 315:
+{C13}{ITEM_013B}S
+{C17}Seasons:
+Fall - Spring{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 316:
+{C13}{ITEM_013C}S
+{C17}Seasons:
+Fall - Spring{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 317:
+{C13}{ITEM_013D}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 318:
+{C13}{ITEM_013E}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 319:
+{C13}{ITEM_013F}B
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 320:
+{C13}{ITEM_0140}B
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 321:
+{C13}{ITEM_0141}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 322:
+{C13}{ITEM_0142}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 323:
+{C13}{ITEM_0143}A
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 324:
+{C13}{ITEM_0144}A
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 325:
+{C13}{ITEM_0145}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 326:
+{C13}{ITEM_0146}A
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 327:
+{C13}{ITEM_0147}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 328:
+{C13}{ITEM_0148}S
+{C17}Seasons:
+Summer - Fall{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}
+
+Message 329:
+{C13}{ITEM_0149}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 330:
+{C13}{ITEM_014A}S
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 331:
+{C13}{ITEM_014B}B
+{C17}Seasons:
+Summer - Winter{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}
+
+Message 332:
+{C13}{ITEM_014C}B
+{C17}Seasons:
+Summer - Winter{PAUSE}{WIPE}
+Soil: Any
+Growth: Very Fast{PAUSE}{EOM}
+
+Message 333:
+{C13}{ITEM_014D}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 334:
+{C13}{ITEM_014E}B
+{C17}Seasons:
+Any{PAUSE}{WIPE}
+Soil: Any
+Growth: Fast{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

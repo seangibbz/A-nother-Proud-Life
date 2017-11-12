@@ -1,0 +1,2338 @@
+Message 0:
+Howdy!
+The weather will be
+perfect today!{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+Howdy!
+The weather will be
+nice today.{EOM}{EOM}
+
+Message 2:
+Howdy!
+It'll be a bit
+cloudy today.{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+Howdy!
+It'll rain today.{EOM}{EOM}{EOM}
+
+Message 4:
+Howdy!
+It'll snow today.{EOM}{EOM}{EOM}
+
+Message 5:
+Howdy!
+Oh, no. A rain
+storm is coming.{EOM}{EOM}{EOM}
+
+Message 6:
+Howdy!
+The weather will be
+nice today.{EOM}{EOM}
+
+Message 7:
+Howdy!
+The weather will be
+perfect today!{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+Howdy!
+It'll get cloudy
+today.{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+Howdy!
+The weather will be
+nice today.{EOM}{EOM}
+
+Message 10:
+Howdy!
+It'll start raining
+today.{EOM}{EOM}
+
+Message 11:
+Howdy!
+It'll start snowing
+today.{EOM}{EOM}
+
+Message 12:
+Howdy!
+It'll stop raining
+today.{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+Howdy!
+It'll snow today.
+Very cold.{EOM}{EOM}{EOM}
+
+Message 14:
+Howdy!
+The snow will change
+to rain today.{EOM}{EOM}{EOM}
+
+Message 15:
+Howdy!
+It'll stop snowing
+today.{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+Howdy!
+Oh, no. A rain
+storm is coming.{EOM}{EOM}{EOM}
+
+Message 17:
+Howdy!
+The rain storm will
+weaken today.{EOM}{EOM}
+
+Message 18:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It will be nice due
+to the high pressure
+cell in the area.{EOM}
+
+Message 19:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+There'll be a thin
+cloud layer, but we
+expect to have nice{PAUSE}
+weather.{EOM}{EOM}
+
+Message 20:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It'll be cloudy
+due to a warm
+front.{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It'll rain due to the
+stationary front.{EOM}
+
+Message 22:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It'll be very cold
+and snow.{EOM}{EOM}
+
+Message 23:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+We expect a heavy
+rain due to a low
+pressure cell.{EOM}{EOM}{EOM}
+
+Message 24:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+There'll be a thin
+cloud layer, but we
+expect nice weather.{EOM}
+
+Message 25:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It will be nice due
+to the high pressure
+cell in the area.{EOM}
+
+Message 26:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It'll be cloudy
+due to a warm
+front.{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It will be nice due
+to the high pressure
+cell in the area.{EOM}
+
+Message 28:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It'll start raining
+due to a warm front
+approaching.{EOM}
+
+Message 29:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It'll start snowing
+due to a warm front
+approaching.{EOM}
+
+Message 30:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It'll rain on and
+off for a while.{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It'll start snowing
+due to a cold front
+approaching.{EOM}
+
+Message 32:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+The snow will
+gradually change to
+rain.{EOM}
+
+Message 33:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It'll stop snowing
+due to the cold
+front passing.{EOM}{EOM}{EOM}
+
+Message 34:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+Alert!
+A big hurricane is
+Approaching!{EOM}{EOM}
+
+Message 35:
+This is the weather
+report for the next
+12 hours.{PAUSE}
+It'll keep raining
+for a while after
+the hurricane.{EOM}{EOM}{EOM}
+
+Message 36:
+Dairy Farm News!
+Today we'll talk
+about food for the{PAUSE}
+cattle. Do you guys
+have a question,
+Cole or Tom? {PAUSE}
+Cole: "What do the
+cattle eat?"{PAUSE}
+...They mainly eat
+{C13}{ITEM_0003}{C17}
+twice a day!{PAUSE}
+Tom: "I see. They eat
+twice a day. Do they
+eat snacks? I can't{PAUSE}
+live without snacks
+myself!" {PAUSE}
+...Like every other
+kid, the cattle like
+to have snacks too.{PAUSE}
+Tom: "Really? They
+eat snacks like us?"{PAUSE}
+...But you can't give
+too many snacks just
+because they like it.{PAUSE}
+They have to eat
+{C13}{ITEM_0003}{C17}
+everyday.{PAUSE}
+Tom: "Okay!"
+...See you next time.{EOM}{EOM}
+
+Message 37:
+Dairy Farm News!
+Today we'll talk
+about stress.{PAUSE}
+Do you guys have a
+question, Cole or
+Tom? {PAUSE}
+Tom: "Huh...mmm..."
+...What's wrong, Tom?{PAUSE}
+Tom: "I feel
+irritated. I guess
+I'm stressed out."{PAUSE}
+...Well, you have to
+learn to release your
+stress. {PAUSE}
+Cole: "Do the cattle
+get stressed out?"
+...Yes, they do.{PAUSE}
+Let me tell you about
+their stress. {PAUSE}
+When they get
+stressed out, they
+easily get annoyed,{PAUSE}
+and they produce
+less milk both in
+terms of the quality{PAUSE}
+and the quantity.
+Sometimes they get
+sick as well. {PAUSE}
+Cole: "I see. But
+how do they get
+stressed?" {PAUSE}
+...For example, if
+you keep them in the
+barn for a long time,{PAUSE}
+or if you keep them
+outside in the rain,
+and if you ever annoy{PAUSE}
+them intentionally,
+they'll get unhappy.
+Tom: "Just like us."{PAUSE}
+Cole: "How do you
+make them feel
+better?"{PAUSE}
+...You can let them
+outside when the
+weather is nice. {PAUSE}
+Don't forget to brush
+them and wash them
+too. {PAUSE}
+Cole: "I like to
+play outside too."
+Tom: "I can release{PAUSE}
+my stress by eating."
+...Oh, Tom.
+See you next time!{EOM}{EOM}{EOM}
+
+Message 38:
+Dairy Farm News!
+Today we'll talk
+about milk.{PAUSE}
+Do you guys have a
+question, Cole or
+Tom?{PAUSE}
+Tom: "How many times
+can we milk a cow?"
+...If you milk a cow{PAUSE}
+in the morning, you
+can do it one more
+time in the evening.{PAUSE}
+Cole: "Twice a day?
+Wow, cows are hard
+working!"{PAUSE}
+...Hey, Cole, did you
+know that you can
+only milk cows that{PAUSE}
+have had babies?
+Cole: "Yes, I know!"
+Tom: "Really!? I{PAUSE}
+thought they all have
+milk when they grow
+up!"{PAUSE}
+...Many people don't
+know about it. Humans
+are the same, right?{PAUSE}
+Tom: "I see. Cows
+are like humans."
+...Milking is good{PAUSE}
+for them. If you
+don't milk them for
+a while, they get{PAUSE}
+sick, so be careful.
+Tom: "I could never
+leave delicious milk{PAUSE}
+alone!"
+...Oh, Tom. You have
+to be nice to the{PAUSE}
+cows when you milk
+them. You can't just
+milk them whenever{PAUSE}
+you want.
+Tom: "Okay!"
+...See you next time!{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+Dairy Farm News!
+Today we'll talk
+about the quantity{PAUSE}
+of milk. Do you guys
+have a question,
+Cole or Tom?{PAUSE}
+Cole: "Do the cows
+have the same amount
+of milk everyday?"{PAUSE}
+...The quantity of
+milk they produce
+depends on their{PAUSE}
+health, the seasons
+and the days past
+delivery.{PAUSE}
+Cole: "Really? The
+seasons too?"
+...They produce more{PAUSE}
+milk in the cold
+seasons than the
+warm ones.{PAUSE}
+Tom: "What do you
+mean by the days past
+delivery?"{PAUSE}
+...They produce less
+milk as the time goes
+by from the day they{PAUSE}
+had a baby. In about
+40 days, they stop
+producing milk.{PAUSE}
+Tom: "I see, so if
+you want to get milk,
+they have to have{PAUSE}
+babies regularly."
+...That's right.
+See you next time!{EOM}
+
+Message 40:
+Dairy Farm News!
+Today we'll talk
+about the quality{PAUSE}
+of milk. Do you guys
+have a question,
+Cole or Tom?{PAUSE}
+Tom: "I think milk
+tastes different
+depending on the{PAUSE}
+season. Is it just
+me, or...?"
+...Good point, Tom!{PAUSE}
+Cole: "Really? It
+tastes different?"
+...Yes, Cole. {PAUSE}
+It tastes better in
+the cold seasons.
+Tom: "I knew it!{PAUSE}
+But I have a
+question..."
+...What, Tom?{PAUSE}
+Tom: "Do calves drink
+the same milk as we
+do? They need a lot{PAUSE}
+of nutrients, right?"
+...Tom, another good
+point! Cows that just{PAUSE}
+have had babies
+produce special milk.
+Tom: "I knew it!"{PAUSE}
+...The milk produced
+within 3 days of
+delivery is full of{PAUSE}
+special nutrients.
+Calves grow stronger
+with this milk.{PAUSE}
+Cole: "Really. The
+milk is very
+important!"{PAUSE}
+...We drink normal
+milk, but the special
+milk is not sold{PAUSE}
+anywhere because it's
+for calves.
+Tom: "I see. So the{PAUSE}
+milk we drink and the
+milk calves drink are
+different... I wonder{PAUSE}
+what it tastes like?"
+...You may be able to
+taste it if you go to{PAUSE}
+a farm.
+Tom: "Sounds good...
+I'll try it."{PAUSE}
+...Oh, Tom. You do
+anything for food?
+See you next time!{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+Dairy Farm News!
+Today we'll talk
+about a calf's birth.{PAUSE}
+Do you guys have a
+question, Cole or
+Tom?{PAUSE}
+Cole: "How long do
+calves stay in their
+moms' tummy?"{PAUSE}
+...About 30 days.
+Cole: "That long?"
+Tom: "Is there any{PAUSE}
+way to know when the
+baby is coming? I'd
+be surprised if they{PAUSE}
+came all of a
+sudden."
+...Ha ha, you're{PAUSE}
+right. As it gets
+closer to the due
+date, a cow's udder{PAUSE}
+becomes reddish.
+Tom: "When does that
+start?"{PAUSE}
+...Um, about 6 days
+prior to the due
+date. In the mean{PAUSE}
+time, mommy cows have
+to eat well. It's
+called the{PAUSE}
+'dry period'.
+Can you guys say it?
+Both: "Dry period."{PAUSE}
+...That's right.
+We can't milk them
+during that period.{PAUSE}
+Both: "Okay!"
+...And when a mother
+cow's udder becomes{PAUSE}
+reddish , make a
+space for her in the
+barn, okay?{PAUSE}
+Cole: "We can make a
+fence to protect
+her!" {PAUSE}
+...Yes, and don't
+forget to take care
+of her everyday.{PAUSE}
+Both: "Okay!"
+See you next time!{EOM}
+
+Message 42:
+Dairy Farm News!
+Today we'll talk
+about calves.{PAUSE}
+Do you guys have a
+question, Cole or
+Tom?{PAUSE}
+Cole: "How do you
+take care of a
+newborn calf?"{PAUSE}
+...Newborn calves are
+very delicate, so be
+careful with germs.{PAUSE}
+Tom: "I guess they
+were protected by
+their moms before{PAUSE}
+they were born."
+...To protect a baby
+calf, isolate it from{PAUSE}
+other animals.
+Cole: "They can't
+stay with their{PAUSE}
+moms?"
+...They could, but
+it's better to be{PAUSE}
+safe than sorry.
+Cole: "I guess so."
+Tom: "What do they{PAUSE}
+eat?"
+...They only drink
+milk for 6 days after{PAUSE}
+birth.
+Cole: "So we have to
+get milk for them{PAUSE}
+from their moms."
+...It's a lot of work
+to take care of{PAUSE}
+newborn calves.
+Tom: "But! They'll
+drink milk from the{PAUSE}
+bottles we give
+them, right? Once we
+see the way they{PAUSE}
+drink milk, we'll
+forget all the
+troubles because{PAUSE}
+they are so cute!"
+...You're right.
+After about 6 days,{PAUSE}
+they can start eating
+{C13}{ITEM_0003}{C17} too.
+Then they can soon{PAUSE}
+join others in the
+barn.
+Both: "Okay!"{PAUSE}
+...See you next time!{EOM}{EOM}{EOM}
+
+Message 43:
+Dairy Farm News!
+Today we are visiting
+a farm with Cole{PAUSE}
+and Tom.
+Cole: "Wow! The farm
+is big, and it feels{PAUSE}
+good being outdoors!"
+Tom: "Let's go to
+see the cattle!"{PAUSE}
+.....................
+Cole: "Hey, I can
+hear the cattle now!"{PAUSE}
+...Cole, can you tell
+how that cow is
+feeling?{PAUSE}
+Cole: "What?! They
+are saying some-
+thing?"{PAUSE}
+...Of course.
+Tom: "There is a
+variety of moos."{PAUSE}
+...Let's learn about
+cows' expressions
+today.{PAUSE}
+{S_3400D1}{S_3204B0}This one is normal.{PAUSE}
+{S_320320}{S_3400CE}{S_3204B0}Oh, sounds happy.{PAUSE}
+Cole: "I can hear the
+difference!"
+...You see?{PAUSE}
+{S_3400D2}{S_3204B0}Tom: "Wow! That
+sounded sad!"{PAUSE}
+...That's right.
+Something might have
+happened.{PAUSE}
+Cole: "Cool! I feel
+like I can become
+friends with them!"{PAUSE}
+...Don't forget
+what you learned
+today.{PAUSE}
+Both: "Okay!"
+...That's it for
+today! Let's go back{PAUSE}
+to the studio now.
+Both: "Nooo!
+So soon?!"{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+Dairy Farm News!
+Today we'll talk
+about a variety of{PAUSE}
+cows. Do you have a
+question, Tom or
+Cole?{PAUSE}
+Tom: "I saw some cows
+with stars on their
+forehead at the farm.{PAUSE}
+What kind of cows
+are they?"
+...They must be the{PAUSE}
+Star Cows. Their milk
+is very good quality.
+The milk is good for{PAUSE}
+cheese and butter
+as well.
+Cole: "The Star Cows{PAUSE}
+have stars on their
+forehead. That's easy
+to remember."{PAUSE}
+Tom: "And I saw a cow
+that looked like a
+regular cow but with{PAUSE}
+some yellow and
+black spots."
+...You remember well,{PAUSE}
+Tom! The ones with
+yellow spots are the
+Marble Cows. Their{PAUSE}
+milk is good to
+make cheese with.
+Tom: "So the ones{PAUSE}
+with only black spots
+are Normal Cows."
+...Yes. The quality{PAUSE}
+of their milk is not
+as good as others,
+but they produce{PAUSE}
+more milk.
+Cole: "Are there any
+other kinds?"{PAUSE}
+...The Brown Cows are
+light brown color,
+and their milk is{PAUSE}
+good to make butter
+with.
+Cole: "I see. I wanna{PAUSE}
+see them."
+Tom: "I wanna drink
+all kinds of milk..."{PAUSE}
+...Oh, Tom.
+See you next time!{EOM}{EOM}
+
+Message 45:
+It's time for
+Dairy Farm News!
+But Cole is on{PAUSE}
+vacation, so the
+program has been
+canceled today.{EOM}{EOM}
+
+Message 46:
+Dairy Farm News!
+Today we'll talk
+about food for the{PAUSE}
+cattle. Do you guys
+have a question,
+Cole or Tom?{PAUSE}
+Cole: "What do the
+cattle eat?"{PAUSE}
+...They mainly eat
+{C13}{ITEM_0003}{C17}
+twice a day!{PAUSE}
+Tom: "I see. They eat
+twice a day. Do they
+eat snacks? I can't{PAUSE}
+live without snacks
+myself!"{PAUSE}
+...Like every other
+kid, the cattle like
+to have snacks too.{PAUSE}
+Tom: "Really? They
+eat snacks like us?"{PAUSE}
+...But you can't give
+too many snacks just
+because they like it.{PAUSE}
+They have to eat
+{C13}{ITEM_0003}{C17}
+everyday.{PAUSE}
+Tom: "Okay!"
+...See you next time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+Dairy Farm News!
+Today we'll talk
+about stress.{PAUSE}
+Do you guys have a
+question, Cole or
+Tom?{PAUSE}
+Tom: "Huh...mmm..."
+...What's wrong, Tom?{PAUSE}
+Tom: "I feel
+irritated. I guess
+I'm stressed out."{PAUSE}
+...Well, you have to
+learn to release your
+stress.{PAUSE}
+Cole: "Do the cattle
+get stressed out?"
+...Yes, they do.{PAUSE}
+Let me tell you about
+their stress. {PAUSE}
+When they get
+stressed out, they
+easily get annoyed,{PAUSE}
+and they produce
+less milk both in
+terms of the quality{PAUSE}
+and the quantity.
+Sometimes they get
+sick as well. {PAUSE}
+Cole: "I see. But
+how do they get
+stressed?" {PAUSE}
+...For example, if
+you keep them in the
+barn for a long time,{PAUSE}
+or if you keep them
+outside in the rain,
+and if you ever annoy{PAUSE}
+them intentionally,
+they'll get unhappy.
+Tom: "Just like us."{PAUSE}
+Cole: "How do you
+make them feel
+better?"{PAUSE}
+...You can let them
+outside when the
+weather is nice.{PAUSE}
+Don't forget to brush
+them and wash them
+too.{PAUSE}
+Cole: "I like to
+play outside too."
+Tom: "I can release{PAUSE}
+my stress by eating."
+...Oh, Tom.
+See you next time!{EOM}{EOM}{EOM}
+
+Message 48:
+Dairy Farm News!
+Today we'll talk
+about milk.{PAUSE}
+Do you guys have a
+question, Cole or
+Tom?{PAUSE}
+Tom: "How many times
+can we milk a cow?"
+...If you milk a cow{PAUSE}
+in the morning, you
+can do it one more
+time in the evening.{PAUSE}
+Cole: "Twice a day?
+Wow, cows are hard
+working!"{PAUSE}
+...Hey, Cole, did you
+know that you can
+only milk cows that{PAUSE}
+have had babies?
+Cole: "Yes, I know!"
+Tom: "Really!? I{PAUSE}
+thought they all have
+milk when they grow
+up!"{PAUSE}
+...Many people don't
+know about it. Humans
+are the same, right?{PAUSE}
+Tom: "I see. Cows
+are like humans."
+...Milking is good{PAUSE}
+for them. If you
+don't milk them for
+a while, they get{PAUSE}
+sick, so be careful.
+Tom: "I could never
+leave delicious milk{PAUSE}
+alone!"
+...Oh, Tom. You have
+to be nice to the{PAUSE}
+cows when you milk
+them. You can't just
+milk them whenever{PAUSE}
+you want.
+Tom: "Okay!"
+...See you next time!{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+Dairy Farm News!
+Today we'll talk
+about the quantity{PAUSE}
+of milk. Do you guys
+have a question,
+Cole or Tom?{PAUSE}
+Cole: "Do the cows
+have the same amount
+of milk everyday?"{PAUSE}
+...The quantity of
+milk they produce
+depends on their{PAUSE}
+health, the seasons
+and the days past
+delivery.{PAUSE}
+Cole: "Really? The
+seasons too?"
+...They produce more{PAUSE}
+milk in the cold
+seasons than the
+warm ones.{PAUSE}
+Tom: "What do you
+mean by the days past
+delivery?"{PAUSE}
+...They produce less
+milk as the time goes
+by from the day they{PAUSE}
+had a baby. In about
+40 days, they stop
+producing milk.{PAUSE}
+Tom: "I see, so if
+you want to get milk,
+they have to have{PAUSE}
+babies regularly."
+...That's right.
+See you next time!{EOM}
+
+Message 50:
+Dairy Farm News!
+Today we'll talk
+about the quality{PAUSE}
+of milk. Do you guys
+have a question,
+Cole or Tom?{PAUSE}
+Tom: "I think milk
+tastes different
+depending on the{PAUSE}
+season. Is it just
+me, or...?"
+...Good point, Tom!{PAUSE}
+Cole: "Really? It
+tastes different?"
+...Yes, Cole.{PAUSE}
+It tastes better in
+the cold seasons.
+Tom: "I knew it!{PAUSE}
+But I have a
+question..."
+...What, Tom?{PAUSE}
+Tom: "Do calves drink
+the same milk as we
+do? They need a lot{PAUSE}
+of nutrients, right?"
+...Tom, another good
+point! Cows that just{PAUSE}
+have had babies
+produce special milk.
+Tom: "I knew it!"{PAUSE}
+...The milk produced
+within 3 days of
+delivery is full of{PAUSE}
+special nutrients.
+Calves grow stronger
+with this milk.{PAUSE}
+Cole: "Really. The
+milk is very
+important!"{PAUSE}
+...We drink normal
+milk, but the special
+milk is not sold{PAUSE}
+anywhere because it's
+for calves.
+Tom: "I see. So the{PAUSE}
+milk we drink and the
+milk calves drink are
+different... I wonder{PAUSE}
+what it tastes like?"
+...You may be able to
+taste it if you go to{PAUSE}
+a farm.
+Tom: "Sounds good...
+I'll try it."{PAUSE}
+...Oh, Tom. You do
+anything for food?
+See you next time!{EOM}
+
+Message 51:
+Dairy Farm News!
+Today we'll talk
+about a calf's birth.{PAUSE}
+Do you guys have a
+question, Cole or
+Tom?{PAUSE}
+Cole: "How long do
+calves stay in their
+moms' tummy?"{PAUSE}
+...About 30 days.
+Cole: "That long?"
+Tom: "Is there any{PAUSE}
+way to know when the
+baby is coming? I'd
+be surprised if they{PAUSE}
+came all of a
+sudden."
+...Ha ha, you're{PAUSE}
+right. As it gets
+closer to the due
+date, a cow's udder{PAUSE}
+becomes reddish.
+Tom: "When does that
+start?"{PAUSE}
+...Um, about 6 days
+prior to the due
+date. In the mean{PAUSE}
+time, mommy cows have
+to eat well. It's
+called the{PAUSE}
+'dry period'.
+Can you guys say it? {PAUSE}
+Both: "Dry period."{PAUSE}
+...That's right.
+We can't milk them
+during that period.{PAUSE}
+Both: "Okay!"
+...And when a mother
+cow's udder becomes{PAUSE}
+reddish , make a
+space for her in the
+barn, okay?{PAUSE}
+Cole: "We can make a
+fence to protect
+her!"{PAUSE}
+...Yes, and don't
+forget to take care
+of her everyday.{PAUSE}
+Both: "Okay!"
+See you next time!{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+Dairy Farm News!
+Today we'll talk
+about calves.{PAUSE}
+Do you guys have a
+question, Cole or
+Tom?{PAUSE}
+Cole: "How do you
+take care of a
+newborn calf?"{PAUSE}
+...Newborn calves are
+very delicate, so be
+careful with germs.{PAUSE}
+Tom: "I guess they
+were protected by
+their moms before{PAUSE}
+they were born."
+...To protect a baby
+calf, isolate it from{PAUSE}
+other animals.
+Cole: "They can't
+stay with their{PAUSE}
+moms?"
+...They could, but
+it's better to be{PAUSE}
+safe than sorry.
+Cole: "I guess so."
+Tom: "What do they{PAUSE}
+eat?"
+...They only drink
+milk for 6 days after{PAUSE}
+birth.
+Cole: "So we have to
+get milk for them{PAUSE}
+from their moms."
+...It's a lot of work
+to take care of{PAUSE}
+newborn calves.
+Tom: "But! They'll
+drink milk from the{PAUSE}
+bottles we give
+them, right? Once we
+see the way they{PAUSE}
+drink milk, we'll
+forget all the
+troubles because{PAUSE}
+they are so cute!"
+...You're right.
+After about 6 days,{PAUSE}
+they can start eating
+{C13}{ITEM_0003}{C17} too.
+Then they can soon{PAUSE}
+join others in the
+barn.
+Both: "Okay!"{PAUSE}
+...See you next time!{EOM}{EOM}{EOM}
+
+Message 53:
+Dairy Farm News!
+Today we are visiting
+a farm with Cole{PAUSE}
+and Tom.
+Cole: "Wow! The farm
+is big, and it feels{PAUSE}
+good being outdoors!"
+Tom: "Let's go to
+see the cattle!"{PAUSE}
+.....................
+Cole: "Hey, I can
+hear the cattle now!"{PAUSE}
+...Cole, can you tell
+how that cow is
+feeling?{PAUSE}
+Cole: "What?! They
+are saying some-
+thing?"{PAUSE}
+...Of course.
+Tom: "There is a
+variety of moos."{PAUSE}
+...Let's learn about
+cows' expressions
+today.{PAUSE}
+{S_3400D1}{S_3204B0}This one is normal.{PAUSE}
+{S_320320}{S_3400CE}{S_3204B0}Oh, sounds happy.{PAUSE}
+Cole: "I can hear the
+difference!"
+...You see?{PAUSE}
+{S_3400D2}{S_3204B0}Tom: "Wow! That
+sounded sad!"{PAUSE}
+...That's right.
+Something might have
+happened.{PAUSE}
+Cole: "Cool! I feel
+like I can become
+friends with them!"{PAUSE}
+...Don't forget
+what you learned
+today.{PAUSE}
+Both: "Okay!"
+...That's it for
+today! Let's go back{PAUSE}
+to the studio now.
+Both: "Nooo!
+So soon?!"{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+Dairy Farm News!
+Today we'll talk
+about a variety of{PAUSE}
+cows. Do you have a
+question, Tom or
+Cole?{PAUSE}
+Tom: "I saw some cows
+with stars on their
+forehead at the farm.{PAUSE}
+What kind of cows
+are they?"
+...They must be the{PAUSE}
+Star Cows. Their milk
+is very good quality.
+The milk is good for{PAUSE}
+cheese and butter
+as well.
+Cole: "The Star Cows{PAUSE}
+have stars on their
+forehead. That's easy
+to remember."{PAUSE}
+Tom: "And I saw a cow
+that looked like a
+regular cow but with{PAUSE}
+some yellow and
+black spots."
+...You remember well,{PAUSE}
+Tom! The ones with
+yellow spots are the
+Marble Cows. Their{PAUSE}
+milk is good to
+make cheese with.
+Tom: "So the ones{PAUSE}
+with only black spots
+are Normal Cows."
+...Yes. The quality{PAUSE}
+of their milk is not
+as good as others,
+but they produce{PAUSE}
+more milk.
+Cole: "Are there any
+other kinds?"{PAUSE}
+...The Brown Cows are
+light brown color,
+and their milk is{PAUSE}
+good to make butter
+with.
+Cole: "I see. I wanna{PAUSE}
+see them."
+Tom: "I wanna drink
+all kinds of milk..."{PAUSE}
+...Oh, Tom.
+See you next time!{EOM}{EOM}
+
+Message 55:
+It's time for
+Dairy Farm News!
+But Cole is on{PAUSE}
+vacation, so the
+program has been
+canceled today.{EOM}{EOM}
+
+Message 56:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 57:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 58:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 59:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 60:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 61:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 62:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 63:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 64:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 65:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 66:
+Farming News!
+Today we'll talk
+about the fields.{PAUSE}
+Do you guys have a
+question, Syd or
+Jack?{PAUSE}
+Syd: "Can we plant
+seeds anywhere?"{PAUSE}
+...No, you have to
+sow the seeds in a
+prepared field. {PAUSE}
+Syd: "I see. What
+does it look like?"
+...You see a section{PAUSE}
+in the farm with good
+soil. You have to
+till the soil and{PAUSE}
+plant the seeds.
+Jack: "Can you grow
+any kind of crops?"{PAUSE}
+...Not really. Some
+crops need better
+soil than others,{PAUSE}
+do you understand?
+Jack: "Kind of..."
+...See you next time.{EOM}{EOM}{EOM}
+
+Message 67:
+Farming News!
+Today we'll talk
+about watering.{PAUSE}
+Do you guys have a
+question, Syd or
+Jack?{PAUSE}
+Jack: "So if you sow
+the seeds, do they
+start growing?"{PAUSE}
+...They don't grow
+unless you water
+them.{PAUSE}
+Syd: "How do you
+water them?"
+...Use your{PAUSE}
+Watering Can.
+Jack: "How often
+do we need to water{PAUSE}
+them?"
+...Well, you have to
+figure it out by{PAUSE}
+looking at the soil.
+Water the field when
+the soil is dry.{PAUSE}
+Jack: "What happens
+if I forget?"
+...If you don't water{PAUSE}
+well, the seeds won't
+sprout, and even if
+they did, they could{PAUSE}
+wither. So, you
+have to water the
+field everyday.{PAUSE}
+Twice a day will do.
+Do you understand?
+Syd: "Okay." {PAUSE}
+...See you next time.{EOM}{EOM}
+
+Message 68:
+Farming News!
+Today we'll talk
+about the flowers.{PAUSE}
+Do you guys have a
+question, Syd or
+Jack?{PAUSE}
+Syd: "Do the farm
+crops have flowers?"
+...Yes, of course.{PAUSE}
+Jack: "After the
+flowers bloom, we get
+crops, right?"{PAUSE}
+...That's right.
+The flowers and then
+the crops.{PAUSE}
+Syd: "So we can't
+pick the flowers
+then."{PAUSE}
+...Ha ha ha,
+that's correct.
+Crops need the{PAUSE}
+flowers to grow.
+Jack: "Once they
+grow, we can harvest{PAUSE}
+them, right?"
+...Not so fast,
+but let's call it{PAUSE}
+a day.
+See you next time.{EOM}
+
+Message 69:
+Farming News!
+Today we'll talk
+about harvesting.{PAUSE}
+Do you guys have a
+question, Syd or
+Jack?{PAUSE}
+Syd: "Are there any
+crops that don't grow
+vegetables?"{PAUSE}
+...No really, but
+the root crops grow
+underground.{PAUSE}
+Jack: "How do you
+know when to harvest
+the root crops?"{PAUSE}
+...The flowers of the
+root crops will wilt
+after a while. Then{PAUSE}
+just pull them out.
+Syd: "Can you eat
+roots?"{PAUSE}
+...We are always
+eating them. Turnips,
+Potatoes, Carrots and{PAUSE}
+stuff like that.
+Syd: "Oh, they are
+roots?"{PAUSE}
+Jack: "Of course..."
+...Oh, well.
+See you next time.{EOM}{EOM}{EOM}
+
+Message 70:
+Farming News!
+Today we'll talk
+about trees.{PAUSE}
+Do you guys have a
+question, Syd or
+Jack?{PAUSE}
+Jack: "Does it take
+a long time for
+the trees to grow?"{PAUSE}
+...Yes, it does.
+Syd: "Then that's
+a lot of work."{PAUSE}
+...No, you don't have
+to water them after
+you plant them.{PAUSE}
+Jack: "Really?
+Then that's easy."
+...But they need{PAUSE}
+a lot of nutrients,
+so other crops won't
+grow around them.{PAUSE}
+Jack: "...You mean?"
+...Other crops die
+even if they sprout.{PAUSE}
+Syd: "So we can't
+plant anything
+around the trees."{PAUSE}
+...Right. So, think
+carefully when
+planting them.{PAUSE}
+Jack: "I see..."
+...See you next time.{EOM}{EOM}
+
+Message 71:
+Farming News!
+Today we'll talk
+about the fields.{PAUSE}
+Do you guys have a
+question, Syd or
+Jack?{PAUSE}
+Syd: "Can we plant
+seeds anywhere?"{PAUSE}
+...No, you have to
+sow the seeds in a
+prepared field. {PAUSE}
+Syd: "I see. What
+does it look like?"
+...You see a section{PAUSE}
+in the farm with good
+soil. You have to
+till the soil and{PAUSE}
+plant the seeds.
+Jack: "Can you grow
+any kind of crops?"{PAUSE}
+...Not really. Some
+crops need better
+soil than others,{PAUSE}
+do you understand?
+Jack: "Kind of..."
+...See you next time.{EOM}{EOM}{EOM}
+
+Message 72:
+Farming News!
+Today we'll talk
+about watering.{PAUSE}
+Do you guys have a
+question, Syd or
+Jack?{PAUSE}
+Jack: "So if you sow
+the seeds, do they
+start growing?"{PAUSE}
+...They don't grow
+unless you water
+them.{PAUSE}
+Syd: "How do you
+water them?"
+...Use your{PAUSE}
+Watering Can.
+Jack: "How often
+do we need to water{PAUSE}
+them?"
+...Well, you have to
+figure it out by{PAUSE}
+looking at the soil.
+Water the field when
+the soil is dry.{PAUSE}
+Jack: "What happens
+if I forget?"
+...If you don't water{PAUSE}
+well, the seeds won't
+sprout, and even if
+they did, they could{PAUSE}
+wither. So, you
+have to water the
+field everyday.{PAUSE}
+Twice a day will do.
+Do you understand?
+Syd: "Okay."{PAUSE}
+...See you next time.{EOM}{EOM}{EOM}
+
+Message 73:
+Farming News!
+Today we'll talk
+about the flowers.{PAUSE}
+Do you guys have a
+question, Syd or
+Jack?{PAUSE}
+Syd: "Do the farm
+crops have flowers?"
+...Yes, of course.{PAUSE}
+Jack: "After the
+flowers bloom, we get
+crops, right?"{PAUSE}
+...That's right.
+The flowers and then
+the crops.{PAUSE}
+Syd: "So we can't
+pick the flowers
+then."{PAUSE}
+...Ha ha ha,
+that's correct.
+Crops need the{PAUSE}
+flowers to grow.
+Jack: "Once they
+grow, we can harvest{PAUSE}
+them, right?"
+...Not so fast,
+but let's call it{PAUSE}
+a day.
+See you next time.{EOM}
+
+Message 74:
+Farming News!
+Today we'll talk
+about harvesting.{PAUSE}
+Do you guys have a
+question, Syd or
+Jack?{PAUSE}
+Syd: "Are there any
+crops that don't grow
+vegetables?"{PAUSE}
+...No really, but
+the root crops grow
+underground.{PAUSE}
+Jack: "How do you
+know when to harvest
+the root crops?"{PAUSE}
+...The flowers of the
+root crops will wilt
+after a while. Then{PAUSE}
+just pull them out.
+Syd: "Can you eat
+roots?"{PAUSE}
+...We are always
+eating them. Turnips,
+Potatoes, Carrots and{PAUSE}
+stuff like that.
+Syd: "Oh, they are
+roots?"{PAUSE}
+Jack: "Of course..."
+...Oh, well.
+See you next time.{EOM}{EOM}{EOM}
+
+Message 75:
+Farming News!
+Today we'll talk
+about trees.{PAUSE}
+Do you guys have a
+question, Syd or
+Jack?{PAUSE}
+Jack: "Does it take
+a long time for
+the trees to grow?"{PAUSE}
+...Yes, it does.
+Syd: "Then that's
+a lot of work."{PAUSE}
+...No, you don't have
+to water them after
+you plant them.{PAUSE}
+Jack: "Really?
+Then that's easy."
+...But they need{PAUSE}
+a lot of nutrients,
+so other crops won't
+grow around them.{PAUSE}
+Jack: "...You mean?"
+...Other crops die
+even if they sprout.{PAUSE}
+Syd: "So we can't
+plant anything
+around the trees."{PAUSE}
+...Right. So, think
+carefully when
+planting them.{PAUSE}
+Jack: "I see..."
+...See you next time.{EOM}{EOM}
+
+Message 76:
+Farming News!
+Today we'll talk
+about the seeds.{PAUSE}
+Do you guys have a
+question, Mike or
+Sean?{PAUSE}
+Mike: "Are there
+different types of
+seeds?"{PAUSE}
+...Actually, there
+are different types
+of seeds, Root Crops,{PAUSE}
+Stem Crops and Trees.
+Sean: "Can you tell
+just by looking at{PAUSE}
+their seeds?"
+...That's very
+difficult. Let me{PAUSE}
+show you several
+main crops you can
+grow:{PAUSE}
+{C13}Tomatoes{C17}
+{C13}Watermelons{C17}
+{C13}Strawberries{C17}{PAUSE}
+{C13}Melons{C17}
+...are stem crops.
+{C13}Turnips{C17}{PAUSE}
+{C13}Potatoes{C17}
+{C13}Carrots{C17}
+{C13}Sweet Potatoes{C17}{PAUSE}
+...are root crops.
+{C13}Peaches{C17}
+{C13}Oranges{C17}{PAUSE}
+{C13}Grapes{C17}
+{C13}Bananas{C17}
+{C13}Apples{C17}{PAUSE}
+...are trees.
+Do you understand?
+Mike: "There are many{PAUSE}
+other crops, right?"
+...Of course.
+See you next time.{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+Farming News!
+Today we'll talk
+about the growth of{PAUSE}
+the crops. Do you
+guys have a question,
+Mike or Sean?{PAUSE}
+Mike: "Different
+crops grow at
+different speeds?"{PAUSE}
+...Of course. Some
+are fast, others are
+slow.{PAUSE}
+Sean: "How long?"
+...The fast ones
+grow in about 5 days.{PAUSE}
+Each type of crop
+grows differently
+too, trees take{PAUSE}
+longer to grow.
+Mike: "Can we speed
+up the growth?"{PAUSE}
+...Water the crops
+everyday, but don't
+expect too much.{PAUSE}
+Mike: "...I see."
+...See you next time.{EOM}{EOM}
+
+Message 78:
+Farming News!
+Today we'll talk
+about harvesting.{PAUSE}
+Do you guys have a
+question, Mike
+or Sean?{PAUSE}
+Sean: "Can you eat
+the fruits and
+vegetables as soon as{PAUSE}
+they grow?"
+...Well, you do have
+to wait for them to{PAUSE}
+mature.
+Mike: "What? You
+can't pick them right{PAUSE}
+away?"
+...No. They taste
+better if you wait.{PAUSE}
+Mike: "For how long?"
+...Um, like a day or
+two. You'll see.{PAUSE}
+Mike: "You can't see
+the root crops..."
+...Right, but we'll{PAUSE}
+talk about that next
+time.
+Sean: "What's a{PAUSE}
+root crop?"
+Mike: "We learned
+that already..."{PAUSE}
+...See you next time.{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+Farming News!
+Today we'll talk
+about harvesting.{PAUSE}
+Do you guys have a
+question, Mike or
+Sean?{PAUSE}
+Mike: "How do you
+harvest the fruits on
+trees?"{PAUSE}
+...They have seasons.
+Once a tree grows,
+the flowers bloom in{PAUSE}
+a certain season, and
+then the fruit grows
+in the following{PAUSE}
+season.
+Sean: "So you climb
+up a tree to get{PAUSE}
+them, right?"
+...You can't pick
+them. You must{PAUSE}
+shake the tree to
+make the fruit fall.
+Mike: "...I see."{PAUSE}
+...Even if you don't
+shake the tree, the
+fruit will drop when{PAUSE}
+it is mature.
+Sean: "But I think
+it's fun to shake{PAUSE}
+the trees."
+...Either way, if you
+leave the fruit on{PAUSE}
+the ground, it'll
+disappear.
+Mike: "Then we have{PAUSE}
+to pick them right
+away."
+...Yes.{PAUSE}
+See you next time.{EOM}
+
+Message 80:
+Farming News!
+Today we'll talk
+about the seasons.{PAUSE}
+Do you guys have a
+question, Mike or
+Sean?{PAUSE}
+Mike: "The crops are
+seasonal, right?"
+...Yes.{PAUSE}
+Sean: "What happens
+if we try to grow a
+crop in the wrong{PAUSE}
+season?"
+...It'll wither
+after a while.{PAUSE}
+Mike: "Then we have
+to be careful when
+to plant what."{PAUSE}
+...You're right.
+Check the seeds you
+have and plan well.{PAUSE}
+See you next time.{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+Farming News!
+Today we'll talk
+about the seeds.{PAUSE}
+Do you guys have a
+question, Mike or
+Sean?{PAUSE}
+Mike: "Are there
+different types of
+seeds?"{PAUSE}
+...Actually, there
+are different types
+of seeds, Root Crops,{PAUSE}
+Stem Crops and Trees.
+Sean: "Can you tell
+just by looking at{PAUSE}
+their seeds?"
+...That's very
+difficult. Let me{PAUSE}
+show you several
+main crops you can
+grow:{PAUSE}
+{C13}Tomatoes{C17}
+{C13}Watermelons{C17}
+{C13}Strawberries{C17}{PAUSE}
+{C13}Melons{C17}
+...are stem crops.
+{C13}Turnips{C17}{PAUSE}
+{C13}Potatoes{C17}
+{C13}Carrots{C17}
+{C13}Sweet Potatoes{C17}{PAUSE}
+...are root crops.
+{C13}Peaches{C17}
+{C13}Oranges{C17}{PAUSE}
+{C13}Grapes{C17}
+{C13}Bananas{C17}
+{C13}Apples{C17}{PAUSE}
+...are trees.
+Do you understand?
+Mike: "There are many{PAUSE}
+other crops, right?"
+...Of course.
+See you next time.{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+Farming News!
+Today we'll talk
+about the growth of{PAUSE}
+the crops. Do you
+guys have a question,
+Mike or Sean?{PAUSE}
+Mike: "Different
+crops grow at
+different speeds?"{PAUSE}
+...Of course. Some
+are fast, others are
+slow.{PAUSE}
+Sean: "How long?"
+...The fast ones
+grow in about 5 days.{PAUSE}
+Each type of crop
+grows differently
+too, trees take{PAUSE}
+longer to grow.
+Mike: "Can we speed
+up the growth?"{PAUSE}
+...Water the crops
+everyday, but don't
+expect too much.{PAUSE}
+Mike: "...I see."
+...See you next time.{EOM}{EOM}
+
+Message 83:
+Farming News!
+Today we'll talk
+about harvesting.{PAUSE}
+Do you guys have a
+question, Mike
+or Sean?{PAUSE}
+Sean: "Can you eat
+the fruits and
+vegetables as soon as{PAUSE}
+they grow?"
+...Well, you do have
+to wait for them to{PAUSE}
+mature.
+Mike: "What? You
+can't pick them right{PAUSE}
+away?"
+...No. They taste
+better if you wait.{PAUSE}
+Mike: "For how long?"
+...Um, like a day or
+two. You'll see.{PAUSE}
+Mike: "You can't see
+the root crops..."
+...Right, but we'll{PAUSE}
+talk about that next
+time.
+Sean: "What's a{PAUSE}
+root crop?"
+Mike: "We learned
+that already..."{PAUSE}
+...See you next time.{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+Farming News!
+Today we'll talk
+about harvesting.{PAUSE}
+Do you guys have a
+question, Mike or
+Sean?{PAUSE}
+Mike: "How do you
+harvest the fruits on
+trees?"{PAUSE}
+...They have seasons.
+Once a tree grows,
+the flowers bloom in{PAUSE}
+a certain season, and
+then the fruit grows
+in the following{PAUSE}
+season.
+Sean: "So you climb
+up a tree to get{PAUSE}
+them, right?"
+...You can't pick
+them. You must{PAUSE}
+shake the tree to
+make the fruit fall.
+Mike: "...I see."{PAUSE}
+...Even if you don't
+shake the tree, the
+fruit will drop when{PAUSE}
+it is mature.
+Sean: "But I think
+it's fun to shake{PAUSE}
+the trees."
+...Either way, if you
+leave the fruit on{PAUSE}
+the ground, it'll
+disappear.
+Mike: "Then we have{PAUSE}
+to pick them right
+away."
+...Yes.{PAUSE}
+See you next time.{EOM}
+
+Message 85:
+Farming News!
+Today we'll talk
+about the seasons.{PAUSE}
+Do you guys have a
+question, Mike or
+Sean?{PAUSE}
+Mike: "The crops are
+seasonal, right?"
+...Yes.{PAUSE}
+Sean: "What happens
+if we try to grow a
+crop in the wrong{PAUSE}
+season?"
+...It'll wither
+after a while.{PAUSE}
+Mike: "Then we have
+to be careful when
+to plant what."{PAUSE}
+...You're right.
+Check the seeds you
+have and plan well.{PAUSE}
+See you next time.{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 87:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 88:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 89:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 90:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 91:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 92:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 93:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 94:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 95:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 96:
+Cole and Tom's
+Happy Farming Quiz!{PAUSE}
+Cole: "Today's my
+turn to give you a
+quiz!" {PAUSE}
+Tom: "Go easy on me,
+okay...?" {PAUSE}
+Cole: "How many times
+do the cattle eat a
+day? {PAUSE}
+Tom: "Um... Twice!"
+Cole: "Corrrrrect!"
+Tom: "Yes!"{EOM}{EOM}
+
+Message 97:
+Cole and Tom's
+Dairy Farm Quiz!{PAUSE}
+Tom: "Today's my
+turn to give you
+a quiz."{PAUSE}
+Cole: "Try me!"
+Tom: "Which one of
+the following changes{PAUSE}
+when cows eat
+{ITEM_0004}{C17}?{PAUSE}
+A. Cow's Fate
+B. Quantity of Milk
+C. Quality of Milk{PAUSE}
+Cole: "Um... That's
+tricky... B, the
+quantity!"{PAUSE}
+Tom: "Nope! The
+answer is C, the
+quality of milk!"{PAUSE}
+Cole: "Oh, no!
+I'll get it right
+next time!...But{PAUSE}
+a cow's fate,
+Tom...?"
+Tom: "Ha ha!"{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+Cole and Tom's
+Dairy Farm Quiz!{PAUSE}
+Cole: "Today is
+my turn!"
+Tom: "Okay♪"{PAUSE}
+Cole: "Which of the
+following does NOT
+have anything to do{PAUSE}
+with the quality of
+a cow's milk?{PAUSE}
+A. Season
+B. Name
+C. Health{PAUSE}
+Tom: "That's too
+easy! B, Name!"
+Cole: "Corrrrrect!"{PAUSE}
+Tom: "Too easy!"{EOM}{EOM}{EOM}
+
+Message 99:
+Cole and Tom's
+Dairy Farm Quiz!{PAUSE}
+Tom: "Okay, I'll give
+you a quiz today."{PAUSE}
+Cole: "Okay! Ask me
+anything!"{PAUSE}
+Tom: "How many days
+do the calves stay in
+their moms' tummy?"{PAUSE}
+A. About 30 days
+B. About 60 days
+C. About 9 seasons{PAUSE}
+Cole: "Oh, I know!
+C. About 9 seasons!"
+Tom: "No, wrong!"{PAUSE}
+Cole: "Not again!"
+Tom: "The correct
+answer is A. About{PAUSE}
+30 days."
+Cole: "I have much
+to learn..."{PAUSE}
+Tom: "You have to
+eat a lot more snacks
+I would say."{EOM}{EOM}{EOM}
+
+Message 100:
+Cole and Tom's
+Dairy Farm Quiz!{PAUSE}
+Cole: "I'll ask you a
+tough one today!"
+Tom: "Okay! I'm{PAUSE}
+ready!"
+Cole: "What do you
+call a period of time{PAUSE}
+before a calf is
+born when you should
+not milk a cow?"{PAUSE}
+Tom: "Oh, it's hard!
+Um...mmm..."
+Cole: "Ready to give{PAUSE}
+up, Tom?"
+Tom: "I think it's
+coming back to me...{PAUSE}
+Mmm...mmm...
+Oh, I know!"
+Cole: "What is it?"{PAUSE}
+Tom: "Dry period!"
+Cole: "Corrrrrrect!
+You're good, Tom!"{PAUSE}
+Tom: "Thanks!"{EOM}
+
+Message 101:
+Cole and Tom's
+Dairy Farm Quiz!{PAUSE}
+Tom: "It's my turn
+today."{PAUSE}
+Cole: "My head is not
+working too well, so
+I might miss today."{PAUSE}
+Tom: "You always do."
+Cole: "Oh, really?"{PAUSE}
+Tom: "Okay. What do
+you give to the
+newborn calves?"{PAUSE}
+Cole: "Ah, milk?"
+Tom: "Corrrrrect!
+Good job, Cole!"{PAUSE}
+Cole: "Thanks."
+Tom: "Your head is
+working better than{PAUSE}
+usual, I think."
+Cole: "Maybe."{EOM}
+
+Message 102:
+Cole and Tom's
+Dairy Farm Quiz!{PAUSE}
+Cole: "Okay, I feel
+good today! My turn
+to quiz you!"{PAUSE}
+Tom: "Okay!"
+Cole: "How many days
+do the cows produce{PAUSE}
+milk for after the
+calves are born?{PAUSE}
+Tom: "I know! 60
+days!"
+Cole: "Nope!{PAUSE}
+The correct answer
+is about 40 days!"
+Tom: "I was so{PAUSE}
+close!"
+Cole: "Not really."{EOM}{EOM}{EOM}
+
+Message 103:
+Cole and Tom's
+Dairy Farm Quiz!{PAUSE}
+Tom: "Today I'll ask
+you a bit different
+question!"{PAUSE}
+Cole: "What is it?"
+Tom: "About the cow's
+moos?!"{PAUSE}
+Cole: "Sounds cool!"
+Tom: "Ready?"
+Cole: "Any time!"{PAUSE}
+Tom: "What is the
+emotion behind...{S_3400D2}{S_3204B0}?"{PAUSE}
+Cole: "Umm... It
+sounded kind of
+sad..."{PAUSE}
+Tom: "Corrrrrect!"
+Cole: "Oh, I got it
+right!?"{EOM}{EOM}
+
+Message 104:
+Cole and Tom's
+Dairy Farm Quiz!{PAUSE}
+Cole: "It's my turn
+to quiz you today!"
+Tom: "I'm ready!"{PAUSE}
+Cole: "The Marble
+Cows produce milk for
+cheese. Which of the{PAUSE}
+following kind
+produces milk for
+butter?{PAUSE}
+A. Normal Cow
+B. Star Cow
+C. Brown Cow{PAUSE}
+Tom: "I have to pick
+one? The Star Cows'
+milk is good for both{PAUSE}
+cheese and butter."
+Cole: "Good point..."
+Tom: "The Normal{PAUSE}
+Milk is okay too, but
+something better than
+that, and not good{PAUSE}
+for both like the
+Star Milk. Then it
+leaves us the Brown{PAUSE}
+Cow's milk."
+Cole: "Co...rrect..."
+Tom: "Yeah."{EOM}{EOM}
+
+Message 105:
+Cole and Tom's
+Dairy Farm Quiz!{PAUSE}
+Tom: "Today's my
+turn to quiz you."
+Cole: "Alright!"{PAUSE}
+Tom: "Which of the
+following is NOT
+a way to release{PAUSE}
+a cow's stress?"
+A. Show them
+something they hate.{PAUSE}
+B. Brush them.
+C. Let them outside
+on a nice day.{PAUSE}
+Cole: "That's too
+easy! You can't show
+them something they{PAUSE}
+hate to make them
+feel better!"
+Tom: "Corrrrrect!"{EOM}
+
+Message 106:
+Syd and Jack's
+Farming Quiz!{PAUSE}
+Syd: "I'll ask you a
+question today."
+Jack: "Okay!"{PAUSE}
+Syd: "Where can you
+plant the seeds?"
+Jack: "That's easy!{PAUSE}
+Tilled soil!"
+Syd: "Right!"{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+Syd and Jack's
+Farming Quiz!{PAUSE}
+Syd: "My turn to ask
+you a question!"
+Jack: "Alright!"{PAUSE}
+Syd: "How many times
+are you supposed to
+water the crops?"{PAUSE}
+Jack: "Um, once a
+day!"
+Syd: "Nope, twice!{PAUSE}
+But don't worry.
+The crops won't die
+so quickly."{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+Syd and Jack's
+Farming Quiz!{PAUSE}
+Jack: "It's my turn
+to quiz you today!"
+Syd: "Okay!"{PAUSE}
+Jack: "When can you
+harvest, before or
+after flowers wilt?"{PAUSE}
+Syd: "I know!
+After!"
+Jack: "Correct!"{EOM}{EOM}{EOM}
+
+Message 109:
+Syd and Jack's
+Farming Quiz!{PAUSE}
+Syd: "I'll quiz you
+today, okay?{PAUSE}
+Which of the
+following is
+a root crop?"{PAUSE}
+A. Tomato
+B. Turnip
+C. Watermelon{PAUSE}
+Jack: "Turnip!"
+Syd: "Correct!"
+Jack: "Yeay♪"{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+Syd and Jack's
+Farming Quiz!{PAUSE}
+Jack: "Today's my
+turn."
+Syd: "I'm ready!"{PAUSE}
+Jack: "What happens
+if you plant the
+crops around trees?"{PAUSE}
+Syd: "Um... mmm...
+I know! They die!"
+Jack: "Correct!"{EOM}{EOM}{EOM}
+
+Message 111:
+Mike and Sean's
+Cool Farming Quiz!{PAUSE}
+Mike: "I'll ask you
+a question today!"
+Sean: "Okay!"{PAUSE}
+Mike: "Which is the
+season for turnips?"
+Sean: "Fall!"{PAUSE}
+Mike: "Correct!"{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+Mike and Sean's
+Cool Farming Quiz!{PAUSE}
+Sean: "My turn to
+quiz you today!"
+Mike: "I'm pumped!"{PAUSE}
+Sean: "Which grows
+faster, carrots or
+tomatoes?"{PAUSE}
+Mike: "Um...
+Carrots?" {PAUSE}
+Sean: "Nope! Wrong!
+Tomatoes grow
+faster than carrots."{EOM}{EOM}
+
+Message 113:
+Mike and Sean's
+Cool Farming Quiz!{PAUSE}
+Mike: "Are you
+ready?!"
+Sean: "Yup!"{PAUSE}
+Mike: "Is it true or
+false: You can
+harvest the fruits{PAUSE}
+and vegetables right
+after their flowers
+wilt?"{PAUSE}
+Sean: "False.
+You have to wait
+for them to mature."{PAUSE}
+Mike: "Good job.
+That's correct."{EOM}{EOM}{EOM}
+
+Message 114:
+Mike and Sean's
+Cool Farming Quiz!{PAUSE}
+Sean: "Here it goes!"
+Mike: "Go ahead."
+Sean: "How do you{PAUSE}
+harvest the fruit
+from the trees?"
+Mike: "Shake the{PAUSE}
+trees or wait until
+the fruit falls."
+Sean: "Correct!{PAUSE}
+You're smart!"{EOM}{EOM}
+
+Message 115:
+Mike and Sean's
+Cool Farming Quiz!{PAUSE}
+Mike: "Here is a
+question!"
+Sean: "Try me!"{PAUSE}
+Mike: "What happens
+when you plant a crop
+in the wrong season?"{PAUSE}
+Sean: "That's too
+easy! It dies!"
+Mike: "Correct."{PAUSE}
+Joe: "You guys only
+ask easy questions."
+Both: "...Who are{PAUSE}
+you?"{EOM}{EOM}{EOM}
+
+Message 116:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 117:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 118:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 119:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 120:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 121:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 122:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 123:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 124:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 125:
+Today's broadcast
+is over.{EOM}{EOM}{EOM}
+
+Message 126:
+{VAR_00}
+{VAR_01}
+{VAR_02}{EOM}{EOM}{EOM}{EOM}
+
+Message 127:
+Today's horoscope...
+A lucky day!{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+Today's horoscope...
+A normal day.{PAUSE}{WIPE}{EOM}{EOM}
+
+Message 129:
+Today's horoscope...
+A bad day.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+Eat right to bring
+up your energy.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 131:
+Talk to people.{PAUSE}{WIPE}{EOM}{EOM}
+
+Message 132:
+Eat well and rest.{PAUSE}{WIPE}{EOM}
+
+Message 133:
+Your smile will
+bring you good
+luck.{EOM}{EOM}
+
+Message 134:
+The item of the day
+is Wild Grass.{EOM}{EOM}{EOM}
+
+Message 135:
+Someone older than
+you might bring you
+good luck...{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

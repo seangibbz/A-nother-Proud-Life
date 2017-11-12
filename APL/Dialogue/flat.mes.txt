@@ -1,0 +1,484 @@
+Message 0:
+That's gotta be a
+little sleepy headed
+Harvest Goddess. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+We need to collect
+lots of wonderful
+things. {PAUSE}{EOM}
+
+Message 2:
+But, what is a
+"wonderful" ? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+But, what is a
+"wonderful" ? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+Nothing here. {PAUSE}{EOM}
+
+Message 5:
+Oh, is that a
+"Wonderful"? {PAUSE}{EOM}{EOM}
+
+Message 6:
+Nope, wrong. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+We've gotta search
+for it. {PAUSE}{EOM}{EOM}
+
+Message 8:
+It's {PETE}. {PAUSE}{EOM}
+
+Message 9:
+He's so hairy. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+That's why Mukumuku
+is our friend. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+Let's be friends. {PAUSE}{EOM}{EOM}
+
+Message 12:
+We're friends. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+It's wonderful. {PAUSE}{EOM}
+
+Message 14:
+Nothing here. {PAUSE}{EOM}
+
+Message 15:
+Oh, is that a
+"Wonderful"? {PAUSE}{EOM}{EOM}
+
+Message 16:
+Nope, wrong. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+Let's look for it. {PAUSE}{EOM}
+
+Message 18:
+Grow up nice and big!{PAUSE}{EOM}
+
+Message 19:
+I'll be happy when
+they grow up. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+Even though they're
+not especially
+useful... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+Nothing here. {PAUSE}{EOM}
+
+Message 22:
+Oh, is that a
+"Wonderful"? {PAUSE}{EOM}{EOM}
+
+Message 23:
+Nope, wrong. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+Let's look for it. {PAUSE}{EOM}
+
+Message 25:
+It's {PETE}. {PAUSE}{EOM}
+
+Message 26:
+He's always worried
+about something. {PAUSE}{EOM}{EOM}
+
+Message 27:
+Let's be friends. {PAUSE}{EOM}{EOM}
+
+Message 28:
+We're friends. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 29:
+It's wonderful. {PAUSE}{EOM}
+
+Message 30:
+Nothing here. {PAUSE}{EOM}
+
+Message 31:
+Oh, is that a
+"Wonderful"? {PAUSE}{EOM}{EOM}
+
+Message 32:
+...{PAUSE}{EOM}
+
+Message 33:
+Yeah!! {PAUSE}{EOM}{EOM}
+
+Message 34:
+Let's look for it. {PAUSE}{EOM}
+
+Message 35:
+Whew...{PAUSE}{EOM}
+
+Message 36:
+If we don't find
+more wonderful
+things, the Harvest{PAUSE}
+Goddess won't come. {PAUSE}{EOM}{EOM}
+
+Message 37:
+Whew...{PAUSE}{EOM}
+
+Message 38:
+That's it!
+I'll make a wish
+on a star. {PAUSE}{EOM}{EOM}
+
+Message 39:
+Yeah, a wish. {PAUSE}{EOM}{EOM}
+
+Message 40:
+Fwaa...{PAUSE}{EOM}
+
+Message 41:
+But she's still
+not here. {PAUSE}
+The Harvest Goddess
+hasn't come this year
+either. {PAUSE}{EOM}{EOM}
+
+Message 42:
+That's too bad...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 43:
+Gather them up. {PAUSE}{EOM}{EOM}
+
+Message 44:
+Go! Go! Go! {PAUSE}{EOM}{EOM}
+
+Message 45:
+{DRAW_02}Huh? {S_3201F4}{PAUSE}
+A Harvest Sprite
+I've never seen
+before. {DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 46:
+{DRAW_02}Who is it?{S_320064}
+Who is it?{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+{DRAW_02}Ohhh, I see★{DRAW_00}{PAUSE}{EOM}
+
+Message 48:
+{DRAW_02}I'm Flak.
+Pleased to meetcha. {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+Be careful in the
+future. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+I'll clean that up♪{S_3203E8}{PAUSE}{EOM}
+
+Message 51:
+Bring her by♪{PAUSE}{EOM}{EOM}{EOM}
+
+Message 52:
+If you think that a
+pregnant cow needs to
+be isolated, go to{PAUSE}
+the {C14}{STRUC_23}{C17}
+and look up the
+"Cow Fence"♪ {PAUSE}{EOM}
+
+Message 53:
+I hope it's born
+soon. {PAUSE}{EOM}{EOM}
+
+Message 54:
+Hurry! {PAUSE}{EOM}{EOM}
+
+Message 55:
+Too late! {PAUSE}{EOM}
+
+Message 56:
+Come here♪
+Come here♪ {PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+He's gonna need a
+really cool name♪ {PAUSE}{EOM}{EOM}
+
+Message 58:
+Let's be friends♪ {PAUSE}{EOM}{EOM}
+
+Message 59:
+I'll put the baby
+inside for you♪ {PAUSE}{EOM}{EOM}
+
+Message 60:
+She's gonna need
+a really cuuute
+name♪ {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+{PETE}~~{S_3203E8}{PAUSE}{WIPE}
+Come here a second. {PAUSE}{WIPE}{EOM}{EOM}
+
+Message 62:
+They started
+fighting. This is
+gonna be bad. {PAUSE}{EOM}
+
+Message 63:
+It'd be best if
+they stopped their
+fight. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 64:
+Stop already!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+When you give a
+{C13}Blue Feather{C17}
+to someone you like,{PAUSE}{WIPE}
+something wonderful
+starts to happen.
+As long as these two{PAUSE}{WIPE}
+have it, nothing
+is going to happen. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+I'll give this to
+{PETE}. {PAUSE}{EOM}{EOM}
+
+Message 67:
+{PETE} has too
+much stuff in his
+Rucksack... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+I'll put it in the
+{C14}{STRUC_3}{C17} so we don't
+lose it!{PAUSE}{EOM}
+
+Message 69:
+It's there now! {PAUSE}{EOM}{EOM}
+
+Message 70:
+{PETE}, are you
+always together with
+the one you love? {PAUSE}{EOM}
+
+Message 71:
+We're very happy
+that we can always
+be together. {PAUSE}{WIPE}
+We're gonna give
+{PETE} the {C13}Blue
+Feather{C17}. {PAUSE}{EOM}{EOM}
+
+Message 72:
+Stop!! {PAUSE}{EOM}{EOM}
+
+Message 73:
+No going to town...♪{PAUSE}{EOM}{EOM}
+
+Message 74:
+There's no new info
+this time. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+It looks like this
+time something new
+will happen. {PAUSE}{EOM}{EOM}
+
+Message 76:
+It looks like a lot
+of new things are
+going to happen {PAUSE}
+after this...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+This link is ★. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+This link is ★★. {PAUSE}{EOM}
+
+Message 79:
+This link is ★★★. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 80:
+This link is ★★★★. {PAUSE}{EOM}
+
+Message 81:
+This link is ★★★★★. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 82:
+This link is ★★★★★★. {PAUSE}{EOM}
+
+Message 83:
+Ruby might share her
+recipe with you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+Looks like Van will
+bring a new item. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 85:
+You might be able
+to hear a rumor
+from people. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+You might be able to
+hear a rumor about
+a farm. {PAUSE}{EOM}{EOM}
+
+Message 87:
+Take a look♪ {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+Hey, you!
+Welcome to our place!{PAUSE}{EOM}{EOM}
+
+Message 89:
+I love it when things
+get all interesting. {PAUSE}{EOM}
+
+Message 90:
+I was just thinking
+of something fun. {PAUSE}{EOM}{EOM}
+
+Message 91:
+Go talk to Nak too.{PAUSE}{EOM}
+
+Message 92:
+Talk to Nic also. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+You're my friend.
+It's because you're
+really nice to me. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 94:
+It's good to tell
+others about things
+that make you happy. {PAUSE}
+You should share
+your happiness with
+everyone. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+We were here way
+before all these
+people moved in. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 96:
+If you take the food
+from the forest...{PAUSE}
+Soon they'll be
+no more us! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+The people of this
+valley are all quite
+interesting, so{PAUSE}
+visit them as
+often as I can.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+Wow, that's cool. {PAUSE}{EOM}{EOM}
+
+Message 99:
+You can't use that
+here. {PAUSE}{EOM}{EOM}
+
+Message 100:
+We don't want that. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 101:
+We know what that is.{PAUSE}{EOM}
+
+Message 102:
+The flowers ask you
+to take them to all
+different places?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+This is a little
+baby...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+I-is that FOOD!? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 105:
+So...hungry...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 106:
+We wanna eat too! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 107:
+This was taken from
+your farm?
+Great job!! {PAUSE}{EOM}
+
+Message 108:
+Wow, it really did
+get big, didn't it!
+It's gonna be sooo{PAUSE}
+yummy!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+It's best to eat it
+when it's fresh!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 110:
+This was taken from
+your farm?
+Awesome!! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 111:
+The animals have
+gotten so cute
+that it's just {PAUSE}
+gotta taste good! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 112:
+It's a gift from
+your animals! {PAUSE}{WIPE}
+Be very grateful
+when you eat it. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+What in the world
+is that?? {PAUSE}{EOM}
+
+Message 114:
+How am I supposed
+to eat this?? {PAUSE}{EOM}{EOM}
+
+Message 115:
+What can I use this
+for?? {PAUSE}{EOM}
+
+Message 116:
+If that tree is in
+your way, we can
+return it to the{PAUSE}
+soil from which
+it came.
+Do you want us to?{PAUSE}
+{CHOICE2 DEF1}
+Never Mind
+Return to Soil.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 117:
+If you have any more
+tree problems, we'll
+handle them the {PAUSE}
+same way as we just
+did. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

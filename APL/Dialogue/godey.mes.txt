@@ -1,0 +1,1050 @@
+Message 0:
+{S_34016A}Oh, it's you. {PAUSE}{WIPE}
+I was so involved in
+work, I hadn't
+noticed you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+I won't bother you...{PAUSE}{WIPE}
+{FACE_0E0003}I get some good
+ideas by looking at
+you. Thanks. {PAUSE}{EOM}
+
+Message 2:
+Perfect timing. {PAUSE}{EOM}
+
+Message 3:
+Thanks to you I was
+able to finish my
+piece, so consider{PAUSE}
+this a gift from me
+to you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+They'll never be
+another made,
+so treasure it. {PAUSE}{EOM}
+
+Message 5:
+{FACE_150000}......{S_3207D0}{PAUSE}{WIPE}
+{FACE_150004}That person...
+Was so special... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+{FACE_150004}{SKIP}
+Where did you see it?{SKIP}{EOM}{S_3205DC}{EOM}{EOM}{EOM}
+
+Message 7:
+{FACE_150003}...... {PAUSE}{EOM}{EOM}
+
+Message 8:
+...... {PAUSE}{EOM}{EOM}
+
+Message 9:
+{S_340169}I don't like the way
+this one turned out... {PAUSE}{WIPE}
+I might be able to
+fix it if I do
+this... {PAUSE}{EOM}
+
+Message 10:
+{S_34016A}I guess that's an
+okay shape... {PAUSE}{EOM}{EOM}
+
+Message 11:
+Your Dad came to
+pick you up, so
+go home. {PAUSE}{EOM}
+
+Message 12:
+Your son has a good
+sense to him. {PAUSE}{WIPE}
+He can really tell
+the difference
+between shapes. {PAUSE}{WIPE}
+Cultivate that
+ability in him. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+All mankind returns
+to the earth... {S_3207D0}{PAUSE}
+But I am sad I'll
+never see you again
+my friend... {PAUSE}{EOM}
+
+Message 14:
+{GRIFFIN}, sing
+something in his
+honor... {PAUSE}{EOM}
+
+Message 15:
+{S_34016A}Oh, it's you...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+You came at just
+the right time. {PAUSE}{WIPE}
+I made something
+for your room.
+Is it a big room? {S_3203E8}
+{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 17:
+Then everything
+will be okay. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+I thought as much,
+that's why I made
+it small. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+I was thinking of
+just bringing it
+to you... {S_3203E8}
+{CHOICE2 DEF0}
+That's fine.
+Hold on a second.{EOM}
+
+Message 20:
+Shall we get
+going? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+No waiting.
+Let's get
+going... {PAUSE}{EOM}{EOM}
+
+Message 22:
+Where would you
+like to put it? {S_3203E8}
+{CHOICE2 DEF0}
+{STRUC_16}
+{STRUC_18}{EOM}{EOM}{EOM}
+
+Message 23:
+You got it. {PAUSE}{EOM}{EOM}
+
+Message 24:
+You got it. {PAUSE}{EOM}{EOM}
+
+Message 25:
+This is perfect. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 26:
+{FACE_150003}What do you think? {PAUSE}{EOM}
+
+Message 27:
+Guess I'll be
+heading back... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+I'm gonna hit the
+sack soon... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 29:
+You mind going home?{PAUSE}{EOM}{EOM}
+
+Message 30:
+See ya...
+G'night. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+I've gotta be
+on my way... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+I need to get
+out of here.
+So long.{PAUSE}{EOM}
+
+Message 33:
+Later... {PAUSE}{EOM}{EOM}
+
+Message 34:
+Hey... {PAUSE}{EOM}{EOM}
+
+Message 35:
+Hey, excuse me... {PAUSE}{EOM}{EOM}
+
+Message 36:
+{S_340169}It doesn't
+look like you have
+anything for sale. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+I guess there's
+nothing for me to
+buy today... {PAUSE}{EOM}{EOM}
+
+Message 38:
+Don't you have
+anything to sell? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+I'm just taking
+a look. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+There's nothing
+good. {PAUSE}{EOM}{EOM}
+
+Message 41:
+I like that
+{VAR_00},
+but how much is it?
+{CHOICE3 DEF2}
+It's only {GOLD_0105}G.
+{GOLD_0205}G.
+Not for sale.{EOM}{EOM}
+
+Message 42:
+Oh, I'll take
+it then. {PAUSE}{EOM}{EOM}
+
+Message 43:
+That's fine.
+I'll take it. {PAUSE}{EOM}{EOM}
+
+Message 44:
+Say what?
+Okay, guess I won't
+be buying it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+How much is that
+{VAR_00}?
+{CHOICE3 DEF2}
+It's only {GOLD_0105}.
+{GOLD_0105}G.
+Not for sale.{EOM}{EOM}
+
+Message 46:
+Forget it. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+I'm a metallurgist.
+Nice to meet you. {PAUSE}{EOM}{EOM}
+
+Message 48:
+You're the farm
+owner, right?
+{CHAR_80}{PAUSE}
+Nice to meet you... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+{S_34016A}Yes...? {PAUSE}{EOM}
+
+Message 50:
+...... {PAUSE}{EOM}{EOM}
+
+Message 51:
+What are you doing
+out tonight? {PAUSE}{EOM}
+
+Message 52:
+{S_34016B}Sweet.
+Is that for me? {CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 53:
+{FACE_150003}Thanks a bunch! {PAUSE}{EOM}{EOM}
+
+Message 54:
+...... {PAUSE}{EOM}{EOM}
+
+Message 55:
+That looks really
+good. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+{S_34016B}That's some food
+you've got there. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+I can't stand
+that junk. {PAUSE}{EOM}{EOM}
+
+Message 58:
+I don't want
+that. {PAUSE}{EOM}
+
+Message 59:
+{S_34016A}What is THAT? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+{FACE_150003}He's cute. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+He's got a cute
+face. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+He looks like he'll
+grow up to be
+mischievous. {PAUSE}{EOM}{EOM}
+
+Message 63:
+{FACE_150003}He looks just like
+Nami... {PAUSE}{EOM}{EOM}
+
+Message 64:
+Nami's kid just
+has to be cute. {PAUSE}{EOM}{EOM}
+
+Message 65:
+Why hello doggy!
+How are you? {PAUSE}{EOM}
+
+Message 66:
+Take good care of
+him. {PAUSE}{EOM}{EOM}
+
+Message 67:
+That's a cute
+looking cat. {PAUSE}{EOM}{EOM}
+
+Message 68:
+Okay cat.
+That's enough
+of you. {PAUSE}{EOM}
+
+Message 69:
+I hate chickens. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+That's a cute
+little chick. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+He's cute but...
+I still don't
+like chickens. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+Okay chicken.
+That's enough
+of you. {PAUSE}{EOM}
+
+Message 73:
+It's gotten an
+interesting face...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+I wonder what it's
+thinking right now. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+I don't know one
+seed from another. {PAUSE}{EOM}{EOM}
+
+Message 76:
+Aren't seeds your
+department?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+You grew that? {PAUSE}{WIPE}
+I'll gladly
+receive that gift
+from the Earth. {PAUSE}{EOM}
+
+Message 78:
+{FACE_150003}Can I have it? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+{FACE_150003}That's great. {PAUSE}{EOM}
+
+Message 80:
+{S_340169}I see... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+It's great to be
+able to grow crops
+in the Earth... {PAUSE}{EOM}{EOM}
+
+Message 82:
+Fresh milk is always
+the best. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+Fresh milk tastes
+so good. {PAUSE}{EOM}{EOM}
+
+Message 84:
+Did you make that
+cheese on your
+farm? {PAUSE}{WIPE}
+It looks really
+delicious... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+Rich cheese tastes
+the best. {PAUSE}{EOM}{EOM}
+
+Message 86:
+Did you make that
+butter on your farm?{PAUSE}{WIPE}
+It looks really
+delicious... {PAUSE}{EOM}
+
+Message 87:
+Tasty butter always
+smells a little
+different. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+Don't drop it... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 89:
+Did you catch that
+fish, man? {PAUSE}
+Not bad... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+That's a beautiful
+fish. {PAUSE}{EOM}
+
+Message 91:
+The wild plants
+that grow around
+here are tasty. {PAUSE}{EOM}{EOM}
+
+Message 92:
+{S_34016A}Why don't you
+eat it and see
+for yourself? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+You cooked that?
+It looks good... {PAUSE}{EOM}
+
+Message 94:
+That looks mighty
+tasty... {PAUSE}{EOM}
+
+Message 95:
+That's some very
+tasty looking food. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 96:
+That's an unusual
+looking hoe.
+It looks heavy. {PAUSE}{EOM}
+
+Message 97:
+That's a very rare
+looking hoe. {PAUSE}{EOM}
+
+Message 98:
+That hoe's got a
+lot of years on it. {PAUSE}{WIPE}
+Can you even use it
+anymore? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+That's a dirty
+looking hoe. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+That's a brand new
+looking hoe. {PAUSE}{WIPE}
+You've got to
+use it more... {PAUSE}{EOM}{EOM}
+
+Message 101:
+That hoe has barely
+even been used. {PAUSE}{EOM}{EOM}
+
+Message 102:
+The more you use a
+hoe, the more you
+it adjusts to you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+Where are you going
+with that hoe? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+Isn't that yours?
+You must have been
+using it a lot.{PAUSE}{EOM}
+
+Message 105:
+That hoe looks easy
+to use. {PAUSE}{EOM}
+
+Message 106:
+That's an unusual
+looking sickle. {PAUSE}{WIPE}
+It looks hard to
+maneuver... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+Strange looking
+sickle. {PAUSE}{EOM}{EOM}
+
+Message 108:
+That sickle looks
+really sharp. {PAUSE}{WIPE}
+Don't be spinning
+it around in here. {PAUSE}{EOM}{EOM}
+
+Message 109:
+That's a strange
+looking sickle. {PAUSE}{EOM}{EOM}
+
+Message 110:
+Isn't that yours?
+You've got to break
+that in more. {PAUSE}{EOM}
+
+Message 111:
+That's a brand new
+looking sickle. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 112:
+The more you use a
+sickle, the more it
+will adjust to you. {PAUSE}{EOM}{EOM}
+
+Message 113:
+Don't go wandering
+around randomly
+carrying a sickle. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 114:
+That's some sickle
+you've got there,
+man.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 115:
+That sickle has
+been used a lot. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 116:
+What's that?
+Did you decide to
+create too? {PAUSE}{EOM}
+
+Message 117:
+It's got a good
+shape to it... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+I don't need
+a watering can. {PAUSE}{WIPE}
+I'm not the type
+to go carrying
+water around... {PAUSE}{EOM}
+
+Message 119:
+Watering somewhere
+are you? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+{S_340169}That's a weird
+looking machine... {PAUSE}{EOM}
+
+Message 121:
+I don't like the
+shape that has. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 122:
+These shears make
+me feel all
+nostalgic. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+{FACE_150004}Keep those away
+from my head! {PAUSE}{EOM}
+
+Message 124:
+Those are some
+big shears. {PAUSE}{EOM}{EOM}
+
+Message 125:
+{S_34016A}What the heck
+is that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+I try not to use
+tools when I'm
+creating art. {PAUSE}{EOM}
+
+Message 127:
+That's an unusual
+stone... {PAUSE}{EOM}
+
+Message 128:
+That's a pretty
+stone... {PAUSE}{EOM}
+
+Message 129:
+That's a bizarre
+looking thing... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+What are you going
+to do with that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+The plants around
+here seem to have
+some special {PAUSE}
+properties to
+them. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+Those are plants
+from around here. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 133:
+Is that a record? {PAUSE}{WIPE}
+You really do have
+all sorts of rare
+items! {PAUSE}{EOM}
+
+Message 134:
+I'm a music lover
+too. {PAUSE}{EOM}{EOM}
+
+Message 135:
+That's got some
+smell to it... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+{S_3400DA}{S_3205DC}{S_34016B}That's a weird
+little drum... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 137:
+{S_3400DA}{S_3205DC}{FACE_150003}That makes a good
+sound. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+That's a strange
+necklace. {PAUSE}{EOM}
+
+Message 139:
+That's a pretty
+necklace. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+That's one of the
+old man's fireworks. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+Where are you going
+to shoot that off? {PAUSE}{EOM}
+
+Message 142:
+Don't dropt that. {PAUSE}{EOM}{EOM}
+
+Message 143:
+I've been to a lot
+of places, but it's
+most peaceful here. {PAUSE}{EOM}
+
+Message 144:
+I don't talk much.{PAUSE}{WIPE}
+Don't take that
+personally or
+anything... {PAUSE}{WIPE}
+I'm just not big
+on words... {PAUSE}{EOM}{EOM}
+
+Message 145:
+It's the best
+feeling in the world
+to create something {PAUSE}
+without tools and
+just feel yourself
+melt into nature. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 146:
+...... {PAUSE}{EOM}{EOM}
+
+Message 147:
+The farmer in
+Mineral Town is
+a rich guy. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 148:
+The farmer in
+Mineral Town is
+very popular. {PAUSE}{WIPE}
+That's probably
+cause he talks
+a lot with people. {PAUSE}{EOM}
+
+Message 149:
+There's some farmer
+who can grow any
+type of crop... {PAUSE}{WIPE}
+That's what I
+heard over in
+Mineral Town... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+The farmer in
+Mineral Town is
+a nice guy. {PAUSE}{WIPE}
+He really takes
+good care of his
+animals. {PAUSE}{EOM}
+
+Message 151:
+The farmer in
+Mineral Town is
+always mining. {PAUSE}{EOM}
+
+Message 152:
+The farmer in
+Mineral Town is
+a great fisherman. {PAUSE}{EOM}{EOM}
+
+Message 153:
+The farmer in
+Mineral Town walks
+around a lot. {PAUSE}{EOM}{EOM}
+
+Message 154:
+The farmer in Mineral
+Town has been working
+over 50 years...{PAUSE}{EOM}
+
+Message 155:
+The farmer in
+Mineral Town ignores
+his farm duties {PAUSE}
+and just goes out
+and fishes all
+day long. {PAUSE}{WIPE}
+What a fool. {PAUSE}{EOM}
+
+Message 156:
+The farmer in
+Mineral Town has
+no taste. {PAUSE}{EOM}
+
+Message 157:
+The farmer in
+Mineral Town owns
+many houses... {PAUSE}{WIPE}
+I wonder what's
+so fun about that... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 158:
+There's an amazing
+blacksmith in
+Mineral Town. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+{FACE_150003}The food you gave
+me last time was
+really good. {PAUSE}{EOM}
+
+Message 160:
+The food you gave me
+last time was...
+Well... {PAUSE}{WIPE}
+Not so good... {PAUSE}{EOM}{EOM}
+
+Message 161:
+The {VAR_00} you
+gave me last time
+was really good. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+The {VAR_00} you
+gave me last time
+was delicious! {PAUSE}{EOM}{EOM}
+
+Message 163:
+{FACE_150003}The {VAR_00} you
+gave me last time
+was the best I {PAUSE}
+have ever eaten
+in my life! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 164:
+{FACE_150003}The {VAR_00} you
+gave me last time
+was my favorite. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+The cheese you
+gave me last time
+was really good. {PAUSE}{WIPE}
+So rich and
+creamy... {PAUSE}{EOM}{EOM}
+
+Message 166:
+The cheese you
+gave me last time
+smelled a little. {PAUSE}{WIPE}
+Still, that's
+my kind of cheese! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 167:
+The cheese you
+gave me last time
+was spectacular. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+{FACE_150003}The butter you
+gave me last time
+was great. {PAUSE}{WIPE}
+So rich and
+creamy... {PAUSE}{EOM}
+
+Message 169:
+The butter you
+gave me last time
+smelled a little. {PAUSE}{WIPE}
+Still, that's my
+kind of butter! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+The butter you
+gave me last time
+was really tasty! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+{FACE_150003}The {VAR_00} you gave
+me last time was
+delicious. {PAUSE}{EOM}{EOM}
+
+Message 172:
+The dish you gave
+me before was
+very tasty. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 173:
+The fish you gave
+me before was tasty.{PAUSE}{EOM}{EOM}
+
+Message 174:
+The wild plants
+you gave me before
+tasted good. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 175:
+The wild plants you
+brought me before
+were great. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 176:
+The stuff you gave
+me last time...
+It was good... {PAUSE}{EOM}
+
+Message 177:
+Looks like you've
+been working hard. {PAUSE}{WIPE}
+You can see it the
+satisfaction in
+your face. {PAUSE}{EOM}
+
+Message 178:
+Looks like you've
+been working hard. {PAUSE}{WIPE}
+It's like you've
+had a breakthrough
+of sorts. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+Looks like you're
+getting used to life
+on the farm. {PAUSE}{WIPE}
+You've calmed
+down a little. {PAUSE}{EOM}
+
+Message 180:
+What do you think
+of my work?
+{CHOICE3 DEF1}
+It's pretty.
+I guess I like it.
+I have no clue.{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+{FACE_150003}{S_340169}Ah, so you think
+it's pretty, do you?
+So do I. {PAUSE}{EOM}
+
+Message 182:
+{FACE_150003}I'm happy to hear
+you say that... {PAUSE}{EOM}{EOM}
+
+Message 183:
+{S_340169}Well, you and I
+may just see things
+differently. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 184:
+I'm not too good
+with people. {PAUSE}{WIPE}
+Don't take it
+personally. {PAUSE}{WIPE}
+It's just my
+personality. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 185:
+The natural element
+of Forget-Me-Not
+Valley mixes well{PAUSE}
+with my type of
+artwork.{PAUSE}{WIPE}
+Wait a minute,
+that's the other way
+around. {PAUSE}{EOM}
+
+Message 186:
+{FACE_150003}I'm feeling good. {PAUSE}{EOM}{EOM}
+
+Message 187:
+How are you? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+{S_34016A}What's going on? {PAUSE}{EOM}
+
+Message 189:
+You need something? {PAUSE}{EOM}{EOM}
+
+Message 190:
+I feel so calm
+when I come here. {PAUSE}{EOM}
+
+Message 191:
+{S_340169}I'm feeling good... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+Today my head is
+filled with ideas
+of new work. {PAUSE}{EOM}
+
+Message 193:
+{S_340169}Hmmm...nothing really
+catches my interest. {PAUSE}{WIPE}
+Something
+feels different... {PAUSE}{WIPE}
+I can't put my
+finger on it... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 194:
+You should always
+be feeling something
+from nature... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+The valley fills me
+with such great
+images but I'm not {PAUSE}
+able to express them
+appropriately yet. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+{S_340169}I get the feeling
+something important
+is liking... {PAUSE}{EOM}{EOM}
+
+Message 197:
+{S_34016A}How are you feeling
+today? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+You can feel things
+from the objects
+you see and the {PAUSE}
+sounds that you hear.
+You understand? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 199:
+Nature changes with
+the seasons but my
+work is constant. {PAUSE}{WIPE}
+Maybe that's a
+problem... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 200:
+I need more
+time... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 201:
+...... {PAUSE}{EOM}{EOM}
+
+Message 202:
+...... {PAUSE}{EOM}{EOM}
+
+Message 203:
+When I get the
+inspiration for a
+piece of art, {PAUSE}
+I feel the image
+and shape hammer
+itself into me. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 204:
+This piece has yet
+to feel the touch
+of nature. {PAUSE}{EOM}
+
+Message 205:
+The ocean absorbs
+everything... {PAUSE}{WIPE}
+The way people
+feel, and their
+senses melt away {PAUSE}
+before the greatness
+of the ocean. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+It's nice when the
+sea is calm, but
+it's better when {PAUSE}
+a mighty storm
+rages around
+inside it. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 207:
+Nothing can stop the
+flow of the river. {PAUSE}{WIPE}
+You can forget even
+the flow of time at
+the river, however,{PAUSE}
+like the river,
+nothing can stop
+time's flow. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 208:
+{S_340169}If you stare too
+long at the river,
+you'll get tired. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 209:
+I can feel the
+energies of the
+trees in the forest. {PAUSE}{WIPE}
+It's like they're
+entering my body. {PAUSE}{EOM}
+
+Message 210:
+{S_340169}I feel like I could
+get swallowed by
+the forest... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 211:
+You can get strength
+from a waterfall. {PAUSE}{WIPE}
+You can feel the
+immense power of
+water around you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 212:
+I'll never ever
+get tired of the
+valley. {PAUSE}{EOM}
+
+Message 213:
+Hmm... I've changed
+my mind.
+Maybe later. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,1021 @@
+Message 0:
+Spring{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+Summer{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+Fall{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+Winter{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+The Beginning{EOM}{EOM}{EOM}
+
+Message 5:
+Happy Birthday{EOM}
+
+Message 6:
+Happy Harvesting{EOM}
+
+Message 7:
+Happy Farm Life{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+To the Journey{EOM}{EOM}
+
+Message 9:
+The Twilight{EOM}
+
+Message 10:
+All{EOM}{EOM}
+
+Message 11:
+Food{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+Seeds{EOM}{EOM}
+
+Message 13:
+Crops{EOM}{EOM}
+
+Message 14:
+Dairy{EOM}{EOM}
+
+Message 15:
+Tools{EOM}{EOM}
+
+Message 16:
+Other{EOM}{EOM}
+
+Message 17:
+New Game{EOM}
+
+Message 18:
+Continue{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Normal Cow{EOM}
+
+Message 20:
+Star Cow{EOM}
+
+Message 21:
+Brown Cow{EOM}{EOM}{EOM}
+
+Message 22:
+Marble Cow{EOM}
+
+Message 23:
+Sheep{EOM}{EOM}
+
+Message 24:
+Chicken{EOM}{EOM}
+
+Message 25:
+Chick{EOM}{EOM}
+
+Message 26:
+Duck{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+Duckling{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+Yes
+No{EOM}
+
+Message 29:
+{GOLD_0005}{EOM}
+
+Message 30:
+{VAR_00} {VAR_01}{EOM}{EOM}{EOM}
+
+Message 31:
+{GOLD_0008}{EOM}
+
+Message 32:
+{GOLD_0008}{EOM}
+
+Message 33:
+{GOLD_0007}{EOM}
+
+Message 34:
+{GOLD_0006}{EOM}
+
+Message 35:
+{GOLD_0005}{EOM}
+
+Message 36:
+{GOLD_0004}{EOM}
+
+Message 37:
+{VAR_00}♂{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+{VAR_00}♀{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+{VAR_00}♀{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+♂{EOM}{EOM}
+
+Message 41:
+♀{EOM}{EOM}
+
+Message 42:
+{VAR_00} {GOLD_0000}G{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+Year {VAR_00} {GOLD_0000}{EOM}
+
+Message 44:
+{VAR_00}{EOM}{EOM}
+
+Message 45:
+{GOLD_0002}{EOM}
+
+Message 46:
+Day{EOM}{EOM}
+
+Message 47:
+AM{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+PM{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+{GOLD_0001}{GOLD_0101}{EOM}{EOM}
+
+Message 50:
+{GOLD_0003}{EOM}
+
+Message 51:
+x{GOLD_0002}{EOM}{EOM}{EOM}
+
+Message 52:
+{?_1880}x{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+{?_182A}{GOLD_0000}{EOM}{EOM}{EOM}
+
+Message 54:
+G{EOM}{EOM}
+
+Message 55:
+{C16}{EOM}{EOM}{EOM}{FF}C{C17}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{C16}{FF}{EOM}{EOM}{FF}B{C17}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+{C16}{EOM}{EOM}{FF}{FF}A{C17}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+{C16}{FF}{EOM}{FF}{FF}S{C17}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+{C13}●{C17}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+{C15}●{C17}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+{VAR_00}{VAR_01}{VAR_02}{VAR_03}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+{VAR_00}{VAR_01}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{VAR_00} {GOLD_0000}こ{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+???????{EOM}{EOM}
+
+Message 65:
+Cattle{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+Chicken{EOM}{EOM}
+
+Message 67:
+Sheep{EOM}{EOM}
+
+Message 68:
+Duck{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+Miracle Potion{EOM}
+
+Message 70:
+Tool{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+Other{EOM}{EOM}
+
+Message 72:
+Farm's Bull{EOM}{EOM}{EOM}
+
+Message 73:
+Other Bull{EOM}
+
+Message 74:
+Salad{EOM}{EOM}
+
+Message 75:
+Hors d'oeuvre{EOM}{EOM}{EOM}
+
+Message 76:
+Entree{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+Soup{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+Dessert{EOM}{EOM}
+
+Message 79:
+Terrible{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+Bad{EOM}{EOM}
+
+Message 81:
+Average{EOM}{EOM}
+
+Message 82:
+Good{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+Great{EOM}{EOM}
+
+Message 84:
+Spring{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+Summer{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+Fall{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+Winter{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+·{EOM}{EOM}
+
+Message 89:
+あいうえお{EOM}{EOM}
+
+Message 90:
+かきくけこ{EOM}{EOM}
+
+Message 91:
+さしすせそ{EOM}{EOM}
+
+Message 92:
+たちつてと{EOM}{EOM}
+
+Message 93:
+なにぬねの{EOM}{EOM}
+
+Message 94:
+はひふへほ{EOM}{EOM}
+
+Message 95:
+まみむめも{EOM}{EOM}
+
+Message 96:
+や ゆ よ{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+らりるれろ{EOM}{EOM}
+
+Message 98:
+わ を ん{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+ぁぃぅぇぉ{EOM}{EOM}
+
+Message 100:
+っゃゅょ—{EOM}{EOM}
+
+Message 101:
+がぎぐげご{EOM}{EOM}
+
+Message 102:
+ざじずぜぞ{EOM}{EOM}
+
+Message 103:
+だぢづでど{EOM}{EOM}
+
+Message 104:
+ばびぶべぼ{EOM}{EOM}
+
+Message 105:
+ぱぴぷぺぽ{EOM}{EOM}
+
+Message 106:
+     {EOM}{EOM}{EOM}
+
+Message 107:
+アイウエオ{EOM}{EOM}
+
+Message 108:
+カキクケコ{EOM}{EOM}
+
+Message 109:
+サシスセソ{EOM}{EOM}
+
+Message 110:
+タチツテト{EOM}{EOM}
+
+Message 111:
+ナニヌネノ{EOM}{EOM}
+
+Message 112:
+ハヒフヘホ{EOM}{EOM}
+
+Message 113:
+マミムメモ{EOM}{EOM}
+
+Message 114:
+ヤ ユ ヨ{EOM}{EOM}{EOM}{EOM}
+
+Message 115:
+ラリルレロ{EOM}{EOM}
+
+Message 116:
+ワ ヲ ン{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+アイウエオ{EOM}{EOM}
+
+Message 118:
+ッャュョ—{EOM}{EOM}
+
+Message 119:
+ガギグゲゴ{EOM}{EOM}
+
+Message 120:
+ザジズゼゾ{EOM}{EOM}
+
+Message 121:
+ダヂヅデド{EOM}{EOM}
+
+Message 122:
+バビブベボ{EOM}{EOM}
+
+Message 123:
+パピプペポ{EOM}{EOM}
+
+Message 124:
+     {EOM}{EOM}{EOM}
+
+Message 125:
+ABCDE{EOM}{EOM}
+
+Message 126:
+PQRST{EOM}{EOM}
+
+Message 127:
+efghi{EOM}{EOM}
+
+Message 128:
+tuvwx{EOM}{EOM}
+
+Message 129:
+89♂♀?{EOM}{EOM}
+
+Message 130:
+-○'+×{EOM}{EOM}
+
+Message 131:
+FGHIJ{EOM}{EOM}
+
+Message 132:
+UVWXY{EOM}{EOM}
+
+Message 133:
+jklmn{EOM}{EOM}
+
+Message 134:
+yz012{EOM}{EOM}
+
+Message 135:
+!★☆&"·{EOM}{EOM}
+
+Message 136:
+<>()｢{EOM}{EOM}
+
+Message 137:
+KLMNO{EOM}{EOM}
+
+Message 138:
+Zabcd{EOM}{EOM}
+
+Message 139:
+opqrs{EOM}{EOM}
+
+Message 140:
+34567{EOM}{EOM}
+
+Message 141:
+♥/♪.%{EOM}{EOM}
+
+Message 142:
+｣~*  {EOM}{EOM}{EOM}{EOM}
+
+Message 143:
+0{EOM}{EOM}
+
+Message 144:
+Stereo{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+Monaural{EOM}{EOM}{EOM}{EOM}
+
+Message 146:
+On{EOM}{EOM}{EOM}{EOM}
+
+Message 147:
+Off{EOM}{EOM}
+
+Message 148:
+Sound{EOM}{EOM}
+
+Message 149:
+Button Guide{EOM}
+
+Message 150:
+Rumble{EOM}{EOM}{EOM}{EOM}
+
+Message 151:
+{VAR_00} {?_182A}{GOLD_0004}{?_1880}G{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+{VAR_00}                {EOM}{EOM}
+
+Message 153:
+{VAR_00}               {EOM}{EOM}{EOM}
+
+Message 154:
+{VAR_00}              {EOM}{EOM}{EOM}{EOM}
+
+Message 155:
+{VAR_00}             {EOM}
+
+Message 156:
+{VAR_00}            {EOM}{EOM}
+
+Message 157:
+{VAR_00}           {EOM}{EOM}{EOM}
+
+Message 158:
+{VAR_00}          {EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+{VAR_00}         {EOM}
+
+Message 160:
+{VAR_00}        {EOM}{EOM}
+
+Message 161:
+{VAR_00}       {EOM}{EOM}{EOM}
+
+Message 162:
+{VAR_00}      {EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+{VAR_00}     {EOM}
+
+Message 164:
+{VAR_00}    {EOM}{EOM}
+
+Message 165:
+{VAR_00}   {EOM}{EOM}{EOM}
+
+Message 166:
+{VAR_00}  {EOM}{EOM}{EOM}{EOM}
+
+Message 167:
+{VAR_00} {EOM}
+
+Message 168:
+{VAR_00}{EOM}{EOM}
+
+Message 169:
+{VAR_00}{EOM}{EOM}
+
+Message 170:
+Tanya{EOM}{EOM}
+
+Message 171:
+Liz{EOM}{EOM}
+
+Message 172:
+ごんざ{EOM}{EOM}
+
+Message 173:
+はやぶさたろう{EOM}{EOM}
+
+Message 174:
+しょうのすけ{EOM}{EOM}{EOM}{EOM}
+
+Message 175:
+す—タン{EOM}{EOM}{EOM}{EOM}
+
+Message 176:
+メリケンさん{EOM}{EOM}{EOM}{EOM}
+
+Message 177:
+モ—ちゃん{EOM}{EOM}
+
+Message 178:
+ゲ ッ ツ{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+ヘルナンデス{EOM}{EOM}{EOM}{EOM}
+
+Message 180:
+せきトリ{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+みいらトリ{EOM}{EOM}
+
+Message 182:
+けだまトリ{EOM}{EOM}
+
+Message 183:
+かトリせんこう{EOM}{EOM}
+
+Message 184:
+トリびゅ—ん{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+とっトリくん{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+トリまき{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+トリ—ど{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+ジュリたん{EOM}{EOM}
+
+Message 189:
+くろねこロック{EOM}{EOM}
+
+Message 190:
+"Sports World"{EOM}
+
+Message 191:
+"Run/Jump/Throw"{EOM}{EOM}{EOM}{EOM}
+
+Message 192:
+"Sports 101"{EOM}
+
+Message 193:
+"Instruments"{EOM}{EOM}
+
+Message 194:
+"Composer's Life"{EOM}{EOM}{EOM}
+
+Message 195:
+"Songs for Children"{EOM}{EOM}
+
+Message 196:
+"Colors"{EOM}{EOM}{EOM}{EOM}
+
+Message 197:
+"Drawings"{EOM}{EOM}{EOM}{EOM}
+
+Message 198:
+"How to Color"{EOM}{EOM}
+
+Message 199:
+"Plants by the Sea"{EOM}
+
+Message 200:
+"Wild Grass"{EOM}
+
+Message 201:
+"Good Soil!"{EOM}
+
+Message 202:
+"I Love Pets!"{EOM}{EOM}
+
+Message 203:
+"My Goat"{EOM}{EOM}{EOM}
+
+Message 204:
+"Good Milk"{EOM}{EOM}{EOM}
+
+Message 205:
+"Numbers"{EOM}{EOM}
+
+Message 206:
+"Stars"{EOM}{EOM}
+
+Message 207:
+"Dictionary"{EOM}{EOM}{EOM}{EOM}
+
+Message 208:
+"Comic Book"{EOM}
+
+Message 209:
+"The Seven Wonders"{EOM}{EOM}{EOM}{EOM}
+
+Message 210:
+"A cutter and a king"{EOM}{EOM}
+
+Message 211:
+"Monthly Sports 1"{EOM}{EOM}
+
+Message 212:
+"Monthly Sports 5"{EOM}{EOM}
+
+Message 213:
+"Training 101"{EOM}
+
+Message 214:
+"Play a Reed"{EOM}{EOM}{EOM}{EOM}
+
+Message 215:
+"The Band-man"{EOM}
+
+Message 216:
+"Comedy Dictionary"{EOM}{EOM}{EOM}
+
+Message 217:
+"Ornament"{EOM}{EOM}{EOM}{EOM}
+
+Message 218:
+"Fashion News 5"{EOM}{EOM}
+
+Message 219:
+"Designing 101"{EOM}{EOM}{EOM}
+
+Message 220:
+"Plant 1"{EOM}{EOM}{EOM}
+
+Message 221:
+"Plant 2"{EOM}{EOM}{EOM}
+
+Message 222:
+"About Watering"{EOM}
+
+Message 223:
+"Marine Organism"{EOM}{EOM}{EOM}
+
+Message 224:
+"Red Data Animals"{EOM}{EOM}
+
+Message 225:
+"Milk Dictionary"{EOM}{EOM}{EOM}
+
+Message 226:
+"Kinematics"{EOM}{EOM}{EOM}{EOM}
+
+Message 227:
+"Human Body"{EOM}
+
+Message 228:
+"Earth Science"{EOM}{EOM}{EOM}
+
+Message 229:
+"Teen"{EOM}{EOM}{EOM}{EOM}
+
+Message 230:
+"100 School Uniforms"{EOM}{EOM}{EOM}{EOM}
+
+Message 231:
+"With her"{EOM}
+
+Message 232:
+"Monthly Sports 27"{EOM}{EOM}{EOM}{EOM}
+
+Message 233:
+"The Sports Book"{EOM}{EOM}{EOM}{EOM}
+
+Message 234:
+"Sports Medicine"{EOM}{EOM}{EOM}
+
+Message 235:
+"My First Stage"{EOM}{EOM}
+
+Message 236:
+"Hit Music 10"{EOM}{EOM}
+
+Message 237:
+"C-Sharp Minor"{EOM}{EOM}{EOM}
+
+Message 238:
+"Joy of Sculpting"{EOM}{EOM}
+
+Message 239:
+"Art Magazine Vol.7"{EOM}{EOM}
+
+Message 240:
+"The Power of Colors"{EOM}
+
+Message 241:
+"Farming Catalogue"{EOM}{EOM}{EOM}
+
+Message 242:
+"Biotechnology"{EOM}{EOM}
+
+Message 243:
+"Faming Now Vol.3"{EOM}{EOM}
+
+Message 244:
+"Dog Magazine Autumn"{EOM}{EOM}{EOM}{EOM}
+
+Message 245:
+"Horse Picture Book"{EOM}{EOM}
+
+Message 246:
+"Animal Illness"{EOM}
+
+Message 247:
+"Chaos Theory"{EOM}
+
+Message 248:
+"Entropy"{EOM}{EOM}
+
+Message 249:
+"Artificial life"{EOM}{EOM}{EOM}
+
+Message 250:
+"Occasions"{EOM}{EOM}
+
+Message 251:
+"Travel"{EOM}{EOM}{EOM}{EOM}
+
+Message 252:
+"Cocktails"{EOM}{EOM}
+
+Message 253:
+Normal{EOM}{EOM}{EOM}{EOM}
+
+Message 254:
+Sick{EOM}{EOM}{EOM}{EOM}
+
+Message 255:
+Pregnant{EOM}{EOM}{EOM}{EOM}
+
+Message 256:
+For Sale{EOM}
+
+Message 257:
+Post-Miracle{EOM}{EOM}{EOM}{EOM}
+
+Message 258:
+Isolated{EOM}{EOM}{EOM}{EOM}
+
+Message 259:
+Pre-Miracle{EOM}{EOM}
+
+Message 260:
+{TATSUYA}'s Birthday★{EOM}{EOM}{EOM}
+
+Message 261:
+{CELIA}'s Birthday★{EOM}{EOM}{EOM}
+
+Message 262:
+{MUFFY}'s Birthday★{EOM}{EOM}{EOM}
+
+Message 263:
+{NAMI}'s Birthday★{EOM}{EOM}{EOM}
+
+Message 264:
+{VAN}'s Business Day★{EOM}{EOM}{EOM}{EOM}
+
+Message 265:
+New Year Festival{EOM}{EOM}{EOM}{EOM}
+
+Message 266:
+Summer Festival{EOM}{EOM}{EOM}
+
+Message 267:
+Harvest Festival{EOM}
+
+Message 268:
+Blue Festival{EOM}{EOM}{EOM}
+
+Message 269:
+Starry Night Festival{EOM}{EOM}{EOM}{EOM}
+
+Message 270:
+{FARM} Farm{EOM}{EOM}
+
+Message 271:
+Houses{EOM}{EOM}{EOM}{EOM}
+
+Message 272:
+{STRUC_35}{EOM}{EOM}
+
+Message 273:
+{STRUC_32}{EOM}{EOM}
+
+Message 274:
+{STRUC_38}{EOM}{EOM}
+
+Message 275:
+{STRUC_34}{EOM}{EOM}
+
+Message 276:
+Pyrotechnicians'{EOM}{EOM}{EOM}{EOM}
+
+Message 277:
+Artist's House{EOM}
+
+Message 278:
+Scientist's House{EOM}{EOM}{EOM}
+
+Message 279:
+{STRUC_39}{EOM}{EOM}
+
+Message 280:
+{STRUC_41}{EOM}{EOM}
+
+Message 281:
+{STRUC_36}{EOM}{EOM}
+
+Message 282:
+Poet's House{EOM}
+
+Message 283:
+{STRUC_37}{EOM}{EOM}
+
+Message 284:
+{STRUC_33}{EOM}{EOM}
+
+Message 285:
+Select a Memory Card{EOM}{EOM}{EOM}
+
+Message 286:
+Select a Diary to save{EOM}{EOM}{EOM}{EOM}
+
+Message 287:
+Select a Diary to load{EOM}{EOM}{EOM}{EOM}
+
+Message 288:
+SlotA{EOM}{EOM}
+
+Message 289:
+SlotB{EOM}{EOM}
+
+Message 290:
+A{EOM}{EOM}
+
+Message 291:
+B{EOM}{EOM}
+
+Message 292:
+My House{EOM}
+
+Message 293:
+{FARM} Farm{EOM}{EOM}
+
+Message 294:
+Dog House{EOM}{EOM}{EOM}
+
+Message 295:
+Newcomer{EOM}{EOM}{EOM}{EOM}
+
+Message 296:
+ {EOM}{EOM}{EOM}
+
+Message 297:
+All Categories{EOM}
+
+Message 298:
+Food{EOM}{EOM}{EOM}{EOM}
+
+Message 299:
+Seeds{EOM}{EOM}
+
+Message 300:
+Crops{EOM}{EOM}
+
+Message 301:
+Dairy{EOM}{EOM}
+
+Message 302:
+Tools{EOM}{EOM}
+
+Message 303:
+Other{EOM}{EOM}
+
+Message 304:
+Open Map{EOM}
+
+Message 305:
+Item Description{EOM}
+
+Message 306:
+Year{EOM}{EOM}{EOM}{EOM}
+
+Message 307:
+Season/Date{EOM}{EOM}
+
+Message 308:
+Crop Shipping Bin{EOM}{EOM}{EOM}{EOM}
+
+Message 309:
+Dairy Shipping Bin{EOM}{EOM}
+
+Message 310:
+Order{EOM}{EOM}
+
+Message 311:
+Daily Record{EOM}
+
+Message 312:
+Seasonal Record{EOM}{EOM}{EOM}
+
+Message 313:
+Total{EOM}{EOM}
+
+Message 314:
+Income{EOM}{EOM}{EOM}{EOM}
+
+Message 315:
+Expense{EOM}{EOM}
+
+Message 316:
+Profit{EOM}{EOM}{EOM}{EOM}
+
+Message 317:
+Order animals and M.M.{EOM}{EOM}{EOM}
+
+Message 318:
+Order Items{EOM}{EOM}{EOM}
+
+Message 319:
+Order Items{EOM}{EOM}{EOM}
+
+Message 320:
+Order Items{EOM}{EOM}{EOM}
+
+Message 321:
+Buildings{EOM}{EOM}
+
+Message 322:
+Sell Animals{EOM}
+
+Message 323:
+Ledger{EOM}{EOM}{EOM}{EOM}
+
+Message 324:
+Ordered Items{EOM}{EOM}{EOM}
+
+Message 325:
+Ledger{EOM}{EOM}{EOM}{EOM}
+
+Message 326:
+Crop Shipping Bin{EOM}{EOM}{EOM}{EOM}
+
+Message 327:
+Ledger{EOM}{EOM}{EOM}{EOM}
+
+Message 328:
+Dairy Shipping Bin{EOM}{EOM}
+
+Message 329:
+Crops{EOM}{EOM}
+
+Message 330:
+Seeds{EOM}{EOM}
+
+Message 331:
+Seeds{EOM}{EOM}
+
+Message 332:
+Other{EOM}{EOM}
+
+Message 333:
+Family and Farm{EOM}{EOM}{EOM}{EOM}
+
+Message 334:
+Buildings{EOM}{EOM}
+
+Message 335:
+Livestock{EOM}{EOM}
+
+Message 336:
+Poultry{EOM}{EOM}
+
+Message 337:
+Pet{EOM}{EOM}
+
+Message 338:
+Equippable{EOM}{EOM}{EOM}{EOM}
+
+Message 339:
+Money {?_182A}{GOLD_0008} {?_1880}G{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

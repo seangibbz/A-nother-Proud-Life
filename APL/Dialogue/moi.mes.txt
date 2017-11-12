@@ -1,0 +1,597 @@
+Message 0:
+{S_340174}...?{S_320320}{EOM}{EOM}
+
+Message 1:
+{FACE_050003}I can find lots of
+food around here.{PAUSE}{EOM}{EOM}
+
+Message 2:
+{FACE_050003}You should pick
+some up too.
+{CHOICE2 DEF0}
+Uh, give them back.
+Alright!{EOM}
+
+Message 3:
+{FACE_050003}I found lots of
+food here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+{FACE_050003}I'm gonna take them
+home.
+{CHOICE2 DEF0}
+Uh, give them back.
+Bon appetit.{EOM}{EOM}{EOM}
+
+Message 5:
+{FACE_050000}Oh, this is YOUR
+feeder?
+M-My bad! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+I guess I'll give
+it back...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+My b-bad. {PAUSE}{EOM}
+
+Message 8:
+{FACE_050000}I'll come b-by
+again. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+{FACE_050000}I picked up a lot
+of food that had
+been d-dropped. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+Here, you can have
+t-this. {S_320320}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+{FACE_050003}Wow! Somebody
+d-dropped more food
+again today! {PAUSE}{WIPE}
+I'll be b-back. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_050003}Somebody d-dropped a
+ton of eggs over
+there. {PAUSE}{WIPE}
+If you're nice I'll
+even g-give you
+one of them! {PAUSE}{EOM}{EOM}
+
+Message 13:
+{FACE_050000}Somebody keeps
+d-dropping food
+nearby!{PAUSE}{WIPE}
+{FACE_050003}I'll be b-back! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+{FACE_050000}Somebody left this
+stuff just l-laying
+around the forest. {PAUSE}{WIPE}
+Here, you can have
+one t-too! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+{FACE_050003}Not bad! Not bad!
+I'll definitely get
+you another one!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+I'll get you some
+stuff again! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+I've f-finally got
+enough money. {PAUSE}{WIPE}
+I'm returning to
+m-my family. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+Thank you for
+everything. This is
+for y-you.{PAUSE}{EOM}{EOM}
+
+Message 19:
+Accept this as m-my
+thanks! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+F-Farewell...{PAUSE}{EOM}
+
+Message 21:
+{S_340173}...!
+Well, maybe one last
+one for the r-road. {PAUSE}{EOM}
+
+Message 22:
+I drank too much and
+spent all my
+m-money. {PAUSE}{WIPE}
+{FACE_050003}Looks like it's not
+goodbye after all! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+I want to see my
+family again but
+I have no m-money! {PAUSE}
+Please help m-me!
+{CHOICE4 DEF0}
+Give 1G
+Give 50G
+Give 100G
+Give nothing{EOM}
+
+Message 24:
+I want to see my
+family again but
+I have no m-money! {PAUSE}
+Please help m-me!
+{CHOICE4 DEF0}
+Give 1G
+Give 50G
+Give 100G
+Give nothing{EOM}
+
+Message 25:
+I want to see my
+family again but
+I'm a little short! {PAUSE}
+Please help me!
+{CHOICE4 DEF0}
+Give 1G
+Give 50G
+Give 100G
+Give nothing{EOM}{EOM}{EOM}
+
+Message 26:
+{S_340173}That h-helps...{PAUSE}
+I hope you come
+b-back again...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+{FACE_050003}Wow, that really
+helped m-me out! {PAUSE}{EOM}
+
+Message 28:
+Wow, you're the
+b-best! {PAUSE}{WIPE}
+{FACE_050003}I'm now one step
+closer to g-going
+home! {PAUSE}{WIPE}
+You really saved
+me t-there! {PAUSE}{EOM}{EOM}
+
+Message 29:
+I hope you'll come
+b-back again soon! {PAUSE}{EOM}{EOM}
+
+Message 30:
+I can't go home...
+I hope someone helps
+me n-next time...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+{FACE_050004}Looks like you
+don't have enough
+m-money. {PAUSE}{WIPE}
+{FACE_050000}But I'll still
+take whatever you
+can g-give me! {PAUSE}
+{CHOICE4 DEF0}
+Give 1G
+Give 50G
+Give 100G
+Give nothing{EOM}
+
+Message 32:
+Thanks for
+everything...
+F-Farewell...{PAUSE}{EOM}{EOM}
+
+Message 33:
+Griffin, sing
+something for
+{PETE}!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+Moi...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+Moi-moi...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+{S_340173}Mo----i, moi. {PAUSE}{EOM}{EOM}
+
+Message 37:
+N-Nothing. {PAUSE}{EOM}{EOM}
+
+Message 38:
+B-bring something. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+Nothing good
+h-here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+Bring something much
+b-better. {PAUSE}{EOM}
+
+Message 41:
+I w-want that
+{VAR_00}.
+What do you think? {PAUSE}
+{CHOICE3 DEF2}
+{GOLD_0105}G for you.
+{GOLD_0205}G.
+That's not free.{EOM}{EOM}{EOM}
+
+Message 42:
+Oh, well if it's
+gonna cost m-money,
+I don't want it. {PAUSE}{EOM}{EOM}
+
+Message 43:
+I'm not b-buying
+anything. {PAUSE}{EOM}
+
+Message 44:
+You look like you
+have something...
+Gimme g-gimme. {PAUSE}{EOM}
+
+Message 45:
+{S_340174}Moi...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+I don't feel so
+g-good...{PAUSE}{EOM}
+
+Message 47:
+I'm exhausted...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+I'm angry, moi. {PAUSE}{EOM}{EOM}
+
+Message 49:
+Moi...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+{S_340173}Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+{S_340173}Are you giving that
+to m-me? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+{FACE_050003}{S_340173}Moi, moi.
+I'm so h-happy♪{PAUSE}{EOM}{EOM}
+
+Message 53:
+{S_340174}{FACE_050004}I don't w-want it. {PAUSE}{EOM}{EOM}
+
+Message 54:
+That looks y-yum. {PAUSE}{EOM}{EOM}
+
+Message 55:
+You've got something
+good...
+Give it to me? {CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 56:
+I'll just l-look
+then. {PAUSE}{EOM}
+
+Message 57:
+I don't l-like
+that...{PAUSE}{EOM}{EOM}
+
+Message 58:
+That's not good for
+m-me at all. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+I'd r-rather have
+something to eat. {PAUSE}{EOM}
+
+Message 60:
+{FACE_050003}{S_340173}He is cute, moi. {PAUSE}{EOM}{EOM}
+
+Message 61:
+Reminds me of my son.{PAUSE}{EOM}
+
+Message 62:
+Dogs are
+s-s-scary...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 63:
+I l-like animals. {PAUSE}{EOM}{EOM}
+
+Message 64:
+Cats are soft and
+t-tasty looking. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+Such a tasty looking
+c-cat...{PAUSE}{EOM}
+
+Message 66:
+If it lays an egg,
+I'll t-take it.{PAUSE}{EOM}{EOM}
+
+Message 67:
+Get b-big and start
+laying eggs. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+Get b-bigger. {PAUSE}{EOM}
+
+Message 69:
+{FACE_050003}...{PAUSE}{EOM}
+
+Message 70:
+Give it to me when
+that becomes a fruit
+or a vegetable.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+I don't want
+s-seeds. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+{S_340173}W-what's that?{PAUSE}{EOM}
+
+Message 73:
+{S_340174}I don't want
+t-that...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+What a pretty stone.
+But, I can't e-eat
+it...{PAUSE}{EOM}
+
+Message 75:
+What a pretty plant.
+But, I can't e-eat
+it...{PAUSE}{EOM}
+
+Message 76:
+{S_340174}I hate that
+s-smell...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+{S_3400DA}{S_3205DC}{FACE_050003}{S_340173}...
+Hmmm...mmm...mmm... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+{S_3400DA}{S_3205DC}{FACE_050003}That's a good
+d-drum. {PAUSE}{EOM}
+
+Message 79:
+Is that m-money...? {PAUSE}{EOM}{EOM}
+
+Message 80:
+{S_340173}Pretty pretty. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+Can you eat t-that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 82:
+{S_340172}So what about...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+Have you ever heard
+of Po-po Valley? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 84:
+{S_340173}Really!?
+That's where I
+came from. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{S_340174}Nobody d-does...{PAUSE}{EOM}
+
+Message 86:
+I lost my way,
+and couldn't go
+back to Po-Po Valley. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+I want to save money
+and get back t-to
+my family quickly. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+There's got to b-be
+someone around here
+with lots of money.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+Somewhere there is a
+REALLY nice person.
+I just k-know it. {PAUSE}
+I want to meet
+t-that person...{PAUSE}{EOM}
+
+Message 90:
+Somewhere there is
+somebody who grows
+LOT of f-food. {PAUSE}
+I hope they'll split
+some with m-me. {PAUSE}{EOM}
+
+Message 91:
+Somewhere there is
+a person who p-pets
+their animals a lot. {PAUSE}
+They've just got
+to be n-nice. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+Somewhere is a
+person who mines
+a lot of pretty {PAUSE}
+pretty pretty
+s-stones. {PAUSE}{EOM}{EOM}
+
+Message 93:
+Somewhere there's a
+person who is very
+good at f-fishing. {PAUSE}
+I'm j-jealous...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+Somewhere there's a
+a person who walks
+a l-lot. {PAUSE}
+I won't lose .
+I'll walk until I
+f-find my way back{PAUSE}
+to Po-po Valley. {PAUSE}{EOM}{EOM}
+
+Message 95:
+Somewhere there's a
+person who has great
+l-longevity. {PAUSE}{WIPE}
+{FACE_050004}I won't g-give up...
+I can't die until
+I get b-back...{PAUSE}{EOM}{EOM}
+
+Message 96:
+Somewhere there's a
+person who likes to
+fish a l-lot. {PAUSE}{WIPE}
+I just want the
+fish he c-catches...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+Somewhere there's a
+person who has VERY
+bad taste. {PAUSE}{EOM}{EOM}
+
+Message 98:
+Somewhere, there is
+a p-person who owns
+lots of big houses. {PAUSE}
+I just need one
+p-place to sleep...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+Somewhere there is
+a person who's very
+good at what he does.{PAUSE}{EOM}{EOM}
+
+Message 100:
+I really liked the
+food I got before.
+I want it a-again...{PAUSE}{EOM}{EOM}
+
+Message 101:
+{S_340173}I just want to go
+h-home...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+{S_340174}...{PAUSE}{EOM}{EOM}
+
+Message 103:
+Sometimes people
+drop things to
+e-eat. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+Sometimes people
+drop things to
+d-drink. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+I l-like it here. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 106:
+{S_340173}It's g-gotten warm. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 107:
+Taro and Hanako seem
+v-very happy.
+Do you know them?{PAUSE}{WIPE}
+They're the ones
+always s-spinning
+around in circles. {PAUSE}{EOM}
+
+Message 108:
+I'm h-h-h-h
+hungry...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+I wanna g-go home...{PAUSE}{EOM}{EOM}
+
+Message 110:
+{S_340173}It's so h-hot...{PAUSE}{EOM}{EOM}
+
+Message 111:
+Po-po Valley is much
+c-cooler than here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+{S_340173}This place is
+k-kinda like Po-po
+Valley...{PAUSE}
+But, I still want to
+go h-home. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+Sometimes I remember
+my f-family. {PAUSE}
+I have to go
+b-back... {PAUSE}{EOM}
+
+Message 114:
+{S_340173}It's c-cold...{PAUSE}{EOM}
+
+Message 115:
+Taro and Hanako
+don't look so
+g-good. {PAUSE}{EOM}{EOM}
+
+Message 116:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 117:
+I want to eat
+fish. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+I wanna eat some
+nuts.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 119:
+Lots of food gets
+dropped around here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+Someone made good
+bread...{PAUSE}{EOM}{EOM}
+
+Message 121:
+{S_340173}I'll be back. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+I'll be back. {PAUSE}{EOM}{EOM}
+
+Message 123:
+I'll be back to
+p-pick up more
+stuff. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+I'll be back to
+p-pick up more
+stuff. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+Moi-moi...
+Moiiiii...
+I can't take it now. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

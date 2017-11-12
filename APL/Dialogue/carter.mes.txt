@@ -1,0 +1,1203 @@
+Message 0:
+Thank you! {PAUSE}{WIPE}
+I'll show you the
+location right
+away. {PAUSE}{EOM}
+
+Message 1:
+This is the
+entrance. {PAUSE}{WIPE}
+Only a small part of
+it has been studied,
+but you can help us.{PAUSE}{EOM}
+
+Message 2:
+Let me start by
+explaining the
+basics. {PAUSE}{WIPE}
+The A button let's
+you dig a square. {PAUSE}{WIPE}
+When you dig, you
+may find items. {PAUSE}{WIPE}
+You can view your
+items on the
+Relic Screen. {PAUSE}{WIPE}
+Work goes until
+5:00 PM each day. {PAUSE}{WIPE}
+If you want to quit
+earlier, just go
+up the stairs. {PAUSE}{WIPE}
+One more thing,
+you can't carry your
+backpack while {PAUSE}
+excavating so make
+sure you eat up! {PAUSE}{EOM}{EOM}
+
+Message 3:
+Do I need to explain
+it to you again?
+{CHOICE3 DEF0}
+Explain again.
+That's enough.
+Never mind.{EOM}
+
+Message 4:
+Let's go inside. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+This is the inside
+of the {C14}{STRUC_41}{C17}. {PAUSE}{WIPE}
+Work hard, but
+not too hard. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+Thanks a lot.
+That's enough for
+today. {PAUSE}
+Oh, I'll take any
+items you may have
+found. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+Hmm... {PAUSE}{WIPE}
+This isn't enough
+to figure anything
+out yet. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+Oh, it's you!
+I've been waiting
+for you. {PAUSE}{EOM}
+
+Message 9:
+Thanks to you, we're
+able to begin to
+understand more {PAUSE}
+of the riddle of
+the {C14}{STRUC_41}{C17}.{PAUSE}{WIPE}
+Unfortunately, we
+still don't know
+everything yet... {PAUSE}{EOM}{EOM}
+
+Message 10:
+But that's no reason
+to give up!{PAUSE}{WIPE}
+As long as we make
+progress, we may
+yet understand!{PAUSE}{WIPE}
+So, can you help us
+today again?
+{CHOICE2 DEF0}
+Leave it to me!
+No way!{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+C-can it be!?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+{FLORA}, do you
+know what this means
+if this turns out to{PAUSE}
+be the truth!?
+It will be
+astounding! {PAUSE}{EOM}
+
+Message 13:
+Oh!
+It's you!
+Glad you came. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+I've found something
+incredible! {PAUSE}{WIPE}
+This is still just
+a guess at this
+point so I won't{PAUSE}
+go spreading it
+all over the place. {PAUSE}{WIPE}
+You on the other
+hand, have a right
+to know. {PAUSE}{WIPE}
+The truth is,
+I've found something
+among the fossils{PAUSE}
+we've excavated.{PAUSE}{WIPE}
+What do you think
+that is? {PAUSE}{EOM}{EOM}
+
+Message 15:
+Exactly.
+However! {PAUSE}{WIPE}
+At first glance,
+they might be the
+remains of dinosaurs {PAUSE}
+that once lived in
+the watery depths! {PAUSE}{WIPE}
+But there's more!
+Something bigger! {PAUSE}{WIPE}
+We found picture
+writing depicting
+mermaids! {PAUSE}{WIPE}
+This could be the
+lost relics of
+a people who once {PAUSE}
+lived in the depths
+of the seas! {PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+We must continue
+our work and strive
+for answers!{PAUSE}{WIPE}
+Answers to this
+ancient mystery!{PAUSE}{WIPE}
+As long as we
+continue our work,
+someday all will {PAUSE}
+become crystal
+clear to us. {PAUSE}{WIPE}
+Will you help us
+get closer to
+that day by {PAUSE}
+helping out with
+the dig again?
+{CHOICE2 DEF0}
+Count me in!
+No way!{EOM}{EOM}{EOM}
+
+Message 17:
+Doesn't seem to be
+any major finds. {PAUSE}{EOM}{EOM}
+
+Message 18:
+Achoooo!! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Oh!
+It's you! {PAUSE}{WIPE}
+Thanks for coming...
+Achooo!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+Sorry about that. {PAUSE}{WIPE}
+Lately {FLORA} and
+I haven't been
+feeling too good. {PAUSE}{WIPE}
+This is the first
+time I've ever
+felt like this. {PAUSE}{WIPE}
+Achoooo!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+Sorry. {PAUSE}{WIPE}
+I'm so sick I won't
+be able to do any
+excavating today. {PAUSE}{WIPE}
+But, we can't give
+up now.
+Achooo!! {PAUSE}{WIPE}
+You're the only one
+I can depend on! {PAUSE}{WIPE}
+I'm sorry to ask
+this of you, but
+would you help us {PAUSE}
+in our work again
+today?
+{CHOICE2 DEF0}
+Of course!
+No way!{EOM}
+
+Message 22:
+What do you think?
+{FLORA}? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+Please hurry! {PAUSE}{EOM}
+
+Message 24:
+You're quick... {PAUSE}{WIPE}
+Hmm.
+Read it! {PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+Hmm.
+So that's it... {PAUSE}{WIPE}
+The reason we got
+sick was because
+of the curse! {PAUSE}{EOM}{EOM}
+
+Message 26:
+H-hey you, what are
+you so panicked
+about? {PAUSE}{EOM}
+
+Message 27:
+What?
+You're afraid of a
+little curse? {PAUSE}{WIPE}
+There's no need
+to worry. {PAUSE}{WIPE}
+Even if we fell,
+you were still
+okay, right? {PAUSE}{WIPE}
+From what I've seen
+you're our man
+for the job. {PAUSE}{WIPE}
+Let's just continue
+our progress and
+not worry about it. {PAUSE}{EOM}{EOM}
+
+Message 28:
+Oh, one more thing.
+The place where
+we're currently {PAUSE}
+digging appears
+to continue on to
+the King's Hall. {PAUSE}{WIPE}
+There's a chance
+of finding some
+great relics there. {PAUSE}{WIPE}
+Proceed with great
+care. {PAUSE}{WIPE}
+We're so close to
+unraveling the
+mystery! {PAUSE}{WIPE}
+I'm sorry to ask
+this of you but
+would you help {PAUSE}
+us excavate again
+today?
+{CHOICE2 DEF0}
+Count me in!
+No way!{EOM}{EOM}
+
+Message 29:
+Hmmm.
+I see!
+That's it...! {PAUSE}{EOM}{EOM}
+
+Message 30:
+You want to know?
+Allow me to explain
+it to you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+Up ahead is the
+Tomb of the King. {PAUSE}{WIPE}
+It's said that those
+who would enter such
+holy grounds is {PAUSE}
+doomed by great
+misfortune. {PAUSE}{WIPE}
+Now that I think
+about it, that could
+be the reason why {PAUSE}
+Flora and I suddenly
+got sick. {PAUSE}{WIPE}
+It's all because of
+the curse! {PAUSE}{EOM}
+
+Message 32:
+Oh!
+Thanks for coming! {PAUSE}{EOM}
+
+Message 33:
+Thanks to you
+we were able to
+finish our dig. {PAUSE}{WIPE}
+We owe you a debt
+of gratitude. {PAUSE}{EOM}
+
+Message 34:
+This what I've been
+able to conclude. {PAUSE}{WIPE}
+As I had expected,
+this place was once
+the {C14}{STRUC_41}{C17}{PAUSE}
+of a thriving ancient
+civilization. {PAUSE}{EOM}
+
+Message 35:
+As far as the disk
+looking item you
+had found... {PAUSE}{WIPE}
+It was able to
+play back musical
+data that was {PAUSE}
+inscribed on it. {PAUSE}{WIPE}
+The best way to
+explain it is to
+compare it to a CD. {PAUSE}{WIPE}
+I imagine any
+researcher would
+be happy to have it. {PAUSE}{EOM}{EOM}
+
+Message 36:
+It seems they were
+trying to warn us of
+something... {PAUSE}{WIPE}
+Our planet's is in
+grave environmental
+danger. {PAUSE}{WIPE}
+We don't know when
+the day will come
+when the Earth will {PAUSE}
+end, but it's our
+responsibility to
+learn from the past. {PAUSE}{EOM}{EOM}
+
+Message 37:
+Thanks to you, our
+exploration has
+reached an end. {PAUSE}{WIPE}
+We owe you a
+great deal.
+Thank you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+We're going to be
+here for a while. {PAUSE}{WIPE}
+If you feel the urge
+to delve into the
+past again, stop by! {PAUSE}{EOM}
+
+Message 39:
+...Ask {FLORA}
+about the contents
+of that. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+I understand.
+I'll take any other
+relics you may find.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+Oh, {MUFFY}.
+What are you doing
+here? {PAUSE}{EOM}{EOM}
+
+Message 42:
+Such a big deal.
+When {MUFFY} left,
+{GRIFFIN} left the{PAUSE}
+shop too, so everyone
+followed him.{PAUSE}{EOM}
+
+Message 43:
+ {PAUSE}{EOM}{EOM}
+
+Message 44:
+ {PAUSE}{EOM}{EOM}
+
+Message 45:
+Hey! {S_3201F4}
+Are you going to
+sleep forever?{S_3201F4}{PAUSE}{WIPE}
+We're finished with
+work for today! {PAUSE}{EOM}
+
+Message 46:
+That's enough for
+today... {S_3201F4}
+{PETE}, {S_3201F4}good job. {PAUSE}{WIPE}
+Our work is done for
+today.
+Let's head back. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+Thanks for your
+help today. {S_3201F4}{PAUSE}{WIPE}
+Let's see what
+we found today... {PAUSE}{EOM}{EOM}
+
+Message 48:
+Oh...this is a...!? {S_3201F4}
+Something's written
+on it... {S_3201F4}{PAUSE}{WIPE}
+It could be a piece
+of an ancient
+civilization... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+{FACE_060000}I'll just keep it
+for now... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+Seems there's nothing
+else important here.{PAUSE}{WIPE}
+Do as you please
+for now. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+Please come by and
+help out whenever
+you want. {PAUSE}{EOM}{EOM}
+
+Message 52:
+Oh, you can't fit
+those items in your
+rucksack? {PAUSE}{WIPE}
+I'll keep them
+then.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+Hmm... {S_3201F4}
+Nothing important...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 54:
+It's okay if you
+want to take today's
+finds with you. {PAUSE}{EOM}{EOM}
+
+Message 55:
+Hmm... {S_3201F4}
+You found nothing? {S_3201F4}{PAUSE}{WIPE}
+Well, can't be
+helped now. {S_3201F4}{PAUSE}{WIPE}
+Sometimes you need
+to try digging in
+the same spot until{PAUSE}
+you find something
+there. {PAUSE}{WIPE}
+You're welcome to
+help out whenever
+you want. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+Something wrong? {S_3201F4}{PAUSE}{WIPE}
+Oh, you want to quit
+digging?
+{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 57:
+Alright.{S_3201F4}
+Just head on out
+for now. {PAUSE}{EOM}
+
+Message 58:
+Then let's continue.{PAUSE}{EOM}
+
+Message 59:
+Hmm, let's see... {S_3201F4}
+I think I'll go have
+a drink. {PAUSE}{WIPE}
+Take it easy my
+friend. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+Do you really want
+to stop digging?
+{CHOICE Y/N DEF0}{EOM}
+
+Message 61:
+Hmm, let's see... {S_3201F4}
+I guess I'll go
+back to the tent.{PAUSE}{WIPE}
+Take it easy my
+friend. {PAUSE}{EOM}
+
+Message 62:
+Hmm.
+I'm a little hungry.{PAUSE}{WIPE}
+I'm sorry, but could
+you make something? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 63:
+I wonder what in the
+world he's doing? {PAUSE}{EOM}
+
+Message 64:
+Anyway I'm hungry.
+Food!
+Food I say! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+Good evening. {S_3203E8}{PAUSE}{WIPE}
+Whew... {S_3203E8}
+I'm beat. {PAUSE}{WIPE}
+Bartender, gimme a
+cold one! {PAUSE}{EOM}{EOM}
+
+Message 66:
+What?
+Did you say {NAMI}?{S_3203E8}
+I did see {NAMI}.{PAUSE}{EOM}{EOM}
+
+Message 67:
+Uh... {PAUSE}{WIPE}
+Um...
+Just before.
+I just saw her. {PAUSE}{EOM}{EOM}
+
+Message 68:
+Whew...
+What's going on?
+You surprised me. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+I just wish I had
+one more assistant. {PAUSE}{WIPE}
+Isn't there any
+good people around? {PAUSE}{EOM}{EOM}
+
+Message 70:
+Oh that's right! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+You came at just
+the right time. {PAUSE}{WIPE}
+Would you let your
+son help me out? {PAUSE}{EOM}
+
+Message 72:
+I was really quite
+surprised. {PAUSE}{WIPE}
+Your son came by
+my dig site the
+other day and {PAUSE}
+wanted to listen
+eagerly to my
+stories. {PAUSE}{WIPE}
+I think he's really
+interested in
+archeology. {PAUSE}{WIPE}
+Which brings me to
+my previous
+request... {S_3207D0}{EOM}
+
+Message 73:
+I see...well that's
+your decision. {PAUSE}{WIPE}
+He was so excited
+about it...but... {PAUSE}{WIPE}
+I apologize.
+Please forget I
+ever said anything. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+That's really too
+bad... {PAUSE}{EOM}
+
+Message 75:
+{PETE}, you
+went so soon... {S_3203E8}{PAUSE}{WIPE}
+Hmmm...
+You worked so
+hard... {PAUSE}{WIPE}
+Wait for me, my
+friend... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+Barkeeper, sing us
+a song in honor of
+him... {PAUSE}{EOM}{EOM}
+
+Message 77:
+You don't have
+anything to sell? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+I just want to
+take a peek. {PAUSE}{EOM}{EOM}
+
+Message 79:
+Just looking... {PAUSE}{EOM}
+
+Message 80:
+I like that
+{VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+Only {GOLD_0105}G.
+{GOLD_0205}G.
+Not for sale.{EOM}{EOM}
+
+Message 81:
+{FACE_06000A}Oh really?
+That's a good deal.
+I'll take it. {PAUSE}{EOM}{EOM}
+
+Message 82:
+{FACE_060009}That's a little
+expensive...
+I guess that's okay. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+I'm done for now. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+I want that
+{VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+Only {GOLD_0105}G.
+{GOLD_0205}G.
+Not for sale.{EOM}{EOM}
+
+Message 85:
+I'm done for today. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+So you're the new
+here, right? {PAUSE}{WIPE}
+I'm Carter.
+Please to make your
+acquaintance. {PAUSE}{WIPE}
+If you ever want to
+help out with my
+excavation, please {PAUSE}
+come by the
+dig site. {PAUSE}{WIPE}
+The only thing is
+I need to be there
+to get you started. {PAUSE}{EOM}{EOM}
+
+Message 87:
+Hey, good morning. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+{S_340187}What are you doing
+up so late? {PAUSE}{EOM}
+
+Message 89:
+How are you feeling? {PAUSE}{EOM}
+
+Message 90:
+That looks so
+delicious. {PAUSE}{EOM}
+
+Message 91:
+You've got something
+really good with you.
+Mind if I have it? {CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 92:
+{S_340187}{FACE_06000A}Oh boy...
+I can't wait...
+No take backs! {PAUSE}{EOM}{EOM}
+
+Message 93:
+{FACE_060007}That's too bad... {PAUSE}{EOM}{EOM}
+
+Message 94:
+I live for that
+kind of stuff. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+{FACE_060009}You want me to eat
+THAT? {PAUSE}{WIPE}
+Are you trying to
+kill me? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+{FACE_060007}Ick...get that
+out of here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+What's that??
+Throw that away. {PAUSE}{EOM}{EOM}
+
+Message 98:
+I'm not interested
+in things like that. {PAUSE}{EOM}{EOM}
+
+Message 99:
+{FACE_06000A}He's looks smart.
+Ever think about him
+being a scholar? {PAUSE}{WIPE}
+He could even be my
+apprentice... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+He's cute... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 101:
+That's a good dog.{PAUSE}{EOM}{EOM}
+
+Message 102:
+It's cute. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+I'm not interested
+in things like that. {PAUSE}{EOM}{EOM}
+
+Message 104:
+What do you want
+me to do with that? {PAUSE}{EOM}{EOM}
+
+Message 105:
+What are you going
+to do with that? {PAUSE}{WIPE}
+I'll take it, if
+it's for me.
+{CHOICE2 DEF1}
+Okay sure.
+Not for you.{EOM}{EOM}{EOM}
+
+Message 106:
+{FACE_06000A}Don't mind if I do. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+I see... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 108:
+You made that in
+your farm... {PAUSE}{EOM}
+
+Message 109:
+Hand-milked dairy
+tastes great. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 110:
+That's not cheese.
+Do you have any
+cheese? {PAUSE}{EOM}
+
+Message 111:
+Butter's flavor
+varies on the milk
+that is used. {PAUSE}{EOM}{EOM}
+
+Message 112:
+What came first
+the chicken or
+the egg...? {PAUSE}{WIPE}
+Hah! Who cares! {PAUSE}{EOM}
+
+Message 113:
+Those plants grow
+around here don't
+they. {PAUSE}{EOM}{EOM}
+
+Message 114:
+That's a little
+too big for digging.{PAUSE}{EOM}
+
+Message 115:
+Something like that
+would break delicate
+relics. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 116:
+Don't spin around
+with that...
+It's dangerous... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+{FACE_060004}I said it's a
+dangerous tool. {PAUSE}{EOM}
+
+Message 118:
+Those are shears...
+Planning on cutting
+my hair? {PAUSE}{EOM}
+
+Message 119:
+I can't use
+shears. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+You can find lots of
+stones like that
+at the dig site. {PAUSE}{WIPE}
+I'm not interested
+in mere rocks. {PAUSE}{WIPE}
+I need keys to
+unlock the riddles
+of the ancients. {PAUSE}{EOM}
+
+Message 121:
+If you want stones
+like that, help
+out with the dig. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 122:
+I wonder if that's
+got some meaning
+to it... {PAUSE}{WIPE}
+First thing to do
+is find more
+lithographs... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 123:
+I've found many
+things like that
+before. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+According to those
+findings, you can
+learn more about {PAUSE}
+the ancient
+civilization
+that was here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+{FACE_06000A}That's a pretty
+flower. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+What kind of
+ingredient is that? {PAUSE}{WIPE}
+It has a very
+intense smell. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 127:
+{FACE_06000C}That's a strong
+smell... {PAUSE}{EOM}
+
+Message 128:
+That's a strange
+looking necklace. {PAUSE}{WIPE}
+I think Flora
+has one just like
+it... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 129:
+Did you get that
+from Flora? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 130:
+What kind of music
+is that...? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+What do you expect
+me to do with it? {PAUSE}{EOM}{EOM}
+
+Message 132:
+Is that...
+a firework? {PAUSE}{WIPE}
+Those old
+guys must have
+made it, right? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+I've been an
+archaeologist for
+a long time, {PAUSE}
+but it looks like
+this dig will be
+my life's work. {PAUSE}{EOM}{EOM}
+
+Message 134:
+An ancient people
+once thrived here
+in this valley. {PAUSE}{WIPE}
+They left behind
+an intriguing
+mystery... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 135:
+Somehow I'm the
+descendant of the
+ancient dynasty. {PAUSE}{WIPE}
+That's why I feel
+an unseen force
+guiding my hand {PAUSE}
+as we proceed in
+the ruins. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 136:
+I heard a rumor that
+the farmer in
+Mineral Town {PAUSE}
+absolutely loves
+to do work in
+the fields. {PAUSE}{EOM}
+
+Message 137:
+I heard the farmer
+in Mineral Town
+is famous for {PAUSE}
+being a great
+fisherman... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 138:
+I heard a story that
+the farmer in
+Mineral Town {PAUSE}
+walked over
+1,000,000 steps! {PAUSE}{WIPE}
+That's pretty
+amazing... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 139:
+I heard the farmer
+in Mineral Town
+has amazing luck {PAUSE}
+when it comes to
+fishing. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+He can never have
+enough gold. {PAUSE}{WIPE}
+I'm talking of
+course about
+{VAR_00} Farm. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 141:
+You've really been
+trying hard out in
+the fields. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+Are you curious
+about archeology? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 143:
+{FACE_06000A}Good for you. {PAUSE}{EOM}{EOM}
+
+Message 144:
+Oh, that's too bad. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 145:
+Do you want to
+hear a story? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 146:
+I'll tell you
+then. {PAUSE}{WIPE}
+A long time ago,
+here in this
+valley, there was {PAUSE}
+a great and powerful
+civilization... {PAUSE}{WIPE}
+That's enough for
+today, come back
+and next time {PAUSE}
+I'll tell you
+more of the story. {PAUSE}{EOM}{EOM}
+
+Message 147:
+Okay, well come
+by next time. {PAUSE}{EOM}
+
+Message 148:
+You're really
+helping us out
+with our dig. {PAUSE}{EOM}
+
+Message 149:
+{FACE_06000A}It's times like
+these that make me
+really appreciate {PAUSE}
+what a treasure
+my life is. {PAUSE}{EOM}{EOM}
+
+Message 150:
+Take it easy,
+my friend.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+It's a little
+cramped, but make
+yourself at home. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+If you want to help
+out, talk with me
+at the dig site. {PAUSE}{EOM}{EOM}
+
+Message 153:
+I wish I had a
+bigger tent... {PAUSE}{EOM}{EOM}
+
+Message 154:
+I feel great today.
+How about you,
+my friend?{PAUSE}{EOM}
+
+Message 155:
+The sun is the
+source of my
+energy. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+Nature is filled
+with overwhelming
+energy. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+It's hot, but we
+must persevere!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 158:
+The dig site is
+nice and cool. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+I always enjoy the
+scenery around here. {PAUSE}{WIPE}
+Especially in this
+season when the
+leaves change color. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 160:
+It's a little cold,
+but I'm still
+happy. {PAUSE}{WIPE}
+Then again I'm
+always happy...{PAUSE}{EOM}{EOM}
+
+Message 161:
+It may snow here
+on occasion, but
+it never sticks. {PAUSE}{WIPE}
+So much for seeing
+a "winter
+wonderland". {PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+Each morning I get
+filled with energy
+by doing this. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 163:
+My body gets filled
+with life. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 164:
+You should try it
+too, my friend. {S_340188}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+{S_340187}You came at just the
+right time. {PAUSE}{WIPE}
+Want to help with
+the dig?
+{CHOICE3 DEF1}
+Right away.
+Explain first.
+Never mind.{EOM}
+
+Message 166:
+I'll lend you a
+scoop to use.
+Do your best! {PAUSE}{EOM}
+
+Message 167:
+{FACE_06000A}So you will help...
+Allow me to explain
+what to do. {PAUSE}{WIPE}
+Truth is, the work
+is really quite
+simple. {PAUSE}{WIPE}
+{FACE_060000}The A Button digs
+a hole in the dirt. {PAUSE}{WIPE}
+When you dig a
+hole you may
+find something. {PAUSE}{WIPE}
+You can view your
+finds on the
+Relic Screen. {PAUSE}{WIPE}
+If you want to
+stop work, either
+stand over by {PAUSE}
+the entrance or
+talk to me. {PAUSE}{WIPE}
+If you find anything
+significant, I'll
+get it later. {PAUSE}
+One last thing, and
+this is important... {PAUSE}{WIPE}
+You can't bring your
+rucksack with you
+inside so make sure{PAUSE}
+that you eat
+heartily before
+coming to help out. {PAUSE}{WIPE}
+Use this scoop while
+you're inside and
+good luck to you! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 168:
+That's too bad... {PAUSE}{EOM}{EOM}
+
+Message 169:
+Have you come to
+help with the dig?
+{CHOICE3 DEF1}
+Right away!
+Explain first.
+Never mind.{EOM}{EOM}
+
+Message 170:
+There's a lot of
+treasures buried
+here. {PAUSE}{EOM}{EOM}
+
+Message 171:
+This stays between
+us... {PAUSE}{WIPE}
+Flora is quite a
+strange woman. {PAUSE}{WIPE}
+It could just be
+because she's here
+all the time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+{FACE_060009}I've even grown
+tired of Flora's
+cooking lately... {PAUSE}{WIPE}
+Can you please
+bring me something
+to eat sometimes... {PAUSE}{WIPE}
+{S_340188}Keep it a secret
+from Flora... {PAUSE}{EOM}
+
+Message 173:
+Keep today's talk
+a secret from
+Flora. {PAUSE}{WIPE}
+If she finds out
+she'll flip out. {PAUSE}{WIPE}
+She's really scary
+when she's angry. {PAUSE}{EOM}
+
+Message 174:
+{S_340187}Are you finished
+helping today? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 175:
+I see... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 176:
+Then let's keep
+going. {PAUSE}{EOM}
+
+Message 177:
+I can't leave
+right now, but if
+you want to stop {PAUSE}
+working then
+go outside. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+Oh, right.
+I'm sorry but I
+can't right now. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+I'm going to be
+sleeping so... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+I really want
+to sleep, so
+please go home. {PAUSE}{EOM}{EOM}
+
+Message 181:
+Good night. {PAUSE}{EOM}
+
+Message 182:
+It's time for me
+to be leaving now... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 183:
+I really need to
+be going so... {PAUSE}{EOM}{EOM}
+
+Message 184:
+I'll be going
+then... {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,323 @@
+Message 0:
+Cheeks hurt!! {PAUSE}{EOM}
+
+Message 1:
+No!!! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+Mmm...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+I don't wanna...{PAUSE}{EOM}
+
+Message 4:
+No more!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+Blehhh...
+No more...{PAUSE}{EOM}
+
+Message 6:
+No more!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+Owie...{PAUSE}{EOM}
+
+Message 8:
+Owwww! {PAUSE}{EOM}{EOM}
+
+Message 9:
+Want down! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+No! Go awayyyy!! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+No hug!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+No more...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+No more~~{PAUSE}{EOM}{EOM}
+
+Message 14:
+No hug!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+Not that one!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 16:
+ Want down!! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+Down! Down!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 18:
+Nooo! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Thbbtt! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+No trow! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+No trow!! {PAUSE}{EOM}
+
+Message 22:
+Tired...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 23:
+No trow, no trow. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+Go nite-nite? {PAUSE}{EOM}
+
+Message 25:
+Gee, hee hee!
+Fwaaaaa! {PAUSE}{EOM}
+
+Message 26:
+{S_3401A3}Yawned! {PAUSE}{EOM}
+
+Message 27:
+Sleepin'...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+Fwaaa...?{PAUSE}{EOM}
+
+Message 29:
+Yawned...{PAUSE}{EOM}
+
+Message 30:
+No!
+Wanna wook at dis.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+No!
+Wanna wook at dis.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+No! No! No! {PAUSE}{EOM}{EOM}
+
+Message 33:
+Nooooo! No! No! {PAUSE}{EOM}{EOM}
+
+Message 34:
+No, I'm weeding...{PAUSE}{EOM}
+
+Message 35:
+No, I'm weeding...{PAUSE}{EOM}
+
+Message 36:
+No! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+No! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+No! Sill pwaying! {PAUSE}{EOM}{EOM}
+
+Message 39:
+No! I'm sill pwaying!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+Nooooo, sill
+pwaying ball. {PAUSE}{EOM}
+
+Message 41:
+Nooooo, sill
+pwaying ball. {PAUSE}{EOM}
+
+Message 42:
+No! Sill pwaying
+wit bwocks! {PAUSE}{EOM}{EOM}
+
+Message 43:
+No! Pway wit
+bwocks! {PAUSE}{EOM}
+
+Message 44:
+No! Sill pwaying
+wit bwocks! {PAUSE}{EOM}{EOM}
+
+Message 45:
+No! Sill pwaying
+wit bwocks! {PAUSE}{EOM}{EOM}
+
+Message 46:
+No!
+Sill pwaying car! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+No!
+Sill pwaying car! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+No, pwaying car! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+No, pwaying car! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+No! Dwawing! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+No! Dwawing! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 52:
+Noooo, Dwawing! {PAUSE}{EOM}
+
+Message 53:
+Nooo, Dwawing! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 54:
+You have to go to
+work... {PAUSE}{EOM}
+
+Message 55:
+You have to go to
+work... {PAUSE}{EOM}
+
+Message 56:
+You have to go to
+work... {PAUSE}{EOM}
+
+Message 57:
+You have to go to
+work... {PAUSE}{EOM}
+
+Message 58:
+Workin'? {PAUSE}{EOM}{EOM}
+
+Message 59:
+Workin'? {PAUSE}{EOM}{EOM}
+
+Message 60:
+No! No! {PAUSE}{EOM}
+
+Message 61:
+No! No! {PAUSE}{EOM}
+
+Message 62:
+{S_3401A3}Up!
+Cawwy! Cawwy! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 63:
+{S_3401A3}Up!
+Cawwy me! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 64:
+{S_3401A3}Cawwy me! Cawwy me! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+Cawwy...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+Cawwy...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+Cawwy...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+{S_3401A7}Dad, I'm not a kid
+anymore! {PAUSE}{EOM}{EOM}
+
+Message 69:
+{S_3401A7}What do you
+want! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+{S_3401A7}Dad, I'm not a baby
+anymore! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+{S_3401A7}What are you doing!?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+{S_3401A7}Stop , Dad.
+I'm not a little
+baby anymore okay? {PAUSE}{EOM}{EOM}
+
+Message 73:
+{S_3401A7}Dad, I'm not a
+child anymore. {PAUSE}{EOM}{EOM}
+
+Message 74:
+{S_3401A7}Stop it.
+Can't you see I'm
+not a baby anymore? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+{S_3401A7}Just stop
+okay, Dad? {PAUSE}{EOM}{EOM}
+
+Message 76:
+{S_3401A9}Hey, stop.
+I'm not kidding. {PAUSE}{EOM}
+
+Message 77:
+{S_3401A8}Hey, I'm not
+a kid anymore. {PAUSE}{EOM}{EOM}
+
+Message 78:
+{S_3401A9}What the heck,
+Pop! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+{S_3401A9}What the heck,
+Pop! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+Please stop it. {PAUSE}{EOM}{EOM}
+
+Message 81:
+Please stop it. {PAUSE}{EOM}{EOM}
+
+Message 82:
+... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+{S_3401A8}Stop messing around
+with me. I'm not some
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 85:
+{S_3401A8}Stop messing around
+with me. I'm not some
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+{S_3401A8}Stop messing around
+with me. I'm not some
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+{S_3401A8}Stop messing around
+with me. I'm not some
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+{S_3401A8}Stop messing around
+with me. I'm not some
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+{S_3401A8}Stop messing around
+with me. I'm not some
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+{S_3401A8}Stop messing around
+with me. I'm not some
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+{S_3401A8}Stop messing around
+with me. I'm not some
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

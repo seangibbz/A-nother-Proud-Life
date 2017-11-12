@@ -1,0 +1,1127 @@
+Message 0:
+Excuse me...?{PAUSE}{EOM}{EOM}
+
+Message 1:
+Um, excuse me...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+Oh, nothing?
+Well, guess that's
+that then. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+If there's nothing
+I can buy, I'll
+come back later.{PAUSE}{EOM}{EOM}
+
+Message 4:
+I'm just taking
+a look. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+Doesn't seem to be
+anything I'm
+interested in...{PAUSE}{EOM}{EOM}
+
+Message 6:
+I really like the
+{VAR_00}, but
+how much is it?
+{CHOICE3 DEF2}
+{GOLD_0105}G for you.
+{GOLD_0205}G is fine.
+That's not for sale.{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+{FACE_09000A}Wow, that's a great
+price.
+Thank you so much. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+{FACE_09000A}Thank you! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+Is that so...?
+I don't want it
+then...{PAUSE}{EOM}{EOM}
+
+Message 10:
+Oh, hi {PETE}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+{FACE_090002}I'm not in my best
+mood today... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_090002}Huh, I'm bored....{PAUSE}{EOM}
+
+Message 13:
+{FACE_09000A}Good morning!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+{FACE_09000A}Oh, {PETE}.
+Hello.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+Oh, {PETE}.
+What are you doing
+here so late? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+Hi, {PETE}.
+How are you doing
+on this fine night? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+{FACE_09000A}How nice to see you
+today. Please make
+yourself at home.{PAUSE}{EOM}
+
+Message 18:
+{FACE_09000A}Wow! How wonderful.
+That's my favorite.
+Is it for me?{CHOICE Y/N DEF1}{EOM}
+
+Message 19:
+{FACE_09000A}Yeah!
+Thank you! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+{FACE_090002}Is that so...
+I'm disappointed... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{FACE_09000A}Oh, I'd really like
+it. Please? {CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+I just LOVE that
+kind of stuff. {PAUSE}{EOM}{EOM}
+
+Message 23:
+What's that...?
+It doesn't look
+very good... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+{FACE_090002}I really, really
+hate that...{PAUSE}{EOM}
+
+Message 25:
+{FACE_090002}Ewwww, what is that?{PAUSE}{EOM}{EOM}
+
+Message 26:
+Where did you get
+that thing from...? {PAUSE}{EOM}{EOM}
+
+Message 27:
+{FACE_09000A}Awwwwm, how cute! {PAUSE}{EOM}{EOM}
+
+Message 28:
+{FACE_09000A}He's so cute! {PAUSE}{EOM}{EOM}
+
+Message 29:
+{FACE_09000A}Such a cute little
+puppy. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+Grandma really loves
+cats, but I'm more
+of a dog person. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+Who's a cute
+doggy, huh?
+You are! {PAUSE}{EOM}{EOM}
+
+Message 32:
+You know you can't
+take the cats
+outside with you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+Cats are lovely...
+Somewhat mysterious.
+Do you like my cats?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+{FACE_090002}I'm not too good
+around chickens.{PAUSE}{EOM}{EOM}
+
+Message 35:
+I'm not very good
+with chickens, but
+tiny chicks are OK. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+{FACE_090004}I told you I'm not
+good with chickens! {PAUSE}{EOM}
+
+Message 37:
+Wow...
+You're raising a
+duck too? {PAUSE}{EOM}
+
+Message 38:
+I wonder if ducks
+can lay eggs too...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+What's that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+What kind of seed is
+that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+Oh, you brought that
+from your farm? {PAUSE}{WIPE}
+It must be nice to
+grow your own
+crops at home...{PAUSE}{EOM}
+
+Message 42:
+There are different
+kinds of crops to
+grow, right? {PAUSE}{EOM}{EOM}
+
+Message 43:
+The milk looks
+pretty fresh. {PAUSE}{EOM}{EOM}
+
+Message 44:
+You made this cheese
+on your farm? {PAUSE}
+It looks yummy...{PAUSE}{EOM}{EOM}
+
+Message 45:
+{FACE_090003}Is it for me? {CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 46:
+That cheese looks
+delicious. {PAUSE}{EOM}
+
+Message 47:
+Cheese is good for
+your body. {PAUSE}{EOM}
+
+Message 48:
+It's butter you made
+on your farm. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+Sebastian would
+probably want some
+of this...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+Butter, Butterrr,
+Butterrrrr...{PAUSE}{WIPE}
+Nope, no new ideas
+spring to my mind. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+Oh, an egg...
+Can I have it? {CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 52:
+If you warm up that
+egg, will a baby
+chick pop out...?{PAUSE}{EOM}{EOM}
+
+Message 53:
+Is there anything
+interesting with
+that egg? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+{PETE}, do you
+always carry that
+in your pocket? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+Ick, raw fish
+gives me such
+a nasty feeling. {PAUSE}{EOM}{EOM}
+
+Message 56:
+...{PAUSE}{EOM}
+
+Message 57:
+Sebastian uses that
+when he cooks. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+{PETE}, do you
+like wild plants? {PAUSE}{WIPE}
+I don't really
+care for it much. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 59:
+You must have gotten
+that around here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+Wow, {PETE}!
+You can cook?
+{FACE_09000A}It looks delicious...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+So, {PETE}
+you can cook too,
+huh? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+That looks kind
+of funny. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+I'm not too familiar
+with tools. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 64:
+That's dirty... {PAUSE}{EOM}
+
+Message 65:
+Is that a hoe? {PAUSE}{EOM}
+
+Message 66:
+That's a strange
+looking sickle. {PAUSE}{EOM}{EOM}
+
+Message 67:
+Don't go twirling
+that around here. {PAUSE}{EOM}
+
+Message 68:
+That's a sickle
+right...? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+What do you want
+me to do with it? {PAUSE}{EOM}{EOM}
+
+Message 70:
+Hey, that looks just
+like our old watering
+can... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+You got that from
+my Grandma right? {PAUSE}{EOM}{EOM}
+
+Message 72:
+That's a strange
+watering can. {PAUSE}{EOM}{EOM}
+
+Message 73:
+{FACE_09000A}That's a nice
+watering can! {PAUSE}{WIPE}
+I used to water my
+plants a lot when
+I was very young. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+{FACE_09000A}{S_34013C}It's fun if you fill
+it up all the way
+and then spin around.{PAUSE}{WIPE}
+Hee hee... {PAUSE}{EOM}{EOM}
+
+Message 75:
+Do you like watering
+cans? {PAUSE}{EOM}{EOM}
+
+Message 76:
+That's a strange
+looking machine...{PAUSE}{EOM}
+
+Message 77:
+I wonder what you'd
+use that for...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 79:
+Those are flowers
+that grow around
+here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+Pretty, pretty
+flowers. {PAUSE}{EOM}{EOM}
+
+Message 81:
+What is that...?
+Ohh, it's some kind
+of seasoning...{PAUSE}{WIPE}
+I wonder what kind
+of flavor it has. {PAUSE}{EOM}{EOM}
+
+Message 82:
+You should show
+Sebastian that
+seasoning...{PAUSE}{WIPE}
+I'm sure he'll be
+able to teach you
+about it...{PAUSE}{EOM}{EOM}
+
+Message 83:
+I wonder what kind
+of seasoning it is?{PAUSE}{EOM}{EOM}
+
+Message 84:
+{S_3400DA}{S_3205DC}What an odd sound...{PAUSE}
+But it gives me a
+good feeling...{PAUSE}{EOM}{EOM}
+
+Message 85:
+What kind of medal
+is that...? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+That's a very unique
+necklace...but it's
+very pretty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+Do you know what
+kind of music that
+is? {PAUSE}{WIPE}
+You don't, do you?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+{FACE_090009}I wonder what kind
+of song that is...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 89:
+That's the music
+that I gave away. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+Are those...
+fireworks?
+Wow, that's cool. {PAUSE}{EOM}
+
+Message 91:
+I wonder if Kassey
+made that...
+Or Patrick...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+They're pretty when
+they shoot up into
+the sky. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+That's a really
+big firework. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+{FACE_090009}Huh...?
+What... is it? {PAUSE}{EOM}
+
+Message 95:
+Grandma Romana
+doesn't like to be
+called grandma.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+I often practice my
+piano when I'm at
+home. {PAUSE}{WIPE}
+You can probably
+even hear it the
+outside. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 97:
+My parents passed
+away when I was
+a baby... {PAUSE}{WIPE}
+Sorry for just
+talking out of the
+blue like that. {PAUSE}{WIPE}
+I don't normally
+like to talk
+about it myself...{PAUSE}{WIPE}
+But I felt it was
+okay to talk
+with you. {PAUSE}{EOM}
+
+Message 98:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+I heard the farmer
+in Mineral Town
+is very rich...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+I heard the farmer
+in Mineral Town
+is very popular...{PAUSE}{EOM}{EOM}
+
+Message 101:
+There's someone that
+has grown every crop
+imaginable. {PAUSE}{WIPE}
+I'm pretty sure he's
+from Mineral Town. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+Do you know Mineral
+Town? There's a
+farmer there who {PAUSE}
+really takes a lot
+of care with his
+animals. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+I heard the farmer
+in Mineral Town
+loves digging in {PAUSE}
+all sorts of caves
+for things. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+I heard there is
+someone in Mineral
+Town that has caught {PAUSE}
+every single type
+of fish out there. {PAUSE}{WIPE}
+I wonder if he
+caught our fish
+too...{PAUSE}{EOM}
+
+Message 105:
+Wow, someone walked
+1,000,000 steps!
+But, so what...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+The farm in Mineral
+Town has gone on now
+for over 50 years...{PAUSE}{EOM}
+
+Message 107:
+I heard a great
+fisherman lives in
+Mineral Town. {PAUSE}{EOM}{EOM}
+
+Message 108:
+I heard the farmer
+in Mineral Town
+has bad taste. {PAUSE}{EOM}
+
+Message 109:
+There's a person in
+Mineral Town who owns
+3 houses. {PAUSE}{EOM}
+
+Message 110:
+Hey, I just heard
+this story from
+someone...{PAUSE}{WIPE}
+Over in Mineral Town
+there is someone
+who's an amazing{PAUSE}
+tool making genius. {PAUSE}{EOM}
+
+Message 111:
+{FACE_09000A}That food I got
+before, it was
+really yummy! {PAUSE}{WIPE}
+Can you get me
+some more please? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+That {VAR_00}
+you gave me tasted
+so-so.{PAUSE}{EOM}
+
+Message 113:
+{FACE_09000A}I really loved the
+{VAR_00} you
+gave me last time. {PAUSE}{EOM}
+
+Message 114:
+{FACE_09000A}That {VAR_00}
+was the best thing
+I ever ate...{PAUSE}{WIPE}
+Seriously...{PAUSE}{EOM}{EOM}
+
+Message 115:
+That milk I drank
+before felt really
+nutritious. {PAUSE}{EOM}
+
+Message 116:
+The milk I got from
+you felt kinda
+skim...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 117:
+{FACE_09000A}That milk you gave
+me last time was
+really yummy! {PAUSE}{EOM}
+
+Message 118:
+That milk you gave
+me last time was
+really yummy! {PAUSE}{WIPE}
+Can you bring
+me some more again? {PAUSE}{EOM}
+
+Message 119:
+That milk you gave
+me before...{PAUSE}{WIPE}
+It had a good taste,
+but it was a little
+skim...{PAUSE}{EOM}
+
+Message 120:
+{FACE_09000A}That milk you gave
+me before was the
+best I've ever had. {PAUSE}{WIPE}
+I was very impressed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+That milk you gave
+me last time was
+tasty, but just a {PAUSE}
+little strong. {PAUSE}{EOM}
+
+Message 122:
+{FACE_09000A}I've never had
+anything better than
+the milk you gave me.{PAUSE}{WIPE}
+But it was actually
+too rich for me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 123:
+{FACE_09000A}That cheese I had
+before was really
+yummy! {PAUSE}{WIPE}
+Hope you can get
+me some more. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+That cheese you gave
+me tasted very rich.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+{FACE_09000A}{PETE}, that
+cheese you made was
+really yummy. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+{FACE_09000A}The butter I got
+from before tasted
+really good when {PAUSE}
+it's spread on
+bread. {PAUSE}{WIPE}
+I'd love to have
+some more...{PAUSE}{EOM}
+
+Message 127:
+The butter I got
+from before tastes
+really unique. {PAUSE}{EOM}{EOM}
+
+Message 128:
+{FACE_09000A}{PETE}, the
+cheese you gave me
+before tasted yummy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 129:
+{FACE_09000A}{PETE}, the
+{VAR_00} you
+made was very good. {PAUSE}{WIPE}
+Please make it again
+sometime. {PAUSE}{EOM}
+
+Message 130:
+{FACE_09000A}I really liked the
+dish you gave me. {PAUSE}{EOM}
+
+Message 131:
+{FACE_09000A}The wild plants
+you gave me were
+my favorite food. {PAUSE}{WIPE}
+They were really
+delicious. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+{FACE_09000A}{PETE}, the
+wild plants you
+brought me last time{PAUSE}
+tasted very
+delicious. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+That thing you gave
+me last time...
+I ate it, but I{PAUSE}
+forgot what it tasted
+like... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+{PETE}, you're
+working so hard. {PAUSE}{WIPE}
+{FACE_09000A}You're becoming a
+real farmer. {PAUSE}{EOM}{EOM}
+
+Message 135:
+{FACE_09000A}{PETE},
+you're pretty good
+at growing crops. {PAUSE}{WIPE}
+Grandma is quite
+impressed. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+Everyone's saying
+what a great cook you
+are, {PETE}. {PAUSE}{WIPE}
+I wonder who's the
+better cook though,
+you or Sebastian? {PAUSE}{EOM}
+
+Message 137:
+{PETE}, you
+work so hard for your
+farm. {PAUSE}{WIPE}
+Everyone's impressed
+with you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+{PETE},
+you're great
+at growing crops. {PAUSE}{EOM}
+
+Message 139:
+You've got a
+reputation for being
+a good cook. {PAUSE}{EOM}{EOM}
+
+Message 140:
+{PETE}, people
+are saying how it
+looks like you're,{PAUSE}
+starting to adjust to
+life down on the
+farm. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+{PETE}, people
+are saying how you're
+trying so hard to {PAUSE}
+raise nice and
+healthy crops. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+{PETE}, people
+say how you cook a
+lot at home. {PAUSE}{EOM}
+
+Message 143:
+Did Grandma tell you
+about me? {PAUSE}{WIPE}
+{FACE_090009}After my parents
+passed away, I...{PAUSE}{WIPE}
+I was brought here
+and Grandma took
+me in. {PAUSE}{EOM}
+
+Message 144:
+Now, Kate is using
+Grandma as a model
+for her book. {PAUSE}{EOM}{EOM}
+
+Message 145:
+Grandma Romana is so
+interesting, that
+she'd definitely {PAUSE}
+make a great model
+for a character
+in a story. {PAUSE}{EOM}
+
+Message 146:
+I wonder if Kate
+can draw pictures
+like Grandma...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 147:
+Kate really has an
+amazing talent for
+writing stories. {PAUSE}{EOM}{EOM}
+
+Message 148:
+Grandma Romana is
+a real nice person. {PAUSE}{WIPE}
+She's a little
+strict now and then
+but lovable too. {PAUSE}{EOM}
+
+Message 149:
+I've really come to
+like it here. {PAUSE}{WIPE}
+Grandma and Sebastian
+are really nice...{PAUSE}{WIPE}
+{FACE_090009}But sometimes I get
+so lonely without my
+parents and friends.{PAUSE}{EOM}
+
+Message 150:
+Don't tell Grandma
+I said I was lonely. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+I wonder what kind
+of person my father
+was...{PAUSE}{EOM}
+
+Message 152:
+Now and then a place
+like this is nice...{PAUSE}{EOM}
+
+Message 153:
+Grandma always told
+me never to come
+here. {PAUSE}{WIPE}
+I don't see any
+reason why not. {PAUSE}{EOM}
+
+Message 154:
+I really like it
+here. {PAUSE}{EOM}{EOM}
+
+Message 155:
+{FACE_09000A}This valley is a
+nice place isn't it? {PAUSE}{WIPE}
+There's so many
+interesting and
+unique people. {PAUSE}{EOM}
+
+Message 156:
+{FACE_09000A}I call Grandma
+Romana, "Grammy".
+{S_34013C}It's a secret...{PAUSE}{EOM}
+
+Message 157:
+Please make yourself
+at home.{PAUSE}{EOM}
+
+Message 158:
+This season makes
+me want to run
+outside and play. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 159:
+Sometimes you can
+see the animals
+chasing each other {PAUSE}
+and being all
+"lovey dovey". {PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+I wonder what it'll
+be like when the snow
+falls..{PAUSE}{EOM}{EOM}
+
+Message 161:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 163:
+Oh my, you didn't
+come just to hear
+my piano, did you? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 164:
+{FACE_090009}I'm sorry, I'm
+really not in the
+mood to play today. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 165:
+Oh, that's good.
+I wasn't really in
+a piano playing {PAUSE}
+mood anyway today.{PAUSE}{EOM}
+
+Message 166:
+I love playing piano,
+but I hate having to
+practice it. {PAUSE}{WIPE}
+But if I don't
+practice, I can't
+play the songs {PAUSE}
+that I want to
+be able to play. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 167:
+I think I've gotten
+a little better at
+playing piano. {PAUSE}{WIPE}
+Please come and hear
+me play again. {PAUSE}{EOM}
+
+Message 168:
+I was thinking about
+working harder at
+my piano practice...{PAUSE}{EOM}{EOM}
+
+Message 169:
+I want to become
+great at playing
+piano...{PAUSE}{EOM}{EOM}
+
+Message 170:
+I want to become
+even better at
+playing piano...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+Once in a while I
+have to help out
+around the house. {PAUSE}{EOM}
+
+Message 172:
+Sebastian's too old,
+so I have to help
+out...{PAUSE}{EOM}
+
+Message 173:
+Even if I'm in the
+kitchen, I don't
+start tasting all the{PAUSE}
+food like my grandma.{PAUSE}{WIPE}
+Can't let myself
+get all fat now
+can I? {PAUSE}{EOM}
+
+Message 174:
+There's a lot of
+cleaning up to do
+after a meal. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 175:
+{FACE_090019}Oh, {PETE}.
+You know a lot about
+music so...{PAUSE}{WIPE}
+I'd like it if you'd
+accept this score. {PAUSE}{WIPE}
+I can't play it on
+my piano and can't
+read it well either. {PAUSE}{EOM}{EOM}
+
+Message 176:
+Thank you.
+But, I changed my
+mind for now. {PAUSE}{EOM}{EOM}
+
+Message 177:
+Lately, piano hasn't
+been much fun...{PAUSE}{WIPE}
+Grandma's been
+on my case...{PAUSE}{WIPE}
+I wonder what it's
+like to play piano
+freely...{PAUSE}
+{CHOICE2 DEF0}
+It's OK, try harder.
+It's OK, have fun.{EOM}{EOM}{EOM}
+
+Message 178:
+I just don't know
+how I can try any
+harder! {PAUSE}{WIPE}
+It's just too
+much for me! {PAUSE}{EOM}{EOM}
+
+Message 179:
+{FACE_090009}Perform...for people.{S_320190}
+Sing...a song...{S_320190}
+I can't do that. {PAUSE}{EOM}
+
+Message 180:
+{FACE_090003}You're right!{S_320190}{PAUSE}
+I feel that like
+I just remembered
+something very {PAUSE}{WIPE}
+important that
+I'd forgotten. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+{PETE}...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+I wonder if you'd
+listen to my story...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+I started playing
+when I was 3.
+Grandma taught me. {PAUSE}{WIPE}
+She always praised
+me for how careful I
+was not to hit the {PAUSE}
+wrong notes when
+I was playing. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 184:
+But, soon I felt
+more and more
+pressure to do well. {PAUSE}{WIPE}
+The better I did,
+the more she
+expected of me...{PAUSE}{WIPE}
+I was told how my
+mother would be
+proud. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+Suddenly, I became
+scared of hitting the
+wrong notes...{PAUSE}{WIPE}
+I thought of how
+disappointed my
+Grandma would be. {PAUSE}{EOM}
+
+Message 186:
+I guess I was trying
+to be like my mother
+for Grandma. {PAUSE}{EOM}
+
+Message 187:
+That's not what
+Grandma wanted. {PAUSE}{WIPE}
+So, she told me to
+just practice at my
+own pace. {PAUSE}{EOM}{EOM}
+
+Message 188:
+Wow, I feel so
+much better. {PAUSE}{WIPE}
+It's just like you
+said, {PETE}. {PAUSE}{WIPE}
+I feel like I can
+have fun when I
+play again. {PAUSE}{WIPE}
+Thank you so much,
+{PETE}. {PAUSE}{EOM}{EOM}
+
+Message 189:
+Grandma was
+listening. That's my
+painting, right?{PAUSE}{WIPE}
+I'm so embarrassed! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+"I loved it", that's
+what I said. I still
+love it now. {PAUSE}{EOM}
+
+Message 191:
+Poor Van. {PAUSE}{EOM}
+
+Message 192:
+{PETE}, did
+you just see that?
+Really. {PAUSE}{WIPE}
+...{PAUSE}{WIPE}
+I just might have a
+talent for painting! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 193:
+{PETE},
+I... always thought
+of you as the big{PAUSE}
+brother I never had. {PAUSE}{WIPE}
+...Can't cry...{S_3205DC}
+I'm going to keep
+playing piano. {PAUSE}{WIPE}
+I hope you'll keep
+watching over me
+from time to time.{PAUSE}{EOM}{EOM}
+
+Message 194:
+{GRIFFIN},
+would you please sing
+a song for
+{PETE}. {PAUSE}{EOM}{EOM}
+
+Message 195:
+Well, I'll be going
+to sleep so...{PAUSE}{EOM}
+
+Message 196:
+Time for bed.
+Would you please
+leave now? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 197:
+Good night. {PAUSE}{EOM}
+
+Message 198:
+Well, I've got to be
+on my way...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 199:
+I have to get going.
+So long. {PAUSE}{EOM}{EOM}
+
+Message 200:
+If you'll excuse
+me...{PAUSE}{EOM}{EOM}
+
+Message 201:
+Hey...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 202:
+I have a favor to
+ask of you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 203:
+Oh, {S_32012C}{PETE}.
+Were you here this
+whole time? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 204:
+......... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 205:
+{PETE},{S_3201F4}
+do you like
+paintings? {PAUSE}{EOM}
+
+Message 206:
+Hee, hee. {S_32012C}
+I'll paint your
+portrait next time. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 207:
+Hee, hee, hee. {S_3201F4}
+I'll be off now.
+Take it easy okay? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 208:
+Sebastian went off
+in search of a spare
+paintbrush. {PAUSE}{WIPE}
+I wonder where he
+is now...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+Oh! {S_3201F4}
+Sebastian. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 210:
+Do you have a
+second? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 211:
+Okay, {PETE}.
+I'll be seeing you♪{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

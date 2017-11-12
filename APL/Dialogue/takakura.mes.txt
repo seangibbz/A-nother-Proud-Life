@@ -1,0 +1,1763 @@
+Message 0:
+When a woman doesn't
+have a man to
+protect her, {PAUSE}
+she grows strong.
+When a man doesn't
+have a woman to{PAUSE}
+look after him,
+he grows weak.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+Just talking about
+women.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+Hey! {S_3203E8}{PAUSE}{WIPE}
+The
+{C14}{STRUC_14}{C17}
+is done! {S_3203E8}{PAUSE}{EOM}
+
+Message 3:
+Hey! {S_3203E8}{PAUSE}{WIPE}
+The {C14}{STRUC_15}{C17}
+is done! {S_3203E8}{PAUSE}{EOM}
+
+Message 4:
+Hey! {S_3203E8}{PAUSE}{WIPE}
+The {C14}{STRUC_13}{C17}
+is done! {S_3203E8}{PAUSE}{EOM}
+
+Message 5:
+Hey! {S_3203E8}{PAUSE}{WIPE}
+The {C14}{STRUC_12}{C17}
+is done! {S_3203E8}{PAUSE}{EOM}
+
+Message 6:
+That's about it.
+Nice work, don't you
+think? {S_3203E8}{PAUSE}{EOM}{EOM}
+
+Message 7:
+This will automate
+milking for you. {S_3203E8}{PAUSE}{EOM}{EOM}
+
+Message 8:
+The milk comes out...{S_32157C}{EOM}{EOM}
+
+Message 9:
+...right here. {S_3203E8}{PAUSE}{WIPE}
+Press the {C13}A Button{C17}
+to get the milk. {S_3203E8}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+Well, what do you
+think? Looks pretty
+good to me!{S_3203E8}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+{C14}{STRUC_12}{C17}
+Explanation Message{PAUSE}{WIPE}
+Explanation-2nd Page{PAUSE}{WIPE}
+Explanation-3rd Page{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+Hi, {PETE}.{S_3203E8}{PAUSE}{EOM}
+
+Message 13:
+The {C14}{STRUC_15}{C17} is
+almost done. {S_3203E8}{PAUSE}{WIPE}
+It'll turn out great.{S_3203E8}{PAUSE}{EOM}{EOM}
+
+Message 14:
+The
+{C14}{STRUC_14}{C17}
+is almost done.{S_3203E8}{PAUSE}{WIPE}
+It'll turn out great.{S_3203E8}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+The {C14}{STRUC_13}{C17} is
+almost done. {S_3203E8}{PAUSE}{WIPE}
+It'll turn out great.{S_3203E8}{PAUSE}{EOM}{EOM}
+
+Message 16:
+Hey! {S_3203E8}{PAUSE}{WIPE}
+The {C14}{STRUC_0}{C17}
+has arrived! {S_3203E8}{PAUSE}{EOM}
+
+Message 17:
+{C14}{STRUC_0}{C17}
+Explanation Message{PAUSE}{WIPE}
+Explanation-2nd Page{PAUSE}{WIPE}
+Explanation-3rd Page{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+I saw a Seed Maker
+in town that can
+combine different{PAUSE}
+crop seeds. Pretty
+neat, eh? If you
+want, I can buy it{PAUSE}
+for you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+Hey!{S_3203E8}{PAUSE}{WIPE}
+I'm going to give the
+Miracle Potion to the
+animal now.{PAUSE}{EOM}
+
+Message 20:
+Hey!{S_3203E8}{PAUSE}{WIPE}
+I'm going to give the
+Miracle Potion to the
+animal now, so come{PAUSE}
+to the {C14}{STRUC_20}{C17}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+Will you wait outside
+while I give the
+Miracle Potion to{PAUSE}
+her? I don't want her
+to get nervous.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+Don't worry...{S_3203E8}{PAUSE}{WIPE}
+It's OK.{S_3203E8}
+All done!{PAUSE}{EOM}{EOM}
+
+Message 23:
+Don't worry...{S_3203E8}{PAUSE}{WIPE}
+It's OK.{S_3203E8}
+All done!{PAUSE}{EOM}{EOM}
+
+Message 24:
+Don't worry...{S_3203E8}{PAUSE}{WIPE}
+It's OK.{S_3203E8}
+All done!{PAUSE}{EOM}{EOM}
+
+Message 25:
+Don't worry...{S_3203E8}{PAUSE}{WIPE}
+{S_340136}Hmm...
+He seems to be a
+little tired today.{S_3203E8}{PAUSE}{WIPE}
+Maybe it's time to
+sell him?{S_3203E8}{PAUSE}{WIPE}
+{S_340137}Wait! Looks like
+he's back in
+business...Good job!{PAUSE}
+All done.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+She should be
+pregnant in a few
+days, so keep an{PAUSE}
+eye on her.{S_3203E8}{PAUSE}{WIPE}
+I'll take care of
+this guy, so you can
+get back to work.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+{S_340137}Hey! {S_3203E8}{PAUSE}{WIPE}
+Do you have
+a minute?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+{S_340137}Hey! {S_3203E8}{PAUSE}{WIPE}
+Will you come to
+the {C14}{STRUC_20}{C17}?{PAUSE}{EOM}{EOM}
+
+Message 29:
+When she gets closer
+to giving birth, you
+have to isolate her.{S_3203E8}{PAUSE}{WIPE}
+To do that, you need
+a Cow Fence. That's
+in the {C14}{STRUC_23}{C17}.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+I isolated her this
+time, but next time
+it's up to you, okay?{PAUSE}{WIPE}
+If you talk to the
+cow and decide she
+needs to be isolated,{PAUSE}
+go find the Cow
+Fence in the
+{C14}{STRUC_23}{C17}.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+{S_340137}Hey! I have
+a new animal!{S_320320}{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 32:
+Will you give the new
+animal a name?{PAUSE}{WIPE}
+Also, decide where
+you want to put
+the feed box.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+I have the horse
+you ordered!{PAUSE}{WIPE}
+...Well, I ordered it
+for you...But trust
+me, you need it!{PAUSE}{WIPE}
+First give him a
+name, then decide
+where you want{PAUSE}
+to put his feed box.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+{PREV_80}...
+That's a good name!{S_320320}{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 35:
+Be sure to take good
+care of our new farm
+member!{S_320320}{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 36:
+Here's the new one.
+Think of a name.{PAUSE}{EOM}{EOM}
+
+Message 37:
+Excuse me...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+{PETE}, it's
+your first time to
+walk around here, eh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+{PETE}...{PETE}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+Young lady...{PAUSE}{EOM}{EOM}
+
+Message 41:
+See you later...{PAUSE}{EOM}
+
+Message 42:
+{PETE}, I have
+to talk to you about
+shipping items...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+{P_3300C8}......{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+What are you going
+to call {PETE}
+now?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+What are you going
+to call {PETE}
+now?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+What are you going
+to call {PETE}
+now?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+{S_340138}...It ate...{PAUSE}{EOM}
+
+Message 48:
+Once after I came
+back from town, I
+found a seed in my{PAUSE}
+pocket with a letter.
+It said:{PAUSE}{WIPE}
+"Please take care of
+him for me. His name
+is Tartan".{PAUSE}{WIPE}
+When I planted it,
+this is what grew!{PAUSE}{EOM}
+
+Message 49:
+How do you
+know my name!?{PAUSE}{EOM}{EOM}
+
+Message 50:
+He's pretty big, but
+I think he's safe...{PAUSE}{WIPE}
+Where should I
+put him...?{PAUSE}{EOM}
+
+Message 51:
+He's too big to move!
+Let's see what
+happens now...{PAUSE}{EOM}{EOM}
+
+Message 52:
+{S_340137}Hey, I just found
+a {C13}Blue Feather{C17} on
+the {C14}{STRUC_3}{C17}.{PAUSE}{EOM}
+
+Message 53:
+Well, if that isn't a
+{C13}Blue Feather{C17}...{PAUSE}{EOM}
+
+Message 54:
+Do you know how
+rare those are?
+Where'd you get it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 55:
+There's an old
+tradition in these
+parts...{PAUSE}{WIPE}
+A man gives a
+{C13}Blue Feather{C17} to a
+girl to propose.{PAUSE}{WIPE}
+If she accepts, they
+are officially
+engaged.{PAUSE}{WIPE}
+I've seen them for
+sale in the city for
+a fortune, but...{PAUSE}{WIPE}
+finding one in
+{C14}{STRUC_30}{C17}
+is incredible luck...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{S_340137}Pretty early,
+isn't it?{PAUSE}{EOM}
+
+Message 57:
+I'm off now...{PAUSE}{EOM}
+
+Message 58:
+So you want to sell
+{PREV_80}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+I am going to give
+the M.P. to {PREV_80}
+when I get back.{PAUSE}{EOM}
+
+Message 60:
+So you want to sell
+{PREV_80}?{PAUSE}{WIPE}
+I am going to give
+the M.P. to {PREV_81}
+when I get back.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+So you want to give
+her the Miracle
+Potion?{PAUSE}{WIPE}
+After I get back,
+alright?{PAUSE}{EOM}{EOM}
+
+Message 62:
+So you want to sell
+{PREV_80}?{PAUSE}{WIPE}
+I'll give her M.P.
+when I get back.{PAUSE}{EOM}{EOM}
+
+Message 63:
+OK then, let's go
+{PREV_80}...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 64:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+You want to sell
+this one...?{PAUSE}{EOM}{EOM}
+
+Message 66:
+{S_340138}Hmm...
+This one's sick.
+Too bad...{PAUSE}{EOM}
+
+Message 67:
+{S_340137}Did you know she's
+pregnant? You can't
+sell her now.{PAUSE}{EOM}
+
+Message 68:
+{S_340138}Hmm...
+This one's sick.{PAUSE}{WIPE}
+Better use some
+medicine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+{S_340138}Didn't you know
+she's already
+pregnant...?{PAUSE}{EOM}
+
+Message 70:
+{S_340138}Hmm...
+This one's sick.{PAUSE}{WIPE}
+Don't forget to use
+some medicine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 71:
+{S_340138}Hmmm...
+This one's sick.{PAUSE}{WIPE}
+Don't forget to use
+some medicine.{PAUSE}{EOM}
+
+Message 72:
+{S_340138}Hmm...
+This one's sick.{PAUSE}{WIPE}
+Don't forget to use
+some medicine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+{S_340138}Hmm...
+This one's sick.{PAUSE}{WIPE}
+Don't forget to use
+some medicine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+{S_340136}Nothing today...{PAUSE}{EOM}
+
+Message 75:
+{S_340137}Hey, 'morning.{PAUSE}{EOM}
+
+Message 76:
+Nothing today...I
+see.{PAUSE}{EOM}
+
+Message 77:
+{S_340137}...Hmm?
+This one's sick.{PAUSE}{WIPE}
+Don't forget to use
+some medicine.{PAUSE}{EOM}
+
+Message 78:
+{S_340137}...Hmm?
+{PREV_80} is sick.{PAUSE}{WIPE}
+Don't forget to use
+some medicine.{PAUSE}{EOM}
+
+Message 79:
+{S_340137}Hey...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+Whew...{S_3201F4}{EOM}{EOM}{EOM}
+
+Message 81:
+I'll leave the money
+here, so don't forget
+to pick it up.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+I'll leave everything
+I couldn't put on
+the {C14}{STRUC_3}{C17} here.{PAUSE}{WIPE}
+Be sure to pick it up
+later.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+Well...{PAUSE}{EOM}
+
+Message 84:
+Won't...fit...
+Oh well, too bad.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 85:
+Hey! I'm back!{PAUSE}{EOM}
+
+Message 86:
+{S_340137}I'll leave the money
+in this can, okay?{PAUSE}{EOM}
+
+Message 87:
+And...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+Everything that
+wouldn't fit on the
+{C14}{STRUC_3}{C17} is in{PAUSE}
+that package.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 89:
+If you don't like
+farm work, why stay
+here?{PAUSE}{WIPE}
+Why not go find
+something you like
+better?{PAUSE}{EOM}
+
+Message 90:
+The farm seems to be
+in good shape...
+Now...{S_3207D0}{EOM}
+
+Message 91:
+Just in time. I was
+about to explain how
+to take care of the{PAUSE}
+pasture to your son.{PAUSE}{EOM}
+
+Message 92:
+Do you mind if I
+continue? {S_3203E8}
+{CHOICE2 DEF0}
+Go ahead.
+No, don't.{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+Great. Let's talk as
+we walk over this
+way...{PAUSE}{EOM}
+
+Message 94:
+Your son seems to
+be interested in
+farming.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+I see...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+I guess your Dad
+needs you now. I'll
+talk to you later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+Your son seems to
+like farming.
+What a great kid...{PAUSE}{EOM}{EOM}
+
+Message 98:
+I've never seen a
+crop like this...{PAUSE}{WIPE}
+Do you wanna show
+it to the people in
+town...?{PAUSE}{EOM}
+
+Message 99:
+I found someone to
+buy that strange crop
+of yours.{PAUSE}{WIPE}
+He says he wants to
+buy the seeds, too.{PAUSE}{WIPE}
+If you're interested,
+put them in the box
+and I'll sell 'em.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+{DRAW_02}Your dad and I
+shared the same
+dream, you know. {DRAW_00}{PAUSE}{EOM}
+
+Message 101:
+{DRAW_02}I bet he never told
+you.{S_3201F4} ...But, I
+remember it all.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+{DRAW_02}This land you
+see here... {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+{DRAW_02}Your Dad and I
+found it together.{PAUSE}{WIPE}
+It has old, but
+strong buildings and
+some fallow fields...{DRAW_00}{PAUSE}{EOM}
+
+Message 104:
+{DRAW_02}So...I think it's
+your...{S_3201F4}destiny to
+take on this farm.{PAUSE}{WIPE}
+I'll be here to help
+you out.{DRAW_00}{PAUSE}{EOM}
+
+Message 105:
+{DRAW_02}Why don't I show
+you around? {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 106:
+{DRAW_02}This is the {C14}{STRUC_20}{C17}. {S_3201F4}
+This is where the
+cattle,{S_3201F4} sheep, {S_3201F4} and{PAUSE}
+horse live. I'll show
+you the inside later.{DRAW_00}{PAUSE}{EOM}
+
+Message 107:
+{DRAW_02}Next door is the
+{C14}{STRUC_23}{C17}. {DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 108:
+{DRAW_02}There is a
+{C14}{STRUC_48}{C17}, a {C14}{STRUC_3}{C17}
+and a few other{PAUSE}
+things. That's where
+you store your tools.{DRAW_00}{PAUSE}{WIPE}
+I put some tools
+you'll need on the
+{C14}{STRUC_48}{C17}.{PAUSE}{WIPE}
+I also put some seeds
+on the {C14}{STRUC_3}{C17}.
+They're there to use.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+{DRAW_02}This is the
+{C14}{STRUC_24}{C17}.{PAUSE}{WIPE}
+Put dairy products
+in here to ship.{PAUSE}
+I'll take it to the
+market in town on the
+following day.{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 110:
+{DRAW_00}If there's something
+you want me to buy,
+just write it in{PAUSE}
+the {C14}{STRUC_6}{C17}. {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 111:
+{DRAW_02}This is the
+{C14}{STRUC_21}{C17}, where
+the chickens live. {DRAW_00}{PAUSE}{EOM}
+
+Message 112:
+{DRAW_02}These dogs must
+be strays...{PAUSE}{WIPE}
+Looks like these guys
+like you... {DRAW_00}{PAUSE}{WIPE}
+{DRAW_02}.{S_32012C}.{S_3201F4}.{S_3201F4}.{S_3201F4}Do you
+wanna keep one?{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+{DRAW_02}Go ahead and pick
+one.{DRAW_00}
+{CHOICE2 DEF0}
+Pointy Ears
+Long Ears{EOM}
+
+Message 114:
+{DRAW_02}Okay. Now give him
+a name. {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 115:
+{DRAW_02}Alright then, I'll
+find an owner for the
+other one.{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 116:
+I'll build a doghouse
+for the little guy
+later. {DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 117:
+{DRAW_02}Finally, this is
+your house. {DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 118:
+{DRAW_02}I fixed it up a
+little, but it's
+still not much. {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 119:
+{DRAW_02}...Oh,{S_3201F4} my house{S_3201F4}
+is...{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 120:
+{DRAW_02}You can see my house
+on the other side
+of the {C14}{STRUC_24}{C17}. {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+{DRAW_02}That's all you need
+for now.{PAUSE}{WIPE}
+Once you get going,
+you can build
+up the place.
+{DRAW_00}{PAUSE}{WIPE}{DRAW_01}{DRAW_00}{DRAW_02}......Oh yeah,{S_3201F4}
+come here for a
+second.{PAUSE}{WIPE}{EOM}
+
+Message 122:
+{DRAW_02}I bought you a
+cow to get you
+started.{PAUSE}{WIPE}
+Put the feed in here.
+...And, she needs
+a name.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 123:
+{DRAW_02}{PREV_80}? A good name
+for our first cow. {DRAW_00}{PAUSE}{WIPE}
+{DRAW_02}It's already been
+about 10 days since
+she gave birth,{PAUSE}
+so you can milk her.
+She's healthy, so
+twice a day is good. {DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 124:
+{DRAW_02}That's about it... {S_3201F4}
+Oh yeah! You have to
+think of a name{PAUSE}
+for this farm...
+What'll it be? {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+{DRAW_02}{FARM} Farm, eh?
+...Sounds good enough
+to me.{S_3201F4}{PAUSE}{WIPE}
+Oh yeah, I should
+probably tell you
+about the people{PAUSE}
+who live around
+here...{S_3203E8}{PAUSE}{WIPE}
+I'm not so sociable,
+but let me introduce
+you to them.{DRAW_00}{PAUSE}{EOM}
+
+Message 126:
+{DRAW_02}There's Tim, who runs
+the {C14}{STRUC_35}{C17},
+his wife Ruby and{PAUSE}{WIPE}
+their son, Rock. How
+should I introduce
+you?{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 127:
+{DRAW_02}{PETE}? Got it. {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+{DRAW_02}And,{FACER_000000}
+{?_39} there's a girl
+staying here named
+Nami, too. {DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 129:
+{DRAW_02}This is Galen
+and his wife Nina. {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+{DRAW_02}This is Chris. {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 131:
+{DRAW_02}This is Wally and his
+son Hugh. {DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 132:
+{DRAW_02}Griffin runs the
+{C14}{STRUC_33}{C17},
+where Muffy works. {DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 133:
+{DRAW_02}Romana lives in the
+{C14}{STRUC_34}{C17} with her
+granddaughter Lumina.{PAUSE}{WIPE}
+And this is their
+butler, Sebastian.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+{DRAW_02}Vesta runs a farm
+like yours. {DRAW_00}{PAUSE}{EOM}
+
+Message 135:
+Over there is
+Vesta's younger
+brother, Marlin.{S_3201F4}{PAUSE}{WIPE}
+Celia helps out with
+the farm work here.{PAUSE}{WIPE}
+This is where you
+can buy seeds.{PAUSE}{EOM}
+
+Message 136:
+{DRAW_02}People live over
+there, too. There are
+twins who make{PAUSE}
+fireworks, an artist,
+a guy who does
+experiments all day,{PAUSE}
+and someone who plays
+guitar. They're all
+weird, I say... {DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 137:
+{DRAW_02}In that tent is a
+scholar who lives
+with his assistant.{PAUSE}{WIPE}
+They're digging
+something up.{DRAW_00}{PAUSE}{WIPE}
+Hmm...{S_3201F4}
+That's about it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+{DRAW_02}You must be tired
+by now... Take it
+easy and rest.{DRAW_00}{PAUSE}{WIPE}
+{DRAW_02}Just ask me if
+there's anything you
+don't understand.{PAUSE}{WIPE}
+{DRAW_02}See ya. {DRAW_00}{PAUSE}{EOM}
+
+Message 139:
+Time for bed, now.{PAUSE}{EOM}{EOM}
+
+Message 140:
+I'm going to sleep.
+Why don't you go home
+and do the same?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 141:
+Go home, so I can
+get some sleep...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+Time for me to
+leave...{PAUSE}{EOM}
+
+Message 143:
+I've got to go...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+Out, now.{PAUSE}{EOM}{EOM}
+
+Message 145:
+{S_340137}Hey...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 146:
+...How's it going?{PAUSE}{EOM}
+
+Message 147:
+You don't have
+anything to sell.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 148:
+What's a shop with
+nothing to sell!?{PAUSE}{EOM}
+
+Message 149:
+When you have
+something you want
+someone to buy,{PAUSE}
+take it and talk
+to them. Of course
+they may not buy{PAUSE}
+it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+Just try talking to
+the customers...
+That's the key.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+You need to be
+patient and
+persistent to sell{PAUSE}
+things.{PAUSE}{EOM}
+
+Message 152:
+If no one comes,
+close the stand and
+do something else.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 153:
+You can always ask
+me questions, but I
+suggest trying to{PAUSE}
+figure things out
+on your own.{PAUSE}{WIPE}
+I've also written
+lots of advice down
+in the Notebook{PAUSE}
+on your bookshelf.
+Also, it may be none
+of my business, but {PAUSE}
+I suggest finding a
+wife quickly.{PAUSE}{WIPE}
+It was your father's
+dream to have a
+family farm, you see.{PAUSE}{WIPE}
+Finally, if you show
+items to people,
+sometimes they'll{PAUSE}{WIPE}
+tell you something
+about it. That's all
+for now. Good luck!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+...I wanted to check
+up on you, since you
+haven't asked me{PAUSE}
+much. Like I said
+before, you can ask
+me anything, although{PAUSE}
+I suggest trying to
+figure it out for
+yourself. Also, don't{PAUSE}
+forget about the
+Notebook in your
+bookshelf. There's{PAUSE}
+lots of good
+information in it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 155:
+What do you want
+to know?
+{CHOICE3 DEF0}
+About Animals
+About Crops
+Nothing{EOM}
+
+Message 156:
+Cattle and sheep are
+kept in the Barn.{PAUSE}{WIPE}
+When you get one, you
+have to decide where
+to put the feed box.{PAUSE}{WIPE}
+If it gets empty,
+fill it with feed.{PAUSE}{WIPE}
+About twice per day
+is a good estimate.{PAUSE}{WIPE}
+You make feed by
+cutting grass with
+your Sickle.{PAUSE}{WIPE}
+More details are in
+the notebook, okay?{PAUSE}{EOM}{EOM}
+
+Message 157:
+Before you plant the
+seeds, you need to
+till the soil with{PAUSE}
+your Hoe. Then, plant
+the seeds and water.{PAUSE}{WIPE}
+Harvest when the
+flowers wilt. Add
+fertilizer to make{PAUSE}
+the crops grow bigger
+than they would
+normally be.{PAUSE}{WIPE}
+Also, crops won't
+grow when they are
+too close to trees.{PAUSE}{WIPE}
+Check the Notebook
+if you need to know
+more, okay?{PAUSE}{EOM}
+
+Message 158:
+{S_340138}...Really?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+What do you want
+to know?
+{CHOICE3 DEF0}
+About Shipping
+About Ordering
+Nothing{EOM}
+
+Message 160:
+You can only ship
+{C12}Dairy Products{C17} to
+the market in town.{PAUSE}{WIPE}
+Put products in the
+Shipping Box inside
+the {C14}Food Storage{C17}.{PAUSE}{WIPE}
+You can also move
+items from your
+Rucksack to the{PAUSE}
+Shipping Box by
+selecting them.{PAUSE}{WIPE}
+When you want to sell
+something other than
+{C12}Dairy Products{C17},
+try selling them
+near the {C14}Inner Inn{C17}.{PAUSE}{WIPE}
+You can find more
+details in the
+Notebook.{PAUSE}{EOM}{EOM}
+
+Message 161:
+If you want me to
+buy something for
+you, write it down{PAUSE}
+in the Ledger inside
+the {C14}Food Storage{C17}.{PAUSE}{WIPE}
+Select the picture
+of my face.{PAUSE}{WIPE}
+If you're still
+confused, check the
+Notebook.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+The key to raising
+good animals and
+crops is observation.{PAUSE}{EOM}{EOM}
+
+Message 163:
+I wouldn't know, but
+I hear raising kids
+is hard work...{PAUSE}{EOM}
+
+Message 164:
+When I look at
+your son, I remember
+the first time I{PAUSE}
+met you.{PAUSE}{EOM}
+
+Message 165:
+Remember to check
+the Notebook in your
+bookshelf if you{PAUSE}
+need to learn about
+anything.{PAUSE}{EOM}{EOM}
+
+Message 166:
+It must be nice
+to have a family...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 167:
+{S_340137}Hey, how are things?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 168:
+{S_340137}Hey, how are you
+doing?{PAUSE}{EOM}{EOM}
+
+Message 169:
+{S_340137}What are you doing up
+so late?{PAUSE}{EOM}{EOM}
+
+Message 170:
+{S_340138}That looks pretty
+good. Can I have
+some? {CHOICE Y/N DEF0}{EOM}
+
+Message 171:
+{FACE_070003}Thanks a lot!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 172:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 173:
+...That looks quite
+good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+That's very good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 175:
+...Take care now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 176:
+Sorry, I don't like
+that very much.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 177:
+{S_340136}Sorry, but I
+don't eat that.{PAUSE}{EOM}
+
+Message 178:
+What are you doing
+with that?{PAUSE}{EOM}{EOM}
+
+Message 179:
+Don't try giving any
+of that to me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 180:
+{FACE_070003}He's so cute...
+He looks like
+Celia, doesn't he?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+He kind of looks
+like you, too...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+{FACE_070003}He's so cute...
+He looks like
+Muffy, doesn't he?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 183:
+{FACE_070003}He's so cute...
+He looks like
+Nami, doesn't he?{PAUSE}{EOM}
+
+Message 184:
+{S_340137}That dog looks
+pretty happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+Take good care of
+him, now...{EOM}{EOM}{EOM}
+
+Message 186:
+Sorry, but I'm not
+a cat person...{PAUSE}{EOM}
+
+Message 187:
+Is this your cat?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+If you want to sell a
+Chicken, select her
+name in the Ledger{PAUSE}
+inside the
+{C14}Food Storage{C17}.{PAUSE}{WIPE}
+First select my face
+in the Ledger, then
+{C12}SELL{C17} at the bottom.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 189:
+Take good care
+of it, now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 190:
+You can't sell that
+one yet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 191:
+If you raise your
+chickens really well,
+they'll lay Golden{PAUSE}
+Eggs. At least,
+that's what I hear.{PAUSE}{EOM}{EOM}
+
+Message 192:
+Ducks don't warm
+their own eggs,
+you know.{PAUSE}{EOM}{EOM}
+
+Message 193:
+{S_340138}{FACE_07001F}Is that a baby
+duck...?{PAUSE}{EOM}{EOM}
+
+Message 194:
+You know, you can't
+tell the difference
+between a duck egg{PAUSE}
+and a chicken egg.{PAUSE}{EOM}{EOM}
+
+Message 195:
+You can get the farm
+on the other side of
+the bridge to sell{PAUSE}
+you some seeds.{PAUSE}{EOM}{EOM}
+
+Message 196:
+Plant the seeds in
+your fields, give
+them water, and{PAUSE}
+they'll grow.{PAUSE}{EOM}
+
+Message 197:
+Did you raise this?
+I don't know much
+about crops,{PAUSE}
+but if you ask Vesta
+she'll tell you
+anything.{PAUSE}{EOM}{EOM}
+
+Message 198:
+With a Seed Maker,
+you can collect seeds
+from crops, you know.{PAUSE}{EOM}{EOM}
+
+Message 199:
+Fertilizer will make
+crops taste better,
+but they won't{PAUSE}
+look much different.{PAUSE}{EOM}
+
+Message 200:
+{S_340138}Is that milk
+from this farm? Can
+I have a taste? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+Thanks a lot...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 202:
+Really? Milk can get
+a high price, so you
+should know{PAUSE}
+how it tastes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 203:
+A milk's taste
+depends on how the
+cow was raised and{PAUSE}
+the type of cow.{PAUSE}{EOM}{EOM}
+
+Message 204:
+Is that cheese
+from this farm? Can
+I have a taste? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 205:
+Really? Cheese can
+get a high price, so
+you should know{PAUSE}
+how it tastes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+How a cheese tastes
+depends on the milk
+you made it from.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 207:
+Is that butter
+from this farm? Can
+I have a taste? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 208:
+Really? Butter can
+get a high price, so
+you should know{PAUSE}
+how it tastes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 209:
+How butter tastes
+depends on the milk
+you made it from. {PAUSE}{EOM}{EOM}
+
+Message 210:
+If this is a
+{C13}Fertilized Egg{C17}, put
+it in the {C14}Incubator{C17}{PAUSE}
+and it will hatch
+into a chick!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 211:
+Egg type depends on
+how you care for your
+chickens, you know.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+Did you catch this
+fish? Good going...{PAUSE}{EOM}
+
+Message 213:
+You can't ship fish,
+so you have to sell
+this yourself.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+Did you gather those
+wild plants? They
+might be good for{PAUSE}
+cooking.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 215:
+You can't ship wild
+plants, so you'll{PAUSE}
+have to sell
+these yourself.{PAUSE}{EOM}
+
+Message 216:
+That's quite a nice
+tool.{PAUSE}{EOM}
+
+Message 217:
+Use it well...{PAUSE}{EOM}
+
+Message 218:
+That's a very rare
+stone...I bet you can
+sell it for lots...{PAUSE}{EOM}{EOM}
+
+Message 219:
+I bet Van the
+merchant would
+buy it...{PAUSE}{EOM}{EOM}
+
+Message 220:
+{S_340138}Now where did you
+dig THAT up...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 221:
+{S_340136}...It's so strange.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 222:
+Different grasses
+grow in different
+seasons, they say.{PAUSE}{EOM}{EOM}
+
+Message 223:
+{FACE_07001F}{S_340138}What could
+THAT be...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 224:
+Is that a frisbee?{PAUSE}{EOM}{EOM}
+
+Message 225:
+I have no idea
+what that is.{PAUSE}{EOM}
+
+Message 226:
+Did you get that
+spice from {RUBY}?{PAUSE}{EOM}
+
+Message 227:
+I bet you can cook
+something really
+delicious with that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 228:
+{S_3400DA}{S_3205DC}{FACE_07001E}......??{PAUSE}{EOM}
+
+Message 229:
+{S_3400DA}{S_3205DC}{FACE_07001E}.......???{PAUSE}{EOM}
+
+Message 230:
+Isn't that the medal
+Wally won...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 231:
+It's not such a big
+deal, anyway...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 232:
+What an odd necklace
+that is. I wonder if
+it means anything...{PAUSE}{EOM}{EOM}
+
+Message 233:
+What a nice
+necklace...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 234:
+What a huge firework.
+I bet that old
+man made it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 235:
+{FACE_07001F}Looks more like a
+bomb to me...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 236:
+Show that to someone
+else. They might tell
+you about it.{PAUSE}{EOM}
+
+Message 237:
+{S_340138}What are you showing
+that to me for?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 238:
+My dream is to make
+the farm successful
+with you...{PAUSE}{EOM}{EOM}
+
+Message 239:
+I used to be a
+traveling laborer,
+but I got caught up{PAUSE}
+in some trouble...
+It's a long story,
+but your father{PAUSE}
+saved my neck, so
+I owe him...{PAUSE}{EOM}
+
+Message 240:
+I don't know how long
+I can help, but I do
+know I intend to{PAUSE}
+be buried here...{PAUSE}{EOM}
+
+Message 241:
+That dish you gave
+me was excellent.
+{FACE_070003}It's my favorite.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 242:
+That dish you gave
+me was horrible...
+{FACE_070004}I threw it away.{PAUSE}{EOM}
+
+Message 243:
+That milk you gave me
+tasted so...healthy.{PAUSE}{WIPE}
+Must have been
+'mother's milk',
+right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 244:
+That milk you gave me
+didn't taste so good
+for some reason...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 245:
+That milk you gave me
+was okay.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 246:
+That milk you gave me
+was pretty good, but
+it could be better. {PAUSE}{EOM}{EOM}
+
+Message 247:
+That milk you gave me
+was perfect for
+normal milk.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 248:
+That milk you gave me
+was not so good...{PAUSE}{WIPE}
+Maybe it would be
+better as cheese?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 249:
+That milk you gave me
+might be better if
+you did something{PAUSE}
+with it.{PAUSE}{EOM}
+
+Message 250:
+That milk you gave me
+was pretty good, but
+it might be even{PAUSE}
+better as cheese.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 251:
+That milk you gave me
+was fantastic.{PAUSE}{WIPE}
+You should try making
+cheese out of it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 252:
+That milk you gave me
+was excellent, but a
+little thin...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 253:
+That milk you gave me
+was good, but I know
+you can do better.{PAUSE}{EOM}{EOM}
+
+Message 254:
+That milk you gave me
+was rich and good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 255:
+That milk you gave me
+was the best I've
+ever had. {FACE_070003}Good job.{PAUSE}{EOM}
+
+Message 256:
+That milk you gave me
+was not bad...Try
+using it for butter.{PAUSE}{EOM}{EOM}
+
+Message 257:
+That milk you gave me
+might be better if
+you did something{PAUSE}
+with it.{PAUSE}{EOM}
+
+Message 258:
+That milk you gave me
+was pretty good, but
+it might be even{PAUSE}
+better as butter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 259:
+That milk you gave me
+was excellent, but it
+was a little thick.{PAUSE}{EOM}
+
+Message 260:
+The cheese you
+gave me was just
+right. {FACE_070003}Good job.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 261:
+The cheese you gave
+me was a little
+stinky, but I {PAUSE}
+actually liked
+it a lot...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 262:
+That cheese you
+gave me was made
+with 'mother's milk',{PAUSE}
+wasn't it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 263:
+The cheese you gave
+me was just so-so.{PAUSE}{EOM}{EOM}
+
+Message 264:
+The butter you
+gave me was just
+right. {FACE_070003}Good job.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 265:
+The butter you gave
+me was a little
+stinky, but I {PAUSE}
+actually liked
+it a lot...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 266:
+That butter you
+gave me was made
+with 'mother's milk',{PAUSE}
+wasn't it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 267:
+The butter you gave
+me was just so-so.{PAUSE}{EOM}{EOM}
+
+Message 268:
+I think you're
+already becoming a
+good farmer.{PAUSE}{EOM}{EOM}
+
+Message 269:
+You seem to be
+particularly talented
+at raising crops...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 270:
+You seem to be
+particularly talented
+at cooking...{PAUSE}{EOM}{EOM}
+
+Message 271:
+Lately you've been
+looking like a
+farmer!...{PAUSE}{EOM}
+
+Message 272:
+Your hands are
+looking more and more
+like farmer's hands.{PAUSE}{EOM}{EOM}
+
+Message 273:
+I hear you've turned
+into quite a cook.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 274:
+It seems like you've
+been getting the hang
+of farming.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 275:
+Looks like you're
+getting the hang of
+growing crops.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 276:
+Looks like you're
+getting the hang of
+cooking, too.{PAUSE}{EOM}
+
+Message 277:
+Want me to teach you
+my secret dish?{PAUSE}{WIPE}
+Try making a soup
+out of Turnips,
+Carrots and Fish.{PAUSE}{EOM}{EOM}
+
+Message 278:
+Want me to teach you
+another of my secret
+dishes?{PAUSE}{WIPE}
+Use a Sweet Potato
+to make a sweet
+dessert!{PAUSE}{EOM}
+
+Message 279:
+Here's another one of
+my famous dishes:{PAUSE}{WIPE}
+Try using Cheese,
+Butter and Milk to
+make something.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 280:
+You have to be
+careful about
+choosing your recipe.{PAUSE}{WIPE}
+Even if the
+ingredients are
+good, if the recipe{PAUSE}
+is wrong, your dish
+will be a failure.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 281:
+I've lived by myself
+for so long, I'm used
+to cooking.{PAUSE}{EOM}
+
+Message 282:
+The more you cook,
+the more dishes you
+figure out.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 283:
+{FACE_07001A}It's nice to
+drink with somebody
+once in a while...{PAUSE}{EOM}{EOM}
+
+Message 284:
+{FACE_070009}{S_340136}...Whew......{PAUSE}{EOM}{EOM}
+
+Message 285:
+Make yourself at
+home. I'm not a
+very good host...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 286:
+Make yourself at
+home.{PAUSE}{EOM}{EOM}
+
+Message 287:
+I like it here.
+Good drinks and good
+music...{PAUSE}{EOM}
+
+Message 288:
+Looks like you feel
+the same, huh?{PAUSE}{EOM}
+
+Message 289:
+Cows don't give milk
+all the time, you
+know. For instance,{PAUSE}
+not when they're sick
+or right before they
+give birth.{PAUSE}{WIPE}
+They also stop giving
+milk about 40 days
+after giving birth.{PAUSE}{WIPE}
+You have to consider
+this when deciding
+when to breed them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 290:
+Doesn't Spring feel
+good?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 291:
+Cows don't give much
+milk this time of
+year.{PAUSE}{WIPE}
+Maybe it's the
+temperature...{PAUSE}{EOM}
+
+Message 292:
+The Southern Stars
+are beautiful this
+time of year...{PAUSE}{EOM}
+
+Message 293:
+You can make more
+of a profit off of
+cheese and butter{PAUSE}
+than milk, you know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 294:
+Cheese and butter
+made from good milk
+fetch a high price{PAUSE}
+at the market in
+town.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 295:
+I love the changing
+of the leaves.{PAUSE}{EOM}
+
+Message 296:
+Cows give a special
+kind of milk right
+after they give {PAUSE}
+birth. This 'mother's
+milk' has extra
+nutrients.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 297:
+Even when it snows
+around here, it
+doesn't stick.{PAUSE}{EOM}
+
+Message 298:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 299:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 300:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 301:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 302:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 303:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 304:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 305:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 306:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 307:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 308:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 309:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 310:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 311:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 312:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 313:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 314:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 315:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 316:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 317:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 318:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 319:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 320:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 321:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 322:
+Umm...Not right now,
+thanks.{PAUSE}{EOM}{EOM}
+
+Message 323:
+What are you still
+doing here?{PAUSE}{WIPE}
+Don't you have any-
+thing else to do,
+a goal in life?{PAUSE}{WIPE}
+I'm rooting for
+you, you know...{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

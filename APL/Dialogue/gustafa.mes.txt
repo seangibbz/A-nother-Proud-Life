@@ -1,0 +1,1087 @@
+Message 0:
+What did you
+think of it? {PAUSE}{EOM}
+
+Message 1:
+Barkeep, would you
+perform alongside me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+Thank you very much.
+And now, a song
+just for you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+Thank you very much. {PAUSE}{EOM}
+
+Message 4:
+What have we here?
+A new friend? {PAUSE}{WIPE}
+All are welcome.
+Don't hold back. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+If it pleases you,
+come this way.
+{CHOICE2 DEF0}
+With pleasure.
+Sorry.{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+How's over there?
+{CHOICE2 DEF0}
+Sure.
+I'm done for today.{EOM}{EOM}
+
+Message 7:
+Really...
+Come back if you
+change your mind. {PAUSE}{WIPE}
+I'll always welcome
+you back. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+We've got a new
+guest here. {PAUSE}{WIPE}
+Time for another
+song! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+That's all for
+today. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+{FACE_140003}{S_340166}Hey, {PETE}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+What am I doing?
+Take a look for
+yourself. {PAUSE}{WIPE}
+Over in that
+space there. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+Look how beautifully
+the stars twinkle. {PAUSE}{EOM}
+
+Message 13:
+I once went to a
+country where there
+was a festival held {PAUSE}
+under a sky filled
+with immeasurable
+stars. {PAUSE}{WIPE}
+I was hoping to tell
+others about it. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+{FACE_140007}Ahh... {NAMI}. {S_3207D0}{FACE_140000}{PAUSE}{WIPE}
+She's my little
+heroine... {PAUSE}{EOM}
+
+Message 15:
+{FACE_140009}Huh... {S_3203E8}
+{FACE_140007}{NAMI}, where in the
+world are you now? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{FACE_140004}{SKIP}
+Where? {SKIP}{EOM}{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+{FACE_140000}Oh! {NAMI}!! {PAUSE}{EOM}
+
+Message 18:
+{FACE_140000}{NAMI}!
+You've come back!!
+Thank goodness!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+{FACE_140003}I'm so relieved. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+{FACE_140003}Let's celebrate with
+a song!! {PAUSE}{WIPE}
+{S_3203E8}{FACE_140000}Huh? {PAUSE}{EOM}
+
+Message 21:
+{FACE_140003}I only love signing. {PAUSE}{WIPE}
+Would you like to
+sing together? {PAUSE}{EOM}{EOM}
+
+Message 22:
+{FACE_140003}It's okay.
+The lyrics are easy
+to learn. {PAUSE}{WIPE}
+Just follow my
+lead and you'll
+be okay. {PAUSE}{WIPE}
+{S_3203E8}Here we go... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 23:
+♪Long ago...in the
+sea,There were two...
+You and me... {PAUSE}{EOM}{EOM}
+
+Message 24:
+If you're expecting
+beautiful music, I'm
+not your guy! {FACER_000000}
+{?_39}{PAUSE}
+{FACE_140003}You'll want him. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 25:
+{FACE_140003}He's really good at
+singing. {PAUSE}{WIPE}
+I only heard him
+sing just one verse,
+but I could tell... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+{FACE_140003}Yeah! Wonderful!
+Live music is the
+best. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+Thanks to you, I got
+to listen to
+something great. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+Hey, how are you
+today? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+Oh right... {S_32012C}{PAUSE}{WIPE}
+I picked up the
+strangest thing
+from the beach. {PAUSE}{WIPE}
+I think it's a
+sickle of some
+sort... {PAUSE}{EOM}
+
+Message 30:
+I don't know why it
+would show up at
+the beach.{S_3200C8}.{S_3200C8}.{S_3200C8}{PAUSE}{WIPE}
+Maybe it washed up
+from a foreign land. {PAUSE}{WIPE}
+I won't use it,
+so you take it. {PAUSE}{WIPE}
+You can use it on
+the farm, right? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+Tools are a lot like
+instruments.{PAUSE}{WIPE}
+You can never judge
+by appearance alone.{PAUSE}{WIPE}
+A tool may look
+old, but it may be
+very easy to use. {PAUSE}{EOM}
+
+Message 32:
+{FACE_140003}{S_340166}You really came at
+a wonderful time. {PAUSE}{EOM}
+
+Message 33:
+We're about to start
+the Summer Festival. {S_3201F4}{PAUSE}{WIPE}
+Everyone's on their
+way here. {PAUSE}{WIPE}
+{PETE}, are
+you going to take
+part in it too? {PAUSE}{EOM}{EOM}
+
+Message 34:
+Looks like everyone
+is here. {S_3201F4}{PAUSE}{WIPE}
+Here we... {S_3201F4}
+go! {PAUSE}{EOM}
+
+Message 35:
+Thanks for today. {S_3203E8}
+See you next year. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+We're about to start
+the Starry Night
+Festival. {S_3201F4}{PAUSE}{WIPE}
+Everyone's on their
+way here. {PAUSE}{WIPE}
+{PETE}, are
+you going to take
+part in it too? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+{PETE}...
+I can't believe this
+is goodbye... {PAUSE}{WIPE}
+Rest in peace and
+we'll meet again... {PAUSE}{EOM}{EOM}
+
+Message 38:
+{GRIFFIN}, would
+you play a song in
+memory of him...? {PAUSE}{EOM}
+
+Message 39:
+Oh, you sold out
+on everything? {PAUSE}{WIPE}
+Guess I'm out
+of luck then... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+I'll get it
+next time. {PAUSE}{EOM}{EOM}
+
+Message 41:
+I just wanted to
+take a look. {PAUSE}{EOM}{EOM}
+
+Message 42:
+I don't think I
+really want anything
+right now. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+I like that
+{VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+It's about {GOLD_0105}G.
+{GOLD_0205}G.
+Not for sale.{EOM}{EOM}{EOM}
+
+Message 44:
+That's real cheap.
+I'll take it! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 45:
+I'll take it. {PAUSE}{EOM}{EOM}
+
+Message 46:
+That's a little
+high, but I'll
+take it anyway. {PAUSE}{EOM}{EOM}
+
+Message 47:
+{FACE_140009}That's too bad... {PAUSE}{EOM}{EOM}
+
+Message 48:
+I want that
+{VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+It's only {GOLD_0105}G.
+{GOLD_0205}G.
+Not for sale.{EOM}
+
+Message 49:
+I want to look a
+little more. {PAUSE}{EOM}{EOM}
+
+Message 50:
+You're the guy who
+runs the farm right? {PAUSE}{WIPE}
+How's life treating
+you, my friend? {PAUSE}{WIPE}
+If you ever have any
+free time, stop by
+and hang out. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+I feel really down
+in the dumps today. {PAUSE}{EOM}
+
+Message 52:
+Would you let me
+be by myself...? {PAUSE}{EOM}{EOM}
+
+Message 53:
+{FACE_140004}Do you really want
+to get me angry? {PAUSE}{WIPE}
+I'd stop if I
+were you. {PAUSE}{EOM}{EOM}
+
+Message 54:
+{FACE_140004}Can I help you? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 55:
+{S_340166}Hey.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{S_340166}What are you up
+to tonight? {PAUSE}{EOM}{EOM}
+
+Message 57:
+{S_340166}What are you doing
+up so late at night? {PAUSE}{EOM}
+
+Message 58:
+{S_340166}Take it easy friend. {PAUSE}{EOM}{EOM}
+
+Message 59:
+{S_340166}Did you come to
+visit me? {PAUSE}{EOM}{EOM}
+
+Message 60:
+{FACE_140003}That really looks
+good...
+Mind if I have it? {CHOICE Y/N DEF0}{EOM}
+
+Message 61:
+{FACE_140003}Are you sure?
+Thanks a lot. {PAUSE}{EOM}
+
+Message 62:
+{FACE_140009}Oh, well... {PAUSE}{EOM}
+
+Message 63:
+That really looks
+good. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 64:
+{FACE_140003}You've got something
+really good there.
+Can I have it? {CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 65:
+You've got something
+nice there. {PAUSE}{EOM}{EOM}
+
+Message 66:
+{FACE_140009}Please, don't make
+me eat that... {PAUSE}{EOM}
+
+Message 67:
+{FACE_140009}I get sick when
+I eat that. {PAUSE}{EOM}{EOM}
+
+Message 68:
+What's that?
+I'm not interested
+in it... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+Get that away
+from me. {PAUSE}{EOM}{EOM}
+
+Message 70:
+{FACE_140003}He's cute.
+He really looks like
+you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+He's cute.
+Let's get together
+and sing sometime. {PAUSE}{EOM}
+
+Message 72:
+That's a cute
+dog. {PAUSE}{WIPE}
+He makes a funny
+face if you look
+at him enough. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+There's a nice
+boy... {PAUSE}{WIPE}
+Speak! {S_3400D3}{S_3203E8}
+Arf arf... {S_3400D3}{S_3203E8}{PAUSE}{EOM}{EOM}
+
+Message 74:
+He's a cute dog. {PAUSE}{EOM}
+
+Message 75:
+Cats are so wrapped
+up in their freedom. {PAUSE}{WIPE}
+All day long they
+just lounge around...{PAUSE}{EOM}{EOM}
+
+Message 76:
+You're a very
+cute cat.{S_3400C5}{S_3203E8}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+How cute. {PAUSE}{EOM}
+
+Message 78:
+If you take care of
+your chickens while
+you raise them, {PAUSE}
+someday they may
+lay golden eggs
+for you. {PAUSE}{WIPE}
+I don't know if
+that's true or not.{PAUSE}{EOM}{EOM}
+
+Message 79:
+Ducks are funny.
+They just waddle
+around... {PAUSE}{EOM}{EOM}
+
+Message 80:
+I wonder what kind
+of fruit you'll get
+if you plant that... {PAUSE}{WIPE}
+Can I have it?
+{CHOICE2 DEF1}
+Sure.
+Nope.{EOM}{EOM}{EOM}
+
+Message 81:
+{FACE_140003}Wha!? Really... {PAUSE}{WIPE}
+{FACE_140009}Oh never mind...
+I'm not good at
+growing things... {PAUSE}{EOM}
+
+Message 82:
+You're right.
+It's something
+precious to you. {PAUSE}{EOM}{EOM}
+
+Message 83:
+I was thinking of
+trying to "live
+off the land"... {PAUSE}{WIPE}
+But I'd never
+make a good farmer. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+What kind of
+seed is that...? {PAUSE}{EOM}
+
+Message 85:
+Are those crops that
+you got from your
+farm? {PAUSE}{WIPE}
+Give me a share if
+you can sometime. {PAUSE}{EOM}
+
+Message 86:
+Can I have that? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+Those are chemical
+free vegetables. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+That cheese looks
+really good. {PAUSE}{EOM}{EOM}
+
+Message 89:
+A cheese's flavor
+depends on the milk
+used to make it... {PAUSE}{WIPE}
+That's just plain
+common sense. {PAUSE}{EOM}{EOM}
+
+Message 90:
+You made that butter
+on the farm right?
+It's gotta be good. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+Certain milk is
+better suited for
+making butter. {PAUSE}{EOM}
+
+Message 92:
+A chicken's ability
+to lay eggs is
+affected by how {PAUSE}
+the person raises
+and cares for it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+I can't even begin
+to understand the
+difference between {PAUSE}
+duck eggs and
+chicken eggs. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 94:
+The more you use a
+tool, the better it
+will adapt to you. {PAUSE}{WIPE}
+It's just like an
+instrument in a
+way... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+What are you going
+to do with that
+hoe? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+What do you think
+of the sickle?
+Do you like it? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+It may be heavy at
+first but you should
+get the hang of it. {PAUSE}{EOM}
+
+Message 98:
+That's a weird
+machine. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+What are you going
+to do with that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+I have no use for
+that. {PAUSE}{EOM}
+
+Message 101:
+Those are sheep
+shears. {PAUSE}{WIPE}
+I've seen them
+before. {PAUSE}{EOM}{EOM}
+
+Message 102:
+You can shear sheep
+with those. {PAUSE}{EOM}
+
+Message 103:
+It might be good for
+a necklace or
+something like it... {PAUSE}{EOM}{EOM}
+
+Message 104:
+You can get stones
+like that from
+around here. {PAUSE}{EOM}{EOM}
+
+Message 105:
+What...is...that?
+Where on earth did
+you pick that up? {PAUSE}{EOM}{EOM}
+
+Message 106:
+What kind of
+ingredient is that?
+It smells nice. {PAUSE}{EOM}{EOM}
+
+Message 107:
+I'm sure if you use
+it in a recipe it
+will taste good. {PAUSE}{EOM}{EOM}
+
+Message 108:
+{S_3400DA}{S_3205DC}{FACE_140003}Nice sound,
+isn't it...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+{S_3400DA}{S_3205DC}{FACE_140003}It looks like you've
+taken to it... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+What's that?
+That's not really
+my forte. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 111:
+What kind of medal
+is that? {PAUSE}{EOM}
+
+Message 112:
+That's a strange
+looking necklace. {PAUSE}{WIPE}
+There must be some
+meaning to it... {PAUSE}{EOM}{EOM}
+
+Message 113:
+That's music
+for a guitar... {PAUSE}{WIPE}
+Normal music has
+5 lines but that
+has 6! {PAUSE}{EOM}{EOM}
+
+Message 114:
+You can't play that
+with a piano. {PAUSE}{EOM}{EOM}
+
+Message 115:
+That music looks
+hard to play. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 116:
+I'll pass on that. {PAUSE}{EOM}
+
+Message 117:
+I'm happy if I have
+nature and music. {PAUSE}{WIPE}
+Following that,
+I traveled around
+and ended up here. {PAUSE}{WIPE}
+I really come to
+like it here. {PAUSE}{EOM}
+
+Message 118:
+My ancestors were
+once traveling
+minstrels. {PAUSE}{WIPE}
+I'm kind of
+following in their
+footsteps. {PAUSE}{EOM}
+
+Message 119:
+I've seen a lot of
+people, but Nami
+is the best...{PAUSE}{EOM}
+
+Message 120:
+Once, I met a man
+who was researching
+insects. {PAUSE}{WIPE}
+He was a very
+curious fellow... {PAUSE}{WIPE}
+He was also
+traveling the world
+in search of bugs. {PAUSE}{WIPE}
+His name was...
+Louis I think... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+The farmer in
+Mineral Town
+lives for money. {PAUSE}{WIPE}
+Is it really that
+fun to just collect
+money? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+{VAR_00} can grow
+any crop there is.
+That's amazing. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+{VAR_00}'s animals
+seem happy. {PAUSE}{WIPE}
+He must take very
+good care of them. {PAUSE}{EOM}{EOM}
+
+Message 124:
+It would seem
+the farmer in
+Mineral Town {PAUSE}
+is a very famous
+fisherman. {PAUSE}{WIPE}
+I'm not really
+interested in
+fishing myself. {PAUSE}{EOM}{EOM}
+
+Message 125:
+{VAR_00} of Mineral
+Town has walked over
+1,000,000 steps. {PAUSE}{WIPE}
+I've walked more
+than that. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+Mineral Town's
+{VAR_00} has worked
+over 50 years. {PAUSE}{WIPE}
+You'd better be
+like him too... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 127:
+I heard that the
+farmer in Mineral
+Town has bad taste. {PAUSE}{WIPE}
+I wonder what that's
+really about... {PAUSE}{EOM}
+
+Message 128:
+The farmer in Mineral
+Town has many
+houses... {PAUSE}{WIPE}
+And yet, his family
+isn't even that
+big... {PAUSE}{EOM}{EOM}
+
+Message 129:
+There's a smith
+in Mineral Town
+who's very talented.{PAUSE}{WIPE}
+He's probably got
+a great job. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+The cheese I got
+before smelled a
+little. {PAUSE}{WIPE}
+Still, I could get
+addicted to it... {PAUSE}{EOM}
+
+Message 131:
+You made that cheese
+I got before right? {PAUSE}{EOM}
+
+Message 132:
+The butter I got
+before smelled a
+little. {PAUSE}{WIPE}
+Still, I could get
+addicted to it... {PAUSE}{EOM}
+
+Message 133:
+You made that butter
+I got before right? {PAUSE}{EOM}
+
+Message 134:
+The {VAR_00}
+you gave me last time
+was wonderful. {PAUSE}{WIPE}
+I really like things
+that taste like
+that. {PAUSE}{EOM}
+
+Message 135:
+{FACE_140003}The dish you brought
+me last time was
+delicious. {PAUSE}{EOM}{EOM}
+
+Message 136:
+{FACE_140003}The fish you caught
+for me last time
+was tasty. {PAUSE}{EOM}
+
+Message 137:
+{FACE_140003}The food you have
+me last time tasted
+great. {PAUSE}{EOM}{EOM}
+
+Message 138:
+Raising crops takes
+a lot of work, but
+you're doing well. {PAUSE}{WIPE}
+All one has to do
+is look at your
+hands. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 139:
+I love things that
+make sounds. {PAUSE}{WIPE}
+I collect
+instruments from
+around the world. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+Nature blended with
+melody... {PAUSE}{WIPE}
+That's the kind of
+music I'm trying
+to create. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 141:
+Don't you think
+it's peaceful here?{PAUSE}{EOM}{EOM}
+
+Message 142:
+Good drink, good
+food, and good
+music... {PAUSE}{WIPE}
+It doesn't get
+any better... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 143:
+Griffin is really
+good at guitar. {PAUSE}{WIPE}
+Have you ever heard
+him play? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 144:
+{FACE_140003}Wasn't it great? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+You've really got to
+see him perform
+live at the bar. {PAUSE}{WIPE}
+But he only plays
+when he wants to. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 146:
+{FACE_140003}Are you enjoying
+yourself? {PAUSE}{EOM}
+
+Message 147:
+I can't make you
+tea or anything,
+though... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+What do you think?
+Isn't it an
+interesting room? {PAUSE}{EOM}{EOM}
+
+Message 149:
+This tent is helpful
+when traveling
+around the world. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+I'd like to go play
+guitar somewhere... {PAUSE}{EOM}{EOM}
+
+Message 151:
+When I just stroll
+around outside,
+my head gets filled {PAUSE}
+with so many
+different melodies. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+This season is when
+the trees get nice
+and green. {PAUSE}{EOM}
+
+Message 153:
+It's always easy to
+pass the time away
+in this valley. {PAUSE}{WIPE}
+Even though it is
+a little hot now... {PAUSE}{EOM}
+
+Message 154:
+If you go to the
+southern part of the
+ocean, you can see{PAUSE}
+the most beautiful
+red stars. {PAUSE}{EOM}{EOM}
+
+Message 155:
+It tends to get
+really hot during
+this season. {PAUSE}{EOM}{EOM}
+
+Message 156:
+I like to write
+poems around this
+time of year. {PAUSE}{EOM}
+
+Message 157:
+I like to sing
+poems I write. {PAUSE}{WIPE}
+That's when I can
+feel the melody of
+nature. {PAUSE}{WIPE}
+That's what
+songs are, the
+voice of nature. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 158:
+Everything seems to
+look amber color
+in this season. {PAUSE}{EOM}{EOM}
+
+Message 159:
+If you go to the
+eastern mountains
+you can see some {PAUSE}
+beautiful yellow
+stars. {PAUSE}{WIPE}
+They can be hard
+to see sometimes,
+though... {PAUSE}{EOM}{EOM}
+
+Message 160:
+This is the time of
+year where you can
+hear everything {PAUSE}
+very clearly
+and crisply. {PAUSE}{EOM}{EOM}
+
+Message 161:
+This is the time
+of year when
+everything is quiet. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+This is the season
+when the stars
+are the best. {PAUSE}{WIPE}
+Especially the
+blue stars above
+the waterfall. {PAUSE}{WIPE}
+They shine with
+a mystic beauty to
+them... {PAUSE}{EOM}{EOM}
+
+Message 163:
+Wasn't that a
+good song?
+{CHOICE3 DEF1}
+It was.
+Not really.
+The guitar was nice.{EOM}{EOM}{EOM}
+
+Message 164:
+{FACE_140003}I'm happy you
+think that. {PAUSE}{WIPE}
+That's one of my
+favorite songs too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+Well, it takes all
+kinds of tastes
+in music... {PAUSE}{EOM}{EOM}
+
+Message 166:
+{FACE_140003}Ha ha ha...
+I was just playing
+for fun, but {PAUSE}
+I'm still happy to
+hear you liked it. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 167:
+Would you mind if
+we sang together? {PAUSE}{WIPE}
+The words don't
+matter, just the
+melody. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+{FACE_140003}That feels good... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 169:
+♪La la la la la♪
+♪Lu lu lu lu lu♪{PAUSE}{EOM}{EOM}
+
+Message 170:
+Lumina's piano
+is nice. {PAUSE}{WIPE}
+She really adds
+a personal touch
+to it... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 171:
+Lumina's piano
+is nice.
+She's very talented. {PAUSE}{WIPE}
+I was fortunate
+enough to listen
+to her play. {PAUSE}{EOM}{EOM}
+
+Message 172:
+If Lumina practices,
+she'll get better. {PAUSE}{WIPE}
+That's all there
+is to it. {PAUSE}{WIPE}
+I think she could
+become a great
+pianist someday. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 173:
+It feels wrong to
+hear such good music
+for free. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 174:
+I love to hear
+piano even if I
+can't play it. {PAUSE}{EOM}{EOM}
+
+Message 175:
+Since I came here I
+try to listen to as
+much piano as I can. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 176:
+Cody's art is
+interesting. {PAUSE}{WIPE}
+You can feel his
+strength... {PAUSE}{WIPE}
+You can also feel
+his gentleness... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 177:
+Don't look at art
+trying to understand
+the meaning. {PAUSE}{WIPE}
+Just look and feel
+the meaning on
+your own. {PAUSE}{EOM}{EOM}
+
+Message 178:
+It's hard to do
+that. {PAUSE}{WIPE}
+That's what makes
+Cody so good. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 179:
+When I look at
+Cody's work my mind
+gets flooded with {PAUSE}
+ideas for lots of
+songs. {PAUSE}{EOM}
+
+Message 180:
+Nina is a nice
+person.. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+I wanted Nina to
+hear one of my
+songs... {PAUSE}{EOM}{EOM}
+
+Message 182:
+I come to see
+Nina sometimes. {PAUSE}{EOM}
+
+Message 183:
+You came at just
+the right time. {PAUSE}{WIPE}
+I'm not usually
+at home, but you
+caught me. {PAUSE}{EOM}{EOM}
+
+Message 184:
+You seem to like
+music too... {PAUSE}{WIPE}
+Then again everyone
+who comes hear likes
+music. {PAUSE}{WIPE}
+{FACE_140003}That reminds me.
+Here, take this. {PAUSE}
+It's a drum I found
+while traveling from
+place to place. {PAUSE}{WIPE}
+It's a little
+strange... {PAUSE}{WIPE}
+If you talk to
+people while you
+carry it, it'll start{PAUSE}
+playing by itself. {PAUSE}{WIPE}
+It's yours now,
+so try it out. {PAUSE}{EOM}
+
+Message 185:
+Thanks, but I guess
+some other time.{PAUSE}{EOM}
+
+Message 186:
+I'm going to bed... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 187:
+I'm about to sleep,
+so please go home? {PAUSE}{EOM}
+
+Message 188:
+Good night... {PAUSE}{EOM}
+
+Message 189:
+I'm on my way
+out... {PAUSE}{EOM}{EOM}
+
+Message 190:
+No time to talk,
+gotta run! {PAUSE}{EOM}
+
+Message 191:
+So long... {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,1428 @@
+Message 0:
+{FACE_0D0004}Sorry I'm busy now.{PAUSE}{WIPE}
+{KATE} is always
+picking on me. {PAUSE}{WIPE}
+How am I supposed to
+keep any face at
+all with her? {PAUSE}{WIPE}
+I know!
+I need to get
+stronger! {PAUSE}{WIPE}
+Then she won't be
+able to pick on me. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+I'm going to train
+harder and grow
+stronger!{PAUSE}{EOM}{EOM}
+
+Message 2:
+You let me win
+this time. {PAUSE}{WIPE}
+We'll compete
+again some other
+time. {PAUSE}{WIPE}
+I look forward
+to it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+{FACE_0D001A}K-kate...
+I need to talk
+to you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+{FACE_0D001A}Um...
+We've been together
+a long time, right? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+{FACE_0D001A}Right.... {PAUSE}{WIPE}
+Y-y-you think we'd
+be happy if we ever
+got married. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+{FACE_0D0009}K-kate... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+{FACE_0D0007}I never said I
+liked you or
+anything like that!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+{FACE_0D0004}No! I said NO! {PAUSE}{EOM}
+
+Message 9:
+{FACE_0D0007}Dad always cuts my
+hair funny, so
+{KATE} teases me
+for it! {PAUSE}{WIPE}
+She calls me
+"Onion Head"! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+{FACE_0D0007}I don't know!
+I can't stand it!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+{FACE_0D0007}I hate you, Dad! {PAUSE}{EOM}
+
+Message 12:
+I won't lose to
+{KATE}! {PAUSE}{WIPE}
+{TATSUYA}, let's
+do it!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+{FACE_0D0009}Oh!
+Wait!
+{KATE} cheated! {PAUSE}{EOM}
+
+Message 14:
+{FACE_0D0000}You surprised me!
+{FACE_0D0019}When did you get
+here?
+{CHOICE2 DEF0}
+Just now.
+A little before.{EOM}{EOM}{EOM}
+
+Message 15:
+Thank goodness.
+It's okay then. {PAUSE}{WIPE}
+Oh, nothing,
+nothing at all. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{FACE_0D001A}W-w-what?
+Y-you were? {PAUSE}{WIPE}
+D-did you hear me
+talking to myself?
+{CHOICE2 DEF0}
+Not at all...
+Ah...Not really.{EOM}{EOM}
+
+Message 17:
+{FACE_0D0002}That's kind of
+suspicious...{PAUSE}
+Are you sure you
+didn't hear anything?
+{CHOICE2 DEF0}
+Really, nothing.
+R-r-really, nothing.{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+{FACE_0D0004}I don't believe you!
+Are you really really
+sure?
+{CHOICE2 DEF0}
+Really really sure.
+Something bout {KATE}?{EOM}{EOM}{EOM}
+
+Message 19:
+{FACE_0D0009}Ahh...you heard?{PAUSE}{WIPE}
+{FACE_0D001A}I-i-it's not like
+I like her or...
+anything...
+{CHOICE2 DEF0}
+Is that so...
+Really?{EOM}{EOM}
+
+Message 20:
+{FACE_0D0004}Yeah that's so!
+Duh! {PAUSE}{EOM}
+
+Message 21:
+{FACE_0D0000}She's picking on me
+right now, but I'll
+show her someday!{PAUSE}{WIPE}
+{FACE_0D0002}Ah!{S_3202BC}{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+{FACE_0D001A}But don't tell
+{KATE} what I just
+said, okay?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 23:
+{FACE_0D001A}Mmm... But I can't
+say that I don't
+care about her...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+{FACE_0D0004}W-what do you mean?
+I don't care about
+{KATE} at all!!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 25:
+{FACE_0D0019}Pant...pant...
+That was close...{PAUSE}{WIPE}
+Pant pant pant...
+He's pretty fast...
+Pant pant...{PAUSE}{EOM}{EOM}
+
+Message 26:
+I wish someone would
+be the starter... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+Dad shouldn't
+push himself too
+hard... {PAUSE}{WIPE}
+He's all old and
+decrepit... {S_3203E8}
+Ha ha ha... {PAUSE}{EOM}{EOM}
+
+Message 28:
+Hey... {PAUSE}{EOM}{EOM}
+
+Message 29:
+Hey, mister? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 30:
+Psst, over here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+Mister, over
+here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+Hey Mister, what
+are you doing here? {PAUSE}{WIPE}
+I see Van here all
+the time here,
+but you...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+There's nothing
+here that I like. {PAUSE}{EOM}
+
+Message 34:
+I'm just taking
+a look around. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+Not really anything
+good here... {PAUSE}{EOM}{EOM}
+
+Message 36:
+I said I was just
+looking... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+I want that
+{VAR_00}.
+How much?
+{CHOICE3 DEF2}
+For you? {GOLD_0105}G.
+{GOLD_0205}G.
+Not for sale.{EOM}
+
+Message 38:
+{FACE_0D000A}Oh, really?
+Too bad I don't
+have any money. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+{FACE_0D000A}Oh, really? {PAUSE}{WIPE}
+I guess I can buy
+it with what little
+allowance I have. {PAUSE}{EOM}{EOM}
+
+Message 40:
+I might be able
+to buy something
+at that price. {PAUSE}{EOM}
+
+Message 41:
+{FACE_0D0009}But...
+How can I buy it?
+I don't have money. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+Um... {PAUSE}{WIPE}
+I don't have money
+right now, so never
+mind about that. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+I'll take it. {PAUSE}{EOM}{EOM}
+
+Message 44:
+It's that much!?
+I'm gonna go tell
+my Dad. {PAUSE}{EOM}{EOM}
+
+Message 45:
+Never mind then... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+Okay... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+How much for the
+{VAR_00}?
+{CHOICE3 DEF2}
+For you? {GOLD_0105}G.
+{GOLD_0205}G.
+Not for sale.{EOM}{EOM}
+
+Message 48:
+I can't buy anything
+because I don't have
+any money. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+That's enough for
+me... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+Hey, Mr. Farmer! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+{FACE_0D0009}What? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+{FACE_0D0009}...Haaa... {PAUSE}{EOM}{EOM}
+
+Message 53:
+{FACE_0D0009}......... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+{S_340149}Good morning. {PAUSE}{EOM}{EOM}
+
+Message 55:
+{S_34014C}Good morning. {PAUSE}{EOM}{EOM}
+
+Message 56:
+Hello. {PAUSE}{EOM}{EOM}
+
+Message 57:
+Good evening. {PAUSE}{EOM}
+
+Message 58:
+What are you doing
+up so late at
+night? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+Is something wrong? {PAUSE}{EOM}{EOM}
+
+Message 60:
+Why are you up
+so late at night? {PAUSE}{EOM}
+
+Message 61:
+What are you doing
+at this time of
+night? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+Did you come to
+play? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{S_34014C}Hola... {PAUSE}{EOM}
+
+Message 64:
+Do you like it
+here too? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+{FACE_0D000A}That's my favorite!
+Can I take it?
+{CHOICE2 DEF1}
+Sure.
+Not this time.{EOM}
+
+Message 66:
+{FACE_0D000A}Yeah, thanks Mister. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+{S_34014B}{FACE_0D000A}Heh heh.
+Thank you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+{FACE_0D0002}That's so lame.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+Oh, fine. {PAUSE}{EOM}
+
+Message 70:
+{FACE_0D000A}Can I have it?
+{CHOICE2 DEF1}
+Okay.
+Nope.{EOM}{EOM}
+
+Message 71:
+That looks yummy. {PAUSE}{EOM}{EOM}
+
+Message 72:
+{FACE_0D000A}That looks so good...
+So good...
+Hey, can I have it?
+{CHOICE2 DEF1}
+Sure you can.
+Nope.{EOM}{EOM}{EOM}
+
+Message 73:
+That's so good... {PAUSE}{EOM}{EOM}
+
+Message 74:
+{FACE_0D0009}Ick! What the...?
+It's yucky... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+{FACE_0D0009}Don't bring me
+yucky things. {PAUSE}{EOM}{EOM}
+
+Message 76:
+{FACE_0D0009}That looks really
+bad... {PAUSE}{EOM}
+
+Message 77:
+{FACE_0D0009}Ick, get that away
+from me... {PAUSE}{EOM}
+
+Message 78:
+{FACE_0D0009}I don't like that
+stuff... {PAUSE}{EOM}{EOM}
+
+Message 79:
+{FACE_0D0009}Where did you get
+that from...? {PAUSE}{EOM}
+
+Message 80:
+Let's run together
+when you get bigger. {PAUSE}{EOM}{EOM}
+
+Message 81:
+There's no other
+boys around here, so
+I'll be your friend. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+Watch out for Kate.
+She's a bully.
+Keep that a secret. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+Hurry up and get
+bigger so we can
+play together. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+It must be nice to
+have a dog... {PAUSE}{EOM}
+
+Message 85:
+That dog doesn't get
+any bigger. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+Oh, kitty...
+I want to hold him. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+Cats are just so
+cool... {PAUSE}{EOM}{EOM}
+
+Message 88:
+What's going on
+Mr. Chicken? {PAUSE}{EOM}{EOM}
+
+Message 89:
+{FACE_0D0019}Chickens and me
+don't mix too
+well... {PAUSE}{EOM}{EOM}
+
+Message 90:
+It's a duck.
+They're cuter than
+the chickens. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+What's that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 92:
+Is that some
+kind of seed? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+Did you grow that,
+Mister? {PAUSE}{WIPE}
+You can eat it,
+right...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+Dad always says how
+fresh crops are good
+for your body. {PAUSE}{EOM}{EOM}
+
+Message 95:
+{FACE_0D0019}Truthfully?
+I don't really like
+veggies much. {PAUSE}{EOM}{EOM}
+
+Message 96:
+Hey mister!
+Got milk?
+Ha ha!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+I never used to like
+cheese because it
+smelled funny, {PAUSE}
+but lately I find
+myself suddenly
+liking cheese. {PAUSE}{EOM}
+
+Message 98:
+Behold the power of
+cheese! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+Mister, did you make
+that butter? {PAUSE}{EOM}
+
+Message 100:
+Did you make that
+butter on your
+farm? {PAUSE}{EOM}
+
+Message 101:
+Butter tastes
+yummy...? {PAUSE}{EOM}{EOM}
+
+Message 102:
+If you warm that
+egg, will a chick
+come out of it? {PAUSE}{EOM}
+
+Message 103:
+I like fried
+eggs... {PAUSE}{EOM}
+
+Message 104:
+I like omelets... {PAUSE}{EOM}{EOM}
+
+Message 105:
+If you walk around
+with an egg, you
+might break it. {PAUSE}{EOM}{EOM}
+
+Message 106:
+Can you actually
+eat that...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+Sometimes I see that
+when I'm running. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+What's that?
+It's for cultivating
+earth...? {PAUSE}{EOM}
+
+Message 109:
+I've seen stuff
+like that in
+farm fields before.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 110:
+What's with that? {PAUSE}{EOM}{EOM}
+
+Message 111:
+That's a dirty
+tool... {PAUSE}{EOM}
+
+Message 112:
+That's a nice
+clean hoe. {PAUSE}{EOM}{EOM}
+
+Message 113:
+That's just a
+normal hoe. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+Where are you gonna
+go with that? {PAUSE}{EOM}{EOM}
+
+Message 115:
+{FACE_0D0019}What is that?
+It's kind of
+scary... {PAUSE}{EOM}{EOM}
+
+Message 116:
+Don't go spinning
+that around. {PAUSE}{EOM}{EOM}
+
+Message 117:
+Using a sickle looks
+difficult. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+That's a well used
+sickle. {PAUSE}{EOM}{EOM}
+
+Message 119:
+What are you going
+to do with that
+watering can? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+Do you want to
+have a water fight?{PAUSE}{EOM}{EOM}
+
+Message 121:
+What is that? {PAUSE}{EOM}{EOM}
+
+Message 122:
+That's a strange
+machine... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 123:
+Oh, I've had my
+hair cut by those
+before. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+It really hurt
+my head. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+Whoa! If you use
+that on someone's
+head... {PAUSE}{WIPE}
+I don't want to
+think of what would
+happen... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+Those are big
+shears. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 127:
+Are you going to
+cut my hair? {PAUSE}{WIPE}
+It looks like it
+will hurt... {PAUSE}{EOM}
+
+Message 128:
+I'm not too up
+on all this tool
+stuff. {PAUSE}{EOM}{EOM}
+
+Message 129:
+...... {PAUSE}{EOM}{EOM}
+
+Message 130:
+That stone isn't
+that pretty. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 131:
+There are all sorts
+of different color
+stones. {PAUSE}{EOM}
+
+Message 132:
+Did you get that
+from near the
+waterfall...? {PAUSE}{EOM}
+
+Message 133:
+I'll take a look
+at it, if they're
+old coins... {PAUSE}{EOM}
+
+Message 134:
+That's a pretty
+flower. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 135:
+That reminds me of
+the discus throw...{PAUSE}{EOM}
+
+Message 136:
+That's my Dad's
+medal isn't it? {PAUSE}{WIPE}
+Why would he
+give that away? {PAUSE}{EOM}{EOM}
+
+Message 137:
+Dad was so proud of
+that medal. {PAUSE}{EOM}{EOM}
+
+Message 138:
+That's the medal
+my Dad always had.
+Why would you...? {PAUSE}{EOM}
+
+Message 139:
+That medal was my
+Dad's keepsake... {PAUSE}{EOM}
+
+Message 140:
+That's a pretty
+medal. {PAUSE}{EOM}
+
+Message 141:
+I wonder why he
+let it go... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+What's that?
+Do you wear it on
+your neck? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 143:
+It's pretty...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+I train with my
+Dad everyday. {PAUSE}{EOM}
+
+Message 145:
+I get tired of
+always running
+everyday. {PAUSE}{EOM}{EOM}
+
+Message 146:
+It's important to
+train every day for
+the best results. {PAUSE}{EOM}
+
+Message 147:
+I don't have any
+friends around here. {PAUSE}{EOM}{EOM}
+
+Message 148:
+{FACE_0D0019}I don't get along
+well with Kate from
+next door... {PAUSE}{WIPE}
+She always picks
+on me... {PAUSE}{EOM}
+
+Message 149:
+Kate always picked
+on me. {PAUSE}{WIPE}
+Now...
+Well we get along
+okay, I guess. {PAUSE}{EOM}
+
+Message 150:
+Everyday I train in
+hope that I will
+surpass my Dad. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 151:
+Someday I'll
+surpass my Dad
+as an athlete. {PAUSE}{EOM}
+
+Message 152:
+I used to always run
+behind my Dad, but
+now there is no one {PAUSE}
+running in front of
+me... {PAUSE}{WIPE}
+It makes me feel
+kind of lonely... {PAUSE}{EOM}{EOM}
+
+Message 153:
+I heard that the
+farmer in Mineral
+Town is rich. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+I heard the farmer
+in Mineral Town
+is a real nice guy. {PAUSE}{EOM}
+
+Message 155:
+That guy {VAR_00}
+has grown a lot of
+vegetables. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+I heard the guy in
+Mineral Town is
+nice to his animals. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+The farmer in
+Mineral Town is
+always mining. {PAUSE}{EOM}
+
+Message 158:
+{VAR_00} of
+Mineral Town has
+caught many fish. {PAUSE}{WIPE}
+I'm sure he's
+never caught any
+of OUR fish though. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+{VAR_00} of
+Mineral Town likes
+to walk a lot. {PAUSE}{EOM}{EOM}
+
+Message 160:
+I heard the farmer
+in Mineral Town
+has great luck {PAUSE}
+when he goes out
+to fish. {PAUSE}{EOM}
+
+Message 161:
+{VAR_00} of
+Mineral Town has
+really bad taste. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+There's someone in
+Mineral Town who owns
+3 vacation houses. {PAUSE}{EOM}
+
+Message 163:
+Hey do you know
+about the Mystic
+Tools? {PAUSE}{WIPE}
+I heard they exist
+in Mineral Town. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 164:
+{FACE_0D0009}The food you gave
+me before was
+really yucky. {PAUSE}{WIPE}
+I don't want anymore
+like that please. {PAUSE}{EOM}{EOM}
+
+Message 165:
+The {VAR_00} was
+really good. {PAUSE}{EOM}{EOM}
+
+Message 166:
+{FACE_0D000A}The {VAR_00}
+tasted really good. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 167:
+The milk the other
+day was good.{PAUSE}{EOM}
+
+Message 168:
+The milk I had
+before looked like
+it was good for me. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 169:
+{FACE_0D000A}The milk I had
+before tasted yummy. {PAUSE}{EOM}{EOM}
+
+Message 170:
+{FACE_0D000A}I really LOVED the
+milk I had last time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+The milk I had
+before had a strange
+taste to it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+I'm not big on
+cheese but I liked
+the one you gave me. {PAUSE}{EOM}{EOM}
+
+Message 173:
+That cheese you gave
+me before was too
+much for me. {PAUSE}{EOM}{EOM}
+
+Message 174:
+I couldn't handle
+the cheese I got
+before. {PAUSE}{EOM}
+
+Message 175:
+{FACE_0D000A}The butter I had
+last time was very
+yummy. {PAUSE}{EOM}{EOM}
+
+Message 176:
+The butter I had
+before smelled. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 177:
+The butter I had
+before was yummy. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+The dish I had
+before was
+yummy. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+{FACE_0D000A}The fish you caught
+and gave me before
+was yummy. {PAUSE}{EOM}
+
+Message 180:
+The fish you caught
+and gave me before
+was yummy. {PAUSE}{EOM}
+
+Message 181:
+{FACE_0D000A}The wild plants
+you gave me before
+were yummy. {PAUSE}{EOM}{EOM}
+
+Message 182:
+The wild plant you
+gave me before was
+yummy. {PAUSE}{EOM}{EOM}
+
+Message 183:
+The food I had
+last time...
+It was good. {PAUSE}{EOM}{EOM}
+
+Message 184:
+Dad said you've
+become a great
+farmer. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+Dad said you've
+become a great
+farmer. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+Dad said you're good
+at growing crops. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+Dad said you're good
+at growing crops. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+I heard you're
+good at cooking. {PAUSE}{EOM}
+
+Message 189:
+I heard you're
+working hard on
+your farm. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+They say you're
+working hard in
+the fields. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 191:
+I heard you cook
+a lot at home. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+Looks like you're
+getting the hang
+of farming. {PAUSE}{EOM}
+
+Message 193:
+Looks like you're
+getting the hang
+of field work. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+Looks like you're
+getting the hang
+of cooking. {PAUSE}{EOM}
+
+Message 195:
+I'm training with
+all my might to
+become one of {PAUSE}
+the top athletes
+when I get older. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+{FACE_0D0002}Everyday it's just
+"run run run". {PAUSE}{EOM}
+
+Message 197:
+Lately, I've been
+understanding my
+old man more. {PAUSE}{WIPE}
+Now I enjoy when
+we go out running
+together. {PAUSE}{EOM}
+
+Message 198:
+I guess my Dad is
+getting old, huh? {PAUSE}{WIPE}
+He's been ditching
+jogging lately. {PAUSE}{WIPE}
+Guess he's going to
+retire... {PAUSE}{EOM}
+
+Message 199:
+My Dad uses those
+machines to work-out
+everyday. {PAUSE}{WIPE}
+I can't use them
+yet, I'm too small. {PAUSE}{WIPE}
+Sometimes my Mom
+uses them for her
+diet too. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 200:
+My Dad is grooming
+me to be a great
+athlete, but there {PAUSE}
+are other things
+that I want to do
+as well. {PAUSE}{EOM}
+
+Message 201:
+My Mom told me that
+my Dad was really
+cool when he used to{PAUSE}
+be a marathon runner. {PAUSE}{WIPE}
+That's when my Mom
+fell in love...
+Keep that a secret...{PAUSE}{EOM}
+
+Message 202:
+My Mom is still an
+announcer, but her
+voice is kind of{PAUSE}
+annoying sometimes.
+Ha ha.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 203:
+{FACE_0D0019}Kate always calls me
+a cry-baby but I'm
+really not. {PAUSE}{WIPE}
+I think Kate's
+lonely so I play
+with her. {PAUSE}{WIPE}
+Really. {PAUSE}{EOM}
+
+Message 204:
+Do children always
+have to listen to
+their parents?
+{CHOICE2 DEF1}
+Of course.
+Not always.{EOM}
+
+Message 205:
+{FACE_0D0002}You're just like
+my Dad. {PAUSE}{WIPE}
+I feel bad for
+your kids, Mister.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+Do you really
+think so? {PAUSE}{WIPE}
+I guess you
+understand how
+I feel. {PAUSE}{EOM}{EOM}
+
+Message 207:
+My Dad was amazing
+when he was young. {PAUSE}{WIPE}
+I was surprised when
+I looked at his old
+running times. {PAUSE}{WIPE}
+I've got a long
+way to go still. {PAUSE}{EOM}{EOM}
+
+Message 208:
+I guess my Dad
+and Mom will keep
+working for a while.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+Let's run together.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 210:
+{FACE_0D0002}Adults are so
+selfish sometime... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 211:
+I wonder if all the
+female sports
+reporters want to{PAUSE}
+marry athletes?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 212:
+I hope my parents
+are doing well
+when I get married. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+Come play with
+me again. {PAUSE}{EOM}{EOM}
+
+Message 214:
+{FACE_0D0002}...... {PAUSE}{EOM}{EOM}
+
+Message 215:
+Maybe I should go
+search the town for
+a cute girl too... {PAUSE}{EOM}
+
+Message 216:
+Won't somebody
+introduce me to a
+nice bride... {PAUSE}{EOM}
+
+Message 217:
+I'm no crybaby. {PAUSE}{EOM}{EOM}
+
+Message 218:
+Dad doesn't drink,
+but occasionally
+I like to come here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 219:
+Running isn't
+everything. {PAUSE}{WIPE}
+There's so much
+more fun things
+you can do... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 220:
+I feel good... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 221:
+Let's play a game!
+Are you ready? {PAUSE}{WIPE}
+Rock scissors paper!
+shoot! {PAUSE}{WIPE}
+{FACE_0D0009}Darn!
+Aw man, I won't
+lose next time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 222:
+Let's play a game!
+Are you ready? {PAUSE}{WIPE}
+Call it in the air!
+Heads or tails! {PAUSE}{WIPE}
+{FACE_0D0009}Darn!
+Aw man, I won't
+lose next time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 223:
+Want to try lifting
+a barbell? {PAUSE}{WIPE}
+{S_34014E}Ha ha ha...
+I was kidding. {PAUSE}{WIPE}
+You couldn't lift
+it anyway. {PAUSE}{EOM}
+
+Message 224:
+Let's play a game!
+Are you ready. {PAUSE}{WIPE}
+Rock scissors paper!
+shoot! {PAUSE}{WIPE}
+{FACE_0D0009}Darn!
+Aw man, I won't
+lose next time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+Let's play a game!
+Are you ready? {PAUSE}{WIPE}
+Thumb-wrestling
+time! {PAUSE}
+{FACE_0D0009}Darn!
+Aw man, I won't
+lose next time. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 226:
+My Dad likes to
+work out a lot. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+Let's play a game!
+Are you ready? {PAUSE}{WIPE}
+Rock scissors paper!
+shoot! {PAUSE}{WIPE}
+{FACE_0D0009}Darn!
+Aw man, I won't
+lose next time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 228:
+Let's play a game!
+Are you ready. {PAUSE}{WIPE}
+Rock scissors paper!
+shoot! {PAUSE}{WIPE}
+{FACE_0D0009}Darn!
+Aw man, I won't
+lose next time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 229:
+{FACE_0D0009}I'm not really very
+good at games
+I guess... {PAUSE}{EOM}{EOM}
+
+Message 230:
+Make yourself at
+home. {PAUSE}{EOM}
+
+Message 231:
+People say that
+spirits live in
+the north forest. {PAUSE}{WIPE}
+Nobody's ever
+seen them
+before, though... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 232:
+The waterfall feels
+nice and cool. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 233:
+It's fun to feel
+the rushing water
+of the waterfall. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 234:
+When it gets dark,
+you can see the
+stars above the sea. {PAUSE}{WIPE}
+It's really a very
+beautiful sight.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 235:
+Sometimes I see a
+huge turtle by
+the swamp... {PAUSE}{WIPE}
+I wonder where he
+goes when he's not
+in the swamp...? {PAUSE}{WIPE}
+He must dive into
+the swamp somewhere. {PAUSE}{EOM}{EOM}
+
+Message 236:
+This is a great
+season for running. {PAUSE}{EOM}{EOM}
+
+Message 237:
+The north words is
+strange. {PAUSE}{WIPE}
+There's some weird
+white haired thing
+in there... {PAUSE}{EOM}
+
+Message 238:
+Sometimes you can
+see strange things
+around here. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 239:
+Don't talk to me
+when I'm running. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 240:
+Dad may love running
+but everyday is just
+too much for me. {PAUSE}{EOM}
+
+Message 241:
+Do you need
+something? {PAUSE}{EOM}
+
+Message 242:
+You're interfering
+with my practice.
+Please go away. {PAUSE}{EOM}
+
+Message 243:
+My Dad will yell at
+you if you interfere
+with my practice. {PAUSE}{EOM}
+
+Message 244:
+Don't talk to me
+when I'm trying to
+practice. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 245:
+Sometimes I get to
+eat Grandma Nina's
+cooking. {PAUSE}{WIPE}
+It's really
+yummy. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 246:
+Dr. Hardy is pretty
+cool. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 247:
+Sometimes Dr. Hardy
+will give me a
+check up... {PAUSE}{WIPE}
+I guess it's like
+a yearly physical? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 248:
+Have you ever had
+Grandma Nina's
+cooking? {PAUSE}{EOM}{EOM}
+
+Message 249:
+Dr. Hardy is a little
+scary at first, but
+he's a nice guy. {PAUSE}{EOM}{EOM}
+
+Message 250:
+It's important for
+an athlete to watch
+his health. {PAUSE}{WIPE}
+That's what
+Dr. Hardy told me. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 251:
+It's interesting to
+see so many weird
+things around here. {PAUSE}{EOM}
+
+Message 252:
+Gustafa is really
+good at singing. {PAUSE}{WIPE}
+He only sings
+outside though. {PAUSE}{EOM}
+
+Message 253:
+Gustafa can play
+any instrument
+that's here. {PAUSE}{WIPE}
+He's so lucky
+to be able to
+do that... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 254:
+Sometimes I come
+here to relax. {PAUSE}{WIPE}
+I try to stay here
+too long though or
+I get crazy. {PAUSE}{WIPE}
+{S_34014E}I'm kidding... {PAUSE}{EOM}{EOM}
+
+Message 255:
+There's just lots
+of instruments
+here... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 256:
+I wish I could
+play instruments... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 257:
+I suddenly got the
+strangest feeling. {PAUSE}{EOM}
+
+Message 258:
+{FACE_0D0009}Grandma Nina went
+somewhere far away. {PAUSE}{WIPE}
+I wonder if she'll
+ever come back. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 259:
+I want to see
+Grandma again... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 260:
+{FACE_0D0004}Sorry I'm busy now.{PAUSE}{WIPE}
+{KATE} is always
+picking on me. {PAUSE}{WIPE}
+How am I supposed to
+keep any face at
+all with her? {PAUSE}{WIPE}
+I know!
+I need to get
+stronger! {PAUSE}{WIPE}
+Then she won't be
+able to pick on me. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 261:
+{FACE_0D0004}Must get stronger...{PAUSE}{EOM}
+
+Message 262:
+{FACE_0D0004}Sorry, I'm busy.{PAUSE}{EOM}
+
+Message 263:
+Want to play a game?
+Let's have a
+drinking race.
+{CHOICE2 DEF1}
+Bring it on.
+No thanks.{EOM}{EOM}{EOM}
+
+Message 264:
+Rock and Grant race
+too, but I'm sure
+I'm the best. {PAUSE}{EOM}{EOM}
+
+Message 265:
+OK, we'll meet in
+the kitchen. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 266:
+Okay, well I'll
+look forward to
+the next time. {PAUSE}{EOM}{EOM}
+
+Message 267:
+The food here is
+great. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+Thanks.
+But I can't right
+now. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 269:
+Mister... {S_3203E8}{PAUSE}
+Thank you for
+everything... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 270:
+{GRIFFIN} do you
+have a good song for
+times like this? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 271:
+I'm going to bed... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 272:
+I'm going to go
+sleep now, so can
+you go home? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 273:
+Good night. {PAUSE}{EOM}
+
+Message 274:
+I have to leave
+soon... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 275:
+I really need to
+get out of here... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 276:
+See ya... {PAUSE}{EOM}
+
+Message 277:
+I can't believe
+I lost... {S_3202BC}{PAUSE}{WIPE}
+I'll practice more,
+and then next time
+you're mine! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 278:
+That was fun. {S_3202BC}{PAUSE}{WIPE}
+I won this time,
+but I hope we can
+race again sometime. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

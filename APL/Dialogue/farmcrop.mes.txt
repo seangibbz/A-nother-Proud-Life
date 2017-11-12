@@ -1,0 +1,255 @@
+Message 0:
+♥{EOM}{EOM}
+
+Message 1:
+Tomato{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+Watermelon{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+Strawberry{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+Melon{EOM}{EOM}
+
+Message 5:
+Gretoma{EOM}{EOM}
+
+Message 6:
+Berrytoma{EOM}{EOM}
+
+Message 7:
+Melotoma{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+Berryber{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+Melober{EOM}{EOM}
+
+Message 10:
+Berryto{EOM}{EOM}
+
+Message 11:
+Trady{EOM}{EOM}
+
+Message 12:
+Tomaca{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+Raury{EOM}{EOM}
+
+Message 14:
+Cabber{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+Dhibe{EOM}{EOM}
+
+Message 16:
+Caberry{EOM}{EOM}
+
+Message 17:
+Dhilon{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+Camelo{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Layer1{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+Layer2{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+Layer3{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+Layer4{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+Layer5{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+Layer11{EOM}{EOM}
+
+Message 25:
+Layer12{EOM}{EOM}
+
+Message 26:
+Layer13{EOM}{EOM}
+
+Message 27:
+Layer14{EOM}{EOM}
+
+Message 28:
+Layer19{EOM}{EOM}
+
+Message 29:
+Layer20{EOM}{EOM}
+
+Message 30:
+Layer21{EOM}{EOM}
+
+Message 31:
+Layer22{EOM}{EOM}
+
+Message 32:
+Turnip{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+Potato{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+Carrot{EOM}{EOM}{EOM}{EOM}
+
+Message 35:
+Sweet Potato{EOM}
+
+Message 36:
+Radita{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+Cady{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+Kandy{EOM}{EOM}
+
+Message 39:
+Tataro{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+Bashota{EOM}{EOM}
+
+Message 41:
+Kanro{EOM}{EOM}
+
+Message 42:
+Tobatama{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+Yamato{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+Bashber{EOM}{EOM}
+
+Message 45:
+Kashry{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+Paberryta{EOM}{EOM}
+
+Message 47:
+Berryto{EOM}{EOM}
+
+Message 48:
+Potamelo{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+Sholo{EOM}{EOM}
+
+Message 50:
+Layer6{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+Layer7{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+Layer8{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+Layer9{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+Layer15{EOM}{EOM}
+
+Message 55:
+Layer16{EOM}{EOM}
+
+Message 56:
+Layer17{EOM}{EOM}
+
+Message 57:
+Layer18{EOM}{EOM}
+
+Message 58:
+Layer23{EOM}{EOM}
+
+Message 59:
+Layer24{EOM}{EOM}
+
+Message 60:
+Layer25{EOM}{EOM}
+
+Message 61:
+Peach{EOM}{EOM}
+
+Message 62:
+Orange{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+Grapes{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+Banana{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+Apple{EOM}{EOM}
+
+Message 66:
+Lanmuge{EOM}{EOM}
+
+Message 67:
+Jurum{EOM}{EOM}
+
+Message 68:
+Magerum{EOM}{EOM}
+
+Message 69:
+Phurum{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+Orahge{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+Magenge{EOM}{EOM}
+
+Message 72:
+Oraphu{EOM}{EOM}{EOM}{EOM}
+
+Message 73:
+Gehju{EOM}{EOM}
+
+Message 74:
+Phuju{EOM}{EOM}
+
+Message 75:
+Appage{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+Layer1{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+Layer2{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+Layer3{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+Layer4{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+Layer5{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+Layer6{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+Layer7{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+Layer8{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+Layer9{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

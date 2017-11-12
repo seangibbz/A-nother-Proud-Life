@@ -1,0 +1,1029 @@
+Message 0:
+です{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+ですか{EOM}{EOM}
+
+Message 2:
+だ{EOM}{EOM}
+
+Message 3:
+あなた{EOM}{EOM}
+
+Message 4:
+ぼうや{EOM}{EOM}
+
+Message 5:
+おくさん{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+こんにちは{EOM}{EOM}
+
+Message 7:
+ちゅ{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+ちゅか{EOM}{EOM}
+
+Message 9:
+ちゅよっ!{EOM}{EOM}
+
+Message 10:
+と—たん{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+ぼく{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+か—たん{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+やぁ{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+{PH_0000}{EOM}
+
+Message 15:
+{PH_0001}{EOM}
+
+Message 16:
+{PH_0000}{EOM}
+
+Message 17:
+{PETE}さん{EOM}{EOM}
+
+Message 18:
+{PH_0004}{EOM}
+
+Message 19:
+{PH_0005}{EOM}
+
+Message 20:
+{PH_0006}{EOM}
+
+Message 21:
+{PH_0000}{EOM}
+
+Message 22:
+{PH_0001}{EOM}
+
+Message 23:
+{PH_0000}{EOM}
+
+Message 24:
+{PH_0003}{EOM}
+
+Message 25:
+{PH_0004}{EOM}
+
+Message 26:
+{PH_0005}{EOM}
+
+Message 27:
+{PH_0006}{EOM}
+
+Message 28:
+だよ{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+かい{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+だ{EOM}{EOM}
+
+Message 31:
+あんた{EOM}{EOM}
+
+Message 32:
+{PH_0004}{EOM}
+
+Message 33:
+{PH_0005}{EOM}
+
+Message 34:
+やあ{EOM}{EOM}{EOM}{EOM}
+
+Message 35:
+モイ{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+モイ{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+モイモイ{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+おまえ{EOM}{EOM}
+
+Message 39:
+ちいさいの{EOM}{EOM}
+
+Message 40:
+{PH_0005}{EOM}
+
+Message 41:
+モイモイモイ{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+だ{EOM}{EOM}
+
+Message 43:
+かね{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+だ{EOM}{EOM}
+
+Message 45:
+キミ{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+{PH_0004}{EOM}
+
+Message 47:
+{PH_0005}{EOM}
+
+Message 48:
+{PH_0006}{EOM}
+
+Message 49:
+だ{EOM}{EOM}
+
+Message 50:
+か{EOM}{EOM}
+
+Message 51:
+じゃ{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+オマエ{EOM}{EOM}
+
+Message 53:
+0子{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+{PH_0005}{EOM}
+
+Message 55:
+よう{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{PH_0000}{EOM}
+
+Message 57:
+{PH_0001}{EOM}
+
+Message 58:
+{PH_0002}{EOM}
+
+Message 59:
+{PH_0003}{EOM}
+
+Message 60:
+{PH_0004}{EOM}
+
+Message 61:
+{PH_0005}{EOM}
+
+Message 62:
+{PH_0006}{EOM}
+
+Message 63:
+{PH_0000}{EOM}
+
+Message 64:
+{PH_0001}{EOM}
+
+Message 65:
+{PH_0000}{EOM}
+
+Message 66:
+{PH_0003}{EOM}
+
+Message 67:
+{PH_0004}{EOM}
+
+Message 68:
+{PH_0005}{EOM}
+
+Message 69:
+{PH_0006}{EOM}
+
+Message 70:
+でございます{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+でございますか{EOM}{EOM}
+
+Message 72:
+{PH_0046}{EOM}
+
+Message 73:
+あなたさま{EOM}{EOM}
+
+Message 74:
+ぼっちゃん{EOM}{EOM}
+
+Message 75:
+{PH_0005}{EOM}
+
+Message 76:
+{PH_0006}{EOM}
+
+Message 77:
+だ{EOM}{EOM}
+
+Message 78:
+かい{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+だ{EOM}{EOM}
+
+Message 80:
+キミ{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+{PH_0004}{EOM}
+
+Message 82:
+{PH_0005}{EOM}
+
+Message 83:
+オッス{EOM}{EOM}
+
+Message 84:
+{PH_0000}{EOM}
+
+Message 85:
+{PH_0001}{EOM}
+
+Message 86:
+{PH_0000}{EOM}
+
+Message 87:
+{PH_0003}{EOM}
+
+Message 88:
+{PH_0004}{EOM}
+
+Message 89:
+{PH_0005}{EOM}
+
+Message 90:
+{PH_0006}{EOM}
+
+Message 91:
+だ{EOM}{EOM}
+
+Message 92:
+かい{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+だい{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+おじさん{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+{TATSUYA}くん{EOM}{EOM}
+
+Message 96:
+おばさん{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+こんちわ{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+{PH_0000}{EOM}
+
+Message 99:
+{PH_0001}{EOM}
+
+Message 100:
+{PH_0002}{EOM}
+
+Message 101:
+君{EOM}{EOM}
+
+Message 102:
+{PH_0004}{EOM}
+
+Message 103:
+{PH_0005}{EOM}
+
+Message 104:
+やあ どうも{EOM}{EOM}{EOM}{EOM}
+
+Message 105:
+どす{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+どすか{EOM}{EOM}
+
+Message 107:
+どすえ{EOM}{EOM}
+
+Message 108:
+あんさん{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+ぼんぼん{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+おかみさん{EOM}{EOM}
+
+Message 111:
+{PH_0006}{EOM}
+
+Message 112:
+だよ{EOM}{EOM}{EOM}{EOM}
+
+Message 113:
+なの{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+{PH_0070}{EOM}
+
+Message 115:
+おじさん{EOM}{EOM}{EOM}{EOM}
+
+Message 116:
+{PH_0004}{EOM}
+
+Message 117:
+おくさん{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+チワ~{EOM}{EOM}
+
+Message 119:
+じゃ{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+かな{EOM}{EOM}{EOM}{EOM}
+
+Message 121:
+じゃい{EOM}{EOM}
+
+Message 122:
+おまえさん{EOM}{EOM}
+
+Message 123:
+{PH_0004}{EOM}
+
+Message 124:
+{PH_0005}{EOM}
+
+Message 125:
+{PH_0006}{EOM}
+
+Message 126:
+{PH_0000}{EOM}
+
+Message 127:
+ですかぇ{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+{PH_0002}{EOM}
+
+Message 129:
+あんたさん{EOM}{EOM}
+
+Message 130:
+{PH_0004}{EOM}
+
+Message 131:
+{PH_0005}{EOM}
+
+Message 132:
+{PH_0006}{EOM}
+
+Message 133:
+だ{EOM}{EOM}
+
+Message 134:
+なのか{EOM}{EOM}
+
+Message 135:
+なのだ!{EOM}{EOM}{EOM}{EOM}
+
+Message 136:
+キミ{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+{PH_0004}{EOM}
+
+Message 138:
+{PH_0005}{EOM}
+
+Message 139:
+やあ{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+だ{EOM}{EOM}
+
+Message 141:
+かい{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+だ{EOM}{EOM}
+
+Message 143:
+キミ{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+{PH_0004}{EOM}
+
+Message 145:
+{PH_0005}{EOM}
+
+Message 146:
+やあ Ü:?{EOM}{EOM}{EOM}{EOM}
+
+Message 147:
+だ{EOM}{EOM}
+
+Message 148:
+か{EOM}{EOM}
+
+Message 149:
+だ{EOM}{EOM}
+
+Message 150:
+おまえ{EOM}{EOM}
+
+Message 151:
+{PH_0004}{EOM}
+
+Message 152:
+{PH_0005}{EOM}
+
+Message 153:
+ヨウ{EOM}{EOM}{EOM}{EOM}
+
+Message 154:
+ぢゃ{EOM}{EOM}{EOM}{EOM}
+
+Message 155:
+かえ{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+ぢゃい!{EOM}{EOM}{EOM}{EOM}
+
+Message 157:
+あんた{EOM}{EOM}
+
+Message 158:
+{PH_0004}{EOM}
+
+Message 159:
+{PH_0005}{EOM}
+
+Message 160:
+よう お若いの{EOM}{EOM}
+
+Message 161:
+ぢゃ{EOM}{EOM}{EOM}{EOM}
+
+Message 162:
+{PH_009B}{EOM}
+
+Message 163:
+{PH_009A}{EOM}
+
+Message 164:
+あんた{EOM}{EOM}
+
+Message 165:
+{PH_0004}{EOM}
+
+Message 166:
+{PH_0005}{EOM}
+
+Message 167:
+やあ お若いの{EOM}{EOM}
+
+Message 168:
+{PH_0000}{EOM}
+
+Message 169:
+{PH_0001}{EOM}
+
+Message 170:
+{PH_0002}{EOM}
+
+Message 171:
+{PH_0003}{EOM}
+
+Message 172:
+{PH_0004}{EOM}
+
+Message 173:
+{PH_0005}{EOM}
+
+Message 174:
+コンチワ~{EOM}{EOM}
+
+Message 175:
+や{EOM}{EOM}
+
+Message 176:
+でっか{EOM}{EOM}
+
+Message 177:
+でんがな{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+あんさん{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+ぼんぼん{EOM}{EOM}{EOM}{EOM}
+
+Message 180:
+おかみさん{EOM}{EOM}
+
+Message 181:
+まいど{EOM}{EOM}
+
+Message 182:
+だよ{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+かい{EOM}{EOM}{EOM}{EOM}
+
+Message 184:
+だ{EOM}{EOM}
+
+Message 185:
+キミ{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+{PH_0004}{EOM}
+
+Message 187:
+{PH_0005}{EOM}
+
+Message 188:
+やぁ{EOM}{EOM}{EOM}{EOM}
+
+Message 189:
+だ{EOM}{EOM}
+
+Message 190:
+かい{EOM}{EOM}{EOM}{EOM}
+
+Message 191:
+だ{EOM}{EOM}
+
+Message 192:
+オマエさん{EOM}{EOM}
+
+Message 193:
+{PH_0004}{EOM}
+
+Message 194:
+{PH_0005}{EOM}
+
+Message 195:
+オウ{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+{PH_0000}{EOM}
+
+Message 197:
+{PH_0001}{EOM}
+
+Message 198:
+{PH_0002}{EOM}
+
+Message 199:
+{PH_0003}{EOM}
+
+Message 200:
+{PH_0004}{EOM}
+
+Message 201:
+{PH_0005}{EOM}
+
+Message 202:
+{PH_0006}{EOM}
+
+Message 203:
+だ{EOM}{EOM}
+
+Message 204:
+かい{EOM}{EOM}{EOM}{EOM}
+
+Message 205:
+だ{EOM}{EOM}
+
+Message 206:
+あんた{EOM}{EOM}
+
+Message 207:
+ぼうや{EOM}{EOM}
+
+Message 208:
+{PH_0005}{EOM}
+
+Message 209:
+やぁ{EOM}{EOM}{EOM}{EOM}
+
+Message 210:
+だ{EOM}{EOM}
+
+Message 211:
+か{EOM}{EOM}
+
+Message 212:
+{PH_00D2}{EOM}
+
+Message 213:
+オマエ{EOM}{EOM}
+
+Message 214:
+{PH_0004}{EOM}
+
+Message 215:
+{PH_0005}{EOM}
+
+Message 216:
+おう{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+だ{EOM}{EOM}
+
+Message 218:
+か{EOM}{EOM}
+
+Message 219:
+だ{EOM}{EOM}
+
+Message 220:
+オマエ{EOM}{EOM}
+
+Message 221:
+ボウズ{EOM}{EOM}
+
+Message 222:
+{PH_0005}{EOM}
+
+Message 223:
+こんにちわ{EOM}{EOM}
+
+Message 224:
+{PH_0000}{EOM}
+
+Message 225:
+{PH_0001}{EOM}
+
+Message 226:
+{PH_0002}{EOM}
+
+Message 227:
+{PH_0003}{EOM}
+
+Message 228:
+{PH_0004}{EOM}
+
+Message 229:
+{PH_0005}{EOM}
+
+Message 230:
+{PH_0006}{EOM}
+
+Message 231:
+{PH_0000}{EOM}
+
+Message 232:
+{PH_0001}{EOM}
+
+Message 233:
+{PH_0002}{EOM}
+
+Message 234:
+{PH_0003}{EOM}
+
+Message 235:
+{PH_0004}{EOM}
+
+Message 236:
+{PH_0005}{EOM}
+
+Message 237:
+{PH_0006}{EOM}
+
+Message 238:
+{PH_0000}{EOM}
+
+Message 239:
+{PH_0001}{EOM}
+
+Message 240:
+{PH_0002}{EOM}
+
+Message 241:
+{PH_0003}{EOM}
+
+Message 242:
+{PH_0004}{EOM}
+
+Message 243:
+{PH_0005}{EOM}
+
+Message 244:
+{PH_0006}{EOM}
+
+Message 245:
+モフア{EOM}{EOM}
+
+Message 246:
+モフ{EOM}{EOM}{EOM}{EOM}
+
+Message 247:
+{PH_00F5}{EOM}
+
+Message 248:
+ウモ{EOM}{EOM}{EOM}{EOM}
+
+Message 249:
+ウモウモ{EOM}{EOM}{EOM}{EOM}
+
+Message 250:
+ウモウモモ{EOM}{EOM}
+
+Message 251:
+フガ—ッ{EOM}{EOM}{EOM}{EOM}
+
+Message 252:
+です{EOM}{EOM}{EOM}{EOM}
+
+Message 253:
+ですか{EOM}{EOM}
+
+Message 254:
+です{EOM}{EOM}{EOM}{EOM}
+
+Message 255:
+{PH_0003}{EOM}
+
+Message 256:
+{PH_0004}{EOM}
+
+Message 257:
+{PH_0005}{EOM}
+
+Message 258:
+{PH_0006}{EOM}
+
+Message 259:
+♥{EOM}{EOM}
+
+Message 260:
+♥{EOM}{EOM}
+
+Message 261:
+♥{EOM}{EOM}
+
+Message 262:
+♥{EOM}{EOM}
+
+Message 263:
+♥{EOM}{EOM}
+
+Message 264:
+♥{EOM}{EOM}
+
+Message 265:
+♥{EOM}{EOM}
+
+Message 266:
+やわ{EOM}{EOM}{EOM}{EOM}
+
+Message 267:
+かあ{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+わし{EOM}{EOM}{EOM}{EOM}
+
+Message 269:
+あんた{EOM}{EOM}
+
+Message 270:
+{PH_0004}{EOM}
+
+Message 271:
+{PH_0005}{EOM}
+
+Message 272:
+まいど~{EOM}{EOM}{EOM}{EOM}
+
+Message 273:
+ね{EOM}{EOM}
+
+Message 274:
+よね{EOM}{EOM}{EOM}{EOM}
+
+Message 275:
+よっ{EOM}{EOM}{EOM}{EOM}
+
+Message 276:
+とうちゃん{EOM}{EOM}
+
+Message 277:
+ボク{EOM}{EOM}{EOM}{EOM}
+
+Message 278:
+かあちゃん{EOM}{EOM}
+
+Message 279:
+おっは—{EOM}{EOM}{EOM}{EOM}
+
+Message 280:
+な{EOM}{EOM}
+
+Message 281:
+よな{EOM}{EOM}{EOM}{EOM}
+
+Message 282:
+ろ{EOM}{EOM}
+
+Message 283:
+とうさん{EOM}{EOM}{EOM}{EOM}
+
+Message 284:
+オレ{EOM}{EOM}{EOM}{EOM}
+
+Message 285:
+かあさん{EOM}{EOM}{EOM}{EOM}
+
+Message 286:
+あっ{EOM}{EOM}{EOM}{EOM}
+
+Message 287:
+な{EOM}{EOM}
+
+Message 288:
+よな{EOM}{EOM}{EOM}{EOM}
+
+Message 289:
+ろ{EOM}{EOM}
+
+Message 290:
+オヤジ{EOM}{EOM}
+
+Message 291:
+オレ{EOM}{EOM}{EOM}{EOM}
+
+Message 292:
+かあさん{EOM}{EOM}{EOM}{EOM}
+
+Message 293:
+やぁ{EOM}{EOM}{EOM}{EOM}
+
+Message 294:
+{PH_0000}{EOM}
+
+Message 295:
+{PH_0001}{EOM}
+
+Message 296:
+{PH_0002}{EOM}
+
+Message 297:
+{NICKNAME}{EOM}{EOM}{EOM}
+
+Message 298:
+{TATSUYA}{EOM}{EOM}
+
+Message 299:
+私{EOM}{EOM}
+
+Message 300:
+{PH_0006}{EOM}
+
+Message 301:
+{PH_0000}{EOM}
+
+Message 302:
+{PH_0001}{EOM}
+
+Message 303:
+{PH_0002}{EOM}
+
+Message 304:
+{NICKNAME}{EOM}{EOM}{EOM}
+
+Message 305:
+{TATSUYA}{EOM}{EOM}
+
+Message 306:
+私{EOM}{EOM}
+
+Message 307:
+{PH_0006}{EOM}
+
+Message 308:
+だ{EOM}{EOM}
+
+Message 309:
+かい{EOM}{EOM}{EOM}{EOM}
+
+Message 310:
+だ{EOM}{EOM}
+
+Message 311:
+{NICKNAME}{EOM}{EOM}{EOM}
+
+Message 312:
+{TATSUYA}{EOM}{EOM}
+
+Message 313:
+私{EOM}{EOM}
+
+Message 314:
+{PH_0022}{EOM}
+
+Message 315:
+{PH_0000}{EOM}
+
+Message 316:
+{PH_0001}{EOM}
+
+Message 317:
+{PH_0002}{EOM}
+
+Message 318:
+{PH_0003}{EOM}
+
+Message 319:
+{PH_0004}{EOM}
+
+Message 320:
+{PH_0005}{EOM}
+
+Message 321:
+{PH_0006}{EOM}
+
+Message 322:
+だ{EOM}{EOM}
+
+Message 323:
+かい{EOM}{EOM}{EOM}{EOM}
+
+Message 324:
+だい{EOM}{EOM}{EOM}{EOM}
+
+Message 325:
+おじさん{EOM}{EOM}{EOM}{EOM}
+
+Message 326:
+{TATSUYA}くん{EOM}{EOM}
+
+Message 327:
+おばさん{EOM}{EOM}{EOM}{EOM}
+
+Message 328:
+こんちわ{EOM}{EOM}{EOM}{EOM}
+
+Message 329:
+{PH_0000}{EOM}
+
+Message 330:
+{PH_0001}{EOM}
+
+Message 331:
+{PH_0002}{EOM}
+
+Message 332:
+おじさん{EOM}{EOM}{EOM}{EOM}
+
+Message 333:
+{TATSUYA}くん{EOM}{EOM}
+
+Message 334:
+おばさん{EOM}{EOM}{EOM}{EOM}
+
+Message 335:
+{PH_0006}{EOM}
+
+Message 336:
+{PH_0000}{EOM}
+
+Message 337:
+{PH_0001}{EOM}
+
+Message 338:
+{PH_0002}{EOM}
+
+Message 339:
+{PH_0003}{EOM}
+
+Message 340:
+{PH_0004}{EOM}
+
+Message 341:
+{PH_0005}{EOM}
+
+Message 342:
+{PH_0006}{EOM}{EOM}{EOM}{EOM}{EOM}
+

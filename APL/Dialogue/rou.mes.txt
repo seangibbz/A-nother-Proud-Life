@@ -1,0 +1,1431 @@
+Message 0:
+I like to think of
+everyone who comes
+here as my children. {PAUSE}{WIPE}
+...So, don't you
+think it's sad if
+they don't even{PAUSE}
+say goodbye when
+they leave? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+I wonder if {NAMI}
+is eating well now.
+She ate a lot here.{PAUSE}{EOM}
+
+Message 2:
+Hmm...
+I don't think it
+tastes bad. {PAUSE}{EOM}{EOM}
+
+Message 3:
+Hold on a minute.
+You came at just
+the right time. {PAUSE}{WIPE}
+Would you try out
+this dish I made? {PAUSE}{EOM}
+
+Message 4:
+I'm trying to make
+new recipes.{PAUSE}{WIPE}
+It's hard to tell
+the difference just
+by looking, but {PAUSE}
+you'll find the
+flavors have changed
+just a little. {PAUSE}{WIPE}
+Pick any you like.
+{CHOICE3 DEF0}
+Red one.
+Green one.
+Dessert.{EOM}
+
+Message 5:
+Wonderful!
+I was too scared to
+try it myself. {PAUSE}{WIPE}
+Thanks for helping
+me with that. {PAUSE}{EOM}
+
+Message 6:
+What!?
+I think the wrong
+flavor is in it. {PAUSE}{WIPE}
+I was too scared to
+try it myself. {PAUSE}{WIPE}
+Thanks for helping
+me with that. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+Smells good, doesn't
+it? {PAUSE}{WIPE}
+It's Nami's birthday
+today, so I'm making
+my special dinner. {PAUSE}{EOM}{EOM}
+
+Message 8:
+Today is Nami's
+birthday, right? {PAUSE}{WIPE}
+That's why I'm
+making my special
+dinner tonight. {PAUSE}{EOM}
+
+Message 9:
+Wait in your room
+until I'm prepared. {PAUSE}{EOM}{EOM}
+
+Message 10:
+Oh, {PETE}.
+You came at just the
+right time... {PAUSE}{WIPE}
+I was thinking of
+changing up the menu.{PAUSE}{WIPE}
+So, would you taste
+something for me? {PAUSE}{EOM}{EOM}
+
+Message 11:
+What do you think?
+Hmm? {PAUSE}{WIPE}
+You say you've never
+had food this good
+before? {PAUSE}{WIPE}
+That's good to hear.
+Thank you. {PAUSE}{WIPE}
+Actually I put some
+special seasoning
+in it. {PAUSE}{WIPE}
+I had bought it when
+my Husband and I
+traveled to a {PAUSE}
+country in the far
+far far far North. {PAUSE}{WIPE}
+I had to go through
+a lot make it again. {PAUSE}{WIPE}
+If you like, I'll
+give you one. {PAUSE}
+Just wait one
+moment, okay? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+Here it is.
+Enjoy it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+I don't need
+anything in return. {PAUSE}
+Well, come see
+me again sometime,
+okay? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+Have you seen {NAMI}
+at all today?
+{CHOICE2 DEF0}
+I've seen her.
+Haven't seen her.{EOM}
+
+Message 15:
+W-w-w-where did
+you see her? {PAUSE}{EOM}{EOM}
+
+Message 16:
+......... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+I wanted her to be
+here longer. {PAUSE}{EOM}{EOM}
+
+Message 18:
+I thought {NAMI}
+had left
+{C14}{STRUC_30}{C17}. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+Really!
+Well I can't sit
+and daydream here. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+I can cook for you
+anytime. Oh, good...{PAUSE}{WIPE}
+You can stay in
+{C14}{STRUC_30}{C17}
+now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{PETE}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 22:
+Take care of {NAMI}.
+Since she came here
+she's been unruly. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+Have you seen {NAMI}
+at all today?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+{PETE},
+I'm counting on you.{PAUSE}{EOM}
+
+Message 25:
+Oh, {PETE}.
+How are you? {S_3201F4}
+Are you hungry? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+Don't you cook
+at home?
+{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 27:
+{FACE_190001}If that's so,
+I'll give you
+something good. {PAUSE}{WIPE}
+Wait just a second.{PAUSE}{EOM}
+
+Message 28:
+{FACE_190007}Oh, that's too bad. {S_3203E8}{PAUSE}{WIPE}
+{FACE_190001}Then give it to your
+wife.
+Wait just a second. {PAUSE}{EOM}
+
+Message 29:
+{FACE_190001}I got this spice
+when I was traveling
+here and there in {PAUSE}
+the southern part
+of the world. {PAUSE}{WIPE}
+It's a little spicy,{S_3201F4}
+but it mixes well
+with other flavors. {PAUSE}{EOM}{EOM}
+
+Message 30:
+{FACE_010000}{PETE}, are you
+hungry? {PAUSE}{WIPE}
+Go home {S_3201F4}and have a
+delicious meal... {S_3201F4}
+Bye-bye. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+{FACE_190023}{PETE}...
+Your time here as
+too fast... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+{GRIFFIN}, can we
+have a song in
+memory of {PETE}? {PAUSE}{EOM}
+
+Message 33:
+Pardon me... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+You've got nothing
+to sell tody? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+Nothing here.
+Can't be helped. {PAUSE}{EOM}{EOM}
+
+Message 36:
+Let me take a
+look around. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+{FACE_190023}Not really anything
+good here, is there?{PAUSE}{EOM}
+
+Message 38:
+I'm just looking... {PAUSE}{EOM}{EOM}
+
+Message 39:
+I really like that
+{VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+For you? {GOLD_0105}G.
+{GOLD_0205}G.
+Not for sale.{EOM}{EOM}
+
+Message 40:
+{FACE_19000A}Really!
+That's a great deal. {PAUSE}{EOM}{EOM}
+
+Message 41:
+I'll take it.
+Thanks... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+That's a little
+high, but whatever.
+I'll take it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+Never mind.
+I don't want it
+anyway. {PAUSE}{EOM}{EOM}
+
+Message 44:
+I want that {VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+For you? {GOLD_0105}G
+{GOLD_0205}G
+Not for sale{EOM}
+
+Message 45:
+That's it for me
+for today. {PAUSE}{EOM}
+
+Message 46:
+How is life on
+the farm?
+Is it doing well? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+{FACE_190002}I don't feel good
+today. {PAUSE}{EOM}{EOM}
+
+Message 48:
+{FACE_190002}Could you please
+leave me alone today?{PAUSE}{EOM}
+
+Message 49:
+{FACE_190004}I'm a little angry
+today. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+{S_340178}Mornin'.
+How are ya? {PAUSE}{EOM}{EOM}
+
+Message 51:
+{S_340178}Hello, hello. {PAUSE}{EOM}{EOM}
+
+Message 52:
+{S_340178}What are you doing
+out and about this
+late at night? {PAUSE}{EOM}
+
+Message 53:
+{S_340178}What are you doing
+out and about this
+late at night? {PAUSE}{EOM}
+
+Message 54:
+{S_340178}Make yourself at
+home. {PAUSE}{EOM}{EOM}
+
+Message 55:
+Hey...
+Take it easy.{PAUSE}{EOM}{EOM}
+
+Message 56:
+That's my favorite
+food.
+Can I have it? {CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 57:
+{S_340178}Are you sure?
+{FACE_19000A}I like you. {PAUSE}{EOM}{EOM}
+
+Message 58:
+{FACE_19001A}Pardon me.
+That was very bold
+of me to ask? {PAUSE}{EOM}
+
+Message 59:
+Can I have that? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+{S_340178}That looks good... {PAUSE}{EOM}
+
+Message 61:
+You've got something
+good there... {PAUSE}{EOM}{EOM}
+
+Message 62:
+I love that. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{FACE_190009}I can't eat that. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 64:
+{FACE_190009}I like most dishes,
+but that shouldn't
+even be called food. {PAUSE}{EOM}{EOM}
+
+Message 65:
+{FACE_190009}Forgive me, I can't
+eat that... {PAUSE}{EOM}
+
+Message 66:
+What is that? {PAUSE}{EOM}{EOM}
+
+Message 67:
+{FACE_190002}I don't want that. {PAUSE}{EOM}
+
+Message 68:
+{FACE_19000A}He's so cute.
+He looks just like
+Celia... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+{FACE_19000A}How old are you,
+baby? {PAUSE}{WIPE}
+{FACE_19000A}{S_3205DC}How old are you? {S_3205DC}
+{FACE_190023}No reaction... {PAUSE}{EOM}{EOM}
+
+Message 70:
+{FACE_19000A}He's so cute. {PAUSE}{EOM}{EOM}
+
+Message 71:
+Grow up big and
+strong like your
+daddy. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+{FACE_19000A}He's so cute.
+He looks just like
+Muffy... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+{FACE_19000A}He's so cute.
+He looks just like
+Nami... {PAUSE}{EOM}
+
+Message 74:
+That's a good
+looking dog you
+have there. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+{FACE_190023}Shake! {S_3205DC}
+Shake! {PAUSE}{WIPE}
+{S_3205DC}{FACE_190009}Maybe he doesn't
+like me...? {PAUSE}{EOM}{EOM}
+
+Message 76:
+What a cute dog. {PAUSE}{EOM}
+
+Message 77:
+Here kitty kitty.
+You're so cute... {PAUSE}{EOM}
+
+Message 78:
+That's a good
+chicken you've got
+there. {PAUSE}{WIPE}
+It'll give you
+lots of good eggs. {PAUSE}{EOM}{EOM}
+
+Message 79:
+How cute. {PAUSE}{EOM}
+
+Message 80:
+Is it true that if
+you raise a chicken
+with great care, {PAUSE}
+someday it will
+lay golden eggs
+for you? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 81:
+Did you know that
+ducks can't warm
+their own eggs? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 82:
+What a cute duck. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+Ducks really are
+cute if you take
+a good look at them. {PAUSE}{EOM}
+
+Message 84:
+What kind of
+seed is that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 85:
+Vesta sells all kinds
+of seeds. {PAUSE}{EOM}
+
+Message 86:
+I wonder what will
+grow from that
+seed. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+Are those crops from
+your farm? {PAUSE}{WIPE}
+I wouldn't mind
+getting a few
+from you. {PAUSE}{EOM}{EOM}
+
+Message 88:
+There are so many
+varieties of crops
+you can grow. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+You made that cheese
+on you farm, right? {PAUSE}{WIPE}
+I think it would go
+well with any dish. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+A cheese's flavor
+varies depending on
+the milk used. {PAUSE}{EOM}{EOM}
+
+Message 91:
+What came first,
+the chicken or
+the egg? {PAUSE}{EOM}
+
+Message 92:
+Eggs are so useful.
+You can use them
+in all cooking. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+It's really hard
+for me to tell the
+difference between {PAUSE}
+a ducks egg and a
+chickens egg. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+Did you catch that
+fish?
+You're good. {PAUSE}{EOM}{EOM}
+
+Message 95:
+There are all types
+of fish dishes but
+you really need a {PAUSE}
+delicious fresh
+fish to make the
+meal. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+Nice fresh fish. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+Those are wild
+grasses that grow
+around here. {PAUSE}{WIPE}
+They would be a
+great addition to
+any dish. {PAUSE}{EOM}
+
+Message 98:
+That would go really
+good with a tempura
+and vegetable dish. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+Unique plants grow in
+Forget-Me-Not Valley.{PAUSE}{WIPE}
+That's just one
+of them. {PAUSE}{EOM}{EOM}
+
+Message 100:
+That looks good.
+Did you cook that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 101:
+That dish looks
+delicious. {PAUSE}{EOM}
+
+Message 102:
+That's a hoe that
+we had at home.{PAUSE}{WIPE}
+It's so weird,
+we try not to use
+it. {PAUSE}{WIPE}
+It's kind of
+pointless when
+you think about it. {PAUSE}{EOM}{EOM}
+
+Message 103:
+I'd be happy if you
+were to use it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+That's a strange
+hoe. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+That's Vesta's,
+isn't it? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 106:
+That hoe has a lot
+of years on it. {PAUSE}{EOM}{EOM}
+
+Message 107:
+That's a nice hoe. {PAUSE}{EOM}
+
+Message 108:
+You really need to
+use your tools
+a lot more. {PAUSE}{EOM}
+
+Message 109:
+You really need to
+use that more. {PAUSE}{EOM}{EOM}
+
+Message 110:
+Is that your hoe?
+It looks well used. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 111:
+That looks very easy
+to use. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 112:
+That's a strange
+sickle. {PAUSE}{WIPE}
+It looks a little
+unwieldy... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+That's a strange
+sickle. {PAUSE}{EOM}
+
+Message 114:
+That sickle looks
+very sharp. {PAUSE}{WIPE}
+Don't go spinning
+it around in here. {PAUSE}{EOM}{EOM}
+
+Message 115:
+{FACE_190023}It's dangerous to
+spin that around
+here... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 116:
+Isn't that your
+sickle? {PAUSE}{WIPE}
+You've used that
+a lot haven't you? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 117:
+Is that...
+a watering can? {PAUSE}{EOM}{EOM}
+
+Message 118:
+That's a strange
+watering can. {PAUSE}{EOM}{EOM}
+
+Message 119:
+What a strange
+machine... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+What do you do
+with that...? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+Those are shears. {PAUSE}{EOM}{EOM}
+
+Message 122:
+You should cut
+someone's hair
+with that. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+{FACE_190023}You don't have to
+cut my hair. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+If you cut someone's
+hair with that,
+you'll hurt them. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+{FACE_190023}Don't cut your son's
+hair with that
+either. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+That tool has been
+used a great deal...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 127:
+That's a very
+unusual stone... {PAUSE}{EOM}{EOM}
+
+Message 128:
+What...is...that? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 129:
+It's mysterious. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 130:
+That's a record.
+You don't see many
+of them lately. {PAUSE}{EOM}
+
+Message 131:
+It's not a toy
+to play catch with. {PAUSE}{EOM}
+
+Message 132:
+What do you think?
+Do you like it?
+{CHOICE3 DEF1}
+It's yummy.
+Not really.
+How do you use it?{EOM}{EOM}{EOM}
+
+Message 133:
+{FACE_19000A}That's good.
+It's for people who
+like stimulating {PAUSE}
+flavors hitting
+their taste buds. {PAUSE}{EOM}{EOM}
+
+Message 134:
+{FACE_190009}Oh...
+I guess it doesn't
+agree with you... {PAUSE}{EOM}
+
+Message 135:
+Try mixing it with
+some vegetables in
+a nice stew. {PAUSE}{WIPE}
+You'll get a very
+nice curry as a
+result. {PAUSE}{EOM}
+
+Message 136:
+That's a very rare
+spice. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+{S_3400DA}{S_3205DC}I thought I had rare
+items at home, but
+that's one thing {PAUSE}
+that I've never
+seen in my entire
+life. {PAUSE}{EOM}
+
+Message 138:
+Isn't that Wally's
+medal? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 139:
+Why would Wally
+give that up...? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+A strange necklace
+indeed. {PAUSE}{EOM}
+
+Message 141:
+I don't think it
+would look good on
+me... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+What is that...?
+Hmm... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 143:
+What about it? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+That's a nice big
+firework. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+Having a fireworks
+show are you? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 146:
+Why don't you give
+that as a present
+to someone? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 147:
+{FACE_190023}I don't want it.{PAUSE}{EOM}{EOM}
+
+Message 148:
+I'm thinking about
+visiting Mineral Town
+again to look for{PAUSE}
+more ingredients for
+my cooking...{PAUSE}{EOM}{EOM}
+
+Message 149:
+You've been cooking
+lately? {PAUSE}{WIPE}
+You want me to teach
+you something good? {PAUSE}{WIPE}
+It's a recipe for
+a new dish. {PAUSE}{WIPE}
+{C13}Potatoes{C17}, {C13}Wild Plants{C17}
+and {C13}Mushrooms{C17} make
+some delicious soup.{PAUSE}{WIPE}
+{C13}Sorrels{C17}, {C13}Mugworts{C17},
+{C13}Royal Ferns{C17} and
+{C13}Brackens{C17}{PAUSE}{WIPE}
+are wild plants.
+{C13}Hackberries{C17} and
+{C13}Matsutake{C17} are{PAUSE}
+mushrooms, okay?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+I'll let you know
+if I get something
+new.{PAUSE}{EOM}
+
+Message 151:
+{FACE_190023}Listen to me very
+well, alright?{PAUSE}{WIPE}
+{C13}Potatoes{C17}, {C13}Wild Plants{C17}
+and {C13}Mushrooms{C17} make
+some delicious soup.{PAUSE}{WIPE}
+{C13}Sorrels{C17}, {C13}Mugworts{C17},
+{C13}Royal Ferns{C17} and
+{C13}Brackens{C17}{PAUSE}{WIPE}
+are wild plants.
+{C13}Hackberries{C17} and
+{C13}Matsutake{C17} are{PAUSE}
+mushrooms, okay?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 152:
+Are you cooking at
+home lately? Wanna
+know a new recipe?{PAUSE}{WIPE}
+If you have an oven,
+{C13}Sweet Potatoes{C17},
+Butter and Eggs make{PAUSE}
+a delicious dessert.
+...Got it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 153:
+{FACE_190023}You're not listening
+to me well... Just
+one more time, okay?{PAUSE}{WIPE}
+If you have an oven,
+{C13}Sweet Potatoes{C17},
+Butter and Eggs make{PAUSE}
+a delicious dessert.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 154:
+Been cooking these
+days? {PAUSE}{WIPE}
+How about I teach
+you a really good
+recipe? {PAUSE}
+Use an oven,
+{C13}Strawberries{C17},
+Milk, and Eggs... {PAUSE}
+Mix them all
+together, and you'll
+make {C13}Strawberry Cake{C17}.{PAUSE}
+You got that? {CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 155:
+{FACE_190023}Weren't you
+listening...? {PAUSE}{WIPE}
+Okay, I'll tell you
+the recipe one
+more time. {PAUSE}{WIPE}
+Use an oven,
+{C13}Strawberries{C17},
+Milk, and Eggs... {PAUSE}{WIPE}
+Mix them all
+together, and you'll
+make {C13}Strawberry Cake{C17}.{PAUSE}{WIPE}
+If you don't have an
+oven, you should
+just give up for now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+Been cooking these
+days? {PAUSE}{WIPE}
+How about I teach
+you a really good
+recipe? {PAUSE}{WIPE}
+Use an oven, {C13}Peaches{C17},
+Butter, and Eggs...{PAUSE}{WIPE}
+Mix them all
+together and you'll
+make {C13}Peach Tarts{C17}.{PAUSE}
+You got that? {CHOICE Y/N DEF0}{EOM}
+
+Message 157:
+{FACE_190023}Weren't you
+listening...? {PAUSE}{WIPE}
+Okay, I'll tell you
+the recipe one
+more time. {PAUSE}{WIPE}
+Use an oven, {C13}Peaches{C17},
+Butter, and Eggs...{PAUSE}{WIPE}
+Mix them all
+together, and you'll
+make {C13}Peach Tarts{C17}.{PAUSE}{WIPE}
+If you don't have an
+oven, you should
+just give up for now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 158:
+Been cooking these
+days? {PAUSE}{WIPE}
+How about I teach
+you a really good
+recipe? {PAUSE}{WIPE}
+Take {C13}strawberries{C17},
+{C13}peaches{C17}, {C13}banana{C17},
+and {C13}Star Milk{C17}... {PAUSE}{WIPE}
+Mix them all up, and
+you'll make
+{C13}Rich Juice{C17}. {PAUSE}{WIPE}
+By the way, you get
+{C13}Star Milk{C17} from
+a Star Cow. {PAUSE}{WIPE}
+You got that? {CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 159:
+{FACE_190023}Weren't you
+listening...? {PAUSE}{WIPE}
+Okay, I'll tell you
+the recipe one
+more time. {PAUSE}{WIPE}
+Take {C13}strawberries{C17},
+{C13}peaches{C17}, {C13}banana{C17},
+and {C13}Star Milk{C17}...{PAUSE}{WIPE}
+Mix them all up, and{PAUSE}
+you'll make
+{C13}Rich Juice{C17}. {PAUSE}{WIPE}
+By the way, you get
+{C13}Star Milk{C17} from
+a Star Cow. {PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 160:
+Been cooking these
+days? {PAUSE}{WIPE}
+How about I teach
+you a really good
+recipe? {PAUSE}{WIPE}
+Take {C13}Brown Milk{C17} and
+{C13}Star Milk{C17}, and you
+can make {C13}Ice Cream{C17}. {PAUSE}{WIPE}
+By the way, you get
+{C13}Star Milk{C17}
+from Star Cows, and {PAUSE}
+you get {C13}Brown Milk{C17}
+from Brown Cows. {PAUSE}{WIPE}
+You got that? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 161:
+{FACE_190023}Weren't you
+listening...? {PAUSE}{WIPE}
+Okay, I'll tell you
+the recipe one
+more time. {PAUSE}
+Take {C13}Brown Milk{C17} and
+{C13}Star Milk{C17}, and you
+can make {C13}Ice Cream{C17}. {PAUSE}{WIPE}
+By the way, you get
+{C13}Star Milk{C17}
+from Star Cows, and {PAUSE}
+you get {C13}Brown Milk{C17}
+from Brown Cows. {PAUSE}{WIPE}{EOM}{EOM}
+
+Message 162:
+Been cooking these
+days? {PAUSE}{WIPE}
+How about I teach
+you a really good
+recipe? {PAUSE}{WIPE}
+Take {C13}Potatoes{C17},
+{C13}Carrots{C17},and {C13}Milk{C17}...{PAUSE}{WIPE}
+Mix them all
+together, and you
+get {C13}Stew{C17}. {PAUSE}{WIPE}
+You got that? {CHOICE Y/N DEF0}{EOM}
+
+Message 163:
+{FACE_190023}Weren't you
+listening...? {PAUSE}{WIPE}
+Okay, I'll tell you
+the recipe one
+more time. {PAUSE}
+Take {C13}Potatoes{C17},
+{C13}Carrots{C17},and {C13}Milk{C17}...{PAUSE}{WIPE}
+Mix them all
+together, and you
+get {C13}Stew{C17}. {PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 164:
+Been cooking these
+days? {PAUSE}{WIPE}
+How about I teach
+you a really good
+recipe? {PAUSE}{WIPE}
+Take Cheese, Milk,
+Butter, and then
+add Mushrooms... {PAUSE}{WIPE}
+Mix them together,
+and you'll make
+{C13}Mushroom Gratin{C17}. {PAUSE}{WIPE}
+Find edible mushrooms
+in the forest.{PAUSE}{WIPE}
+Remember, you need
+an oven to do this
+recipe. {PAUSE}{WIPE}
+You got that? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 165:
+{FACE_190023}Weren't you
+listening...? {PAUSE}{WIPE}
+Okay, I'll tell you
+the recipe one
+more time. {PAUSE}
+Take Cheese, Milk,
+Butter, and then
+add Mushrooms... {PAUSE}{WIPE}
+Mix them together,
+and you'll make
+{C13}Mushroom Gratin{C17}. {PAUSE}{WIPE}
+Find edible mushrooms
+in the forest.{PAUSE}{WIPE}
+Remember, you need
+an oven to do this
+recipe. {PAUSE}{WIPE}{EOM}{EOM}
+
+Message 166:
+Been cooking these
+days? {PAUSE}{WIPE}
+How about I teach
+you a really good
+recipe? {PAUSE}{WIPE}
+Mix together
+{C13}Potatoes{C17}, {C13}Carrots{C17}
+and {C13}Turnips{C17}{PAUSE}{WIPE}
+for a delicious
+vegetable dish. {PAUSE}{WIPE}
+You got that? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 167:
+{FACE_190023}Weren't you
+listening...? {PAUSE}{WIPE}
+Okay, I'll tell you
+the recipe one
+more time. {PAUSE}
+Mix together
+{C13}Potatoes{C17}, {C13}Carrots{C17}
+and {C13}Turnips{C17}{PAUSE}{WIPE}
+for a delicious
+vegetable dish. {PAUSE}{WIPE}{EOM}{EOM}
+
+Message 168:
+Been cooking these
+days? {PAUSE}{WIPE}
+How about I teach
+you a really good
+recipe? {PAUSE}{WIPE}
+Get some fish,
+{C13}Tomatoes{C17},
+and {C13}Fresh Herbs{C17}... {PAUSE}{WIPE}
+Cook them all
+together for a nice
+{C13}Marinaded Fish{C17}. {PAUSE}{WIPE}
+You got that? {CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 169:
+{FACE_190023}Weren't you
+listening...? {PAUSE}{WIPE}
+Okay, I'll tell you
+the recipe one
+more time. {PAUSE}
+Get some fish,
+{C13}Tomatoes{C17},
+and {C13}Fresh Herbs{C17}... {PAUSE}{WIPE}
+Cook them all
+together for a nice
+{C13}Marinaded Fish{C17}. {PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+Before we came here
+I used to travel all
+around the world. {PAUSE}{EOM}
+
+Message 171:
+I love traveling
+around finding new
+recipes. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+We've been together
+while we traveled,
+but we weren't {PAUSE}
+always properly
+married. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 173:
+Just between you and
+me, I heard the
+farmer in Mineral{PAUSE}
+Town is very greedy.
+Don't tell anyone...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 174:
+The farmer in
+Mineral Town is
+very popular. {PAUSE}{WIPE}
+I wonder if that
+is really true? {PAUSE}{EOM}
+
+Message 175:
+I heard the farmer
+in Mineral Town
+has shipped every{PAUSE}
+type of crops
+there are... {PAUSE}{EOM}
+
+Message 176:
+The farmer in
+Mineral Town is very
+kind to animals. {PAUSE}{EOM}
+
+Message 177:
+The farmer in
+Mineral Town is
+always mining. {PAUSE}{EOM}
+
+Message 178:
+The farmer in
+Mineral Town is a
+great fisherman. {PAUSE}{EOM}{EOM}
+
+Message 179:
+The farmer in
+Mineral Town walks
+a lot. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+{VAR_00} of
+Mineral Town has
+worked over 50 years.{PAUSE}{EOM}
+
+Message 181:
+The farmer in
+Mineral Town skips
+out on his farm work {PAUSE}
+and spends all day
+fishing.
+Is that true? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 182:
+The farmer in
+Mineral Town
+has bad taste. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 183:
+The farmer in
+Mineral Town owns
+3 vacation houses. {PAUSE}{EOM}{EOM}
+
+Message 184:
+{VAR_00} of
+Mineral Town has
+amazing tools. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+{FACE_19000A}I really loved the
+food I got before. {PAUSE}{WIPE}
+Did you know that
+was my favorite? {PAUSE}{EOM}
+
+Message 186:
+{FACE_190009}I really didn't like
+what you gave me
+before. {PAUSE}{WIPE}
+Next time can I have
+something more
+delicious? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 187:
+The cheese I had
+before was very
+rich and creamy... {PAUSE}{WIPE}
+{FACE_19000A}Can I have more? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+That cheese I had
+before smelled a
+little , but it {PAUSE}
+was still very
+rich and creamy. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 189:
+The cheese I had
+before is different
+from normal cheese. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+Did you make the
+cheese I had before?
+It was delicious. {PAUSE}{EOM}{EOM}
+
+Message 191:
+The {VAR_00} I
+had before was great.
+You made it right? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 192:
+The dish I had
+before was kind
+of so-so. {PAUSE}{WIPE}
+Still, it was okay
+I guess... {PAUSE}{EOM}
+
+Message 193:
+The fish you caught
+last time would be
+delicious if fried. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+The fish you gave
+me before was very
+delicious. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 195:
+The wild grasses
+you gave me before
+were very god. {PAUSE}{WIPE}
+I mixed them in with
+a tempura dish
+I made. {PAUSE}{EOM}{EOM}
+
+Message 196:
+The grasses you
+gave me last time
+were delicious. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 197:
+The food I had
+before... {PAUSE}{WIPE}
+It was okay, I
+guess... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 198:
+It looks like you've
+gotten better at
+farm work. {PAUSE}{WIPE}
+{FACE_19000A}You've really become
+quite a farmer. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 199:
+Hey, you've
+gotten so good at
+growing crops. {PAUSE}{WIPE}
+You should focus
+on that talent of
+yours. {PAUSE}{EOM}{EOM}
+
+Message 200:
+Hey, you're
+good at cooking. {PAUSE}{WIPE}
+I'm sure you have
+a talent for it. {PAUSE}{EOM}
+
+Message 201:
+You're really
+working hard. {PAUSE}{WIPE}
+It looks like you've
+gotten a little
+more skill. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 202:
+It must be very hard
+to grow crops but
+you put so much {PAUSE}
+effort into doing
+it right. {PAUSE}{WIPE}
+You can see the
+proof in your hands. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+Do you cook often
+at home? {PAUSE}{WIPE}
+I heard that you
+are a very good
+cook. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 204:
+It looks like you've
+gotten a little used
+to farm work. {PAUSE}{EOM}{EOM}
+
+Message 205:
+It looks like you've
+gotten a little used
+to field work. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 206:
+It looks like you've
+gotten a little used
+to cooking. {PAUSE}{EOM}
+
+Message 207:
+I love cooking, so
+I travel around to
+eat. {PAUSE}{WIPE}
+I try to learn new
+recipes from far
+and distant places. {PAUSE}{WIPE}
+Come see me if you
+want to learn any
+new recipes. {PAUSE}{EOM}{EOM}
+
+Message 208:
+Because I was able
+to travel so much,
+I was able to {PAUSE}
+experience so many
+different styles
+of cooking. {PAUSE}{WIPE}
+Now I'm able to make
+many delicious
+dishes. {PAUSE}{EOM}
+
+Message 209:
+Bring me any good
+food you make, okay? {PAUSE}{EOM}
+
+Message 210:
+Just take it easy
+and relax... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 211:
+Make yourself at
+home. {PAUSE}{EOM}
+
+Message 212:
+Other hotels would
+thrive in a season
+like this, but here {PAUSE}
+in the valley
+nothing changes. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 213:
+Let's relax and
+unwind... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+I really can't
+handle the Summer
+heat. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 215:
+It's so hot... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 216:
+It's gotten cooler.
+The food is the best
+this time of year. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 217:
+This is the season
+for wild grasses and
+mushrooms. {PAUSE}{EOM}{EOM}
+
+Message 218:
+I can't really bear
+the Winter cold. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 219:
+{FACE_190023}Cold... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 220:
+I was just talking
+about how Vesta's
+vegetables are good. {PAUSE}{EOM}
+
+Message 221:
+Next time Vesta and
+I will try making a
+Vegetable Diet stew. {PAUSE}{EOM}
+
+Message 222:
+I wonder what I'll
+cook today... {PAUSE}{WIPE}
+It's hard for me
+to decide from all
+my recipes... {PAUSE}{EOM}{EOM}
+
+Message 223:
+Van comes here
+sometimes. I get
+worried my house{PAUSE}
+might collapse when
+he stays upstairs.{PAUSE}{EOM}{EOM}
+
+Message 224:
+{FACE_190023}The decorative items
+we have are very
+valuable, so please{PAUSE}
+try not to break
+them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+{FACE_190004}You're very fickle.
+What would Nami
+think of this? {PAUSE}{WIPE}
+Think about her
+feelings for a
+change. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 226:
+Hey, you seem
+to like Nami a lot...{PAUSE}{WIPE}
+I'm a little worried
+about her being with
+someone so fickle. {PAUSE}{WIPE}{EOM}
+
+Message 227:
+Sorry, I'd like to,
+but I can't right
+now. {PAUSE}{EOM}{EOM}
+
+Message 228:
+I'm off to bed... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 229:
+I'm going to sleep
+soon, so would you
+please leave? {PAUSE}{EOM}
+
+Message 230:
+Good night. {PAUSE}{EOM}
+
+Message 231:
+I must be going... {PAUSE}{EOM}
+
+Message 232:
+I really have to
+get going... {PAUSE}{EOM}
+
+Message 233:
+Bye... {PAUSE}{EOM}{EOM}
+
+Message 234:
+{FACE_190009}Now now, {VESTA}.
+No reason to be so
+angry. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 235:
+{FACE_190007}Oh... {S_3203E8}
+{FACE_190001}Well, give it to your
+future wife. {PAUSE}{WIPE}
+Wait a second...
+... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+

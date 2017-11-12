@@ -1,0 +1,159 @@
+Message 0:
+Seed Maker{EOM}
+
+Message 1:
+Big Freezer{EOM}{EOM}{EOM}
+
+Message 2:
+Refrigerator{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+Shelf{EOM}{EOM}
+
+Message 4:
+Crop Shipping Bin{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+Dairy Shipping Bin{EOM}{EOM}
+
+Message 6:
+Ledger{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+Trash Can{EOM}{EOM}{EOM}
+
+Message 8:
+Item Storage{EOM}
+
+Message 9:
+Fodder Dispenser{EOM}
+
+Message 10:
+Butter Maker{EOM}
+
+Message 11:
+Cheese Maker{EOM}
+
+Message 12:
+Fertilizer Maker{EOM}
+
+Message 13:
+Pond{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+Food Processing Room{EOM}{EOM}
+
+Message 15:
+Milking Room{EOM}
+
+Message 16:
+Living Room{EOM}{EOM}{EOM}
+
+Message 17:
+Kitchen{EOM}{EOM}
+
+Message 18:
+Bedroom{EOM}{EOM}
+
+Message 19:
+Kid's Room{EOM}
+
+Message 20:
+Barn{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+Chicken Coop{EOM}
+
+Message 22:
+Workshop{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+Tool Shed{EOM}{EOM}{EOM}
+
+Message 24:
+Food Storage{EOM}
+
+Message 25:
+Incubator{EOM}{EOM}
+
+Message 26:
+Forest{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+Sea{EOM}{EOM}
+
+Message 28:
+Forget River{EOM}
+
+Message 29:
+Next Town{EOM}{EOM}{EOM}
+
+Message 30:
+Forget Valley{EOM}{EOM}{EOM}
+
+Message 31:
+Town{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+Farm{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+Blue Bar{EOM}
+
+Message 34:
+Villa{EOM}{EOM}
+
+Message 35:
+Inner Inn{EOM}{EOM}{EOM}
+
+Message 36:
+Hill{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+Beach{EOM}{EOM}
+
+Message 38:
+Spring{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+Turtle Swamp{EOM}
+
+Message 40:
+Waterfall{EOM}{EOM}
+
+Message 41:
+Ruin{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+Bridge{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+Fountain{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+Poor Soil Field{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+Good Soil Field{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+Rich Soil Field{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+Pasture{EOM}{EOM}
+
+Message 48:
+Tool Shelf{EOM}
+
+Message 49:
+Seed{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+Pond{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+Food{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+Milk{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,1625 @@
+Message 0:
+Oh no...!
+You found it...!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+And I thought if I
+doubled the photos up
+no one would {PAUSE}
+find them...!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+Would you please
+keep this a secret...
+For me, sir?{PAUSE}{EOM}{EOM}
+
+Message 3:
+...Awww!! If it isn't
+{PETE}! How long
+have you been {PAUSE}
+standing there, sir?!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+So-sorry, sir...
+I zoned out...{PAUSE}{EOM}
+
+Message 5:
+I was thinking...
+I've been taking care
+of Miss Romana for{PAUSE}
+several decades now.
+How much longer will
+I be able to...?{PAUSE}{EOM}
+
+Message 6:
+If something happened
+to me, what would
+become of{PAUSE}
+Miss Romana and
+Miss Lumina...?{PAUSE}{EOM}
+
+Message 7:
+Thank you so much,
+{PETE}!
+I am in your debt!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+You are right, sir.
+I am embarrassed to
+think about it...{PAUSE}{WIPE}
+Please don't tell
+any of this to
+Miss Romana!{PAUSE}{EOM}{EOM}
+
+Message 9:
+I guess I left the
+photograph out
+by accident...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+I see why you'd
+say so, but it's
+Miss Romana.{PAUSE}{EOM}{EOM}
+
+Message 11:
+Yes...Very good
+observation. It is
+indeed Miss Romana.{PAUSE}{EOM}{EOM}
+
+Message 12:
+Huh? {S_320320}
+!!!{PAUSE}{WIPE}
+That's right! It is
+a picture of my
+mother!{PAUSE}{WIPE}
+It's certainly not
+Miss Romana!{PAUSE}{EOM}{EOM}
+
+Message 13:
+Hmm? {S_3202BC}Yes...
+Thank you, sir...{PAUSE}{WIPE}
+Did you notice...?
+Oh, nothing.{PAUSE}{EOM}
+
+Message 14:
+It's Miss Romana
+taken at the same age
+Miss Lumina is now.{PAUSE}{WIPE}
+That's why it looks
+so much like her.{PAUSE}{WIPE}
+It was taken when
+photos were still a
+rarity, so this is{PAUSE}
+the only picture of
+Miss Romana at this
+age. If she knew I{PAUSE}
+had it, she'd laugh
+at me.{PAUSE}{EOM}
+
+Message 15:
+Would you please
+promise not to tell
+her about it, sir?
+{CHOICE2 DEF0}
+Nope.
+Sure, no problem.{EOM}
+
+Message 16:
+Please? I beg it of
+you!
+{CHOICE2 DEF0}
+OK, I give in.
+Nope.{EOM}
+
+Message 17:
+Thank you so much,
+sir!{PAUSE}{EOM}
+
+Message 18:
+I guess it was my
+fault for being so
+careless...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+What is it, {S_3201F4}
+Miss Romana?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+I see. {S_3201F4}
+I will fetch it
+immediately.{PAUSE}{WIPE}
+Excuse me.{PAUSE}{EOM}
+
+Message 21:
+I have done what you
+asked, Miss Romana.{PAUSE}{EOM}{EOM}
+
+Message 22:
+I've left it on the
+shelf in the
+{C14}{STRUC_23}{C17},{PAUSE}
+so please use it.{PAUSE}{EOM}{EOM}
+
+Message 23:
+If you'll excuse me.{PAUSE}{EOM}{EOM}
+
+Message 24:
+{FACE_0A0002}{PETE}...
+I can't believe you
+would go before me...{PAUSE}{WIPE}
+I shall take care of
+{TATSUYA} for you.
+Don't worry...{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+Would you sing a song
+to put {PETE}'s
+soul at rest,{PAUSE}
+{GRIFFIN}? {S_3207D0}I'm sure
+his soul can hear
+it...{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 26:
+Err..Excuse me, sir?{PAUSE}{EOM}
+
+Message 27:
+Can I trouble you,
+{PETE}?{PAUSE}{EOM}
+
+Message 28:
+{FACE_0A0009}...Oh my, it
+seems you are out of
+everything right now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 29:
+I suppose I should
+call sometime later.{PAUSE}{WIPE}
+The early bird gets
+the worm, as
+they say!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+I'm looking for some-
+thing special to make
+Miss Romana.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+Please don't trouble
+yourself on my
+account.{PAUSE}{EOM}
+
+Message 32:
+Hmm...I don't think
+there's anything here
+that would please{PAUSE}
+Miss Romana...
+At least not
+right now.{PAUSE}{EOM}
+
+Message 33:
+...Is there anything
+else...? Something
+special left?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+Let's see...
+What should I...?
+...Hmm...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 35:
+Sorry to trouble you.
+I don't need
+anything now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+{FACE_0A000A}You came recently,
+didn't you? I care
+for Miss Romana.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+{FACE_0A0002}.........{PAUSE}{EOM}
+
+Message 38:
+...I'm terribly
+sorry...{PAUSE}{EOM}
+
+Message 39:
+{FACE_0A0004}......!{PAUSE}{EOM}
+
+Message 40:
+{FACE_0A0004}Sorry, but I'm
+busy right now!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+{S_34013F}I always like to
+get an early start
+on my day's work.{PAUSE}{EOM}
+
+Message 42:
+{S_34013F}Good day.
+How is your work
+coming?{PAUSE}{WIPE}
+Me? Well, it's always
+a treat caring for
+Miss Romana.{PAUSE}{EOM}{EOM}
+
+Message 43:
+I have to start
+cooking dinner...{PAUSE}{WIPE}
+There is always more
+to do for Miss
+Romana.{PAUSE}{EOM}
+
+Message 44:
+{S_34013F}Hello, {PETE}.
+What brings you here
+so late at night?{PAUSE}{EOM}
+
+Message 45:
+Hello, {PETE}.
+What brings you here
+so late at night?{PAUSE}{WIPE}
+It couldn't be...
+{S_34013F}Oh, never mind.
+I worry too much.{PAUSE}{WIPE}
+Pleased to see you
+so late.{PAUSE}{EOM}
+
+Message 46:
+{S_34013F}How wonderful to
+see you, {PETE}.{PAUSE}{EOM}
+
+Message 47:
+What brings you here
+so late?{PAUSE}{WIPE}
+{FACE_0A0003}...
+{S_34013F}Ha ha... {S_3203E8}{PAUSE}{WIPE}
+Well, I guess they do
+say history is
+made at night! {PAUSE}{WIPE}
+{FACE_0A0009}Sorry, sir.
+I got carried away...{PAUSE}{EOM}{EOM}
+
+Message 48:
+{S_34013F}Good day,
+{PETE}.{PAUSE}{EOM}{EOM}
+
+Message 49:
+{FACE_0A000A}Would you be
+willing to part with
+some of that...?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 50:
+{S_34013F}{FACE_0A0003}I am in your
+debt. I look forward
+to eating it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+{FACE_0A0002}Is that so...
+Pardon me for asking
+in the first place.{PAUSE}{EOM}
+
+Message 52:
+{S_34013F}That's my favorite
+food. I cook for Miss
+Romana, so I have{PAUSE}
+excellent taste.{PAUSE}{EOM}{EOM}
+
+Message 53:
+{S_34013F}That looks
+scrumptious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+{S_34013F}Please come to
+the villa. I'll
+cook you a treat.{PAUSE}{EOM}
+
+Message 55:
+You can never perfect
+a cuisine, but it
+begins with{PAUSE}
+selecting the
+freshest ingredients.{PAUSE}{EOM}
+
+Message 56:
+That looks very good.
+I would know,
+you know.{PAUSE}{EOM}
+
+Message 57:
+Those are my
+favorite, if you'll
+excuse my saying so.{PAUSE}{EOM}{EOM}
+
+Message 58:
+{FACE_0A0009}I'm not usually
+very picky, but I
+can't abide those...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+{FACE_0A0009}Looking at them
+over and over again
+doesn't help, either.{PAUSE}{EOM}{EOM}
+
+Message 60:
+{FACE_0A0009}Sorry, but I
+just can't eat that.{PAUSE}{WIPE}
+Please don't tell
+Miss Romana, though.{PAUSE}{WIPE}
+I always tell her
+being too picky
+isn't healthy.{PAUSE}{EOM}{EOM}
+
+Message 61:
+{FACE_0A0009}Sorry, but that would
+just be wasted on
+me...{PAUSE}{EOM}
+
+Message 62:
+{FACE_0A0009}Sorry, but I'm really
+not interested.{PAUSE}{WIPE}
+Pearls to swine,
+and all that...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{FACE_0A000A}What a cute
+baby. He takes after
+Celia, doesn't he?{PAUSE}{EOM}{EOM}
+
+Message 64:
+Miss Lumina was also
+terribly cute as a
+child...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+{S_34013F}{FACE_0A000A}What a healthy
+baby. He takes after
+Muffy, doesn't he?{PAUSE}{EOM}
+
+Message 66:
+Miss Lumina was also
+very healthy as a
+child...{PAUSE}{EOM}
+
+Message 67:
+{FACE_0A000A}Would you be
+willing to model for
+my next painting?{PAUSE}{WIPE}
+{FACE_0A0009}Of course, I have
+to finish the current
+one first...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+{S_34013F}{FACE_0A000A}What a quiet
+baby. He takes after
+Nami, doesn't he?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+Miss Lumina sure
+wasn't very quiet
+as a baby...{PAUSE}{EOM}
+
+Message 70:
+{FACE_0A000A}Your dog looks very
+clever.{PAUSE}{EOM}
+
+Message 71:
+Since time immemorial
+dogs and humans
+have shared a special{PAUSE}
+bond. I'm sure you
+and your dog will
+do the same.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+What a nice dog.
+I value a dog's
+loyalty highly.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 73:
+{S_34013F}{FACE_0A000A}What a cute cat.
+I prefer dogs, but
+cats are nice too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+Sometimes I envy you,
+living as you do
+with animals.{PAUSE}{WIPE}
+It would be so nice
+to just take care of
+animals, paint,{PAUSE}{WIPE}
+and relax...{PAUSE}{EOM}{EOM}
+
+Message 75:
+But, I would never
+leave Miss Romana for
+anything.{PAUSE}{WIPE}
+So...Just forget I
+said all that, sir?{PAUSE}{EOM}{EOM}
+
+Message 76:
+{S_34013F}Is this chicken
+from your farm? I bet
+it lays nice eggs!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+A stressed out
+chicken lays stressed
+out eggs, which are{PAUSE}
+not healthy at all.
+Please take care of
+your chickens.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+{S_34013F}What a nice
+fat duck this is.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+In a country far
+away they make a dish
+where they fatten{PAUSE}
+a duck up, then roast
+it whole.{PAUSE}{WIPE}
+Miss Romana says it's
+heavenly, and she
+must be right.{PAUSE}{EOM}{EOM}
+
+Message 80:
+{S_34013F}It looks like
+a good seed to me,
+not that I know very{PAUSE}
+much about
+agriculture...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+{FACE_0A000A}Please make them
+into a good crop.
+I'm always looking{PAUSE}
+for good ingredients
+for Miss Romana and
+Miss Lumina!{PAUSE}{EOM}{EOM}
+
+Message 82:
+Did you grow that
+crop? It looks very
+delectable indeed.{PAUSE}{WIPE}
+{FACE_0A000A}Err...May I have it?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 83:
+That looks very
+good indeed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+I want to give Miss
+Romana as much
+variety in her diet{PAUSE}
+as I can.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{S_34013F}Is this milk from
+your farm?
+It looks so fresh.{PAUSE}{WIPE}
+{FACE_0A000A}Err...May I have it?
+{CHOICE Y/N DEF1}{EOM}
+
+Message 86:
+Good milk becomes
+good cheese. Consider
+making cheese{PAUSE}
+with this milk.{PAUSE}{EOM}{EOM}
+
+Message 87:
+That's very fresh
+milk.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+Did you make this
+cheese? Mmm...
+Looks very good...{PAUSE}{WIPE}
+{FACE_0A000A}Err...May I have it?
+I just adore dairy
+products... {CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 89:
+{FACE_0A000A}To tell you the
+truth...I'm surprised
+at how excellent this{PAUSE}
+cheese is. I'm an
+expert on cheese,
+so I should know.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+The quality of cheese
+is determined by
+the milk.{PAUSE}{WIPE}
+It would make me so
+happy to use it in a
+dish for Miss Romana.{PAUSE}{WIPE}{EOM}
+
+Message 91:
+There are so many
+delectable kinds of
+cheese to try...{PAUSE}{WIPE}
+Brie, Rouqefort,
+Gouda, Valencay, to
+name just a few...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 92:
+There is a huge
+variety of cheeses,
+but they are all{PAUSE}
+either processed
+or natural.{PAUSE}{EOM}{EOM}
+
+Message 93:
+Did you make this
+butter? Mmm...
+Looks very good...{PAUSE}{WIPE}
+{FACE_0A000A}Err...May I have it?
+I just adore dairy
+products... {CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 94:
+{S_34013F}This is excellent
+butter. I would love
+to use it in a dish{PAUSE}
+for Miss Romana!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+Cooking with butter
+is very good, but we
+have to be careful{PAUSE}
+not to use too
+much, sir.{PAUSE}{EOM}
+
+Message 96:
+{S_34013F}That butter sure does
+look good. What would
+I use it for...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 97:
+{S_34013F}Did that egg come
+from your farm?
+It looks very fresh.{PAUSE}{WIPE}
+{FACE_0A000A}Err...May I have it?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+There are many kinds
+of egg dishes, some
+quite sophisticated.{PAUSE}{EOM}{EOM}
+
+Message 99:
+Miss Lumina loves my
+omelet rice recipe.{PAUSE}{WIPE}
+Miss Romana loves my
+egg souffle. Do you
+know what that is?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+This is a good egg.
+You must treat your
+chickens very well.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 101:
+{S_34013F}Did you catch that
+fish? I'm impressed.{PAUSE}{WIPE}
+{FACE_0A000A}Err...May I have it?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 102:
+I don't know anything
+about fishing, but
+I do know fish.{PAUSE}{EOM}
+
+Message 103:
+This fish would be
+good in a stew,
+baked, or even raw.{PAUSE}{EOM}{EOM}
+
+Message 104:
+Truly a great fish...
+If it were mine, I'd
+put it in a lovely{PAUSE}
+stew for Miss
+Romana.{PAUSE}{EOM}
+
+Message 105:
+Did you gather those
+wild plants around
+here?{PAUSE}{WIPE}
+They look
+particularly suited
+to cooking.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+Some wild plants are
+dangerous, you know.
+Exercise caution.{PAUSE}{EOM}
+
+Message 107:
+Most plants in
+Forget-Me-Not Valley
+are safe...{PAUSE}
+{FACE_0A0002}But you never
+know...{PAUSE}{EOM}{EOM}
+
+Message 108:
+These look good
+indeed. If it were
+me, I would mix them{PAUSE}
+with rice to serve
+to Miss Romana.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+{S_34013F}I know my
+cooking, and that is
+just exquisite.{PAUSE}{WIPE}
+{FACE_0A000A}Err...May I have it?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 110:
+Cooking is an art,
+you know. Start with
+ingredients,{PAUSE}
+then do preparation,
+cooking, spices,
+presentation...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 111:
+That looks
+exquisite. Miss
+Romana would love it.{PAUSE}{EOM}{EOM}
+
+Message 112:
+{FACE_0A0009}Is that a hoe?
+I don't know much
+about them, but...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+Working on the
+fields? I admire
+your determination.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+I hear that farm
+tools get better
+with use.{PAUSE}{EOM}
+
+Message 115:
+{FACE_0A0009}Is that a good
+sickle? It's not
+my field...{PAUSE}{EOM}
+
+Message 116:
+{FACE_0A0002}I implore you
+not to swing that
+thing around here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+{S_34013F}{FACE_0A000A}Is that watering
+can from Miss Romana?{PAUSE}{WIPE}
+How are you
+enjoying it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 118:
+It's an odd one,
+but should be easy
+to use.{PAUSE}{EOM}{EOM}
+
+Message 119:
+{FACE_0A000A}That's the watering
+can Miss Romana gave
+you, isn't it?{PAUSE}{WIPE}
+I'd recognize it
+anywhere.{PAUSE}{EOM}{EOM}
+
+Message 120:
+{FACE_0A000A}Is that the
+watering can that
+Miss Romana gave you?{PAUSE}{WIPE}
+Use it in good
+health.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+Is that a new
+watering can?{PAUSE}{WIPE}
+Don't forget to use
+it
+for living things.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 122:
+That watering can
+looks very well used.{PAUSE}{WIPE}
+Never forget that
+all living things
+need water.{PAUSE}{EOM}
+
+Message 123:
+{FACE_0A0002}Do you intend to
+water here? Is there
+a point to doing so?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+{S_34013F}{FACE_0A000A}I can tell by
+your watering can
+that you are serious{PAUSE}
+about caring for your
+crops. Good job.{PAUSE}{EOM}{EOM}
+
+Message 125:
+What an old watering
+can! Must be a joy
+to use.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+Is that an automatic
+milker? How things
+have progressed...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 127:
+Milk contains lots of
+calcium, which is
+good for bones.{PAUSE}{EOM}{EOM}
+
+Message 128:
+{FACE_0A0002}I didn't think
+there were any cows
+around these parts...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 129:
+Those wool clippers
+look hard to
+handle...{PAUSE}{EOM}
+
+Message 130:
+{S_34013F}When I was young,
+I used clippers to
+shave my head bald.{PAUSE}{WIPE}
+...What, you don't
+believe me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 131:
+You use those to
+shear sheep, sir?
+Please be careful.{PAUSE}{EOM}{EOM}
+
+Message 132:
+Those clippers look
+new. Are they?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+You seem to be
+getting good use out
+of those clippers.{PAUSE}{EOM}
+
+Message 134:
+Could you shave a
+human head with those
+clippers, sir?{PAUSE}{WIPE}
+{S_34013F}I used to shave
+my head as a youth,
+you know...{PAUSE}{EOM}{EOM}
+
+Message 135:
+{S_34013F}{FACE_0A000A}Those clippers
+look like they've
+seen years of use.{PAUSE}{EOM}{EOM}
+
+Message 136:
+New tools are
+difficult to use, but
+once you get the{PAUSE}
+hang of them,
+everything gets
+easier.{PAUSE}{EOM}{EOM}
+
+Message 137:
+Doesn't holding a new
+tool make you want
+to get to work?{PAUSE}{EOM}{EOM}
+
+Message 138:
+If you love and use a
+tool, it will reward
+you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 139:
+{S_34013F}The better you get
+at using your tools,
+the faster you'll{PAUSE}
+be able to work.{PAUSE}{EOM}
+
+Message 140:
+{S_34013F}Now that tool looks
+like it's been around
+for a while...{PAUSE}{EOM}{EOM}
+
+Message 141:
+{FACE_0A000A}Looking at a
+well-worn tool just
+makes me happy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 142:
+{FACE_0A0009}Is that stone rare?
+Sorry, I have no
+expertise in rocks.{PAUSE}{EOM}
+
+Message 143:
+Rare stones and the
+like sell for lots of
+money, you know.{PAUSE}{EOM}{EOM}
+
+Message 144:
+{FACE_0A0003}Now this is a rare
+find. I'm quite a
+collector, myself.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 145:
+Would you be willing
+to part with that?
+{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 146:
+{S_34013F}{FACE_0A0003}I will treasure
+it forever.{PAUSE}{WIPE}
+{FACE_0A0009}Do you think
+I have strange
+tastes...? {S_3203E8}{EOM}{EOM}
+
+Message 147:
+{FACE_0A0009}I see...
+That's too bad.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+You gathered those
+plants around
+here, sir?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 149:
+I hear that some
+plants in this area
+have strange and{PAUSE}
+wonderful properties.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+You can eat wild
+plants, but not
+grasses, you know.{PAUSE}{EOM}{EOM}
+
+Message 151:
+What a pretty
+flower.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+{FACE_0A000A}How unusual.
+A record.{PAUSE}{EOM}{EOM}
+
+Message 153:
+What is the
+recording of?{PAUSE}{WIPE}
+I collect antiques,
+you see.{PAUSE}{EOM}{EOM}
+
+Message 154:
+Records and songs
+have a long and
+fascinating history.{PAUSE}{WIPE}
+They can trigger
+personal memories
+as well...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 155:
+I used to listen to
+music all the time,
+and I still love to{PAUSE}
+relax to classical
+recordings...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+{FACE_0A000A}What a rare spice you
+have there. Where did
+you find it?{PAUSE}{EOM}{EOM}
+
+Message 157:
+I'd love to be able
+to use it for Miss
+Romana...{PAUSE}{EOM}
+
+Message 158:
+{FACE_0A000A}Just thinking of the
+things I could make
+with that sends{PAUSE}
+shivers down my
+spine.{PAUSE}{EOM}{EOM}
+
+Message 159:
+{S_3400DA}{S_3205DC}What an interesting
+sound that is!{PAUSE}{WIPE}
+I'm a classical music
+aficionado, you know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+{S_3400DA}{S_3205DC}Somehow I find
+that sound
+relaxing...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 161:
+{S_340042}{S_3205DC}What an unusual
+drum? Where did you
+unearth it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+What a nice medal
+that is.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+Did you win it in
+a competition?
+I never could...{PAUSE}{EOM}{EOM}
+
+Message 164:
+If there were a
+butler's competition,
+I bet I could take{PAUSE}{WIPE}
+first place, though.
+...Why do you think
+that's funny?{PAUSE}{EOM}{EOM}
+
+Message 165:
+Oh yeah...I think I
+have seen that medal
+somewhere before...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 166:
+What an odd
+necklace that is.{PAUSE}{EOM}{EOM}
+
+Message 167:
+I am very familiar
+with fine jewelry,
+but I can't figure{PAUSE}{WIPE}
+out where that
+necklace is from.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 168:
+{FACE_0A0009}No, no,
+I don't want it
+myself.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 169:
+I think that's the
+same kind of music
+notation that{PAUSE}
+Miss Lumina brought
+back with her...{PAUSE}{EOM}
+
+Message 170:
+Did you get that
+from Miss Lumina?{PAUSE}{WIPE}
+{FACE_0A0009}She must have
+given it to you
+because she{PAUSE}
+couldn't play it
+herself.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+{FACE_0A0009}Me? I don't play
+either. I just listen
+and appreciate.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+I bet that firework
+is glorious when
+set off.{PAUSE}{EOM}
+
+Message 173:
+Depending on their
+chemical composition,
+fireworks can have{PAUSE}
+all kinds of colors
+and shapes. What kind
+is that, I wonder?{PAUSE}{EOM}
+
+Message 174:
+Please call me when
+you set it off.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 175:
+{FACE_0A0009}A present? For me?
+Thanks, but I really
+couldn't accept it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 176:
+{FACE_0A0003}Ha ha, is it a
+gift for someone?
+Could it be for...!?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 177:
+...Sorry, I guess I
+was just assuming...
+Never mind.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 178:
+{FACE_0A0009}That's a gift for
+someone, sir? Why
+show it to me?{PAUSE}{EOM}
+
+Message 179:
+I've been serving
+Miss Romana for
+decades now...{PAUSE}{WIPE}
+The years have
+just flown by.{PAUSE}{EOM}{EOM}
+
+Message 180:
+My father served Miss
+Romana's family, too.{PAUSE}{WIPE}
+We've known each
+other since we were
+babies.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+If I could, I would
+stay by her side all
+day...{PAUSE}{WIPE}
+{FACE_0A0009}But, that gets on her
+nerves, so I take
+walks.{PAUSE}{EOM}
+
+Message 182:
+{FACE_0A0003}That dish you gave me
+the other day was
+truly superb.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 183:
+{FACE_0A0009}That dish you gave me
+the other day...Well,
+let's just say{PAUSE}
+I'd rather not eat it
+again. I'm
+terribly sorry...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 184:
+{FACE_0A0009}That {VAR_00}
+you gave me the other
+day...{PAUSE}{WIPE}
+It was a good effort,
+but it still needs
+work.{PAUSE}{EOM}{EOM}
+
+Message 185:
+{FACE_0A000A}That {VAR_00}
+you gave me the other
+day...{PAUSE}{WIPE}
+It was excellent.
+I'd eat it again
+any time.{PAUSE}{EOM}
+
+Message 186:
+{S_34013F}{FACE_0A0003}That {VAR_00}
+you gave me the other
+day...{PAUSE}{WIPE}
+It was the best I've
+ever had. Please
+teach me.{PAUSE}{EOM}
+
+Message 187:
+{S_34013F}{FACE_0A0003}That {VAR_00}
+you gave me the other
+day...{PAUSE}{WIPE}
+I loved it. I could
+use it for almost
+any dish!{PAUSE}{EOM}{EOM}
+
+Message 188:
+The milk you gave me
+tasted so nutritious.{PAUSE}{EOM}{EOM}
+
+Message 189:
+{FACE_0A0009}The milk you gave me
+was...err...
+Oh, never mind.{PAUSE}{EOM}
+
+Message 190:
+{FACE_0A0009}I don't mean to
+insult, but I think
+you can do better{PAUSE}{WIPE}
+than the milk you
+gave me.
+Don't take it hard.{PAUSE}{EOM}{EOM}
+
+Message 191:
+The milk you gave me
+the other day was
+high quality, but...{PAUSE}
+somehow I expected
+a little more.{PAUSE}{EOM}
+
+Message 192:
+{S_34013F}{FACE_0A000A}The milk you gave me
+was superior to all
+other milks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 193:
+{FACE_0A0009}The milk you gave me
+was...err...{PAUSE}{WIPE}
+Let's just say it
+might be better
+as cheese.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 194:
+{FACE_0A0009}I don't mean to
+insult, but I think
+you can do better{PAUSE}
+than the milk you
+gave me.
+Don't take it hard.{PAUSE}{WIPE}
+Perhaps it would be
+better processed as
+cheese...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+The milk you gave me
+the other day was
+high quality, but...{PAUSE}
+somehow I expected
+a little more.{PAUSE}{WIPE}
+It might be better
+as cheese.{PAUSE}{EOM}
+
+Message 196:
+{S_34013F}{FACE_0A0003}The milk you gave me
+was superior to all
+other milks.{PAUSE}{WIPE}
+However, think of
+the cheese it would
+make.{PAUSE}{EOM}{EOM}
+
+Message 197:
+The milk you gave
+me was very high
+quality, but perhaps{PAUSE}
+a little...thin.{PAUSE}{EOM}{EOM}
+
+Message 198:
+{S_34013F}{FACE_0A000A}The milk you gave
+me was very fine.
+Thank you.{PAUSE}{EOM}
+
+Message 199:
+{S_34013F}{FACE_0A000A}The milk you gave me
+was nice and thick.
+Thanks.{PAUSE}{EOM}
+
+Message 200:
+{S_34013F}{FACE_0A0003}The milk you gave me
+was superior to all
+other milks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+{FACE_0A0009}The milk you gave me
+was...err...{PAUSE}{WIPE}
+Let's just say it
+might be better
+as butter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 202:
+{FACE_0A0009}I don't mean to
+insult, but I think
+you can do better{PAUSE}
+than the milk you
+gave me.
+Don't take it hard.{PAUSE}{WIPE}
+Perhaps it would be
+better processed as
+butter...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 203:
+The milk you gave me
+the other day was
+high quality, but...{PAUSE}{WIPE}
+somehow I expected
+a little more.{PAUSE}{WIPE}
+It might be better
+used as butter.
+What do you think?{PAUSE}{EOM}
+
+Message 204:
+{S_34013F}{FACE_0A000A}The milk you gave me
+was superior to all
+other milks.{PAUSE}{WIPE}
+However, I have to
+say it was a
+little thick. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 205:
+{FACE_0A0009}The milk you
+gave me the other day
+was a tad stinky.{PAUSE}{EOM}{EOM}
+
+Message 206:
+{FACE_0A000A}The milk you gave
+me was very good,
+if a tad stinky.{PAUSE}{EOM}{EOM}
+
+Message 207:
+{S_34013F}{FACE_0A0003}I was completely
+bowled over by the
+cheese you gave me.{PAUSE}{WIPE}
+It was truly superb.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 208:
+{S_34013F}{FACE_0A000A}The cheese you
+gave me was a little
+too pungent,{PAUSE}
+but otherwise
+quite good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+{S_34013F}{FACE_0A0003}The cheese you
+gave me was some of
+the finest I've ever{PAUSE}{WIPE}
+tasted...And I've
+had the finest.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 210:
+You made that
+cheese you gave
+me, didn't you?{PAUSE}{EOM}
+
+Message 211:
+{S_34013F}{FACE_0A0003}The butter you
+gave me was very
+flavorful indeed.{PAUSE}{EOM}{EOM}
+
+Message 212:
+{S_34013F}{FACE_0A000A}The butter you
+gave me was a tad
+too pungent, but{PAUSE}
+still quite a good
+effort.{PAUSE}{EOM}{EOM}
+
+Message 213:
+{S_34013F}{FACE_0A0003}That butter you
+gave me was some of
+the finest I've ever{PAUSE}
+tasted...And I've
+had the finest.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+You made that
+butter you gave
+me, didn't you?{PAUSE}{EOM}
+
+Message 215:
+{S_34013F}{FACE_0A0003}I was completely
+bowled over by that
+{VAR_00}.{PAUSE}{WIPE}
+It made me realize
+I should never stop
+aspiring to improve{PAUSE}{WIPE}
+for Miss Romana's
+sake!{PAUSE}{EOM}{EOM}
+
+Message 216:
+{S_34013F}{FACE_0A000A}That dish you
+gave me was
+scrumptious.{PAUSE}{WIPE}
+You are an
+inspiration, sir.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 217:
+{S_34013F}{FACE_0A0003}That fish you
+caught and gave to
+me was a delicacy.{PAUSE}{WIPE}
+One could cook
+anything with
+such a fish.{PAUSE}{EOM}{EOM}
+
+Message 218:
+{S_34013F}{FACE_0A000A}That fish you
+caught and gave to me
+was quite a treat.{PAUSE}{WIPE}
+Perhaps I should take
+up fishing...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 219:
+{S_34013F}{FACE_0A0003}I see you are
+making every effort
+on the farm.{PAUSE}{WIPE}
+You should be
+commended.{PAUSE}{EOM}
+
+Message 220:
+{S_34013F}{FACE_0A0003}I hear your crops
+are some of the best
+around.{PAUSE}{EOM}
+
+Message 221:
+{S_34013F}{FACE_0A0003}I hear your crops are
+delicious. I am half
+jealous, I must say.{PAUSE}{EOM}{EOM}
+
+Message 222:
+{S_34013F}{FACE_0A000A}I can see how hard
+you're working. It
+shows in your face.{PAUSE}{EOM}
+
+Message 223:
+{S_34013F}{FACE_0A000A}I hear you have
+developed into quite
+the cook.{PAUSE}{WIPE}
+I mustn't let you
+get ahead of me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 224:
+Looks like you're
+getting used to the
+farming life.{PAUSE}{WIPE}
+Remember what they
+say about Rome not
+being built in a day.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 225:
+Looks like you're
+getting better at
+raising crops.{PAUSE}{WIPE}
+Remember what they
+say about Rome not
+being built in a day.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 226:
+Looks like you're
+getting better
+at cooking.{PAUSE}{WIPE}
+Remember what they
+say about Rome not
+being built in a day.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+What do you think of
+my painting hobby?
+{CHOICE2 DEF1}
+I don't get it.
+Nice.{EOM}{EOM}{EOM}
+
+Message 228:
+{FACE_0A0009}That's too bad...
+Many people fail to
+understand it...{PAUSE}{WIPE}
+Thanks for your
+candor, though.{PAUSE}{EOM}{EOM}
+
+Message 229:
+{S_34013F}{FACE_0A0003}Thank you so
+much for saying so,
+even if you{PAUSE}
+aren't sincere.
+I think I'll go
+paint now.{PAUSE}{EOM}{EOM}
+
+Message 230:
+I've never been
+formally trained,
+but it does{PAUSE}
+soothe me for some
+reason.{PAUSE}{EOM}{EOM}
+
+Message 231:
+{S_34013F}Why don't you
+give it a try?
+You might like it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 232:
+{S_34013F}I like coming here
+once in a while.{PAUSE}{WIPE}
+...What, that
+surprises you. sir?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 233:
+My favorite is
+{C13}Cherry Pink{C17}.{PAUSE}{WIPE}
+It's old fashioned,
+but so am I.{PAUSE}{EOM}{EOM}
+
+Message 234:
+{S_34013F}{FACE_0A0003}Drink up, {PETE}.
+We're here to have
+fun, after all.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 235:
+{FACE_0A000A}Make yourself
+at home. Not that
+it's my home...{PAUSE}{EOM}
+
+Message 236:
+{FACE_0A000A}Take a load off
+and relax.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 237:
+{FACE_0A000A}The music and food
+here always make
+me relax.{PAUSE}{EOM}
+
+Message 238:
+{S_34013F}I see you like
+it here too, sir.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 239:
+{S_34013F}{FACE_0A000A}Nature becomes so
+beautiful in the
+spring.{PAUSE}{WIPE}
+It's my favorite time
+to sketch landscapes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 240:
+{S_34013F}{FACE_0A000A}Isn't this a
+pleasant season?{PAUSE}{WIPE}
+It must be nice
+for working outdoors.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 241:
+{FACE_0A0009}What do you think
+of Forget-Me-Not
+Valley's weather?{PAUSE}{WIPE}
+I don't like the
+heat myself... It
+slows down my work...{PAUSE}{WIPE}
+...Ha! {FACE_0A0000}
+Oh, no. The weather
+doesn't change the{PAUSE}{WIPE}
+quality of my work.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 242:
+{FACE_0A0009}Aren't you hot?
+I don't like the
+heat much...{PAUSE}{WIPE}
+Or the cold,
+for that matter!{PAUSE}{EOM}
+
+Message 243:
+{S_34013F}{FACE_0A000A}This is my favorite
+season of all. Not
+too hot or too cold.{PAUSE}{EOM}{EOM}
+
+Message 244:
+{S_34013F}{FACE_0A000A}The fall leaves
+are a fantastic
+subject for painting.{PAUSE}{EOM}{EOM}
+
+Message 245:
+{FACE_0A0009}It's so hard to work
+in the winter.
+My bones get so stiff.{PAUSE}{WIPE}
+{FACE_0A0000}Of course, I still
+perform all my
+duties. Of course.{PAUSE}{EOM}
+
+Message 246:
+{FACE_0A0009} Aren't you cold?
+I don't like the
+cold much...{PAUSE}{WIPE}
+Or the heat,
+for that matter...{PAUSE}{EOM}{EOM}
+
+Message 247:
+Miss Lumina's mother
+was quite a talented
+pianist, too.{PAUSE}{EOM}
+
+Message 248:
+{FACE_0A0004}Shhh...
+Miss Lumina is
+practicing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 249:
+{FACE_0A0004}...Please be
+quiet.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 250:
+{FACE_0A0009}...Sorry...
+I didn't mean to
+lose my temper.{PAUSE}{EOM}{EOM}
+
+Message 251:
+{FACE_0A0009}I tried to stop her,
+but Miss Lumina
+insisted on helping{PAUSE}
+me clean up. What a
+kind heart she is.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 252:
+Miss Lumina
+really is a
+gentle soul.{PAUSE}{EOM}
+
+Message 253:
+Miss Kate wants to
+listen to my stories.{PAUSE}{WIPE}
+I wonder if I'll be
+any help to her...{PAUSE}{WIPE}
+I'm pleased to share
+my stories with her,
+though.{PAUSE}{EOM}{EOM}
+
+Message 254:
+{FACE_0A0009}I-I-I'm honored...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 255:
+{FACE_0A0009}Pardon my rudeness,
+but might you give
+it to me next time?{PAUSE}{EOM}{EOM}
+
+Message 256:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 257:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 258:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 259:
+......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 260:
+It's my bedtime now,
+so...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 261:
+Dreadfully sorry, but
+I really must get
+some sleep.{PAUSE}{EOM}
+
+Message 262:
+Good night, sir...{PAUSE}{EOM}
+
+Message 263:
+I have many errands
+to run now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 264:
+I really must
+leave now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 265:
+Excuse me, but
+I must go.{PAUSE}{EOM}{EOM}
+
+Message 266:
+How may I be of
+service, {S_32012C}
+Miss Lumina?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 267:
+I must leave now, but
+you take your time,
+{PETE}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+I have nothing
+against you, but
+this is for{PAUSE}
+Miss Lumina's sake.{S_3200C8}
+Prepare yourself,
+sir!{PAUSE}{EOM}
+
+Message 269:
+I'm coming!
+Toooohhh!!{PAUSE}{EOM}
+
+Message 270:
+I can't believe it...
+I wanted to give Miss
+Lumina the best{PAUSE}
+paintbrush I could...{PAUSE}{EOM}{EOM}
+
+Message 271:
+What's the matter, {S_32012C}
+Miss Lumina?{PAUSE}{EOM}
+
+Message 272:
+Sure. {S_32012C}No problem.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

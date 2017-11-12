@@ -1,0 +1,924 @@
+Message 0:
+{GRIFFIN}! How can
+you leave your bar!{PAUSE}{EOM}
+
+Message 1:
+How can the order
+of things gotten so
+mixed up... {S_321388}{PAUSE}{WIPE}
+{FACE_160000}I'm going to go home
+and shoot off the
+biggest firework {PAUSE}
+I have just for
+you, my friend!! {PAUSE}{EOM}
+
+Message 2:
+{GRIFFIN},
+can we have a song? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+I'm about to go
+to sleep. {PAUSE}{EOM}
+
+Message 4:
+It's time for bed,
+so pleas go home. {PAUSE}{EOM}
+
+Message 5:
+G'night. {PAUSE}{EOM}{EOM}
+
+Message 6:
+I need to be going
+shortly. {PAUSE}{EOM}
+
+Message 7:
+I really need to
+get out of here. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+Bye. {PAUSE}{EOM}{EOM}
+
+Message 9:
+Pardon me. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+Hey there,
+young man. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+{FACE_160009}There's nothing
+here? {PAUSE}{WIPE}
+I guess you must
+have sold out. {PAUSE}{EOM}{EOM}
+
+Message 12:
+Oh, well guess I'll
+have to come back
+next time. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+I'm just taking a
+quick look around.
+Don't mind me. {PAUSE}{EOM}
+
+Message 14:
+Is there anything
+else available? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+Well, never mind...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 16:
+Welcome to Forget-
+Me-Not Valley. {PAUSE}{WIPE}
+I'm Kassey, the
+best pyrotechnician
+in the world. {PAUSE}{WIPE}
+Don't confuse me
+with my younger
+twin Patrick. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+{FACE_160007}Um...{PAUSE}{EOM}
+
+Message 18:
+{FACE_160007}Just leave me alone
+please... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+{FACE_160004}You, young punk!! {PAUSE}{EOM}{EOM}
+
+Message 20:
+{FACE_160004}What do you want! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+Morning. {PAUSE}{EOM}{EOM}
+
+Message 22:
+Afternoon. {PAUSE}{EOM}{EOM}
+
+Message 23:
+Evening. {PAUSE}{EOM}{EOM}
+
+Message 24:
+What's a young'un
+like you doing
+out at night? {PAUSE}{EOM}{EOM}
+
+Message 25:
+What's a young'un
+like you doing
+out at night? {PAUSE}{EOM}{EOM}
+
+Message 26:
+Hey young'un. {PAUSE}{WIPE}
+If you want to know
+how to make
+fireworks, forget it.{PAUSE}{EOM}{EOM}
+
+Message 27:
+What are you doing
+out in the middle
+of the night? {PAUSE}{WIPE}
+Me? I'm just
+doing... things. {PAUSE}{EOM}{EOM}
+
+Message 28:
+Oh, young'un.
+What brings you
+here? {PAUSE}{EOM}
+
+Message 29:
+{FACE_160003}Is that for me!?
+Oh boy, oh boy!
+That's my favorite...
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 30:
+{FACE_160003}Thank you so much.
+You're not bad for
+a young'un. {PAUSE}{WIPE}
+Can't wait to
+taste it... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+{FACE_160004}How dare you!
+{FACE_160009}Humph... {PAUSE}{EOM}
+
+Message 32:
+{FACE_160003}That looks good.
+It makes me drool
+just looking at it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+Hey, young'un you've
+got something good...{PAUSE}{WIPE}
+{FACE_160003}It must be for me
+right?{CHOICE Y/N DEF1}{EOM}
+
+Message 34:
+{FACE_160003}That's my weakness.
+Besides young girls
+that is... {PAUSE}{EOM}
+
+Message 35:
+{FACE_160004}Don't show that
+nonsense to me!! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+{FACE_160007}Just looking at it
+makes me feel sick... {PAUSE}{EOM}
+
+Message 37:
+{FACE_160009}What is that?
+I'm not interested
+in that at all. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+{FACE_160004}Can you show me
+something I might
+like instead? {PAUSE}{WIPE}
+{FACE_160003}Like a pretty
+swimsuit model. {PAUSE}{EOM}{EOM}
+
+Message 39:
+{FACE_160009}Young'un.
+Sorry, but I don't
+really like kids. {PAUSE}{EOM}
+
+Message 40:
+{FACE_160009}I guess he's cute?
+I can't really tell. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+{FACE_160009}Young'un.
+I don't really think
+animals are cute. {PAUSE}{EOM}
+
+Message 42:
+{FACE_160009}They're a pain, and
+on top of that they
+smell. {PAUSE}{WIPE}
+I don't know why
+anyone would ever
+want pets. {PAUSE}{EOM}
+
+Message 43:
+{FACE_160009}Young'un, what's
+that seed? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 44:
+Grow some really
+good crops okay? {PAUSE}{EOM}
+
+Message 45:
+Young'un, you
+grew this?
+Not bad. {PAUSE}{EOM}
+
+Message 46:
+It looks pretty
+good. {PAUSE}{WIPE}
+Why not try growing
+other things? {PAUSE}{EOM}{EOM}
+
+Message 47:
+You brought this
+from your farm? {PAUSE}{WIPE}
+Fresh milk always
+tastes good. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+Hey, young'un.
+Got milk?
+Ha ha ha ha! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+Young'un, you
+caught that fish?
+Not bad. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+You like to fish?
+I like games myself. {PAUSE}{EOM}
+
+Message 51:
+You picked those
+wild grasses? {PAUSE}{WIPE}
+Try mixing them
+in your food when
+you cook. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+Do you like picking
+wild plants? {PAUSE}{WIPE}
+Personally, I like
+games instead. {PAUSE}{EOM}
+
+Message 53:
+This is some good
+looking food. {PAUSE}{WIPE}
+{FACE_160003}Oh, is this for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 54:
+It really looks
+good. {PAUSE}{WIPE}
+This won't be
+enough for me. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+{FACE_160009}Is this a good hoe?
+Who knows? {PAUSE}{WIPE}
+I only know two
+things expertly... {PAUSE}{WIPE}
+Fireworks...
+{FACE_160003}And pretty girls. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{FACE_160009}Aren't you supposed
+to use hoes in a
+field? {PAUSE}{WIPE}
+What are you going
+to do with that
+here? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+The more you use it,
+the easier it gets
+to use for you. {PAUSE}{WIPE}
+That's how all
+tools are.
+Understand? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+{FACE_160009}Is this a good
+sickle? Who knows? {PAUSE}{WIPE}
+I only know two
+things expertly... {PAUSE}{WIPE}
+Fireworks...
+{FACE_160003}And pretty girls. {PAUSE}{EOM}{EOM}
+
+Message 59:
+{FACE_160009}Young'un, don't you
+use a sickle to cut
+down field grass? {PAUSE}{WIPE}
+Don't go spinning
+around here with it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+{FACE_160009}That's a watering
+can... {PAUSE}{WIPE}
+I use those when I
+have a fire while
+making fireworks... {PAUSE}{WIPE}
+That's not enough
+for me to use. {PAUSE}{EOM}
+
+Message 61:
+Don't spill any
+water around here. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 62:
+{FACE_16000C}Young'un, what the
+heck is that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 63:
+{FACE_160003}T-that's a machine
+for milking? {PAUSE}{WIPE}
+{FACE_160009}Oh, you meant for
+cows? {PAUSE}{EOM}{EOM}
+
+Message 64:
+{FACE_160009}Young'un, those are
+shears. {PAUSE}
+I don't use them. {PAUSE}{EOM}
+
+Message 65:
+It might be good for
+shaving someone's
+head if they lost {PAUSE}
+to me in a game
+or something. {PAUSE}{WIPE}
+What do you think?
+Good idea? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+If you use your
+tools skillfully,
+you can progress {PAUSE}
+along your work
+quicker. {PAUSE}{EOM}{EOM}
+
+Message 67:
+{FACE_16000C}Oh! What's that?
+{FACE_160003}Is that for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 68:
+{FACE_16000C}I don't know what
+that is, but I'm
+excited to see it. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+Young'un, those are
+plants from around
+here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+Young'un, I don't
+know a thing about
+wild plants. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+{FACE_16000C}Young'un is that
+a frisbee or
+something? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+{FACE_160003}I know!
+It's for target
+practice... {PAUSE}{WIPE}
+Just throw it in
+the air, and I'll
+shoot it down! {PAUSE}{EOM}
+
+Message 73:
+{FACE_16000C}Young'un.
+What is that? {PAUSE}{WIPE}
+Does it have
+anything to do
+with me? {PAUSE}{EOM}{EOM}
+
+Message 74:
+{FACE_16000C}That's a very
+unusual object. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+That's Patrick's
+firework. {PAUSE}{WIPE}
+He still can't
+compare to mine. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+This is a good
+firework. {PAUSE}{WIPE}
+Of course how can
+you tell without
+shooting it off? {PAUSE}{EOM}
+
+Message 77:
+Is that for me?
+{FACE_160009}...
+It's not?{PAUSE}{WIPE}
+{FACE_160004}That's rude. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+Are you going to
+give that to
+someone? {PAUSE}{EOM}
+
+Message 79:
+We live in the shack
+and make fireworks. {PAUSE}{WIPE}
+I have a twin
+brother, and I'm the
+older one by the way.{PAUSE}{EOM}{EOM}
+
+Message 80:
+We come from a long
+line of traditional
+pyrotechnicians. {PAUSE}{WIPE}
+That's why we're
+the best when it
+comes to fireworks. {PAUSE}{EOM}
+
+Message 81:
+Actually the truth
+is that I was with
+Patrick working on {PAUSE}
+a 3 Meter firework
+when suddenly it
+went off. {PAUSE}{WIPE}
+We both fell down
+into this valley. {PAUSE}{WIPE}
+We've been living
+here ever since. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+{FACE_160003}The stuff you gave
+me last time was
+really great. {PAUSE}{WIPE}
+You're not bad,
+young'un. {PAUSE}{EOM}{EOM}
+
+Message 83:
+{FACE_160009}The stuff you gave
+me last time was
+horrible. {PAUSE}{WIPE}
+Bleh! {PAUSE}{EOM}{EOM}
+
+Message 84:
+{FACE_160009}The {VAR_00}
+you gave me before
+was very bland. {PAUSE}{WIPE}
+You've got a lot
+to learn still. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{FACE_160003}The {VAR_00}
+you gave me before
+was really good. {PAUSE}{WIPE}
+I'll take more if
+you get any. {PAUSE}{EOM}{EOM}
+
+Message 86:
+{FACE_160003}The {VAR_00}
+you gave me before
+was the best. {PAUSE}{WIPE}
+You're pretty
+good, young'un. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+{FACE_160003}The {VAR_00}
+you gave me before
+was my favorite. {PAUSE}{WIPE}
+It was so good. {PAUSE}{EOM}
+
+Message 88:
+{FACE_160009}The milk you gave
+me before was
+alright. {PAUSE}{WIPE}
+You've still got
+a lot to learn. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+The milk you gave
+me before was so-so.{PAUSE}{WIPE}
+I'd take more again
+if you had any,
+though... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+{FACE_160003}The milk you gave
+me before was
+wonderful. {PAUSE}{WIPE}
+Thank you and please
+bring me more. {PAUSE}{EOM}
+
+Message 91:
+{FACE_160003}The milk you gave
+me before was the
+best. Thanks. {PAUSE}{EOM}
+
+Message 92:
+{FACE_160009}The milk you gave
+me before was
+really smelly. {PAUSE}{EOM}{EOM}
+
+Message 93:
+{FACE_160003}The milk you gave
+me before was
+really good. {PAUSE}{WIPE}
+Funny thing was
+it smelled a
+little. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+{FACE_160003}The cheese you
+gave me before was
+great. Thank you.{PAUSE}{EOM}{EOM}
+
+Message 95:
+You made the cheese
+I had before, right?{PAUSE}{EOM}{EOM}
+
+Message 96:
+{FACE_160003}The butter I got
+before was great.
+Thanks a lot. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 97:
+You made the butter
+I had before right? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 98:
+{FACE_160003}The dish I had last
+time was great.
+Thank you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+{FACE_160003}The fish I had last
+time was great.
+Thank you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+{FACE_160003}The wild grasses
+I had last time were
+delicious. {PAUSE}{WIPE}
+Thank you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 101:
+{FACE_160003}That stuff you gave
+me last time was
+great. Thanks. {PAUSE}{EOM}
+
+Message 102:
+Everyday you work
+very hard. {PAUSE}{WIPE}
+Striving to become
+the king of the
+mountain. {PAUSE}{WIPE}
+You've become a
+great farmer.
+Well done. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+You said you're
+skilled at growing
+crops? {PAUSE}{WIPE}
+Striving to become
+the king of the
+mountain? {PAUSE}{WIPE}
+Keep trying,
+you'll get there. {PAUSE}{EOM}
+
+Message 104:
+You said you're
+great at cooking? {PAUSE}{WIPE}
+Keep working hard
+and then become a
+great cook instead. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 105:
+You work hard
+everyday? {PAUSE}{WIPE}
+Effort is the
+foundation of
+success. {PAUSE}{WIPE}
+You're farm has
+gotten better,
+I can tell. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 106:
+It takes strength
+to grow good crops.{PAUSE}{WIPE}
+More than strength,
+it takes effort. {PAUSE}{WIPE}
+Keep up the good
+work. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+Do you cook at home
+often? {PAUSE}{WIPE}
+I've heard you're
+a good cook. {PAUSE}{WIPE}
+Put all your effort
+into cooking or
+whatever it is {PAUSE}
+that you ever want
+to become good at.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+Are you getting used
+to farm work? {PAUSE}{WIPE}
+The real challenge
+has yet to come. {PAUSE}{WIPE}
+Keep up the good
+work young'un! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+Have you gotten the
+hang of growing
+crops yet? {PAUSE}{WIPE}
+You're still young,
+so you have time to
+figure it out. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+Have you gotten the
+hang of cooking? {PAUSE}{WIPE}
+You're still young,
+so you have time to
+figure it out. {PAUSE}{EOM}{EOM}
+
+Message 111:
+Young'un.
+Which do you like
+better? {PAUSE}
+Girls or
+fireworks?
+{CHOICE3 DEF1}
+Fireworks.
+Girls.
+Both.{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+{FACE_160003}So you like
+fireworks, do you? {PAUSE}{WIPE}
+I have a great one
+to show you... {PAUSE}{WIPE}
+{FACE_160009}But it's not ready
+yet. {PAUSE}{WIPE}
+I'm researching a
+new type of firework.{PAUSE}{WIPE}
+{FACE_160003}You're not interested
+in girls at all?{PAUSE}{EOM}{EOM}
+
+Message 113:
+{FACE_16000C}You're my kind
+of guy! {PAUSE}{WIPE}
+Now that I think
+of it, you do look
+like a pervert. {PAUSE}{WIPE}
+Not that that's
+a bad thing! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+{FACE_16000C}Both!
+{FACE_160003}Hah, now that's
+the ticket. {PAUSE}{WIPE}
+They're both very
+beautiful!
+Ha ha ha! {PAUSE}{EOM}{EOM}{EOM}
+
+Message 115:
+{FACE_160004}Don't talk to me
+when I'm making
+fireworks. {PAUSE}{WIPE}
+Even the slightest
+mistake could
+blow us both up. {PAUSE}{EOM}
+
+Message 116:
+{FACE_160004}Don't touch that.{PAUSE}{WIPE}
+Even the slightest
+mistake could
+blow us both up. {PAUSE}{EOM}
+
+Message 117:
+You better watch out
+if we play a game
+and I win. {PAUSE}{WIPE}
+The slightest thing,
+and I'll blow up. {PAUSE}{EOM}
+
+Message 118:
+Be careful when I'm
+not in a good mood. {PAUSE}{WIPE}
+The slightest thing,
+and I'll blow up. {PAUSE}{EOM}{EOM}
+
+Message 119:
+Be careful when I'm
+not in a good mood. {PAUSE}{WIPE}
+The slightest thing,
+and I'll blow up.
+...Not now.{PAUSE}{EOM}
+
+Message 120:
+{FACE_160004}The drinks here are
+too expensive. {PAUSE}{WIPE}
+I'll go complain
+to someone... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+{FACE_160003}I just love
+{C13}Moomoo Milk{C17}. {PAUSE}{WIPE}
+You know what I mean
+right, young'un?
+Heh heh heh! {PAUSE}{EOM}
+
+Message 122:
+Griffin doesn't
+really talk too
+much. {PAUSE}{WIPE}
+I guess that's how
+guitar players are. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 123:
+Make yourself at
+home, but I only got
+one game to play. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+Just take a load
+off, young'un. {PAUSE}{EOM}
+
+Message 125:
+{FACE_160003}Grab a seat and
+relax yourself. {PAUSE}{EOM}
+
+Message 126:
+{FACE_160003}I really like
+this place.
+Don't you? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 127:
+{FACE_160003}This time of year
+makes me feel
+so good. {PAUSE}{WIPE}
+I'd love to have a
+huge party... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+This is the best
+time of year for
+drinking, eating {PAUSE}
+and of course
+wanton carousing. {PAUSE}{EOM}{EOM}
+
+Message 129:
+Playing games are
+great because it
+doesn't depend on{PAUSE}
+the weather.{PAUSE}{EOM}{EOM}
+
+Message 130:
+{FACE_160009}I wonder what kind
+of firework I'll
+make next... {PAUSE}{WIPE}
+{FACE_160003}I'll make something
+the girls like. {PAUSE}{WIPE}
+I wonder what Muffy
+likes...? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+{FACE_160009}It's so hot and
+humid. Whew...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+Still, this is the
+best time of year
+for fireworks. {PAUSE}{EOM}
+
+Message 133:
+{FACE_160003}Not hot...
+Not cold... {PAUSE}{WIPE}
+Don't you agree this
+is the best time
+of the year? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+{FACE_160003}I wish I had some
+good food and drink
+today. {PAUSE}{WIPE}
+This season makes
+me feel so
+refreshed. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 135:
+{FACE_160009}It's so cold. {PAUSE}{EOM}{EOM}
+
+Message 136:
+This is a great time
+of year to be in a
+hot-tub with {PAUSE}{WIPE}
+swimsuit supermodels.
+Of course that can't
+happen here in the{PAUSE}
+valley... {PAUSE}{EOM}
+
+Message 137:
+I love the sea.
+Do you? {PAUSE}{EOM}
+
+Message 138:
+The sea makes me
+think of fireworks. {PAUSE}{WIPE}
+Don't you think
+so too, young'un? {PAUSE}{WIPE}
+You'll understand
+in time... {PAUSE}{EOM}{EOM}
+
+Message 139:
+Thanks for coming,
+young'un.
+Let's play a game.
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 140:
+Come at me with
+all you've got. {PAUSE}{EOM}{EOM}
+
+Message 141:
+{FACE_160004}So, running away
+with your tail
+between your legs? {PAUSE}{WIPE}
+Hah! {PAUSE}{EOM}{EOM}
+
+Message 142:
+{FACE_16000C}That's too bad,
+let's try next
+time okay? {PAUSE}{WIPE}
+I can't right
+now. {PAUSE}{EOM}{EOM}
+
+Message 143:
+...... {PAUSE}{EOM}{EOM}
+
+Message 144:
+...... {PAUSE}{EOM}{EOM}
+
+Message 145:
+...... {PAUSE}{EOM}{EOM}
+
+Message 146:
+...... {PAUSE}{EOM}{EOM}
+
+Message 147:
+{FACE_160003}Time's up.
+I win. {PAUSE}{WIPE}
+That's what happens
+when you hold back
+too much. {PAUSE}
+Watch your time
+next time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 148:
+{FACE_160003}It's my win. {PAUSE}
+Maybe you were a
+little too serious? {PAUSE}{WIPE}
+Sorry you lost, but
+I'll challenge
+you anytime. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 149:
+{FACE_160003}That was close.
+I win this time. {PAUSE}{WIPE}
+I'll be waiting for
+you to take your
+revenge. {PAUSE}{EOM}{EOM}
+
+Message 150:
+{FACE_16000C}What the!
+I lost. {PAUSE}{WIPE}
+You really beat me
+good there. {PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 151:
+{FACE_160007}How can it be?
+I lost.
+You're good at this. {PAUSE}{EOM}
+
+Message 152:
+{FACE_160003}Whew...
+It's a tie. {PAUSE}{WIPE}
+You're really good
+at this, so let's
+play again sometime. {PAUSE}{EOM}{EOM}
+
+Message 153:
+Here's your reward
+for defeating me. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+Come back and game
+with me again
+sometime. {PAUSE}{EOM}
+
+Message 155:
+{FACE_160000}Just remember,
+next time you're
+mine. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,50 @@
+Message 0:
+イベントテストメッセ—ジ{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+{SKIP}
+イベントテストメッセ—ジ{SKIP}{EOM}
+{CHOICE10 DEF0}
+その1
+その2
+その3
+その4
+その5
+その6
+その7
+その8
+その9
+その0{EOM}{EOM}{EOM}
+
+Message 2:
+せんたくし1をえらんだ{PAUSE}{EOM}
+
+Message 3:
+せんたくし2だよ{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+せんたくし3かも{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+でふぉるとのめっせ—じ{PAUSE}{EOM}
+
+Message 6:
+3たくようメッセ—ジ
+{CHOICE3 DEF1}
+その1
+その2
+その3{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+2たくようメッセ—ジ
+{CHOICE2 DEF1}
+その1
+その2{EOM}{EOM}{EOM}
+
+Message 8:
+イベントここまでOK(··かも){PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+A strange mushroom.
+Eat it?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+

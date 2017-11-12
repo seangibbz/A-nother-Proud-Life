@@ -1,0 +1,228 @@
+Message 0:
+Here is how to do it.
+Push the {C13}A Button{C17} to
+polish the tombstone.{PAUSE}{WIPE}
+You can't rush.
+Do it nice and
+gentle.{PAUSE}{WIPE}
+But you can't slack
+off. You have 60
+seconds to do it.{PAUSE}{WIPE}
+Are you ready?{PAUSE}{EOM}
+
+Message 1:
+Wonderful!!{PAUSE}{EOM}
+
+Message 2:
+Time's up!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+You didn't do that
+well, but thank you
+for helping.{PAUSE}{EOM}{EOM}
+
+Message 4:
+You didn't do well,
+but my wife must be
+happy. Thank you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+Oh, good job.
+My wife must be very
+happy. Thank you.{PAUSE}{EOM}
+
+Message 6:
+Wow! My wife is very
+happy! Me too!{PAUSE}{WIPE}
+I don't know how to
+thank you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+Oh, dear, thank you
+for polishing it so
+well. I'm happy.{PAUSE}{EOM}
+
+Message 8:
+How nice of you.
+You can do it much
+better next time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+How nice of you.
+You can do it better
+next time.{PAUSE}{EOM}
+
+Message 10:
+How nice of you.
+That's enough for me.
+Thank you.{PAUSE}{EOM}{EOM}
+
+Message 11:
+Here is how to do it.
+Just keep pushing the
+{C13}A Button{C17}.{PAUSE}{WIPE}
+The more you push,
+the more milk you
+can drink♪{PAUSE}{EOM}{EOM}
+
+Message 12:
+Let's do it.{PAUSE}{EOM}
+
+Message 13:
+Ready...?{S_3207D0}{EOM}{EOM}{EOM}
+
+Message 14:
+Go! {S_3203E8}{EOM}{EOM}
+
+Message 15:
+Time's up! {S_3207D0}{EOM}
+
+Message 16:
+Well...{PAUSE}{EOM}
+
+Message 17:
+{VAR_00} wins.{PAUSE}{EOM}{EOM}
+
+Message 18:
+Congratulations!
+Good job!{PAUSE}{EOM}
+
+Message 19:
+Do you want to
+challenge me?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 20:
+...That's too bad.{PAUSE}{EOM}
+
+Message 21:
+Great!
+I'm jazzed!{PAUSE}{EOM}
+
+Message 22:
+Do you wanna hear
+how to do it? {CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 23:
+Let's do it then.
+I'll go first,
+alright?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+Here is the rule.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+I'll explain it
+to you again.{PAUSE}{EOM}{EOM}
+
+Message 26:
+We take turns to set
+lines on the board
+to occupy the space.{?_39}{PAUSE}{EOM}{EOM}
+
+Message 27:
+Use the Control Stick
+or +Control Pad to
+move the cursor.{PAUSE}{WIPE}
+Push the B Button to
+move it faster.
+A Button to decide.{?_39}{PAUSE}{EOM}{EOM}
+
+Message 28:
+Surround an area with
+your colored lines. {S_3203E8}{?_39}{PAUSE}{EOM}{EOM}
+
+Message 29:
+You can only set
+a line where no one
+has set it yet.{?_39}{PAUSE}{EOM}{EOM}
+
+Message 30:
+The smallest area is
+a triangle, but you
+can surround several{PAUSE}
+triangles at once.{?_39}{PAUSE}{WIPE}
+If your opponent's
+line was inside of
+your area, it'll be{PAUSE}
+yours.{PAUSE}{EOM}
+
+Message 31:
+If your opponent's
+area was inside of
+yours, it will remain{PAUSE}
+as your opponent's,
+though.{?_39}{PAUSE}{EOM}
+
+Message 32:
+You can make a new
+area by using the
+existing areas.{?_39}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+Game's over when
+there is no more
+place to set a line.{PAUSE}{WIPE}
+Whoever has more
+triangles is the
+winner.{?_39}{PAUSE}{EOM}{EOM}
+
+Message 34:
+Remember, you have a
+limited time to make
+a move.{PAUSE}{WIPE}
+We can be a little
+flexible, but don't
+think too much...{PAUSE}{EOM}
+
+Message 35:
+That's about it.
+Do you wanna hear
+one more time? {CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+Time's up.
+I guess I win this
+time.{PAUSE}{WIPE}
+You can't think too
+long over one move.
+Good luck next time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+Too bad. I win
+this time. Did I
+go too hard on you?{PAUSE}{WIPE}
+Sorry, sorry.
+You can do better
+next time.{PAUSE}{EOM}
+
+Message 38:
+Oh, it was so close.
+I win. I'm waiting
+for the next match.{PAUSE}{EOM}
+
+Message 39:
+Oh! I lost! It wasn't
+even close!
+Ha ha ha!{PAUSE}{WIPE}
+Well done, young
+man. Looking forward
+to the next match.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+Oh, no... I lost
+this time.
+You're pretty good.{PAUSE}{WIPE}
+I won't lose so
+easily next time.{PAUSE}{EOM}{EOM}
+
+Message 41:
+Ha ha ha!
+It's a draw.{PAUSE}{WIPE}
+You're pretty good.
+Let's do it again
+soon.{PAUSE}{EOM}{EOM}
+
+Message 42:
+Let's start the game.
+You go first.{PAUSE}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,714 @@
+Message 0:
+Ah, how are you? {S_3203E8}
+You've come at just
+the right time. {PAUSE}{WIPE}
+If you don't mind,
+would you accept
+these clippers as a{PAUSE}
+gift from me?
+{HUGH} no longer
+needs them now that{PAUSE}
+he's all handsome.
+Still, I'm sure you{PAUSE}
+could get some use
+out of them. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+Please take care of
+them.
+Off you go then. {PAUSE}{EOM}{EOM}
+
+Message 2:
+An adequate amount
+of time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+{TATSUYA}, you're
+quite fast. {PAUSE}{WIPE}
+Your footwork is
+also quite good. {PAUSE}{WIPE}
+At this rate you'll
+be able to compete
+with {HUGH}. {PAUSE}{WIPE}
+Keep up your
+training son. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+Actually we were
+just talking about
+a 3-man race. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+We'd like you to
+be the starter. {S_3207D0}{PAUSE}{WIPE}
+Sorry to drop this
+on you so suddenly. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+He...pant pant...{S_3203E8}
+trains everyday...{S_3203E8}
+But {HUGH}...{S_3203E8}
+You might be able to{S_3203E8}
+...pant pant...keep
+up with him...{S_3203E8}
+Whew...he's really
+something...{S_3203E8}
+I'm too...pant pant
+...old now. {PAUSE}{EOM}
+
+Message 7:
+No...pant pant...
+really. {S_3203E8}
+I'll be your coach...{S_3203E8}
+Why don't you train
+to be a athlete like
+{HUGH}?{S_3203E8}
+We've got to prepare
+for a new...race... {S_3203E8}
+If you train...you
+could easily take
+a medal... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+I kind of like
+{VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+{GOLD_0105}G is enough.
+{GOLD_0205}G.
+That's not for sale.{EOM}{EOM}{EOM}
+
+Message 9:
+{FACE_0B000A}Really!?
+{FACE_0B0000}That's quite
+a deal. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+Well, thank you... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+It's a little much...
+Well, that's fine
+by me. {PAUSE}{EOM}{EOM}
+
+Message 12:
+Well, guess that's
+it then. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+I'd love {VAR_00}.
+How much?
+{CHOICE3 DEF2}
+{GOLD_0105}G is enough.
+{GOLD_0205} G.
+That's not for sale.{EOM}{EOM}
+
+Message 14:
+{S_340143}Are you well,
+my friend? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+{S_340143}Good morning, my
+friend! {PAUSE}{EOM}{EOM}
+
+Message 16:
+{S_340143}How are you feeling
+today? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+What are you doing
+here in the middle
+of the night? {PAUSE}{EOM}{EOM}
+
+Message 18:
+Hey, take it easy.
+Just don't touch
+the machines okay? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+That's my favorite
+dish.
+Is it for me? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+{FACE_0B000A}Thanks a bunch my
+friend. {FACE_0B0000}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{FACE_0B0004}Then, don't be
+putting it in my
+face. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 22:
+Wow, that does look
+good!
+Can I have it? {CHOICE Y/N DEF0}{EOM}
+
+Message 23:
+Such a delicious
+looking thing you've
+got there. {PAUSE}{EOM}
+
+Message 24:
+You've got something
+good to eat there. {PAUSE}
+Would you give it
+to me?
+{CHOICE2 DEF1}
+Give it.
+Don't give it.{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+{FACE_0B000A}Thank you, my friend.
+{FACE_0B0000}I'll treasure it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+{FACE_0B0002}Why you...
+That's so cheap. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+Oh, that's great.
+So you'll give it
+to me then?
+{CHOICE2 DEF1}
+Sure.
+No way.{EOM}{EOM}{EOM}
+
+Message 28:
+{FACE_0B0009}Blarrgh.
+Get that out of
+here. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 29:
+What a cute boy.
+He looks a lot like
+Celia... {PAUSE}{WIPE}
+I'll train him
+when he gets bigger.{PAUSE}{EOM}{EOM}
+
+Message 30:
+Go running with
+Grandpa, eh...? {PAUSE}{WIPE}
+Hmm, not quite yet,
+he needs more time. {PAUSE}{EOM}
+
+Message 31:
+He's so cute.
+He looks just like
+Muffy... {PAUSE}{WIPE}
+I'll train him
+when he gets bigger. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+He's so cute.
+He looks just like
+Nami... {PAUSE}{WIPE}
+I'll train him
+when he gets bigger. {PAUSE}{EOM}
+
+Message 33:
+What a cute little
+dog you have. {PAUSE}{WIPE}
+Hey buddy, do you
+want to race me? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+Cute little doggie. {PAUSE}{EOM}{EOM}
+
+Message 35:
+I'm not really a
+cat person. {PAUSE}{WIPE}
+But I wonder who's
+faster, me or
+the cat...? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+Cute little chicky.
+Come to me little
+guy... {PAUSE}{EOM}
+
+Message 38:
+Here chicky chicky. {PAUSE}{EOM}{EOM}
+
+Message 39:
+I don't need any
+more chickens, but
+I'll take some {PAUSE}
+eggs if it lays
+any. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+Ducks run too
+slow. {PAUSE}{WIPE}
+They're no match
+for me. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+I'm not too
+knowledgeable
+on plants. {PAUSE}{WIPE}
+What kind of seed
+is that? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+Crops from your
+farm? {PAUSE}{WIPE}
+I'll have some if
+they're fresh.
+May I? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 43:
+Can I have that? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+Fresh vegetables are
+good for the body. {PAUSE}{EOM}{EOM}
+
+Message 45:
+Is that wild plant
+good for the body...?{PAUSE}{EOM}{EOM}
+
+Message 46:
+around here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+You cooked that
+dish? Looks pretty
+good.{PAUSE}{EOM}
+
+Message 48:
+Hey, you can cook?{PAUSE}{EOM}{EOM}
+
+Message 49:
+That's good looking
+food, but how many
+calories are in it? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+I don't know much
+about agriculture
+and the like, but {PAUSE}
+I know that's
+a hoe. {PAUSE}{EOM}{EOM}
+
+Message 51:
+What do you want me
+to do with it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 52:
+I don't know much
+about agriculture
+and the like, but {PAUSE}
+I know that's
+a sickle. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+What do you want me
+to do with it? {PAUSE}{EOM}{EOM}
+
+Message 54:
+I don't have a field
+so I have no use for
+something like that. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 55:
+Those are the
+clippers I gave you.
+Do you like them? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 56:
+{FACE_0B000A}That's good to
+hear.{FACE_0B0000}{PAUSE}{EOM}{EOM}
+
+Message 57:
+{FACE_0B0009}...I see... {PAUSE}{EOM}
+
+Message 58:
+I've got some fond
+memories of them. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+You can't make your
+body stronger if
+you use tools. {PAUSE}{EOM}
+
+Message 60:
+I'm not too wise
+about tools and
+such. {PAUSE}{EOM}
+
+Message 61:
+Those grow all over
+my running track... {PAUSE}{EOM}{EOM}
+
+Message 62:
+Oh!
+Do you throw discus?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 63:
+That's too light
+to throw it well...{PAUSE}{EOM}
+
+Message 64:
+What kind of
+ingredient is
+that? {PAUSE}{WIPE}
+I wonder if it's
+healthy for you? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+That's...
+Is that my
+gold medal? {PAUSE}{WIPE}
+Take care of it. {PAUSE}{EOM}{EOM}
+
+Message 66:
+That medal is the
+result of blood,
+sweat, and tears. {PAUSE}{WIPE}
+Don't you ever
+sell it. {PAUSE}{EOM}
+
+Message 67:
+Looking at it makes
+me remember the
+old days... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+What is that...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+I love the wide open
+space of this
+valley.{PAUSE}{WIPE}
+No worries about
+elbow room... {PAUSE}{WIPE}
+I'm sure it'd be
+more convenient to
+live in the city, {PAUSE}{WIPE}
+but I love running
+in such open green
+fields. {PAUSE}{WIPE}
+That's why I
+moved out here. {PAUSE}{EOM}{EOM}
+
+Message 70:
+Once, I was a great
+athlete, but I had
+injured my leg in {PAUSE}
+the middle of a
+race. {PAUSE}{WIPE}
+That's why I became
+a race director. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 71:
+That do you think of
+Hugh? He's got some
+kind of genius. {PAUSE}{WIPE}
+I want to show Hugh
+the true ability
+he has within. {PAUSE}{EOM}
+
+Message 72:
+...... {PAUSE}{EOM}{EOM}
+
+Message 73:
+I've heard how
+{VAR_00} of
+Mineral Town had{PAUSE}
+walked over a total
+of 1,000,000 steps. {PAUSE}{WIPE}
+I've run over
+1,000,000 paces
+myself. {PAUSE}{EOM}{EOM}
+
+Message 74:
+I loved that stuff
+I got before.
+It was delicious. {PAUSE}{WIPE}
+Hope I can get
+it again sometime. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+That {VAR_00} was
+terrific! {PAUSE}{WIPE}
+It's gotta be good
+for the body.
+I mean it... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+That milk I got
+before really made
+my body feel good. {PAUSE}{EOM}{EOM}
+
+Message 77:
+That fish you gave
+me last time tasted
+okay. {PAUSE}{EOM}{EOM}
+
+Message 78:
+That wild grass you
+gave me last time
+tasted okay. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 79:
+That food...
+The taste was...
+I can't place it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+Your farm has become
+something else. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 81:
+Raising crops seems
+to take a lot but
+you're doing well. {PAUSE}{WIPE}
+You've got quite a
+physique now. {PAUSE}{EOM}
+
+Message 82:
+Do you like running?{CHOICE Y/N DEF0}{EOM}
+
+Message 83:
+I can tell...
+You look pretty
+fast. {PAUSE}{EOM}{EOM}
+
+Message 84:
+That can't be.
+I see you running
+around here often. {PAUSE}{EOM}
+
+Message 85:
+Make sure you take
+crucial breaks
+when you get {PAUSE}
+tried from all
+the running. {PAUSE}{WIPE}
+Otherwise you won't
+burn up enough
+calories. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+Everyday I go
+running with my son. {PAUSE}{WIPE}
+Your welcome to
+join us. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+Running is good for
+the body. {PAUSE}{EOM}
+
+Message 88:
+Beautiful, shining
+sweat is the true
+symbol of a man. {PAUSE}{WIPE}
+{FACE_0B000A}{S_340142}Ha ha ha!{FACE_0B0000}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+Seems my speed has
+dropped a bit.{PAUSE}{WIPE}
+Must be getting
+on in years. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+It's strange really.
+I feel like the
+weights on my {PAUSE}
+machines are
+vanishing... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 91:
+I wonder if someone
+is stealing my
+weights... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 92:
+How can I train if
+I don't have weights?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+Sometimes a place
+like this is nice. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+I don't feel so
+good... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+Are you exercising? {PAUSE}{EOM}{EOM}
+
+Message 96:
+It's important
+to train everyday. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+Running is great in
+the Spring. {PAUSE}{EOM}
+
+Message 98:
+It's good for the
+body to exercise
+and sweat. {PAUSE}{WIPE}
+Ah, such a great
+feeling it is. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+It's a little too
+hot for running
+this season. {PAUSE}{EOM}{EOM}
+
+Message 100:
+I love running
+through the forest.{PAUSE}{WIPE}
+The leaves change to
+such beautiful
+colors in the Fall. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 101:
+If you run in the
+Winter, your body
+will warm up. {PAUSE}{EOM}{EOM}
+
+Message 102:
+Here the snow falls
+heavily. It's not
+even fun to run. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+I'm training right
+now. Talk to me
+later okay? Whew... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+I can't talk when
+I'm running...
+...pant pant...{PAUSE}{WIPE}
+It disrupts my
+breathing...
+patterns... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 105:
+{FACE_0B0004}Don't talk to me...
+I'm training right
+now...pant pant... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+This old man may be
+stubborn at times,
+but my wife thinks {PAUSE}
+that I'm a good
+person anyway. {PAUSE}{EOM}
+
+Message 107:
+Don't you think
+this room is
+peaceful..? {PAUSE}{WIPE}
+It's almost like
+your spirit is
+relaxing. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+Even when you train
+it's important
+to have a place {PAUSE}
+where you can
+go and relax. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+To be a top athlete
+you always need to
+think of what the {PAUSE}
+next step is going
+to be. {PAUSE}{WIPE}
+That's why
+observation is
+important. {PAUSE}{EOM}{EOM}
+
+Message 110:
+It's lucky for an
+athlete to have a
+doctor live nearby.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 111:
+It'd be good if
+you'd come and
+observe me. {PAUSE}{EOM}{EOM}
+
+Message 112:
+Is {TATSUYA} well?{PAUSE}{WIPE}
+{FACE_0B0009}My Hugh hasn't been
+listening to me much
+lately. {PAUSE}{WIPE}
+Must be adolescent
+rebelliousness... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 113:
+He's always listened
+to me before but
+he's now and then {PAUSE}
+he skips out
+on his training. {PAUSE}{WIPE}
+{FACE_0B0009}I wonder why... {PAUSE}{EOM}{EOM}
+
+Message 114:
+Raising children is
+no easy task. {PAUSE}{EOM}
+
+Message 115:
+{PETE}, I actually
+have something I'd
+like you to take. {PAUSE}{WIPE}
+It's a medal I won
+back when used to
+race. {PAUSE}{WIPE}
+You might think it's
+a weird request
+of me , but please. {PAUSE}
+I need to let that
+memory go... {PAUSE}
+Please... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 116:
+Thank you.
+But not today. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+{PETE},
+how are you doing?{PAUSE}{WIPE}
+Leave {TATSUYA}
+to me. I won't be
+able to replace you,{PAUSE}{WIPE}
+but I'll do my best
+to train him.{PAUSE}{EOM}{EOM}
+
+Message 118:
+{GRIFFIN}.
+A song! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 119:
+I'm going to hit
+the sack soon so...{PAUSE}{EOM}{EOM}
+
+Message 120:
+It's time for bed
+so please go home. {PAUSE}{EOM}
+
+Message 121:
+Good night. {PAUSE}{EOM}
+
+Message 122:
+I need to be on
+my way so... {PAUSE}{EOM}
+
+Message 123:
+I really have to
+leave now...{PAUSE}{EOM}{EOM}
+
+Message 124:
+So long my friend. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

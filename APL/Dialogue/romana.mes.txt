@@ -1,0 +1,1467 @@
+Message 0:
+Thank you very
+much. {PAUSE}{EOM}
+
+Message 1:
+Okay, okay.
+No need to worry. {PAUSE}{WIPE}
+I know you'll take
+care of me, Doctor.{PAUSE}{EOM}
+
+Message 2:
+Finally found it.
+My old watering can.
+So many memories... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+That time was
+the best. {S_3207D0}{WIPE}
+I lived in such a
+huge place with a
+garden that {PAUSE}
+stretched on until
+forever... {PAUSE}{WIPE}
+Time can be so
+cruel sometimes. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+Oh, dear me.
+Sorry about that. {PAUSE}{WIPE}
+I just go off like
+that sometimes... {PAUSE}{WIPE}
+{PETE},
+you're not hurt,
+are you? {PAUSE}{EOM}{EOM}
+
+Message 5:
+That's good to
+hear. {S_3207D0}{PAUSE}{WIPE}
+Oh you want to know
+why I have this
+watering can? {PAUSE}{WIPE}
+I'll give it to as
+an apology for
+running into you. {PAUSE}{EOM}{EOM}
+
+Message 6:
+I'll see you later
+then, {PETE}. {PAUSE}{EOM}
+
+Message 7:
+Oh, {PETE}.{PAUSE}{WIPE}
+We were just about to
+start our New Year's
+party. {PAUSE}{WIPE}
+You're more than
+welcome to come
+join us. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+Thank you everyone
+for gathering here
+today. {PAUSE}{WIPE}
+Please enjoy
+yourself as we
+celebrate the {PAUSE}
+passing of the old
+and the promise of
+the new. {PAUSE}{EOM}{EOM}
+
+Message 9:
+Thank you everyone
+for gathering here
+today. {PAUSE}{WIPE}
+Let's hope for a
+year even better
+than this one. {PAUSE}{EOM}
+
+Message 10:
+Hello, {PETE}... {PAUSE}{EOM}
+
+Message 11:
+{PETE}...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+You shouldn't have
+a shop without any
+goods to sell... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+You have nothing to
+sell, my dear. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+Next time bring
+goods to be sold. {PAUSE}{WIPE}
+I'll buy them
+from you... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+I'm just looking,
+thank you, dear. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 16:
+Not really much
+here, is there... {PAUSE}{EOM}
+
+Message 17:
+I'm really just
+looking, dear... {PAUSE}{EOM}{EOM}
+
+Message 18:
+I really like that
+{VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+For you? {GOLD_0105}G.
+{GOLD_0205}G.
+Not for sale.{EOM}{EOM}
+
+Message 19:
+{FACE_080003}Oh dear, well thank
+you so much. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+I'll take it. {PAUSE}{EOM}{EOM}
+
+Message 21:
+Oh, that's too bad. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 22:
+If you ever have
+free time, come
+visit me. {PAUSE}{EOM}{EOM}
+
+Message 23:
+{FACE_080009}I don't feel like
+talking today. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+{FACE_080009}Leave me alone,
+please. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 25:
+{FACE_080002}I'm so angry... {PAUSE}{EOM}{EOM}
+
+Message 26:
+{FACE_080002}I'm not in a good
+mood today... {PAUSE}{WIPE}
+We'll talk next time,
+okay? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+{S_34013A}Good morning, dear. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+{S_34013A}Hello, dear.
+I like to take walks
+sometimes. {PAUSE}{EOM}{EOM}
+
+Message 29:
+{S_34013A}Hello, dear.
+I like to take walks
+sometimes. {PAUSE}{EOM}{EOM}
+
+Message 30:
+{S_34013A}Good evening, dear.
+I have to go home
+before I get hungry. {PAUSE}{EOM}{EOM}
+
+Message 31:
+{S_34013A}Oh, {PETE}.
+What are you doing
+up tonight? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+{S_34013A}Good evening.
+Can't you sleep
+tonight? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+{S_34013A}Oh, {PETE}.
+It's nice too see
+you, dear. {PAUSE}{WIPE}
+Please relax and
+make yourself
+at home. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+{S_34013A}What are you up to
+so late at night? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+{S_34013A}Well, {PETE}.
+How are you? {PAUSE}{EOM}
+
+Message 36:
+{S_34013A}Is that for me? {CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 37:
+{FACE_080003}Hah hah hah...
+That's my favorite.
+Thank you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+{S_340139}That looks really
+good... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+{S_34013A}What is that?
+It looks very
+interesting... {PAUSE}{EOM}
+
+Message 40:
+{FACE_08000A}That is such a
+weakness for me. {PAUSE}{EOM}{EOM}
+
+Message 41:
+That looks really
+bad... {PAUSE}{EOM}
+
+Message 42:
+{FACE_080004}Ick...
+Get it away from me! {PAUSE}{EOM}
+
+Message 43:
+{FACE_080004}I don't want that. {PAUSE}{EOM}
+
+Message 44:
+{FACE_080002}Do you want me not
+to like you? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 45:
+{S_340139}Hmmm...
+What on earth is
+that, dear?{PAUSE}
+It's not that
+interesting... {PAUSE}{EOM}{EOM}
+
+Message 46:
+I don't want that.{PAUSE}{EOM}{EOM}
+
+Message 47:
+{FACE_080003}He's so cute.
+He looks just like
+Celia... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+{FACE_080003}Can you say
+"Hello, ma'am?"
+{S_340139}{FACE_080000}Doesn't he talk yet?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+I'm sure he'll be
+smart. Just like
+Celia. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+{FACE_080003}He's very happy.
+Just like Muffy... {PAUSE}{EOM}
+
+Message 51:
+I'm sure he'll
+grow up to be
+strong. {PAUSE}{WIPE}
+Just like his
+mother... {PAUSE}{EOM}{EOM}
+
+Message 52:
+{FACE_080003}He's very quiet.
+Just like Nami... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+I'm sure your
+child will be
+well behaved. {PAUSE}{WIPE}
+Nami will raise
+him well... {PAUSE}{EOM}
+
+Message 54:
+Dogs are so cute.
+Although I like
+cats myself... {PAUSE}{EOM}{EOM}
+
+Message 55:
+I wonder if he can
+do any tricks... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+There's a good
+dog... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+Cats are so
+independent. {PAUSE}{WIPE}
+Don't cuddle them
+too much, or they'll
+get annoyed. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+I just adore
+kitty cats. {PAUSE}{EOM}{EOM}
+
+Message 59:
+Kitty cats are
+so cute... {PAUSE}{WIPE}
+They have so
+much freedom to
+do what they want. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+I wonder if I'm the
+only one who wants
+to chase ducks? {PAUSE}{EOM}
+
+Message 61:
+That's a big fat
+duck. {PAUSE}{EOM}{EOM}
+
+Message 62:
+{S_340139}Perhaps duck a
+l'orange? {PAUSE}{EOM}{EOM}
+
+Message 63:
+Show me the fruit
+when it finally
+blooms. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 64:
+I wonder if I could
+grow that in my
+garden... {PAUSE}{EOM}
+
+Message 65:
+Oh, you grew that?
+It looks so fresh
+and delicious. {PAUSE}{EOM}
+
+Message 66:
+Those crops look
+very delicious. {PAUSE}{EOM}{EOM}
+
+Message 67:
+You got that milk
+from {FARM} Farm? {PAUSE}{WIPE}
+It's great to get
+fresh milk. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+Fresh milk. {PAUSE}{EOM}
+
+Message 69:
+You made that cheese
+right? {PAUSE}{WIPE}
+It's your own
+original brand
+of cheese. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+There are all sorts
+of cheese out there. {PAUSE}{WIPE}
+I don't really
+know that many... {PAUSE}{EOM}{EOM}
+
+Message 71:
+Delicious looking
+cheese. {PAUSE}{EOM}{EOM}
+
+Message 72:
+Sebastian knows
+more about cheese
+than me. {PAUSE}{WIPE}
+He is a cook after
+all... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+You made that butter
+right? {PAUSE}{WIPE}
+It's your own
+original brand
+of butter. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+Sebastian says I
+have to be on a
+no-oil diet... {PAUSE}{EOM}
+
+Message 75:
+Dishes that use
+butter are tasty. {PAUSE}{EOM}
+
+Message 76:
+{S_34013A}Can I have this
+butter? {PAUSE}{WIPE}
+Please give it
+to Sebastian for
+me. {PAUSE}{EOM}
+
+Message 77:
+Fresh eggs from
+your own chickens
+are great. {PAUSE}{EOM}
+
+Message 78:
+I love egg dishes. {PAUSE}{EOM}
+
+Message 79:
+I didn't know there
+were fish like
+that around here... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 80:
+You can eat that?
+But it's raw... {PAUSE}{EOM}{EOM}
+
+Message 81:
+It smells, so go
+take that somewhere
+else please. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+{S_34013A}Oh, those are wild
+plants from around
+here? {PAUSE}{WIPE}
+Is it okay to
+eat them? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+{FACE_080002}Are you sure those
+aren't poisonous?
+{FACE_080003}Hah hah hah... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+That's strange
+grass. {PAUSE}{EOM}{EOM}
+
+Message 85:
+May I have that? {CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+{FACE_08000A}Well, thank you
+very much. {PAUSE}{EOM}{EOM}
+
+Message 87:
+{FACE_080002}That's too bad...
+Well go eat it
+yourself then. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+Why are you carrying
+a hoe around? {PAUSE}{WIPE}
+You can't do any
+cultivating here. {PAUSE}{EOM}
+
+Message 89:
+Planning on doing
+some work in the
+fields? {PAUSE}{EOM}
+
+Message 90:
+Please don't spin
+that around near
+me. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 91:
+A new sickle. {PAUSE}{EOM}{EOM}
+
+Message 92:
+Don't just go
+wandering around
+with a sickle. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+That sickle has been
+well used. {PAUSE}{EOM}
+
+Message 94:
+That watering can?
+Do you like it? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 95:
+{FACE_08000A}That's good.
+I thought you might. {PAUSE}{EOM}
+
+Message 96:
+{FACE_080009}{S_340139}I guess it does have
+a weird shape to it. {PAUSE}{WIPE}
+Still, if you use it,
+you'll fall in love
+with it I'm sure. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+That's the watering
+can I gave you. {PAUSE}{WIPE}
+It's shaped weird,
+but easy to use. {PAUSE}{EOM}{EOM}
+
+Message 98:
+That's the watering
+can I gave you. {PAUSE}{EOM}{EOM}
+
+Message 99:
+Make sure to use it
+often. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+Oh, a new watering
+can? {PAUSE}{WIPE}
+You've barely even
+used it have you? {PAUSE}{WIPE}
+Make sure your
+plants are being
+watered everyday. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 101:
+The more you use it,
+the better it will
+become for you. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+I used to be a
+famous water girl
+in my day. {PAUSE}{EOM}{EOM}
+
+Message 103:
+Try not to spill
+any water... {PAUSE}{EOM}
+
+Message 104:
+That's an old
+watering can. {PAUSE}{WIPE}
+But it looks very
+easy to use. {PAUSE}{EOM}{EOM}
+
+Message 105:
+That's a very well
+used watering can. {PAUSE}{EOM}{EOM}
+
+Message 106:
+I used to have to
+milk the cows by
+hand... {PAUSE}{WIPE}
+That's quite a
+useful device. {PAUSE}{EOM}
+
+Message 107:
+There aren't any
+cows around here. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 108:
+Are those shears
+for sheep? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+I wonder what would
+happen if you used
+that on Cody? {PAUSE}{WIPE}
+{S_34013B}Heh heh heh. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 110:
+Those shears will
+cut hair very
+easily I imagine. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 111:
+Those shears have
+been used awhile,
+haven't they? {PAUSE}{WIPE}
+Good to see they
+haven't broken
+yet. {PAUSE}{EOM}
+
+Message 112:
+{S_340139}Could you show me
+something a little
+more interesting? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+Where are you going
+with that? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 114:
+That's a very unusual
+stone... {PAUSE}{WIPE}
+I bet you could sell
+that for a lot of
+money... {PAUSE}{EOM}{EOM}
+
+Message 115:
+Are you giving that
+stone to me? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 116:
+{FACE_08000A}Thank you.
+I'll treasure it. {PAUSE}{EOM}{EOM}
+
+Message 117:
+{S_340139}{FACE_080002}Fine, be that way. {PAUSE}{EOM}{EOM}
+
+Message 118:
+Antique?
+No, that's too
+dirty.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 119:
+You picked that
+plant from around
+here? {PAUSE}{WIPE}
+Sebastian takes
+a lot of walks
+outside so he {PAUSE}
+probably knows
+what it is. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+Can you really
+eat that...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 121:
+{S_34013A}Isn't that a
+record...? {PAUSE}{WIPE}
+You don't see many
+of those around. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 122:
+I wonder what kind
+of record that is... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 123:
+I used to listen
+to records all the
+time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+What is that?
+An ingredient? {PAUSE}{WIPE}
+You can probably
+make something
+good with that. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+{S_340139}I wonder what flavor
+it has... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+{S_3400DA}{S_3205DC}{FACE_08000C}{S_34013A}......
+That's a strange
+sound.{PAUSE}{EOM}{EOM}
+
+Message 127:
+{S_3400DA}{S_3205DC}{FACE_08000C}That's a strange
+drum. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 128:
+It looks like
+something Wally
+got at a competition.{PAUSE}{EOM}
+
+Message 129:
+I guess Wally didn't
+want it anymore... {PAUSE}{EOM}{EOM}
+
+Message 130:
+That's a strange
+necklace. {PAUSE}{WIPE}
+There must be some
+meaning to it... {PAUSE}{EOM}
+
+Message 131:
+I don't think it
+would look good
+on me. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+Isn't that Lumina's
+sheet music...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+Did you get that
+from Lumina? {PAUSE}{WIPE}
+She must have given
+up on it and gave
+it to you instead. {PAUSE}{EOM}
+
+Message 134:
+I can't play it. {PAUSE}{EOM}
+
+Message 135:
+It must look pretty
+when you shoot it
+off. {PAUSE}{EOM}{EOM}
+
+Message 136:
+You should shoot it
+off sometime. {PAUSE}{EOM}
+
+Message 137:
+A gift for me?
+I don't need that. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 138:
+Why don't you give
+that to someone? {PAUSE}{EOM}{EOM}
+
+Message 139:
+Showing it to me
+doesn't do anything. {PAUSE}{EOM}{EOM}
+
+Message 140:
+I came here for some
+peace and quiet in
+my old age. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 141:
+This is a secret...
+I love being a
+troublemaker. {PAUSE}{WIPE}
+Sometimes I play
+tricks on everyone. {PAUSE}{WIPE}
+You better watch
+out too!
+Heh heh heh. {PAUSE}{EOM}{EOM}
+
+Message 142:
+You remind me of my
+late husband. {PAUSE}{WIPE}
+That was a long
+time ago... {PAUSE}{WIPE}
+We were traveling by
+ship for the very
+first time... {PAUSE}{WIPE}
+It sank into the
+sea... {PAUSE}{WIPE}
+I was the only
+survivor... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 143:
+I supposed everyone
+has someone who
+reminds them of {PAUSE}
+memories that were
+so long ago. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+{FACE_08000A}The food you gave
+me last time... {PAUSE}{WIPE}
+It was very
+delicious. {PAUSE}{WIPE}
+Did you know it
+was my favorite? {PAUSE}{EOM}{EOM}{EOM}
+
+Message 145:
+{S_340139}{FACE_080002}I really didn't
+care for the food
+you gave me before. {PAUSE}{WIPE}
+You didn't know
+I hated that? {PAUSE}{EOM}{EOM}
+
+Message 146:
+The {VAR_00} I
+got before was very
+delicious. {PAUSE}{EOM}
+
+Message 147:
+{FACE_08000A}The {VAR_00} I
+got from you tasted
+delicious. {PAUSE}{WIPE}
+I've never had
+anything like
+it before. {PAUSE}{EOM}
+
+Message 148:
+{FACE_08000A}The {VAR_00} I
+had before was
+actually my favorite.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 149:
+The milk I had
+before tasted very
+nutritious. {PAUSE}{WIPE}
+It would probably
+be good for little
+babies... {PAUSE}{EOM}{EOM}
+
+Message 150:
+{FACE_08000A}The milk I had
+before was great. {PAUSE}{WIPE}
+Very delicious if
+I do say so myself. {PAUSE}{EOM}
+
+Message 151:
+The milk I had
+before had a good
+taste to it. {PAUSE}{WIPE}
+It would probably be
+good if it was made
+into a cheese too... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+The milk I had
+before tasted
+wonderful. {PAUSE}{WIPE}
+You've got to
+make that into
+a cheese. {PAUSE}{EOM}
+
+Message 153:
+The milk I had
+before was very
+rich and creamy. {PAUSE}{EOM}
+
+Message 154:
+The milk I had
+before had a
+great taste to it. {PAUSE}{WIPE}
+It might be good
+if you made that
+into butter... {PAUSE}{EOM}
+
+Message 155:
+The milk I had
+before tasted
+wonderful. {PAUSE}{WIPE}
+It was a little
+too rich for my
+taste though. {PAUSE}{EOM}
+
+Message 156:
+The cheese I had
+before was rich
+and delicious. {PAUSE}{WIPE}
+I hope you can
+bring me more
+sometime... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+The cheese I had
+before smelled a
+little. {PAUSE}{WIPE}
+Still, I could
+get addicted to
+the taste... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 158:
+The butter I had
+before was very
+rich and delicious. {PAUSE}{WIPE}
+I hope you can
+bring me more
+sometime... {PAUSE}{EOM}{EOM}
+
+Message 159:
+The butter I had
+before smelled a
+little. {PAUSE}{WIPE}
+I wouldn't put it on
+my bread, that's
+for sure. {PAUSE}{EOM}{EOM}
+
+Message 160:
+The {VAR_00} I
+had before was great.
+You made it, right? {PAUSE}{EOM}{EOM}
+
+Message 161:
+The dish you gave
+me before was great.{PAUSE}{WIPE}
+But I still think
+Sebastian is better
+at cooking.{PAUSE}{EOM}
+
+Message 162:
+The fish you caught
+before tasted
+great. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+The wild plants
+you gave me last
+time were great. {PAUSE}{WIPE}
+They are actually
+one of my favorites. {PAUSE}{WIPE}
+Please bring me
+some more sometime...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 164:
+The wild plants
+you brought me
+would probably be {PAUSE}
+good used as an
+herb in cooking. {PAUSE}{EOM}
+
+Message 165:
+You're working hard.
+{FACE_08000A}You look a seasoned
+farmer now. {PAUSE}{EOM}{EOM}
+
+Message 166:
+You're good at
+growing crops, dear.{PAUSE}{WIPE}
+Maybe you should
+focus in that
+direction. {PAUSE}{EOM}{EOM}
+
+Message 167:
+You're good at
+cooking I heard. {PAUSE}{WIPE}
+You must have some
+kind of innate
+talent for it. {PAUSE}{EOM}{EOM}
+
+Message 168:
+You're working hard. {PAUSE}{WIPE}
+You can see that
+you're getting
+better. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 169:
+It must be hard to
+grow lots of crops. {PAUSE}{WIPE}
+Still, you put
+all your energies
+into it. {PAUSE}{WIPE}
+One need only
+look at your hands
+to know that... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+Do you cook at
+home often? {PAUSE}{WIPE}
+I heard that you're
+quite the chef. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+It looks like you've
+gotten used to
+farm work. {PAUSE}{WIPE}
+You can see it
+in your face. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+It looks like you're
+getting the hang
+of field work. {PAUSE}{WIPE}
+That's definitely
+good to hear. {PAUSE}{EOM}
+
+Message 173:
+I heard you cook
+at home, dear? {PAUSE}{WIPE}
+I'd like to try
+your cuisine
+sometime. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+This place has
+changed so much. {PAUSE}{WIPE}
+When Sebastian came,
+there were no
+other houses here. {PAUSE}{WIPE}
+But after some time
+passed, fields
+appeared and then {PAUSE}
+of course came Wally
+and the other folks. {PAUSE}{WIPE}
+Kassey and Cody also
+showed up at the
+same time. {PAUSE}{WIPE}
+Then the Inn was
+built and finally
+the bar. {PAUSE}{WIPE}
+We're quite the
+little village
+now. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 175:
+Speaking of which,
+I feel that your
+farm has been here {PAUSE}
+an equally long
+time. {PAUSE}{WIPE}
+I don't know what
+happened to the
+old owner... {PAUSE}{WIPE}
+He must have just
+gone somewhere
+and left behind {PAUSE}
+the empty farmhouse.{PAUSE}{EOM}{EOM}
+
+Message 176:
+Lumina was so tiny
+when I brought
+her here. {PAUSE}{WIPE}
+Now she's grown
+up so much. {PAUSE}{WIPE}
+She's my
+granddaughter, but
+I took her in due {PAUSE}
+to her particular
+circumstances. {PAUSE}{EOM}
+
+Message 177:
+I could just nod
+off right here. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+I've gotten very
+sleepy... {PAUSE}{EOM}
+
+Message 179:
+.........
+.........
+......... {PAUSE}{EOM}{EOM}
+
+Message 180:
+{FACE_08000A}When I'm here I
+feel so relaxed. {PAUSE}{WIPE}
+Nice drinks and
+good music... {PAUSE}{EOM}{EOM}
+
+Message 181:
+{FACE_080019}I keep the fact that
+I come here a secret
+from Sebastian. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+I feel good today. {PAUSE}{EOM}
+
+Message 183:
+Please make yourself
+at home, dear.{PAUSE}{EOM}{EOM}
+
+Message 184:
+Lately it's become
+troublesome to
+walk around... {PAUSE}{WIPE}
+Still, I try to get
+outside on the
+nice days. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 185:
+Make yourself
+comfortable. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+This season makes me
+feel a little
+lightheaded. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 187:
+Sometimes it's nice
+to just stroll
+around. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+It seems the days are
+getting hotter and
+hotter. {PAUSE}{WIPE}
+Still it's not
+as hot as it would
+be in the city. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+This season feels
+the best when you're
+near the forest. {PAUSE}{EOM}
+
+Message 190:
+This is the best
+season. {PAUSE}{WIPE}
+It's not hot,
+nor cold... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 191:
+The leaves have
+begun to change
+their colors. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+Sometimes white
+powder falls from
+the skies. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 193:
+Today is cold. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+Feeling this cold
+just proves to me
+how old I am. {PAUSE}{EOM}{EOM}
+
+Message 195:
+She practices a lot,
+so she's bound to
+become good. {PAUSE}{EOM}
+
+Message 196:
+I love piano too... {PAUSE}{WIPE}
+I used to play it
+all the time as
+a young girl. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 197:
+Watching Lumina
+reminds me of
+when I was young. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 198:
+Shh...
+She's performing... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 199:
+Don't you think
+Lumina has gotten
+a little better? {PAUSE}{EOM}{EOM}
+
+Message 200:
+It's a good song...
+I always loved that
+song... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+Maybe next time
+I'll charge an
+admission fee... {PAUSE}{WIPE}
+{FACE_08001A}Heh heh heh... {PAUSE}{EOM}
+
+Message 202:
+This quack...
+I really hate
+getting older. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+I said that I'm
+perfectly fine,
+but... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 204:
+I don't want to
+get any older. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 205:
+I never did like
+doctors in the
+first place. {PAUSE}{EOM}{EOM}
+
+Message 206:
+I told you already? {PAUSE}{WIPE}
+I'm having a
+contest with the
+quack. {PAUSE}{WIPE}
+What kind of contest
+are we having? {PAUSE}{WIPE}
+Why, that's easy.
+It's for who ends up
+in a grave first. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 207:
+I may have forgotten
+to tell him, but if
+you die first, then {PAUSE}
+you automatically
+lose the contest. {PAUSE}{WIPE}
+I don't plan on
+losing anytime
+soon. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 208:
+I'm not worried
+about death, I just
+don't want to lose. {PAUSE}{EOM}{EOM}
+
+Message 209:
+I don't lose. {PAUSE}{EOM}{EOM}
+
+Message 210:
+Do you remember the
+contest I'm having
+with the doctor? {PAUSE}{WIPE}
+I'm sure to win this
+contest... {PAUSE}{WIPE}
+After all, the
+doctor can't do
+surgery on himself. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 211:
+There is nothing
+wrong with me, but
+he doesn't leave me{PAUSE}
+alone... I've known
+him forever.{PAUSE}{EOM}
+
+Message 212:
+Hardy's got some
+nerves to compete
+with me.{PAUSE}{WIPE}
+Of course I'll win.{PAUSE}{EOM}{EOM}
+
+Message 213:
+Dr. Hardy is pretty
+stubborn. I guess
+I am too.{PAUSE}{EOM}{EOM}
+
+Message 214:
+Speaking of getting
+old, you're getting
+old too, dear. {PAUSE}{EOM}{EOM}
+
+Message 215:
+{FACE_080019}I'm busy sneaking
+snacks right now.
+Please be quiet. {PAUSE}{EOM}{EOM}
+
+Message 216:
+{FACE_080019}I said not to talk,
+didn't I? {PAUSE}{WIPE}
+If he hears you,
+then he'll catch
+me snacking... {PAUSE}{EOM}{EOM}
+
+Message 217:
+{FACE_080002}Please just be
+quiet... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 218:
+Kate's been using
+my stories as a
+model for her book.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 219:
+I wonder what
+kind of book
+it will be... {PAUSE}{WIPE}
+I'm sure I'm a
+tragic hero in
+the story. {PAUSE}{EOM}{EOM}
+
+Message 220:
+Please read the book
+when it comes out. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 221:
+{S_34013B}I look forward
+to it... {PAUSE}{EOM}
+
+Message 222:
+Kate's been using
+my stories as a
+model for her book.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 223:
+It's taking a lot of
+time, so it just has
+to be great. {PAUSE}{EOM}{EOM}
+
+Message 224:
+I'd like the book
+to come out while
+I'm alive... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 225:
+Oh, really...?
+Sorry, I can't
+right now. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 226:
+Lumina... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 227:
+You're good. You can
+play what's written
+on the score. {PAUSE}{WIPE}
+But you can play a
+little more freely. {PAUSE}{EOM}{EOM}
+
+Message 228:
+What a old woman like
+me is going to do
+with it?{PAUSE}{EOM}{EOM}
+
+Message 229:
+Just kidding.{PAUSE}
+...{S_3201F4}You can
+have anything, but...{PAUSE}{EOM}
+
+Message 230:
+Not this.{PAUSE}{EOM}{EOM}
+
+Message 231:
+This is something
+very special.{PAUSE}{EOM}
+
+Message 232:
+Yes, something like
+that. She loved this
+artist.{PAUSE}{EOM}{EOM}
+
+Message 233:
+Anyway, you can never
+have this.
+Okay, go home.{PAUSE}{EOM}
+
+Message 234:
+No matter how many
+times you look at it,
+you can't have it.{PAUSE}{EOM}
+
+Message 235:
+I didn't say anything
+about the apprentice.{PAUSE}{WIPE}
+You said you like
+the artist, right?{PAUSE}{EOM}{EOM}
+
+Message 236:
+{FACE_08000A}Oh, wonderful!
+Don't worry. I'll
+tell Van next time{PAUSE}
+he brings a lot of
+money.{PAUSE}{EOM}{EOM}
+
+Message 237:
+{FACE_08000A}...Oh!
+It still makes me
+laugh to think about
+that Van's face!{PAUSE}{EOM}{EOM}
+
+Message 238:
+Oh, {PETE}. {S_3201F4}{PAUSE}{WIPE}
+I wanted to tell
+you something next
+time you came. {PAUSE}{WIPE}
+What was it again?? {PAUSE}{EOM}{EOM}
+
+Message 239:
+Oh, {S_3201F4}right!
+I wanted to give
+you something. {PAUSE}{EOM}{EOM}
+
+Message 240:
+I was cleaning out
+my closets and my
+old watering can {PAUSE}
+came falling right
+out. {PAUSE}{WIPE}
+You've got a field
+by you right? {PAUSE}{WIPE}
+That's why I
+thought of giving
+it to you... {PAUSE}{WIPE}
+Don't worry,
+it's in usable
+condition... {PAUSE}{WIPE}
+Sebastian...
+Sebastian! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 241:
+Go get {PETE}
+the watering can I
+found in my closet. {PAUSE}{EOM}{EOM}
+
+Message 242:
+I used to water my
+flowers often
+with that. {PAUSE}{WIPE}
+It may have a weird
+shape to it, but
+it's easy to use. {PAUSE}{WIPE}
+I'm sure you'll
+come to like it. {PAUSE}{EOM}{EOM}
+
+Message 243:
+Thank you, dear. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 244:
+It may be old, but
+treat it with care
+when you use it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 245:
+{FACE_080000}Sorry for just
+dropping in
+like this... {PAUSE}{EOM}{EOM}
+
+Message 246:
+{FACE_080000}This little one
+showed up at
+my house...{S_3201F4} {PAUSE}{WIPE}
+I've already got
+two cats at home,
+but I didn't have {PAUSE}
+the heart to toss
+this one out of my
+house. {PAUSE}{WIPE}
+I thought maybe
+you would take
+the cat in...?{PAUSE}{WIPE}
+What do you think?
+{CHOICE2 DEF0}
+Sure.
+Decline.{EOM}
+
+Message 247:
+{FACE_080001}Heh heh heh.{S_3201F4}
+I thought you would
+say that. {PAUSE}{WIPE}
+Now you take good
+care of this little
+one, okay? {PAUSE}{WIPE}
+Oh, {S_3201F4} you
+need to give it a
+name... {PAUSE}{EOM}
+
+Message 248:
+{FACE_080007}That's too bad...
+The poor little cat.{S_3201F4}{PAUSE}{WIPE}
+I guess we'll have
+to find somewhere
+else for you... {PAUSE}{EOM}{EOM}{EOM}
+
+Message 249:
+{NAME?}, that's a
+nice name... {PAUSE}{WIPE}{EOM}{EOM}
+
+Message 250:
+Take good care of
+your new family
+member. {PAUSE}{EOM}{EOM}{EOM}
+
+Message 251:
+Take good care of
+the kitty now.
+Heh heh heh. {PAUSE}{EOM}
+
+Message 252:
+How could you go
+before I... {PAUSE}{WIPE}
+{PETE}...
+if only you could
+have lived longer... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 253:
+{GRIFFIN} a
+song in honor of
+his memory please. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 254:
+I'm going to go
+to bed so... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 255:
+I'm going to bed,
+so please go home. {PAUSE}{EOM}
+
+Message 256:
+Good night. {PAUSE}{EOM}
+
+Message 257:
+I must be going now
+so... {PAUSE}{EOM}
+
+Message 258:
+I need to be going,
+so if you'll
+excuse me... {PAUSE}{EOM}
+
+Message 259:
+See you again... {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+
