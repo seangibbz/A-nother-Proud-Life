@@ -1,0 +1,209 @@
+Message 0:
+All right, let me explain how to do it.
+Press the {C14}A Button{C17} to clean the grave.
+But you can't just do it any old way.{PAUSE}{WIPE}
+You have to do it gently and put your
+whole heart into it.{PAUSE}{WIPE}
+But you can't take all day, either.
+Try your best to finish cleaning it
+in 60 seconds.{PAUSE}{WIPE}
+All right, here we go.{PAUSE}{EOM}{EOM}
+
+Message 1:
+Great job!{PAUSE}{EOM}
+
+Message 2:
+That's enough!{PAUSE}{EOM}
+
+Message 3:
+I don't think you did a very good job,
+but I do appreciate your sentiment.
+Thank you.{PAUSE}{EOM}{EOM}
+
+Message 4:
+You only did a mediocre job, but I'm
+sure Nina will appreciate it anyway.
+Thank you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+Yes, you did a pretty good job.
+I'm sure Nina is very happy.
+Thank you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+Oh!
+You've made Nina very happy!
+And me too!{PAUSE}{WIPE}
+I don't know how to thank you, but
+Thank you very much.{PAUSE}{EOM}
+
+Message 7:
+Hello there.
+Thank you for keeping my grave clean.
+I'm happy.{PAUSE}{EOM}{EOM}
+
+Message 8:
+There aren't many like you these days.
+Please try harder next time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+There aren't many like you these days.
+Please try a bit harder next time.{PAUSE}{EOM}{EOM}
+
+Message 10:
+There aren't many like you these days.
+I'm quite satisfied.
+Thank you.{PAUSE}{EOM}
+
+Message 11:
+Let me explain how to play the game.
+Just press the {C14}A Button{C17}.{PAUSE}{WIPE}
+The more times you press the {C14}A Button{C17},
+the more milk you can drink.
+Simple, huh?♪{PAUSE}{EOM}{EOM}
+
+Message 12:
+OK, here we go.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+Ready... Set...{S_3207D0}{EOM}{EOM}
+
+Message 14:
+Go!{S_3203E8}{EOM}{EOM}
+
+Message 15:
+That's enough!{S_3207D0}{EOM}{EOM}{EOM}
+
+Message 16:
+Let's see...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+{VAR_00} is the winner.{PAUSE}{EOM}{EOM}
+
+Message 18:
+Congratulations!
+You did well!{PAUSE}{EOM}
+
+Message 19:
+Hey there young un'. Want to play my game?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+I see. That's too bad.{PAUSE}{EOM}
+
+Message 21:
+Really? Great!
+You've made an old man happy!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 22:
+Should I explain the game's rules?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+All right, let's start the game.
+I'll go first.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+OK, here are the rules.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+OK, I'll explain the rules again.{PAUSE}{EOM}{EOM}
+
+Message 26:
+We each take turns placing lines on the
+board to capture territory.{?_39}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 27:
+You can move the cursor with the Control
+Stick or the + Control Pad.{PAUSE}{WIPE}
+If you press the {C12}B Button{C17} while
+moving the cursor, you can
+move it faster.{PAUSE}{WIPE}
+Press the {C14}A Button{C17} to place a line.{?_39}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+When you surround an area with your
+lines, it becomes your territory.{S_3203E8}{?_39}{PAUSE}{EOM}{EOM}
+
+Message 29:
+Oh, I almost forgot. You can only put
+lines in places where there aren't any
+lines already.{?_39}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 30:
+The smallest possible territory is one
+triangle, but try to capture many at once.{?_39}{PAUSE}{WIPE}
+If your opponent has lines inside your
+territory, they will change to your color.{PAUSE}{EOM}
+
+Message 31:
+But if your opponent has some territory
+within the area you captured, it remains
+his color.{?_39}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+You can build off of the lines surrounding
+your territory to capture new spaces.{?_39}{PAUSE}{EOM}{EOM}
+
+Message 33:
+When there aren't any more spaces to
+place lines, the game is over.{PAUSE}{WIPE}
+The person with the most triangles in
+their territory will be the
+winner.{?_39}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+Oh, I forgot. Both players have a time
+limit, so you can't spend too much time
+thinking about your moves.{PAUSE}{WIPE}
+But you'll always have at least
+a few seconds to make a move.{PAUSE}{EOM}{EOM}
+
+Message 35:
+Those are the game rules.
+Do you want me to explain them again?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 36:
+I'm sorry, but your time is up.
+I win this time.{PAUSE}{WIPE}
+It's good to be careful about your moves,
+but if you take too long, this can happen.
+Next game, pay more attention to the time.{PAUSE}{EOM}
+
+Message 37:
+Too bad.
+I win this time.
+Hmm. Maybe I tried a little too hard?{PAUSE}{WIPE}
+No, just kidding.
+I hope you'll come and play me
+again.{PAUSE}{EOM}{EOM}
+
+Message 38:
+Hmm. That was a close one.
+I win this time.
+I'll be waiting for a rematch.{PAUSE}{EOM}
+
+Message 39:
+What?!
+I lose!
+Ho ho ho.{PAUSE}{WIPE}
+Well done.
+I'd be happy to play you again,
+Young un'.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+Darn!
+I lose!
+You're pretty good, young un'.{PAUSE}{WIPE}
+But things will be different next time.
+I'll want a rematch against you
+sometime, so please play me again.{PAUSE}{EOM}{EOM}
+
+Message 41:
+Ho ho ho.
+This time it's a tie.{PAUSE}{WIPE}
+You're pretty good, youngin'.
+Let's play again sometime.{PAUSE}{EOM}
+
+Message 42:
+All right, here we go.{PAUSE}
+You can go first.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

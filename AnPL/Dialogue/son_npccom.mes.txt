@@ -1,0 +1,1747 @@
+Message 0:
+{FACE_010001}I heard Grandpa {TAKAKURA}
+has 100 towels!
+They all look the same, too!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+{FACE_010001}I heard that there's something secret
+about {ROMANA}'s umbrella!
+Isn't that cool?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+{FACE_010001}I heard {LUMINA} and {ROMANA}
+aren't really related at all!
+That's what somebody said!{PAUSE}{EOM}
+
+Message 3:
+{FACE_010001}I heard that {SEBASTIAN} secretly has loved
+{ROMANA} for years!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+{FACE_010001}{HUGH} said his dad
+has a belly like a turtle!
+Weird, huh?{PAUSE}{EOM}
+
+Message 5:
+{FACE_010001}I heard {HUGH}'s mom's feet
+hurt a lot!
+Poor {HUGH}'s mom!{PAUSE}{EOM}
+
+Message 6:
+{FACE_010001}{HUGH}'s being “rebbie-ellis”, or something!
+His mom told me!{PAUSE}{EOM}{EOM}
+
+Message 7:
+{FACE_010001}{KATE}'s father's hairstyle
+never gets messed up, even in the wind!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+{FACE_010001}I heard {KATE}'s mom
+makes great porridge!{PAUSE}{EOM}
+
+Message 9:
+{FACE_01000D}Guess what! {KATE}'s a crybaby!
+{FACE_010001}Her dad told me!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+{FACE_010001}I heard {GALEN} isn't afraid of
+graveyards! He's really brave!{PAUSE}{EOM}{EOM}
+
+Message 11:
+{FACE_010001}I heard {DARYL} always has
+a gadget or two in his pocket!
+{FACE_010023}I wonder what they do?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_010001}I heard {GUSTAFA} can turn any sound
+into music! Cool, huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+{FACE_010001}I heard {CODY}'s hair's a mess
+when he wakes up in the morning!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+{FACE_010001}I heard {KASSEY} and {PATRICK}
+are like two peas in a pod!{PAUSE}{EOM}{EOM}
+
+Message 15:
+{FACE_010001}I heard {PATRICK} has more hair
+than {KASSEY}!
+{FACE_010009}I can't tell the difference, though.{PAUSE}{EOM}
+
+Message 16:
+{FACE_010001}Someone told me {MURREY} doesn't really want
+to go back home to his village!
+{FACE_01000C}I wonder if it's true?{PAUSE}{EOM}{EOM}
+
+Message 17:
+{FACE_010001}{RUBY} used to be
+really thin!
+{TIM} told me!{PAUSE}{EOM}
+
+Message 18:
+{FACE_010001}I heard {NAMI}
+is from a rich family!
+Really, really rich!{PAUSE}{EOM}
+
+Message 19:
+{FACE_010001}I heard {NAMI}
+is from a rich family!
+Really, really rich!{PAUSE}{EOM}
+
+Message 20:
+{FACE_010001}I heard {ROCK}
+really sweats a lot!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{FACE_010001}I heard {GRIFFIN} got his guitar
+when he went on TV
+a long time ago!{PAUSE}{EOM}{EOM}
+
+Message 22:
+{FACE_010001}{MUFFY}'s eyebrows are actually “tattoos”.
+She says it's easier that way...
+{FACE_01000C}Doesn't sound so easy to me...{PAUSE}{EOM}{EOM}
+
+Message 23:
+{FACE_010001}{CARTER} can speak
+with the spirits of the wind!
+{KATE} told me!{PAUSE}{EOM}
+
+Message 24:
+{FACE_010001}{FLORA} once turned down
+an “arranged marriage” - whatever that is!{PAUSE}{EOM}
+
+Message 25:
+{FACE_010001}I heard {VESTA}'s husband
+was even bigger than she was!
+I'd like to see that!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+{FACE_010001}I heard {MARLIN} used to be sick
+all the time!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 27:
+{FACE_010001}{CELIA}'s parents were strict.
+Really strict.
+{VESTA} told me!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+{FACE_010001}I heard {HARDY}'s bag
+is full of knives and stuff!{PAUSE}{EOM}{EOM}
+
+Message 29:
+{FACE_010001}{KATE} told me that {MUKUMUKU}
+might have been a human
+a long time ago!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+{FACE_010001}{VAN}'s prices are higher
+than the ones in the city!
+{TIM} told me!{PAUSE}{EOM}{EOM}
+
+Message 31:
+{FACE_010001}We were just having a little chit-chat!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+{FACE_010001}Grandpa {TAKAKURA} often has nightmares.
+Something to do with a yellow towel.
+{FACE_010023}I wonder what happened?{PAUSE}{EOM}{EOM}
+
+Message 33:
+{FACE_010001}{ROMANA} said her umbrella was
+was “made to order.”{PAUSE}{EOM}{EOM}
+
+Message 34:
+{FACE_010001}I heard that some days {LUMINA} likes the
+piano, and some days she hates it.
+Isn't that weird?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+{FACE_010001}{SEBASTIAN}'s...
+{FACE_010019}Heehee. Never mind.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+{FACE_010001}I heard {HUGH}'s dad
+could be even faster if he wanted to be.
+I wish I could see him do that.{PAUSE}{EOM}{EOM}
+
+Message 37:
+{FACE_010001}You know what? {HUGH}'s mom...
+...........................
+{FACE_010019}Oh, it's nothing, really.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+{FACE_01000D}I heard {HUGH} used to
+wet his bed a lot.{PAUSE}{EOM}{EOM}
+
+Message 39:
+{FACE_010001}I heard {KATE}'s dad likes
+listening to records.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+{FACE_010001}I heard {KATE}'s mom likes
+light, low-fat food.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+{FACE_01000D}I heard {KATE} hates studying.{PAUSE}{EOM}
+
+Message 42:
+{FACE_010001}I heard {GALEN}'s hat
+was made by Nina.{PAUSE}{EOM}
+
+Message 43:
+{FACE_010001}{DARYL} seems to be interested
+in our farm.{PAUSE}{EOM}
+
+Message 44:
+{FACE_010001}I heard {GUSTAFA} used to be bullied
+when he was a kid.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 45:
+{FACE_010001}I heard {CODY}'s thinking about
+using tools for a change.
+{FACE_010009}Must be hard work, being an artist.{PAUSE}{EOM}{EOM}
+
+Message 46:
+{FACE_010009}I heard {KASSEY}
+is a really poor loser.{PAUSE}{EOM}
+
+Message 47:
+{FACE_010019}Guess what? {PATRICK} actually prefers
+the clothes {KASSEY}'s wearing.
+He's stuck with his clothes because{PAUSE}
+they had a contest, and he lost.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+{FACE_010001}{FACE_010001}{MURREY}'s home, Popo Valley,
+is a really warm and nice place.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+{FACE_01001A}{TIM} really loves his wife.{PAUSE}{EOM}{EOM}
+
+Message 50:
+{FACE_010001}I heard {RUBY} has money hidden somewhere.{PAUSE}{EOM}
+
+Message 51:
+{FACE_010001}I heard {NAMI}'s folks
+are really rich.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+{FACE_010001}{ROCK}'s popular with girls in the city.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+{FACE_01000C}I heard {GRIFFIN}'s guitar is unique.
+One-of-a-kind.{PAUSE}{EOM}{EOM}
+
+Message 54:
+{FACE_010001}{MUFFY} says she always
+does her best to be a lady.
+I wonder what that means?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 55:
+{FACE_010001}{CARTER} is getting fed up
+with {FLORA}'s cooking...{PAUSE}{EOM}{EOM}
+
+Message 56:
+{FACE_010001}{FLORA} has high “blood pressure”.
+Whatever that means...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+{FACE_010001}{VESTA} used to be
+married to somebody.{PAUSE}{EOM}
+
+Message 58:
+{FACE_010001}{MARLIN} was sick a lot when he was young.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 59:
+{FACE_010001}When {VESTA} and {MARLIN} fight,
+it's {CELIA}'s job
+to stop them.{PAUSE}{EOM}{EOM}
+
+Message 60:
+{FACE_010001}{HARDY} hates having to move around
+when it's cold outside.
+He should wear longer underwear.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+{FACE_01000D}You know what? I heard {MUKUMUKU}
+can actually talk human talk.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+{FACE_010001}I heard {VAN}
+and {ROMANA} are rivals.
+{FACE_01000C}I wonder what they're fighting over...?{PAUSE}{EOM}{EOM}
+
+Message 63:
+{FACE_010001}We were just chatting.{PAUSE}{EOM}
+
+Message 64:
+{FACE_010023}Grandpa {TAKAKURA}'s pretty cool.{PAUSE}{EOM}{EOM}
+
+Message 65:
+{FACE_010001}{ROMANA} seems to like playing jokes...{PAUSE}{EOM}{EOM}
+
+Message 66:
+{FACE_010001}I heard {LUMINA}'s a good singer, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+{FACE_010000}I heard that {SEBASTIAN} wrote a book
+about butlering.{PAUSE}{EOM}{EOM}
+
+Message 68:
+{FACE_010000}{HUGH}'s father had to retire early
+after being an athlete.
+{FACE_010023}That must be hard.{PAUSE}{EOM}
+
+Message 69:
+{FACE_01000D}Between you and me, {HUGH}'s mother
+became an announcer because she
+wanted to marry an athlete.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+{FACE_01000D}I guess {HUGH} isn't always sure
+about his father's
+training methods.{PAUSE}{EOM}{EOM}
+
+Message 71:
+{FACE_01000D}I heard {KATE}'s father doesn't really
+like being at home.
+That's life, I guess.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+{FACE_010023}I have the feeling
+{KATE}'s mother
+doesn't really like me.{PAUSE}{EOM}
+
+Message 73:
+{FACE_010009}{KATE} is really smart!
+I envy her sometimes.{PAUSE}{EOM}{EOM}
+
+Message 74:
+{FACE_010001}{GALEN} takes good care of his bonsai trees,
+almost like they were his wife.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+{FACE_010023}I heard {DARYL}'s place
+has a cellar...{PAUSE}{EOM}
+
+Message 76:
+{FACE_010021}{GUSTAFA}'s songs are all inspired
+by some mysterious lady!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+{FACE_010000}{CODY} fell in love with ironworking
+when he was around my age.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+{FACE_01000C}I wonder when {KASSEY}
+plans to launch his fireworks.
+{FACE_010023}I'd sure like to see that!{PAUSE}{EOM}
+
+Message 79:
+{FACE_01000D}I heard {PATRICK} has athlete's foot!{PAUSE}{EOM}
+
+Message 80:
+{FACE_010021}I heard {MURREY}'s wife is really beautiful!{PAUSE}{EOM}
+
+Message 81:
+{FACE_010000}You know the hat that {TIM} wears?
+Know why he wears it all the time?
+{FACE_01000D}It's to hide his thinning hair!{PAUSE}{EOM}
+
+Message 82:
+{FACE_010001}{RUBY} is really good at sewing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+{FACE_010000}{NAMI} gets nervous when she's
+talking with other women.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+{FACE_010000}I heard {ROCK} doesn't really like
+his father...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 85:
+{FACE_010000}{GRIFFIN} started playing the guitar
+when he was around my age
+so the girls would like him!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+{FACE_010001}I heard {MUFFY} has a lot of savings
+from when she was a secretary.{PAUSE}{EOM}
+
+Message 87:
+{FACE_010001}Dr. Carter said his necklace has many
+different meanings.
+{FACE_01000D}It all sounds fishy if you ask me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+{FACE_010001}I heard {FLORA} has been an easy-going
+person ever since she was a little girl.{PAUSE}{EOM}
+
+Message 89:
+{FACE_010001}{VESTA} thinks she's too independent.
+Scares the men away, she says.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+{FACE_010023}{MARLIN} is quite handsome.
+Doesn't he have a girlfriend somewhere?{PAUSE}{EOM}{EOM}
+
+Message 91:
+{FACE_010001}{CELIA} is so pure and innocent,
+{FACE_010009}It makes me feel ashamed of myself,
+sometimes.{PAUSE}{EOM}
+
+Message 92:
+{FACE_010023}I heard {HARDY} uses
+colored contact lenses.
+I wonder if it's true?{PAUSE}{EOM}
+
+Message 93:
+{FACE_010001}{MUKUMUKU} sleeps deep inside the forest
+until winter.{PAUSE}{EOM}
+
+Message 94:
+{FACE_010001}I heard {VAN} won't cut off his ponytail
+no matter what.{PAUSE}{EOM}{EOM}
+
+Message 95:
+{FACE_010002}...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+{FACE_010023}Grandpa {TAKAKURA} is really cool.{PAUSE}{EOM}
+
+Message 97:
+{FACE_010001}{ROMANA} seems to like playing jokes.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+{FACE_010001}I heard {LUMINA}'s a good singer, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+{FACE_010000}I heard that {SEBASTIAN} wrote a book
+about being a butler.{PAUSE}{EOM}
+
+Message 100:
+{FACE_010000}{HUGH}'s father had to retire early
+after being an athlete.
+{FACE_010023}Must be a hard line of work.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 101:
+{FACE_01000D}Between you and me, {HUGH}'s mother
+became an announcer because she
+wanted to marry an athlete.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+{FACE_01000D}{HUGH} isn't always sure
+about his father's
+training methods.{PAUSE}{EOM}{EOM}
+
+Message 103:
+{FACE_01000D}I heard {GRANT} doesn't really like
+being at home.
+That's life, I guess.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+{FACE_010023}I have the feeling
+{KATE}'s mother
+doesn't really like me.{PAUSE}{EOM}
+
+Message 105:
+{FACE_010009}{KATE} is really smart.
+I envy her sometimes.{PAUSE}{EOM}{EOM}
+
+Message 106:
+{FACE_010001}{GALEN} takes good care of his Bonsai trees,
+as if they were his wife.{PAUSE}{EOM}{EOM}
+
+Message 107:
+{FACE_010023}I heard {DARYL}'s house
+has a cellar...{PAUSE}{EOM}
+
+Message 108:
+{FACE_010021}{GUSTAFA}'s songs are all inspired
+by some mysterious lady.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+{FACE_010000}{CODY} fell in love with ironworking
+when he was around my age.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+{FACE_01000C}I wonder when {KASSEY}
+plans to launch his fireworks.
+{FACE_010023}I'd sure like to see that.{PAUSE}{EOM}
+
+Message 111:
+{FACE_01000D}I heard {PATRICK} has athlete's foot.{PAUSE}{EOM}
+
+Message 112:
+{FACE_010021}I heard {MURREY}'s wife is really beautiful.{PAUSE}{EOM}
+
+Message 113:
+{FACE_010000}You know the hat that {TIM} wears?
+Guess why he wears it all the time.
+{FACE_01000D}It's to hide his thinning hair.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+{FACE_010001}{RUBY} is good with a needle and thread.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 115:
+{FACE_010000}{NAMI} gets nervous when she's
+talking with other women.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 116:
+{FACE_010000}I heard {ROCK} doesn't really like
+his father.{PAUSE}{EOM}
+
+Message 117:
+{FACE_010000}{GRIFFIN} started playing the guitar
+when he was around my age
+so he could impress the girls.{PAUSE}{EOM}
+
+Message 118:
+{FACE_010001}{MUFFY} has a fair amount of savings,
+from when she was a secretary.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 119:
+{FACE_010001}Dr. Carter said his necklace has many
+different meanings.
+{FACE_01000D}It all sounds fishy if you ask me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+{FACE_010001}I heard {FLORA} has been an easy-going
+person ever since she was a little girl.{PAUSE}{EOM}
+
+Message 121:
+{FACE_010001}{VESTA} thinks she's too independent.
+She says it scares the men away.{PAUSE}{EOM}{EOM}
+
+Message 122:
+{FACE_010023}{MARLIN} is quite handsome.
+Doesn't he have
+a girlfriend somewhere?{PAUSE}{EOM}{EOM}
+
+Message 123:
+{FACE_010001}{CELIA} is so pure and innocent,
+{FACE_010009}It makes me feel ashamed of myself,
+sometimes.{PAUSE}{EOM}
+
+Message 124:
+{FACE_010023}I heard {HARDY} uses
+colored contact lenses.
+I wonder if it's true?{PAUSE}{EOM}
+
+Message 125:
+{FACE_010001}{MUKUMUKU} sleeps deep inside the forest
+until the Winter.{PAUSE}{EOM}
+
+Message 126:
+{FACE_010001}I heard {VAN} won't cut off his ponytail
+no matter what.{PAUSE}{EOM}{EOM}
+
+Message 127:
+{FACE_010002}...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+{FACE_010001}Grandpa {TAKAKURA}'s voice is pretty cool.
+{FACE_01001A}Imagine whispering to the girls
+with a voice like that!{PAUSE}{EOM}
+
+Message 129:
+{FACE_010001}I heard {ROMANA} has all kinds of strange
+things hidden away in her closets.
+{FACE_010023}I'd like to sneak in there, just once.{PAUSE}{EOM}{EOM}
+
+Message 130:
+{FACE_010023}I heard that the people {LUMINA} had
+crushes on were all older than her.{PAUSE}{EOM}
+
+Message 131:
+{FACE_010001}{SEBASTIAN} is not only a butler,
+he's also an author.
+Must be hard work.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+{FACE_010001}I heard {HUGH}'s father
+once lost his shoe
+in the middle of a race.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+{FACE_010001}I heard {HUGH}'s mother is pretty famous
+in the city as an announcer.
+Maybe I should ask for her autograph.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 134:
+{FACE_010001}I hope {HUGH} succeeds,
+as an athlete.{PAUSE}{EOM}
+
+Message 135:
+{FACE_010001}The ladies at {KATE}'s father's workplace
+all have bad tempers.
+{FACE_010009}Can't say I envy him.{PAUSE}{EOM}{EOM}
+
+Message 136:
+{FACE_01000D}Between you and me,
+{KATE}'s mother seems to think of
+{HUGH}'s mother as her rival.{PAUSE}
+{FACE_010009}{S_3401A9}Women can be pretty competitive, too.{PAUSE}{EOM}{EOM}
+
+Message 137:
+{FACE_010019}As far as I know, {KATE} hates chickens.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 138:
+{FACE_010001}I heard {GALEN} sometimes thinks
+{HARDY}'s bonsai are better than his,
+but he'd never admit it openly.{PAUSE}{WIPE}
+He thinks true defeat is when
+one accepts defeat.
+Funny, huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 139:
+{FACE_010023}Even {DARYL} can't unravel the mystery
+of a lady's heart... Or so he tells me.
+{S_3401AA}{FACE_010021}...I bet he has a crush on someone.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+{FACE_010000}{GUSTAFA} taught himself how to play
+instruments, so he sometimes feels resentful
+towards folks educated in music.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+{FACE_010000}{CODY} talks about “returning to nature.”
+{FACE_01000C}Why does he use iron, then?
+{FACE_010023}This is deep.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+{S_3401A8}{FACE_01000D}Oh boy. This guy's having naughty
+thoughts again...{PAUSE}{EOM}
+
+Message 143:
+{FACE_010001}Being twins doesn't mean they're the same.
+{PATRICK} is so stoic and hard-working,
+and {KASSEY} is such a lazy old geezer.{PAUSE}{EOM}{EOM}
+
+Message 144:
+{FACE_010001}{MURREY} says he can't always tell
+his flies Brad and Janet apart.
+{FACE_010007}{S_3401A8}I wonder how he does it at all!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+{FACE_010000}Seems {TIM} doesn't intend
+to have {ROCK} take over the {STRUC_35}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 146:
+{FACE_010001}The reason why {RUBY} is such a good cook
+is that she's eaten so
+much good food in the past.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 147:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 149:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 150:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 152:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 153:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 155:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 158:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 159:
+{FACE_010023}...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 160:
+{FACE_010001}Grandpa {TAKAKURA}'s voice is really cool.{EOM}{EOM}
+
+Message 161:
+{FACE_010001}I heard {ROMANA} has all kinds of strange
+things hidden away in her closets.{EOM}{EOM}
+
+Message 162:
+{FACE_010023}I heard that the people {LUMINA} had
+crushes on were older than her.{PAUSE}{EOM}
+
+Message 163:
+{FACE_010001}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 164:
+{FACE_010001}I heard {HUGH}'s father
+once lost his shoe
+in the middle of a race.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 165:
+{FACE_010001}I heard {HUGH}'s mother is pretty famous
+in the city as an announcer.{EOM}{EOM}{EOM}
+
+Message 166:
+{FACE_010001}{HUGH} sure is determined.{PAUSE}{EOM}
+
+Message 167:
+{FACE_010001}The ladies at {KATE}'s father's workplace
+all have bad tempers.
+{FACE_010009}Talk about a stressful work environment.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 168:
+{FACE_01000D}Between you and me,
+{KATE}'s mother seems to think of
+{HUGH}'s mother as her rival.{PAUSE}
+{FACE_010009}{S_3401A9}Women can be pretty competitive, too.{PAUSE}{EOM}{EOM}
+
+Message 169:
+{FACE_01001E}{KATE} has written poems for years.
+She has over 100 notebooks full of them.
+{FACE_010001}{S_3401AA}Impressive, huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 170:
+{FACE_010001}I heard {GALEN} sometimes thinks
+{HARDY}'s bonsai are better than his,
+but he'd never admit it openly.{PAUSE}{WIPE}
+He thinks true defeat is
+when one accepts defeat.
+Funny, huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+{FACE_010023}Even {DARYL} can't unravel the mystery
+of a lady's heart... Or so he tells me.{EOM}{EOM}{EOM}
+
+Message 172:
+{FACE_010023}Isn't {GUSTAFA} going to
+sing a song for us today?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 173:
+{FACE_010000}{CODY} talks about “returning to nature.”
+{FACE_01000C}Why does he use iron, then? {FACE_010023}This is deep.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+{S_3401A8}{FACE_01000D}Oh boy. This guy's having naughty
+thoughts again.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 175:
+{FACE_010001}Being twins doesn't mean they're the same.
+{PATRICK} is so stoic and hard-working,
+and {KASSEY} is such a lazy old geezer...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 176:
+{FACE_010001}{MURREY} says he can't always tell
+his flies Brad and Janet apart.
+{FACE_010007}{S_3401A8}I wonder how he does it at all!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 177:
+{FACE_010000}It seems {TIM} doesn't intend
+to have {ROCK} take over the {STRUC_35}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 179:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 183:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 184:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 185:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 186:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 187:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 188:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+{FACE_010000}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 191:
+{FACE_010023}...........................{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 192:
+Grandpa {TAKAKURA} told me,
+“A healthy kid is a good kid”.{PAUSE}{EOM}
+
+Message 193:
+{ROMANA} told me to visit anytime.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 194:
+I heard that {SEBASTIAN} does all of
+the housework at {LUMINA}'s house.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+I always get sleepy when I talk to
+{SEBASTIAN}...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 196:
+{WALLY} told me that
+I should try running too.{PAUSE}{EOM}{EOM}
+
+Message 197:
+You should ask her to tell your fortune.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+I wonder if I'll get manly like {HUGH}
+someday...{PAUSE}{EOM}{EOM}
+
+Message 199:
+His suit and tie are like his uniform.{PAUSE}{EOM}
+
+Message 200:
+She doesn't always say
+what she thinks...
+But I still like her.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+She told me off again.{PAUSE}{EOM}
+
+Message 202:
+{GALEN} really loved his wife,
+didn't he?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 203:
+{DARYL} is really funny.
+He keeps asking me funny questions though.{PAUSE}{EOM}
+
+Message 204:
+I think I want an instrument, too.{PAUSE}{EOM}
+
+Message 205:
+I like {CODY}'s voice.
+It's nice and low.{PAUSE}{EOM}{EOM}
+
+Message 206:
+{KASSEY} and {PATRICK}
+really look alike,
+but they're actually quite different.{PAUSE}{EOM}
+
+Message 207:
+I could tell he's {PATRICK}
+even without any clothes!{PAUSE}{EOM}
+
+Message 208:
+I hope he can get back home soon.
+But I'll miss him if he does.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+He was telling me about his travels.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 210:
+{RUBY} smells kinda nice.
+It's like I've known her for a long time.
+Hee hee.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 211:
+If {NAMI} didn't come back,
+I wouldn't have heard this great story.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+He told me a lot about the city.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 213:
+I wish I could grow up
+and drink {GRIFFIN}'s cocktails.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+{GRIFFIN} must be happy.
+He's living with
+such a nice person.{PAUSE}{EOM}
+
+Message 215:
+{CARTER} knows all sorts of things!{PAUSE}{EOM}{EOM}
+
+Message 216:
+I get sleepy when I talk to {FLORA}.
+{PAUSE}{EOM}{EOM}{EOM}
+
+Message 217:
+I get worried when {VESTA} is sad.{PAUSE}{EOM}{EOM}
+
+Message 218:
+{MARLIN} is kinda cool, isn't he?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 219:
+She says she wants a cute
+kid brother or sister, just like me!{PAUSE}{EOM}
+
+Message 220:
+He told me a gross story, again...{PAUSE}{EOM}
+
+Message 221:
+I didn't know he could talk like a person!{PAUSE}{EOM}
+
+Message 222:
+I think {VAN} should live here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 223:
+{FACE_010023}....................{PAUSE}{EOM}{EOM}{EOM}
+
+Message 224:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 225:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 226:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 228:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 229:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 230:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 231:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 232:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 233:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 234:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 235:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 236:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 237:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 238:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 239:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 240:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 241:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 242:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 243:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 244:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 245:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 246:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 247:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 248:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 249:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 250:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 251:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 252:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 253:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 254:
+{FACE_010002}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 255:
+{FACE_010023}..........................{PAUSE}{EOM}
+
+Message 256:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 257:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 258:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 259:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 260:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 261:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 262:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 263:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 264:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 265:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 266:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 267:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 268:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 269:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 270:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 271:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 272:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 273:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 274:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 275:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 276:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 277:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 278:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 279:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 280:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 281:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 282:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 283:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 284:
+Even {HARDY} says there're some things
+he can't eat.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 285:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 286:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 287:
+. . . . . . . . . . . . . . . . . . . . .{PAUSE}{EOM}{EOM}
+
+Message 288:
+I wonder if old man {TAKAKURA}
+ever married anyone.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 289:
+I heard {ROMANA} has {SEBASTIAN} braid
+her hair every morning.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 290:
+What'll {LUMINA} do if she gets married?
+Can she cook or clean or anything?{PAUSE}{EOM}{EOM}
+
+Message 291:
+{SEBASTIAN} is really tall and cool
+isn't he?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 292:
+{HUGH}'s father can do all sorts of sports!
+He's cool, isn't he?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 293:
+{HUGH}'s mother is so young and beautiful,
+isn't she?{PAUSE}{EOM}{EOM}
+
+Message 294:
+I wanna be cool, just like
+{HUGH}...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 295:
+Maybe I should ask {KATE}'s father
+to teach me how to tie a necktie.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 296:
+{KATE}'s mother is kinder than she looks.
+{PAUSE}{EOM}
+
+Message 297:
+{FACE_01001E}{KATE} acts like a good little girl at home.
+{FACE_01000D}Maybe I should let her parents know...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 298:
+I wonder why {GALEN}'s hat doesn't fall
+off, the way he wears it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 299:
+I smell something burning
+whenever I go near {DARYL}.
+I wonder what experiments he's up to.{PAUSE}{EOM}
+
+Message 300:
+{FACE_01000C}I wonder if the flower {GUSTAFA}'s
+wearing...is real...?{PAUSE}{EOM}{EOM}
+
+Message 301:
+{CODY} lives in a small house,
+for someone so big.{PAUSE}{EOM}
+
+Message 302:
+I wonder if {KASSEY}
+likes girls...{PAUSE}{EOM}{EOM}
+
+Message 303:
+{PATRICK}'s hairstyle shows
+he's really got guts!{PAUSE}{EOM}
+
+Message 304:
+{MURREY} is a nice person.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 305:
+{TIM} and {RUBY}
+kinda look alike.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 306:
+{TIM} and {RUBY}
+kinda look alike.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 307:
+{NAMI} is so cool!
+I'd love to have a big sister like that!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 308:
+{ROCK} dresses so well!
+I should ask him to teach me!{PAUSE}{EOM}{EOM}
+
+Message 309:
+I wanna listen to {GRIFFIN} play the guitar!{PAUSE}{EOM}{EOM}
+
+Message 310:
+{MUFFY}'s got an excellent profile!{PAUSE}{EOM}
+
+Message 311:
+Those things around {CARTER}'s neck.
+I wish he'd give me one.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 312:
+{FLORA} is always wearing shorts.
+Doesn't she get bitten by bugs?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 313:
+{VESTA} sure is big!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 314:
+{MARLIN} kinda reminds me
+of Grandpa {TAKAKURA}.
+Kinda.{PAUSE}{EOM}{EOM}
+
+Message 315:
+I like {CELIA}.
+She's warm and nice.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 316:
+{HARDY}'s striped underwear
+kinda makes him look happy.{PAUSE}{EOM}
+
+Message 317:
+I wish {MUKUMUKU} would come here too.{PAUSE}{EOM}
+
+Message 318:
+I can't wait for {VAN} to drop by!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 319:
+There's so many fun people here!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 320:
+When I talk with Grandpa {TAKAKURA},
+I think being an adult is real hard work.{PAUSE}{EOM}
+
+Message 321:
+I bet {ROMANA} was pretty good looking
+when she was young. She's not very wrinkly
+even now.{PAUSE}{EOM}{EOM}
+
+Message 322:
+I'd like to be just like {LUMINA}
+when I grow up.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 323:
+People like {SEBASTIAN},
+always smiling and friendly,
+seem to be well-liked.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 324:
+{HUGH}'s dad is awesome!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 325:
+{HUGH}'s mom is pretty young.{PAUSE}{EOM}{EOM}
+
+Message 326:
+{HUGH} is such a hard worker.{PAUSE}{EOM}{EOM}
+
+Message 327:
+I wonder if {KATE}'s dad
+changes his clothes before he sleeps?{PAUSE}{EOM}
+
+Message 328:
+{KATE}'s mom sometimes says things
+I don't understand.{PAUSE}{EOM}
+
+Message 329:
+{KATE} would be cuter
+if she were a little sweeter.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 330:
+I wish {GALEN} would tell me stories
+from when he was young.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 331:
+What kind of experiments does {DARYL} do?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 332:
+{GUSTAFA}'s guitar
+and {GRIFFIN} 's guitar
+are shaped differently.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 333:
+{CODY}'s house
+looks real hot inside.{PAUSE}{EOM}{EOM}
+
+Message 334:
+{KASSEY} is kinda grumpy,
+but he's kinda interesting, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 335:
+I think {PATRICK} is nicer to talk to
+than {KASSEY}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 336:
+There's something buzzing around {MURREY},
+I wonder what they are?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 337:
+I wonder who cooks better,
+{TIM} or {RUBY}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 338:
+{RUBY} is such a nice and warm person.{PAUSE}{EOM}
+
+Message 339:
+{NAMI} is kinda frosty,
+but that's what makes her cool.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 340:
+I like listening to {ROCK} talk.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 341:
+Do I need to be and adult
+togo to {GRIFFIN}'s concerts?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 342:
+{MUFFY} always smells nice.{PAUSE}{EOM}
+
+Message 343:
+Is {CARTER} going to live in that
+tent forever?{PAUSE}{EOM}{EOM}
+
+Message 344:
+Is {FLORA} going to
+marry Dr. {CARTER}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 345:
+{VESTA} and {MARLIN}
+don't really look like one another.{PAUSE}{EOM}{EOM}
+
+Message 346:
+{VESTA} and {MARLIN}
+don't really look like one another.{PAUSE}{EOM}{EOM}
+
+Message 347:
+{CELIA} is a good person.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 348:
+{HARDY}'s kinda scary.{PAUSE}{EOM}{EOM}
+
+Message 349:
+I wonder if {MUKUMUKU}'s okay...
+{DARYL}'s after him, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 350:
+{VAN} won't sell me anything,
+even if I ask him to.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 351:
+There's someone I like talking to.{PAUSE}{EOM}
+
+Message 352:
+I learn more when I'm talking
+with Grandpa {TAKAKURA}
+than when I'm talking with you.{PAUSE}{EOM}{EOM}
+
+Message 353:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 354:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 355:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 356:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 357:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 358:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 359:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 360:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 361:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 362:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 363:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 364:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 365:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 366:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 367:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 368:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 369:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 370:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 371:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 372:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 373:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 374:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 375:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 376:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 377:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 378:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 379:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 380:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 381:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 382:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 383:
+{FACE_010007}The people here look so happy...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 384:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 385:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 386:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 387:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 388:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 389:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 390:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 391:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 392:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 393:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 394:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 395:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 396:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 397:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 398:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 399:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 400:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 401:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 402:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 403:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 404:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 405:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 406:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 407:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 408:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 409:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 410:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 411:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 412:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 413:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 414:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 415:
+There's someone I enjoy talking to.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 416:
+
+
+Message 417:
+
+
+Message 418:
+If {LUMINA} had a real piano
+teacher, I bet she could be even
+better.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 419:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 420:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 421:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 422:
+When I was a kid, I wished
+I wished I had a big brother
+like {HUGH}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 423:
+I wonder what kind of person {KATE}'s
+dad would like for her to have as
+a husband.?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 424:
+{KATE}'s mother
+looks as strict as ever.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 425:
+I believe {KATE} could be
+much more attractive if she tried...{PAUSE}{EOM}
+
+Message 426:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 427:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 428:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 429:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 430:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 431:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 432:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 433:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 434:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 435:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 436:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 437:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 438:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 439:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 440:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 441:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 442:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 443:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 444:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 445:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 446:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 447:
+There are so many interesting people here!{PAUSE}{EOM}
+
+Message 448:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 449:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 450:
+{LUMINA}...{PAUSE}
+Hmm?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 451:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 452:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 453:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 454:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 455:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 456:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 457:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 458:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 459:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 460:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 461:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 462:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 463:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 464:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 465:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 466:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 467:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 468:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 469:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 470:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 471:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 472:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 473:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 474:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 475:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 476:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 477:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 478:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 479:
+There's someone I like talking to...{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

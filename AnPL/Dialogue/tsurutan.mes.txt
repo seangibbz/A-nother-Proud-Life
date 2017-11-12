@@ -1,0 +1,561 @@
+Message 0:
+Hey there...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+You still here?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+You wanna talk some more?
+Fine wit' me...{PAUSE}{EOM}{EOM}
+
+Message 3:
+G'd mornin'.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+G'd afternoon.
+How's it goin'?{PAUSE}{EOM}
+
+Message 5:
+Hi there, hey there, hoe there!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+G'd evenin'.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+Mornin'.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+Hey hey hey.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+Hi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+Evenin'.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+Yaaaawn...
+Oh, mornin'...{PAUSE}{EOM}{EOM}
+
+Message 12:
+Hi there.{PAUSE}{EOM}{EOM}
+
+Message 13:
+Yawn... I'm beat...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+I just can't seem to trust people
+these days. We gotta talk to each
+other more to understand each other. {PAUSE}{EOM}{EOM}
+
+Message 15:
+I'm not sure I understand you recently,
+ya know?
+We really need to talk more.{PAUSE}{EOM}{EOM}
+
+Message 16:
+Hey, what's with the cold shoulder
+you been givin' me?
+I'm not complainin', but...{PAUSE}{EOM}
+
+Message 17:
+You know, I've been thinkin'...
+Maybe you and me just weren't
+meant to get along, ya know?{PAUSE}{EOM}
+
+Message 18:
+What's up?
+{CHOICE3 DEF0}
+I want to do something fun.
+Just want to talk.
+I was worried about you.{EOM}{EOM}{EOM}
+
+Message 19:
+When I get to know you a lil'
+better, I can show you lotsa stuff.{PAUSE}{EOM}{EOM}
+
+Message 20:
+I see...{PAUSE}
+I'd like to talk too but lemme think
+about it for a lil' bit longer.{PAUSE}{EOM}
+
+Message 21:
+Izzat right?
+Much obliged.{PAUSE}{EOM}
+
+Message 22:
+I've been wonderin' lately,
+What d'ya think about me?
+{CHOICE3 DEF0}
+You're strange.
+You're funny.
+You're nice.{EOM}
+
+Message 23:
+I thought so.
+I may be a lil' strange, but that's
+just the way I was grown...{PAUSE}{EOM}{EOM}
+
+Message 24:
+What do I look like, a standup
+comedian?
+Nah, it's just not me...{PAUSE}{EOM}{EOM}
+
+Message 25:
+I see... You really think that?
+You really understand me.
+And I'm startin' to understand you.{PAUSE}{EOM}{EOM}
+
+Message 26:
+Hey, listen up, {PETE}.
+What d'ya think about {TAKAKURA}?
+{CHOICE3 DEF0}
+He's a nice guy.
+He's a weird old man.
+I'm not sure.{EOM}{EOM}{EOM}
+
+Message 27:
+You really think so?
+We're gonna get along fine.
+He really is nice, ya know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+Yeah, he may be weird, but
+he's also a good'un.
+He's helpin' you, ain't he?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+Not sure? Well, I guess that's true.
+He can be a lil' hard to get a handle on.
+But I think he seems nice.{PAUSE}{EOM}{EOM}
+
+Message 30:
+I'm hungry.
+You got somethin' for me, {PETE}?
+{CHOICE2 DEF0}
+Sure do.
+Nothing right now.{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+How about a little food for a poor plant?
+{CHOICE2 DEF0}
+OK.
+No.{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+I'm so hungry.
+Don'tcha have a little somethin'
+for poor ol' {TARTAN}?
+{CHOICE2 DEF0}
+Sure.
+No.{EOM}{EOM}{EOM}
+
+Message 33:
+I heard there's a parent and kid
+who go runnin' every day. I'm jealous.
+After all, I can't move.{PAUSE}{WIPE}
+But I'd still like to try runnin' someday.
+That's surprise, huh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+Don't spread this around, but that guy
+Takakura sometimes comes home at night
+feelin' real happy. Where's he go?{PAUSE}{WIPE}
+If it's such great shakes, I wish he'd
+take me along with him.{PAUSE}{EOM}{EOM}
+
+Message 35:
+Ya know, a lil' bird told me that
+somebody called Ruby talks a
+kinda like me...{PAUSE}{WIPE}
+Maybe we're from the same area.
+I'd like to talk to her...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+Hey, what's a forest like?
+I betcha there are lotsa plants like
+me there...{PAUSE}{WIPE}
+Must be pretty noisy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+A while back when Takakura was out,
+these three little guys showed up,
+made a commotion and then left.{PAUSE}{WIPE}
+Flook, Nok and Neek were their names...
+At least I think so. Were they some kinda
+elves or somethin'?{PAUSE}{EOM}
+
+Message 38:
+You wanna know somethin' interestin'?
+If you find a {C13}Happy Lamp{C17} or
+{C13}Gemsoil{C17} flower...{PAUSE}{WIPE}
+Give it to me with one of your crops...
+I'm sure somethin' neat would happen.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+The only things I can eat are crops
+and seeds.{PAUSE}{WIPE}
+I'll like to try somethin' a
+little tastier.
+But my body just won't take it.{PAUSE}{EOM}{EOM}
+
+Message 40:
+Tell ya the truth, I don't like carrots.
+If I eat anythin' that looks like
+a carrot, I get sick.{PAUSE}{WIPE}
+And when I'm feelin' bad, I might spit out
+somethin' strange. Be careful.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+You wanna know somethin' interestin'?
+If I eat a {CROP_002A} and a {CROP_002C}
+at the same time...{PAUSE}{WIPE}
+I'm sure somethin' neat would happen.{PAUSE}{EOM}
+
+Message 42:
+You wanna know somethin' interestin'?
+If I eat a {CROP_000B} and a {CROP_000A}
+at the same time...{PAUSE}{WIPE}
+I'm sure somethin' neat would happen.{PAUSE}{EOM}
+
+Message 43:
+You wanna know somethin' interestin'?
+If I eat a {CROP_0029} and a {CROP_0024}
+at the same time...{PAUSE}{WIPE}
+I'm sure somethin' neat would happen.{PAUSE}{EOM}
+
+Message 44:
+You wanna know somethin' interestin'?
+If I eat a {CROP_0027} and a {CROP_0025}
+at the same time...{PAUSE}{WIPE}
+I'm sure somethin' neat would happen.{PAUSE}{EOM}
+
+Message 45:
+Heyhey...
+I'm pretty handsome, ain't I?
+{CHOICE2 DEF0}
+You sure are.
+You've got to be kidding.{EOM}{EOM}
+
+Message 46:
+Hey {PETE},
+you think I'm a chatterbox, right?
+{CHOICE3 DEF0}
+Not at all.
+It's a little annoying.
+Maybe sometimes.{EOM}{EOM}
+
+Message 47:
+Ya know, I've been thinkin'...
+Isn't it unfair that plants can't walk?
+{CHOICE2 DEF0}
+It sure is.
+Not really.{EOM}{EOM}{EOM}
+
+Message 48:
+Let me just ask you something...
+Do you like me,
+{PETE}?
+{CHOICE3 DEF0}
+Sure.
+No.
+.........{EOM}
+
+Message 49:
+Really?!
+You're the only one who says things
+like that to me. Thanks...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+Heh heh heh.
+Of course it's a joke... Sniff...{PAUSE}{EOM}
+
+Message 51:
+You really think so?
+You and I are like peas in a pod.{PAUSE}{EOM}
+
+Message 52:
+So you do think so?
+Never mind...{PAUSE}{EOM}{EOM}
+
+Message 53:
+You think so, too?
+Maybe so, but that's just the
+way I was grown.{PAUSE}{EOM}{EOM}
+
+Message 54:
+I knew it! I knew it!
+You really understand how I
+feel, {PETE}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+Whachutalkinbout, {PETE}?
+I just wanna move around like you
+guys can.{PAUSE}{EOM}{EOM}
+
+Message 56:
+Thank you, thank you.
+I like you too.
+But not like that...{PAUSE}{EOM}
+
+Message 57:
+You sure speak your mind, don't you?
+It's OK, I'm used to it.
+Nobody likes me.{PAUSE}{EOM}
+
+Message 58:
+Hey, I didn't mean anything by that.
+Really...
+We're just friends...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 59:
+Hmph... I get tired of seeing the
+same scenery day after day after day...
+Talkin' with you is the only fun I get.{PAUSE}{EOM}{EOM}
+
+Message 60:
+I wanna go someplace...
+It's not like I don't like it here, but...
+I'd like to go outside.{PAUSE}{EOM}
+
+Message 61:
+Don't you usually put plants someplace
+that gets some sun?
+What's with this place, then?{PAUSE}{WIPE}
+Well, I guess I'm doin' OK, but I'd like
+to catch some rays now and then...{PAUSE}{EOM}
+
+Message 62:
+Takakura gives me water every day,
+but I'd really rather have something
+tastier... Come on, help a plant out...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{ORD_0}
+{ORD_1}
+{ORD_2}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+{VAR_00}{VAR_01}{VAR_02}{VAR_03}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+Do want to keep hybridizing?
+{CHOICE2 DEF0}
+Yes.
+I'm done.{EOM}{EOM}
+
+Message 66:
+Anything else you want analyzed?
+{CHOICE2 DEF0}
+Yes there is.
+No, that's it.{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+What? Somethin' you want?
+Go ahead and ask.
+{CHOICE3 DEF0}
+I want to hybridize.
+I want you to analyze something.
+I want to talk.{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+What? Somethin' you want?
+Go ahead and ask.
+{CHOICE2 DEF0}
+I want you to analyze something.
+I want to talk.{EOM}
+
+Message 69:
+I guess I'll hafta live with it for now.
+By the way...{PAUSE}{EOM}
+
+Message 70:
+Really? You wanna talk?
+How nice.{PAUSE}{EOM}{EOM}
+
+Message 71:
+So you want to talk some more?
+By the way...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+Will you keep talkin' with me?
+{CHOICE2 DEF0}
+Sure.
+I quit.{EOM}
+
+Message 73:
+Alright, I'll let you go for today.
+...See ya later.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+Alright, I'll let you go for today.
+...I'm lonely already.{PAUSE}{EOM}
+
+Message 75:
+I can't do hybridization by eating
+two flowers.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+I can't do anything with
+this.{PAUSE}{EOM}
+
+Message 77:
+You can have this back.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+This crop won't mix with a flower.
+Try something else...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 79:
+I don't know anything about this.{PAUSE}{EOM}{EOM}
+
+Message 80:
+That's good!!
+This is a.... oh yeah, a {C13}Tomato{C17}, right?!{S_3203E8}
+I'm right, ain't I?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+Is that right?
+Whaddayaknow? Maybe I'm an orphan...
+Ya know,{S_3201F4} I think we were destined to meet.{PAUSE}{WIPE}
+But really, Takakura, isn't calling me
+“this thing” just a little bit
+rude?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+Ha, ha, ha, ha!
+Sorry for being so loud.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+I'm hungry... Hungry... Hungry...{PAUSE}{EOM}{EOM}
+
+Message 84:
+Ha ha ha ha!
+Sorry for being so loud.{PAUSE}{EOM}{EOM}
+
+Message 85:
+You guys seem to eat well around here!{PAUSE}{EOM}
+
+Message 86:
+Takakura...{S_3203E8}
+Please let me stay.
+{CHOICE2 DEF0}
+Yeah! That should be interesting!
+You've got to be kidding.{EOM}{EOM}{EOM}
+
+Message 87:
+Whew! That's a relief.
+I knew you were a nice guy from
+moment I saw you!{PAUSE}{WIPE}
+Well then, maybe I should introduce
+myself and tell you my story...{PAUSE}{EOM}
+
+Message 88:
+What?!
+What is it about me that you
+don't like?!{PAUSE}{WIPE}
+Please, I'm beggin' you.
+Lemme stay here.
+{CHOICE2 DEF0}
+Well, all right...
+Never!{EOM}{EOM}{EOM}
+
+Message 89:
+Whew! Thank you!{PAUSE}{WIPE}
+You shouldn't scare me like that.
+If it's OK, just say so from the
+beginning.{PAUSE}{WIPE}
+Anyway, maybe I should introduce
+myself and tell you my story...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+Hmmm...
+You're quite a stubborn person,
+aren't you, {PETE}?{PAUSE}{WIPE}
+But I haven't lost yet.
+I'll just root myself right here,
+no matter what you say!{PAUSE}{WIPE}
+.........................................{S_3203E8}{PAUSE}{WIPE}
+Hmm... There's something funny here...{S_3203E8}
+Hey! I'm in a flower pot!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+Whew! Thats good.
+I won't forget this, Takakura.{PAUSE}{WIPE}
+If you wanna hear about me, I'll
+tell you anything!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+ERROR
+ERROR{EOM}
+
+Message 93:
+ERROR
+ERROR{EOM}
+
+Message 94:
+ERROR
+ERROR{EOM}
+
+Message 95:
+ERROR
+ERROR{EOM}
+
+Message 96:
+ERROR
+ERROR{EOM}
+
+Message 97:
+ERROR
+ERROR{EOM}
+
+Message 98:
+ERROR
+ERROR{EOM}
+
+Message 99:
+ERROR
+ERROR{EOM}
+
+Message 100:
+ERROR
+ERROR{EOM}
+
+Message 101:
+ERROR
+ERROR{EOM}
+
+Message 102:
+ERROR
+ERROR{EOM}
+
+Message 103:
+ERROR
+ERROR{EOM}
+
+Message 104:
+{VAR_00}{EOM}{EOM}
+
+Message 105:
+You can't hybridize with your rucksack
+so full.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+Hey...
+You want me to analyze that
+thing you got in your hands?
+{CHOICE2 DEF0}
+Yes.
+No.{EOM}
+
+Message 107:
+Hmm? You've got somethin' nice there.
+Can I eat it?{PAUSE}{WIPE}
+Wha?!
+Hey, you don't hafta get so angry...
+Just kiddin'.{PAUSE}{EOM}
+
+Message 108:
+If you need anythin' else,
+we can talk again later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+

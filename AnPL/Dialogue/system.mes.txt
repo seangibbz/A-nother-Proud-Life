@@ -1,0 +1,2357 @@
+Message 0:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 1:
+You can't carry any more of those.{PAUSE}{EOM}
+
+Message 2:
+Your rucksack is full.{PAUSE}{EOM}
+
+Message 3:
+You can't put that in the trash.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+You can't put that in the trash.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+You can't put that in the trash.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+{PREV_80} seems to be
+sick.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+{PREV_80} seems to be
+sick.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+You can hear a faint
+pecking sound from inside
+inside the egg.{PAUSE}{EOM}
+
+Message 9:
+It looks like it will be a while
+before this egg hatches.{PAUSE}{EOM}{EOM}
+
+Message 10:
+{STRUC_25}
+Place a {C13}{ITEM_001E}{C17} here and
+in a few days it will hatch.{PAUSE}{EOM}
+
+Message 11:
+That egg is not fertilized.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+The {STRUC_21} is full.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+The {STRUC_21} will soon be full.{PAUSE}{EOM}{EOM}
+
+Message 14:
+In several days the egg will hatch.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+There is a diary and a status book here. {PAUSE}{EOM}{EOM}
+
+Message 16:
+The calf will be born very soon.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+She will give birth very soon.{PAUSE}{EOM}
+
+Message 18:
+{PREV_80} looks like she will
+give birth to her calf in a few more days.{PAUSE}{EOM}{EOM}
+
+Message 19:
+{PREV_80} will be giving birth
+soon.{PAUSE}{EOM}{EOM}
+
+Message 20:
+{PREV_80} will be giving birth
+very soon.{PAUSE}{EOM}
+
+Message 21:
+The calf will be born in a few more days.{PAUSE}{EOM}{EOM}
+
+Message 22:
+She will be giving birth soon.{PAUSE}{EOM}
+
+Message 23:
+She will be giving birth very soon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+{PREV_80} will be giving birth
+in a few days.{PAUSE}{EOM}
+
+Message 25:
+{PREV_80}
+Will give birth in a few more days.{PAUSE}{EOM}
+
+Message 26:
+{PREV_80}
+Will have her calf in a few more days.{PAUSE}{EOM}{EOM}
+
+Message 27:
+Just a few more days until the calf comes.{PAUSE}{EOM}
+
+Message 28:
+{PREV_80}
+A few more days until she gives birth.{PAUSE}{EOM}{EOM}
+
+Message 29:
+The baby calf will come in a few days.{PAUSE}{EOM}
+
+Message 30:
+{PREV_80}'s udders are turning
+red.
+She should be isolated soon.{PAUSE}{EOM}{EOM}
+
+Message 31:
+Her udders are turning a reddish color.
+She should be isolated soon.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+{PREV_80}'s udders have turned red
+and are filled with milk.
+She should be isolated soon.{PAUSE}{EOM}
+
+Message 33:
+Her udders have turned red
+and are filled with milk.
+She should be isolated soon.{PAUSE}{EOM}{EOM}
+
+Message 34:
+{PREV_80} and her calf seem to
+be fine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+{PREV_80} the mother cow seems fine.{PAUSE}{EOM}{EOM}
+
+Message 36:
+{PREV_80} and her calf seem to
+be healthy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+{PREV_80} and her calf seem to
+be fine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+{PREV_80} and her calf seem to
+be fine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+She doesn't seem to be doing very well
+since getting pregnant.{PAUSE}{EOM}
+
+Message 40:
+She doesn't seem to be doing very well
+since getting pregnant.{PAUSE}{EOM}
+
+Message 41:
+She doesn't seem to be doing very well
+since getting pregnant.{PAUSE}{EOM}
+
+Message 42:
+She doesn't seem to be doing very well
+since getting pregnant.{PAUSE}{EOM}
+
+Message 43:
+She doesn't seem to be doing very well
+since getting pregnant.{PAUSE}{EOM}
+
+Message 44:
+{PREV_80} is now
+pregnant!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+She seems to be pregnant.{PAUSE}{EOM}{EOM}
+
+Message 46:
+It seems that {PREV_80} is
+now pregnant!{PAUSE}{WIPE}
+Her udders are turning a reddish color.
+She should be isolated soon.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+Apparently this cow is now pregnant!
+Her udders are turning a reddish color.
+She should be isolated soon.{PAUSE}{EOM}{EOM}
+
+Message 48:
+It seems that {PREV_80} is
+now pregnant!{PAUSE}{EOM}{EOM}
+
+Message 49:
+Apparently this cow is now pregnant!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+{PREV_80} has just mated.
+Wait a little longer to see what happens.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+{PREV_80}
+Did the potion work...?{PAUSE}{EOM}
+
+Message 52:
+{PREV_80}
+Did the potion work...?{PAUSE}{EOM}
+
+Message 53:
+This cow just had Miracle Potion.
+Wait a little longer to see what happens.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+Did the potion work...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+Did the potion work...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{PREV_80} can't seem to
+settle down for some reason...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+{PREV_80}
+Nothing in particular seems wrong, but
+there's something strange about her...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+{PREV_80}
+Nothing in particular seems wrong, but
+there's something strange about her...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 59:
+She seems a little strange.
+Could something have happened to her..?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+She seems a little strange.
+Could something have happened to her..?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+She seems a little strange.
+Could something have happened to her..?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+{PREV_80} is now
+pregnant.{PAUSE}{WIPE}
+Her udders are turning a reddish color.
+She should be isolated soon.{PAUSE}{EOM}
+
+Message 63:
+This cow is now pregnant.
+Her udders are turning a reddish color.
+She should be isolated soon.{PAUSE}{EOM}
+
+Message 64:
+{PREV_80} is now
+pregnant.
+And her udders are turning red.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+This cow is now pregnant.
+And her udders are turning red.{PAUSE}{EOM}{EOM}
+
+Message 66:
+Apparently {PREV_80} is now
+pregnant!
+And her udders are turning red.{PAUSE}{EOM}
+
+Message 67:
+Apparently this cow is now pregnant!
+And her udders are turning red.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+{PREV_80}
+Keep an eye on them until
+the medicine works.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+{PREV_80}
+Haven't given medicine yet today.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+{PREV_80}
+Use the {C13}{ITEM_0005}{C17} to
+cure the sickness.{PAUSE}{EOM}
+
+Message 71:
+{PREV_80}
+Sick.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+{PREV_80} is sick.
+Use the {C13}{ITEM_0005}{C17} to
+cure the sickness.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 73:
+{PREV_80} will be
+to be sold.{PAUSE}{EOM}
+
+Message 74:
+{PREV_80} will be
+leaving soon.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+{PREV_80} will be
+leaving soon.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+This one will be sold.{PAUSE}{EOM}
+
+Message 77:
+This one will be leaving soon.{PAUSE}{EOM}
+
+Message 78:
+This one will be sold soon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+{PREV_80}
+seems restless.{PAUSE}{EOM}
+
+Message 80:
+{PREV_80}
+seems restless.
+Must be under stress.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 81:
+{PREV_80} is
+stressed out.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+This cow seems somehow stressed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+This cow seems somehow restless.
+It must be under stress.{PAUSE}{EOM}{EOM}
+
+Message 84:
+This cow seems to be under some stress.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{PREV_80} is
+in a very good mood.{PAUSE}{EOM}
+
+Message 86:
+{PREV_80}
+seems very happy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+{PREV_80}'s eyes
+are sparkling.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+{PREV_80}
+seems very healthy.{PAUSE}{EOM}
+
+Message 89:
+{PREV_80}'s coat
+is shiny and they seem quite healthy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+{PREV_80}
+Normal.{PAUSE}{EOM}
+
+Message 91:
+{PREV_80} is fine and
+seems healthy.{PAUSE}{EOM}{EOM}
+
+Message 92:
+{PREV_80} is fine and
+seems to be relatively
+happy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+{PREV_80}
+seems relatively happy.{PAUSE}{EOM}
+
+Message 94:
+{PREV_80} is fine and seems
+to be comfortable enough.{PAUSE}{EOM}
+
+Message 95:
+{PREV_80} is
+stressed out.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+{PREV_80}
+seems irritated.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+{PREV_80}
+can't seem to settle down.{PAUSE}{EOM}{EOM}
+
+Message 98:
+{PREV_80} is under some stress.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+{PREV_80} seems irritated.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+Can't seem to settle down.{PAUSE}{EOM}
+
+Message 101:
+{PREV_80}
+seems very happy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+{PREV_80}'s eyes
+are sparkling.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+{PREV_80}'s eyes
+are sparkling brightly.{PAUSE}{EOM}{EOM}
+
+Message 104:
+{PREV_80}'s coat is
+shiny and he seems very healthy.{PAUSE}{EOM}{EOM}
+
+Message 105:
+{PREV_80}
+seems to be in a very good mood.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+{PREV_80} is
+fine.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+{PREV_80} is
+fine and seems healthy.{PAUSE}{EOM}{EOM}
+
+Message 108:
+{PREV_80} is
+fine and seems to be in good health.{PAUSE}{EOM}
+
+Message 109:
+{PREV_80} is
+relatively healthy.{PAUSE}{EOM}{EOM}
+
+Message 110:
+{PREV_80} is
+fine and seems to be in
+a relatively good mood.{PAUSE}{EOM}{EOM}
+
+Message 111:
+{PREV_80} is
+stressed out.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+{PREV_80}
+seems irritated.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 113:
+{PREV_80}
+can't seem to settle down.{PAUSE}{EOM}{EOM}
+
+Message 114:
+This goat must be under stress.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 115:
+This goat is irritable.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 116:
+This goat can't seem to settle down.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 117:
+{PREV_80}
+seems very happy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 118:
+{PREV_80}
+seems very healthy.{PAUSE}{EOM}
+
+Message 119:
+{PREV_80}'s eyes
+are sparkling.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+{PREV_80}'s coat
+is shiny and they are healthy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+{PREV_80}
+seems to be in very good condition.{PAUSE}{EOM}
+
+Message 122:
+{PREV_80} is
+fine.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+{PREV_80} is
+fine and seems healthy.{PAUSE}{EOM}{EOM}
+
+Message 124:
+{PREV_80} is fine
+and seems to be in a relatively
+good mood.{PAUSE}{EOM}{EOM}
+
+Message 125:
+{PREV_80} is fine
+and seems healthy.{PAUSE}{EOM}{EOM}
+
+Message 126:
+{PREV_80} seems relatively
+healthy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 127:
+{PREV_80} is
+stressed out.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+{PREV_80} is
+irritated.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 129:
+{PREV_80} can't seem
+settle down.{PAUSE}{EOM}
+
+Message 130:
+He is stressed out.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 131:
+He is irritated.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+He is somehow irritated.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 133:
+{PREV_80} seems
+very happy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+{PREV_80}'s eyes
+are sparkling brightly.{PAUSE}{EOM}{EOM}
+
+Message 135:
+{PREV_80} is
+doing very well.{PAUSE}{EOM}
+
+Message 136:
+{PREV_80} is
+doing very well.{PAUSE}{EOM}
+
+Message 137:
+{PREV_80}'s coat
+is shiny and his eyes are
+sparkling brightly.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+{PREV_80} seems
+fine.{PAUSE}{EOM}
+
+Message 139:
+{PREV_80} seems fine
+and looks healthy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+{PREV_80} looks
+relatively healthy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 141:
+{PREV_80} is fine and
+seems healthy.{PAUSE}{EOM}{EOM}
+
+Message 142:
+{PREV_80} is
+fine and is in a good mood.{PAUSE}{EOM}{EOM}
+
+Message 143:
+Her udders are red and she will
+be giving birth soon.
+She should be isolated soon.{PAUSE}{EOM}
+
+Message 144:
+She is pregnant.
+She will be giving birth in a little while
+so she should be isolated soon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+She's pregnant!
+She will be giving birth in a little while
+so she should be isolated soon.{PAUSE}{EOM}
+
+Message 146:
+She's pregnant!
+Her udders are red and swollen...{PAUSE}{EOM}{EOM}
+
+Message 147:
+She is pregnant.
+Her udders are red and swollen...{PAUSE}{EOM}
+
+Message 148:
+Her udders are red and swollen...{PAUSE}{EOM}{EOM}
+
+Message 149:
+She will be giving birth soon.{PAUSE}{EOM}
+
+Message 150:
+This is a cat from the Villa.
+You can't take it outside.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+{VAR_00}
+{VAR_01}
+{VAR_02}
+{VAR_03}
+{VAR_04}
+{VAR_05}{EOM}{EOM}{EOM}
+
+Message 152:
+Save{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+Sleep{EOM}{EOM}{EOM}
+
+Message 154:
+Alarm Clock{EOM}
+
+Message 155:
+Change Layout{EOM}{EOM}{EOM}
+
+Message 156:
+Look into the Mirror{EOM}{EOM}{EOM}{EOM}
+
+Message 157:
+Assets{EOM}{EOM}
+
+Message 158:
+Do you want to save before going to bed?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 159:
+Do you want to go to sleep?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 160:
+Sound   {VAR_00}
+Button Guide {VAR_01}
+Rumble    {VAR_02}{EOM}
+
+Message 161:
+Make {VAR_00} into “{VAR_01}”?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 162:
+Turn {VAR_00} {VAR_01}?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 163:
+{VAR_00}
+{VAR_01}
+{VAR_02}
+Look some more.{EOM}{EOM}{EOM}{EOM}
+
+Message 164:
+You found {TATSUYA}'s diary.
+Do you want to read it?{CHOICE Y/N DEF1}{EOM}
+
+Message 165:
+There isn't anything else here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 166:
+There are no toys inside.{PAUSE}{EOM}{EOM}
+
+Message 167:
+Why toy do you want to take out?{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+There are (is):
+{C13}{VAR_00}, {VAR_01}, {VAR_02}, {VAR_03}
+{C17}inside the toy box.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 169:
+Take out the {C13}{VAR_00}{C17}?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+{VAR_00}
+{VAR_01}
+{VAR_02}
+{VAR_03}{EOM}
+
+Message 171:
+Do you want to play {C13}{ITEM_8000}{C17}?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+{C13}{ITEM_8000}{C17} is on the player.
+Do you want to turn it off?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 173:
+Do you want to take {C13}{ITEM_8000}{C17}?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+{C13}{ITEM_8000}{C17} is on the player.
+Do you want to turn it on?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 175:
+There is no record on the player.{PAUSE}{EOM}{EOM}
+
+Message 176:
+“Sleeping”{PAUSE}{EOM}
+
+Message 177:
+This won't open.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 178:
+“Nobody's home”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+You can't hear any noise up there.
+They must be out.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+You can hear loud snores.{PAUSE}{EOM}{EOM}
+
+Message 181:
+“Opening soon”{PAUSE}{EOM}
+
+Message 182:
+“Closed”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 183:
+It seems to be locked.{PAUSE}{EOM}
+
+Message 184:
+This doesn't seem to be used.{PAUSE}{EOM}{EOM}
+
+Message 185:
+It seems to be locked.{PAUSE}{EOM}
+
+Message 186:
+
+
+Message 187:
+It's much too small for you to enter...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+W-what is it?
+My daughter is asleep.
+Why don't you try some other time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 189:
+{HUGH} is asleep.
+Sorry.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+I'm sorry, that's my bedroom.{PAUSE}{EOM}{EOM}
+
+Message 191:
+{S_340060}This is my dressing room.
+Don't come in, it's embarrassing!{PAUSE}{EOM}
+
+Message 192:
+.....
+{CELIA} is already asleep.
+You should go home for today.{PAUSE}{EOM}{EOM}
+
+Message 193:
+{KATE} is sleeping.
+Could you come back some other time?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 194:
+{HUGH} is asleep.
+Come back tomorrow.{PAUSE}{EOM}{EOM}
+
+Message 195:
+I'm sorry.
+She's fast asleep.{PAUSE}{EOM}{EOM}
+
+Message 196:
+{S_3401A2}No...!,
+S-scary...{PAUSE}{EOM}{EOM}
+
+Message 197:
+I'm afraid it is time for bed.
+Would you be so kind as to go home?{PAUSE}{EOM}
+
+Message 198:
+Milk storage
+The light flashes when milk's inside.
+There are currently {GOLD_0000} bottles inside.{PAUSE}{EOM}
+
+Message 199:
+Takakura left you a note.{PAUSE}{WIPE}
+{ORD_0}
+{ORD_1}
+{ORD_2}
+{ORD_3}
+{ORD_4}
+{ORD_5}{EOM}
+
+Message 200:
+Takakura has gone out to buy:
+{ORD_0}
+He'll be back later.{PAUSE}{EOM}
+
+Message 201:
+Takakura has gone out to buy
+{ORD_0}
+{ORD_1}{PAUSE}{WIPE}
+He'll be back later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 202:
+Takakura has gone out to buy
+{ORD_0}
+{ORD_1}{PAUSE}{WIPE}
+{ORD_2}
+He'll be back later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+Takakura has gone out to buy
+{ORD_0}
+{ORD_1}{PAUSE}{WIPE}
+{ORD_2}
+{ORD_3}
+He'll be back later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 204:
+You have no outstanding orders.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 205:
+Fodder dispenser
+Press the {C14}A Button{C17} to take out
+{C13}{ITEM_0003}{C17}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+Fodder dispenser
+Press the {C14}A Button{C17} to take out {C13}{ITEM_0003}{C17}.{PAUSE}
+You have {GOLD_0004} left.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 207:
+Well
+Press the {C14}A Button{C17} while holding a
+{C13}Watering Can{C17} to fill it up with water.{PAUSE}{EOM}
+
+Message 208:
+Trash
+Press the {C14}A Button{C17} while holding an {C13}Item{C17}
+to throw it away.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 209:
+Calf Hutch
+A tent used to protect a newborn calf.{PAUSE}{EOM}{EOM}
+
+Message 210:
+Isolation Fence
+Isolates a cow before she gives birth.{PAUSE}{EOM}
+
+Message 211:
+Shipping Bin
+{TAKAKURA} uses this to
+take items to the city to sell.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 212:
+{STRUC_25}
+Put a {C13}{ITEM_001E}{C17} here and
+in a few days it will hatch.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 213:
+The door is shut tight...{PAUSE}{EOM}{EOM}
+
+Message 214:
+A young looking Takakura and a pretty
+woman are smiling in the picture.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 215:
+You might get into trouble for snooping...{PAUSE}{EOM}
+
+Message 216:
+{ORD_0}
+{ORD_1}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+Nothing...{PAUSE}{EOM}
+
+Message 218:
+You found some old money.{PAUSE}{EOM}{EOM}
+
+Message 219:
+You found some kind of bone.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 220:
+You found something weird.{PAUSE}{EOM}
+
+Message 221:
+You found a pretty stone.{PAUSE}{EOM}{EOM}
+
+Message 222:
+You found a stone tablet with a picture.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 223:
+There is already {C13}{ITEM_0003}{C17} inside.{PAUSE}{EOM}
+
+Message 224:
+This calf hutch protects {PREV_80}.
+Press the {C14}A Button{C17} while holding {C13}{ITEM_0003}{C17}
+to put it inside.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+This calf hutch protects {PREV_80}.{EOM}{EOM}{EOM}{EOM}
+
+Message 226:
+{PREV_80}'s feedbox
+There is already fodder inside.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+{PREV_80}'s feedbox
+Press the {C14}A Button{C17} while holding {C13}{ITEM_0003}{C17}
+or {C13}{ITEM_0004}{C17} to put it in.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 228:
+There is still enough feed here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 229:
+Bird feed holder
+Press the {C14}A Button{C17} while holding {C13}{ITEM_0002}{C17}
+to put it inside.{PAUSE}{WIPE}
+The chickens all share the food.{PAUSE}{EOM}
+
+Message 230:
+There is food inside.{PAUSE}{EOM}{EOM}
+
+Message 231:
+Pet food dish
+Press the {C14}A Button{C17} while holding {C13}Food{C17}
+to put it inside.{PAUSE}{EOM}{EOM}
+
+Message 232:
+{PREV_80} is being isolated now.{PAUSE}{EOM}{EOM}
+
+Message 233:
+A fence for isolating a pregnant cow is
+stored here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 234:
+Caught a {GOLD_0003} centimeter {ITEM_8000}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 235:
+Loading...
+Please wait...{EOM}{EOM}{EOM}
+
+Message 236:
+Please wait while data is loaded.{EOM}{EOM}{EOM}
+
+Message 237:
+There are many pictures of cute
+pets.{PAUSE}{EOM}{EOM}
+
+Message 238:
+Goats are hearty and easy to take care of.
+Because their natural environment is the
+mountains, they can climb to high places.{PAUSE}{EOM}{EOM}
+
+Message 239:
+Normal Cows: Have black and white spots.
+Brown Cows: Brown with light underbelly.
+Star Cows: Star-shaped mark on forehead.{PAUSE}{EOM}
+
+Message 240:
+- Artemisia capillaris (perennial) -
+Grows in dry riverbed or beach sand.
+Has many plain-looking flowers.{PAUSE}
+- Calystegia soldanella (perennial) -
+Climbing plant found in beach sand.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 241:
+Dandilion leaves may be eaten if boiled
+to remove their natural bitterness.
+The roots are good for the stomach{PAUSE}
+and can be used in stir-fries.{PAUSE}{EOM}
+
+Message 242:
+“A tree is only as strong as its roots”
+As this saying implies, the most important
+part of any plant is its roots.{PAUSE}
+Good soil is vital for ensuring the
+development of good roots.{PAUSE}{EOM}
+
+Message 243:
+There are many kinds of sports in the
+world. Have you ever heard of these?
+Unicurl, ESCI Tennis, Pesapallo...{PAUSE}{EOM}{EOM}
+
+Message 244:
+When running, try to keep your waist from
+moving up and down. That should allow
+you to run a bit faster!{PAUSE}
+To jump high, raise the arm and leg
+opposite the one you're jumping with.
+That should let you jump higher!{PAUSE}
+If you want to throw something far, look
+far into the distance when doing so.
+That should let you throw a bit farther!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 245:
+When playing a sport, it is necessary to
+perform a thorough warm up.
+Do a little jogging to warm your body up.{PAUSE}
+If you try to stretch before your body is
+warmed up, you can injure yourself.
+But merely sweating is not the goal{PAUSE}
+so wearing a lot of clothes to make
+yourself sweat is not advisable.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 246:
+- Ocarina -
+A small terra-cotta instrument invented by
+Giuseppe Donati. “Ocarina” means{PAUSE}
+“baby goose.”{PAUSE}{EOM}
+
+Message 247:
+The great composer G. McCoy was born in
+the fall of the year XXXX and showed an
+aptitude for music at a young age,{PAUSE}
+Composing “Prelude in G” at the age of 3.
+By the time of his death in the year XXXX,
+he had composed over 5000 songs,{PAUSE}
+with his “MISTAKE” being perhaps the most
+well known.
+Recently, an instrument he used called the{PAUSE}
+“ogritch” which had been thought to be
+was discover in an attic...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 248:
+“To The One I Love” a folksong
+♪A necklace...♪
+♪Made of the purest white flowers...♪{PAUSE}{EOM}{EOM}{EOM}
+
+Message 249:
+Do you know these colors?
+“corn flower blue” “turquoise”
+“mauve”.............{PAUSE}{EOM}{EOM}
+
+Message 250:
+When drawing people, keep in mind:
+And angular figure will appear masculine.
+A rounded figure will appear feminine.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 251:
+Gently apply the color so as to not
+damage the paper, allowing the paint to
+rub off on the texture of the paper.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 252:
+What's 12345679 x 9?
+Wow! How mysterious!
+It comes to 111,111,111 !{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 253:
+The light we see in a starry sky actually
+left those stars ages ago.
+Interesting, isn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 254:
+- naivete -
+The state or quality of being naive.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 255:
+“Help us Horaemon!”
+“I think we're done for this time...”
+Choppa choppa choppa♪{PAUSE}
+“He's using his mustache-copter!”
+“Wow! You're the greatest, Horaemon!”
+..........................{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 256:
+It was something like you have never seen.
+When I shone my flashlight at the object,
+it began to move....{PAUSE}{EOM}{EOM}
+
+Message 257:
+And so the emperor appeared in front
+of his advisors. “Is this not the best
+of clothes you have ever seen?” he said.{PAUSE}
+One of his younger advisors spoke up.
+“Pardon me, your majesty, but do you
+feel a draft?”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 258:
+A little known fact about sharks
+is that they must constantly swim in
+order to breathe.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 259:
+Western humpback armadillo
+A highly endangered species prized for its
+shell and delicate-tasting meat.{PAUSE}{EOM}
+
+Message 260:
+If cow's milk is heated to over
+40 degrees centigrade, a skin will form.
+This is known as the “Ramsden Phenomenon.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 261:
+- Buttercup -
+If accidentally eaten, this plant can
+stomach pain or vomiting.{PAUSE}
+The juice in the stem is caustic to skin.
+- Narcissus -
+If accidentally eaten, this plant can{PAUSE}
+difficulty breathing, fever or even death.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 262:
+- Star anise -
+Very poisonous. The fruit in particular
+can cause convulsions or death.{PAUSE}
+- Red spider lily -
+Said to have medicinal effects, but should
+not be eaten. May cause vomiting.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 263:
+Water with large amounts of chlorine
+should be place in a bucket to sit
+over night before application.{PAUSE}{EOM}
+
+Message 264:
+---RESULTS---
+1st Place: Docker, 2.43m
+2nd Place: Simon F, 2.40m{PAUSE}
+3rd Place: Penn, 2.30m
+4th Place: Oggie, 2.24m
+5th Place: Jacob. 2.20m{PAUSE}{EOM}{EOM}{EOM}
+
+Message 265:
+Match results:
+000 102 002 5
+000 080 00X 8x{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 266:
+Weight Training Methods:
+1. Set Method: Increase weight each time
+2. Pyramid Method: Increase{PAUSE}
+  weight until it gets to a peak, then
+  reduce it.
+3. Multi-method: Reduce the weight{PAUSE}
+  for each set, but increase the number
+  of sets and don't rest between them.
+4. Circuit Method: Select at least five{PAUSE}
+  areas to train that make use of
+  muscle groups and rotate between
+  them without resting.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 267:
+The best grass for making a grass flute
+includes varieties like spathiphyllum,
+and pothos.{PAUSE}
+The range of a grass flute is at maximum 2
+octaves, and it has a light cheery sound.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 268:
+☆Members Wanted!☆
+Our band plays all kinds of music!
+Looking for attractive female vocalist!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 269:
+(G)
+Giocoso: Upbeat or comical.
+Giusto: Accurately, with a precise tempo.{PAUSE}{EOM}{EOM}
+
+Message 270:
+When choosing items to use in decorating,
+the most important thing is whether one
+can live comfortably with it. Take colors:{PAUSE}
+Orange: stimulates the appetite.
+Yellow: promotes positive feelings.
+Beige: has a relaxing effect.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 271:
+- Fashion Monthly, Table of Contents -
+☆Light Blue -- The new Black?☆
+☆Cool Coordinates☆.....{PAUSE}{EOM}{EOM}
+
+Message 272:
+When making a design, it is important
+that you be in a position to see both your
+model and your drawing...{PAUSE}{EOM}
+
+Message 273:
+When force is applied to an object,
+it begins to speed up....{PAUSE}{EOM}{EOM}
+
+Message 274:
+There is a diagram of the human body.{PAUSE}{EOM}{EOM}
+
+Message 275:
+........Cenozoic Era
+    Mesozoic Era
+    Paleozoic Era.........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 276:
+“Without women, all men are
+like lost babies.”{PAUSE}{EOM}
+
+Message 277:
+“Smart skirts are totally
+the in item of the season.”{PAUSE}{EOM}{EOM}
+
+Message 278:
+“Tell them what they want to hear,
+and people will do thy bidding.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 279:
+- 14th Annual Dog Disk Competition -
+1st Place: Antonio (Border Collie), 57 pts
+2nd Place: RUNE (Border Collie), 54 pts{PAUSE}
+3rd Place: Boss (Welsh Corgi), 51 pts{PAUSE}{EOM}
+
+Message 280:
+There are many pictures of horses...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 281:
+Bovine Spongiform Encephalopathy (BSE)
+Symptoms: After a period of dormancy of
+2 years or more, this disease{PAUSE}
+will lead to death with 6 months.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 282:
+●Automatic Seed Planter GC-007
+  Simple to use -- just lift up the
+  handle!{PAUSE}
+ Call 1-800-xxx-xxxx to order!
+●Sitmaster 2000 Work chair
+ Makes farm work relaxing and fun!{PAUSE}
+ Call 1-800-xxx-xxxx to order!{EOM}{EOM}
+
+Message 283:
+- Genetic Alteration -
+A process by which the DNA of a plant
+or animal is changed{PAUSE}
+to introduce characteristics not naturally
+found in that variety or species.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 284:
+- Advertisement Page -
+Growmaster 2000 -- works at low
+concentrations to help your crops grow!{PAUSE}{EOM}
+
+Message 285:
+-- Aftergame Interview with Mr. Nun --
+I tell ya, I wasn't in very good shape
+today, but Masala helped me out{PAUSE}
+a lot.
+I was incredibly nervous, so he
+he helped me relax by ordering{PAUSE}
+some seeds.
+What kind of seeds?
+That's a trade secret... Heh heh...{PAUSE}{EOM}{EOM}
+
+Message 286:
+Smith, the renowned marathon runner,
+blazed onto the sports scene like a comet
+years ago and then disappeared as rapidly.{PAUSE}
+Some say he is currently training a young
+man to take his place.{PAUSE}
+We may not have heard the last of him.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 287:
+Important parts of the knee and legs:
+Patellar ligaments
+Thigh, femur, kneecap...{PAUSE}
+Care must be taken when
+stretching that the major muscle
+groups are stretched but not{PAUSE}
+overstretched.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 288:
+- At the Mineral Town Church -
+It was opening night. When I heard myself
+being introduced I was able to relax.{PAUSE}
+Now for my first song, I thought... What?
+That's not my usual voice!
+I wasn't in my best form that day...{PAUSE}{EOM}{EOM}
+
+Message 289:
+1. Mineral Blues
+2. Good Job!
+3. Cherry Blossom{PAUSE}
+4. Honesty
+5. Oh Shaka Song
+6. Dizzy{PAUSE}
+7. The Girl From Group B
+8. Farewell Farewell
+9. MISTAKE 03{PAUSE}
+10. FlexTime{PAUSE}{EOM}{EOM}{EOM}
+
+Message 290:
+It looks like some kind of piano music.
+It's written on sheet music.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 291:
+- Trees Used in Sculpture -
+Pine: For beginners
+Cedar: Beautiful, requires special tools.{PAUSE}
+Sandalwood: Has a calm luster.
+      is more fragrant and expensive.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 292:
+☆ARTIST NEWS☆
+The renown artist H. Osma from St. Miracle
+Island has an exhibition in SanPote Beach!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 293:
+- The Herman Grid Illusion -
+If you draw a grid in white on black paper
+you'll see grey dots where the lines meet.{PAUSE}
+This results from the contrast between
+the two colors and the human eye's
+attempt to fill in the blanks.{PAUSE}
+This effect is known as the
+“Herman Grid Illusion”.....{PAUSE}{EOM}{EOM}
+
+Message 294:
+...Fractals and Chaos Theory...
+contains many paradoxical elements...
+The mechanism of chaos generation is...{PAUSE}{EOM}{EOM}
+
+Message 295:
+It's filled with very difficult looking
+technical drawings and calculations.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 296:
+Japan's First Robot
+The first Japanese robot was named
+Gakutensoku, developed by Prof Nishimura.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 297:
+Wedding Anniversaries
+1st: Paper
+5th: Wood{PAUSE}
+7th: Copper
+10th: Aluminum
+15th: Crystal{PAUSE}
+25th: Silver
+50th: Gold
+75th: Diamond{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 298:
+That night, I decided to sleep in
+Amethyst Square.
+Sleeping outdoors in a foreign country{PAUSE}
+can be quite thrilling...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 299:
+- Snow Country -
+1/2 Vodka, 1/4 White Curacao
+1/4 Lime Juice, 1 green cherry{PAUSE}
+Add granulated sugar to taste.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 300:
+Pootchie the cow: Normal
+Dory the sheep: Normal{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 301:
+{PREV_80}: {VAR_00}{PAUSE}{EOM}
+
+Message 302:
+{PREV_80}: {VAR_00}
+{PREV_81}: {VAR_01}{PAUSE}{EOM}{EOM}
+
+Message 303:
+{PREV_80}: {VAR_00}
+{PREV_81}: {VAR_01}
+{PREV_82}: {VAR_02}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 304:
+{PREV_80}: {VAR_00}
+{PREV_81}: {VAR_01}
+{PREV_82}: {VAR_02}{PAUSE}
+{PREV_83}: {VAR_03}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 305:
+{PREV_80}: {VAR_00}
+{PREV_81}: {VAR_01}
+{PREV_82}: {VAR_02}{PAUSE}
+{PREV_83}: {VAR_03}
+{PREV_84}: {VAR_04}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 306:
+{PREV_80}: {VAR_00}
+{PREV_81}: {VAR_01}
+{PREV_82}: {VAR_02}{PAUSE}
+{PREV_83}: {VAR_03}
+{PREV_84}: {VAR_04}
+{PREV_85}: {VAR_05}{PAUSE}{EOM}
+
+Message 307:
+{PREV_80}: {VAR_00}
+{PREV_81}: {VAR_01}
+{PREV_82}: {VAR_02}{PAUSE}
+{PREV_83}: {VAR_03}
+{PREV_84}: {VAR_04}
+{PREV_85}: {VAR_05}{PAUSE}
+{PREV_86}: {VAR_06}{PAUSE}{EOM}
+
+Message 308:
+{PREV_80}: {VAR_00}
+{PREV_81}: {VAR_01}
+{PREV_82}: {VAR_02}{PAUSE}
+{PREV_83}: {VAR_03}
+{PREV_84}: {VAR_04}
+{PREV_85}: {VAR_05}{PAUSE}
+{PREV_86}: {VAR_06}
+{PREV_87}: {VAR_07}{PAUSE}{EOM}{EOM}
+
+Message 309:
+Blackboard
+Shows the condition of your horses,
+cows, sheep, or goats.{PAUSE}{EOM}{EOM}
+
+Message 310:
+Marlin's Love Meter{EOM}
+
+Message 311:
+Rock's Love Meter{EOM}{EOM}{EOM}
+
+Message 312:
+Gustafa's Love Meter{EOM}{EOM}{EOM}{EOM}
+
+Message 313:
+“I feel {C12}♥♥♥♥{C17}
+ about her...♥”{PAUSE}{EOM}
+
+Message 314:
+“I feel {C12}♥♥♥{C17}
+ about her...♪”{PAUSE}{EOM}{EOM}
+
+Message 315:
+“I feel {C12}♥♥{C17}
+ about her...♪”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 316:
+“I feel {C12}♥{C17}
+ about her...♪”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 317:
+“I feel {C13}♥{C17}
+ about her...♪”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 318:
+Open a shop?{C17}{CHOICE Y/N DEF0}{EOM}
+
+Message 319:
+{VAN} is here, so you can't open a shop.{PAUSE}{EOM}{EOM}
+
+Message 320:
+You have nothing to sell.{PAUSE}{EOM}{EOM}
+
+Message 321:
+Close up your shop?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 322:
+This is a surprisingly clean kitchen.
+There is a note here.{PAUSE}{WIPE}
+“Combine two kinds of fruit with
+Milk for a nice dessert.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 323:
+It's fake, but it looks quite real.
+There is a note attached.{PAUSE}{WIPE}
+“Fry Fish in Butter for a
+tasty main dish.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 324:
+It smells like mothballs.{PAUSE}{EOM}{EOM}
+
+Message 325:
+This table seems to be from some
+foreign country.
+There is a note here.{PAUSE}{WIPE}
+“Put Turnips, Pashota and Fish in a soup.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 326:
+The little boy in between the man and the
+woman in the photo doesn't look like Rock.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 327:
+This kitchen is large and easy to use.{PAUSE}{EOM}
+
+Message 328:
+This pan has seen a lot of use.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 329:
+A large refrigerator.
+There is a note attached.{PAUSE}{WIPE}
+“How to make simple soups:
+{C13}Yam Soup{C17} uses just a Yam.
+{C13}Tomato Soup{C17} uses a Tomato and a Carrot.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 330:
+It smells very good.
+Maybe it has some special spice in it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 331:
+Dishes of many different designs are here.
+Maybe {TIM} and {RUBY} collect
+them?{PAUSE}{WIPE}
+A note is attached.
+“How to make a simple salad:
+{C13}Light Pickles{C17} uses only a Turnip.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 332:
+Many wine bottles from the same year.
+Maybe it is from the year when {TIM} and
+{RUBY} got married?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 333:
+This barrel smells like wine.
+A note is attached.{PAUSE}{WIPE}
+“How to make a simple salad:
+{C13}Tomamelo Salad{C17} uses Tomato and Melon.
+{C13}Tomacarro Salad{C17} uses Tomato and Carrot.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 334:
+Many fresh vegetables are in a box marked
+“Grown by {VESTA}.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 335:
+It's locked.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 336:
+This is an old looking radio.
+...Does it still work...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 337:
+A large bag.
+Does it belong to {NAMI}?{PAUSE}{EOM}
+
+Message 338:
+A strange object.
+It looks like some kind of instrument.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 339:
+Some cloth is sticking out from the door.{PAUSE}{EOM}{EOM}
+
+Message 340:
+A wooden ornament.
+It smells like some
+kind of medicine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 341:
+“Sprites playing with fire” by Jeff{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 342:
+The left one is a man, the right a woman.
+Maybe... A note is attached.{PAUSE}{WIPE}
+“A side dish can be made just with Fish.”{PAUSE}{EOM}
+
+Message 343:
+It says “Souvenir of Tentsukaku”
+on it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 344:
+Did {NINA} knit this for
+{GALEN}...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 345:
+{NINA} is smiling in the photo.
+There is a note attached.{PAUSE}{WIPE}
+“Combine a Tomato, Milk, and an Egg
+for a unique dessert.”{PAUSE}{EOM}
+
+Message 346:
+This bonsai tree is as well cared for
+as {HARDY}'s.{PAUSE}{EOM}
+
+Message 347:
+This is a very old chest of drawers.
+It must be expensive.{PAUSE}{EOM}
+
+Message 348:
+A young {ROMANA} is smiling
+in front of a large ship.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 349:
+“By Gauguin”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 350:
+A picture of a beautiful building.
+But there is something behind it.
+There is a note attached.{PAUSE}{WIPE}
+“Use a Potato and a Carrot for
+nutritious soup.”{PAUSE}{EOM}{EOM}
+
+Message 351:
+“The Ideal Butler by {SEBASTIAN}”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 352:
+An old, but well cared for
+kitchen.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 353:
+No food had been prepared yet.{PAUSE}{EOM}
+
+Message 354:
+Many expensive looking dishes are here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 355:
+How to make {ITEM_0497}:
+Fish, {ITEM_0433} and a {CROP_0001} or {CROP_0020}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 356:
+Someone who looks like a young {LUMINA}
+is in the picture.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 357:
+An antique jewelry box.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 358:
+There is a ladybug on the leaf.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 359:
+The keys are yellowed with age.
+They are probably made of elephant ivory.{PAUSE}{EOM}{EOM}
+
+Message 360:
+A pretty painting.
+There is some graffiti here.{PAUSE}{WIPE}
+“You can make a dessert with 3 fruits.”{PAUSE}{EOM}{EOM}
+
+Message 361:
+“Lonely Street” by Teppei{PAUSE}{EOM}{EOM}
+
+Message 362:
+“Into the Light” by Shou
+“Water Play” by Ravel{PAUSE}{EOM}
+
+Message 363:
+“Dearest Sunshine” by Nicholas Wada
+“Hometown” by Michael{PAUSE}{EOM}{EOM}
+
+Message 364:
+Yarn is tied around the branches.
+Did {ROMANA} do it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 365:
+It is very well cared for.
+A piece of paper is here.{PAUSE}{WIPE}
+“You can make a side dish
+with two kinds of vegetables
+and butter.”{PAUSE}{EOM}
+
+Message 366:
+A relatively modern kitchen.
+Is cooking a hobby of {CHRIS}'s?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 367:
+A refrigerator, complete with ice maker.
+There's a note attached.{PAUSE}{WIPE}
+“How to make a delicious salad:{PAUSE}
+Mix an Egg and a Tomato with a Gretoma.”{PAUSE}{EOM}{EOM}
+
+Message 368:
+Trophies and record books are here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 369:
+The counter is set to
+“26 miles.”{PAUSE}{EOM}{EOM}
+
+Message 370:
+It seems to be used quite a lot.
+The seat is worn.{PAUSE}{EOM}
+
+Message 371:
+“Father”
+“Mother”
+“{HUGH}”{PAUSE}{EOM}
+
+Message 372:
+It says “Approx 10lbs.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 373:
+One of the pedals is missing.{PAUSE}{EOM}{EOM}
+
+Message 374:
+A comfortable kitchen mat is
+on the floor.{PAUSE}{EOM}
+
+Message 375:
+The luncheon mat is made of linen.
+There is a note here.{PAUSE}{WIPE}
+“Butter, Milk and an Egg can make
+a tasty dessert.”{PAUSE}{EOM}
+
+Message 376:
+{SAMANTHA} may get angry if you open it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 377:
+“Essential Knowledge for the Businessman”
+“Economics Made Simple”
+Are these {GRANT}'s books?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 378:
+A well ventilated closet.{PAUSE}{EOM}{EOM}
+
+Message 379:
+There is some graffiti here and there
+on the desk.{PAUSE}{WIPE}
+“You can make a side dish with
+Strawberries, Butter and Eggs.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 380:
+There are many novels and comic books.
+There is a note here.{PAUSE}{WIPE}
+“Make a cake with Carrots, Milk and Eggs.”{PAUSE}{EOM}{EOM}
+
+Message 381:
+This is a stuffed animal with fluffy
+fur.{PAUSE}{EOM}{EOM}
+
+Message 382:
+The flowers seem to be made of cloth.{PAUSE}{EOM}{EOM}
+
+Message 383:
+A very old chest of drawers.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 384:
+Some long-lasting vegetables are inside.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 385:
+A very well used kitchen.{PAUSE}{EOM}{EOM}
+
+Message 386:
+A very well pruned and cared for bonsai.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 387:
+A simple bed.
+Could it have been used in a hospital...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 388:
+There are lots of medicines here.{PAUSE}{EOM}{EOM}
+
+Message 389:
+There are lots of medical books here.
+A note is attached.{PAUSE}{WIPE}
+“You can make an omelet with an Egg
+and Butter.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 390:
+Scalpels and other surgical instruments
+mixed in with the dishes.{PAUSE}{EOM}{EOM}
+
+Message 391:
+Beakers and flasks are scattered on
+the sink.{PAUSE}{EOM}{EOM}
+
+Message 392:
+A clear plastic sheet is on the desk.
+Underneath is a diagram of human anatomy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 393:
+This bonsai is as well taken care of as
+{GALEN}'s.{PAUSE}{EOM}{EOM}
+
+Message 394:
+“{STRUC_35} {CROP_0001} 2 boxes
+ {STRUC_33} {CROP_0021} 1 box”
+...reads the note.{PAUSE}{EOM}{EOM}
+
+Message 395:
+A piece of paper that reads “To Flower
+Bud Town” is attached to the box.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 396:
+A piece of paper that reads “Return to
+Mineral Town” is attached to the box.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 397:
+Vegetables that are soon to be shipped
+are in the box.{PAUSE}{EOM}
+
+Message 398:
+A piece of paper reads “Damaged Goods.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 399:
+A very deep sink.{PAUSE}{EOM}{EOM}
+
+Message 400:
+A hand made chest.{PAUSE}{EOM}
+
+Message 401:
+There are many books about crops here.
+A note is attached.{PAUSE}{WIPE}
+“Use a Potato, a Carrot, and Ruby's
+Spice to make curry.”{PAUSE}{EOM}
+
+Message 402:
+A plant with a small fruit is growing.{PAUSE}{EOM}
+
+Message 403:
+This is a rather stylish chest.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 404:
+A well cared for potted plant.{PAUSE}{EOM}
+
+Message 405:
+These fireworks will soon be finished.{PAUSE}{EOM}
+
+Message 406:
+These fireworks are under construction.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 407:
+It contains ingredients for fireworks.{PAUSE}{EOM}
+
+Message 408:
+The chair's legs are a little bowed.
+They can't stand up to {CODY}'s weight.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 409:
+There is some graffiti on the desk.{PAUSE}{WIPE}
+“You can make an unusual side dish with
+a glowing crop and a Fish.”{PAUSE}{EOM}{EOM}
+
+Message 410:
+These tools don't seem to be used much.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 411:
+Water is inside. To cool hot iron?{PAUSE}{EOM}
+
+Message 412:
+{CODY} will eventually breathe life
+into this, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 413:
+It looks like some kind of device...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 414:
+The sofa smells like chemicals.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 415:
+Lots of thick books are here.{PAUSE}{EOM}{EOM}
+
+Message 416:
+“CH3CHO”
+“CH3COOCH2CH(CH3)2”
+“C9H20”{PAUSE}{WIPE}
+“Magenge Jam”
+“Phurum Jam”{PAUSE}{EOM}{EOM}
+
+Message 417:
+CH2=CHC(O)NHC(CH3)2
+    CH2C(O)CH3
+Symbols like this continue...{PAUSE}{WIPE}
+Wait, does it say “{FLORA}”
+there at the bottom?{PAUSE}{EOM}
+
+Message 418:
+It's stained, maybe with chemicals?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 419:
+It looks like a door.
+Could there be a secret room here?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 420:
+Could be dangerous if touched...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 421:
+It's a pipe.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 422:
+There are miniature musical instruments
+on top of the chest.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 423:
+A drum-like instrument called a tabla.{PAUSE}{EOM}
+
+Message 424:
+{GUSTAFA}'s favorite guitar.
+There's a note on the back.{PAUSE}{WIPE}
+“Make a salad with 2 fruits and a Tomato.”{PAUSE}{EOM}
+
+Message 425:
+Where could this instrument be from?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 426:
+{GRIFFIN} used to make a living with this.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 427:
+Finds that are being examined are here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 428:
+Contains details records of their finds.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 429:
+Trash
+Press the {C14}A Button{C17} while holding an {C13}Item{C17}
+to throw it away.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 430:
+“{DOG}'s House”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 431:
+Ducks bathe here.{PAUSE}{EOM}{EOM}
+
+Message 432:
+If you hold your {C13}{ITEM_050E}{C17} here,
+you can wash a nearby animal.{PAUSE}{EOM}
+
+Message 433:
+For some reason there are a number of
+coins inside.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 434:
+This seems to be used to launch fireworks.{PAUSE}{EOM}
+
+Message 435:
+There are black stains here and there.{PAUSE}{EOM}
+
+Message 436:
+This is equipment that won't fit inside.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 437:
+An unidentifiable liquid is inside.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 438:
+These look like they are for experiments.{PAUSE}{EOM}{EOM}
+
+Message 439:
+A very deep looking well.{PAUSE}{EOM}{EOM}
+
+Message 440:
+Long unused, this is covered in cobwebs.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 441:
+{NINA} is resting in peace here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 442:
+You can feel warm air blow from inside.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 443:
+This must have been here for a long time.{PAUSE}{EOM}{EOM}
+
+Message 444:
+What do they make in this kiln?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 445:
+It smells a little like wine.
+There is a part of a note here.{PAUSE}{WIPE}
+“Use a Gretoma and a Carrot for...”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 446:
+When “Sell” appears as an option,
+press the {C14}A Button{C17} to open your own shop.{PAUSE}{EOM}{EOM}
+
+Message 447:
+Whose boat is this?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 448:
+Does {DARYL} use this in his experiments?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 449:
+Freshly painted... Not!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 450:
+A cute table.{PAUSE}{EOM}{EOM}
+
+Message 451:
+A cute shelf.{PAUSE}{EOM}{EOM}
+
+Message 452:
+Something seems to be inside...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 453:
+How does this light up?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 454:
+A simple table.
+Takakura must have brought it.{PAUSE}{EOM}
+
+Message 455:
+A small chest.{PAUSE}{EOM}
+
+Message 456:
+{CHAR_49} brought this chest.{PAUSE}{EOM}
+
+Message 457:
+A nice fluffy bed.{PAUSE}{EOM}
+
+Message 458:
+This bed was {PETE}'s.{PAUSE}{EOM}
+
+Message 459:
+A modest-sized kitchen.
+You can cook here.{PAUSE}{EOM}
+
+Message 460:
+This tablecloth is
+{CHAR_49}'s taste.{PAUSE}{EOM}
+
+Message 461:
+Dishes for three people are here.{PAUSE}{EOM}{EOM}
+
+Message 462:
+A nice big kitchen.
+You can make just about anything here.
+It all depends on the cook.{PAUSE}{EOM}
+
+Message 463:
+There is some child's writing on it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 464:
+{CHAR_49} bought some more clothes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 465:
+An expensive pot you bought from Van.
+There is a piece of paper attached.{PAUSE}{WIPE}
+“Try making a dessert with an
+Orange.”{PAUSE}{EOM}
+
+Message 466:
+A piece of art you got from Cody.{PAUSE}{EOM}{EOM}
+
+Message 467:
+Water for the animals.{PAUSE}{EOM}
+
+Message 468:
+A shallow drinking area for birds.{PAUSE}{EOM}
+
+Message 469:
+{TAKAKURA} brought this record player.
+You can use it to play {C13}Records{C17}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 470:
+{STRUC_11}
+Put {C13}Milk{C17} inside
+to make {C13}Cheese{C17}.{PAUSE}{EOM}
+
+Message 471:
+{STRUC_10}
+Put {C13}Milk{C17} inside
+to make {C13}Butter{C17}.{PAUSE}{EOM}
+
+Message 472:
+This machine creates power for the farm.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 473:
+Auto-Milker
+This machine automatically milks the
+cows for you.{PAUSE}{EOM}
+
+Message 474:
+The milk extracted by the auto-milker
+is refrigerated here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 475:
+The milk stored in the tank is
+put in cans here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 476:
+You can check if a cow can be milked
+here.{PAUSE}{EOM}
+
+Message 477:
+A {C13}{ITEM_8000}{C17} is blooming.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 478:
+A {C13}{ITEM_8000}{C17} is growing.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 479:
+A(n) {C13}{ITEM_8000}{C17} is here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 480:
+You can't get off here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 481:
+Takakura's Notebook
+Config{EOM}{EOM}
+
+Message 482:
+Animals
+Crops
+Business{EOM}{EOM}
+
+Message 483:
+Cows
+Sheep
+Chickens{EOM}
+
+Message 484:
+Taking care of cows
+Milking
+Varieties{EOM}{EOM}{EOM}
+
+Message 485:
+Taking care of sheep
+Shearing{EOM}{EOM}{EOM}
+
+Message 486:
+Taking care of birds
+Eggs
+Varieties{EOM}
+
+Message 487:
+Planting
+Taking care of plants
+Harvesting{EOM}{EOM}{EOM}
+
+Message 488:
+Shipping
+Ordering
+Selling{EOM}{EOM}{EOM}
+
+Message 489:
+(Food)
+Cows eat {C13}{ITEM_0003}{C17}. When the {C13}{ITEM_0003}{C17}
+in their feedbox disappears, put more in.{PAUSE}{WIPE}
+If half a day passes without the food
+disappearing, the cow isn't eating and
+should be fed by hand.{PAUSE}{WIPE}
+You can make more {C13}{ITEM_0003}{C17} by cutting
+grass. Get it from the {C14}{STRUC_20}{C17}'s dispenser.{PAUSE}{WIPE}
+(Grazing)
+On days when the weather is good, it is
+best to let your animals outside.{PAUSE}{WIPE}
+It reduces stress and keeps them healthy.
+To move a cow, push them in a direction.
+But don't let them out in the rain.{PAUSE}{WIPE}
+If there is grass in the pasture, the cows
+eat that, so fodder won't be necessary.{PAUSE}{WIPE}
+(Giving Birth)
+If you have cows and bulls, or if you ask
+M.P. service, your cow may get pregnant.{PAUSE}{WIPE}
+In about 18 days, the calf will be born.
+For about 10 days after the calf is born
+it will be in the Calf Hutch.{PAUSE}{WIPE}
+During that time it lives off of milk.{PAUSE}{WIPE}
+(Sickness)
+When cows get too stressed or hungry, they
+can get sick.{PAUSE}{WIPE}
+When they are sick, use {C13}{ITEM_0005}{C17}.
+{C13}{ITEM_0005}{C17} only works once a day.
+It may work in one day, but serious cases{PAUSE}{WIPE}
+may take three or more doses to cure.
+If you leave them when they are sick, they
+will die, so keep an eye on their health.{PAUSE}{WIPE}
+To keep them healthy, nuzzle your cows,
+brush them, and talk to them to see
+how they are feeling.{PAUSE}{WIPE}
+(Interaction)
+Close contact is necessary for raising
+happy cows. Brush and wash them.{PAUSE}{WIPE}
+Your cows will be sure to appreciate it.
+Nuzzling them is also a good idea.
+But don't wake them when they're sleeping.{PAUSE}{EOM}
+
+Message 490:
+You can milk female cows for about 40 days
+after they give birth. But you can only do
+it for a few days before they give birth.{PAUSE}{WIPE}
+To milk a cow, approach its side and milk
+it by hand or with a {C13}{ITEM_0506}{C17}.
+The amount and quality of the milk you{PAUSE}{WIPE}
+get will depend on the cow's condition, so
+keep them happy and healthy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 491:
+I can buy:
+Normal Cows
+Star Cows{PAUSE}{WIPE}
+Brown Cows
+Marble Cows
+in town.{PAUSE}{WIPE}
+They each give different kinds of milk,
+and some are better for processing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 492:
+(Food)
+Sheep eat {C13}{ITEM_0003}{C17}. When the {C13}{ITEM_0003}{C17}
+in their feedbox disappears, put more in.{PAUSE}{WIPE}
+If half a day passes without the food
+disappearing, the sheep isn't eating and
+should be fed by hand.{PAUSE}{WIPE}
+You can make more {C13}{ITEM_0003}{C17} by cutting
+grass. Get it from the {C14}{STRUC_20}{C17}'s dispenser.{PAUSE}{WIPE}
+(Grazing)
+On days when the weather is good, it is
+best to let your animals outside.{PAUSE}{WIPE}
+It reduces stress and keeps them healthy.
+To move a sheep, push them in a direction.
+But don't let them out in the rain.{PAUSE}{WIPE}
+If there is grass in the pasture, the
+sheep will eat that, so fodder won't
+be necessary.{PAUSE}{WIPE}
+(Sickness)
+When sheep get too stressed or hungry,
+they can get sick.{PAUSE}{WIPE}
+When they are sick, use {C13}{ITEM_0005}{C17}.
+{C13}{ITEM_0005}{C17} only works once a day.
+It may work in one day, but serious cases{PAUSE}{WIPE}
+may take three or more doses to cure.
+If you leave them when they are sick, they
+will die, so keep an eye on their health.{PAUSE}{WIPE}
+To keep them healthy, nuzzle your sheep,
+brush them, and talk to them to see
+how they are feeling.{PAUSE}{WIPE}
+(Interaction)
+Close contact is necessary for raising
+happy sheep. Brush and wash them.{PAUSE}{WIPE}
+Your sheep will be sure to appreciate it.
+Nuzzling them is also a good idea.
+But don't wake them when they're sleeping.{PAUSE}{EOM}
+
+Message 493:
+You can use {C13}{ITEM_050A}{C17} to get {C13}{ITEM_0019}{C17} from a
+sheep. Once you get {C13}{ITEM_0019}{C17} from a sheep, it
+takes about 10 days for it to grow back.{PAUSE}{WIPE}
+The quality of the {C13}{ITEM_0019}{C17} depends on the
+sheep's condition, so try to always keep
+an eye on their health and happiness.{PAUSE}{EOM}
+
+Message 494:
+(Food)
+Chickens eat {C13}{ITEM_0002}{C17}.
+When the feed area is empty, add more.{PAUSE}{WIPE}
+I can buy {C13}{ITEM_0002}{C17} in the city.
+All of the chickens eat out of one
+feed area.{PAUSE}{WIPE}
+(Letting them outside)
+On days when the weather is good, it is
+good to let your chickens outside.{PAUSE}{WIPE}
+When outside, they'll feed themselves and
+they are happier and healthier.
+But don't let them out in the rain.{PAUSE}{WIPE}
+(Sickness)
+When chickens get too stressed or hungry,
+they can get sick.{PAUSE}{WIPE}
+When they are sick, use {C13}{ITEM_0005}{C17}.
+{C13}{ITEM_0005}{C17} only works once a day.
+It may work in one day, but serious cases{PAUSE}{WIPE}
+may take three or more doses to cure.
+If you leave them when they are sick, they
+will die, so keep an eye on their health.{PAUSE}{WIPE}
+To keep them healthy, nuzzle your chickens
+and talk to them to see
+how they are feeling.{PAUSE}{WIPE}{EOM}{EOM}
+
+Message 495:
+A healthy female chicken lays about one
+{C13}{ITEM_001C}{C17} per day.
+Also, if you have a rooster,{PAUSE}{WIPE}
+you may get {C13}{ITEM_001E}s{C17} as well.
+Put a {C13}{ITEM_001E}{C17} in the {C14}{STRUC_25}{C17}
+and it will hatch.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 496:
+I can buy male and female chickens
+in town.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 497:
+(Seeds)
+There are many types of crops seeds, and
+each must be planted at a particular time{PAUSE}{WIPE}
+of year and in a particular kinds of soil.
+If you analyze a seed, you can determine
+the best soil and season for it.{PAUSE}{WIPE}
+(Soil)
+The soil at this farm gets better the
+farther you get from your house.{PAUSE}{WIPE}
+The biggest field is the most fertile.{PAUSE}{WIPE}
+(Seasons)
+It's best to plant a seed as soon as
+possible in a compatible season.{PAUSE}{WIPE}
+If the seed's season ends before the
+harvest, it will wilt.{PAUSE}{WIPE}
+(Caution)
+Don't plant seeds next to trees.
+They will wilt.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 498:
+After you plant a seed, you must water it.
+Water again when the soil dries out.
+After the harvest, water isn't necessary.{PAUSE}{WIPE}
+Trees don't have to be watered.
+Also remember that there is a limit to the
+amount of water that will be effective.{PAUSE}{EOM}
+
+Message 499:
+Fruits and vegetables can be harvested
+a while after the plant's flowers bloom.
+Root crops can be harvested{PAUSE}{WIPE}
+when the plant's flowers wilt.
+Trees grow tall and produce a large
+amount of fruit when in season.{PAUSE}{WIPE}
+When the fruit is ready to pick, you can
+shake the tree and then pick up the
+fallen fruit from the ground.{PAUSE}{EOM}{EOM}
+
+Message 500:
+At the moment, the only things you can
+ship are {C13}Milk{C17} and {C13}Eggs{C17}.
+To ship items, look at the {PAUSE}{WIPE}
+{C14}{STRUC_5}{C17} in the {C14}{STRUC_24}{C17} and
+move things from your rucksack to the bin
+or just put something directly inside.{PAUSE}{EOM}
+
+Message 501:
+If there's something you want me to buy in
+town, make a note of it on the
+Order Form in the {C14}{STRUC_24}{C17}.{PAUSE}{WIPE}
+Remember that buildings will take a while
+to build after ordering them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 502:
+If you want to sell something I can't sell
+in town, you can put it in your rucksack
+and sell it yourself.{PAUSE}{WIPE}
+To open your own shop, go to the empty
+lot by the {C14}{STRUC_35}{C17}. People walking
+by may buy things from you.{PAUSE}{EOM}
+
+Message 503:
+Take out the {ITEM_8000}?{CHOICE Y/N DEF0}{EOM}
+
+Message 504:
+There's not enough space in your rucksack.{PAUSE}{EOM}
+
+Message 505:
+There's not enough space in your rucksack.{PAUSE}{EOM}
+
+Message 506:
+Take out how many?{PAUSE}{EOM}
+
+Message 507:
+You put {ITEM_8000}in your rucksack.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 508:
+Barn Button
+Moves all animals back into
+the barn.{PAUSE}{EOM}{EOM}
+
+Message 509:
+Move all animals into the barn?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 510:
+Pasture Button
+Moves all animals out to the
+pasture.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 511:
+Move all animals out to the pasture?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 512:
+A doll you bought from Van.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 513:
+{C10}{EOM}{EOM}{EOM}
+
+Message 514:
+{C12}{EOM}{EOM}{EOM}
+
+Message 515:
+{VAR_00}{ITEM_8000}
+{VAR_01}{ITEM_8001}
+{VAR_02}{ITEM_8002}
+{VAR_03}{ITEM_8003}{EOM}
+
+Message 516:
+Do you want to change your clothes?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 517:
+{VAR_00}{ITEM_8000}
+{VAR_01}{ITEM_8001}
+{VAR_02}{ITEM_8002}
+{VAR_03}{ITEM_8003}
+{VAR_04}{ITEM_8004}
+{VAR_05}{ITEM_8005}
+{VAR_06}{ITEM_8006}
+{VAR_07}{ITEM_8007}
+{VAR_08}{ITEM_8008}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

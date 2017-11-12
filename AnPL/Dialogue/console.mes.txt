@@ -1,0 +1,924 @@
+Message 0:
+The {C13}{VAR_00}{C17} was moved
+to the correct category.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+You already have many {C13}{VAR_00}{C17}.
+You can't fit any more in your rucksack.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+You already have the maximum number of
+items that your rucksack can hold.
+You can't add the {C13}{VAR_00}{C17}.{PAUSE}{EOM}{EOM}
+
+Message 3:
+You can't hold an item while riding.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+The {C13}{VAR_00}{C17} is an item from a
+different category.{PAUSE}{EOM}
+
+Message 5:
+There are already many {C13}{VAR_00}{C17}.
+You can't move any more there.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+You already have the maximum of every
+Item that can fit inside.
+You can't add the {C13}{VAR_00}{C17}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+Cancel order for a
+{VAR_00}?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+Cancel Miracle Potion for
+{VAR_00}?{CHOICE Y/N DEF0}{EOM}
+
+Message 9:
+Cancel Miracle Potion between {VAR_00}
+and {VAR_01}?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 10:
+Order Miracle Potion for
+{VAR_00}?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 11:
+Do you want to order a
+{VAR_00}?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+Cancel order for {ITEM_8000}?{CHOICE Y/N DEF0}{EOM}
+
+Message 13:
+Order {ITEM_8000}?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+Cancel selling {VAR_00}?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+Sell {VAR_00} {VAR_01}?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 16:
+Cancel order for {VAR_00}?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 17:
+Order {VAR_00}?{CHOICE Y/N DEF0}{EOM}
+
+Message 18:
+♀: {VAR_00} ({VAR_01})
+♂: {VAR_02} ({VAR_03})
+Is this combination OK?{CHOICE Y/N DEF0}{EOM}
+
+Message 19:
+Order which cow?{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+You can only order a male.{EOM}{EOM}
+
+Message 21:
+Order which one?{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+Order which cow?{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+Order which tool?{EOM}{EOM}{EOM}
+
+Message 24:
+Order which item?{EOM}{EOM}{EOM}
+
+Message 25:
+How many?
+★You have {GOLD_0003} now.{EOM}{EOM}{EOM}{EOM}
+
+Message 26:
+Order which building?{EOM}{EOM}{EOM}
+
+Message 27:
+Sell which cow?{EOM}
+
+Message 28:
+Sell which sheep?{EOM}{EOM}{EOM}
+
+Message 29:
+Sell which chicken?{EOM}
+
+Message 30:
+Sell which duck?{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+Order which animal?{EOM}
+
+Message 32:
+What do you want to order?{EOM}{EOM}
+
+Message 33:
+Sell which animal?{EOM}{EOM}
+
+Message 34:
+Which bull for Miracle Potion use?{EOM}{EOM}
+
+Message 35:
+Select a male for Miracle Potion.
+{VAR_00} ({VAR_01}){EOM}{EOM}{EOM}
+
+Message 36:
+You have no female cows.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+The {STRUC_20} is full.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+There is already a calf that will be born
+around the same time. Wait a bit longer.{PAUSE}{EOM}
+
+Message 39:
+You don't have enough money.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+{VAR_00} is still too young to
+have a calf.{PAUSE}{EOM}{EOM}
+
+Message 41:
+{VAR_00} is sick, so she can't
+get pregnant.{PAUSE}{EOM}
+
+Message 42:
+{VAR_00} is pregnant.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+{VAR_00} gave birth recently.
+You will have to give her a
+little time to rest.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 44:
+You are selling
+{VAR_00}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+The {STRUC_20} is full.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+A calf will be born soon,
+and the {STRUC_20} will be full.{PAUSE}{EOM}
+
+Message 47:
+You don't have enough money.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+The {STRUC_21} is full.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+An egg will hatch soon and the
+{STRUC_21} will be full.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+You already ordered the
+{ITEM_8000}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+Takakura has gone out to buy
+the {ITEM_8000}.{PAUSE}{EOM}{EOM}
+
+Message 52:
+You already have one {ITEM_8000}.{PAUSE}{EOM}{EOM}
+
+Message 53:
+You don't have enough money.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 54:
+You already ordered the
+{ITEM_8000}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 55:
+First, take the {ITEM_8000} out of
+the {STRUC_8}.{PAUSE}{EOM}
+
+Message 56:
+You can't put any more
+{ITEM_8000}
+on the {STRUC_3}.{PAUSE}{EOM}{EOM}
+
+Message 57:
+The {STRUC_3} is full.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+The {STRUC_3} will be full.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 59:
+You don't have enough money.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+You don't have enough money.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+There are no animals that you can sell.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+{VAR_00} is sick.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{VAR_00} is pregnant.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+{VAR_00} is scheduled for
+Miracle Potion.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+{VAR_00} is being prepared
+for Miracle Potion.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 66:
+You have all the buildings already.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+You must wait until the
+{VAR_00} is completed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+You don't have enough money.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+You don't have enough money.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+You don't have any bulls.{PAUSE}{EOM}{EOM}
+
+Message 71:
+The {STRUC_20} is full.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+There is already a calf that will be born
+around the same time. Wait a bit longer.{PAUSE}{EOM}
+
+Message 73:
+{VAR_00} is still too young for
+Miracle Potion.{PAUSE}{EOM}{EOM}
+
+Message 74:
+{VAR_00} is sick
+so he can't be used for
+Miracle Potion.{PAUSE}{EOM}
+
+Message 75:
+{VAR_00} is pregnant.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+{VAR_00} has given birth recently.
+You will have to give her a
+little time to rest.{PAUSE}{EOM}{EOM}
+
+Message 77:
+{VAR_00} is going to
+be sold.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+{VAR_00} is still
+too young for
+Miracle Potion.{PAUSE}{EOM}{EOM}
+
+Message 79:
+{VAR_00} is sick
+and so can't be used for
+Miracle Potion.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+{VAR_00} is going to
+be sold.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+You have all the items you can order.{PAUSE}{EOM}{EOM}
+
+Message 82:
+Your rucksack is full.{PAUSE}{EOM}
+
+Message 83:
+You have no crops.{PAUSE}{EOM}
+
+Message 84:
+Take out a seed?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 85:
+Put in a crop?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+It looks like it will be a while yet.{PAUSE}{EOM}{EOM}
+
+Message 87:
+It looks like it will take a bit longer.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+The seeds will be produced very soon.{PAUSE}{EOM}{EOM}
+
+Message 89:
+It was put here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+Put it inside?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 91:
+There is only one seed to be taken out.
+Is that OK?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 92:
+Select a crop to get seeds from.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+Select a location for the seed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+How many will you take out?{EOM}
+
+Message 95:
+That is {VAR_00}'s
+feedbox.{PAUSE}{EOM}{EOM}
+
+Message 96:
+Is this location OK for the feedbox?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 97:
+Take out the {ITEM_8000}?{CHOICE Y/N DEF0}{EOM}
+
+Message 98:
+Put the {ITEM_8000} in your rucksack?{CHOICE Y/N DEF0}{EOM}
+
+Message 99:
+Put the {ITEM_8000} there?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+You took out the {ITEM_8000}.{PAUSE}{EOM}{EOM}
+
+Message 101:
+You put {ITEM_8000} in your rucksack.{PAUSE}{EOM}{EOM}
+
+Message 102:
+It won't fit in your rucksack.{PAUSE}{EOM}
+
+Message 103:
+You don't have the {ITEM_8000}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+You don't have that yet.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+Is this OK?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 106:
+Quit cooking?{CHOICE Y/N DEF1}{EOM}
+
+Message 107:
+Is this combination OK?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 108:
+Analyze this item?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+Quit hybridizing?{CHOICE Y/N DEF1}{EOM}
+
+Message 110:
+Quit analysis?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 111:
+{VAR_00}'s Diary{EOM}{EOM}
+
+Message 112:
+{VAR_00}{EOM}{EOM}
+
+Message 113:
+{VAR_00} Farm{EOM}
+
+Message 114:
+Year {GOLD_0001}{EOM}{EOM}{EOM}{EOM}
+
+Message 115:
+{VAR_00}{EOM}{EOM}
+
+Message 116:
+Day {GOLD_0002}{EOM}
+
+Message 117:
+{GOLD_0001}{GOLD_0101}:{GOLD_0201}{GOLD_0301}{EOM}{EOM}{EOM}
+
+Message 118:
+No Diary.{EOM}{EOM}{EOM}
+
+Message 119:
+There is not enough free space.{EOM}
+
+Message 120:
+There are too many files.{EOM}{EOM}{EOM}
+
+Message 121:
+A Memory Card was inserted into
+Slot {VAR_00}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+A Memory Card was removed from
+Slot {VAR_00}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+Format failed.
+The Memory Card in Slot {VAR_00}
+was removed.{PAUSE}{EOM}
+
+Message 124:
+Format Successful.{PAUSE}{EOM}
+
+Message 125:
+A different Memory Card has been inserted.{PAUSE}{EOM}
+
+Message 126:
+The data on the Memory Card in
+Slot {VAR_00} was successfully repaired.{PAUSE}{EOM}{EOM}
+
+Message 127:
+Failed to recover data on Memory Card in
+Slot {VAR_00}.{PAUSE}{EOM}{EOM}
+
+Message 128:
+Select a Memory Card.{PAUSE}{EOM}{EOM}
+
+Message 129:
+Select a Diary to load.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+Data loading complete.{PAUSE}{EOM}
+
+Message 131:
+Loading failed.
+The Diary data is corrupt.{PAUSE}{EOM}
+
+Message 132:
+Select a Diary for saving data.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+Save failed.
+The Memory Card in Slot {VAR_00}
+was removed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+Save to Diary {GOLD_0001} in
+Slot {VAR_00} complete.{PAUSE}{EOM}
+
+Message 135:
+Save failed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+Load failed from Memory Card
+in Slot {VAR_00}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 137:
+Checking Memory Card...{EOM}
+
+Message 138:
+Checking Memory Card data.
+Do not touch the Memory Card
+or the POWER Button.{EOM}{EOM}{EOM}{EOM}
+
+Message 139:
+Formatting Memory Card.
+Do not touch the Memory Card
+or the POWER Button.{EOM}{EOM}{EOM}
+
+Message 140:
+Accessing Memory Card...
+Do not touch the Memory Card
+or the POWER Button.{EOM}{EOM}
+
+Message 141:
+Loading data.
+Do not touch the Memory Card
+or the POWER Button.{EOM}
+
+Message 142:
+Saving data.
+Do not touch the Memory Card
+or the POWER Button.{EOM}{EOM}
+
+Message 143:
+Creating system file.
+Do not touch the Memory Card
+or the POWER Button.{EOM}
+
+Message 144:
+There is no Memory Card in Slot A
+or Slot B.{PAUSE}
+If you start the game like this, you won't
+be able to save your game. Is that OK?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 145:
+The Memory Card in Slot A is corrupted
+and needs to be formatted.{PAUSE}
+Formatting the Memory Card will erase
+all saved data. Do you want to format?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 146:
+If you start the game like this, you won't
+be able to save your game to the Memory
+Card in Slot {VAR_00}. Is that OK?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 147:
+The Memory Card in Slot {VAR_00}
+is damaged and cannot be used.{PAUSE}
+If you start the game like this, you won't
+be able to save your game. Is that OK?{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 148:
+There isn't enough free space on the
+Memory Card in Slot {VAR_00}. This game
+requires 1 file and 28 blocks to save.{PAUSE}
+Do you want to manage your Memory Card?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 149:
+There isn't enough free space on the
+Memory Card in Slot {VAR_00}. This game
+requires 1 file and 28 blocks to save.{PAUSE}
+Do you want to manage your Memory Card?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+The Memory Card in Slot {VAR_00}
+is corrupted and needs to be formatted. {PAUSE}
+Formatting the Memory Card will erase
+all saved data. Do you want to format?{CHOICE Y/N DEF0}{EOM}
+
+Message 151:
+You will not be able to use the
+Memory Card in Slot {VAR_00}.
+Is that OK?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 152:
+No Memory Card found in Slot A
+or Slot B.
+Canceling load. Is that OK?{CHOICE Y/N DEF1}{EOM}
+
+Message 153:
+Canceling load. Is that OK?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 154:
+A different Memory Card has been inserted.{PAUSE}
+Use this Memory Card?{CHOICE Y/N DEF0}{EOM}
+
+Message 155:
+No Memory Card found in Slot A
+or Slot B.
+Cancel save?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+Canceling save. Is that OK?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 157:
+Overwrite this Diary?{CHOICE Y/N DEF1}{EOM}
+
+Message 158:
+There is no “Harvest Moon: Another
+Wonderful Life” system file on the
+Memory Card in Slot {VAR_00}.{PAUSE}
+Create system file?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+Failed to create system
+file.{PAUSE}{EOM}{EOM}
+
+Message 160:
+Save again?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 161:
+The Harvest Moon: Another Wonderful Life
+file on the Memory Card in Slot {VAR_00} is
+corrupted and must be deleted.
+{CHOICE2 DEF1}
+Delete
+Continue without saving{EOM}
+
+Message 162:
+You won't ever save again?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+The Memory Card in Slot {VAR_00}
+is damaged and cannot be used.{PAUSE}
+If you start the game like this, you won't
+be able to save your game. Is that OK?{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 164:
+The data on the Memory Card in Slot {VAR_00}
+is incomplete. Attempting to repair.{PAUSE}
+Do not touch the Memory Card
+or the POWER Button.{PAUSE}{EOM}
+
+Message 165:
+No Memory Card found in
+Slot {VAR_00}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+Wrong device
+in Slot {VAR_00}.
+Please insert a Memory Card.{PAUSE}{EOM}{EOM}
+
+Message 167:
+The data on the Memory Card in Slot {VAR_00}
+is damaged and cannot be used.{PAUSE}{EOM}{EOM}
+
+Message 168:
+There are no loadable Diaries on the
+Memory Card in Slot {VAR_00}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 169:
+ERROR{EOM}{EOM}{EOM}
+
+Message 170:
+There isn't enough free space on the
+Memory Card in Slot {VAR_00}. This game
+requires 1 file and 28 blocks to save.{PAUSE}{EOM}{EOM}
+
+Message 171:
+There isn't enough free space on the
+Memory Card in Slot {VAR_00}. This game
+requires 1 file and 28 blocks to save.{PAUSE}{EOM}{EOM}
+
+Message 172:
+The Memory Card in Slot {VAR_00}
+is damaged and cannot be used.{PAUSE}{EOM}{EOM}
+
+Message 173:
+There isn't enough free space on the
+Memory Card in Slot {VAR_00}. This game
+requires 1 file and 28 blocks to save.{PAUSE}{EOM}{EOM}
+
+Message 174:
+There are no loadable Diaries on the
+Memory Card in Slot {VAR_00}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 175:
+There is no “Harvest Moon: Another
+Wonderful Life” system file on the
+Memory Card in Slot {VAR_00}.{PAUSE}{EOM}{EOM}
+
+Message 176:
+Is this name OK?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 177:
+No name has been entered.{PAUSE}{EOM}{EOM}
+
+Message 178:
+{VAR_00} is already
+pregnant.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+{VAR_00} is already
+pregnant.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 180:
+{VAR_00} is already
+pregnant.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+{FARM} Farm.
+Includes {PETE}'s and Takakura's
+houses.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+A residential area.
+Wally and others live here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+The {STRUC_35}.
+Tim and Ruby's inn.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 184:
+Vesta's {STRUC_32}.
+You can buy crop seeds here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 185:
+The forest {STRUC_38}.
+Some mysterious creatures live
+in this area.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+Romana's {STRUC_34}.
+Sometimes you can hear Lumina
+play the piano.{PAUSE}{EOM}
+
+Message 187:
+The home of the old fireworks makers.
+It's an elevated house, so you must
+climb up using a rope.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 188:
+An artist named Cody
+lives here.
+It looks like trailer.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 189:
+The house of a scientist named Daryl.
+He's always working on some experiment.{PAUSE}{EOM}{EOM}
+
+Message 190:
+The {STRUC_39}.
+Occasionally a giant turtle roams
+here seeking a drink of water.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 191:
+The {STRUC_41}.
+Professor Carter and his assistant Flora
+dig for artifacts here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+Galen lives here so he can tend
+his wife Nina's grave.{PAUSE}{EOM}
+
+Message 193:
+A musician named Gustafa lives
+here.
+The place looks like a yurt.{PAUSE}{EOM}{EOM}
+
+Message 194:
+The {STRUC_37}.
+Many years ago fishermen used to
+sail from here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+Griffen's establishment,
+the {STRUC_33}.
+He serves tasty drinks.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 196:
+A musician named Gustafa used to
+live here.
+The place looks like a yurt.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 197:
+Nothing in particular.{PAUSE}{EOM}
+
+Message 198:
+{VAR_00}
+{VAR_01}
+{VAR_02}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 199:
+{VAR_00}{EOM}{EOM}
+
+Message 200:
+Display all items.{PAUSE}{EOM}
+
+Message 201:
+Display only food.{PAUSE}{EOM}
+
+Message 202:
+Display only seeds.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+Display only crops.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 204:
+Display only dairy products.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 205:
+Display only tools.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 206:
+Display other items.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 207:
+Display area map.{PAUSE}{EOM}{EOM}
+
+Message 208:
+Display explanation for cursor item.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 209:
+Breed cows or buy new animals.{PAUSE}{EOM}
+
+Message 210:
+Order tools, medicine, and animal feed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 211:
+Order tools, medicine, and animal feed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+Order tools, medicine, and animal feed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+Order a new building.
+It will take time before it's finished.{PAUSE}{EOM}{EOM}
+
+Message 214:
+Sell one of your animals.{PAUSE}{EOM}{EOM}
+
+Message 215:
+Return to ledger.{PAUSE}{EOM}{EOM}
+
+Message 216:
+Display items you asked {TAKAKURA} for.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+Go to the order screen.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 218:
+Go to the crop shipment box.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 219:
+Go to the order screen.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 220:
+Go to the dairy shipment box.{PAUSE}{EOM}{EOM}
+
+Message 221:
+Display only the crops in your rucksack.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 222:
+Display only the crops in your rucksack.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 223:
+Display only the seeds in your rucksack.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 224:
+Display only the other items in your rucksack.{PAUSE}{EOM}
+
+Message 225:
+Information about your and your family.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 226:
+A list of your buildings.{PAUSE}{EOM}{EOM}
+
+Message 227:
+A list of your livestock.{PAUSE}{EOM}{EOM}
+
+Message 228:
+A list of the chickens and ducks
+on your farm.{PAUSE}{EOM}
+
+Message 229:
+A list of dairy products.{PAUSE}{EOM}{EOM}
+
+Message 230:
+A list of crops.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 231:
+Financial records.{PAUSE}{EOM}
+
+Message 232:
+A list of your fish, records
+and excavation finds.{PAUSE}{EOM}
+
+Message 233:
+Mini-game records.{PAUSE}{EOM}
+
+Message 234:
+{VAR_00} records
+ {ITEM_8000}  {GOLD_0003}cm{PAUSE}{EOM}
+
+Message 235:
+Turn it on and off with the R Button.
+Press the {C14}A Button{C17} to move the
+hands to a particular time.{PAUSE}{EOM}
+
+Message 236:
+Insert a crop to make into seeds.
+After several days have passed,
+the crop will turn into seeds.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 237:
+Choose a kind of dish to make.{PAUSE}{EOM}
+
+Message 238:
+Choose your ingredients and press START.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 239:
+{VAR_00} is scheduled for
+Miracle Potion.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 240:
+{VAR_00} is scheduled for
+Miracle Potion.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 241:
+You have already asked for Miracle Potion.
+A new calf would be born around the same
+time as the other one, so you must wait.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 242:
+You have already asked for Miracle Potion.
+A new calf would be born around the same
+time as the other one, so you must wait.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 243:
+{VAR_00} has already
+been sold.{PAUSE}{EOM}{EOM}
+
+Message 244:
+Save your game?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 245:
+Modify Seed Maker data.
+Please insert a Memory Card in Slot A
+and choose a file.
+{CHOICE2 DEF0}
+File 1 (Top)
+File 2 (Bottom){EOM}{EOM}{EOM}{EOM}
+
+Message 246:
+Memory Card processing failed.{PAUSE}{EOM}
+
+Message 247:
+Seed Maker modified.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

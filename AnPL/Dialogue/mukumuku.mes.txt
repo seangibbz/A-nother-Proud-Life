@@ -1,0 +1,121 @@
+Message 0:
+Mofaaaaaah...{S_320320}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+Mofu?{S_320190}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+Fumo fumo...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+{S_340199}Mmmmmofa!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+Mo......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+......{PAUSE}{EOM}
+
+Message 6:
+{FACE_030004}Mufaaah!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+Mofu mofu.{PAUSE}{EOM}
+
+Message 8:
+Mofu mofu...mofu.{PAUSE}{EOM}{EOM}
+
+Message 9:
+Mofu mofu...mofu mofu.{PAUSE}{EOM}
+
+Message 10:
+{FACE_030003}...Mofa fa?
+{CHOICE2 DEF1}
+ Give it.
+Don't give it.{EOM}
+
+Message 11:
+{FACE_030003}Mofa mofa.{PAUSE}{EOM}
+
+Message 12:
+{FACE_030004}...Mo...mo.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+...Mofu.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+{FACE_030004}Mufa mufa.{PAUSE}{EOM}
+
+Message 15:
+{FACE_030003}{S_340199}Mofaaah...{PAUSE}{EOM}{EOM}
+
+Message 16:
+Mufa mufa...mu mu.{PAUSE}{EOM}
+
+Message 17:
+Mu mu, mu mu...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+{PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+Mo mo mo...mofu.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+Mofu mofu...mofa...mofu.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+Mofu...momo...mofee.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 22:
+Fumo...mo, mo...mofa.{PAUSE}{EOM}{EOM}
+
+Message 23:
+Mofaah...mmmomo.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+{S_340199}Mofa mofa mofaaaah...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 25:
+Momomo...mosha...mofa.{EOM}{EOM}
+
+Message 26:
+{S_340199}Mofu mofu...momo...mofa.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+Mofa...mofa...mofu.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+Mofu mofu mofu...mofa.{PAUSE}{EOM}
+
+Message 29:
+Mosha...moho moho...mofa.{PAUSE}{EOM}{EOM}
+
+Message 30:
+{S_340199}Mofaah...mofaah...{PAUSE}{EOM}{EOM}
+
+Message 31:
+{S_340199}Moh...mofufu.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+Moffah...
+Mofu mofu.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+Mofa?{PAUSE}{EOM}{EOM}
+
+Message 34:
+Mofu mofu...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+Mofuu...?{PAUSE}{EOM}{EOM}
+
+Message 36:
+Mofaah...{PAUSE}{EOM}{EOM}
+
+Message 37:
+{FACE_230005}Mofaaaah!{PAUSE}{EOM}{EOM}
+
+Message 38:
+Mo, mofaaah...{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

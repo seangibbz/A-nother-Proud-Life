@@ -1,0 +1,1672 @@
+Message 0:
+{C13}{ITEM_03ED} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 1:
+{C13}{ITEM_03EE} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 2:
+{C13}{ITEM_03EF} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 3:
+{C13}{ITEM_03F0} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 4:
+{C13}{ITEM_03F1} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+{C13}{ITEM_03F2} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+{C13}{ITEM_03F3} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+{C13}{ITEM_03F4} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 8:
+{C13}{ITEM_03F5} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 9:
+{C13}{ITEM_03F6} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 10:
+{C13}{ITEM_03F7} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+{C13}{ITEM_03F8} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{C13}{ITEM_03F9} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+{C13}{ITEM_03FA} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+{C13}{ITEM_03FB} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+{C13}{ITEM_03FC} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{C13}{ITEM_03FD} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+{C13}{ITEM_03FE} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+{C13}{ITEM_03FF} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+{C13}{ITEM_0400} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 20:
+{C13}{ITEM_0401} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 21:
+{C13}{ITEM_0402} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 22:
+{C13}{ITEM_0403} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+{C13}{ITEM_0404} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+{C13}{ITEM_0405} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+{C13}{ITEM_0406} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 26:
+{C13}{ITEM_0407} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 27:
+{C13}{ITEM_0408} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 28:
+{C13}{ITEM_0409} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 29:
+{C13}{ITEM_040A} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 30:
+{C13}{ITEM_040B} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 31:
+{C13}{ITEM_040C} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in spring.{PAUSE}{EOM}{EOM}
+
+Message 32:
+{C13}{ITEM_040D} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in spring.{PAUSE}{EOM}{EOM}
+
+Message 33:
+{C13}{ITEM_040E} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in spring.{PAUSE}{EOM}{EOM}
+
+Message 34:
+{C13}{ITEM_040F} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 35:
+{C13}{ITEM_0410} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 36:
+{C13}{ITEM_0411} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 37:
+{C13}{ITEM_0412} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 38:
+{C13}{ITEM_0413} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 39:
+{C13}{ITEM_0414} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 40:
+{C13}{ITEM_0415} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+{C13}{ITEM_0416} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+{C13}{ITEM_0417} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+{C13}{ITEM_0418} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 44:
+{C13}{ITEM_0419} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 45:
+{C13}{ITEM_041A} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 46:
+{C13}{ITEM_041B} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 47:
+{C13}{ITEM_041C} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 48:
+{C13}{ITEM_041D} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 49:
+{C13}{ITEM_041E} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 50:
+{C13}{ITEM_041F} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 51:
+{C13}{ITEM_0420} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in winter.{PAUSE}{EOM}{EOM}
+
+Message 52:
+{C13}{ITEM_0421} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 53:
+{C13}{ITEM_0422} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 54:
+{C13}{ITEM_0423} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 55:
+{C13}{ITEM_0424} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{C13}{ITEM_0425} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+{C13}{ITEM_0426} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+{C13}{ITEM_0427} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+{C13}{ITEM_0428} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+{C13}{ITEM_0429} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+{C13}{ITEM_042A} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 62:
+{C13}{ITEM_042B} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 63:
+{C13}{ITEM_042C} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in summer.{PAUSE}{EOM}{EOM}
+
+Message 64:
+{C13}{ITEM_042D} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+{C13}{ITEM_042E} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+{C13}{ITEM_042F} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in fall.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+{C13}{ITEM_0430} B
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in spring.{PAUSE}{EOM}{EOM}
+
+Message 68:
+{C13}{ITEM_0431} A
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in spring.{PAUSE}{EOM}{EOM}
+
+Message 69:
+{C13}{ITEM_0432} S
+{C17}This fruit grows in any soil.
+Bears a lot of fruit in spring.{PAUSE}{EOM}{EOM}
+
+Message 70:
+{C13}{ITEM_0433}
+{C17}A wild plant with a very strong smell.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 71:
+{C13}{ITEM_0434}
+{C17}Although you wouldn't know it from its
+appearance, this tastes like mushrooms.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+{C13}{ITEM_0435}
+{C17}This plant's unique texture and wonderful
+bitterness will wow gourmets.{PAUSE}{EOM}{EOM}
+
+Message 73:
+{C13}{ITEM_0436}
+{C17}With its distinctive odor and strong
+acrid taste, this is an acquired taste.{PAUSE}{EOM}
+
+Message 74:
+{C13}{ITEM_0437}
+{C17}A chewy textured mushroom.
+Goes well with most any type of cooking.{PAUSE}{EOM}{EOM}
+
+Message 75:
+{C13}{ITEM_0438}
+{C17}A slimy mushroom.
+Has a good aroma when heated.{PAUSE}{EOM}{EOM}
+
+Message 76:
+{C13}{ITEM_0439}
+{C17}A very good smelling mushroom.
+Called the “king of the mushrooms.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+{C13}{ITEM_043A}
+{C17}This blooms on the plains in spring.
+Smells faintly like soap.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+{C13}{ITEM_043B}
+{C17}This blooms on the plains in summer.
+Has a fresh scent like lemons.{PAUSE}{EOM}{EOM}
+
+Message 79:
+{C13}{ITEM_043C}
+{C17}This blooms on the plains in fall.
+Its two blooms each have different scents.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+{C13}{ITEM_043D}
+{C17}This blooms on the plains in winter.
+Its mysterious scent is used for perfumes.{PAUSE}{EOM}{EOM}
+
+Message 81:
+{C13}{ITEM_043E}
+{C17}This blooms on the plains in spring.
+It has a mildly sweet aroma, like milk.{PAUSE}{EOM}
+
+Message 82:
+{C13}{ITEM_043F}
+{C17}This flower blooms in summer.{PAUSE}{WIPE}
+It is said that it includes a substance
+which can act as a insulator...{PAUSE}{EOM}{EOM}
+
+Message 83:
+{C13}{ITEM_0440}
+{C17}This flower blooms in fall.{PAUSE}{WIPE}
+There are rumors that something in its
+stem will help the body grow strong.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+{C13}{ITEM_0441}
+{C17}This flower blooms in winter.{PAUSE}{WIPE}
+It is said that this flower's roots
+have the ability to completely suck
+the nutrients from the soil.{PAUSE}{EOM}
+
+Message 85:
+{C13}{ITEM_0442}
+{C17}A coin found at the {STRUC_41}.
+Van might buy it from you...{PAUSE}{EOM}
+
+Message 86:
+{C13}{ITEM_0443}
+{C17}A coin found at the {STRUC_41}.
+Van might buy it from you...{PAUSE}{EOM}
+
+Message 87:
+{C13}{ITEM_0444}
+{C17}A coin found at the {STRUC_41}.
+Van might buy it from you...{PAUSE}{EOM}
+
+Message 88:
+{C13}{ITEM_0445}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 89:
+{C13}{ITEM_0446}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+{C13}{ITEM_0447}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 91:
+{C13}{ITEM_0448}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+{C13}{ITEM_0449}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+{C13}{ITEM_044A}
+{C17}An item found at the {STRUC_41}.
+This could be an incredible discovery...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+{C13}{ITEM_044B}
+An item found at the {C17}{STRUC_41}.
+This could be an incredible discovery...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+{C13}{ITEM_044C}
+{C17}An item found at the {STRUC_41}.
+This could be an incredible discovery...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+{C13}{ITEM_044D}
+{C17}An item found at the {STRUC_41}.
+This could be an incredible discovery...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+{C13}{ITEM_044E}
+{C17}An item found at the {STRUC_41}.
+This could be an incredible discovery...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+{C13}{ITEM_044F}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+{C13}{ITEM_0450}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+{C13}{ITEM_0451}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 101:
+{C13}{ITEM_0452}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+{C13}{ITEM_0453}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+{C13}{ITEM_0454}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+{C13}{ITEM_0455}
+{C17}An item found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 105:
+{C13}{ITEM_0456}
+{C17}Something possibly found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}
+
+Message 106:
+{C13}{ITEM_0457}
+{C17}Something rarely found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 107:
+{C13}{ITEM_0458}
+{C17}Hardly ever found at the {STRUC_41}.
+Van might pay well for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+{C13}{ITEM_0459}
+{C17}{TATSUYA}'s toy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+{C13}{ITEM_045A}
+{C17}A child's wooden blocks.{PAUSE}{EOM}
+
+Message 110:
+{C13}{ITEM_045B}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 111:
+{C13}{ITEM_045C}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 112:
+{C13}{ITEM_045D}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 113:
+{C13}{ITEM_045E}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 114:
+{C13}{ITEM_045F}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 115:
+{C13}{ITEM_0460}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 116:
+{C13}{ITEM_0461}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 117:
+{C13}{ITEM_0462}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 118:
+{C13}{ITEM_0463}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 119:
+{C13}{ITEM_0464}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 120:
+{C13}{ITEM_0465}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 121:
+{C13}{ITEM_0466}
+{C17}{TATSUYA}'s sketchbook.{PAUSE}{EOM}
+
+Message 122:
+{C13}{ITEM_0467}
+{C12}TBD{PAUSE}{EOM}{EOM}
+
+Message 123:
+{C13}{ITEM_0468}
+{C17}A wooden toy car.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+{C13}{ITEM_0469}
+{C17}Given to you by {RUBY}.{PAUSE}{EOM}{EOM}
+
+Message 125:
+{C13}{ITEM_046A}
+{C17}Given to you by {S_3400DA}{GUSTAFA}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+{C13}{ITEM_046B}
+{C17}Given to you by {WALLY}.{PAUSE}{EOM}{EOM}
+
+Message 127:
+{C13}{ITEM_046C}
+{C17}Given to you by {FLORA}.{PAUSE}{EOM}{EOM}
+
+Message 128:
+{C13}{ITEM_046D}
+{C17}Given to you by {LUMINA}.{PAUSE}{EOM}{EOM}
+
+Message 129:
+{C13}{ITEM_046E}
+{C17}Given to you by {PATRICK}.{PAUSE}{EOM}{EOM}
+
+Message 130:
+{C13}{ITEM_046F}
+{C17}This fish lives in clear upstream waters.
+Perfect for {C13}{ITEM_04A3}{C17}.{PAUSE}{EOM}
+
+Message 131:
+{C13}{ITEM_0470}
+{C17}This fish lives in clear upstream waters.
+Rich tasting, with a bit of bitterness.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+{C13}{ITEM_0471}
+{C17}This fish lives in clear upstream waters.
+Perfect for {C13}{ITEM_04A3}{C17}.{PAUSE}{EOM}
+
+Message 133:
+{C13}{ITEM_0472}
+{C17}This fish lives in clear upstream waters.
+Rich tasting, with a bit of bitterness.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 134:
+{C13}{ITEM_0473}
+{C17}This fish can be caught upstream.
+Has a light flavor.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 135:
+{C13}{ITEM_0474}
+{C17}This fish can be caught upstream.
+Has a light flavor.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 136:
+{C13}{ITEM_0475}
+{C17}This fish can be caught upstream.
+Perfect for something like {C13}{ITEM_04A3}{C17}.{PAUSE}{EOM}{EOM}
+
+Message 137:
+{C13}{ITEM_0476}
+{C17}This fish can be caught upstream.
+Perfect for something like {C13}{ITEM_04A3}{C17}.{PAUSE}{EOM}{EOM}
+
+Message 138:
+{C13}{ITEM_0477}
+{C17}This fish lives upstream and in the swamp.
+It is very unusual to catch one of these.{PAUSE}{EOM}
+
+Message 139:
+{C13}{ITEM_0478}
+{C17}This fish lives upstream and in the swamp.
+It is very unusual to catch one of these.{PAUSE}{EOM}
+
+Message 140:
+{C13}{ITEM_0479}
+{C17}On rare occasions, this fish can be
+caught upstream or in the swamp.{PAUSE}{EOM}
+
+Message 141:
+{C13}{ITEM_047A}
+{C17}On rare occasions, this fish can be
+caught upstream or in the swamp.{PAUSE}{EOM}
+
+Message 142:
+{C13}{ITEM_047B}
+{C17}Often caught downstream or at the spring.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 143:
+{C13}{ITEM_047C}
+{C17}Often caught downstream or at the spring.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+{C13}{ITEM_047D}
+{C17}Often caught downstream or at the spring.{PAUSE}
+The smallest fish around these parts.{PAUSE}{EOM}
+
+Message 145:
+{C13}{ITEM_047E}
+{C17}Often caught downstream or at the spring.{PAUSE}
+The smallest fish around these parts.{PAUSE}{EOM}
+
+Message 146:
+{C13}{ITEM_047F}
+{C17}Very rarely seen at the spring and swamp.
+The rarest fish in the area.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 147:
+{C13}{ITEM_0480}
+{C17}Very rarely seen at the spring and swamp.
+The rarest fish in the area.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+{C13}{ITEM_0481}
+{C17}This fish lives in the spring and swamp.
+Hardly ever caught.{PAUSE}{EOM}
+
+Message 149:
+{C13}{ITEM_0482}
+{C17}This fish lives in the spring and swamp.
+Hardly ever caught.{PAUSE}{EOM}
+
+Message 150:
+{C13}{ITEM_0483}
+{C17}Caught downstream or at the spring.
+Somewhat plain tasting.{PAUSE}{EOM}{EOM}
+
+Message 151:
+{C13}{ITEM_0484}
+{C17}Caught downstream or at the spring.
+Somewhat plain tasting.{PAUSE}{EOM}{EOM}
+
+Message 152:
+{C13}{ITEM_0485}
+{C17}Rarely seen downstream or at the spring.{PAUSE}{EOM}
+
+Message 153:
+{C13}{ITEM_0486}
+{C17}Rarely seen downstream or at the spring.{PAUSE}{EOM}
+
+Message 154:
+{C13}{ITEM_0487}
+{C17}Very rarely caught downstream.
+Has a very distinctive flavor.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 155:
+{C13}{ITEM_0488}
+{C17}Very rarely caught downstream.
+Has a very distinctive flavor.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+{C13}{ITEM_0489}
+{C17}Found downstream.
+Quite a rare fish.{PAUSE}{EOM}
+
+Message 157:
+{C13}{ITEM_048A}
+{C17}Found downstream.
+Quite a rare fish.{PAUSE}{EOM}
+
+Message 158:
+{C13}{ITEM_048B}
+{C17}Often caught in places like the swamp.
+Not very tasty.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 159:
+{C13}{ITEM_048C}
+{C17}Often caught in places like the swamp.
+Not very tasty.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+{C13}{ITEM_048D}
+{C17}Found downstream or in the swamp.
+Caught very often.{PAUSE}{EOM}
+
+Message 161:
+{C13}{ITEM_048E}
+{C17}Found downstream or in the swamp.
+Caught very often.{PAUSE}{EOM}
+
+Message 162:
+{C13}{ITEM_048F}
+{C17}A failed attempt at cooking.{PAUSE}{EOM}
+
+Message 163:
+{C13}{ITEM_0490}
+{C17}A failed attempt at cooking.{PAUSE}{EOM}
+
+Message 164:
+{C13}{ITEM_0491}
+{C17}A {CROP_0004} and raw vegetable salad.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+{C13}{ITEM_0492}
+{C17}A salad made with Eggs and raw vegetables.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+{C13}{ITEM_0493}
+{C17}A salad made with
+{CROP_0007}, {CROP_0011}, and {CROP_004D}.{PAUSE}{EOM}
+
+Message 167:
+{C13}{ITEM_0494}
+{C17}{CROP_0020} pickles.
+Light tasting. Stimulates the appetite.{PAUSE}{EOM}
+
+Message 168:
+{C13}{ITEM_0495}
+{C17}Pickles made from two items such as
+{CROP_000D} and {CROP_000B}.{PAUSE}{EOM}
+
+Message 169:
+{C13}{ITEM_0496}
+{C17}A dish using {CROP_001C} as its base,
+with red vegetables added.{PAUSE}{EOM}
+
+Message 170:
+{C13}{ITEM_0497}
+{C17}Marinated fish, with things like
+Turnips and Tomatoes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+{C13}{ITEM_0498}
+{C17}Vegetables like Potatoes and Carrots,
+cooked with {ITEM_0469}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 172:
+{C13}{ITEM_0499}
+{C17}{ITEM_0498}, with {CROP_0019} added.
+Incredibly spicy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 173:
+{C13}{ITEM_049A}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+{C13}{ITEM_049B}
+{C17}Vegetables like Potatoes and Carrots,
+cooked in milk.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 175:
+{C13}{ITEM_049C}
+{C17}Soup including cooked vegetables like
+Potatoes and Carrots.{PAUSE}{EOM}{EOM}
+
+Message 176:
+{C13}{ITEM_049D}
+{C17}A soup with Potatoes, Wild Plants
+and Mushrooms.{EOM}{EOM}
+
+Message 177:
+{C13}{ITEM_049E}
+{C17}A stew made with fish and vegetables like
+Sweet Potatoes and Turnips.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+{C13}{ITEM_049F}
+{C17}A dish made by frying two kinds of
+vegetables in butter.{PAUSE}{EOM}
+
+Message 179:
+{C13}{ITEM_04A0}
+{C17}Sweet Potatoes, Wild Plants and Mushrooms
+coated in batter and deep fried.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+{C13}{ITEM_04A1}
+{C17}Baked Sweet Potato.
+Sweet and delicious. May cause flatulence.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+{C13}{ITEM_04A2}
+{C17}An arrangement of raw fish.
+Usually enjoyed with wasabi and soy sauce.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+{C13}{ITEM_04A3}
+{C17}Fish fried in butter.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+{C13}{ITEM_04A4}
+{C17}Fish cooked with special
+kinds of vegetables.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 184:
+{C13}{ITEM_04A5}
+{C17}Wild Plants, Mushrooms, and {CROP_0035}
+cooked together.{PAUSE}{EOM}
+
+Message 185:
+{C13}{ITEM_04A6}
+{C17}Vegetables like Potatoes and {CROP_002F}
+with a bit of seasoning.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+{C13}{ITEM_04A7}
+{C17}Vegetables like Potatoes, {CROP_002F}
+and {CROP_0033} cooked with eggs.{PAUSE}{EOM}{EOM}
+
+Message 187:
+{C13}{ITEM_04A8}
+{C17}Vegetables like Potatoes, Turnips,
+and {CROP_0027} cooked in a thick sauce.{PAUSE}{EOM}{EOM}
+
+Message 188:
+{C13}{ITEM_04A9}
+{C17}Vegetables like Potatoes and {CROP_0027}
+cooked with fish.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+{C13}{ITEM_04AA}
+{C17}Veggies like Potatoes cooked with {CROP_0016}
+and garnished with {ITEM_0433}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 190:
+{C13}{ITEM_04AB}
+{C17}{CROP_0025} and {CROP_0036}
+cooked with mushrooms.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 191:
+{C13}{ITEM_04AC}
+{C17}Eggs cooked with butter.{PAUSE}{EOM}
+
+Message 192:
+{C13}{ITEM_04AD}
+{C17}A dish baked using milk, butter,
+and cheese.{PAUSE}{EOM}
+
+Message 193:
+{C13}{ITEM_04AE}{C17}
+Vegetables mixed with {CROP_0035}
+and cooked, with a fried Egg on top.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 194:
+{C13}{ITEM_04AF}
+{C17}{CROP_0027} fried with
+special seasonings.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+{C13}{ITEM_04B0}
+{C17}{CROP_0027} and Eggs
+cooked with special seasonings.{PAUSE}{EOM}
+
+Message 196:
+{C13}{ITEM_04B1}
+{C17}A pie made by mixing Butter and Eggs with
+Strawberries and baking them.{PAUSE}{EOM}{EOM}
+
+Message 197:
+{C13}{ITEM_04B2}
+{C17}A cake made using things like Tomatoes and
+{CROP_000B}, with Milk and Eggs.{PAUSE}{EOM}{EOM}
+
+Message 198:
+{C13}{ITEM_04B3}
+{C17}A cake made with Milk and Eggs, with
+Strawberries on top.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 199:
+{C13}{ITEM_04B4}
+{C17}A cake made from Milk, Eggs, and
+Carrots.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 200:
+{C13}{ITEM_04B5}
+{C17}A tart made with Butter, Eggs,
+and Peaches.{PAUSE}{EOM}{EOM}
+
+Message 201:
+{C13}{ITEM_04B6}
+{C17}A juice made from two kinds crops like
+Tomatoes and {CROP_000A}.{PAUSE}{EOM}
+
+Message 202:
+{C13}{ITEM_04B7}
+{C17}A juice made from fruits like Oranges
+and {CROP_004B}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 203:
+{C13}{ITEM_04B8}
+{C17}A fresh juice made by combining
+fruit and vegetable juices.{PAUSE}{EOM}{EOM}
+
+Message 204:
+{C13}{ITEM_04B9}
+{C17}A dessert made with three kinds
+of fruit.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 205:
+{C13}{ITEM_04BA}
+{C17}Ice cream made from Star Milk and
+Brown Milk.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 206:
+{C13}{ITEM_04BB}
+{C17}Jam made from {CROP_0045}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 207:
+{C13}{ITEM_04BC}
+{C17}A dessert made from Watermelon and
+Grapes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 208:
+{C13}{ITEM_04BD}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+{C13}{ITEM_04BE}
+{C17}Tempura made from {CROP_003A} and
+two noise-making crops.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 210:
+{C13}{ITEM_04BF}
+{C17}Vegetables and a glowing crop, sauteed.{PAUSE}{EOM}{EOM}
+
+Message 211:
+{C13}{ITEM_04C0}
+{C17}A dish made from {CROP_003A}.
+It has a very seductive flavor.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+{C13}{ITEM_04C1}
+{C17}A salad made with Tomatoes, {CROP_0005},
+and {CROP_0030}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+{C13}{ITEM_04C2}
+{C17}A salad made with Tomatoes, {CROP_0005},
+and a rare crop.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 214:
+{C13}{ITEM_04C3}
+{C17}A salad made with Tomatoes and
+Melon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 215:
+{C13}{ITEM_04C4}
+{C17}A salad made with Tomatoes and
+Carrots.{PAUSE}{EOM}{EOM}
+
+Message 216:
+{C13}{ITEM_04C5}
+{C17}A salad made with Tomatoes, {CROP_0005},
+and {CROP_000F}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+{C13}{ITEM_04C6}
+{C17}As salad made with things like Tomatoes or
+{CROP_0005}, and two kinds of fruit.{PAUSE}{EOM}{EOM}
+
+Message 218:
+{C13}{ITEM_04C7}
+{C17}A salad made with three red vegetables.{PAUSE}{EOM}{EOM}
+
+Message 219:
+{C13}{ITEM_04C8}
+{C17}A salad made with two kinds of fruit and
+a glowing crop.{PAUSE}{EOM}
+
+Message 220:
+{C13}{ITEM_04C9}
+{C17}{CROP_000E} pickles.{PAUSE}{EOM}
+
+Message 221:
+{C13}{ITEM_04CA}
+{C17}{CROP_003A} and {CROP_0036}
+pickles.{PAUSE}{EOM}
+
+Message 222:
+{C13}{ITEM_04CB}
+{C17}Vegetables and Mushrooms cooked in butter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 223:
+{C13}{ITEM_04CC}
+{C17}Vegetables and {CROP_0015}
+cooked with butter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 224:
+{C13}{ITEM_04CD}
+{C17}Tempura made with Wild Plants, Mushrooms,
+Fish and a rare crop.{PAUSE}{EOM}{EOM}
+
+Message 225:
+{C13}{ITEM_04CE}
+{C17}Tempura made with Wild Plants, Mushrooms,
+Fish, and glowing crops.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 226:
+{C13}{ITEM_04CF}
+{C17}Usually eaten with wasabi and soy sauce.{PAUSE}{EOM}
+
+Message 227:
+{C13}{ITEM_04D0}
+{C17}A pie made from Butter and Eggs with
+Grapes added.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 228:
+{C13}{ITEM_04D1}
+{C17}A pie made from Butter and Eggs with
+Melon added.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 229:
+{C13}{ITEM_04D2}
+{C17}A pie made from Butter and Eggs with
+{CROP_0051} added.{PAUSE}{EOM}{EOM}
+
+Message 230:
+{C13}{ITEM_04D3}
+{C17}Made with Potatoes, Carrots and Mushrooms,
+and cooked with {ITEM_0469}.{PAUSE}{EOM}{EOM}
+
+Message 231:
+{C13}{ITEM_04D4}
+{C17}Cooked with {CROP_0033}.{PAUSE}{EOM}
+
+Message 232:
+{C13}{ITEM_04D5}
+{C17}Cheese, Milk, and Mushrooms cooked
+in the oven.{PAUSE}{EOM}{EOM}
+
+Message 233:
+{C13}{ITEM_04D6}
+{C17}Two rare crops cooked with
+milk{PAUSE}{EOM}{EOM}
+
+Message 234:
+{C13}{ITEM_04D7}
+{C17}A soup made from slow-cooked
+Tomatoes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 235:
+{C13}{ITEM_04D8}
+{C17}A soup made from glowing and
+noise-making crops.{PAUSE}{EOM}
+
+Message 236:
+{C13}{ITEM_04D9}
+{C17}A soup made from {CROP_0034}, {CROP_0039}
+and one other item.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 237:
+{C13}{ITEM_04DA}
+{C17}Soup made from Sweet Potatoes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 238:
+{C13}{ITEM_04DB}
+{C17}A baked potato made from
+{CROP_0038}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 239:
+{C13}{ITEM_04DC}
+{C17}Butter, Eggs, and Sweet Potatoes
+mixed together and baked.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 240:
+{C13}{ITEM_04DD}
+{C17}A cake made from Milk, Butter,
+and Eggs.{PAUSE}{EOM}
+
+Message 241:
+{C13}{ITEM_04DE}
+{C17}A cake made from Milk and Eggs
+and garnished with {CROP_000F}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 242:
+{C13}{ITEM_04DF}
+{C17}A tart made with Butter, Eggs, and
+{CROP_004C}.{PAUSE}{EOM}{EOM}
+
+Message 243:
+{C13}{ITEM_04E0}
+{C17}A tart made with Butter, Eggs, and
+{CROP_0053}.{PAUSE}{EOM}{EOM}
+
+Message 244:
+{C13}{ITEM_04E1}
+{C17}A juice made from two kinds of
+vegetables and a rare crop.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 245:
+{C13}{ITEM_04E2}
+{C17}A juice made from two kinds of
+vegetables and a fruit.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 246:
+{C13}{ITEM_04E3}
+{C17}A juice made with a vegetable, a rare
+crop, and a fruit.{PAUSE}{EOM}
+
+Message 247:
+{C13}{ITEM_04E4}
+{C17}A juice made with two kinds of fruit,
+and a rare crop.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 248:
+{C13}{ITEM_04E5}
+{C17}A juice made from a
+squeezed {CROP_0046}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 249:
+{C13}{ITEM_04E6}
+{C17}A juice made with Star Milk and two
+kinds of fruit.{PAUSE}{EOM}{EOM}
+
+Message 250:
+{C13}{ITEM_04E7}
+{C17}A juice made with a fruit, a rare crop,
+and a noise-making crop.{PAUSE}{EOM}
+
+Message 251:
+{C13}{ITEM_04E8}
+{C17}A juice made by combining {CROP_004F},
+{CROP_0050}, and {CROP_0052}.{PAUSE}{EOM}
+
+Message 252:
+{C13}{ITEM_04E9}
+{C17}A dessert made with Star Milk, Brown Milk,
+and {CROP_002D}.{PAUSE}{EOM}{EOM}
+
+Message 253:
+{C13}{ITEM_04EA}
+{C17}Jam made from {CROP_0047}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 254:
+{C13}{ITEM_04EB}
+{C17}A dessert made from {CROP_0007}
+and {CROP_004A}.{PAUSE}{EOM}
+
+Message 255:
+{C13}{ITEM_04EC}
+{C17}A dessert made from {CROP_0048}
+and {CROP_0049}.{PAUSE}{EOM}
+
+Message 256:
+{C13}{ITEM_04ED}
+{C17}A dessert made from Grapes and
+{CROP_0054}.{PAUSE}{EOM}{EOM}
+
+Message 257:
+{C13}{ITEM_04EE}
+{C17}{TAKAKURA}'s hoe.
+It's heavy and tiring to use.{PAUSE}{EOM}{EOM}
+
+Message 258:
+{C13}{ITEM_04EF}
+{C17}Somewhat light and easy to use.{PAUSE}{EOM}{EOM}
+
+Message 259:
+{C13}{ITEM_04F0}
+{C17}Very light and easy to use.{PAUSE}{EOM}{EOM}
+
+Message 260:
+{C13}{ITEM_04F1}
+{C17}A hoe you got from {TIM}.
+It's very heavy, but when you use it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 261:
+{C13}{ITEM_04F2}
+{C17}A hoe you got from {VESTA}.
+It's quite heavy, but when you use it...{PAUSE}{EOM}{EOM}
+
+Message 262:
+{C13}{ITEM_04F3}
+{C17}Somewhat light and easy to use.{PAUSE}{EOM}{EOM}
+
+Message 263:
+{C13}{ITEM_04F4}
+{C17}Very light and easy to use.{PAUSE}{EOM}{EOM}
+
+Message 264:
+{C13}{ITEM_04F5}
+{C17}{TAKAKURA}'s sickle.
+It's heavy and tiring to use.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 265:
+{C13}{ITEM_04F6}
+{C17}Lighter than the {ITEM_04F5}
+and less tiring to use.{PAUSE}{EOM}
+
+Message 266:
+{C13}{ITEM_04F7}
+{C17}Very light and easy to use.{PAUSE}{EOM}{EOM}
+
+Message 267:
+{C13}{ITEM_04F8}
+{C17}A sickle you got from {CODY}.
+It's quite heavy, but when you use it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 268:
+{C13}{ITEM_04F9}
+{C17}A sickle you got from {HARDY}.
+It's quite heavy, but when you use it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 269:
+{C13}{ITEM_04FA}
+{C17}Lighter than the {ITEM_04F5}
+and less tiring to use.{PAUSE}{EOM}
+
+Message 270:
+{C13}{ITEM_04FB}
+{C17}Very light and easy to use.{PAUSE}{EOM}{EOM}
+
+Message 271:
+{C13}{ITEM_04FC}
+{C17}{TAKAKURA}'s small watering can.
+★{GOLD_0003} squares worth of water left.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 272:
+{C13}{ITEM_04FD}
+{C17}Bigger than {ITEM_04FC}.
+★{GOLD_0003} squares worth of water left.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 273:
+{C13}{ITEM_04FE}
+{C17}Holds plenty of water.
+★{GOLD_0003} squares worth of water left.{PAUSE}{EOM}
+
+Message 274:
+{C13}{ITEM_04FF}
+{C17}Wooden wartering can {ROMANA} gave you.
+★{GOLD_0003} squares worth of water left.{PAUSE}{EOM}{EOM}
+
+Message 275:
+{C13}{ITEM_0500}
+{C17}Bigger than {ITEM_04FC}.
+★{GOLD_0003} squares worth of water left.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 276:
+{C13}{ITEM_0501}
+{C17}Holds plenty of water and is very large.
+★{GOLD_0003} squares worth of water left.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 277:
+{C13}{ITEM_0502}
+{C17}The fishing pole you got from {VAN}.
+You can use it to fish in rivers.{PAUSE}{WIPE}
+★How to fish: After you feel several small
+nibbles, the fish will bite. Then press
+the {C14}A Button{C17} once to reel it in.{PAUSE}{EOM}{EOM}
+
+Message 278:
+{C13}{ITEM_0503}
+{C17}The fishing rod you got from {GALEN}.
+You can fish in the {C14}{STRUC_28}{C17},{PAUSE}{WIPE}
+the {C14}{STRUC_38}{C17}, and the {C14}{STRUC_39}{C17}.{PAUSE}{WIPE}
+★How to fish: After you feel several small
+nibbles, the fish will bite. Then press
+the {C14}A Button{C17} once to reel it in.{PAUSE}{EOM}
+
+Message 279:
+{C13}{ITEM_0504}
+{C17}TBD{PAUSE}{EOM}{EOM}
+
+Message 280:
+{C13}{ITEM_0505}
+{C17}TBD{PAUSE}{EOM}{EOM}
+
+Message 281:
+{C13}{ITEM_0506}
+{C17}To use it, stand next to a
+cow and press the {C14}A Button{C17}.{PAUSE}{EOM}
+
+Message 282:
+{C13}{ITEM_0507}
+{C17}To use it, stand next to a
+cow and press the {C14}A Button{C17}.{PAUSE}{EOM}
+
+Message 283:
+{C13}{ITEM_0508}
+{C17}To use it, stand next to a
+goat and press the {C14}A Button{C17}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 284:
+{C13}{ITEM_0509}
+{C17}To use it, stand next to a
+goat and press the {C14}A Button{C17}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 285:
+{C13}{ITEM_050A}
+{C17}To use them, stand next to a
+sheep and press the {C14}A Button{C17}.{PAUSE}{EOM}
+
+Message 286:
+{C13}{ITEM_050B}
+{C17}Clippers you got from {WALLY}.
+Can be used to shear sheep.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 287:
+{C13}{ITEM_050C}
+{C17}To use them, stand next to a
+sheep and press the {C14}A Button{C17}.{PAUSE}{EOM}
+
+Message 288:
+{C13}{ITEM_050D}
+{C17}To use them, stand next to a
+sheep and press the {C14}A Button{C17}.{PAUSE}{EOM}
+
+Message 289:
+{C13}{ITEM_050E}
+{C17}To use it, stand next to an
+animal and press the {C14}A Button{C17}.{PAUSE}{EOM}
+
+Message 290:
+{C13}{ITEM_050F}
+{C17}A tool you borrowed from {CARTER}.
+Made of wood and won't damage your finds.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 291:
+{C13}{ITEM_0510}
+{C17}ERROR{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 292:
+{C13}{ITEM_0511}
+{C17}ERROR{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 293:
+{C13}{ITEM_0512}
+{C17}ERROR{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 294:
+{C13}{ITEM_0513}
+{C17}ERROR{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 295:
+{C13}{ITEM_0514}
+{C17}Butter made from cow's milk.
+The quality isn't very good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 296:
+{C13}{ITEM_0515}
+{C17}Butter made from cow's milk.
+Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 297:
+{C13}{ITEM_0516}
+{C17}Butter made from cow's milk.
+Smooth and very delicious.{PAUSE}{EOM}{EOM}
+
+Message 298:
+{C13}{ITEM_0517}
+{C17}Butter made from {ITEM_0006}.
+Cannot be shipped.{PAUSE}{EOM}
+
+Message 299:
+{C13}{ITEM_0518}
+{C17}Butter made from {ITEM_0017}.
+Average quality with a “goaty” flavor.{PAUSE}{EOM}
+
+Message 300:
+{C13}{ITEM_0519}
+{C17}Butter made from {ITEM_0018}.
+Very high quality with little “goatiness”.{PAUSE}{EOM}
+
+Message 301:
+{C13}{ITEM_051A}
+{C17}Cheese made from cow's milk.
+The quality isn't very good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 302:
+{C13}{ITEM_051B}
+{C17}Cheese made from cow's milk.
+Average quality.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 303:
+{C13}{ITEM_051C}
+{C17}Cheese made from cow's milk.
+A very high quality gourmet cheese.{PAUSE}{EOM}
+
+Message 304:
+{C13}{ITEM_051D}
+{C17}Cheese made from {ITEM_0006}.
+Cannot be shipped.{PAUSE}{EOM}
+
+Message 305:
+{C13}{ITEM_051E}
+{C17}Cheese made from {ITEM_0017}.
+Average quality with a sour flavor.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 306:
+{C13}{ITEM_051F}
+{C17}Cheese made from {ITEM_0018}.
+Very high quality with little “goatiness”.{PAUSE}{EOM}
+
+Message 307:
+{C13}{ITEM_0520}
+{C17}The liner notes read:
+“The farm started from here.”{PAUSE}{EOM}{EOM}
+
+Message 308:
+{C13}{ITEM_0521}
+{C17}The liner notes read:
+“Remember those long nights...”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 309:
+{C13}{ITEM_0522}
+{C17}The liner notes read:
+“Goes well with a fine wine.”{PAUSE}{EOM}{EOM}
+
+Message 310:
+{C13}{ITEM_0523}
+{C17}The liner notes read:
+“The cherry blossoms were falling then...”{PAUSE}{EOM}
+
+Message 311:
+{C13}{ITEM_0524}
+{C17}{C17}The liner notes read:
+“The biggest hit in Davy Jones' locker...”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 312:
+{C13}{ITEM_0525}
+{C17}The liner notes read:
+“Mirror, mirror on the wall...”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 313:
+{C13}{ITEM_0526}
+{C17}The liner notes read:
+“So much happened in the last year...”{PAUSE}{EOM}
+
+Message 314:
+{C13}{ITEM_0527}
+{C17}The liner notes read:
+“Dedicated to Harvest Sprites N, N & F.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 315:
+{C13}{ITEM_0528}
+{C17}{C17}The liner notes read:
+“The kappa in the spring is under ice.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 316:
+{C13}{ITEM_0529}
+{C17}The liner notes read:
+“I'll call you 'darling.'”{PAUSE}{EOM}
+
+Message 317:
+{C13}{ITEM_052A}
+{C17}The liner notes read:
+“The finest work song.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 318:
+{C13}{ITEM_052B}
+{C17}The liner notes read:
+“Endless night.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 319:
+ERROR
+ERROR{EOM}
+
+Message 320:
+ERROR
+ERROR{EOM}
+
+Message 321:
+ERROR
+ERROR{EOM}
+
+Message 322:
+{C13}{ITEM_052F}
+{C17}The feather you got from {FLAK}.
+Give it to the person you like the best.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 323:
+{C13}{ITEM_0530}
+{C17}Drink this to recover energy.
+“Use only as directed.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 324:
+{C13}{ITEM_0531}
+{C17}Drink this to recover a little stamina.
+“Use only as directed.”{PAUSE}{EOM}{EOM}
+
+Message 325:
+{C13}{ITEM_0532}
+{C17}Drink this to recover a lot of stamina.
+“Use only as directed.”{PAUSE}{EOM}{EOM}
+
+Message 326:
+{C13}{ITEM_0533}
+{C17}You can't have this item.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 327:
+{C13}{ITEM_0534}
+{C17} description{PAUSE}{EOM}
+
+Message 328:
+{C13}{ITEM_0535}
+{C17} description{PAUSE}{EOM}
+
+Message 329:
+{C13}{ITEM_0536}
+{C17} description{PAUSE}{EOM}
+
+Message 330:
+{C13}{ITEM_0537}
+{C17} description{PAUSE}{EOM}
+
+Message 331:
+{C13}{ITEM_0538}
+{C17} description{PAUSE}{EOM}
+
+Message 332:
+{C13}{ITEM_0539}
+{C17} description{PAUSE}{EOM}
+
+Message 333:
+{C13}{ITEM_053A}
+{C17} description{PAUSE}{EOM}
+
+Message 334:
+{C13}{ITEM_053B}
+{C17} description{PAUSE}{EOM}
+
+Message 335:
+{C13}{ITEM_053C}
+{C17} description{PAUSE}{EOM}
+
+Message 336:
+{C13}{ITEM_053D}
+{C17} description{PAUSE}{EOM}
+
+Message 337:
+{C13}{ITEM_053E}
+{C17} description{PAUSE}{EOM}
+
+Message 338:
+{C13}{ITEM_053F}
+{C17} description{PAUSE}{EOM}
+
+Message 339:
+{C13}{ITEM_0540}
+{C17} description{PAUSE}{EOM}
+
+Message 340:
+{C13}{ITEM_0541}
+{C17} description{PAUSE}{EOM}
+
+Message 341:
+{C13}{ITEM_0542}
+{C17} description{PAUSE}{EOM}
+
+Message 342:
+{C13}{ITEM_0543}
+{C17} description{PAUSE}{EOM}
+
+Message 343:
+{C13}{ITEM_0544}
+{C17} description{PAUSE}{EOM}
+
+Message 344:
+{C13}{ITEM_0545}
+{C17} description{PAUSE}{EOM}
+
+Message 345:
+{C13}{ITEM_0546}
+{C17} description{PAUSE}{EOM}
+
+Message 346:
+{C13}{ITEM_0547}
+{C17} description{PAUSE}{EOM}
+
+Message 347:
+{C13}{ITEM_0548}
+{C17} description{PAUSE}{EOM}
+
+Message 348:
+{C13}{ITEM_0549}
+{C17} description{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,898 @@
+Message 0:
+{SKIP}
+Wha--?!{SKIP}{EOM}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+O-oh, it's you.
+Don't scare me like that.{PAUSE}{EOM}{EOM}
+
+Message 2:
+Oh, this?
+I used it for surgery a long time ago.
+Not a bad blade, eh?{PAUSE}{EOM}{EOM}
+
+Message 3:
+I don't use it anymore.
+But I still sharpen it every day.{PAUSE}{WIPE}
+But what's the use of a fine tool like
+this if you don't use it?{PAUSE}{WIPE}
+Here, you take it.
+Maybe it will come in handy.
+Go on, take it.{PAUSE}{EOM}
+
+Message 4:
+See you again.{PAUSE}{EOM}
+
+Message 5:
+Hey?!{S_3201F4}
+Are you all right??{PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+So, you're awake, are you?{PAUSE}{EOM}
+
+Message 7:
+You're exhausted.
+It's lucky you collapsed by my house.{PAUSE}{WIPE}
+Don't worry. You're fine now.
+I'm a doctor. Trust me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+Oh, I almost forgot.
+You may already know this, but...
+I just moved here. Nice to meet you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+I've got some business to attend to,
+so I can't look after you anymore.
+But be careful on your way home, OK?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+I'm terribly sorry...{PAUSE}{EOM}{EOM}
+
+Message 11:
+To think that someone so much younger
+than me would go first...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+Hey {GRIFFIN}, how about a song
+for {PETE}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+It's about time for bed...{PAUSE}{EOM}
+
+Message 14:
+Hey, I said I was going to go to bed.
+Shouldn't you be going home?{PAUSE}{EOM}
+
+Message 15:
+I'm going to go to bed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+I have to be going out soon...{PAUSE}{EOM}
+
+Message 17:
+Well, I'm going out now.
+You had better go home.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 18:
+Well, be seeing you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+Hey, come here a minute.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+Hey! Over here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+You haven't got anything, have you?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+All sold out today?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+If you're sold out,
+why don't you close up shop?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+Oh, I'm just looking.{PAUSE}{EOM}{EOM}
+
+Message 25:
+You don't have much, do you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+About the {VAR_00}...
+How much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}
+
+Message 27:
+{FACE_1F0003}Hmm... That's not a bad deal.
+I'll take it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+That's what I figured...
+I guess I'll take it.{PAUSE}{EOM}
+
+Message 29:
+{FACE_1F0004}Don't bring things that you can't sell!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+How much is the {VAR_00}?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G
+I can't sell that.{EOM}{EOM}
+
+Message 31:
+I'm not buying anything else today.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+Hello, I'm Dr. Hardy.
+Nice to meet you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+I'm not feeling very well today...
+A doctor like me getting sick...
+It's pretty sad, isn't it...?{PAUSE}{EOM}{EOM}
+
+Message 34:
+{FACE_1F0009}....I'm sorry, could you leave me alone?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+{FACE_1F0004}...What?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+{FACE_1F0004}...Do you need something?...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+{FACE_1F0004}You had better not talk to me
+today.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+{FACE_1F0004}I've been grumpy recently.{PAUSE}{EOM}
+
+Message 39:
+{S_340197}Good morning.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+{S_340197}Hey, what's wrong?{PAUSE}{EOM}{EOM}
+
+Message 41:
+{S_340197}Good evening.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+{S_340197}What brings you here at this hour?{PAUSE}{EOM}{EOM}
+
+Message 43:
+Oh, you've got something nice there.
+You're giving it to me?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 44:
+{FACE_1F0003}I really shouldn't, but...
+Thank you.{PAUSE}{EOM}{EOM}
+
+Message 45:
+{FACE_1F0004}...Hmph. You got my hopes up.{PAUSE}{EOM}{EOM}
+
+Message 46:
+You've got something nice there.
+Do you know what kinds of things
+I like...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+I like that kind of thing.
+Please remember that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+{FACE_1F0004}......I don't like that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+As a doctor, I always tell people they
+shouldn't be too picky, but I hate that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+I don't like that kind of thing.
+Remember that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+I'm not interested in that kind of thing.{PAUSE}{EOM}{EOM}
+
+Message 52:
+{S_340196}...What's that thing?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+Don't you have anything more interesting?{PAUSE}{EOM}{EOM}
+
+Message 54:
+{S_340196}Hmm... A very healthy child.
+Yes, no problems at all.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 55:
+Quite a courageous child.
+My face usually makes kids cry, you know.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+What an intelligent looking face.{PAUSE}{EOM}{EOM}
+
+Message 57:
+What a mischievous looking face.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+What a gentle looking face.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+Most dogs bark when they
+see my face, but...
+{S_340196}This one seems quite well behaved.{PAUSE}{EOM}
+
+Message 60:
+That dog seems healthy enough.{PAUSE}{EOM}
+
+Message 61:
+Of course, animals aren't my specialty...{PAUSE}{EOM}{EOM}
+
+Message 62:
+Cats don't seem to mind me,
+so I like them.
+{S_340196}Yes, yes. How cute.{PAUSE}{EOM}
+
+Message 63:
+That cat seems healthy enough.{PAUSE}{EOM}
+
+Message 64:
+Do you buy these fowls or raise
+chickens on your own?{PAUSE}{EOM}{EOM}
+
+Message 65:
+I don't treat baby chicks.{PAUSE}{EOM}
+
+Message 66:
+{S_340196}I don't believe it's sick,
+but...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+You'll have to monitor the health of your
+ducks on your own.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+What's that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+There's really no point in showing me
+something like that...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+Did you grow this?
+It looks quite good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+You're going to share it with me?{CHOICE Y/N DEF0}{EOM}
+
+Message 72:
+{FACE_1F0003}I see, I see...
+Of course, I'd be glad to have some.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+{S_340196}...I see.
+So you're that kind of person, are you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+That's organic, isn't it?{PAUSE}{EOM}{EOM}
+
+Message 75:
+Milk? Direct from the farm?
+{S_340196}It must be very fresh...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+That milk must be very tasty...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+Did you make that cheese?
+{S_340196}...It looks quite good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+You know, a good cheese will go with
+any kind of food.{PAUSE}{EOM}
+
+Message 79:
+Cheese is good for you, so
+eat all you like.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 80:
+The quality of a chicken's egg will change
+depending on how the chicken is raised.{PAUSE}{EOM}
+
+Message 81:
+Eggs have cholesterol in them, so don't
+don't eat too many of them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+Are those wild plants from around here?
+They can be quite delicious.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+The wild plants around here are a bit of a
+delicacy. One taste and you're hooked.{PAUSE}{EOM}{EOM}
+
+Message 84:
+Did you make this food?
+It looks delicious...{PAUSE}{EOM}{EOM}
+
+Message 85:
+It looks quite good, but I really prefer
+fish dishes. Remember that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+What's the deal with that sickle?
+It looks quite hard to use...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+I don't know where you dug that thing up,
+but it doesn't look very sharp...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+How's that sickle working out for you?
+{CHOICE3 DEF1}
+I like it.
+I'm not using it.
+I want to return it.{EOM}
+
+Message 89:
+{FACE_1F0003}Oh, that's good.
+It's quite sharp, after all.{PAUSE}{EOM}{EOM}
+
+Message 90:
+{FACE_1F0004}What? After I kindly gave it to you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+I see... Well, if you don't need it,
+you don't need it.
+I'll use it for an operation someday...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+You shouldn't go waving a sickle around.
+You could get hurt. Of course, I'd
+take care of you if you did, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+You should use that sickle
+to cut grass.
+That's why I gave it to you, after all...{PAUSE}{EOM}
+
+Message 94:
+What are you doing with that sickle?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+That looks as sharp as a scalpel!{PAUSE}
+You could get hurt. Of course, I'd
+take care of you if you did, but...{PAUSE}{EOM}{EOM}
+
+Message 96:
+{S_340196}So you use that to milk the cows, eh?
+If they had one for humans, it would be
+convenient for mothers, don't you think?{PAUSE}{EOM}{EOM}
+
+Message 97:
+{S_340196}...That's quite a machine...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+Clippers, eh?
+I don't have any need for those.{PAUSE}{EOM}
+
+Message 99:
+If you want to use clippers,
+go visit somebody with hair.{PAUSE}{EOM}{EOM}
+
+Message 100:
+You plan to use such big clippers
+on my head?{PAUSE}{EOM}{EOM}
+
+Message 101:
+What, you want to clip my scalp?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+{S_340196}What's that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+Can't you show me something a
+little more interesting?{PAUSE}{EOM}
+
+Message 104:
+That's a very rare stone.
+You can sell it for a lot of money.{PAUSE}{EOM}{EOM}
+
+Message 105:
+{S_340196}...That's an unusual stone.{PAUSE}{EOM}
+
+Message 106:
+Some of the wild grass around here has
+some mysterious properties, I hear.
+I'd like to look into it sometime...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+You can't eat the wild grass around here,
+but you may be able to find a use for it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+That's a record. You don't see many of
+those around here.{PAUSE}{EOM}{EOM}
+
+Message 109:
+They're not for throwing, you know.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+{S_340196}What's that?
+It certainly does have an unique odor.{PAUSE}{EOM}
+
+Message 111:
+That might be a little too strong for
+using in cooking.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+{S_3400DA}{S_3205DC}Hmm? Hmmmm??
+{S_340196}What a nice sound.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+{S_3400DA}{S_3205DC}That's a very nice drum.{PAUSE}{EOM}
+
+Message 114:
+Isn't that the medal that Wally had?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 115:
+That kind of medal won't do you
+much good...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 116:
+Why, it's a necklace...
+Are you giving it to me?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 117:
+{FACE_1F0003}...T-thank you...
+But I'm afraid I'll have to refuse.
+I'm sure you'll meet someone nice soon...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+{FACE_1F0003}Heh heh. Just kidding.{PAUSE}{EOM}
+
+Message 119:
+What a pretty necklace.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+I'm Romana's physician, but that old
+woman is so stubborn... It's like pulling
+teeth to get her to take her medicine.{PAUSE}{EOM}{EOM}
+
+Message 121:
+I'd much rather be here taking care of
+Romana than in a city hospital, always
+overcome with work.{PAUSE}{EOM}{EOM}
+
+Message 122:
+Do you know the doctor
+in Mineral Town? He's one of my friends,
+yes indeed{PAUSE}{EOM}
+
+Message 123:
+....{PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+I wonder how he's doing...
+He said he found a girl he likes
+there in Mineral Town...{PAUSE}{WIPE}
+I wonder what happened...?
+He's a skilled doctor, but he was
+something of a late bloomer.{PAUSE}{WIPE}
+I taught him many things, but we never
+got around to talking about girls...
+I hope he's doing OK.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+I hear the owner of the farm in
+Mineral Town is rather greedy.{PAUSE}{EOM}
+
+Message 126:
+The owner of the farm in Mineral Town is
+quite popular in town, I hear.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 127:
+I hear that {VAR_00} has cleared his
+field work.
+I wonder what “clear” means...{PAUSE}{EOM}{EOM}
+
+Message 128:
+I hear that the owner of the farm
+in Mineral Town is taking very good care
+of his animals. How about you?{PAUSE}{EOM}{EOM}
+
+Message 129:
+I hear that the owner of the farm in
+Mineral Town is digging lots of holes.
+That old mine is bottomless, you know.{PAUSE}{EOM}
+
+Message 130:
+Apparently the owner of the farm in
+Mineral Town is quite an angler...
+But is she a “master angler” yet?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+That {VAR_00} from Mineral Town has
+walked one million paces, I hear.
+But so what?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+{VAR_00} Farm in Mineral town has
+been going for 50 years, I hear.
+That's a long time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 133:
+Apparently, the owner of the farm in
+Mineral Town is ignoring her chores and
+spends all of her time fishing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+You don't have to turn everything into
+gold... Oh, not you.
+I'm talking about {VAR_00} Farm.{PAUSE}{EOM}
+
+Message 135:
+They say that the owner of the farm
+in Mineral Town has three cottages.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 136:
+I heard there's a blacksmith in Mineral
+Town who makes some amazing tools.
+Maybe he'd make a scalpel for me...{PAUSE}{EOM}
+
+Message 137:
+{FACE_1F0003}That food you gave me was very tasty.
+Feel free to give me some more.{PAUSE}{EOM}{EOM}
+
+Message 138:
+{FACE_1F0009}That food you gave me was just terrible.
+No more of that, thanks...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 139:
+That {VAR_00} you gave me a while ago
+wasn't bad.
+But it's not as good as Vesta's.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+That {VAR_00} you gave me a while
+ago was pretty good.
+I'd be happy to get some more...{PAUSE}{EOM}{EOM}
+
+Message 141:
+{FACE_1F0003}That {VAR_00} you gave me was fantastic.
+It was even better than Vesta's.
+But please, don't tell her.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+{FACE_1F0003}The {VAR_00} you gave me
+was just the kind I like.
+I love succulent things like that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 143:
+That milk you gave me was delicious.
+Fresh milk is the best.
+I think it upset my stomach, though...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+That milk you gave me was delicious.
+But maybe it would be good to
+make that milk into cheese.{PAUSE}{EOM}
+
+Message 145:
+That milk you gave me was
+incredibly delicious.
+You must have very happy cows...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 146:
+That milk you gave me was good,
+but maybe it's a little too strong for me.{PAUSE}{EOM}
+
+Message 147:
+That milk you gave me smelled
+kind of bad.{PAUSE}{EOM}
+
+Message 148:
+{FACE_1F0003}That cheese you gave me was fantastic.
+I'd love some more...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 149:
+That cheese smelled a little odd.
+I think it's an acquired taste.{PAUSE}{EOM}{EOM}
+
+Message 150:
+The {VAR_00} you gave me
+was just the kind I like.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+That food was quite tasty.{PAUSE}{EOM}
+
+Message 152:
+That wild plant you got for me
+had a rather unusual taste.
+But I like that kind of thing...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+That wild plant you gave me were great.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 154:
+Your face seems to have changed
+recently. You look like a real farmer.{PAUSE}{EOM}
+
+Message 155:
+People say that you have
+quite a green thumb.{PAUSE}{EOM}{EOM}
+
+Message 156:
+Everyone loves your cooking.
+Maybe you should become a cook?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+You look more dignified
+recently, just like a real farmer.{PAUSE}{EOM}
+
+Message 158:
+You're working hard in the field.
+I can tell by looking at your hands.{PAUSE}{EOM}
+
+Message 159:
+I think you've gotten better at cooking.
+I hear that your dishes are quite tasty.{PAUSE}{EOM}{EOM}
+
+Message 160:
+Have you gotten used to life on the farm?
+You seem more relaxed than before.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 161:
+How's your work in the fields?
+You look like you've gotten used to it.{PAUSE}{EOM}
+
+Message 162:
+Have you gotten good at cooking?
+I bet you're used to it by now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 163:
+What's wrong?
+Are you feeling bad?
+{CHOICE3 DEF1}
+I'm fine.
+My stomach is rumbling.
+I get dizzy very easily.{EOM}{EOM}{EOM}{EOM}
+
+Message 164:
+Oh, that's good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+Don't you have anything to eat?
+Try eating some wild plants.
+That should help a little bit.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 166:
+That's no good.
+You need to take a nice rest.
+Eat and sleep well and you'll be fine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 167:
+The human body is an amazing thing.
+If you need sleep, food, or rest,
+your body will let you know.{PAUSE}{WIPE}
+When that happens, you have to listen
+to your body. If you ignore it, it'll stop
+working for you someday.{PAUSE}{EOM}
+
+Message 168:
+People get tired when they're hungry.
+When you're working, you have to make
+sure you eat properly.{PAUSE}{EOM}
+
+Message 169:
+...Does my left eye bother you...?
+Maybe I'll tell you about it sometime.{PAUSE}{EOM}{EOM}
+
+Message 170:
+The table in here sure is big, isn't it?
+I used to use it for operations.{PAUSE}{EOM}{EOM}
+
+Message 171:
+Even doctors go to bars.
+Oh, the drinks they sell here are good
+for you. I'll guarantee it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+If you can't seem to motivate yourself
+or feel somehow tired, why don't
+you try drinking something here?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 173:
+I recommend the Stone Oil, but
+maybe it's a little too strong for you...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 174:
+The best deal here is the
+Moon Trip.
+Even the name is pretty.{PAUSE}{EOM}{EOM}
+
+Message 175:
+If you need medicine, buy it from Van.
+The medicines he sells are all ones
+that I prepared, you know.{PAUSE}{EOM}{EOM}
+
+Message 176:
+Keep an eye on your health.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 177:
+Feel free to look at my bonsai.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+Sometimes I make house calls.{PAUSE}{EOM}{EOM}
+
+Message 179:
+I'm on a house call.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+How do you feel?
+Don't push yourself too hard.{PAUSE}{EOM}
+
+Message 181:
+{FACE_1F0009}It's too bad that we couldn't save
+poor Nina. We'll have to make sure that
+Galen lives a long life.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 182:
+How are you feeling?
+If you come to my house, the least I can
+do is give you a little medical advice.{PAUSE}{EOM}{EOM}
+
+Message 183:
+I came here to examine Romana.
+But it's pretty tiring.
+It's a long trip, after all...{PAUSE}{EOM}{EOM}
+
+Message 184:
+There are lots of odd people around here,
+so I don't stand out that much.
+Do I?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+What are you staring at?
+You can't judge people by their looks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+In this kind of hot weather, you have
+to watch your health.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+{FACE_1F0009}{S_340196}...It sure is hot...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+How are you feeling?
+Are you getting enough sleep...?{PAUSE}{EOM}{EOM}
+
+Message 189:
+There are so many tasty dishes this time
+of year. But be careful not to overeat.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+It's chilly. Be careful not to catch cold.{PAUSE}{EOM}
+
+Message 191:
+{FACE_1F0009}{S_340196}...My feet are cold...{PAUSE}{EOM}{EOM}
+
+Message 192:
+The garden here is quite well
+cared for. That Sebastian is very
+skilled.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 193:
+After Nina died Galen
+seems to be worse.
+I'm concerned about him.{PAUSE}{EOM}{EOM}
+
+Message 194:
+That old man gets excited when you talk
+about bonsai trees, but he's so stubborn.
+But then again, so am I...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+Whenever I visit the graveyard, I'm
+reminded how powerless doctors really are.
+I guess you wouldn't understand that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 196:
+You know, the other day when I was
+visiting someone's grave, I thought I
+heard a woman's scream...{PAUSE}{EOM}
+
+Message 197:
+Did Nina help you out too?
+Yes, she was a good person...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+If you helped take care of her grave,
+I'm sure she'd appreciate it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 199:
+Van's eating habits worry me.
+He's already so big and all he eats
+is fatty foods.{PAUSE}{EOM}{EOM}
+
+Message 200:
+Van is supposedly on a diet, but
+he's always eating too much.{PAUSE}{EOM}{EOM}
+
+Message 201:
+I see...
+But not right now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 202:
+Um... You see...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 203:
+Is this eye really that ugly?{PAUSE}{EOM}{EOM}
+
+Message 204:
+This?
+Hmm... My relationship with this eye
+started quite a long time ago...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 205:
+Long ago, I had a patient with a
+serious contagious disease.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+At the time it wasn't unusual for
+doctors to catch diseases from their
+patients...{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 207:
+She was in a terrible state when she
+came to me. I thought about giving up...{S_32012C}
+But...{S_3202BC}{PAUSE}{WIPE}
+She was just the same age
+as my daughter...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 208:
+She was too young to die...{PAUSE}{WIPE}
+I decided I would do anything in my
+power to save her. And I did.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+But I lost my eye to the disease.{PAUSE}{EOM}{EOM}
+
+Message 210:
+Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 211:
+Oh, it may be a little unattractive.
+But I'm actually quite proud of it.
+It's a small price to pay...{PAUSE}{WIPE}
+for saving a girl's life.{PAUSE}{EOM}{EOM}
+
+Message 212:
+Hey...
+You...{S_3202BC} You look a little pale...{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+Let me give you a shot.
+No need to be shy,
+youngster.{PAUSE}{EOM}{EOM}
+
+Message 214:
+You can't ignore these things!
+Wait!!{S_32012C}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 215:
+...{S_3201F4}Uh...{S_3203E8}
+What's that costume? Take it off.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 216:
+Hmmm?{PAUSE}{EOM}{EOM}
+
+Message 217:
+Oh!
+Hey!!{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

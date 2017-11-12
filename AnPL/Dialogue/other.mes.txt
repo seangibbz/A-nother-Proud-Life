@@ -1,0 +1,2729 @@
+Message 0:
+There's no point in using more fertilizer!{PAUSE}{EOM}
+
+Message 1:
+Takakura left you this note:{S_3203E8}{PAUSE}{WIPE}
+“I brought your new animal, but you were
+sleeping, so I left it in the {C14}{STRUC_20}{C17}.
+Give it a name.”{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 2:
+Takakura left you this note:
+“Miracle Potion administered as requested.
+She should be pregnant in a few days.”{PAUSE}{EOM}
+
+Message 3:
+You can keep ducks here with the chickens.{PAUSE}{EOM}
+
+Message 4:
+Takakura left you this note:{S_3203E8}{PAUSE}{WIPE}
+“I brought your new animal, but you were
+sleeping, so I left it in the {C14}{STRUC_20}{C17}.
+Give it a name.”{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 5:
+     ...A few years later...   {S_3207D0}{PAUSE}{EOM}
+
+Message 6:
+How are you doing, old friend?{PAUSE}{EOM}
+
+Message 7:
+...Well, I guess you don't have to worry
+about things like that where you are.{PAUSE}{EOM}
+
+Message 8:
+When {CHAR_49} married your
+son,{S_3203E8}
+the farm wasn't in the best of shape,
+to say the least...{PAUSE}{EOM}
+
+Message 9:
+But {VESTA} and the others
+helped build a nice kitchen.{PAUSE}{WIPE}
+...I guess they didn't have enough time
+to worry about decorating it, though.{PAUSE}{EOM}
+
+Message 10:
+{NAMI}'s father helped build a
+nice kitchen for his daughter.{PAUSE}{WIPE}
+I guess he didn't have enough time
+to worry about decorating it, though.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+But {GRIFFIN} and the others
+helped build a nice kitchen.{PAUSE}{WIPE}
+I guess they didn't have enough time
+to worry about decorating it, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+Your son's working hard.
+The farm's doing fine.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+{CELIA} seems very happy
+with her new kitchen.{PAUSE}{EOM}{EOM}
+
+Message 14:
+{NAMI} didn't used to be much of a cook,
+but thanks to her new kitchen, she's
+getting better every day.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+{MUFFY} is very happy with her
+new kitchen.{PAUSE}{EOM}
+
+Message 16:
+Your grandchild is starting to talk now.
+Kids are very cute at this age.
+What was his name again?{PAUSE}{EOM}{EOM}
+
+Message 17:
+{TATSUYA}...{S_3203E8}
+{DRAW_01}Oh yes, the name is {TATSUYA}.{DRAW_00}
+The spitting image of {CHAR_49}.{PAUSE}{EOM}
+
+Message 18:
+All parents have hopes for their children.
+I wonder what they have in mind
+for theirs...?{PAUSE}{EOM}{EOM}
+
+Message 19:
+{CHOICE2 DEF0}
+Run away.
+Stay here.{EOM}
+
+Message 20:
+{CHOICE1 DEF0}
+Run away.{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{CHOICE2 DEF0}
+New Version
+Yoshioka Version{EOM}
+
+Message 22:
+Hey there,
+come here a second.{PAUSE}{EOM}
+
+Message 23:
+Excuse me...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+Pardon me...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 25:
+Excuuuse me...{PAUSE}{EOM}
+
+Message 26:
+Um, you really shouldn't open a
+shop unless you have something to sell.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+Are you all sold out for today?
+You might as well close up shop.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+If you don't have anything,
+there's no point in having a shop...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 29:
+Don't you have anything to sell?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 30:
+I'm just looking, thanks.{PAUSE}{EOM}{EOM}
+
+Message 31:
+Not much here, is there?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+I said I'm just looking...{PAUSE}{EOM}
+
+Message 33:
+I like the {VAR_00}, but
+how much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}
+
+Message 34:
+Really?!
+That's a great deal.{PAUSE}{EOM}{EOM}
+
+Message 35:
+OK, thanks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+That's a little expensive, but...
+OK.{PAUSE}{EOM}{EOM}
+
+Message 37:
+I guess I'll pass.{PAUSE}{EOM}
+
+Message 38:
+I want the {VAR_00}, but
+how much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}
+
+Message 39:
+No, I'm just looking.{PAUSE}{EOM}{EOM}
+
+Message 40:
+How are you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+Hello, {PETE}.{PAUSE}{EOM}
+
+Message 42:
+I'm not feeling well today.
+I don't want to talk.{PAUSE}{EOM}{EOM}
+
+Message 43:
+I'm just not feeling well today.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 44:
+I said I don't want to talk...{PAUSE}{EOM}
+
+Message 45:
+Leave me alone.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+I'm tired today.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+Did you want something...?{PAUSE}{EOM}
+
+Message 48:
+This is ridiculous...
+Just ridiculous...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+I told you, I'm tired today...{PAUSE}{EOM}
+
+Message 50:
+Good morning.{PAUSE}{EOM}{EOM}
+
+Message 51:
+Hello, how are you?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+Hello.{PAUSE}{EOM}
+
+Message 53:
+Good evening.{PAUSE}{EOM}{EOM}
+
+Message 54:
+Good evening.{PAUSE}{EOM}{EOM}
+
+Message 55:
+What are you doing out so late?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+Welcome...{PAUSE}{EOM}
+
+Message 57:
+What are you doing out so late?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+Do you have some business here too?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+Oh, that's one of my favorites.
+Could I have it?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 60:
+Really?
+Thanks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+I see...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 62:
+It looks delicious...{PAUSE}{EOM}{EOM}
+
+Message 63:
+You've got something nice there.
+Could I have it?{CHOICE Y/N DEF0}{EOM}
+
+Message 64:
+I just love that kind of thing.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+You expect me to eat that?
+Are you trying to annoy me or what?{PAUSE}{EOM}
+
+Message 66:
+Yuck. Take that away.{PAUSE}{EOM}{EOM}
+
+Message 67:
+What is that??
+Why don't you throw that away?{PAUSE}{EOM}{EOM}
+
+Message 68:
+Where did you get something like that?{PAUSE}{EOM}
+
+Message 69:
+How cute.
+Looks like Celia...{PAUSE}{EOM}{EOM}
+
+Message 70:
+Any child of yours and Celia's must
+be clever.{PAUSE}{EOM}
+
+Message 71:
+How cute.
+Looks like Muffy...{PAUSE}{EOM}{EOM}
+
+Message 72:
+Any child of yours and Muffy's must
+be clever.{PAUSE}{EOM}
+
+Message 73:
+How cute.
+Looks like Nami...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+Any child of yours and Nami's must
+be clever.{PAUSE}{EOM}{EOM}
+
+Message 75:
+Dogs can learn all kinds of tricks
+if they're trained.{PAUSE}{EOM}
+
+Message 76:
+What a cute dog.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+Cats can be a little selfish. If you
+bother them too much they won't like you.{PAUSE}{EOM}
+
+Message 78:
+What a cute cat.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 79:
+Is that a chicken from your farm?{PAUSE}{EOM}{EOM}
+
+Message 80:
+What a cute little chick.{PAUSE}{EOM}{EOM}
+
+Message 81:
+How cute.{PAUSE}{EOM}{EOM}
+
+Message 82:
+I hear that if you take good care of your
+chickens, they may lay golden eggs.{PAUSE}{EOM}{EOM}
+
+Message 83:
+Ducks can't keep their eggs warm
+by themselves.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+What a cute duck.{PAUSE}{EOM}{EOM}
+
+Message 85:
+Ducks are pretty cute when you
+get a good look at them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+I wonder what kind of plant will grow
+when you plant that seed...?{PAUSE}{EOM}
+
+Message 87:
+Is that some kind of seed?{PAUSE}{EOM}
+
+Message 88:
+Did you grow that on your farm?
+Feel free to give me some once in a while.{PAUSE}{EOM}
+
+Message 89:
+There sure are many kinds of crops.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+Is that milk from your farm?
+It must be fresh.{PAUSE}{EOM}
+
+Message 91:
+The taste of milk changes depending on the
+type of cow and how they are cared for.{PAUSE}{EOM}
+
+Message 92:
+Did you make that cheese on your farm?
+...{FARM} Farm original cheese.
+...Right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+Cheese tastes different depending on what
+kind of milk you use.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+You made that butter on your farm, right?
+...{FARM} Farm original butter.
+...Right?{PAUSE}{EOM}
+
+Message 95:
+Butter tastes different depending on what
+kind of milk you use.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+The quality of their eggs depends on how
+the chickens are raised.{PAUSE}{EOM}{EOM}
+
+Message 97:
+Chicken eggs and duck eggs look the
+same, don't they?{PAUSE}{EOM}{EOM}
+
+Message 98:
+Did you catch that fish yourself?
+...Good job.{PAUSE}{EOM}
+
+Message 99:
+That's a fine looking fish.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+Are those wild plants from around here?
+They can be quite delicious in cooking.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 101:
+There are some unusual wild plants growing
+around here. That's one of them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+Did you make that dish?
+...It looks good.{PAUSE}{EOM}{EOM}
+
+Message 103:
+Do you cook?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+That's a tasty looking dish.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+That's an unusual hoe.
+It looks quite heavy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 106:
+You don't see a hoe like that every day.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 107:
+That hoe was used a lot.
+But... do you know how to use it well?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+That's certainly a dirty hoe.{PAUSE}{EOM}{EOM}
+
+Message 109:
+That hoe looks quite new.
+You've got to use it more...{PAUSE}{EOM}
+
+Message 110:
+You haven't used that hoe much, have you?{PAUSE}{EOM}{EOM}
+
+Message 111:
+Soon your hoe will be nicely broken in.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+Where are you going with that hoe?{PAUSE}{EOM}
+
+Message 113:
+Is that your hoe?
+It's seen a lot of use.{PAUSE}{EOM}{EOM}
+
+Message 114:
+That looks easy to use.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 115:
+That's certainly an unusual sickle.
+But it looks hard to use...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 116:
+That's an odd sickle.{PAUSE}{EOM}{EOM}
+
+Message 117:
+That sickle certainly looks sharp.
+You shouldn't wave it around like that.{PAUSE}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+That's a weird sickle.{PAUSE}{EOM}
+
+Message 119:
+Is that your sickle?
+You've got to use it more, you know.{PAUSE}{EOM}{EOM}
+
+Message 120:
+That sickle is still pretty new.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+Soon your sickle will be nicely broken in.{PAUSE}{EOM}
+
+Message 122:
+You can't just walk around with a sickle.{PAUSE}{EOM}{EOM}
+
+Message 123:
+Is that your sickle?
+It looks quite nice.{PAUSE}{EOM}{EOM}
+
+Message 124:
+That sickle looks very sharp.{PAUSE}{EOM}{EOM}
+
+Message 125:
+Is that a watering can?
+It has an odd shape.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+That's a strange watering can.{PAUSE}{EOM}
+
+Message 127:
+You haven't used that watering
+can very much yet, have you?
+You've got to water your crops every day.{PAUSE}{EOM}{EOM}
+
+Message 128:
+That watering can is brand new, isn't it?{PAUSE}{EOM}{EOM}
+
+Message 129:
+Watering cans get easier to use the
+more you use them, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+Watering some plants?{PAUSE}{EOM}{EOM}
+
+Message 131:
+That's an old watering can, isn't it?
+But it looks very easy to use.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+You've used that watering can quite a bit.{PAUSE}{EOM}
+
+Message 133:
+That's a strange looking machine.
+Oh, a milker... I see.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+That milker is brand new, isn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 135:
+You use that to milk your cows every day?{PAUSE}{EOM}{EOM}
+
+Message 136:
+Where do you think you're going
+with that milker?{PAUSE}{EOM}{EOM}
+
+Message 137:
+That milker looks pretty beat up.
+But I guess cows like things that
+they're used to.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 138:
+That milker's been used quite a lot.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 139:
+I used to get my hair cut with clippers.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+Are those manual clippers?{PAUSE}{EOM}
+
+Message 141:
+Those clippers are pretty new.
+A present for your sheep, maybe?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+You haven't used those clippers much.{PAUSE}{EOM}{EOM}
+
+Message 143:
+Those much make shearing sheep easy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 144:
+Are you going to give me a trim?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 145:
+Those clippers have been well used.
+And they look very easy to use, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 146:
+Those are some old clippers you've got.{EOM}
+
+Message 147:
+Tools are hard to use when they're new,
+but they get easier to use with time.{PAUSE}{EOM}{EOM}
+
+Message 148:
+Don't you get a little excited when
+you get a new tool?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 149:
+You've got to put that to good use.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+Good tools make your work much easier.{PAUSE}{EOM}
+
+Message 151:
+You can tell a lot about a person
+by looking at his tools.
+Don't you think so?{PAUSE}{EOM}
+
+Message 152:
+...That's a very mature looking tool...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+That's an unusual stone you've got there.
+You could probably get some money for it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 154:
+What a pretty stone.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 155:
+What is that thing?
+Where did you find it?{PAUSE}{EOM}
+
+Message 156:
+That looks kind of spooky.{PAUSE}{EOM}
+
+Message 157:
+I hear that some of the wild plants around
+here have mysterious properties.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 158:
+Did you find that around here?{PAUSE}{EOM}
+
+Message 159:
+That's a record, isn't it?
+You don't see many of those around here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 160:
+Those aren't for throwing, you know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 161:
+Is that some kind of spice?
+I bet you got it from {RUBY}, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+I bet it would taste good in many
+dishes.{PAUSE}{EOM}{EOM}
+
+Message 163:
+{S_3400DA}{S_3205DC}That's a funny sound.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 164:
+{S_3400DA}{S_3205DC}That's a strange drum, isn't it?{PAUSE}{EOM}
+
+Message 165:
+Isn't that the medal that Wally
+had?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+That's a pretty medal.{PAUSE}{EOM}
+
+Message 167:
+That's a strange looking necklace.
+There must be a story behind that...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+That's a pretty necklace.{PAUSE}{EOM}{EOM}
+
+Message 169:
+That...
+That looks like some kind of music.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+Why are you showing me that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+Fireworks?
+I bet Kassey made that, right?
+Or was it Patrick...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+That's quite a large firework.{PAUSE}{EOM}
+
+Message 173:
+Is that a present for someone?
+Hmm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+There's no point showing me that.{PAUSE}{EOM}{EOM}
+
+Message 175:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 176:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 177:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 178:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 179:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+You know, I heard that the
+owner of the farm in
+Mineral Town is very rich.{PAUSE}{EOM}
+
+Message 181:
+I hear the owner of the farm in
+Mineral Town is insanely greedy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+Apparently the farmer in Mineral Town
+is very popular with the townspeople.
+Is that really true?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 183:
+I heard that the farmer in Mineral Town
+is a really nice person.
+Maybe she'll run for mayor?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 184:
+Making all those crops and still having
+time for taking care of animals. Oh I'm
+talking about the farmer in Mineral Town.{PAUSE}{EOM}{EOM}
+
+Message 185:
+I heard a rumor that {VAR_00} has
+shipped every crop there is.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 186:
+It seems that the farmer in Mineral
+Town is very good to her
+animals.{PAUSE}{EOM}{EOM}
+
+Message 187:
+I bet the animals on {VAR_00}'s
+farm are happy.
+They're well taken care of, after all...{PAUSE}{EOM}
+
+Message 188:
+I heard that the farmer in Mineral Town
+digs holes in the mountain all day long.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+If somebody spends all day digging for
+ore, are they really a farmer?
+Oh, I mean the farmer in Mineral Town.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+It seems {VAR_00} from Mineral Town
+caught all kinds of fish. But I bet
+she hasn't caught fish that we have here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 191:
+I hear that the farmer in Mineral Town
+is a master angler.{PAUSE}{EOM}
+
+Message 192:
+I heard that {VAR_00} from
+Mineral town has walked one million steps.
+But so what?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 193:
+That farmer from Mineral Town sure does
+walk around an awful lot.{PAUSE}{EOM}{EOM}
+
+Message 194:
+{VAR_00} in Mineral Town has been
+running that farm for 50 years.
+You'd better work hard too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 195:
+The farmer from mineral town certainly has
+lived a long life.
+That farm has been there over 50 years.{PAUSE}{EOM}{EOM}
+
+Message 196:
+I hear that the farmer in Mineral Town
+is a quite the fisherman...{PAUSE}{EOM}
+
+Message 197:
+I heard that the farmer in Mineral Town
+fishes all day and ignores her farm.
+Is that really true?{PAUSE}{EOM}{EOM}
+
+Message 198:
+I heard that the farmer in Mineral Town
+has bad taste.{PAUSE}{EOM}
+
+Message 199:
+You don't have to make everything gold,
+you know... Oh, I'm talking about
+{VAR_00} Farm.{PAUSE}{EOM}
+
+Message 200:
+I heard a rumor that the farmer in Mineral
+Town owns three cottages.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 201:
+Apparently the farmer in Mineral Town
+likes building extra cottages.
+Even though the family is small.{PAUSE}{EOM}{EOM}
+
+Message 202:
+I guess there are some pretty amazing
+tools at {VAR_00} Farm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+I heard there's a blacksmith in Mineral
+Town who makes some great tools.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 204:
+That thing you gave me a while back
+was really tasty.
+Did you know that was one of my favorites?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 205:
+That thing you gave me a while back
+was really bad.
+Do you have it in for me or something?{PAUSE}{EOM}
+
+Message 206:
+About the {VAR_00} you gave me
+a while back... It tasted a little off.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 207:
+About the {VAR_00} you gave me
+a while back... It was pretty good.
+I'd like more sometime.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 208:
+About the {VAR_00} you gave me
+a while back... It was good.
+No, really.{PAUSE}{EOM}{EOM}
+
+Message 209:
+About the {VAR_00} you gave me a
+while back... That's the taste I like.{PAUSE}{EOM}{EOM}
+
+Message 210:
+About that milk you gave me a bit ago...
+It tasted... Very nutritious.{PAUSE}{EOM}
+
+Message 211:
+About that milk you gave me a bit ago.
+The taste was a little off.{PAUSE}{EOM}
+
+Message 212:
+About that milk you gave me a bit ago...
+It wasn't bad.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+About that milk you gave me a bit ago...
+It tasted pretty good, but it was just
+Normal Cow's milk right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+About that milk you gave me a bit ago...
+It was the greatest!{PAUSE}{EOM}{EOM}
+
+Message 215:
+About that milk you gave me a bit ago...
+The taste was a little off.
+But it might be good for cheese.{PAUSE}{EOM}{EOM}
+
+Message 216:
+About that milk you gave me a bit ago...
+It wasn't bad, but it might be better
+if you processed it into something else.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+That milk you gave me a while ago
+was quite good, but I think it would be
+even better made into cheese.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 218:
+That milk you gave me a while ago
+tasted fantastic. You must
+make some of that into cheese.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 219:
+That milk you gave me a while ago
+tasted really expensive, but maybe
+the taste was a little on the weak side.{PAUSE}{EOM}{EOM}
+
+Message 220:
+That milk you gave me a while ago
+tasted good.{PAUSE}{EOM}
+
+Message 221:
+That milk you gave me a while ago
+Was really rich and delicious.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 222:
+That milk you gave me a while ago
+must be the best milk in the world. {PAUSE}{EOM}
+
+Message 223:
+That milk you gave me a while ago
+tasted a little off, but perhaps it
+would be better if it was in cheese.{PAUSE}{EOM}
+
+Message 224:
+That milk you gave me a while ago
+was just OK. It might be better
+if you processed it.{PAUSE}{EOM}
+
+Message 225:
+That milk you gave me a while ago
+tasted quite good, but it might be
+better if it were made into butter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 226:
+That milk you gave me a while ago
+tasted fantastic.
+But maybe it's a little too rich.{PAUSE}{EOM}{EOM}
+
+Message 227:
+That milk you gave me a while ago
+had kind of a unique flavor.{PAUSE}{EOM}
+
+Message 228:
+That milk you gave me a while ago
+tasted good, but it had a kind of a
+unique tart flavor.{PAUSE}{EOM}{EOM}
+
+Message 229:
+That cheese you gave was rich and
+very delicious.
+I'd be glad to take some more.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 230:
+That cheese you gave me was a little
+sour. But I could grow to like it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 231:
+That kind of cheese you gave me a bit ago
+is hard to come by, you know.
+It's quite valuable.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 232:
+Did you make that cheese you gave me
+a while ago?{PAUSE}{EOM}{EOM}
+
+Message 233:
+That butter you gave me was rich
+and very delicious.
+I'd be glad to take some more.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 234:
+That butter you gave me was a little
+smelly. But I could grow to like it.{PAUSE}{EOM}{EOM}
+
+Message 235:
+That kind of butter you gave me a bit ago
+is hard to come by, you know.
+It's quite valuable.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 236:
+Did you make that butter you gave me
+a while ago?{PAUSE}{EOM}{EOM}
+
+Message 237:
+The {VAR_00} you gave me was
+just fantastic.
+You made it, right?{PAUSE}{EOM}
+
+Message 238:
+That dish you gave me a bit ago
+was just OK.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 239:
+That fish you caught the other day
+tasted fantastic.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 240:
+That fish you caught the other day
+tasted OK.{PAUSE}{EOM}{EOM}
+
+Message 241:
+The wild plants you gave me the other day
+tasted just great.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 242:
+The wild plants you gave me the other day
+tasted OK.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 243:
+That thing you gave me. It's hard
+to put into words how it tasted.{PAUSE}{EOM}
+
+Message 244:
+It looks like you're better
+at your work now.
+You're a real farmer now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 245:
+You're quite good at growing crops,
+aren't you?
+You seem suited for that.{PAUSE}{EOM}{EOM}
+
+Message 246:
+You're quite good at cooking,
+I hear.
+You must have a gift.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 247:
+You must be working hard tending to your
+cows. You seem more distinguished now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 248:
+Raising crops is difficult work, but
+you're doing it well.
+I can tell by looking at your hands.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 249:
+Do you often cook at home?
+I heard you're quite a cook.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 250:
+I guess you're getting used to
+running a dairy farm, hmm?{PAUSE}{EOM}{EOM}
+
+Message 251:
+I guess you're getting used to raising
+crops, hmm?{PAUSE}{EOM}
+
+Message 252:
+I guess you're getting used to cooking,
+huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 253:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 254:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 255:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 256:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 257:
+Sorry I can't offer you anything...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 258:
+Stop wandering around so much, please.{PAUSE}{EOM}
+
+Message 259:
+I like it here for some reason...
+You too?{PAUSE}{EOM}
+
+Message 260:
+Do you have some business
+here?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 261:
+How's work on the farm?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 262:
+This time of year is really comfortable.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 263:
+We have four seasons here in Forget-
+Me-Not Valley, but they're all pretty
+comfortable. It's hot now, though.{PAUSE}{EOM}{EOM}
+
+Message 264:
+You can see some pretty stars over the
+Southern Sea this time of year.{PAUSE}{EOM}
+
+Message 265:
+This is the best time of year for me.
+Not too hot, not too cold.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 266:
+It sure is pretty when the leaves
+start to change color.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 267:
+It snows sometimes at this time of
+year, even here.
+It's kind of exciting.{PAUSE}{EOM}
+
+Message 268:
+The snow doesn't accumulate
+in this area, you know.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 269:
+..........{PAUSE}{EOM}
+
+Message 270:
+..........{PAUSE}{EOM}
+
+Message 271:
+..........{PAUSE}{EOM}
+
+Message 272:
+..........{PAUSE}{EOM}
+
+Message 273:
+..........{PAUSE}{EOM}
+
+Message 274:
+..........{PAUSE}{EOM}
+
+Message 275:
+..........{PAUSE}{EOM}
+
+Message 276:
+..........{PAUSE}{EOM}
+
+Message 277:
+..........{PAUSE}{EOM}
+
+Message 278:
+..........{PAUSE}{EOM}
+
+Message 279:
+..........{PAUSE}{EOM}
+
+Message 280:
+..........{PAUSE}{EOM}
+
+Message 281:
+..........{PAUSE}{EOM}
+
+Message 282:
+..........{PAUSE}{EOM}
+
+Message 283:
+..........{PAUSE}{EOM}
+
+Message 284:
+..........{PAUSE}{EOM}
+
+Message 285:
+..........{PAUSE}{EOM}
+
+Message 286:
+..........{PAUSE}{EOM}
+
+Message 287:
+..........{PAUSE}{EOM}
+
+Message 288:
+..........{PAUSE}{EOM}
+
+Message 289:
+..........{PAUSE}{EOM}
+
+Message 290:
+..........{PAUSE}{EOM}
+
+Message 291:
+..........{PAUSE}{EOM}
+
+Message 292:
+..........{PAUSE}{EOM}
+
+Message 293:
+I see.
+But I'll pass this time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 294:
+It's raining...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 295:
+It sure is coming down...{PAUSE}{EOM}{EOM}
+
+Message 296:
+I heard that {VAR_00} from Mineral
+Town has a dog that's good at catching
+dog disks.{PAUSE}{EOM}
+
+Message 297:
+{VAR_00} from Mineral Town has a
+horse that won a race 10 times.
+Or so I hear.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 298:
+I wonder what a chicken festival is like.
+Oh, It's just that I heard the farmer in
+Mineral Town has won it 10 times.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 299:
+I heard that {VAR_00} from Mineral
+Town has a cow that won the Cow Festival
+10 times...{PAUSE}{EOM}{EOM}
+
+Message 300:
+What do you do at a sheep festival?
+Oh, It's just that I heard the farmer in
+Mineral Town has won it 10 times.{PAUSE}{EOM}
+
+Message 301:
+I hear that {VAR_00} from Mineral Town
+won the Cooking Festival
+10 times.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 302:
+I hear that {VAR_00} from Mineral Town
+is so good at cooking that he was
+challenged by a professional chef.{PAUSE}{EOM}{EOM}
+
+Message 303:
+I hear that {VAR_00} from Mineral Town
+beat a professional chef at cooking.
+Everyone's talking about that dish.{PAUSE}{EOM}{EOM}
+
+Message 304:
+I heard that {VAR_00} is helping
+people with cooking now.
+I wonder why.{PAUSE}{EOM}{EOM}
+
+Message 305:
+They say that a person {VAR_00}
+gave a farmer some information
+about some kind of legendary food.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 306:
+I heard that {VAR_00} went on a
+trip looking for some kind of legendary
+food. I guess it's pretty difficult.{PAUSE}{EOM}
+
+Message 307:
+They say that {VAR_00} was able to
+find some kind of legendary food.{PAUSE}{WIPE}
+But just when things were looking good,
+{VAR_00} lost to some other chef.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 308:
+{VAR_00} is going on a final
+journey... following the last wishes of
+{VAR_00}'s master.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 309:
+{VAR_00} has gone somewhere
+in Forget-me-not Valley to fight a wizard.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 310:
+That's a relief.
+Thanks to {VAR_00} defeating
+the wizard,{PAUSE}{WIPE}
+the world is now at peace...
+Wait, weren't we at peace before?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 311:
+Mooooooo!!{S_3203E8}{EOM}{EOM}{EOM}
+
+Message 312:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 313:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 314:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 315:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 316:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 317:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 318:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 319:
+ERROR{EOM}{EOM}{EOM}
+
+Message 320:
+ERROR{EOM}{EOM}{EOM}
+
+Message 321:
+ERROR{EOM}{EOM}{EOM}
+
+Message 322:
+ERROR{EOM}{EOM}{EOM}
+
+Message 323:
+ERROR{EOM}{EOM}{EOM}
+
+Message 324:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 325:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 326:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 327:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 328:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 329:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 330:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 331:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 332:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 333:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 334:
+ERROR{EOM}{EOM}{EOM}
+
+Message 335:
+ERROR{EOM}{EOM}{EOM}
+
+Message 336:
+ERROR{EOM}{EOM}{EOM}
+
+Message 337:
+ERROR{EOM}{EOM}{EOM}
+
+Message 338:
+ERROR{EOM}{EOM}{EOM}
+
+Message 339:
+ERROR{EOM}{EOM}{EOM}
+
+Message 340:
+ERROR{EOM}{EOM}{EOM}
+
+Message 341:
+ERROR{EOM}{EOM}{EOM}
+
+Message 342:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 343:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 344:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 345:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 346:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 347:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 348:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 349:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 350:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 351:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 352:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 353:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 354:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 355:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 356:
+ERROR{EOM}{EOM}{EOM}
+
+Message 357:
+ERROR{EOM}{EOM}{EOM}
+
+Message 358:
+ERROR{EOM}{EOM}{EOM}
+
+Message 359:
+ERROR{EOM}{EOM}{EOM}
+
+Message 360:
+ERROR{EOM}{EOM}{EOM}
+
+Message 361:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 362:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 363:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 364:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 365:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 366:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 367:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 368:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 369:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 370:
+
+
+Message 371:
+{CHOICE2 DEF0}
+Don't worry about it.
+He's always like that.{EOM}
+
+Message 372:
+{CHOICE2 DEF0}
+Cheer up!
+You can count on me!{EOM}{EOM}{EOM}
+
+Message 373:
+{CHOICE4 DEF0}
+Is that a picture of Lumina?
+Is that Romana when she was young?
+Is that a picture of your mother?
+What a pretty photo frame!{EOM}
+
+Message 374:
+Heh heh heh.
+I finally did it!{S_3202BC}{EOM}{EOM}{EOM}
+
+Message 375:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 376:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 377:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 378:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 379:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 380:
+Takakura left you a note.{PAUSE}{EOM}{EOM}
+
+Message 381:
+.......Mmm.........Mmm.......{PAUSE}{EOM}{EOM}
+
+Message 382:
+Animal TV...
+Moo Cow 'n Sheepy Sheep
+on the TV...{PAUSE}{EOM}{EOM}
+
+Message 383:
+Your grandchild's gotten a lot bigger.{PAUSE}{EOM}
+
+Message 384:
+Oh, and...{FACER_000000}
+{?_39}
+{PETE} has added on to the house.{PAUSE}{EOM}
+
+Message 385:
+The kid's helping around the house.
+Well, sometimes anyway...{PAUSE}{EOM}{EOM}
+
+Message 386:
+Anyway, I look forward to the future.{PAUSE}{EOM}{EOM}
+
+Message 387:
+{DRAW_02}{TATSUYA}'s quite mischievous.
+But I suppose you were the same way at
+that age...{S_322710}{EOM}
+
+Message 388:
+{TATSUYA} seems to want to
+imitate everything {PETE} does.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 389:
+{TATSUYA} is a quiet, gentle child.
+Like {PETE}...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 390:
+{TATSUYA} seems to want to
+imitate everything {PETE} does.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 391:
+He must really love that kid.
+He worked for years to make a nice
+children's room.{PAUSE}{EOM}{EOM}
+
+Message 392:
+I'm sure they'll work hard at
+the farm from now on.
+I'll have to do my best, too.{PAUSE}{EOM}{EOM}
+
+Message 393:
+Work on the farm seems to be going well
+and they've even added on a child's bedroom.{PAUSE}{WIPE}
+When children get older, they need
+a room of their own. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 394:
+Your daughter is really starting to
+act like a mother.{PAUSE}{WIPE}
+It makes me feel old
+though.{PAUSE}{EOM}{EOM}
+
+Message 395:
+{TATSUYA} grows bigger all the
+time. Reminds me of you when you were
+that age.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 396:
+Children may not always
+turn out how their parents hope.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 397:
+{DRAW_02}But {TATSUYA} looks quite
+healthy.
+That's the important thing.{S_320BB8}{EOM}{EOM}{EOM}{EOM}
+
+Message 398:
+Who's that, you
+ask?{S_3203E8} It's that young scoundrel...{S_3203E8} {TATSUYA}.
+{PETE}'s child.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 399:
+{TATSUYA} is at a difficult stage
+when one rebels against everything.
+Don't you remember feeling that way?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 400:
+Who's that, you ask?{S_3203E8}
+Why, it's...{S_3203E8} {TATSUYA}.{PAUSE}{WIPE}
+{PETE}'s kid.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 401:
+{TATSUYA} is at a difficult stage.
+Adolescence...
+Don't you remember that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 402:
+Oh, and look closely.{FACER_000000}
+{?_39}
+Your daughter's house is larger
+now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 403:
+The child doesn't need as much care now
+so they made a room for the two of them.{PAUSE}{WIPE}
+When the neighbors saw {PETE}
+working hard to build it, they joined in
+and helped.{PAUSE}{EOM}{EOM}
+
+Message 404:
+I'm sure she'll keep working hard
+on the farm.
+I'll have to do my best, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 405:
+{PETE} certainly is a hard worker.{S_3203E8}
+Now that the child doesn't need as much
+attention, she decided to make a nice
+bedroom for her spouse.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 406:
+Your daughter is a fine
+farmer.{PAUSE}
+You'd think I might be retiring soon, but
+I still got some good years in me.{PAUSE}{EOM}{EOM}
+
+Message 407:
+{DRAW_02}They sure grow up fast, don't they?{S_3203E8}{EOM}{EOM}{EOM}{EOM}
+
+Message 408:
+{DRAW_02}I wonder what it would be like
+to watch your grandchildren grow up...{S_3203E8}
+Anyway, {TATSUYA} is just like
+{PETE}. Everything from looks
+to how they walk are just the same.{S_3203E8}{PAUSE}{WIPE}
+Which means that they look like you
+too, I guess.{S_3203E8}{PAUSE}{EOM}
+
+Message 409:
+{TATSUYA} is grown up now.
+It's amazing how kids get lives
+of their own after a while.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 410:
+It must be nice to watch your children
+grow, but I bet it's a little sad when
+they no longer need you.{PAUSE}{EOM}
+
+Message 411:
+Oh, about the farm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 412:
+Your daughter certainly is a
+hard worker.{S_3207D0}{PAUSE}{WIPE}
+At first I thought we'd be doing
+well just to make ends meet.
+But we exceeded expectations.{PAUSE}{WIPE}
+Of course, that makes me busier too.
+Well, I'll keep at it as long as I can.{PAUSE}{EOM}{EOM}
+
+Message 413:
+We're doing well at the moment.
+Your daughter works hard,
+I'm glad to say.{PAUSE}{WIPE}
+Her family is just fine and
+there's nothing to worry about.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 414:
+I'm afraid the farm isn't doing
+all that well.{S_3207D0}{PAUSE}{WIPE}
+Your daughter seems to enjoy herself
+more in places far from our fields.{PAUSE}{WIPE}
+But that's just fine.
+Don't you think?
+If she enjoys life, that's what matters.{PAUSE}{EOM}
+
+Message 415:
+Your daughter is quite a bit older.{S_3207D0}
+So have I, but I'm hanging in there.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 416:
+{CHAR_49} is young and handsome as ever.
+You'd never guess his son to be so old.{PAUSE}{EOM}{EOM}
+
+Message 417:
+That {TATSUYA} is a
+lot more mature.{PAUSE}{EOM}{EOM}
+
+Message 418:
+I think {TATSUYA} has succeeded
+{PETE}...
+Maybe I should think about retiring.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 419:
+{CHOICE2 DEF0}
+Chase.
+Don't chase.{EOM}{EOM}
+
+Message 420:
+I guess your daughter just wasn't cut out
+for life on the farm.{PAUSE}{WIPE}
+But she has to live her own life,
+so I guess there's nothing that can
+be done about it.{PAUSE}{EOM}{EOM}
+
+Message 421:
+Hey!{S_3202BC}{EOM}
+
+Message 422:
+Over here!{S_3202BC}{EOM}{EOM}{EOM}
+
+Message 423:
+Crops won't grow if you plant
+them next to fruit trees!{PAUSE}{WIPE}
+Fruit trees are taller than other
+plants, so they overshadow them!
+Plan carefully next time!{PAUSE}{EOM}
+
+Message 424:
+There is a note from Takakura:{PAUSE}{WIPE}
+“Hey, there was somebody who really
+wanted to buy that weird crop.{PAUSE}{WIPE}
+They said they want to buy some seeds too.
+If you grow any more of those, put them in
+this bin. I'll sell them for you.”{PAUSE}{EOM}
+
+Message 425:
+Isolate the cow?
+{CHOICE2 DEF0}
+Yes.
+No.{EOM}{EOM}{EOM}{EOM}
+
+Message 426:
+Several days later...{PAUSE}{EOM}{EOM}
+
+Message 427:
+It happened so suddenly.
+We don't know the cause,
+but I'm afraid your child passed away.{PAUSE}{WIPE}
+You didn't come and get her, did you?
+If so, your priorities were not in order.
+I should have gone first...{PAUSE}{EOM}
+
+Message 428:
+Your child lived a good life.
+She did everything she had to.{PAUSE}{WIPE}
+The farm is successful, her spouse is
+well and {TATSUYA}...{PAUSE}
+Yes, I think your grandchild
+has chosen a path in life.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 429:
+Forget-Me-Not Valley is a little
+lonelier, but we're carrying on.{PAUSE}{EOM}{EOM}
+
+Message 430:
+Do you remember when you first came
+here?{S_3207D0}
+And when was it that I arrived here
+with your daughter?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 431:
+Your child followed in your
+footsteps. Surely that makes you
+happy, right?{PAUSE}{EOM}
+
+Message 432:
+I'm sure I'll be there to see you soon
+enough. Maybe we three can begin a farm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 433:
+Your grandchild...{S_3203E8} decided
+to follow in {PETE}'s footsteps.{S_3203E8}
+{TATSUYA} is working very hard to{PAUSE}{WIPE}
+learn how to be a farmer.{S_3203E8}
+He reminds me of {PETE} when
+I first brought her here.{S_3201F4}{PAUSE}{WIPE}
+The spitting image.{S_3203E8}
+It's almost funny.{S_3207D0}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 434:
+But {TATSUYA} was born into
+farm life.{S_3201F4}
+A farming thoroughbred of sorts.{S_3203E8}
+{TATSUYA} may do better than your son.{S_3201F4}
+Or at least I think so sometimes.{S_3207D0}{EOM}{EOM}
+
+Message 435:
+She might not like me to say that.{S_3201F4}
+Maybe she'll come back and haunt me...{S_3201F4}
+That'd be scary...{S_3203E8}
+I'm sorry, {PETE}.
+You did a good job too.{S_3205DC} ...OK?{S_3207D0}{EOM}{EOM}{EOM}
+
+Message 436:
+It looks like your grandchild decided
+to take over the farm.{S_3203E8}
+I think {TATSUYA} wants to
+concentrate on growing crops.{S_3207D0}{EOM}{EOM}{EOM}{EOM}
+
+Message 437:
+{TATSUYA} will get along with {TARTAN}.{S_3203E8}
+{TARTAN} complimented {TATSUYA}
+just the other day.{S_3201F4}
+{TATSUYA} might come up with some
+crops even {PETE} never grew.{S_3207D0}{EOM}
+
+Message 438:
+I have this strange visitor here.{S_3203E8}
+His name is {TARTAN} and if you
+feed him seeds or crops he can turn them
+into new varieties.{S_3203E8}
+{TATSUYA} started right off
+making all kinds of new crops.{S_3207D0}{EOM}{EOM}{EOM}
+
+Message 439:
+I can't help but wish {TATSUYA}
+would spend more time on the animals.{S_3203E8}
+But...{S_3203E8} I guess it's OK.{S_3207D0}{EOM}
+
+Message 440:
+I wonder where {TATSUYA} got it from,
+but your grandchild has a musical talent.{S_320FA0}
+I've never even heard {PETE}
+sing a song...{S_3207D0}
+And you...
+Your were quite tone deaf, I recall.{S_3203E8}{PAUSE}{WIPE}
+I can still hear the shrill racket.{S_3203E8}
+Your voice sounded like an alley cat.{S_3207D0}
+I bet {TATSUYA} got it from {CHAR_49}.{S_3207D0}{PAUSE}{WIPE}
+Even {ROMANA} was surprised.{S_320FA0}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 441:
+Anyway, {TATSUYA} and {GUSTAFA}
+are good friends.{PAUSE}{WIPE}
+They said something about starting a group
+and playing “gigs” -- whatever they are.
+These kids today...{PAUSE}{EOM}{EOM}
+
+Message 442:
+The two of them said they wanted
+as many people as possible to hear their
+music, so they went on tour.{PAUSE}{WIPE}
+Since {TATSUYA}'s with {GUSTAFA}...
+You have to wonder if we'll see your
+grandchild again...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 443:
+Your grandchild was always interested in
+art, you know.
+{TATSUYA} often talked with {CODY}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 444:
+I don't know what {TATSUYA} and {CODY}
+talk about, but I guess {TATSUYA} has
+all kinds of plans.{PAUSE}{EOM}
+
+Message 445:
+{TATSUYA} left a note and disappeared
+one day. {CHAR_49} was terribly
+shocked. Well, maybe it's a phase.{S_3207D0}
+It's not as if I can't understand
+{TATSUYA}'s feelings...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 446:
+After a while, {CHAR_49} received
+a letter from {TATSUYA}.
+I guess it's one of those things where you{S_3207D0}
+“find yourself” or something. I don't
+know.{S_3207D0}{PAUSE}{WIPE}
+I'm certainly no artist.
+..............................
+But I guess we have to trust {TATSUYA}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 447:
+Your grandchild decided to work on
+developing his athletic skills.{PAUSE}{EOM}
+
+Message 448:
+{WALLY} advised {TATSUYA} to join
+a sports team in the city.{S_3207D0}
+I heard this from {CHRIS} later,
+but it seems {TATSUYA} and {HUGH}
+aren't quite at the same athletic level,
+and {WALLY} had to ask the coach to
+help out.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 449:
+They played their first match on
+TV the other day.{S_3203E8}
+What was the name of that sport?{PAUSE}{WIPE}
+It's kind of like baseball, but sort of
+different, too.{S_3203E8}
+The pitcher stands next to the batter.{S_3203E8}{PAUSE}{WIPE}
+And when {TATSUYA} made what
+looked like a great hit, they said it was
+a “foul.” I don't get it.{S_3203E8}{PAUSE}{WIPE}
+Oh yes, they call it Pesapallo,
+I think.{S_3203E8}
+They ended up losing that match, but{PAUSE}{WIPE}
+with your grandchild on the team I'm
+sure they'll finish strong this season.{S_3207D0}
+Perhaps I'm slightly biased.{PAUSE}{EOM}
+
+Message 450:
+That grandchild of yours certainly does
+like to study. “Books, books, books.”
+That's what {CHAR_49} always says.{PAUSE}{EOM}{EOM}
+
+Message 451:
+Sometimes {TATSUYA} goes to {DARYL}'s
+lab and helps out with his experiments.{S_3203E8}
+Or maybe {TATSUYA} was being
+experimented on. It's hard to tell.{PAUSE}{EOM}
+
+Message 452:
+Anyway, now {TATSUYA}
+wants to go to college in the city.{S_3205DC}{PAUSE}
+{CHAR_49}worried about money,
+but your grandkid got a scholarship!
+Money is no longer a problem.{S_3205DC}
+Things turned out rather nicely.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 453:
+Oh yes, I received a letter from
+{TATSUYA} the other day.{S_3203E8}
+{TATSUYA}'s doing robotics.{S_3207D0}
+Sometimes I think {DARYL} influenced{S_3201F4}
+{TATSUYA} with his experiments.{S_3201F4}{PAUSE}{WIPE}
+I'm always a little worried that we'll
+have another mad scientist on our hands.{PAUSE}{EOM}
+
+Message 454:
+To tell you the truth, I always thought I
+would see you first and we could watch
+over the farm together. But no...{PAUSE}{EOM}
+
+Message 455:
+Now that your grandchild has taken
+over the farm, I can finally retire
+in peace.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 456:
+{CHAR_49} is still doing
+well, after all.{PAUSE}{EOM}
+
+Message 457:
+{DRAW_02}I'm sure they will keep the farm
+going as father and son.{S_3203E8}{PAUSE}{WIPE}
+You and your daughter better keep an
+eye on them from up there.{S_320BB8}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 458:
+To tell you the truth, I always thought I
+would see you first and we could watch
+over the farm together. But no...{PAUSE}{EOM}
+
+Message 459:
+{CHAR_49} says he will continue the
+farm in your son's memory.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 460:
+I thought I might be able to retire soon,
+but I guess I still have some work to do.{S_3203E8}
+I can't let {CHAR_49} work the farm all
+by himself, after all.{PAUSE}{EOM}
+
+Message 461:
+
+
+Message 462:
+    ...Several days later...   {S_3203E8}{PAUSE}{EOM}
+
+Message 463:
+{DRAW_02}It all started with a letter...{PAUSE}{WIPE}
+I hadn't gotten a letter in a
+long time...{PAUSE}{WIPE}
+{DRAW_02}It was in a bright red envelope {S_3203E8}
+and it was from the daughter of an
+old friend.{PAUSE}{WIPE}
+{DRAW_02}{S_3205DC}She wrote about her life in the city{S_3203E8}
+and asked all kinds of questions about
+the farm.{PAUSE}{WIPE}
+On the last line,{S_32012C}
+she said this...{PAUSE}{WIPE}
+{DRAW_02}{S_3201F4}“I want to {S_3201F4}try working on the farm.”{PAUSE}{WIPE}
+{DRAW_02}{S_32012C}To a city girl,{S_32012C} a place like Forget-Me-Not
+Valley must be interesting, I guess.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 464:
+{DRAW_02}{S_32012C}While I was thinking that,{S_3201F4}
+I was reminded{S_3202BC} of my old friend. {S_32012C}
+Of his face.{S_320064}.{S_320064}.{S_320064}.{S_320064}{PAUSE}{EOM}
+
+Message 465:
+{DRAW_02}      ...Several days later...      {PAUSE}{WIPE}
+{DRAW_02}...So that's how
+her life on the farm began.{PAUSE}{WIPE}
+{DRAW_02}I figured she would either get tired
+or like it and stay.{PAUSE}{WIPE}
+{DRAW_02}In the end, the choice was hers to make{S_3200C8}.{S_320190}.{S_3202BC}.{S_3202BC}{DRAW_00}{PAUSE}{EOM}
+
+Message 466:
+Cut it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 467:
+...?!{S_320320}{EOM}{EOM}{EOM}{EOM}
+
+Message 468:
+{SKIP}
+               {Title_4}{S_320BB8}{EOM}
+
+Message 469:
+{SKIP}
+                  {Title_5}{S_320BB8}{EOM}{EOM}
+
+Message 470:
+{SKIP}
+                {Title_6}{S_320BB8}{EOM}{EOM}{EOM}{EOM}
+
+Message 471:
+{SKIP}
+                 {Title_7}{S_320BB8}{EOM}{EOM}{EOM}
+
+Message 472:
+{SKIP}
+                 {Title_8}{S_320BB8}{EOM}{EOM}{EOM}
+
+Message 473:
+{SKIP}
+                 {Title_9}{S_320BB8}{EOM}{EOM}{EOM}
+
+Message 474:
+{SKIP}
+                  {Title_10}{S_320BB8}{EOM}{EOM}
+
+Message 475:
+You can't enter while holding an item.{PAUSE}{EOM}
+
+Message 476:
+{CHOICE2 DEF0}
+Follow.
+Don't follow.{EOM}{EOM}{EOM}{EOM}
+
+Message 477:
+It looks like there is something
+else that she wants to do with her life.{PAUSE}{WIPE}
+But she has to live her own life,
+so I guess there's nothing that can
+be done about it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 478:
+What?{S_3207D0} Am I worried about her?{S_3203E8}
+She'll be fine...
+After all, she's your daughter.{S_320BB8}{WIPE}
+I'm sure she'll find her own path
+eventually.{S_3203E8}
+Just like you found farming for
+yourself.{S_320BB8}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 479:
+     ...A few years later...   {S_3207D0}{PAUSE}{EOM}
+
+Message 480:
+How are you doing, old friend?{PAUSE}{EOM}
+
+Message 481:
+Well, I guess you don't have to worry
+about as many things where you are.{PAUSE}{EOM}{EOM}
+
+Message 482:
+When {CHAR_49} married your
+daughter,{S_3203E8}
+the farm wasn't in the best of shape,
+to say the least...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 483:
+But {CODY} and the others
+helped build a nice kitchen.{PAUSE}{WIPE}
+I guess they didn't have enough time
+to worry about decorating it, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 484:
+But {VESTA} helped build a nice
+kitchen for her sister-in-law.{PAUSE}{WIPE}
+I guess she didn't have enough time
+to worry about decorating it, though.{PAUSE}{EOM}{EOM}
+
+Message 485:
+But {TIM} and the others
+helped build a nice kitchen.{PAUSE}{WIPE}
+I guess they didn't have enough time
+to worry about decorating it, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 486:
+Your daughter's working hard.
+The farm's doing fine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 487:
+They built a nice kitchen.
+And {GUSTAFA} seems very happy
+enjoying your daughter's cooking.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 488:
+They built a nice kitchen.
+And {MARLIN} seems very happy
+enjoying your daughter's cooking.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 489:
+They built a nice kitchen.
+And {ROCK} seems very happy
+enjoying your daughter's cooking.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 490:
+Your grandchild is starting to talk now.
+They're very cute at this age.
+What was that name they chose...?{PAUSE}{EOM}{EOM}
+
+Message 491:
+{TATSUYA}...{S_3203E8}
+{DRAW_01}Oh yes, the name was {TATSUYA}.{DRAW_00}
+The spitting image of {CHAR_49}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 492:
+All parents have hopes for their children.
+I wonder what they have in mind
+for their child?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 493:
+Your grandchild is a lot bigger.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 494:
+Oh, and {FACER_000000}
+{?_39}{PETE} expanded the house.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 495:
+The boy helps around the house.
+Well, sometimes anyway...{PAUSE}{EOM}{EOM}
+
+Message 496:
+Anyway, I look forward to the future.{PAUSE}{EOM}{EOM}
+
+Message 497:
+{DRAW_02}{TATSUYA} is quite mischievous
+right now. You were probably just the
+same at that age.{S_322710}{EOM}{EOM}{EOM}{EOM}
+
+Message 498:
+{TATSUYA} seems to want to
+imitate everything {PETE} does.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 499:
+{TATSUYA}'s a quiet, gentle child.
+Like {PETE}...{PAUSE}{EOM}
+
+Message 500:
+{TATSUYA} seems to want to
+imitate everything {PETE} does.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 501:
+She must really love that kid.
+She worked for years to make a nice
+children's bedroom.{PAUSE}{EOM}
+
+Message 502:
+I'm sure they'll work hard at
+the farm from now on.
+I'll have to do my best, too.{PAUSE}{EOM}{EOM}
+
+Message 503:
+Work on the farm seems to be going well
+and they've even added on a child's room.{PAUSE}{WIPE}
+When children get older, they need
+a room of their own, after all...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 504:
+Your daughter's really starting to
+act like a mother.{PAUSE}{WIPE}
+It makes me feel old
+though.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 505:
+{TATSUYA} grows taller all the time.
+Reminds me of you when
+you were that age.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 506:
+Children may not always
+turn out as their parents hope.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 507:
+{DRAW_02}But {TATSUYA} looks quite
+healthy.
+That's the important thing.{S_320BB8}{EOM}{EOM}{EOM}{EOM}
+
+Message 508:
+Who's that, you ask?{S_3203E8}
+It's that young scoundrel...{S_3203E8}
+{TATSUYA}.
+{PETE}'s kid.{PAUSE}{EOM}{EOM}
+
+Message 509:
+{TATSUYA} is at a difficult stage. You
+know, when one rebels against everything.
+Don't you remember feeling that way?{PAUSE}{EOM}
+
+Message 510:
+Who's that, you ask?{S_3203E8}
+Why, it's...{S_3203E8}
+{TATSUYA}.
+{PETE}'s kid.{PAUSE}{EOM}{EOM}
+
+Message 511:
+{TATSUYA} is at a difficult stage.
+Adolescence. Between boy and man.
+Do you remember that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 512:
+Oh, and look closely.{FACER_000000}
+{?_39}
+Your daughter's house is larger
+now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 513:
+The boy doesn't need as much attention now
+so they made a room for the two of them.{PAUSE}{WIPE}
+When the neighbors saw {PETE}
+working hard to build it, they joined in
+and helped.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 514:
+I'm sure she'll keep working hard
+on the farm.
+I'll have to do my best, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 515:
+{PETE} certainly is a hard worker.{S_3203E8}
+Now that the child doesn't need as much
+attention, she decided to make a nice
+bedroom for her and her husband.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 516:
+Your daughter has become a fine farmer.
+You'd think I might be retiring soon,
+but I won't just yet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 517:
+{DRAW_02}They sure grow up fast, don't they?{S_3203E8}{EOM}{EOM}{EOM}{EOM}
+
+Message 518:
+{DRAW_02}I wonder what it would be like
+to watch your grandchildren grow up.{S_3203E8}{PAUSE}{WIPE}
+Anyway, {TATSUYA} is just like
+{PETE}. Everything from the looks
+to how they walk are just the same.{S_3203E8}{PAUSE}{WIPE}
+Which means that they look like you
+too, I guess.{S_3203E8}{PAUSE}{EOM}
+
+Message 519:
+{TATSUYA}'s grown up
+now. It's amazing how kids get lives
+of their own after a while...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 520:
+It must be nice to watch your children
+grow, but I bet it's a little sad when
+they no longer need you.{PAUSE}{EOM}
+
+Message 521:
+Oh, about the farm...{PAUSE}{EOM}{EOM}
+
+Message 522:
+Your daughter is certainly a
+hard worker.{S_3207D0}
+At first I thought we'd be doing
+well just to make ends meet,
+but we're doing very well.{PAUSE}{WIPE}
+Of course, that makes me busier too...
+Well, I'll keep at it as long as I can.{PAUSE}{EOM}
+
+Message 523:
+We're doing well at the moment.
+Your daughter is working hard,
+I'm glad to say.{PAUSE}{WIPE}
+Her family is just fine and
+there's nothing to worry about.{PAUSE}{EOM}{EOM}
+
+Message 524:
+I'm afraid the farm isn't doing
+all that well...{S_3207D0}
+Your daughter seems to enjoy
+herself more far away from the fields.{PAUSE}{WIPE}
+But that's just fine.
+Don't you think?
+If she enjoys life, that matters most.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 525:
+Your daughter is quite a bit older.{S_3207D0}
+So am I, but I'm hanging in there.{PAUSE}{EOM}{EOM}
+
+Message 526:
+{CHAR_49} is as young looking as ever.
+You'd never guess his child is that old.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 527:
+That {TATSUYA} is more mature.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 528:
+I think {TATSUYA} finally
+succeeded {PETE} as a farmer.
+Maybe I should think about retiring.{PAUSE}{EOM}{EOM}
+
+Message 529:
+Several days later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 530:
+It happened so suddenly.
+We still don't know the cause.
+I'm afraid your daughter passed away.{PAUSE}{WIPE}
+You didn't come and get her did you?
+If so, you were confused.
+I should have gone first.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 531:
+But your daughter lived a good life.
+She did everything successfully.{PAUSE}{WIPE}
+The farm is still going and her husband
+is well. And your grandchild seems to
+have chosen what to do in life.{PAUSE}{EOM}{EOM}
+
+Message 532:
+Forget-Me-Not Valley is a little
+lonelier, but we're carrying on.{PAUSE}{EOM}{EOM}
+
+Message 533:
+Do you remember when you first came
+here?{S_3207D0}
+And when was it that I arrived here
+with your daughter?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 534:
+Your child followed in your
+footsteps. Surely that makes you
+happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 535:
+I'm sure I'll be there to see you soon
+enough. Perhaps we will all start a farm.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 536:
+Your grandchild {S_3203E8} decided
+to follow in {PETE}'s footsteps.{S_3203E8}
+{TATSUYA} is working very hard to{PAUSE}{WIPE}
+learn how to be a farmer.{S_3203E8}
+Reminds me of {PETE} when
+I first brought her here.{S_3201F4}{PAUSE}{WIPE}
+The spitting image.{S_3203E8}
+It's almost funny.{S_3207D0}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 537:
+But {TATSUYA} was born into
+farm life.{S_3201F4}
+A farming thoroughbred of sorts.{S_3203E8}{PAUSE}{WIPE}
+{TATSUYA} may outdo your daughter.{S_3201F4}
+Or at least I think so sometimes.{S_3207D0}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 538:
+She might not like me to say that.{S_3201F4}
+Maybe she'll come back and haunt me...{S_3201F4}
+That'd be scary.{S_3203E8}{PAUSE}{WIPE}
+I'm sorry, {PETE}.
+You did a good job too.{S_3205DC} OK?{S_3207D0}{PAUSE}{EOM}
+
+Message 539:
+It looks like your grandchild decided
+to take over the farm.{S_3203E8}{PAUSE}{WIPE}
+I think {TATSUYA} wants to
+concentrate on growing crops.{S_3207D0}{PAUSE}{EOM}
+
+Message 540:
+{TATSUYA}'ll get along with {TARTAN}.{S_3203E8}
+{TARTAN} complimented {TATSUYA}
+just the other day.{S_3201F4}
+{TATSUYA} should come up with some
+crops that even {PETE} never grew.{S_3207D0}{EOM}
+
+Message 541:
+I have this strange visitor.{S_3203E8}
+His name is {TARTAN} and if you
+feed him seeds or crops he can turn them{PAUSE}{WIPE}
+into new varieties.{S_3203E8}
+{TATSUYA} started right off
+making all kinds of new crops.{S_3207D0}{PAUSE}{EOM}
+
+Message 542:
+I can't help but wish {TATSUYA}'d
+spend a little more time on the animals.{S_3203E8}
+But...{S_3203E8} I guess it's OK...{S_3207D0}{EOM}{EOM}
+
+Message 543:
+I wonder where {TATSUYA} got it from,
+but your grandchild has musical talent.{S_320FA0}{PAUSE}{WIPE}
+I've never even heard {PETE}
+sing a song.{S_3207D0}{PAUSE}{WIPE}
+And you...
+Your were quite tone deaf, weren't you?{S_3203E8}
+I can still hear your din.{S_3203E8}{PAUSE}{WIPE}
+Your voice sounded like an alley cat.{S_3207D0}
+I bet {TATSUYA} got it from {CHAR_49}.
+Even {ROMANA} was surprised.{S_320FA0}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 544:
+Anyway, {TATSUYA} and {GUSTAFA}
+have become fast friends.
+They said something about starting a group
+and playing “gigs” -- whatever that is.
+Kids today...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 545:
+The two of them said they wanted
+as many people as possible to hear their
+music, so they went off on tour.
+Since {TATSUYA}'s with {GUSTAFA}...
+You have to wonder if we'll see your
+grandchild again...{PAUSE}{EOM}{EOM}
+
+Message 546:
+{TATSUYA} takes after {GUSTAFA}.
+{TATSUYA} does have a musical talent.{S_320FA0}
+I've never even heard {PETE} sing
+a song.{S_3207D0}{PAUSE}{WIPE}
+And you...
+Your were quite tone deaf, weren't you?{S_3203E8}
+I can still hear the din.{S_3203E8}{PAUSE}{WIPE}
+Your voice sounded like an alley cat.{S_3207D0}
+{TATSUYA}'s singing voice surprised
+even {ROMANA}.{S_320FA0}{PAUSE}{EOM}
+
+Message 547:
+{TATSUYA} often sang
+with {GUSTAFA}...
+They even had a concert together.{PAUSE}{EOM}
+
+Message 548:
+{TATSUYA} said he wanted to bring
+music to as many as people as possible
+and so went on tour.
+You have to wonder if we'll see your
+grandchild again.{PAUSE}{EOM}{EOM}
+
+Message 549:
+Your grandchild was always interested in
+art, you know.
+{TATSUYA} often talked with {CODY}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 550:
+I don't know what {TATSUYA} and {CODY}
+talk about, but I guess {TATSUYA} has
+all kinds of plans.{PAUSE}{EOM}
+
+Message 551:
+{TATSUYA} left a note and
+disappeared one day. {CHAR_49} was terribly
+shocked. Maybe it's a phase.{S_3207D0}{PAUSE}{WIPE}
+It's not as if I can't understand
+{TATSUYA}'s feelings.{PAUSE}{EOM}
+
+Message 552:
+After a while, {CHAR_49} received
+a letter from {TATSUYA}.
+I guess it's one of those things where you{S_3207D0}
+“find yourself” or something. I don't
+know...{S_3207D0}
+I'm no artist.
+..............................
+I guess we have to trust {TATSUYA}.{PAUSE}{EOM}
+
+Message 553:
+Your grandchild has decided to work on
+developing athletic skills.{PAUSE}{EOM}
+
+Message 554:
+{WALLY} advised {TATSUYA} to join
+a sports team in the city.{S_3207D0}{PAUSE}{WIPE}
+I heard this from {CHRIS} later,
+but it seems {TATSUYA} and {HUGH}
+aren't quite at the same athletic level,{PAUSE}{WIPE}
+and {WALLY} had to ask the coach to
+help out.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 555:
+They played their first match on
+television the other day.{S_3203E8}
+What was the name of that sport.{PAUSE}{WIPE}
+It's kind of like baseball, but sort of
+different, too.{S_3203E8}
+The pitcher stands next to the batter.{S_3203E8}{PAUSE}{WIPE}
+And when {TATSUYA} made what
+looked like a great hit, they said it was
+a “foul.” I don't get it.{S_3203E8}{PAUSE}{WIPE}
+Oh yes, they call it Pesapallo,
+I think.{S_3203E8}
+They ended up losing that match, but{PAUSE}{WIPE}
+with your grandchild on the team, I'm
+sure they'll end up being very strong.{S_3207D0}
+Or maybe I'm just biased.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 556:
+That grandchild of yours certainly does
+like to study. “Books, books, books.”
+That's what {CHAR_49} always says.{PAUSE}{EOM}{EOM}
+
+Message 557:
+Sometimes {TATSUYA} goes to {DARYL}'s
+lab and helps out with his experiments.{S_3203E8}
+Or maybe {TATSUYA} was being experimented
+on. It's hard to tell.{PAUSE}{EOM}
+
+Message 558:
+Anyway, {TATSUYA} wante
+to go to college in the city.{S_3205DC}
+{CHAR_49} worried about the money,{PAUSE}{WIPE}
+but {TATSUYA} received
+a special scholarship! No money needed.{S_3205DC}
+That's pretty impressive.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 559:
+Oh yes, I received a letter from
+{TATSUYA} the other day.{S_3203E8}
+{TATSUYA} studies robotics.{S_3207D0}
+Sometimes I think {DARYL} influenced{S_3201F4}
+{TATSUYA} with his experiments.{S_3201F4}{PAUSE}{WIPE}
+I'm always a little worried that we'll
+have another mad scientist on our hands.{PAUSE}{EOM}
+
+Message 560:
+To tell you the truth, I always thought I
+would see you first and we could watch
+over the farm together. But no.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 561:
+Now that your grandchild has taken
+over the farm, I can finally retire
+in peace.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 562:
+{CHAR_49} is still doing
+well, after all...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 563:
+{DRAW_02}I'm sure they will keep the farm
+going as father and child.{S_3203E8}
+You and your daughter had better keep an
+eye on them from up there.{S_320BB8}{EOM}
+
+Message 564:
+To tell you the truth, I always thought I
+would see you first and we could watch
+over the farm together. But no...{PAUSE}{EOM}
+
+Message 565:
+{CHAR_49} says he will continue the
+farm in your daughter's memory.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 566:
+I thought I might be able to retire soon,
+but I guess I still have some work to do.{S_3203E8}
+I can't let {CHAR_49} work the farm all
+by himself, after all.{PAUSE}{EOM}
+
+Message 567:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 568:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 569:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 570:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 571:
+“Da-dada-dum!”{PAUSE}{EOM}
+
+Message 572:
+“My, my, you've certainly
+collected a lot of 'nices' for me.
+Thank you.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 573:
+“But I'm a Harvest Goddess in many
+places, so I may not be able to come
+here much...”{PAUSE}{WIPE}
+“I'm sorry.”{PAUSE}{WIPE}
+“It may not make up for it, but I'm
+sure the people in this valley will
+live happily ever after.{PAUSE}{WIPE}
+“Well then, keep working
+hard for the people here...”
+Shimmer-shimmer-shimmer...{PAUSE}{EOM}
+
+Message 574:
+“Da-dada-d--!”{PAUSE}{EOM}
+
+Message 575:
+“Oww...”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 576:
+“Y-yes, but... It looks like
+there aren't enough nices here. I can't
+get out of the spring. I hit my head!”{PAUSE}{WIPE}
+“Ouch... That smarts.”{PAUSE}{WIPE}
+“Find some more nices, OK?”
+Shimmer-shimmer-shimmer...{PAUSE}{EOM}{EOM}
+
+Message 577:
+ERROR
+ERROR
+ERROR
+ERROR{EOM}
+
+Message 578:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

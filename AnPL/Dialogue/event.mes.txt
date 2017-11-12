@@ -1,0 +1,50 @@
+Message 0:
+ERROR{EOM}{EOM}{EOM}
+
+Message 1:
+ERROR
+{CHOICE10 DEF0}
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+ERROR{EOM}{EOM}{EOM}
+
+Message 3:
+ERROR{EOM}{EOM}{EOM}
+
+Message 4:
+ERROR{EOM}{EOM}{EOM}
+
+Message 5:
+ERROR{EOM}{EOM}{EOM}
+
+Message 6:
+ERROR
+{CHOICE3 DEF1}
+ERROR
+ERROR
+ERROR{EOM}{EOM}
+
+Message 7:
+ERROR
+{CHOICE2 DEF1}
+ERROR
+ERROR{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+ERROR{EOM}{EOM}{EOM}
+
+Message 9:
+There is a strange mushroom here.
+Do you want to try eating it?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+

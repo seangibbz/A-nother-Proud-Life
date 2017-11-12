@@ -1,0 +1,917 @@
+Message 0:
+{PETE} can't be dead...
+She was so much younger than me...{PAUSE}{EOM}
+
+Message 1:
+{GRIFFIN}, could you sing a song for
+{PETE}?{PAUSE}{EOM}{EOM}
+
+Message 2:
+{S_34015F}Um...
+Pardon me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+{S_34015F}............
+Excuse me.{PAUSE}{EOM}
+
+Message 4:
+{S_34015F}{PETE}, do you have a minute?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+{S_34015F}.........Do you have a minute?{PAUSE}{EOM}{EOM}
+
+Message 6:
+{S_34015E}That's too bad.
+You're all sold out.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+{S_34015E}........
+You're all sold out.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+{S_34015E}Oh well, I guess I'll
+come back later...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+{S_34015E}{FACE_110007}Can't buy things if he doesn't have any...{PAUSE}{EOM}{EOM}
+
+Message 10:
+{S_34015E}Don't mind me.
+I'm just having a little look-see.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+{FACE_110007}.......Whew.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+Do you have anything else...?
+{S_34015E}Hmmmm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+{FACE_110007}...........{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+I've taken a shine to that {VAR_00}
+but how much is it?
+{CHOICE3 DEF2}
+Senior citizen's discount: {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}
+
+Message 15:
+That's pretty cheap, youngin'.
+I'll take it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 16:
+...Really...
+All right, I'll take it.{PAUSE}{EOM}{EOM}
+
+Message 17:
+...Oh, sorry then.{PAUSE}{EOM}
+
+Message 18:
+I've got a hankerin' for that
+{VAR_00} but how much is it?
+{CHOICE3 DEF2}
+Senior citizen's discount: {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}
+
+Message 19:
+Sorry, I guess I've
+changed my mind.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+{S_34015D}W-who is it? ...Oh, it's that
+{PETE} who came to say hello a bit ago.{PAUSE}{WIPE}
+We used to live in the city, but I came
+here to spend my retirement with my
+wife Nina.{PAUSE}{EOM}{EOM}
+
+Message 21:
+{S_34015D}W-who is it? Oh you
+came to see us a while back...
+I'm sorry, could you leave me alone?{PAUSE}{EOM}
+
+Message 22:
+{FACE_110007}............{PAUSE}{EOM}{EOM}{EOM}
+
+Message 23:
+{FACE_110007}................
+................{PAUSE}{EOM}{EOM}
+
+Message 24:
+{S_34015E}{FACE_110007}Could you leave me alone
+for now?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 25:
+{FACE_110007}••••••••••••
+Please leave me alone
+for now......{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+{S_34015D}{FACE_110004}What do you want?!{PAUSE}{EOM}{EOM}
+
+Message 27:
+{FACE_110004}................!{PAUSE}{EOM}{EOM}
+
+Message 28:
+{S_34015D}{FACE_110004}This had better be
+important!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 29:
+{S_34015D}{FACE_110004}...Go away!{PAUSE}{EOM}
+
+Message 30:
+{S_34015F}Good morning.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+...............
+Oh, it's you.{PAUSE}{EOM}{EOM}
+
+Message 32:
+{S_34015F}Good day to you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+{S_34015F}Good evening.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+{S_34015F}Good evening.
+...What are you doing out
+so late at night?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+{S_34015F}Oh, {PETE}...
+What brings you out so late at night?{PAUSE}{EOM}
+
+Message 36:
+{S_34015F}{FACE_11000A}Hello, {PETE}.
+Nice to see you.{PAUSE}{EOM}
+
+Message 37:
+{S_34015F}Do you have some business at this hour?
+I guess I can't really talk, though...{PAUSE}{EOM}{EOM}
+
+Message 38:
+{S_34015F}Hello, {PETE}.
+It certainly is a coincidence to run into
+you here.{PAUSE}{EOM}{EOM}
+
+Message 39:
+{S_34015F}{FACE_110003}Oh! Are you giving that to me?
+That's one of my favorites, you know.
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 40:
+{S_34015F}{FACE_110003}Oh! Thank you! Thank you!
+I wonder how it will taste...!
+I'm shaking with excitement.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+{S_34015D}{FACE_110009}Oh, I see.
+...That's too bad.
+I shouldn't have gotten my hopes up.{PAUSE}{EOM}{EOM}
+
+Message 42:
+{S_34015F}...Is that for me?
+...That's very nice of you, but
+at the moment I'm fine.{PAUSE}{EOM}{EOM}
+
+Message 43:
+{S_34015E}I used to eat this all the
+time with my wife, when we were
+younger...........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 44:
+{S_34015F}Oho! You've got something nice there.
+I'm quite envious of you.{PAUSE}{EOM}
+
+Message 45:
+That looks quite nice.
+Nothing to do with me now, though...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+{S_34015E}To tell you the truth, that's one
+of my weaknesses. ....No, really.{PAUSE}{EOM}
+
+Message 47:
+{FACE_110004}...I'm not interested in anything
+right now. Could you just leave me alone?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+{S_34015E}{FACE_110009}Hmm....
+When you get to be my age, you
+can't eat things like that...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+{S_34015E}{FACE_110009}I'm not going to change my mind.
+Cough. Cough.{PAUSE}{EOM}{EOM}
+
+Message 50:
+{S_34015D}{FACE_110009}What is that...?
+I'm afraid I'm not interested.{PAUSE}{EOM}
+
+Message 51:
+{S_34015E}You can show me as many times as you like,
+I still don't like it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 52:
+{S_34015E}{FACE_110003}.......Aww,
+what a cute child.{PAUSE}{EOM}{EOM}
+
+Message 53:
+{S_34015E}{FACE_11000A}Babies certainly are cute.
+I have grandchildren of my own...
+Of course, they're all grown now.{PAUSE}{EOM}{EOM}
+
+Message 54:
+{S_34015E}{FACE_11000A}Well well.
+What a cute doggie.
+Makes me feel better just looking at him.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+{S_34015E}{FACE_11000A}Maybe I should get a
+pet myself.
+.................{PAUSE}{EOM}{EOM}
+
+Message 56:
+{S_34015D}{FACE_110009}Some kind of seed?{PAUSE}{EOM}{EOM}
+
+Message 57:
+{S_34015F}Keep up the good work and
+grow lots of nice things.{PAUSE}{EOM}
+
+Message 58:
+{S_34015F}{FACE_11000A}Ooh.
+Is that from your farm?
+It looks nice and fresh.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 59:
+{S_34015E}I bet it's good for you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+{S_34015E}My my, that looks delicious...
+{FACE_11000A}Is it for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 61:
+{S_34015E}Yes, it looks just great.
+I love that kind of thing.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+{S_34015D}{FACE_110009}That looks like a good hoe.
+Well... To tell you the truth,
+I don't know the first thing about tools.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{S_34015F}{FACE_11000A}Going to do some work in your fields?
+That's nice.{PAUSE}{EOM}{EOM}
+
+Message 64:
+{S_34015F}I bet the more you use it, the easier it
+is to use, right?{PAUSE}{EOM}{EOM}
+
+Message 65:
+{S_34015D}{FACE_110009}That looks like a good sickle.
+Well... To tell you the truth,
+I don't know the first thing about tools.{PAUSE}{EOM}
+
+Message 66:
+{S_34015E}{FACE_110009}I probably don't have to tell you this,
+but it's dangerous to wave that around.{PAUSE}{EOM}
+
+Message 67:
+{S_34015E}{FACE_11000A}That looks like a good watering can.
+I use one for my bonsai trees, you know.
+If you use a good one, the trees know it.{PAUSE}{EOM}
+
+Message 68:
+{S_34015D}{FACE_110009}That certainly does have a rare shape,
+doesn't it?
+Is that an unusual type of watering can?{PAUSE}{EOM}
+
+Message 69:
+{S_34015D}Oh, that's a brand new watering can.
+Are you going to start growing
+bonsai trees yourself?{PAUSE}{EOM}{EOM}
+
+Message 70:
+{S_34015F}The world of bonsai is a complicated one,
+but don't worry. I'll teach you everything
+you need to know.{PAUSE}{WIPE}
+Not for bonsai, you say?
+It's such a nice watering can, why
+don't you start raising bonsai anyway?{PAUSE}{EOM}
+
+Message 71:
+{S_34015E}That watering can has seen some use.
+But the watering can I use for my bonsai
+trees is even older.{PAUSE}{EOM}{EOM}
+
+Message 72:
+{S_34015F}{FACE_11000A}What do you think?
+Don't you want to start raising bonsai?
+Or have you already started?{PAUSE}{EOM}
+
+Message 73:
+{S_34015E}{FACE_11000A}That certainly was used a lot.
+That could give the watering can that I
+use for my bonsai a run for its money.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+{S_34015E}{FACE_11000A}That sure is old.
+But I bet it's easy to use, eh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+{S_34015D}{FACE_110009}What in the world is that?{PAUSE}{EOM}{EOM}
+
+Message 76:
+{S_34015E}What? For milking cows? We had something
+like that in my day. Called 'em “hands.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+{S_34015D}{FACE_110009}Are those clippers?
+Be careful where you point those things.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+{S_34015E}{FACE_110009}They're not dangerous?
+Well, I guess it's OK then...
+But be careful with those anyway.{PAUSE}{EOM}{EOM}
+
+Message 79:
+{S_34015F}New tools can be hard to use
+until you get used to them, can't they?
+Well, you'll break it in soon enough.{PAUSE}{EOM}{EOM}
+
+Message 80:
+{S_34015F}When it gets old like me, I'm sure it'll
+be much easier to use.{PAUSE}{EOM}
+
+Message 81:
+{S_34015E}You've used that a bit, I see.
+Has it gotten easier to use compared to
+when it was new?{PAUSE}{EOM}
+
+Message 82:
+{S_34015F}If you use your tools well, your
+work should go more smoothly.{PAUSE}{EOM}{EOM}
+
+Message 83:
+{S_34015E}{FACE_11000A}My, my, you've used that
+a great deal. It's quite old.
+It reminds me of my life.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+{S_34015E}{FACE_11000A}Now that you've used it for so long,
+I bet you're like old friends.
+It must be very easy to use, eh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{S_34015E}{FACE_110009}I'm not very interested
+in stones.
+Don't know a thing about 'em.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+{S_34015E}{FACE_110009}I'm sorry.
+I don't know anything about stones.
+Is that worth something?{PAUSE}{EOM}
+
+Message 87:
+{S_34015D}{FACE_11000A}Ooh.
+That's pretty impressive.{PAUSE}{EOM}{EOM}
+
+Message 88:
+{S_34015E}{FACE_110009}Where did you find something like that?
+That certainly is strange looking,
+yes indeed.{PAUSE}{EOM}{EOM}
+
+Message 89:
+{S_34015D}Oh, a wild plant from around here.
+I've heard that they have some
+mysterious properties, you know.{PAUSE}{EOM}{EOM}
+
+Message 90:
+{S_34015E}{FACE_110009}But I've never eaten a wild plant
+so I don't really know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+{S_34015D}{FACE_110009}What's that? A black dinner plate?
+But it's got a hole in it!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 92:
+{S_34015E}I don't need any plates, thank you.
+{S_34015D}Maybe you should serve it up back at home.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+{S_34015D}{FACE_110009}What's that?
+some kind of seasoning?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+{S_34015E}Are you going to use that to make
+some delicious food for me?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+{S_3400DA}{S_3205DC}{S_34015D}...Well, that's an unusual sound.{PAUSE}{EOM}
+
+Message 96:
+{S_3400DA}{S_3205DC}{S_34015E}A very mellow tone indeed.
+Where did you get it?{PAUSE}{EOM}{EOM}
+
+Message 97:
+{S_34015D}{FACE_110009}Is that...some kind of medal?
+I think I've seen it somewhere before...{PAUSE}{EOM}{EOM}
+
+Message 98:
+{S_34015E}I don't have any interest in
+medals, young un'.{PAUSE}{EOM}
+
+Message 99:
+{S_34015E}A necklace, eh?
+Not exactly my style, don't you think? {PAUSE}{EOM}
+
+Message 100:
+{S_34015E}It might look good on Nina, though.{PAUSE}{EOM}
+
+Message 101:
+{FACE_110007}I'm sure...
+it would have looked wonderful on Nina.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+{S_34015D}{FACE_110009}Is that a book of some kind?
+My eyes fail me. I can't read it at all.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+{S_34015E}Oh, is it sheet
+music? I've heard of that.{PAUSE}{EOM}{EOM}
+
+Message 104:
+{S_34015D}{FACE_110004}W-w-what do you think you're doing
+with that bomb?! Are you crazy?{PAUSE}{EOM}{EOM}
+
+Message 105:
+{S_34015D}{FACE_110004}Oh, fireworks, eh?
+...Don't do that.
+I thought the ol' ticker was gonna stop.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 106:
+{S_34015E}Is that for me?
+No, no. I couldn't.
+But thank you for thinking of me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 107:
+Hmm?
+Is that a present for someone?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+{S_34015F}We used to live in the city, but
+I came here to enjoy my retirement with
+my wife, Nina.{PAUSE}{EOM}
+
+Message 109:
+{S_34015E}Why did she have to
+die before me....?{PAUSE}{EOM}{EOM}
+
+Message 110:
+{S_34015E}I came here to live with my
+wife Nina, but...
+Now I live alone next to her grave.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 111:
+{S_34015E}It was like a dream, living with her.
+Once it was just the two of us again,
+we had so much fun.{PAUSE}{WIPE}
+Now I just wait to be
+reunited with her.
+How much longer will it be?{PAUSE}{EOM}{EOM}
+
+Message 112:
+{S_34015F}{FACE_110003}That thing you gave me
+sure was delicious.
+Thank you, thank you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 113:
+That thing you gave me...
+was quite good...
+Thank you...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 114:
+{S_34015E}{FACE_110009}About that thing you gave me...
+To tell you the truth, I just can't abide
+that sort of thing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 115:
+{S_34015E}{FACE_110009}.......About that thing you gave me...
+.......I'm sorry, but it wasn't very good.
+........But thanks anyway.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 116:
+{S_34015E}{FACE_110009}The {VAR_00} you gave me
+wasn't quite as good as I hoped
+but I guess I shouldn't complain...{PAUSE}{EOM}{EOM}
+
+Message 117:
+{S_34015F}{FACE_11000A}The {VAR_00} you gave me
+was quite good.
+I'd be glad to take some more.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 118:
+{S_34015F}{FACE_110003}The {VAR_00} you gave me
+was the best I've had in my whole life.
+and that's a long time.{PAUSE}{EOM}{EOM}
+
+Message 119:
+{S_34015F}{FACE_110003}The {VAR_00} you gave me
+is one of my favorites.
+Thank you very much.{PAUSE}{EOM}
+
+Message 120:
+{S_34015E}{S_34015E}I don't know anything about
+milk, but I'm afraid the kind you gave me
+just didn't agree with me.{PAUSE}{EOM}
+
+Message 121:
+{S_34015F}{FACE_11000A}I don't know anything about
+milk, but the milk you gave me was just
+so-so.{PAUSE}{EOM}{EOM}
+
+Message 122:
+{S_34015F}{FACE_11000A}I don't know anything about
+milk, but the milk you gave me was
+quite tasty.{PAUSE}{EOM}
+
+Message 123:
+{S_34015F}{FACE_110003}That milk you gave me
+was incredibly tasty.
+Thank you so much!{PAUSE}{EOM}{EOM}
+
+Message 124:
+{S_34015E}{S_34015E}I don't know anything about
+milk, but I'm afraid the kind you gave me
+smelled a little funny.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+{S_34015F}{FACE_11000A}I don't know anything about milk, but
+the milk you gave me was quite good.
+Well, maybe a little smelly.{PAUSE}{EOM}
+
+Message 126:
+{S_34015F}{FACE_11000A}I don't know anything about
+cheese, but the cheese you gave me was
+good. Thanks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 127:
+{S_34015F}You made the cheese you gave
+me, didn't you?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+{S_34015F}{FACE_11000A}I don't know anything about
+butter, but the butter you gave me was
+quite tasty.{PAUSE}{EOM}
+
+Message 129:
+{S_34015F}You made the butter you gave
+me, didn't you?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+{S_34015F}{FACE_110003}The {VAR_00} you gave me
+was truly delicious.
+Thank you.{PAUSE}{EOM}{EOM}
+
+Message 131:
+{S_34015F}{FACE_11000A}That dish you gave me
+was quite good.
+Thank you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+{S_34015F}{FACE_110003}You seem to be working hard every day.
+Well done.
+You're a real farmer now.{PAUSE}{EOM}
+
+Message 133:
+................
+You're doing well......
+Good job........{PAUSE}{EOM}{EOM}
+
+Message 134:
+{S_34015F}{FACE_110003}People say you are excellent at
+growing crops. That's just great.
+Keep up the good work.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 135:
+{S_34015F}{FACE_110003}I hear that you're quite a cook.
+That's great.
+There's more to life than tilling soil.{PAUSE}{EOM}{EOM}
+
+Message 136:
+{S_34015F}{FACE_11000A}You're working hard
+and you seem more mature than before.
+You look at peace with yourself.{PAUSE}{EOM}{EOM}
+
+Message 137:
+..............
+You seem to be working hard...
+Good job...{PAUSE}{EOM}{EOM}
+
+Message 138:
+{S_34015F}{FACE_11000A}You're working hard at growing crops.
+I can tell that by looking at your hands.
+Farming is a noble profession.{PAUSE}{EOM}{EOM}
+
+Message 139:
+{S_34015F}{FACE_11000A}I hear you often cook at home.
+Everyone says your food is quite good.
+That's wonderful.{PAUSE}{EOM}
+
+Message 140:
+{S_34015E}It looks like you've settled in to life
+on the farm, but you've got a lot ahead
+of you. You're young. You'll do fine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 141:
+{S_34015E}...............I guess you have your
+whole life ahead of you.
+You're still young. You'll be fine...{PAUSE}{EOM}
+
+Message 142:
+{S_34015E}It looks like you've gotten used to
+growing crops. You're still young, so you
+should do what you think you're good at.{PAUSE}{EOM}{EOM}
+
+Message 143:
+{S_34015E}It looks like you've gotten used to
+cooking. You're still young, so you
+should do what you think you're good at.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+{S_34015F}About my bonsai trees...
+Well, are you interested in them?
+{CHOICE2 DEF1}
+Sure I am.
+Not at all.{EOM}
+
+Message 145:
+{S_34015F}{FACE_110003}I knew it!
+That's good. Yes, very good.{PAUSE}{WIPE}
+Raising bonsai trees is a lot
+like farming, so I'm sure you
+would be good at it.{PAUSE}{EOM}{EOM}
+
+Message 146:
+{S_34015D}{FACE_110007}I see...
+That's too bad. But I'm sure you'll
+get interested in them sooner or later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 147:
+{S_34015F}{FACE_11000A}Bonsai are great.
+You can enjoy them all year round. I
+forget about the time when I'm with them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 148:
+{S_34015E}{FACE_11000A}Yes, bonsai are great all right.
+Fishing is good too, but it's no
+match for bonsai.{PAUSE}{EOM}
+
+Message 149:
+{S_34015F}Whenever I'm in a bad mood
+it's usually because my bonsai aren't
+doing well.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+{S_34015E}I've been drinking. To an old person
+like me, it's almost a kind of medicine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+{S_34015F}{FACE_11000A}My favorite is the {C13}Cherry Pink{C17}.
+Although it would be even nicer if
+Muffy would make it for me...{PAUSE}
+{S_34015F}{FACE_11000A}Well, have fun drinking.
+I'm sure Griffin will appreciate it.
+And I like a man who can hold his drink.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 152:
+I'm sure Griffin will appreciate it.
+And I like a woman who can hold her drink.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+{S_34015F}{FACE_11000A}Well, have fun.
+...But there's not much here, is there?{PAUSE}{EOM}
+
+Message 154:
+{S_34015D}{FACE_11000A}Don't you get bored
+in a place like this?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 155:
+{S_34015E}{FACE_11000A}I sometimes go out, too,
+you know.
+Not very often, though...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+{S_34015F}{FACE_11000A}I like it here, too.
+Just taking a little rest.{PAUSE}{EOM}
+
+Message 157:
+{S_34015E}{FACE_11000A}...At this time of year I always
+remember when Nina and I first came
+To Forget-Me-Not Valley...{PAUSE}{WIPE}
+The flowers were blooming prettily
+then, too...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 158:
+{S_34015F}{FACE_11000A}I feel so good at this time of year.
+All fresh and new.{PAUSE}{EOM}
+
+Message 159:
+{S_34015F}{FACE_11000A}Do you like fishing? You can do it
+all year round, you know. It's great.
+Well, not as good as bonsai, though...{PAUSE}{EOM}
+
+Message 160:
+{S_34015F}{FACE_11000A}I've been here quite a while,
+but I still like it here. Maybe you
+should go fishing. Enjoy yourself.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 161:
+{S_34015E}My, it's hot.
+But it's still a lot better than
+in the city...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+{S_34015E}Feel free to stop by and see
+my bonsai trees anytime.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 163:
+{S_34015F}{FACE_11000A}There are so many good
+foods this time of year. Wild plant
+dishes, sashimi -- they're all delicious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 164:
+{S_34015F}{FACE_11000A}The scenery is so pretty and it's
+so nice and cool this time of year...
+Even my bonsai seem healthier.{PAUSE}{EOM}{EOM}
+
+Message 165:
+{S_34015E}It's a little chilly.
+Take care now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 166:
+{S_34015E}Stop by my house any time
+if you want to see my bonsai trees.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 167:
+{S_34015E}You know, my wife Nina, she...
+I was with her for so long, but she was
+still the best woman I ever met.{PAUSE}{EOM}
+
+Message 168:
+Nina was always so warm and kind.
+She would always look after me.
+A fine woman, yes indeed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 169:
+{S_34015E}You know, my wife Nina, she...
+Well, she was so beautiful when she was{PAUSE}{WIPE}
+younger that I thought she was an angel
+from heaven when I first saw her...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+I went to great lengths to woo
+her when we were going out...
+Even had a few fights with my rivals.{PAUSE}{WIPE}
+To tell you the truth, I lost.
+But for some reason, Nina decided
+to choose me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 171:
+{S_34015E}It seems so long ago...
+A lot happened after Nina and
+I got married...{PAUSE}{WIPE}
+I wasn't always the easiest man to live
+with, but Nina always stuck by
+me.{PAUSE}{WIPE}
+I never thought we would be parted
+like this...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 172:
+{S_34015E}It all happened so long ago, but...
+when I decided to come here,{PAUSE}{WIPE}
+Nina said “I'll follow you wherever
+you go.”{PAUSE}{EOM}
+
+Message 173:
+{S_34015E}{FACE_110007}I'll have to tell my son and grandchildren
+in the city about Nina...
+They'll be so sad...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 174:
+{S_34015E}{FACE_110007}'Til the very last,
+Nina was worried about me. “Will you be
+all right by yourself?” she asked.{PAUSE}{EOM}{EOM}
+
+Message 175:
+{S_34015F}Drinking?
+I see. I drink strictly for
+medicinal purposes. Yes...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 176:
+{S_34015D}{FACE_110007}...............
+I miss Nina's cooking...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 177:
+{S_34015F}{FACE_11000A}Hello there.
+Dr Hardy and I were just having a lively
+conversation about bonsai trees.{PAUSE}{EOM}{EOM}
+
+Message 178:
+{S_34015F}{FACE_11000A}What do you think?
+Bonsai are great, I tell you.
+They're cute and so complex...{PAUSE}{EOM}
+
+Message 179:
+{S_34015F}{FACE_11000A}Oh, did you come to visit
+Nina's grave?
+Would you mind cleaning her gravestone?
+{CHOICE2 DEF1}
+Of course.
+No thanks.{EOM}
+
+Message 180:
+{S_34015F}{FACE_110003}All right.
+Go right ahead.{PAUSE}{EOM}{EOM}
+
+Message 181:
+{S_34015E}I see.
+Come back if you change your mind.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+{FACE_11000A}I'm sure Nina would be happy
+if you helped clean her grave.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+{S_34015F}Do you like fishing?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 184:
+{S_34015F}{FACE_11000A}Well then, let me give you this.
+It's my favorite fishing rod...
+Too busy with my bonsai to fish, you see.{PAUSE}{EOM}{EOM}
+
+Message 185:
+{S_34015E}Really? Well, it doesn't matter. I'll give
+you this anyway. My favorite fishing rod.
+Too busy with my bonsai to fish, you see.{PAUSE}{EOM}{EOM}
+
+Message 186:
+{S_34015F}Oh, really?
+I'm sorry, but maybe some other time.
+I'm a little busy now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+Where are you off to in this weather?{PAUSE}{EOM}{EOM}
+
+Message 188:
+Must be tough working on the
+farm in this weather...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+It's almost my bedtime...{PAUSE}{EOM}{EOM}
+
+Message 190:
+I'm going to bed now.
+Could you be on your way?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 191:
+Well, I'm off to bed...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 192:
+I'm going to be going out soon...{PAUSE}{EOM}{EOM}
+
+Message 193:
+I'm going out now...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 194:
+Well, goodbye...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+The sea never changes...
+Right, Nina...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 196:
+Do you remember?
+It was about this time of year
+that I proposed to you...{PAUSE}{EOM}{EOM}
+
+Message 197:
+I was so nervous that I couldn't say
+anything, so you just took my hand
+gently...{PAUSE}{EOM}{EOM}
+
+Message 198:
+Ever since then, your hands{PAUSE}{WIPE}
+always... always
+supported me, didn't they...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 199:
+Nina... I'm sorry I couldn't
+do anything to help you...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 200:
+{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

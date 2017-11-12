@@ -1,0 +1,544 @@
+Message 0:
+Oh, it's you.{S_3203E8}
+You came just at the right time.{PAUSE}{WIPE}
+Would you like to have these
+clippers?{PAUSE}{WIPE}
+{HUGH} is more conscious of his
+appearance and won't let me use them.{PAUSE}{WIPE}
+But I thought they might come in
+handy on your farm.{PAUSE}{EOM}{EOM}
+
+Message 1:
+Use them well.
+Bye.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+Hmm. Not a bad time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+You're certainly fast. It's important
+to keep your knees up, though.{PAUSE}{WIPE}
+Pretty soon {HUGH} will
+have himself quite a competitor.
+Keep practicing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+The three of us were just talking about
+having a race.{PAUSE}{EOM}
+
+Message 5:
+We'd like you to be the starter.{S_3207D0}
+OK, we really
+appreciate your help.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+Well, Hugh... pant pant...{S_3203E8}
+trains... every day... pant pant...{S_3203E8}
+But to be able...to keep up with {HUGH}...{S_3203E8}{PAUSE}
+You must be quite a runner too...
+Whew....{S_3203E8} Pretty impressive... Pant pant...{S_3203E8}
+I'm getting too old for this...Pant...{PAUSE}{EOM}{EOM}
+
+Message 7:
+No... pant pant.... Seriously...{S_3203E8}
+I'd be happy to be your coach... pant....
+Do you think you would{S_3203E8}{PAUSE}
+want to play... pant... sports with {HUGH}?
+There are so many new sports around...{S_3203E8}
+I bet you'd have a chance... at a medal.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+I like the {VAR_00}, but
+how much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}
+
+Message 9:
+{FACE_0B000A}Really?!
+{FACE_0B0000}That's pretty good...{PAUSE}{EOM}
+
+Message 10:
+OK, I guess I'll take it.{PAUSE}{EOM}{EOM}
+
+Message 11:
+That's a little expensive.
+Well, OK.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+I see...
+OK then...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+I'll take the {VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}{EOM}
+
+Message 14:
+{S_340143}Hi, how're you doing?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+{S_340143}Hey there! Good morning!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{S_340143}Hello.
+How are you feeling today?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+You're out late.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 18:
+{S_340143}Welcome.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Oh, that's one of my favorites.
+Is it for me?{CHOICE Y/N DEF0}{EOM}
+
+Message 20:
+{FACE_0B000A}Well, thanks very much.{FACE_0B0000}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{FACE_0B0004}Then don't show it to me.{PAUSE}{EOM}{EOM}
+
+Message 22:
+Ooh! That looks good!
+Could I have it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+That looks good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+That's something nice there.
+Are you giving it to me?
+{CHOICE2 DEF1}
+Give it to him.
+Don't give it to him.{EOM}{EOM}
+
+Message 25:
+{FACE_0B000A}All right! Thanks a lot.
+{FACE_0B0000}I'll treasure it.{PAUSE}{EOM}
+
+Message 26:
+{FACE_0B0002}Why you!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 27:
+That's very nice.
+You not going to give it to me, are you?
+{CHOICE2 DEF1}
+It's yours.
+Of course not.{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+{FACE_0B0009}Eww. Get that away from me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+What a cute child.
+The spitting image of {PETE}. I'd be glad
+to train him when he's older.{PAUSE}{EOM}
+
+Message 30:
+Come and run with me!
+Maybe it's a little too early, huh?{PAUSE}{EOM}{EOM}
+
+Message 31:
+My son Hugh would be glad to
+race your child in a few years.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+What a cute dog.
+Want to race, doggie?{PAUSE}{EOM}
+
+Message 33:
+That's a cute dog, all right.{PAUSE}{EOM}{EOM}
+
+Message 34:
+I'm not very fond of cats.
+I wonder if he could run faster than me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 35:
+...........{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+Cute chick.
+Want to race? What?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+Cute chick.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+Forget about the chicken,
+bring me the eggs.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+Ducks are slow runners, so I don't
+think it would be much of a contest.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+I don't know much about plants, but
+that's some kind of seed, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+Is that a crop from your farm?
+If it's fresh, I'd be glad to take it.
+If it's OK with you, that is.{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 42:
+Could I have that?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+Fresh vegetables are good for you.{PAUSE}{EOM}
+
+Message 44:
+Wild plants are good for you. Good fiber.{PAUSE}{EOM}{EOM}
+
+Message 45:
+Oh, that's one of those wild plants.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+Did you make this yourself?
+It looks good.{PAUSE}{EOM}
+
+Message 47:
+So you cook, too?{PAUSE}{EOM}{EOM}
+
+Message 48:
+It looks very good, but I wonder how many
+calories it has?{PAUSE}{EOM}
+
+Message 49:
+I don't know much about farming, but I
+think that's a hoe, right?{PAUSE}{EOM}{EOM}
+
+Message 50:
+What are you doing with that hoe?{PAUSE}{EOM}{EOM}
+
+Message 51:
+I don't know much about farming, but I
+think that's a sickle, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 52:
+What are you doing with that sickle?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+We don't have a garden at my house
+so we don't need those.{PAUSE}{EOM}
+
+Message 54:
+Those are the clippers I gave you.
+Do you like them?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 55:
+{FACE_0B000A}That's good.{FACE_0B0000}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+{FACE_0B0009}Oh, I see...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+A lot of memories in those clippers...{PAUSE}{EOM}
+
+Message 58:
+You can't train with something like that.{PAUSE}{EOM}{EOM}
+
+Message 59:
+I don't know much about tools
+like that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+Those grow all along my
+jogging course...{PAUSE}{EOM}{EOM}
+
+Message 61:
+Oh!
+Are you going to be participating in
+the discus throw?{PAUSE}{EOM}
+
+Message 62:
+That seems a little light
+for throwing, though...{PAUSE}{EOM}{EOM}
+
+Message 63:
+Is that some kind of seasoning?
+I wonder if it's good for you.{PAUSE}{EOM}
+
+Message 64:
+That's the medal I used to
+have.
+Take good care of it.{PAUSE}{EOM}
+
+Message 65:
+That medal is the result of my sweat and
+tears. Don't sell it or anything.{PAUSE}{EOM}
+
+Message 66:
+When I look at that I remember the past.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+What is that anyway?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+Forget-Me-Not Valley is nice and
+big. Perfect for running. You don't have
+to worry about bumping into people.{PAUSE}{WIPE}
+I'm a marathon coach for a company in the
+city, so it would really be more
+convenient for us to live there.{PAUSE}{WIPE}
+But I wanted to be able to run somewhere
+like this, so we moved here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+You know, I used to be kind
+of famous a long time ago.
+As a pro athlete, of course...{PAUSE}{WIPE}
+But I injured my leg during
+a race and...
+So now I'm a coach, you see?{PAUSE}{EOM}
+
+Message 70:
+What do you think about Hugh?
+He's a pretty fast runner, don't you
+think? I know he's got talent.{PAUSE}{WIPE}
+I'll make him into a top-class athlete
+if it kills me.{PAUSE}{EOM}
+
+Message 71:
+•••••{PAUSE}{EOM}{EOM}
+
+Message 72:
+I heard {VAR_00} from Mineral Town
+has walked one million paces, but I've
+run at least that much.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 73:
+That thing you gave me was
+really delicious.
+I'd love some more sometime.{PAUSE}{EOM}{EOM}
+
+Message 74:
+The {VAR_00} you gave me was
+good. I'm sure it's good for you, too.
+No, really.{PAUSE}{EOM}{EOM}
+
+Message 75:
+That milk you gave me seemed like
+it was really nutritious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+That fish you caught was
+fair.{PAUSE}{EOM}
+
+Message 77:
+That wild plant you gave me tasted
+all right.{PAUSE}{EOM}{EOM}
+
+Message 78:
+That food you gave me was...
+Well, I don't know how to describe it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+You look different somehow...
+Like a real farmer...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+Raising crops is difficult, but you're
+doing well.
+And you look quite fit.{PAUSE}{EOM}
+
+Message 81:
+Do you like running?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 82:
+I thought so...
+You look pretty fast.{PAUSE}{EOM}{EOM}
+
+Message 83:
+That's can't be true, can it?
+I've seen you run around this
+area many times.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+When you get tired from running,
+you have to take little breaks.
+And don't forget to eat right.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+I jog with my son every day,
+so if you like you can join us.
+It feels good, you know!{PAUSE}{EOM}{EOM}
+
+Message 86:
+Running is good for you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+You've got to sweat to be a real athlete.
+{FACE_0B000A}{S_340142}Ha ha ha...{FACE_0B0000}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+Recently my running pace has
+gotten slower.
+Maybe it's my age...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+It's strange... Recently I feel like
+the weights on my training machines and
+dumbbells are disappearing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+Nobody would want to steal a
+dumbbell weight, would they?{PAUSE}{EOM}{EOM}
+
+Message 91:
+If you don't have weights on your
+barbells, there's no point in training.{PAUSE}{EOM}{EOM}
+
+Message 92:
+I like to come here sometimes.{PAUSE}{EOM}
+
+Message 93:
+Maybe it's not so good for you though.{PAUSE}{EOM}
+
+Message 94:
+Don't touch the machines or devices
+around here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+{FACE_0B000A}Are you sweating, my friend?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 96:
+It's important keep up your
+training every day.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+This time of year is perfect for running.{PAUSE}{EOM}{EOM}
+
+Message 98:
+Sweating while you exercise is
+good for you.
+And it feels good, too!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+This time of year is a little hot
+for running.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+I love running at this time of year,
+with the autumn leaves, and all.{PAUSE}{EOM}{EOM}
+
+Message 101:
+When it's this cold, you've got to
+go running to warm yourself up.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+The snow doesn't accumulate
+around here, so it's great
+for running.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+I'm training at the moment.
+Pant, pant... Could you talk to me later?{PAUSE}{EOM}{EOM}
+
+Message 104:
+If I talk while I'm running, pant...
+I'll mess up my breathing rhythm, pant...{PAUSE}{EOM}
+
+Message 105:
+{FACE_0B0004}I'm training at the moment... pant...
+Could you...pant... talk to me later?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+The old man who lives here may be
+stubborn, but he's a good husband.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 107:
+Don't you think that this room
+makes you relaxed? It's like... I don't
+know, it calms me down somehow.{PAUSE}{EOM}
+
+Message 108:
+Stopping by places like this to
+relax is an important part of
+any training regime.{PAUSE}{EOM}
+
+Message 109:
+To a top athlete, maintaining your
+health is almost as important as training.
+So I sometimes get a checkup like this.{PAUSE}{EOM}{EOM}
+
+Message 110:
+For an athlete, having a doctor
+so close by is really very
+convenient.{PAUSE}{EOM}
+
+Message 111:
+Shouldn't you get an examination
+yourself?{PAUSE}{EOM}
+
+Message 112:
+{TATSUYA}, how are you?
+{FACE_0B0009}My Hugh doesn't seem to want to
+listen to me these days...{PAUSE}{WIPE}
+I guess he's in a rebellious stage.{PAUSE}{EOM}{EOM}
+
+Message 113:
+Hugh always used to be so good about
+doing what I told him, but recently he's
+been skipping his training.{PAUSE}{WIPE}
+{FACE_0B0009}I wonder why...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+Children can be difficult, can't they?{PAUSE}{EOM}
+
+Message 115:
+{PETE}, I've got something
+for you. I got this medal
+when I won a race long ago.{PAUSE}{WIPE}
+You may think its strange, but please
+take it. I'd like to forget
+my past. Please...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 116:
+Thank you.
+But I'll have to pass right now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+You can't skip your training just because
+of the rain.{PAUSE}{EOM}
+
+Message 118:
+On days like this I miss asphalt
+roads.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 119:
+{PETE},
+you've gone to your eternal rest.{PAUSE}{WIPE}
+Leave {TATSUYA} to me.
+I may not be able to replace you, but
+I'll do my best to be a good role model.{PAUSE}{EOM}
+
+Message 120:
+{GRIFFIN},
+how about a song?{PAUSE}{EOM}{EOM}
+
+Message 121:
+I'm getting kind of sleepy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 122:
+It's time for me to go to bed.
+Could you be going home now?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+Good night.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+I have to be leaving soon.{PAUSE}{EOM}
+
+Message 125:
+I have to go out now,
+so I'll see you later.{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+Well, goodbye.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}
+

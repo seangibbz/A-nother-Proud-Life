@@ -1,0 +1,1153 @@
+Message 0:
+Spring{EOM}{EOM}
+
+Message 1:
+Summer{EOM}{EOM}
+
+Message 2:
+Fall{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+Winter{EOM}{EOM}
+
+Message 4:
+The Beginning{EOM}{EOM}{EOM}
+
+Message 5:
+A New Family{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+The Harvest{EOM}
+
+Message 7:
+Farm Life{EOM}{EOM}{EOM}
+
+Message 8:
+A Journey{EOM}{EOM}{EOM}
+
+Message 9:
+Twilight{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+Heaven{EOM}{EOM}
+
+Message 11:
+All{EOM}
+
+Message 12:
+Food{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+Seeds{EOM}{EOM}{EOM}
+
+Message 14:
+Crops{EOM}{EOM}{EOM}
+
+Message 15:
+Dairy{EOM}{EOM}{EOM}
+
+Message 16:
+Tools{EOM}{EOM}{EOM}
+
+Message 17:
+Other{EOM}{EOM}{EOM}
+
+Message 18:
+New Game{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Continue{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+Normal Bull{EOM}
+
+Message 21:
+Normal Cow{EOM}{EOM}
+
+Message 22:
+Star Bull{EOM}{EOM}{EOM}
+
+Message 23:
+Star Cow{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+Brown Bull{EOM}{EOM}
+
+Message 25:
+Brown Cow{EOM}{EOM}{EOM}
+
+Message 26:
+Marble Bull{EOM}
+
+Message 27:
+Marble Cow{EOM}{EOM}
+
+Message 28:
+Cow{EOM}
+
+Message 29:
+Sheep{EOM}{EOM}{EOM}
+
+Message 30:
+Goat{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+Rooster{EOM}
+
+Message 32:
+Hen{EOM}
+
+Message 33:
+Chicken{EOM}
+
+Message 34:
+Chick{EOM}{EOM}{EOM}
+
+Message 35:
+Duck{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+Duckling{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+Yes
+No{EOM}{EOM}
+
+Message 38:
+{GOLD_0005}{EOM}
+
+Message 39:
+{VAR_00} {VAR_01}{EOM}{EOM}{EOM}
+
+Message 40:
+{GOLD_0008}{EOM}
+
+Message 41:
+{GOLD_0008}{EOM}
+
+Message 42:
+{GOLD_0007}{EOM}
+
+Message 43:
+{GOLD_0006}{EOM}
+
+Message 44:
+{GOLD_0005}{EOM}
+
+Message 45:
+{GOLD_0004}{EOM}
+
+Message 46:
+{VAR_00}{EOM}{EOM}
+
+Message 47:
+{VAR_00}{EOM}{EOM}
+
+Message 48:
+{VAR_00}♀{EOM}
+
+Message 49:
+♂{EOM}{EOM}{EOM}
+
+Message 50:
+♀{EOM}{EOM}{EOM}
+
+Message 51:
+{VAR_00} {GOLD_0000}G{EOM}
+
+Message 52:
+Year {VAR_00} {GOLD_0000}{EOM}
+
+Message 53:
+{VAR_00}{EOM}{EOM}
+
+Message 54:
+{GOLD_0002}{EOM}
+
+Message 55:
+Day{EOM}
+
+Message 56:
+AM{EOM}{EOM}
+
+Message 57:
+PM{EOM}{EOM}
+
+Message 58:
+{GOLD_0001}{GOLD_0101}{EOM}{EOM}
+
+Message 59:
+{GOLD_0003}{EOM}
+
+Message 60:
+x{GOLD_0002}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+{?_18AE}x{EOM}
+
+Message 62:
+{?_182A}{GOLD_0000}{EOM}{EOM}{EOM}
+
+Message 63:
+G{EOM}{EOM}{EOM}
+
+Message 64:
+{C16}{EOM}{EOM}{EOM}{FF}C{C17}{EOM}
+
+Message 65:
+{C16}{FF}{EOM}{EOM}{FF}B{C17}{EOM}
+
+Message 66:
+{C16}{EOM}{EOM}{FF}{FF}A{C17}{EOM}
+
+Message 67:
+{C16}{FF}{EOM}{FF}{FF}S{C17}{EOM}
+
+Message 68:
+{C13}●{C17}{EOM}
+
+Message 69:
+{C15}●{C17}{EOM}
+
+Message 70:
+{VAR_00} {VAR_01}{VAR_02}{VAR_03}{EOM}{EOM}{EOM}
+
+Message 71:
+{VAR_00} {VAR_01}{EOM}{EOM}{EOM}
+
+Message 72:
+{VAR_00} x{GOLD_0000}{EOM}
+
+Message 73:
+???????{EOM}
+
+Message 74:
+Miracle Potion{EOM}{EOM}
+
+Message 75:
+Tools{EOM}{EOM}{EOM}
+
+Message 76:
+Other{EOM}{EOM}{EOM}
+
+Message 77:
+Farm's Bull{EOM}
+
+Message 78:
+Other Bull{EOM}{EOM}
+
+Message 79:
+Salad{EOM}{EOM}{EOM}
+
+Message 80:
+Hors d'oeuvre{EOM}{EOM}{EOM}
+
+Message 81:
+Main Dish{EOM}{EOM}{EOM}
+
+Message 82:
+Soup{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+Dessert{EOM}
+
+Message 84:
+Terrible{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+Bad{EOM}
+
+Message 86:
+Average{EOM}
+
+Message 87:
+Good{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+Great{EOM}{EOM}{EOM}
+
+Message 89:
+ {C13}Spring{C17}{EOM}{EOM}{EOM}
+
+Message 90:
+ {C13}Summer{C17}{EOM}{EOM}{EOM}
+
+Message 91:
+ {C13}Fall{C17}{EOM}
+
+Message 92:
+ {C13}Winter{C17}{EOM}{EOM}{EOM}
+
+Message 93:
+•{EOM}{EOM}{EOM}
+
+Message 94:
+ERROR{EOM}{EOM}{EOM}
+
+Message 95:
+ERROR{EOM}{EOM}{EOM}
+
+Message 96:
+ERROR{EOM}{EOM}{EOM}
+
+Message 97:
+ERROR{EOM}{EOM}{EOM}
+
+Message 98:
+ERROR{EOM}{EOM}{EOM}
+
+Message 99:
+ERROR{EOM}{EOM}{EOM}
+
+Message 100:
+ERROR{EOM}{EOM}{EOM}
+
+Message 101:
+ERROR{EOM}{EOM}{EOM}
+
+Message 102:
+ERROR{EOM}{EOM}{EOM}
+
+Message 103:
+ERROR{EOM}{EOM}{EOM}
+
+Message 104:
+ERROR{EOM}{EOM}{EOM}
+
+Message 105:
+ERROR{EOM}{EOM}{EOM}
+
+Message 106:
+ERROR{EOM}{EOM}{EOM}
+
+Message 107:
+ERROR{EOM}{EOM}{EOM}
+
+Message 108:
+ERROR{EOM}{EOM}{EOM}
+
+Message 109:
+ERROR{EOM}{EOM}{EOM}
+
+Message 110:
+ERROR{EOM}{EOM}{EOM}
+
+Message 111:
+     {EOM}{EOM}{EOM}
+
+Message 112:
+ERROR{EOM}{EOM}{EOM}
+
+Message 113:
+ERROR{EOM}{EOM}{EOM}
+
+Message 114:
+ERROR{EOM}{EOM}{EOM}
+
+Message 115:
+ERROR{EOM}{EOM}{EOM}
+
+Message 116:
+ERROR{EOM}{EOM}{EOM}
+
+Message 117:
+ERROR{EOM}{EOM}{EOM}
+
+Message 118:
+ERROR{EOM}{EOM}{EOM}
+
+Message 119:
+ERROR{EOM}{EOM}{EOM}
+
+Message 120:
+ERROR{EOM}{EOM}{EOM}
+
+Message 121:
+ERROR{EOM}{EOM}{EOM}
+
+Message 122:
+ERROR{EOM}{EOM}{EOM}
+
+Message 123:
+ERROR{EOM}{EOM}{EOM}
+
+Message 124:
+ERROR{EOM}{EOM}{EOM}
+
+Message 125:
+ERROR{EOM}{EOM}{EOM}
+
+Message 126:
+ERROR{EOM}{EOM}{EOM}
+
+Message 127:
+ERROR{EOM}{EOM}{EOM}
+
+Message 128:
+ERROR{EOM}{EOM}{EOM}
+
+Message 129:
+     {EOM}{EOM}{EOM}
+
+Message 130:
+A B C D E{EOM}{EOM}{EOM}
+
+Message 131:
+P Q R S T{EOM}{EOM}{EOM}
+
+Message 132:
+e f g h i{EOM}{EOM}{EOM}
+
+Message 133:
+t u v w x{EOM}{EOM}{EOM}
+
+Message 134:
+8 9 ♂ ♀ ?{EOM}{EOM}{EOM}
+
+Message 135:
+- ○ ' + ×{EOM}{EOM}{EOM}
+
+Message 136:
+F G H I J{EOM}{EOM}{EOM}
+
+Message 137:
+U V W X Y{EOM}{EOM}{EOM}
+
+Message 138:
+j k l m n{EOM}{EOM}{EOM}
+
+Message 139:
+y z 0 1 2{EOM}{EOM}{EOM}
+
+Message 140:
+! ☆ ★ & •{EOM}{EOM}{EOM}
+
+Message 141:
+< > ( ) ｢{EOM}{EOM}{EOM}
+
+Message 142:
+K L M N O{EOM}{EOM}{EOM}
+
+Message 143:
+Z a b c d{EOM}{EOM}{EOM}
+
+Message 144:
+o p q r s{EOM}{EOM}{EOM}
+
+Message 145:
+3 4 5 6 7{EOM}{EOM}{EOM}
+
+Message 146:
+♥ / ♪ . %{EOM}{EOM}{EOM}
+
+Message 147:
+｣ ‾ ✽    {EOM}{EOM}{EOM}
+
+Message 148:
+_{EOM}{EOM}{EOM}
+
+Message 149:
+Stereo{EOM}{EOM}
+
+Message 150:
+Mono{EOM}{EOM}{EOM}{EOM}
+
+Message 151:
+On{EOM}{EOM}
+
+Message 152:
+Off{EOM}
+
+Message 153:
+Sound{EOM}{EOM}{EOM}
+
+Message 154:
+Button Guide{EOM}{EOM}{EOM}{EOM}
+
+Message 155:
+Vibrate{EOM}
+
+Message 156:
+Rumble Feature{EOM}{EOM}
+
+Message 157:
+{VAR_00} {?_182A}{GOLD_0006}{?_1871}G{EOM}
+
+Message 158:
+{ITEM_8000}             {EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+{ITEM_8000}            {EOM}
+
+Message 160:
+{ITEM_8000}           {EOM}{EOM}
+
+Message 161:
+{ITEM_8000}          {EOM}{EOM}{EOM}
+
+Message 162:
+{ITEM_8000}         {EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+{ITEM_8000}        {EOM}
+
+Message 164:
+{ITEM_8000}       {EOM}{EOM}
+
+Message 165:
+{ITEM_8000}      {EOM}{EOM}{EOM}
+
+Message 166:
+{ITEM_8000}     {EOM}{EOM}{EOM}{EOM}
+
+Message 167:
+{ITEM_8000}    {EOM}
+
+Message 168:
+{ITEM_8000}   {EOM}{EOM}
+
+Message 169:
+{ITEM_8000}  {EOM}{EOM}{EOM}
+
+Message 170:
+{ITEM_8000} {EOM}{EOM}{EOM}{EOM}
+
+Message 171:
+{ITEM_8000}{EOM}
+
+Message 172:
+Tanya{EOM}{EOM}{EOM}
+
+Message 173:
+Liz{EOM}
+
+Message 174:
+ERROR{EOM}{EOM}{EOM}
+
+Message 175:
+ERROR{EOM}{EOM}{EOM}
+
+Message 176:
+ERROR{EOM}{EOM}{EOM}
+
+Message 177:
+ERROR{EOM}{EOM}{EOM}
+
+Message 178:
+ERROR{EOM}{EOM}{EOM}
+
+Message 179:
+ERROR{EOM}{EOM}{EOM}
+
+Message 180:
+ERROR{EOM}{EOM}{EOM}
+
+Message 181:
+ERROR{EOM}{EOM}{EOM}
+
+Message 182:
+ERROR{EOM}{EOM}{EOM}
+
+Message 183:
+ERROR{EOM}{EOM}{EOM}
+
+Message 184:
+ERROR{EOM}{EOM}{EOM}
+
+Message 185:
+ERROR{EOM}{EOM}{EOM}
+
+Message 186:
+ERROR{EOM}{EOM}{EOM}
+
+Message 187:
+ERROR{EOM}{EOM}{EOM}
+
+Message 188:
+ERROR{EOM}{EOM}{EOM}
+
+Message 189:
+ERROR{EOM}{EOM}{EOM}
+
+Message 190:
+ERROR{EOM}{EOM}{EOM}
+
+Message 191:
+ERROR{EOM}{EOM}{EOM}
+
+Message 192:
+“I Love Pets”{EOM}{EOM}{EOM}
+
+Message 193:
+“Goats Are Our Friends”{EOM}
+
+Message 194:
+“Making Delicious Milk”{EOM}
+
+Message 195:
+“Plants of the Seaside”{EOM}
+
+Message 196:
+“Tasty Wild Plants”{EOM}
+
+Message 197:
+“Caring For Your Soil”{EOM}{EOM}
+
+Message 198:
+“Sports of the World”{EOM}{EOM}{EOM}
+
+Message 199:
+“Run/Jump/Throw”{EOM}{EOM}{EOM}{EOM}
+
+Message 200:
+“Introduction to Sports”{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+“Musical Instruments”{EOM}{EOM}{EOM}
+
+Message 202:
+“The Life of G. McCoy, Famous Composer”{EOM}
+
+Message 203:
+“Children's Song Encyclopedia”{EOM}{EOM}
+
+Message 204:
+“All About Colors”{EOM}{EOM}
+
+Message 205:
+“Painting For Kids”{EOM}
+
+Message 206:
+“Using Color Effectively”{EOM}{EOM}{EOM}
+
+Message 207:
+“The Mystery of Math”{EOM}{EOM}{EOM}
+
+Message 208:
+“All About Stars”{EOM}{EOM}{EOM}
+
+Message 209:
+“Children's Dictionary”{EOM}
+
+Message 210:
+“Whizbang Comics”{EOM}{EOM}{EOM}
+
+Message 211:
+“Seven Wonders of the World”{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+“The Emperor's New Clothes”{EOM}
+
+Message 213:
+“Animals of the Sea”{EOM}{EOM}{EOM}{EOM}
+
+Message 214:
+“Endangered Animals”{EOM}{EOM}{EOM}{EOM}
+
+Message 215:
+“Milk Encyclopedia”{EOM}
+
+Message 216:
+“Dangerous Plants, Part 1”{EOM}{EOM}
+
+Message 217:
+“Dangerous Plants, Part 2”{EOM}{EOM}
+
+Message 218:
+“Watering Effectively”{EOM}{EOM}
+
+Message 219:
+“Sports Monthly, Vol 1”{EOM}
+
+Message 220:
+“Sports Monthly, Vol 5”{EOM}
+
+Message 221:
+“Introduction to Weight Training”{EOM}{EOM}{EOM}
+
+Message 222:
+“Playing the Grass Flute”{EOM}{EOM}{EOM}
+
+Message 223:
+“The Bandman”{EOM}{EOM}{EOM}
+
+Message 224:
+“Music Dictionary”{EOM}{EOM}
+
+Message 225:
+“Interior Decorating”{EOM}{EOM}{EOM}
+
+Message 226:
+“Fashion Monthly, Vol 5”{EOM}{EOM}{EOM}{EOM}
+
+Message 227:
+“Introduction to Design”{EOM}{EOM}{EOM}{EOM}
+
+Message 228:
+“Kinetic Theory”{EOM}{EOM}{EOM}{EOM}
+
+Message 229:
+“The Human Body”{EOM}{EOM}{EOM}{EOM}
+
+Message 230:
+“Earth Science”{EOM}
+
+Message 231:
+｢Haughty Woman｣{EOM}
+
+Message 232:
+｢Trendy Girls｣{EOM}{EOM}
+
+Message 233:
+｢Getting What You Want: Beginner's Guide｣{EOM}{EOM}{EOM}
+
+Message 234:
+“Dog Magazine, Fall Edition”{EOM}{EOM}{EOM}{EOM}
+
+Message 235:
+“Horse Illustrated”{EOM}
+
+Message 236:
+“Animal Diseases”{EOM}{EOM}{EOM}
+
+Message 237:
+“Farming Equipment Catalog”{EOM}
+
+Message 238:
+“Biotechnology”{EOM}
+
+Message 239:
+“Modern Farming, Vol 3”{EOM}
+
+Message 240:
+“Sports Monthly, Vol 27”{EOM}{EOM}{EOM}{EOM}
+
+Message 241:
+“Famous Sports Stars”{EOM}{EOM}{EOM}
+
+Message 242:
+“Sports Medicine”{EOM}{EOM}{EOM}
+
+Message 243:
+“My First Time On Stage”{EOM}{EOM}{EOM}{EOM}
+
+Message 244:
+“Top 10 Hits”{EOM}{EOM}{EOM}
+
+Message 245:
+“C-Sharp Minor”{EOM}
+
+Message 246:
+“Fun With Sculpting”{EOM}{EOM}{EOM}{EOM}
+
+Message 247:
+“Art Magazine, Vol 7”{EOM}{EOM}{EOM}
+
+Message 248:
+“The Effects of Color”{EOM}{EOM}
+
+Message 249:
+“Chaos Theory”{EOM}{EOM}
+
+Message 250:
+“All About Entropy”{EOM}
+
+Message 251:
+“Robotics and Artificial Intelligence”{EOM}{EOM}
+
+Message 252:
+“Special Occasions”{EOM}
+
+Message 253:
+“Travel”{EOM}{EOM}{EOM}{EOM}
+
+Message 254:
+“Bartending For Fun and Profit”{EOM}
+
+Message 255:
+Normal{EOM}{EOM}
+
+Message 256:
+Sick{EOM}{EOM}{EOM}{EOM}
+
+Message 257:
+Pregnant{EOM}{EOM}{EOM}{EOM}
+
+Message 258:
+For Sale{EOM}{EOM}{EOM}{EOM}
+
+Message 259:
+Impregnated{EOM}
+
+Message 260:
+Isolated{EOM}{EOM}{EOM}{EOM}
+
+Message 261:
+Miracle Potion Scheduled{EOM}{EOM}{EOM}{EOM}
+
+Message 262:
+{TATSUYA}'s Birthday☆{EOM}{EOM}
+
+Message 263:
+{CELIA}'s Birthday☆{EOM}{EOM}
+
+Message 264:
+{MUFFY}'s Birthday☆{EOM}{EOM}
+
+Message 265:
+{NAMI}'s Birthday☆{EOM}{EOM}
+
+Message 266:
+{VAN}'s shop is open☆{EOM}{EOM}
+
+Message 267:
+New Year's Festival{EOM}
+
+Message 268:
+Summer Festival{EOM}
+
+Message 269:
+Harvest Festival{EOM}{EOM}{EOM}{EOM}
+
+Message 270:
+Blue Bar Day{EOM}{EOM}{EOM}{EOM}
+
+Message 271:
+Starry Night Festival{EOM}{EOM}{EOM}
+
+Message 272:
+{FARM} Farm{EOM}{EOM}
+
+Message 273:
+Houses{EOM}{EOM}
+
+Message 274:
+{STRUC_35}{EOM}{EOM}
+
+Message 275:
+{STRUC_32}{EOM}{EOM}
+
+Message 276:
+{STRUC_38}{EOM}{EOM}
+
+Message 277:
+{STRUC_34}{EOM}{EOM}
+
+Message 278:
+Fireworks Designers{EOM}
+
+Message 279:
+Artist's House{EOM}{EOM}
+
+Message 280:
+Scientist's House{EOM}{EOM}{EOM}
+
+Message 281:
+{STRUC_39}{EOM}{EOM}
+
+Message 282:
+{STRUC_41}{EOM}{EOM}
+
+Message 283:
+{STRUC_36}{EOM}{EOM}
+
+Message 284:
+Bard's House{EOM}{EOM}{EOM}{EOM}
+
+Message 285:
+{STRUC_37}{EOM}{EOM}
+
+Message 286:
+{STRUC_33}{EOM}{EOM}
+
+Message 287:
+Select a Memory Card{EOM}{EOM}{EOM}{EOM}
+
+Message 288:
+Select a Diary to save to{EOM}{EOM}{EOM}
+
+Message 289:
+Select a Diary to load{EOM}{EOM}
+
+Message 290:
+Slot A{EOM}{EOM}
+
+Message 291:
+Slot B{EOM}{EOM}
+
+Message 292:
+A{EOM}{EOM}{EOM}
+
+Message 293:
+B{EOM}{EOM}{EOM}
+
+Message 294:
+{VAR_00}{Title_0} {GOLD_0007}G {GOLD_0105}{EOM}{EOM}
+
+Message 295:
+Crop Sales{EOM}{EOM}
+
+Message 296:
+Crops{EOM}{EOM}{EOM}
+
+Message 297:
+Seeds{EOM}{EOM}{EOM}
+
+Message 298:
+Assets{EOM}{EOM}
+
+Message 299:
+  {VAR_00}{GOLD_0007}{C17}G{EOM}{EOM}{EOM}
+
+Message 300:
+Items{EOM}{EOM}{EOM}
+
+Message 301:
+Finds{EOM}{EOM}{EOM}
+
+Message 302:
+Fish{EOM}{EOM}{EOM}{EOM}
+
+Message 303:
+Records{EOM}
+
+Message 304:
+{VAR_00} Results{EOM}{EOM}
+
+Message 305:
+Territory Capture{EOM}{EOM}{EOM}
+
+Message 306:
+Grave Cleaning{EOM}{EOM}
+
+Message 307:
+Milk Drinking{EOM}{EOM}{EOM}
+
+Message 308:
+{CHAR_80}{VAR_00}  {GOLD_0003} wins {GOLD_0103} losses{EOM}{EOM}{EOM}
+
+Message 309:
+Number of times cleaned grave   {GOLD_0003}{EOM}
+
+Message 310:
+Best Time      {GOLD_0002} seconds{EOM}{EOM}
+
+Message 311:
+{VAR_00}  {?_182A}{GOLD_0005} {19}{Title_0}{EOM}{EOM}
+
+Message 312:
+ {EOM}{EOM}{EOM}
+
+Message 313:
+ {EOM}{EOM}{EOM}
+
+Message 314:
+Nyamame{EOM}
+
+Message 315:
+Huchep{EOM}{EOM}
+
+Message 316:
+Yamame{EOM}{EOM}
+
+Message 317:
+Snelt{EOM}{EOM}{EOM}
+
+Message 318:
+Arna{EOM}{EOM}{EOM}{EOM}
+
+Message 319:
+Rainbob{EOM}
+
+Message 320:
+Sharshark{EOM}{EOM}{EOM}
+
+Message 321:
+Colombo{EOM}
+
+Message 322:
+{PETE}'s Condition{EOM}{EOM}
+
+Message 323:
+{TATSUYA}'s {Title_0}{EOM}{EOM}{EOM}{EOM}
+
+Message 324:
+Skills{EOM}{EOM}
+
+Message 325:
+Likes{EOM}{EOM}{EOM}
+
+Message 326:
+{VAR_00}'s Feelings{EOM}{EOM}{EOM}
+
+Message 327:
+Training Status{EOM}
+
+Message 328:
+Bottles of milk  {GOLD_0001}{EOM}{EOM}{EOM}{EOM}
+
+Message 329:
+Quality of milk  {Title_0}{EOM}{EOM}{EOM}{EOM}
+
+Message 330:
+S{EOM}{EOM}{EOM}
+
+Message 331:
+A{EOM}{EOM}{EOM}
+
+Message 332:
+B{EOM}{EOM}{EOM}
+
+Message 333:
+C{EOM}{EOM}{EOM}
+
+Message 334:
+Good{EOM}{EOM}{EOM}{EOM}
+
+Message 335:
+Bad{EOM}
+
+Message 336:
+Shearing    {Title_0}{EOM}
+
+Message 337:
+OK{EOM}{EOM}
+
+Message 338:
+No{EOM}{EOM}
+
+Message 339:
+Wool Quality  {Title_0}{EOM}{EOM}{EOM}
+
+Message 340:
+Golden{EOM}{EOM}
+
+Message 341:
+Average{EOM}
+
+Message 342:
+Bad{EOM}
+
+Message 343:
+-{EOM}{EOM}{EOM}
+
+Message 344:
+{C10}{EOM}{EOM}{EOM}
+
+Message 345:
+{C12}{EOM}{EOM}{EOM}
+
+Message 346:
+Newcomer{EOM}{EOM}{EOM}{EOM}
+
+Message 347:
+ {EOM}{EOM}{EOM}
+
+Message 348:
+All{EOM}
+
+Message 349:
+Foods{EOM}{EOM}{EOM}
+
+Message 350:
+Seeds{EOM}{EOM}{EOM}
+
+Message 351:
+Crops{EOM}{EOM}{EOM}
+
+Message 352:
+Dairy{EOM}{EOM}{EOM}
+
+Message 353:
+Tools{EOM}{EOM}{EOM}
+
+Message 354:
+Other{EOM}{EOM}{EOM}
+
+Message 355:
+Town Map{EOM}{EOM}{EOM}{EOM}
+
+Message 356:
+Item Description{EOM}{EOM}{EOM}{EOM}
+
+Message 357:
+Order Animal or MP Service{EOM}{EOM}
+
+Message 358:
+Order Item{EOM}{EOM}
+
+Message 359:
+Order Item{EOM}{EOM}
+
+Message 360:
+Order Item{EOM}{EOM}
+
+Message 361:
+Order Building{EOM}{EOM}
+
+Message 362:
+Sell an Animal{EOM}{EOM}
+
+Message 363:
+Ledger{EOM}{EOM}
+
+Message 364:
+Ordered Items{EOM}{EOM}{EOM}
+
+Message 365:
+Order Form{EOM}{EOM}
+
+Message 366:
+Crop Shipping Bin{EOM}{EOM}{EOM}
+
+Message 367:
+Order Form{EOM}{EOM}
+
+Message 368:
+Dairy Shipping Bin{EOM}{EOM}
+
+Message 369:
+Crops{EOM}{EOM}{EOM}
+
+Message 370:
+Seeds{EOM}{EOM}{EOM}
+
+Message 371:
+Seeds{EOM}{EOM}{EOM}
+
+Message 372:
+Other{EOM}{EOM}{EOM}
+
+Message 373:
+Family and Pets{EOM}
+
+Message 374:
+Buildings{EOM}{EOM}{EOM}
+
+Message 375:
+Livestock{EOM}{EOM}{EOM}
+
+Message 376:
+Poultry{EOM}
+
+Message 377:
+Dairy Income{EOM}{EOM}{EOM}{EOM}
+
+Message 378:
+Crop Income{EOM}
+
+Message 379:
+Assets{EOM}{EOM}
+
+Message 380:
+Items{EOM}{EOM}{EOM}
+
+Message 381:
+Mini-games{EOM}{EOM}
+
+Message 382:
+Can be set{EOM}{EOM}
+
+Message 383:
+Money {?_182A}{GOLD_0008} {?_1871}G{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

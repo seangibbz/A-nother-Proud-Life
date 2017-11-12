@@ -1,0 +1,1301 @@
+Message 0:
+Hmmm.{S_3202BC}
+Ah...{S_3202BC}
+I see.{S_3202BC}{EOM}
+
+Message 1:
+{SKIP}
+{S_340164}! !{S_3205DC}{SKIP}{EOM}{PAUSE}{WIPE}
+O-oh, it's you.
+Don't scare me like that.{PAUSE}{EOM}{EOM}
+
+Message 2:
+What was I doing, you ask?
+I don't normally tell civilians about
+my research, but...{PAUSE}{WIPE}
+...Very well.
+I'll make an exception for you.{PAUSE}{WIPE}
+There have been a number sightings of
+a strange creature in this area, so
+I'm looking into the matter.{PAUSE}{WIPE}
+From what I can tell, there does
+seem to be a humanoid creature
+lurking in these parts.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+{DRAW_02}I think I have determined the identity
+of the mysterious creature, but I'd like
+to capture it and conduct some tests...{DRAW_00}{S_320708}{EOM}{EOM}
+
+Message 4:
+{S_340164}? ? ?{S_3205DC}
+What's the matter?
+You seem a rather pale...{S_3203E8}{EOM}
+
+Message 5:
+Aaaaaaaaagggggghhhhh!{S_3207D0}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+It-{S_320190}it-{S_320190}it-{S_320190}it's here!!{S_320190}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+Hmm. Yes, very interesting...{S_3201F4}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+Yes, I see!
+So children do that, do they! Fascinating!
+This data is most interesting.{PAUSE}{EOM}{EOM}
+
+Message 9:
+Oh!{S_320190}{EOM}{EOM}
+
+Message 10:
+I-I'm not doing anything suspicious,
+really!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+I have no interest in studying
+the behavior of children!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+Ah!{S_320190}{EOM}{EOM}
+
+Message 13:
+Owowowow!{S_320190}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+I don't understand it.
+How could my secret have gotten out?{PAUSE}{WIPE}
+My research should have been perfectly
+secure...{PAUSE}{EOM}
+
+Message 15:
+{SKIP}
+{S_340164}! !{S_3205DC}{SKIP}{EOM}
+O-oh, it's you.
+Don't scare me like that.{PAUSE}{WIPE}
+I thought for sure you were a spy, here
+to steal my ideas for my inventions.{PAUSE}{EOM}
+
+Message 16:
+Listen.
+I invented the {C14}{STRUC_0}{C17}, but
+a copy of it is for sale in town.{PAUSE}{WIPE}
+Someone must have stolen my
+idea.{PAUSE}{WIPE}
+Of course!
+I'll give my {C14}{STRUC_0}{C17}
+to you.{PAUSE}{WIPE}
+If you use it, it'll prove how wonderful
+my {C14}{STRUC_0}{C17} really is!{PAUSE}{WIPE}
+Now that that's decided, let's
+get to work.{PAUSE}{EOM}{EOM}
+
+Message 17:
+I'm studying lightning at the moment.{PAUSE}{WIPE}
+Listen, according to my calculations, we
+can collect enough energy to power the
+town for a year from a single strike!{PAUSE}{EOM}{EOM}
+
+Message 18:
+As a part of this plan, I have to perfect
+an electricity storage facility that can
+store one month's worth of energy.{PAUSE}{EOM}{EOM}
+
+Message 19:
+Yes yes!{PAUSE}{WIPE}
+That's it!{S_3201F4}
+Keep storing the energy
+in the lab's underground battery!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+Oooh!{S_320064}
+Wonderful!!{S_320064}
+Such power!!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+......?!
+Ug{S_320064}gg{S_3200C8}gg{S_3200C8}gg{S_3200C8}ghhh!{S_3200C8} It tingles!{S_320190}{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+Hmmm...
+It looks like it still needs work.{PAUSE}{EOM}
+
+Message 23:
+{CHOICE2 DEF0}
+Run away.
+Stay here.{EOM}
+
+Message 24:
+{S_340164}{S_3205DC}Oh, it's you.
+Did you need something?{PAUSE}
+{CHOICE2 DEF0}
+Nothing in particular.
+Ask what he's doing.{EOM}
+
+Message 25:
+I see.
+Then you should be on your way.{PAUSE}{WIPE}
+I'm about to start a very important
+experiment.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+I'm currently researching solar batteries.{PAUSE}{WIPE}
+If we could capture energy from the sun,
+we would have pollution-free power to run
+this whole village - no - the whole world!{PAUSE}{EOM}
+
+Message 27:
+In order to do that, I have to perfect
+a solar battery that can be used to
+power the town.{PAUSE}{EOM}
+
+Message 28:
+{S_340165}{S_3201F4}And this is the heart of my invention!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 29:
+You're quite lucky.
+Not everyone witnesses a historic
+moment like this.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+All right, here we go!
+Switch... ON!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+All riiiiight!
+Voltage steady... Output increasing!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+{S_340164}{S_3205DC}.......Hmm?
+This isn't good!{S_3203E8}{EOM}{EOM}{EOM}
+
+Message 33:
+I guess I blew a fuse.
+Don't worry.
+It'll switch over to the generator soon.{S_3203E8}{EOM}
+
+Message 34:
+Oh, it's you.
+Did you need something?{PAUSE}
+{CHOICE2 DEF0}
+Nothing in particular.
+Ask what he's doing.{EOM}{EOM}{EOM}
+
+Message 35:
+Hey, where are you going?
+Listen to me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+I'm studying our water supply.{PAUSE}{WIPE}
+This town's drinking water comes
+mainly from underground sources.{PAUSE}{WIPE}
+But even these
+won't last forever.{PAUSE}{WIPE}
+After all, most of the water
+from this underground spring
+flows out to the sea.{PAUSE}{EOM}{EOM}
+
+Message 37:
+So I got to thinking...{PAUSE}{WIPE}
+If we had a giant water tank that could
+store rainwater, we could fulfill all of
+our needs and the next town's needs too!{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 38:
+Of course, rain water has some harmful
+substances in it, so you can't drink
+it directly.{PAUSE}{WIPE}
+But if I can perfect my underground
+water purification system,
+we will have all the water we need!{PAUSE}{EOM}{EOM}
+
+Message 39:
+{S_340165}{S_3201F4}This is the device!{PAUSE}{EOM}{EOM}
+
+Message 40:
+You're quite lucky.
+Not everyone witnesses a historic
+moment like this.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+Oh, it's you.
+You came at just the right time.{PAUSE}{EOM}
+
+Message 42:
+Come here for a minute.
+{CHOICE2 DEF0}
+I've got some business to attend to...
+No.{EOM}{EOM}{EOM}
+
+Message 43:
+Now now, it's no imposition.
+It won't take long anyway.{PAUSE}
+{CHOICE2 DEF0}
+Maybe just for a minute...
+No.{EOM}{EOM}
+
+Message 44:
+Oh come now.
+It shouldn't take long.{PAUSE}
+{CHOICE2 DEF0}
+Maybe just for a minute...
+No.{EOM}
+
+Message 45:
+Now listen.
+I'm currently researching a way to prevent
+global warming.{PAUSE}{WIPE}
+As I'm sure you know, we breathe in
+oxygen and breathe out
+carbon dioxide.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+The oxygen in the earth's atmosphere is
+created by plant photosynthesis.{PAUSE}{WIPE}
+But as the forests are cut down, the
+oxygen decreases and the carbon dioxide
+increases, resulting in global warming.{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 47:
+So I got to thinking...{PAUSE}{WIPE}
+If I could just convert carbon dioxide to
+oxygen, I could put an end to global
+warming overnight!{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 48:
+I'm researching ways to recycle consumer
+electronic devices.{PAUSE}{WIPE}
+Normally when a device like this breaks,
+we take it to a garbage dump.{PAUSE}{WIPE}
+But the available land for garbage dumps
+is rather limited, right?{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+So I got to thinking...{PAUSE}{WIPE}
+If we could break up these broken devices
+into parts and then divide those into even
+smaller parts, they could be reused.{PAUSE}{WIPE}
+It solves two problems--there's less
+garbage and lower prices for new things.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+Hmmmm...
+It looks like it will take more energy
+than I expected to power this device.{PAUSE}{WIPE}
+This will end up costing more than we
+save by recycling...{PAUSE}{WIPE}
+I guess my plan still needs a
+little work...{PAUSE}{EOM}{EOM}
+
+Message 51:
+You're quite lucky.
+Not everyone gets to witness...{S_320258}{EOM}{EOM}
+
+Message 52:
+{S_340164}What? Hey!{S_3205DC}{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+Hey! Where do you think you're going?
+You'll miss the big event!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 54:
+Heh, heh, heh.{S_320190}
+Ha, ha, ha, ha!{PAUSE}{WIPE}
+At last...{S_32012C}The time has come at last.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+You wretched cow, my hated nemesis...
+Soon I shall have my revenge against you!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+Now let's see, which one will I use
+for my experiments first...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+La♪ La♪ La♪
+Ladedum♪ Ladeda♪{PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+I wonder which cow would be best...
+La♪ La♪ La♪{S_3203E8}{EOM}{EOM}
+
+Message 59:
+{SKIP}
+{S_340164}!!{S_3205DC}{SKIP}{EOM}{PAUSE}{WIPE}
+Y-y-y-you!
+I w-wasn't doing anything suspicious
+at all!{PAUSE}{EOM}
+
+Message 60:
+I-I don't have anything against your cows.
+I was just passing by.... Yes...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+I-If you have some free time, feel free
+to stop by my laboratory.{PAUSE}{EOM}{EOM}
+
+Message 62:
+I sure do love animals...
+They're so c-cute... Really.
+Take this cow, for example...{S_3203E8}{EOM}
+
+Message 63:
+I'll...{S_3200C8} I'll be...{S_3200C8} killed!!{S_3203E8}{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+Hmmmmm.
+Hmhmhm...{S_3203E8}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+Whyyyyyyyyy!!{S_3203E8}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+Whhhhhhhhhhhyyyyyyyy!!{S_3203E8}{EOM}{EOM}{EOM}
+
+Message 67:
+It doesn't make sense.
+Something's definitely wrong.
+My research should have been secure!{PAUSE}{WIPE}
+How is the information getting out?!
+Hmmmmmmmmmm....{PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+{SKIP}
+{S_340164}!!{S_3205DC}{SKIP}{EOM}
+O-Oh, it's you.
+Don't scare me like that.{PAUSE}{EOM}
+
+Message 69:
+I thought for sure you were a spy, here
+to steal my ideas for inventions.{PAUSE}{EOM}{EOM}
+
+Message 70:
+Listen!
+The {C14}{STRUC_0}{C17} I invented is
+for sale in the town!{PAUSE}{WIPE}
+Someone had to have stolen my
+idea.
+This is most unpleasant...{PAUSE}{WIPE}
+I have to think of some way to make the
+world understand how fantastic my
+{C14}{STRUC_0}{C17} is.{PAUSE}{EOM}
+
+Message 71:
+I've got it!
+I'll give you the {C14}{STRUC_0}{C17} that
+I made.{PAUSE}{WIPE}
+If you use it, it'll prove how wonderful
+my {C14}{STRUC_0}{C17} really is!{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+Great! Now that that's decided,
+let's get to work.{PAUSE}{EOM}
+
+Message 73:
+All right!
+It's finished.{PAUSE}{EOM}{EOM}
+
+Message 74:
+Well then, I have to return to my lab.
+I have so many inventions that need
+be tended to!{PAUSE}{WIPE}
+Take good care of my invention!
+I hope it serves you well!{PAUSE}{EOM}{EOM}
+
+Message 75:
+And here too...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+{DRAW_02}I was caught off guard last time, but
+nothing is going to stop me from capturing
+that walking carpet for my experiments!{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+{SKIP}
+{S_340164}!!{S_3205DC}{SKIP}{EOM}
+O-oh, it's you.
+Don't scare me like that.{PAUSE}{EOM}
+
+Message 78:
+What was I doing, you ask?
+Well, all right.
+I'll tell you, but just because it's you.{PAUSE}{WIPE}
+I am about to capture that shaggy beast
+that I ran into a while back.{PAUSE}{EOM}{EOM}
+
+Message 79:
+{DRAW_02}If my calculations are correct, he should
+be getting hungry about now, so he'll
+almost certainly fall for my bait!!{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+{DRAW_02}{FACE_130003}My plan is to lure him to my lab and
+while he's distracted by the bait, I'll
+zap him with a little electric shock!{PAUSE}{WIPE}
+{FACE_130000}A little plan I like to call...{S_3202BC}
+{S_340165}{S_3202BC}“Operation: Fuzz Zapper”!
+I thought of that myself...{PAUSE}{WIPE}
+{FACE_130004}Hahahahaha!{S_3202BC}
+It's so perfect!{S_3202BC}
+Even if I do say so myself.{PAUSE}{WIPE}
+He's as good as captured.
+My chances of failure are less than one
+in ten-thousand!{PAUSE}{WIPE}
+Heh heh heh!{S_320190}
+Wahahahaha!{S_320190}
+{S_340163}{S_3205DC}I am a genius!{PAUSE}{WIPE}
+Ugh.{S_320190} Whew.{S_320190} I got a little
+too excited there...
+So much for my calm and rational image.{PAUSE}{WIPE}
+Once I have him safely in custody, I'll
+show you something extraordinary.{DRAW_00}{PAUSE}{EOM}
+
+Message 81:
+{FACE_130000}{S_340164}???{S_3205DC}
+What's happening?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+{FACE_130004}W-w-w-{S_32012C}what are you doing?!{PAUSE}{WIPE}
+I went without lunch for a week to pay
+for this plan!{PAUSE}{EOM}{EOM}
+
+Message 83:
+How could this happen?!
+Everything's ruined!{PAUSE}{WIPE}
+Grrrrrr...
+There's nothing to do but go home and
+come up with another perfect plan!!{PAUSE}{WIPE}
+That little...{S_320190} I'll get it next time...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+Today I'll definitely catch that
+walking carpet.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 85:
+{DRAW_02}What was I doing, you ask? Very well.
+I don't normally share my plans,
+but I'll make an exception in your case.{PAUSE}{WIPE}
+Last time, an unforseeable accident caused
+my plan to fail, but today I will
+definitely capture that shaggy beast.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+Taking my last failure into account,
+I carefully choose a new and tasty bait
+for this operation.{PAUSE}{WIPE}
+According to my research, this creature
+seems to prefer raw foods.{PAUSE}{WIPE}
+In addition it seems that he will only
+react to freshly picked vegetables or
+freshly caught fish...{PAUSE}{WIPE}
+Hey, those sound pretty good...{PAUSE}{WIPE}
+Anyway!{S_3203E8} There is a 120%
+chance of the hungry wretch being
+snared in my trap!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+{DRAW_02}{FACE_130003}I'll lure the beast to my lab with its
+favorite foods and while it's distracted,
+I'll give him a shock!{PAUSE}{WIPE}
+{FACE_130000}I like to call this plan...{S_3202BC}
+{S_340165}{S_3202BC}“Operation: Hairball”!
+That's got a nice ring to it, doesn't it?{PAUSE}{WIPE}{DRAW_00}{EOM}{EOM}{EOM}
+
+Message 88:
+Oho! He's caught already!{S_3202BC}{EOM}{EOM}{EOM}{EOM}
+
+Message 89:
+{DRAW_02}Look! {S_32012C}It's perfect!{S_3202BC}
+I've outdone myself with this one!{PAUSE}{WIPE}
+{FACE_130004}Wahahahaha!{S_3202BC}
+That hairy creature is as good as mine!{PAUSE}{WIPE}
+Hahahahaha!{S_320190}
+{S_340163}I am {S_3205DC}a genius!!{PAUSE}{WIPE}
+Ugh...{S_320190} Whew. {S_320190}Maybe I should
+switch to decaf...{PAUSE}{WIPE}
+Anyway, it cost me a month's food budget,
+but I did it.{PAUSE}{WIPE}
+You have no idea how hard it was for me to
+get the special bait I'm using.{PAUSE}{WIPE}
+I have to make this plan work if I'm
+going to say goodbye to peanut butter and
+jelly sandwiches three times a day!{PAUSE}{WIPE}
+What'll I eat once I make my fortune...?
+Now THAT'S my REAL concern...{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+{S_340164}{S_3205DC}Uh-oh! This'll never do.
+I have to hurry up and set the trap...{PAUSE}{EOM}{EOM}
+
+Message 91:
+{FACE_130004}W-w-w-{S_32012C}what are you doing?!{PAUSE}{WIPE}
+My super-deluxe plan that I spent a
+month's food budget on is ruined!!{PAUSE}{EOM}
+
+Message 92:
+How could this happen?!
+I don't have any backup bait!
+There isn't enough to lead to the lab!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+Grrrrr....
+There's nothing to do but go home and
+once again come up with a perfect plan!{PAUSE}{WIPE}
+Grrrrr...{S_320190} I was so close...{PAUSE}{EOM}{EOM}
+
+Message 94:
+This time nothing will stop me from
+capturing that walking carpet!
+Nothing, I tell you!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+{DRAW_02}What was I doing, you ask? Very well.
+I don't normally share my plans.
+But I'll make an exception in your case.{PAUSE}{WIPE}
+Last time I was a hair's width away from
+success, but now nothing will stop me
+from capturing that mangy beast.{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 96:
+Taking my last failure into account, I've
+decided to go with a more affordable type
+of bait. You see...{PAUSE}{WIPE}
+My many years of experience tell me that
+wild beasts prefer quantity over quality.
+He will want to eat his fill.{PAUSE}{WIPE}
+There's no point in giving a dumb animal
+expensive caviar or foie gras.{PAUSE}{WIPE}
+This time I'm betting everything on
+using a buffet table's worth of bait!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 97:
+Look!
+Just look at all of this food!
+These are all my favorites.{PAUSE}{WIPE}
+Even if the plan fails, I'll still
+have some good eating afterward!
+I could eat it all in the blink of an eye!{PAUSE}{EOM}{EOM}
+
+Message 98:
+.........? Anyway! He should be getting
+hungry about now. My chance of success is
+150%!{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 99:
+{DRAW_02}{FACE_130003}I'll lure the beast to my lab with my
+favorite foods and while it's distracted,
+I'll give him a shock!{PAUSE}{WIPE}
+{FACE_130000}I like to call this plan...{S_3202BC}
+{S_340165}{S_3202BC}“Operation: Furry Fury”!
+Hey, they can't all be good...{PAUSE}{WIPE}{DRAW_00}{EOM}
+
+Message 100:
+{DRAW_02}{S_340163}Hohohoho!
+Just look!{S_32012C} It's perfect!{S_3202BC}
+I'm so smart that I scare myself!{PAUSE}{WIPE}
+{FACE_130004}Hahahaha!{S_3202BC}
+That furry fleabag is as good as mine!{PAUSE}{WIPE}
+Hahahahahahahaha!{S_320190}
+{S_340163}{S_320190}Just as I thought, I am a genius!{PAUSE}{WIPE}
+Ugh...{S_320190}Whew.{S_320190} I'm getting a little
+too old for this...{PAUSE}{WIPE}
+Anyway, I've spent three months of my food
+budget on this grand plan.{PAUSE}{WIPE}
+You have no idea how hard it was for me to
+make this much food...
+The preparation alone took three days!{PAUSE}{WIPE}
+This plan has to work if I'm to say
+goodbye to instant ramen forever!
+Maybe I should just eat the bait...{PAUSE}{WIPE}
+What am I saying!
+I've got to put out the bait...{DRAW_00}{PAUSE}{EOM}
+
+Message 101:
+{FACE_130004}W-w-w-{S_32012C}what are you doing?!{PAUSE}{WIPE}
+My first class super deluxe plan that I
+spent three months of food money on
+is ruined!{PAUSE}{EOM}
+
+Message 102:
+{DRAW_02}Is that what you thought I'd say?{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 103:
+{DRAW_02}Heh, heh, heh. In preparation for this
+I put sleeping pills in the bait.{PAUSE}{WIPE}
+In battle, you have to always be two steps
+ahead of your enemy.{PAUSE}{WIPE}
+I may have caught something extra, but
+my plan is unaffected.{DRAW_00}{PAUSE}{EOM}
+
+Message 104:
+Let's see now... The sleeping pills should
+be taking effect about now.{PAUSE}{EOM}
+
+Message 105:
+{DRAW_02}...................................
+...................................
+...................................{PAUSE}{WIPE}
+...................................
+...................................
+...................................{PAUSE}{WIPE}
+........................................
+...............?....... {S_340164}Wha-?{S_3205DC} .....???....
+????????????????????{DRAW_00}{PAUSE}{EOM}
+
+Message 106:
+{DRAW_02}Why?!?!
+Why doesn't he go to sleep?!{PAUSE}{WIPE}
+Wait -- it can't be!
+No matter how distracted I was, I couldn't
+possibly have...{PAUSE}{WIPE}
+But that's the only explanation!!{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+{S_340163}Ughghghhg!
+How could this happen!{PAUSE}{WIPE}
+Instead of the sleeping pills, I
+accidentally put in all of the expensive
+vitamins I just bought!!{PAUSE}{EOM}{EOM}
+
+Message 108:
+I've made my prey even healthier than
+before, the food is all gone, and so are
+my vitamins!{PAUSE}{WIPE}
+Grrrrrr...
+There's nothing to do but go home and make
+another plan while I eat the leftovers!{PAUSE}{WIPE}
+I may...{S_320190}have to get a mortgage on the lab.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+{DRAW_02}Darn that pompous fool!
+He gets to spend every day with
+Flora, working side by side with her...{PAUSE}{WIPE}
+Grrrr. I won't stand for it!
+It's indecent, that's what it is!
+Why doesn't he go back where he came from?{PAUSE}{WIPE}
+And I hate those glasses of his!
+And the way he walks and talks, too!{PAUSE}{WIPE}
+Archeology! Hmph! Talk about a
+pseudoscience!{PAUSE}{WIPE}
+He'll make a perfect test subject for
+my new Maser Cannon. Mumble mumble...{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 110:
+F-Flora!{S_3203E8}{EOM}
+
+Message 111:
+{DRAW_02}This guy is unbelievable!
+Making Flora cook for him! Terrible!
+...............I'm so jealous...{DRAW_00}{S_3205DC}{EOM}{EOM}
+
+Message 112:
+D-drat!
+They saw me!
+Back to the lab!{S_3205DC}{EOM}{EOM}{EOM}{EOM}
+
+Message 113:
+Energy may change form, but
+it can never truly disappear from
+the universe...{PAUSE}{EOM}{EOM}
+
+Message 114:
+And matter is just a form of
+energy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 115:
+That's all.
+...Or maybe not...
+{PETE}?{PAUSE}{EOM}
+
+Message 116:
+Hey, where are you going?
+I thought I would tell you about
+my research...{PAUSE}{EOM}{EOM}
+
+Message 117:
+Hey, why doesn't anybody listen to me?{S_3203E8}
+My research has the potential to solve
+problems faced by the entire world...{S_3203E8}
+My research might solve the world's
+energy problems.{S_3203E8}
+I may need your help occasionally, but...
+Hey, come back!{S_3201F4}
+I'm not done talking!{S_3201F4}
+The night is young...{S_3207D0}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+How could this happen to me! She was one of
+the only people to understand my research!{PAUSE}{WIPE}
+I was going to treat her to an expensive
+meal when I became rich and famous...
+I was looking forward to it...{PAUSE}{WIPE}
+Now my plan is ruined!
+Ruined, I tell you!{PAUSE}{WIPE}
+{DRAW_02}...................................
+...................................
+...................................{PAUSE}{WIPE}
+{S_340163}Aha....
+I must change the focus of my
+If I could just... mumble... cultivate her
+DNA... mumble... as much as I want...
+Mumble... the original cells... mumble...{DRAW_00}{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 119:
+Hey, uh........{GRIFFIN},
+Why don't you play a nice song for
+{PETE}?{PAUSE}{EOM}{EOM}
+
+Message 120:
+I should be going to bed soon...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+It'll be my bedtime soon.
+Would you mind leaving?{PAUSE}{EOM}{EOM}
+
+Message 122:
+This is goodbye...
+Adios amigo!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+Um...
+I'm going to be going out soon, so...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+Um... You...
+I have to leave now, so...
+See you later...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+Well, see you later...{PAUSE}{EOM}
+
+Message 126:
+Hey...{PAUSE}{EOM}
+
+Message 127:
+Umm....{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+I like the {VAR_00}.
+How much?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}{EOM}{EOM}
+
+Message 129:
+{FACE_130003}Oh, really?!
+That's fairly affordable...
+All right, I'll take it.{PAUSE}{EOM}{EOM}
+
+Message 130:
+All right, I'll take it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+Okay... never mind.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+I want the {VAR_00}, but
+how much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}
+
+Message 133:
+I guess I'll pass today.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+I'm researching energy.
+Maybe I'll show you my experiments.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 135:
+I'm sorry.
+Please leave me alone.{PAUSE}{EOM}{EOM}
+
+Message 136:
+Hello...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 137:
+{FACE_130003}{S_340163}Oooooooh!
+That's one of my favorite foods.
+Can I have it?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 138:
+{FACE_130003}Well, thank you very much.{PAUSE}{EOM}
+
+Message 139:
+Oh, I see. Darn.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+It looks delicious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+{FACE_130003}{S_340163}Oooooooh!
+You've got something good there.
+Are you giving it to me?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+You've got something good there.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 143:
+I don't need that kind of thing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 144:
+I said I don't need that kind of thing,
+didn't I?{PAUSE}{EOM}{EOM}
+
+Message 145:
+{FACE_130004}Hey!
+I said I don't want it...{PAUSE}{EOM}
+
+Message 146:
+Is this your child?
+Hmmm... A very interesting face
+indeed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 147:
+I wonder how he will react...
+I wonder how he will move...
+Hmm? Oh, nothing. Don't mind me...{PAUSE}{EOM}{EOM}
+
+Message 148:
+I'm not interested in children...{PAUSE}{EOM}{EOM}
+
+Message 149:
+I haven't researched the behavior
+of dogs yet, but they seem to
+be smarter than cats...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+They certainly are interesting creatures.{PAUSE}{EOM}{EOM}
+
+Message 151:
+Cats have some interesting behaviors, but
+there is much I don't understand.{PAUSE}{WIPE}
+Maybe they're not thinking anything
+at all....{PAUSE}{EOM}{EOM}{EOM}
+
+Message 152:
+It might be worthwhile to research the
+behavior of cats.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 153:
+I'd like a chicken, both for my research
+and for my dinner, but...
+No, I suppose not.{PAUSE}{WIPE}
+I haven't been eating well lately...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+I'd like to make a chicken that
+can fly...{PAUSE}{EOM}
+
+Message 155:
+A chick, eh? I'd like one for my research
+and for a future meal, but...
+...No, I suppose not.{PAUSE}{WIPE}
+I really haven't eaten anything decent
+in a long time...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+I hear that some chickens will actually
+lay golden eggs. It might be worth
+researching...{PAUSE}{EOM}{EOM}
+
+Message 157:
+Ducks can't keep their own eggs warm.
+That's why you have to raise them with
+chickens if you want to breed them.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 158:
+Is that a miniature duck?{PAUSE}{EOM}{EOM}
+
+Message 159:
+Ducks aren't very interesting from a
+research point of view.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+I'm not really interested in that.{PAUSE}{EOM}
+
+Message 161:
+{?_3887}.
+I don't have time to waste researching
+that kind of thing.{PAUSE}{EOM}
+
+Message 162:
+Hey.
+What do you expect me to do with that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+Cheese, eh? I don't like milk, but
+I'll certainly take cheese.
+Is it OK?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 164:
+You can eat cheese without preparation, so
+it's good to snack on while I work.{PAUSE}{EOM}
+
+Message 165:
+You can't eat butter by itself, so I'll
+pass.{PAUSE}{EOM}{EOM}
+
+Message 166:
+I don't need any butter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 167:
+Hey.
+Are you going to give me that egg?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 168:
+There are normal eggs and fertilized eggs.
+But you only get fertilized eggs if you
+have a rooster.{PAUSE}{EOM}
+
+Message 169:
+I'm interested in researching fish, too,
+but I'm too busy at the moment.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 170:
+The fish in this region have a unique
+ecology, I hear.{PAUSE}{EOM}
+
+Message 171:
+Did you make this food?
+I could use a little care package.
+Can I have it?{CHOICE Y/N DEF0}{EOM}
+
+Message 172:
+Hey.
+Can I have that?{CHOICE Y/N DEF0}{EOM}
+
+Message 173:
+That food looks good.{PAUSE}{EOM}{EOM}
+
+Message 174:
+I might be able to use that for something,
+but I'm really not interested.{PAUSE}{EOM}{EOM}
+
+Message 175:
+Hey.
+I don't research stones.{PAUSE}{EOM}{EOM}
+
+Message 176:
+Hey, that's a record...
+You've certainly got some unusual things.{PAUSE}{EOM}{EOM}
+
+Message 177:
+Hey.
+That wouldn't be the song that plays
+at your farm, would it?{PAUSE}{EOM}{EOM}
+
+Message 178:
+{S_3400DA}{S_3205DC}{FACE_130009}...It made a sound by itself...
+I wonder how it works...{PAUSE}{EOM}
+
+Message 179:
+{S_3400DA}{S_3205DC}What an usual drum...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 180:
+Hey.
+What do you plan to blow up with such
+a big bomb?{PAUSE}{WIPE}
+If you plan to blow up my laboratory, you
+can just forget it.
+I'm sure it wouldn't leave a scratch.{PAUSE}{WIPE}
+{FACE_130003}It would take more than a little shove
+to damage my lab!!{PAUSE}{WIPE}
+{FACE_130000}.....But more than that might a problem.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+Hey.
+Be careful with that thing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+I live here so I can conduct my
+own research.{PAUSE}{EOM}{EOM}
+
+Message 183:
+My research topics are energy and
+the behavior of living things.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 184:
+My goal is to create perfect
+clones...{PAUSE}{EOM}
+
+Message 185:
+...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+This is something I heard, but...
+Apparently the farmer from Mineral
+Town is quite rich.{PAUSE}{WIPE}
+I wonder if she would
+sponsor my research?{PAUSE}{EOM}{EOM}
+
+Message 187:
+I hear that the farmer from Mineral
+Town is quite popular in the town.
+But it all sounds a little suspicious.{PAUSE}{EOM}{EOM}
+
+Message 188:
+It's amazing that she raises animals and
+also grows those crops. Oh, I'm talking
+about the farmer from Mineral Town.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+I hear the farmer from Mineral Town is
+an amazing angler.{PAUSE}{EOM}{EOM}
+
+Message 190:
+The farmer from Mineral Town certainly
+does walk a lot.
+I don't trust her...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 191:
+The farmer in Mineral Town is ignoring
+her farm and spends all her time fishing.
+Could this be true?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+I hear that the Mineral Town farmer has
+rather bad taste.{PAUSE}{EOM}{EOM}
+
+Message 193:
+I heard that the Mineral Town farmer has
+three cottages...
+Hmph.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 194:
+Hey.
+I really liked what you gave me earlier.
+Bring me some more, okay?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 195:
+Hey.
+That cheese you gave me was just great.
+I'd love some more...{PAUSE}{EOM}
+
+Message 196:
+Hey.
+That cheese you gave me smelled a little.
+But... I might get to like it.{PAUSE}{EOM}{EOM}
+
+Message 197:
+Hey.
+That cheese you gave me was good.
+I'd love some more...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+The {VAR_00} you gave me
+was fantastic.
+That's kind of thing I like.{PAUSE}{EOM}
+
+Message 199:
+That food you gave me was good.
+I wouldn't mind some more...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 200:
+You seem to really be working
+hard recently.
+I should work harder, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+Hey.
+Are you working hard on your farm?
+It seems to be doing you good.{PAUSE}{EOM}
+
+Message 202:
+Hey.
+How's work on the farm?
+My research is coming along fine.{PAUSE}{EOM}
+
+Message 203:
+I'm researching energy.
+I've already developed a system that works
+using geothermal energy{PAUSE}{WIPE}
+That's where we get all of our
+power from.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 204:
+If you're interested, I'll show you my
+research any time.
+If your timing is right, that is...{PAUSE}{EOM}{EOM}
+
+Message 205:
+Hey.
+Don't touch any of those machines.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 206:
+Hey.
+No loitering.{PAUSE}{EOM}
+
+Message 207:
+{FACE_130004}Hey.
+I'm busy right now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 208:
+Hey.
+Be quiet when I'm working.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+I'm thinking right now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 210:
+Mumble, mumble...{PAUSE}{EOM}{EOM}
+
+Message 211:
+I can't think of any good ideas...
+Mumble, mumble...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 212:
+It's so hot these days, I can't think.{PAUSE}{EOM}
+
+Message 213:
+It just doesn't work.
+Oh, sorry. Just talking to myself.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+I've hit a wall with my research...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 215:
+It's cold...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 216:
+I wonder if you could store the energy
+from summer and use it in winter...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+My mind is clear, but...
+My body is cold. Especially my feet.{PAUSE}{EOM}{EOM}
+
+Message 218:
+Hey.
+I'm in the middle of a research project
+right now, so I'm busy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 219:
+Scientific research never really ends.
+I can't afford to take a break.
+So I'm always busy.{PAUSE}{EOM}
+
+Message 220:
+Hey.
+Don't touch anything over there.{PAUSE}{EOM}{EOM}
+
+Message 221:
+Hey.
+I said I was busy, didn't I?{PAUSE}{EOM}{EOM}
+
+Message 222:
+{FACE_130009}Hmm? Oh, I'm
+just taking a stroll.{PAUSE}{EOM}
+
+Message 223:
+Carbon dioxide emitted by belching cows
+contributes to global warming, you know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 224:
+Have you ever heard of cow
+cloning before?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+I see...
+I see...{EOM}{EOM}{EOM}
+
+Message 226:
+There are so many things I have
+still to research.{PAUSE}{EOM}
+
+Message 227:
+{?_3887}.
+I sometimes pass by here when I'm on walks
+Don't worry about it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 228:
+I'm looking for a guinea pig.{PAUSE}{EOM}{EOM}
+
+Message 229:
+I sometimes come to the forest to look
+for stuff to use in my experiments.{PAUSE}{EOM}
+
+Message 230:
+I sometimes see strange animals around
+here but I can never seem to catch them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 231:
+{FACE_130009}I-I...N-nothing...
+I'm not thinking about anything...{PAUSE}{EOM}{EOM}
+
+Message 232:
+Flora-- Oh, nothing...
+Just leave me alone...{PAUSE}{EOM}{EOM}
+
+Message 233:
+{?_3887}.
+Leave me alone.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 234:
+Huh? How did I end up in such a place?
+I was just walking around thinking and
+suddenly I found myself here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 235:
+{FACE_130009}No, it's not like that...
+Flora and I, we've got nothing to do with
+one another.{PAUSE}{WIPE}
+{FACE_130003}I'm here to see, uhm,... Carter!
+Yep, that's it! I'm here to see Carter!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 236:
+Can I help you?{?_3887}.{PAUSE}{EOM}
+
+Message 237:
+It's nice to take walks around here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 238:
+This requires more research.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 239:
+I wonder what the problem is...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 240:
+I thought for sure it'd work this time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 241:
+I need to do more research.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 242:
+It was going so well...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 243:
+Whenever you're around, my experiments
+seem to fail...{PAUSE}{EOM}
+
+Message 244:
+I'll give this some more thought.{PAUSE}{EOM}{EOM}
+
+Message 245:
+I see...
+...I think I'll pass.
+Thanks, maybe next time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 246:
+I hear there is someone who won the
+horserace 10 times, but so what?
+Hmm?{PAUSE}{EOM}{EOM}
+
+Message 247:
+I hear there is someone who won at the
+chicken festival 10 times, but so what?
+Hmm?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 248:
+I hear there is someone who won at the
+cow festival 10 times, but the cow I'm
+going to make will be unbeatable.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 249:
+I hear there is someone who won at the
+sheep festival 10 times, but the sheep
+I'm genetically altering will win it all!{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

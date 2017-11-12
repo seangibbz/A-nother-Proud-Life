@@ -1,0 +1,325 @@
+Message 0:
+Harvest Goddesses live in places like the
+{C14}{STRUC_38}{C17}, but there isn't one
+in this {C14}{STRUC_38}{C17} yet.{PAUSE}{EOM}{EOM}
+
+Message 1:
+One is that the animals
+living by the {C14}{STRUC_38}{C17} must
+be happy.♪{PAUSE}{EOM}
+
+Message 2:
+It's nice to have so many “nices”!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+Let's go, let's go!☆{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+None here.{PAUSE}{EOM}
+
+Message 5:
+Do you know where any are?{PAUSE}{EOM}
+
+Message 6:
+Nope.{PAUSE}{EOM}{EOM}
+
+Message 7:
+Let's go look!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+None here.{PAUSE}{EOM}
+
+Message 9:
+For sure.{PAUSE}{EOM}{EOM}
+
+Message 10:
+Nope.{PAUSE}{EOM}{EOM}
+
+Message 11:
+Let's go look!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+None here.{PAUSE}{EOM}
+
+Message 13:
+For sure.{PAUSE}{EOM}{EOM}
+
+Message 14:
+...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+Let's go look!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+None here.{PAUSE}{EOM}
+
+Message 17:
+For sure.{PAUSE}{EOM}{EOM}
+
+Message 18:
+What a nice singing voice!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Nice nice!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+Let's go look!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+Not yet.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 22:
+If we've worked hard enough then
+the Harvest Goddess will come.
+Keep your fingers crossed.☆{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+I guess not.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+Yeah.
+Let's collect lots lots
+lots more!☆{PAUSE}{EOM}{EOM}
+
+Message 25:
+Let's do it!♪{PAUSE}{EOM}{EOM}
+
+Message 26:
+{DRAW_02}Who is it?
+Who is it?{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 27:
+{DRAW_02}I think you're right.{DRAW_00}{PAUSE}{WIPE}
+{DRAW_02}So who is it?{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 28:
+{DRAW_02}I see!
+A Harvest Sprite named “{PETE}!”
+Nice name.{DRAW_00}{PAUSE}{EOM}
+
+Message 29:
+{DRAW_02}My name's Nik.
+Nice to meet you!♪{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 30:
+Yeah, we'll put the hutch away!☆{S_3203E8}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+Back home!☆{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+Talk to your cow and when you think
+she needs to be isolated, go check out the
+isolation fence in the {C14}{STRUC_23}{C17}.☆{PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+Yeah, I can't wait!☆{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+Come quickly!{PAUSE}{EOM}{EOM}
+
+Message 35:
+Look after them more
+carefully...{PAUSE}{EOM}{EOM}
+
+Message 36:
+Come quickly!☆{PAUSE}{EOM}
+
+Message 37:
+Think of a name!☆{S_3201F4}
+It's a male, so make it a cool one!☆{PAUSE}{EOM}{EOM}
+
+Message 38:
+Nice to meet you!☆{PAUSE}{EOM}
+
+Message 39:
+The calf hutch!☆{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+Think of a name!☆{S_3201F4}
+It's a female, so make it a cute one!☆{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+Hey! Look at this, {PETE}!{PAUSE}{EOM}
+
+Message 42:
+Look!
+It's blue, just like me!{PAUSE}{EOM}
+
+Message 43:
+Big deal!
+You said you didn't want it!{PAUSE}{EOM}
+
+Message 44:
+You said you didn't want it, so I
+took it!{PAUSE}{EOM}
+
+Message 45:
+You're so mean!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+I'll give it too!{PAUSE}{EOM}{EOM}
+
+Message 47:
+No, I gave it!{PAUSE}{EOM}
+
+Message 48:
+{SKIP}
+All right, let's get the data ready
+to connect. If you don't want to link,
+just press the B Button.{SKIP}{EOM}{EOM}
+
+Message 49:
+{SKIP}
+Awaiting response from the
+Game Boy Advance. If you wish to stop
+the uplink, push the B Button.{SKIP}{EOM}{EOM}
+
+Message 50:
+{SKIP}
+Linking now...
+.......................{SKIP}{EOM}{EOM}{EOM}
+
+Message 51:
+{SKIP}
+You won't be able to link to data
+that you've linked to in the past. OK?{SKIP}{EOM}
+{CHOICE Y/N DEF0}{EOM}
+
+Message 52:
+{SKIP}
+Link failed.
+Want to try again?{SKIP}{EOM}
+{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 53:
+Link successful.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 54:
+What's this?
+It looks like you weren't able to link
+with the data you selected.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+All right, canceling link.{PAUSE}{EOM}
+
+Message 56:
+The other side terminated the link.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+Takakura left you a note
+in the {C14}{STRUC_16}{C17}!☆{PAUSE}{EOM}
+
+Message 58:
+{PETE}! Welcome.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 59:
+I hope something fun happens.{PAUSE}{EOM}{EOM}
+
+Message 60:
+I was thinking of something fun!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+Talk to Flak, too!{PAUSE}{EOM}
+
+Message 62:
+Talk to Nak, too!{PAUSE}{EOM}{EOM}
+
+Message 63:
+You're our friend, {PETE}.
+You're a good person, so I like you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+You should share happy things with others.
+Then everyone will be happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+We've been here since before there
+were people living in the valley.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 66:
+Don't take too much food away
+from the forest.
+There won't be any left for us!{PAUSE}{EOM}
+
+Message 67:
+The people in {C14}{STRUC_30}{C17} are funny.
+So we go to see them all the time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+Wow, that's amazing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+You can't use that here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+We don't need those.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 71:
+We know about those, too.{PAUSE}{EOM}{EOM}
+
+Message 72:
+We carry those to all places... to help
+flowers spread.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 73:
+That's a baby plant.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+Is that your dinner?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+I'm hungry...{PAUSE}{EOM}{EOM}
+
+Message 76:
+I think we'll eat soon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+{FARM}Did you grow that at {FARM} Farm?
+Good job!!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+It must have taken a lot of work to grow!
+I bet it's delicious!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+Eat it while it's fresh and tasty!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+Did you make that at {FARM} Farm?
+Amazing!!{PAUSE}{EOM}
+
+Message 81:
+You've taken good care of your animals!
+I'm sure it's delicious!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 82:
+That's a gift from the animals to you,
+{PETE}! Be thankful!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+What is that??{PAUSE}{EOM}
+
+Message 84:
+How do you eat that??{PAUSE}{EOM}{EOM}
+
+Message 85:
+Does that have some kind of use??{PAUSE}{EOM}{EOM}
+
+Message 86:
+If we worked hard enough, then I'm sure
+she'll come.☆{PAUSE}{EOM}{EOM}
+
+Message 87:
+Yes.♪{PAUSE}{EOM}{EOM}
+
+Message 88:
+Nope.{PAUSE}{EOM}{EOM}
+
+Message 89:
+Harder!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+It's OK!
+We'll help!{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,470 @@
+Message 0:
+{S_340174}...!?{S_320320}{EOM}
+
+Message 1:
+{FACE_050003}Lots to eat around here, Moi.{PAUSE}{EOM}{EOM}
+
+Message 2:
+{FACE_050003}You take some, too, Moi!
+{CHOICE2 DEF0}
+Er, please give that back.
+Keep it up.{EOM}{EOM}
+
+Message 3:
+{FACE_050003}Lots to eat around here, Moi.{PAUSE}{EOM}{EOM}
+
+Message 4:
+{FACE_050003}Think I'll take this home, Moi.
+{CHOICE2 DEF0}
+Er, please give that back.
+Hope you enjoy it.{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+{FACE_050000}This your feedbox? Sorry, Moi.{PAUSE}{EOM}
+
+Message 6:
+Here you are, Moi.{PAUSE}{EOM}
+
+Message 7:
+Sorry, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+{FACE_050003}I'll be back, Moi.{PAUSE}{EOM}
+
+Message 9:
+{FACE_050000}I picked up a ton
+of food, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+This is for you, Moi.{S_320320}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+{FACE_050003}There's more food today, Moi!
+I'll be back, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_050003}Lots of eggs over there, Moi.
+Here, take one, Moi!{PAUSE}{EOM}
+
+Message 13:
+{FACE_050000}Lots of food around here, Moi!
+{FACE_050003}I'll be back, Moi!{PAUSE}{EOM}{EOM}
+
+Message 14:
+{FACE_050000}Look what I found in the forest, Moi!
+Here, take one, Moi!{PAUSE}{EOM}
+
+Message 15:
+{FACE_050003}Pretty tasty, Moi!
+Think I'll come back for more, Moi!{PAUSE}{EOM}
+
+Message 16:
+Think I'll come back for more, Moi!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+I've saved up some money, Moi.
+I'm goin' back to my family, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 18:
+Thanks for all your help, Moi!{PAUSE}
+Here, this is for you, Moi!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Here, this is for you, Moi!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+Goodbye, Moi...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{S_340173}...!
+I'll have a drink before I go, Moi...{PAUSE}{EOM}{EOM}
+
+Message 22:
+I spent all my money at the bar, Moi.
+{FACE_050003}I'll be needin' your help again, Moi!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+I wanna go back to my family, Moi!
+But I don't have any money, Moi!{PAUSE}
+You gotta help me, Moi!
+{CHOICE4 DEF0}
+Here's 1G.
+Here's 50G.
+Here's 100G.
+Sorry...{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+I wanna go back to my family, Moi!
+But I don't have any money, Moi!{PAUSE}
+You gotta help me, Moi!
+{CHOICE4 DEF0}
+Here's 1G.
+Here's 50G.
+Here's 100G.
+Sorry...{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+I wanna go back to my family, Moi!
+But I don't have any money, Moi!{PAUSE}
+You gotta help me, Moi!
+{CHOICE4 DEF0}
+Here's 1G.
+Here's 50G.
+Here's 100G.
+Sorry...{EOM}{EOM}{EOM}{EOM}
+
+Message 26:
+{S_340173}Phew, thanks, Moi...
+Come again, Moi!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 27:
+{FACE_050003}Wow, thanks a lot, Moi!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+You're a great gal, Moi!
+{FACE_050003}One step closer to home, Moi!{PAUSE}
+Thanks a lot, Moi!{PAUSE}{EOM}
+
+Message 29:
+Come again, Moi!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 30:
+But I can't go back to my family, Moi...
+Hope you can help next time, Moi...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+{FACE_050004}You don't have that much, Moi.{PAUSE}
+{FACE_050000}Every little bit helps, Moi!
+{CHOICE4 DEF0}
+Here's 1G.
+Here's 50G.
+Here's 100G.
+Sorry...{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+Thanks for all your help, Moi.
+Goodbye, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+Griffin, sing something
+for {PETE}, Moi!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+Moi Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+{S_340173}Moooi moi.{PAUSE}{EOM}{EOM}
+
+Message 37:
+Hmm, nothin', Moi.{PAUSE}{EOM}
+
+Message 38:
+I'll bring you somethin', Moi.{PAUSE}{EOM}
+
+Message 39:
+There's nothin' good, Moi.{PAUSE}{EOM}
+
+Message 40:
+I'll bring somethin' better, Moi.{PAUSE}{EOM}{EOM}
+
+Message 41:
+I want the {VAR_00}, Moi.
+Well?
+{CHOICE3 DEF2}
+I'll mark it down to {GOLD_0105}G.
+It's {GOLD_0205}G...
+I'm not giving it away, you know!{EOM}{EOM}
+
+Message 42:
+I gotta pay for it? Never mind, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 43:
+I'm not buyin' anything, Moi.{PAUSE}{EOM}{EOM}
+
+Message 44:
+Hey, whatcha got there?
+Gimme somethin', Moi.{PAUSE}{EOM}{EOM}
+
+Message 45:
+{S_340174}Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+I don't feel right, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+I'm beat, Moi.{PAUSE}{EOM}
+
+Message 48:
+That's not funny, Moi.{PAUSE}{EOM}
+
+Message 49:
+Moi?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+{S_340173}Hi, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+{S_340173}Are you gonna gimme that?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 52:
+{FACE_050003}{S_340173}Moooi Moi, yippee♪{PAUSE}{EOM}{EOM}
+
+Message 53:
+{S_340174}{FACE_050004}No thanks, Moi.{PAUSE}{EOM}
+
+Message 54:
+Looks yummy, Moi.{PAUSE}{EOM}{EOM}
+
+Message 55:
+Hey, that looks good, Moi...
+Wanna give it to me?{CHOICE Y/N DEF0}{EOM}
+
+Message 56:
+Then I'll just look at it, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+No thanks, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+That's no good for me, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+Food's better, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+{FACE_050003}{S_340173}Pretty cute, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+Reminds me of my kids, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+I'm scared of dogs, Moi...{PAUSE}{EOM}
+
+Message 63:
+I like animals, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 64:
+Cats are so soft--an' look delicious, Moi.{PAUSE}{EOM}
+
+Message 65:
+Mmm, a tasty-lookin' cat...Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+I'll take an egg from that one, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+Grow up 'n lay
+eggs already, Moi!{PAUSE}{EOM}{EOM}
+
+Message 68:
+Get big 'n strong, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+{FACE_050003}...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+I'll take whatever
+these grow into, moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 71:
+I don't need seeds, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+{S_340173}Moi. What's that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+{S_340174}...I don't need that, Moi.{PAUSE}{EOM}{EOM}
+
+Message 74:
+Nice stone, Moi.
+But I can't eat it, Moi...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+Pretty flowers, Moi.
+But I can't eat 'em, Moi...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+{S_340174}Don't like that smell...Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+{S_3400DA}{S_3205DC}{FACE_050003}{S_340173}Mmm mmm mmm... Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+{S_3400DA}{S_3205DC}{FACE_050003}Nice drum, Moi.{PAUSE}{EOM}{EOM}
+
+Message 79:
+Is that gold, Moi?{PAUSE}{EOM}
+
+Message 80:
+{S_340173}Beautiful, Moi.{PAUSE}{EOM}
+
+Message 81:
+Can you eat that, Moi?{PAUSE}{EOM}
+
+Message 82:
+{S_340172}So what? Moi...{PAUSE}{EOM}
+
+Message 83:
+You know Po-Po Valley,?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 84:
+{S_340173}Really?!
+I'm from there, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 85:
+{S_340174}No one does, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+I got lost 'n can't find my
+way back to Po-Po Valley, Moi.{PAUSE}{EOM}
+
+Message 87:
+I wanna save up some money 'n
+get back to my family, Moi.{PAUSE}{EOM}{EOM}
+
+Message 88:
+Heard there's someone out
+there with lots of money, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+Heard there's someone out there{PAUSE}
+who's really nice, Moi.
+Wish I could meet 'em, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+Heard there's someone out there
+makin' lots 'n lots of food, Moi.
+Wish they'd share it with me, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+Heard there's someone out there
+who really loves animals, Moi.
+Bet she is awful nice, Moi.{PAUSE}{EOM}
+
+Message 92:
+Heard there's someone out there
+diggin' up lots of pretty stones, Moi.{PAUSE}{EOM}
+
+Message 93:
+Heard there's someone out there
+who's really great at fishin', Moi.
+I wish I could fish, Moi.{PAUSE}{EOM}{EOM}
+
+Message 94:
+Heard about someone who walks a lot, Moi.
+I'll show 'em, Moi!
+I'm gonna walk to Po-Po Valley, Moi.{PAUSE}{EOM}
+
+Message 95:
+Heard there's someone out there
+who's lived a long long time, Moi.{PAUSE}{WIPE}
+{FACE_050004}I'll show 'em, Moi!
+I'm gonna live 'til I die, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 96:
+Heard there's someone out there
+who really loves fishin', Moi.{PAUSE}{WIPE}
+I wish they'd give me what they catch...{PAUSE}{EOM}{EOM}
+
+Message 97:
+Heard there's someone out there
+with bad taste, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 98:
+Heard there's someone out there
+with lots of big ol' houses, moi.
+All I need is one place to sleep, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+Heard there's someone out there
+who does really great work, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+That food you gave me
+was really yummy, Moi.
+Gimme more sometime.{PAUSE}{EOM}{EOM}
+
+Message 101:
+{S_340173}Can't wait to get back home, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+{S_340174}...{PAUSE}{EOM}
+
+Message 103:
+Sometimes there's food here, Moi.{PAUSE}{EOM}{EOM}
+
+Message 104:
+Sometimes there're drinks here, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+I like this place, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+{S_340173}Got nice 'n warm, Moi.{PAUSE}{EOM}{EOM}
+
+Message 107:
+Brad 'n Janet are doin' fine, Moi.
+You know Brad 'n Janet?{PAUSE}{WIPE}
+They're always here, flyin' around me...
+We're always together, Moi.{PAUSE}{EOM}{EOM}
+
+Message 108:
+I'm hungry, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+I wanna go home, Moi.{PAUSE}{EOM}{EOM}
+
+Message 110:
+{S_340173}It's hot, Moi.{PAUSE}{EOM}{EOM}
+
+Message 111:
+It's cooler over in Po-Po Valley, Moi.{PAUSE}{EOM}
+
+Message 112:
+{S_340173}This place is like Po-Po Valley, moi.
+Still wanna go back, though, Moi.{PAUSE}{EOM}
+
+Message 113:
+I think of my family sometimes, Moi.
+I gotta get home, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+{S_340173}It's cold, Moi.{PAUSE}{EOM}
+
+Message 115:
+Brad an' Janet aren't doin' so good, Moi.{PAUSE}{EOM}{EOM}
+
+Message 116:
+Gimme somethin', Moi.{PAUSE}{EOM}{EOM}
+
+Message 117:
+Wish I had a fish, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+I wanna eat some berries...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 119:
+Lots of food around here, Moi.{PAUSE}{EOM}
+
+Message 120:
+People from here used to eat tree bark.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 121:
+{S_340173}I'll come back, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 122:
+I'll come back, Moi.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 123:
+I'll bring it to you if I find any again.{PAUSE}{EOM}{EOM}
+
+Message 124:
+I'll bring it to you if I find any again.{PAUSE}{EOM}{EOM}
+
+Message 125:
+Moi Moi...
+Moooi, can't take that right now, Moi.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

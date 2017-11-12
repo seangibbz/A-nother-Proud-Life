@@ -1,0 +1,745 @@
+Message 0:
+What the--! {GRIFFIN}!
+You can't just leave your bar like that!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+How could someone so much younger
+than me be taken first...?{S_321388}{PAUSE}{WIPE}
+{FACE_160000}All right!
+I'm gonna go home and set off my biggest
+and best firecracker, just for her!{PAUSE}{EOM}{EOM}
+
+Message 2:
+{GRIFFIN},
+a song for her, if
+you please!{PAUSE}{EOM}
+
+Message 3:
+I'll be headin' for bed soon...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+It's my shut-eye time, so
+get out.{PAUSE}{EOM}
+
+Message 5:
+Night.{PAUSE}{EOM}
+
+Message 6:
+I've gotta be leavin' soon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+I've gotta go now.
+Bye.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+Bye.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+{S_34016E}Hey...{PAUSE}{EOM}{EOM}
+
+Message 10:
+{S_34016E}Hey there youngster.
+Got a second?{PAUSE}{EOM}{EOM}
+
+Message 11:
+{S_34016D}{FACE_160009}Hmph. Nothin' here.
+All sold out, are you?{PAUSE}{EOM}{EOM}
+
+Message 12:
+{S_34016D}..Oh well.
+Maybe I'll come back later.{PAUSE}{EOM}{EOM}
+
+Message 13:
+{S_34016E}Don't mind me.
+I'm just lookin'.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+{S_34016D}...Is this all you've got?{PAUSE}{EOM}{EOM}
+
+Message 15:
+I wouldn't mind having
+the {VAR_00}, but how much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}
+
+Message 16:
+Not a bad price.
+I like the cut of your jib, lass.
+Thanks.{PAUSE}{EOM}
+
+Message 17:
+I see... Well, all right.
+I suppose I'll take it.{PAUSE}{EOM}{EOM}
+
+Message 18:
+Oh, never mind then.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+Oh never mind.{PAUSE}{EOM}
+
+Message 20:
+{S_34016E}Welcome to Forget-Me-Not Valley. Name's
+Kassey. I'm the best fireworks creator in
+the world. Met my brother Patrick yet?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{FACE_160007}...........Hmmmmm....{PAUSE}{EOM}{EOM}
+
+Message 22:
+{FACE_160007}.............
+Just leave me alone,
+youngster...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+{S_34016C}{FACE_160004}What?!{PAUSE}{EOM}{EOM}
+
+Message 24:
+{S_34016C}{FACE_160004}What do you want?!{PAUSE}{EOM}{EOM}
+
+Message 25:
+{S_34016E}Mornin'.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 26:
+{S_34016E}Howdy.{PAUSE}{EOM}{EOM}
+
+Message 27:
+{S_34016E}Evenin'.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+{S_34016E}Evenin'.
+What are you doin' out at
+this hour?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 29:
+{S_34016E}Howdy.
+What are you doin' out so late?{PAUSE}{EOM}{EOM}
+
+Message 30:
+{S_34016E}Howdy. I won't tell you any of my
+fireworks secrets, so don't ask.{PAUSE}{EOM}{EOM}
+
+Message 31:
+{S_34016E}You have some business out this late?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+{S_34016E}Howdy.
+What can I do for you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+{S_34016D}{FACE_160003}What, is that for me? To tell you the
+truth, that's one of my favorites.
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 34:
+{FACE_160003}Well, thank you, thank you.
+You're not a bad young lass, are you?
+I'm lookin' forward to eatin' this.{PAUSE}{EOM}{EOM}
+
+Message 35:
+{S_34016D}{FACE_160004}Listen here, you young whippersnapper!
+{FACE_160009}...Oh never mind.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+{S_34016E}{FACE_160003}That looks good. I'm droolin' all
+over myself just lookin' at it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+{S_34016D}You've got somethin' nice there.
+{FACE_160003}What, is it for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 38:
+{S_34016E}{FACE_160003}That's one of my weaknesses.
+Right after young women, that is...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+{S_34016C}{FACE_160004}Get that stuff out of my face!{PAUSE}{EOM}{EOM}
+
+Message 40:
+{S_34016C}{FACE_160007}Just lookin' at that makes
+me sick to my stomach...
+{FACE_160009}Ugh...{PAUSE}{EOM}{EOM}
+
+Message 41:
+{S_34016D}{FACE_160009}What is that?
+Nothin' I'd want, that's for sure.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+{S_34016D}{FACE_160004}Don't you have anythin'
+better to show me? {FACE_160003}Like a picture of a
+nice young... er... never mind...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+{S_34016D}{FACE_160009}I'm sorry, but
+I'm really not very fond
+of children.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+{S_34016E}{FACE_160009}............
+I don't understand what people
+see in those things...{PAUSE}{EOM}{EOM}
+
+Message 45:
+{S_34016D}{FACE_160009}Look,
+I think some animals are cute, but
+I wouldn't say I actually like them.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+{S_34016E}{FACE_160009} They're a lot of work, and they
+smell. I don't know why people feel the
+need to have pets...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+{S_34016D}{FACE_160009}What kind of seed is that?{PAUSE}{EOM}{EOM}
+
+Message 48:
+{S_34016E}Good luck with your
+plantin' and all...{PAUSE}{EOM}
+
+Message 49:
+{S_34016E}Hmm. Did you grow that?
+It looks pretty good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+{S_34016E}That looks pretty good.
+Why don't you try growin' lots of things?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+{S_34016E}Hmm. Is that from your farm?
+It looks very nice and
+fresh.{PAUSE}{EOM}{EOM}
+
+Message 52:
+{S_34016E}Hmmm.
+That looks like it would be
+very healthy.{PAUSE}{EOM}
+
+Message 53:
+{S_34016D}Did you catch that fish?
+I see. You fish too? You're a catch, yep.{PAUSE}{EOM}{EOM}
+
+Message 54:
+{S_34016E}You like fishin'?
+I prefer playin' my game.{PAUSE}{EOM}
+
+Message 55:
+{S_34016D}Did you pick that?
+I heard those are good in cookin'.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+{S_34016E}You like collectin' wild plants?
+I prefer playin' my game.{PAUSE}{EOM}{EOM}
+
+Message 57:
+{S_34016E}That's a tasty lookin' dish you have.
+{FACE_160003}What, are you givin' it to me?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 58:
+{S_34016D}Yes... Looks quite good.
+I love that kind of thing.{PAUSE}{EOM}
+
+Message 59:
+{S_34016D}{FACE_160009}Is that a good garden tool?
+{FACE_160003}I'm really only interested in pretty girls
+and fireworks.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+{S_34016C}{FACE_160009}Don't you use a hoe for
+tillin' a field?
+What're you doin' with it here?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+{S_34016E}Tools get easier to use the
+more you use them. Did you know that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 62:
+{S_34016D}{FACE_160009}Is that a good sickle?
+{FACE_160003}I'm really only interested in pretty girls
+and fireworks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{S_34016C}{FACE_160009}Isn't a sickle used for
+cuttin' grass and stuff?
+You shouldn't wave it around here.{PAUSE}{EOM}
+
+Message 64:
+{S_34016E}{FACE_160009}Hmm. A waterin' can, eh?
+Even if we had a fire from our fireworks
+that puny thing wouldn't put it out.{PAUSE}{EOM}{EOM}
+
+Message 65:
+{S_34016C}By the way...
+Don't spill any water around here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+{S_34016D}{FACE_16000C}What on earth is that thing?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+{S_34016D}{FACE_160003}Oh! So you use that to
+milk!
+{FACE_160009}...Oh, it only works on cows, huh?{PAUSE}{EOM}
+
+Message 68:
+{S_34016D}{FACE_160009}Clippers, eh?
+Don't have any use for those.{PAUSE}{EOM}
+
+Message 69:
+{S_34016E}Hey, maybe we could make a rule where
+if somebody loses my game, she has to shave
+her head... What do you think?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+{S_34016E}You can finish your work much more
+quickly if you use your tools well.{PAUSE}{EOM}{EOM}
+
+Message 71:
+{S_34016D}{FACE_16000C}Oh! What do we have here?
+{FACE_160003}Are you gonna give it to me?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+{S_34016D}{FACE_16000C}...I don't know what it is,
+but I like it.{PAUSE}{EOM}{EOM}
+
+Message 73:
+{S_34016E}Hmm.
+Is that wild plant from around here?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+{S_34016E}Hmm.
+I don't know anythin' about wild plants.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+{S_34016D}{FACE_16000C}Hmm. What's that?
+A dog disk?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+{S_34016E}{FACE_160003}I know!
+It's a dart board, right? But it's kind of
+plain and doesn't have the scores on it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+{S_34016D}{FACE_16000C}Hmm. What's that, youngster?
+Does it have somethin' to do with me?{PAUSE}{EOM}{EOM}
+
+Message 78:
+{S_34016D}{FACE_16000C}Hmm. What's that?
+Somethin' rare?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 79:
+{S_34016E}Hmm. That's one of Patrick's fireworks.
+...Still needs work... But it's better
+than most fireworks you see.{PAUSE}{EOM}
+
+Message 80:
+{S_34016E}Hmm. Not a bad firecracker.
+...But of course, you never really
+know until you set it off...{PAUSE}{EOM}
+
+Message 81:
+Is that for me?
+{FACE_160009}...{S_34016D}It isn't?!
+{FACE_160004}You young son of a...!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+{S_34016E}Who're you givin' that to?{PAUSE}{EOM}{EOM}
+
+Message 83:
+{S_34016E}My twin brother and I live in an elevated
+house. We both make fireworks.
+I'm the older one, just so you know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+{S_34016E}I don't like to toot my own horn,
+but I come from a long line of fireworks
+makers. I'm the best.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{S_34016E}To tell you the truth, my brother and I
+were once workin' on a six-foot-tall
+firecracker when it went off and well...{PAUSE}{WIPE}
+We landed here and have
+been livin' in this place ever since.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+{S_34016E}{FACE_160003}That thing you gave me
+was very good.
+You're all right, youngin'.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+{S_34016D}{FACE_160009}About that thing you gave me...
+I just can't stand that kind of thing.
+Sorry.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+{S_34016D}{FACE_160009}The {VAR_00} you gave me
+wasn't great.
+You've still got work to do...{PAUSE}{EOM}
+
+Message 89:
+{S_34016E}{FACE_160003}The {VAR_00} you gave me
+was pretty good.
+I wouldn't mind some more...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+{S_34016E}{FACE_160003}The {VAR_00} you gave me
+was the best darn thing I ever tasted!
+You're amazin'!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+{S_34016E}{FACE_160003}The {VAR_00} you gave me
+was just the kind of thing I like.
+Yep, it was delicious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+{S_34016E}{FACE_160009}That milk you gave me
+tasted a little off to me...
+You've still got work to do...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+{S_34016E}That milk you gave me
+wasn't bad.
+I wouldn't mind some more.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+{S_34016E}{FACE_160003}That milk you gave me
+was pretty darn good.
+Thanks a lot. I'd love some more.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+{S_34016E}{FACE_160003}That milk you gave me
+was just incredible.
+Thanks.{PAUSE}{EOM}{EOM}
+
+Message 96:
+{S_34016E}{FACE_160009}That milk you gave me
+seemed kind of...
+smelly.{PAUSE}{EOM}
+
+Message 97:
+{S_34016E}{FACE_160003}That milk you gave me
+was pretty darn good.
+Maybe a little smelly.{PAUSE}{EOM}{EOM}
+
+Message 98:
+{S_34016E}{FACE_160003}The cheese you gave me
+was pretty darn good.
+Thanks a lot. I'd love some more.{PAUSE}{EOM}{EOM}
+
+Message 99:
+{S_34016E}The cheese you gave me
+was from your farm, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+{S_34016E}{FACE_160003}The butter you gave me
+was pretty darn good.
+Thanks a lot. I'd love some more.{PAUSE}{EOM}{EOM}
+
+Message 101:
+{S_34016E}The butter you gave me
+was from your farm, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+{S_34016E}{FACE_160003}That dish you gave me
+was pretty darn good.
+Thanks.{PAUSE}{EOM}
+
+Message 103:
+{S_34016E}{FACE_160003}That fish you gave me
+was pretty darn good.
+Thanks.{PAUSE}{EOM}
+
+Message 104:
+{S_34016E}{FACE_160003}That wild plant you gave me
+was pretty darn good.
+Thanks.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+{S_34016E}{FACE_160003}That whatchamacallit you gave me
+was pretty darn good.
+Thanks.{PAUSE}{EOM}{EOM}
+
+Message 106:
+{S_34016E}You're workin' hard every day.
+Aside from a few rare geniuses like me,
+most people'd have trouble doin' so well.{PAUSE}{WIPE}
+You're a fine farmer.
+Well done.{PAUSE}{EOM}
+
+Message 107:
+{S_34016E}I heard you're good at growin' things.
+Aside from a few rare geniuses like me,
+most people'd have trouble doin' so well.{PAUSE}{WIPE}
+Keep up the good work and keep
+growin' lots of tasty crops.{PAUSE}{EOM}{EOM}
+
+Message 108:
+{S_34016E}I heard you're a very good cook.{PAUSE}{WIPE}
+Aside from a few rare geniuses like me,
+most people'd have trouble doin' so well.{PAUSE}{WIPE}
+Keep it up. You'll be a top chef one day.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+{S_34016E}Are you workin' hard?
+A genius like myself may be the exception,
+but for most, success requires hard work.{PAUSE}{WIPE}
+Anyway, things seem to be workin'
+out well for you on your farm, so
+keep up the good work.{PAUSE}{EOM}
+
+Message 110:
+{S_34016E}You're sure workin' hard on those crops.
+A genius like myself may be the exception,
+but for most, success requires hard work.{PAUSE}{WIPE}
+Farming's a noble profession.
+Keep at it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 111:
+{S_34016E}I hear you cook a lot at home.
+People say you're pretty good at it.{PAUSE}{WIPE}
+A genius like myself may be the exception,
+but for most, success requires hard work.
+Keep workin' on it.{PAUSE}{EOM}{EOM}
+
+Message 112:
+Gettin' used to life on the farm, are you?
+{S_34016D}Now your real work begins.
+You're still young, so keep at it!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 113:
+Gotten used to growin' crops, have you?
+{S_34016D}You're still young. You should
+do what you think you're suited for.{PAUSE}{EOM}
+
+Message 114:
+Gettin' used to cookin', are you?
+{S_34016D}You're still young. You should
+do what you think you're suited for.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 115:
+{S_34016E}Hey there, young un'. Which do you like
+better, fireworks or boys?
+{CHOICE3 DEF1}
+Fireworks.
+Boys.
+Both.{EOM}
+
+Message 116:
+{S_34016E}{FACE_160003}So you like fireworks, eh?
+I'd like to show you mine sometime.
+{FACE_160009}But not now.{PAUSE}{WIPE}
+I'm in the middle of my research.
+{FACE_160003}And you should really think about
+gettin' interested in boys, too. Heheheh.{PAUSE}{EOM}
+
+Message 117:
+{S_34016D}{FACE_16000C}...I thought so!
+{FACE_160003}Yep, you've got that look about you.
+Just try and keep yourself under control.{PAUSE}{EOM}
+
+Message 118:
+{S_34016D}{FACE_16000C}Both?!{FACE_160003}...You're quite a kid!
+You know what fireworks and boys have in
+common? Loud ones like me are the best!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 119:
+{S_34016C}{FACE_160004}Don't talk to me while I'm
+makin' fireworks. Even the tiniest mistake
+and BOOM!!.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+{S_34016C}{FACE_160004}Don't touch anythin' over there.
+One wrong move and BOOM!!{PAUSE}{EOM}{EOM}
+
+Message 121:
+{S_34016C}If you beat one of us at our game,
+you'd better be careful.
+One wrong move and BOOM!!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+{S_34016C}When I'm in a bad mood, you'd
+better be careful what you say.
+One wrong move and BOOM!!{PAUSE}{EOM}
+
+Message 123:
+{S_34016C}When your husband is in a bad mood, you'd
+better be careful.
+One wrong move and BOOM!!{PAUSE}{EOM}{EOM}
+
+Message 124:
+{S_34016C}{FACE_160004}The bar here is a little too
+high for my brother and I to use...
+Who do I complain to...? Mumble mumble...{PAUSE}{EOM}{EOM}
+
+Message 125:
+{S_34016E}{FACE_160003}My favorite drink is the {C13}Moomoo Milk{C17}.
+I bet you can figure out why...
+Ha, ha, ha! Hoooo!{PAUSE}{EOM}{EOM}
+
+Message 126:
+{S_34016E}Griffin is usually quiet and
+serious, but put a guitar in his hands
+and watch out!{PAUSE}{EOM}{EOM}
+
+Message 127:
+{S_34016E}Well, make yourself at home.
+Of course, there's nothin' to do here
+but play our game...{PAUSE}{EOM}
+
+Message 128:
+{S_34016E}Relax.
+Take a load off.{PAUSE}{EOM}
+
+Message 129:
+{S_34016E}{FACE_160003}This place is real relaxin'.
+I love it here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+{S_34016E}{FACE_160003}You like this place, too?
+Hmm. I see.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+{S_34016E}{FACE_160003}This time of year makes
+me feel good.
+I feel like havin' a party.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+{S_34016E}Yep. This time of year is just perfect
+for enjoyin' nature. The flowers,
+the trees... the women... Ha!{PAUSE}{EOM}{EOM}
+
+Message 133:
+{S_34016E}One of the best things about my
+game is that you can enjoy it year round,
+no matter what the weather is like.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+{FACE_160009}What kind of firecracker should I make
+next... {S_34016E}{FACE_160003} Aha! Somethin' that'll be popular
+with the ladies! Now what'd Muffy like...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 135:
+{S_34016D}{FACE_160009}Whew... I don't care what they say...
+It's the heat AND the humidity.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+{S_34016E}But I think this time of year
+is the best one for settin' off
+fireworks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+{S_34016E}{FACE_160003}Not too hot, not too cold.
+Isn't this the best time of year?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+{S_34016E}{FACE_160003}It's so cool this time of year.
+It really helps the old appetite.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 139:
+{S_34016E}{FACE_160009}Darn winter...
+It's so cold.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+{S_34016E}This time of year'd be perfect for
+relaxin' in a hot tub with some pretty
+ladies, but that's not gonna happen here.{PAUSE}{EOM}
+
+Message 141:
+{S_34016E}...I love the sea.
+Don't you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 142:
+{S_34016E}Lookin' out at this expanse of blue ocean,
+I can't help but think of fireworks...
+What?{PAUSE}{EOM}
+
+Message 143:
+{S_34016E}All right.
+How about playin' a game?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 144:
+{S_34016E}Don't hold back.
+I'm ready for you.{PAUSE}{EOM}
+
+Message 145:
+{S_34016C}{FACE_160004}Hmph. You won't play, eh?
+{FACE_160009}Go on then, run away with
+your tail between your legs!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 146:
+{S_34016D}{FACE_16000C}Sorry, could you make it some other time?
+I've got my hands full at the moment.{PAUSE}{EOM}
+
+Message 147:
+It sure is damp.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+{S_34016C}{FACE_160004}On days like this, the gunpowder
+gets wet, so I can't do a thing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 149:
+.........{PAUSE}{EOM}{EOM}
+
+Message 150:
+.........{PAUSE}{EOM}{EOM}
+
+Message 151:
+.........{PAUSE}{EOM}{EOM}
+
+Message 152:
+.........{PAUSE}{EOM}{EOM}
+
+Message 153:
+{FACE_160003}I'm sorry, but your time is up.
+I win this time.{PAUSE}{WIPE}
+It's good to be careful about your moves,
+but if you take too long and this happens.
+Next time, pay more attention to the time.{PAUSE}{EOM}
+
+Message 154:
+{FACE_160003}Too bad.
+I win this time.
+Hmm. Maybe I tried a little too hard?{PAUSE}{WIPE}
+No, just kiddin'.
+I hope you'll come and play me
+again.{PAUSE}{EOM}{EOM}
+
+Message 155:
+{FACE_160003}Hmm. That was a close one.
+I win this time.
+I'll be waitin' for a rematch.{PAUSE}{EOM}
+
+Message 156:
+{FACE_16000C}What?!
+I lose this time.
+{FACE_160003}Ho ho ho.{PAUSE}{WIPE}
+You got me good.{PAUSE}{EOM}{EOM}
+
+Message 157:
+{FACE_160007}Darn!
+I lose this time.
+{FACE_160003}You're pretty good, youngin'.{PAUSE}{EOM}{EOM}
+
+Message 158:
+{FACE_160003}Ho ho ho.
+This time it's a tie.{PAUSE}{WIPE}
+You're pretty good, youngin'.
+Let's play again sometime.{PAUSE}{EOM}
+
+Message 159:
+In honor of your victory, let me
+give you this.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 160:
+I love to play again sometime,
+youngster.{PAUSE}{EOM}{EOM}
+
+Message 161:
+{FACE_160000}Next time things will be different.
+I'll be wantin' a rematch sooner or
+later, so be ready for me.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

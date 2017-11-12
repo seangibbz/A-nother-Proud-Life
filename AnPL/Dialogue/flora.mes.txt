@@ -1,0 +1,800 @@
+Message 0:
+You're welcome.
+I didn't know that you were interested
+in archeology.{PAUSE}{EOM}{EOM}
+
+Message 1:
+My story?{PAUSE}{EOM}{EOM}
+
+Message 2:
+Thinking back, it seems like time has
+passed very quickly...{PAUSE}{WIPE}
+Now that I think of it, I was about your
+age when I first came here...{PAUSE}{WIPE}
+Can't you dress up or fall in love
+here just as well as anywhere?{PAUSE}{EOM}{EOM}
+
+Message 3:
+Not at all.{PAUSE}{WIPE}
+I sometimes think I'd like to go back
+to the {C14}{STRUC_31}{C17}.
+I've thought that for a long time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+But it seems like I've really gotten
+to like my work here.{PAUSE}{EOM}
+
+Message 5:
+Is that enough?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+No problem. See you later.{PAUSE}{EOM}
+
+Message 7:
+Oh, Professor.
+Good job today.{S_3203E8}{EOM}{EOM}{EOM}
+
+Message 8:
+Of course.{S_3203E8}
+...?{S_3203E8}
+What the-?{S_3203E8}{EOM}
+
+Message 9:
+Who knows?{PAUSE}{EOM}
+
+Message 10:
+Poor {PETE}...{S_3203E8}
+This was so sudden. It is quite a shock.{PAUSE}{EOM}
+
+Message 11:
+{GRIFFIN},
+how about a song for {PETE}?
+Would you mind?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_1C0019}I'm going to be going to bed soon...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+{FACE_1C0019}It's time for me to go to bed.
+Do you think you could leave?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+Goodnight then.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+{FACE_1C0019}I'm going to be going
+out pretty soon...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 16:
+{FACE_1C0019}I have to go out now.
+I'll see you some other time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+See you later...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 18:
+{S_34018B}Hello there.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Excuse me,
+are you open?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+{S_34018C}{FACE_1C0019}...You don't have anything at all.
+Sorry, I didn't mean anything by that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+{FACE_1C0019}If you don't have anything,
+it can't be helped. I'll come back later.{PAUSE}{EOM}{EOM}
+
+Message 22:
+Hmmm....
+Oh, don't mind me...{PAUSE}{EOM}{EOM}
+
+Message 23:
+Do you have anything else?{PAUSE}{EOM}
+
+Message 24:
+I like the {VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}
+
+Message 25:
+{FACE_1C000A}R-really?!
+That's quite a good deal...{PAUSE}{EOM}
+
+Message 26:
+I'll take it, please.{PAUSE}{EOM}{EOM}
+
+Message 27:
+Oh well.
+Never mind.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+I'd like the {VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+Hmm, I thought so.
+Never mind then.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+{S_34018B}Hello, you're
+{PETE}, aren't you?
+My name is Flora.{PAUSE}{WIPE}
+I'm doing research in archeology. I help
+out the Professor with his excavation over
+by the waterfall.{PAUSE}{EOM}
+
+Message 31:
+{FACE_1C0007}........Sigh.....{PAUSE}{EOM}{EOM}
+
+Message 32:
+{FACE_1C0007}............Sigh....
+It's OK.
+Just leave me alone.{PAUSE}{EOM}
+
+Message 33:
+{S_34018C}{FACE_1C0005}You want something?!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+{S_34018C}{FACE_1C0005}....So what do you want?!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+{S_34018C}Um, good morning.
+Today's a good day for digging.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+{S_34018C}Um, good day.
+Of course, when you're digging it seems
+like it's night all the time.{PAUSE}{EOM}
+
+Message 37:
+{S_34018C}Um, good evening.
+When I'm digging, the time flies.
+Then suddenly it's nighttime.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+{S_34018C}Oh, hi there.
+What are you doing out
+this late?{PAUSE}{EOM}
+
+Message 39:
+{S_34018C}Oh, hello.
+It's rather late, but you're
+welcome here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+{S_34018B}{FACE_1C0003}Welcome.
+Thanks for coming all this way.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+{S_34018C}Hmm? What are you
+doing here so late at night?
+It couldn't be... No, I guess not.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+{S_34018C}Hmm?
+What brings you here?{PAUSE}{EOM}{EOM}
+
+Message 43:
+{S_34018C}{FACE_1C000A}What?!
+You're giving that to me?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 44:
+{S_34018B}{FACE_1C000A}Wow!
+Thank you very much!
+I'm so happy!{PAUSE}{EOM}
+
+Message 45:
+{S_34018C}{FACE_1C0007}Oh... I see...
+That's...too bad.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+That looks really, really
+good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+Oooh! You've got something nice there.
+{S_34018C}{FACE_1C000A}What? You're giving it to me?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 48:
+That's nice.
+Really...{PAUSE}{EOM}
+
+Message 49:
+{S_34018C}{FACE_1C0005}Ughhh!
+I can't stand that stuff!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+{FACE_1C0005}I... toooold... yoooou...
+I can't stand that stuff!!
+Stop showing it to me!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+{S_34018C}{FACE_1C0004}...Hmm.
+I'm not interested in that. Or I guess I
+should say... I don't like it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 52:
+{FACE_1C0004}No, I don't like it.
+Does anyone really like that
+kind of thing?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+{S_34018B}{FACE_1C0003}Awwww!
+How cuuuuuuuute!
+Kids are great, aren't they?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+{FACE_1C0019}Kids certainly are
+cute, aren't they?
+I'd like one of my own someday...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+{S_34018B}{FACE_1C0003}Animals sure are
+cute, aren't they?
+I'd like a pet of my own someday...{PAUSE}{EOM}
+
+Message 56:
+{FACE_1C0019}Living animals are cute, but...
+I think I prefer a rare fossil of an
+extinct animal. No need to feed it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+{S_34018C}{FACE_1C000C}Hmm? What is that, anyway?{PAUSE}{EOM}{EOM}
+
+Message 58:
+{S_34018C}{FACE_1C000C}Umm... You didn't dig that up
+at the excavation site, did you?{PAUSE}{EOM}{EOM}
+
+Message 59:
+{S_34018B}{FACE_1C0003}Is that an egg from your farm?
+It looks fresh and delicious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+{S_34018B}{FACE_1C0003}That looks like quite a nice egg.
+I'm sure it was laid by a good
+chicken,{PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+{S_34018C}{FACE_1C0019}Did you get that somewhere around here?
+I'm sorry, grass is a little out of my
+area of expertise...{PAUSE}{EOM}
+
+Message 62:
+{FACE_1C0019}Hmmm...
+If it were a fossilized flower or grass,
+then I might be interested.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 63:
+What delicious looking food!
+I'm jealous...{S_34018B}{FACE_1C000A} What? It's for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+It looks reeeeeally good.
+I'm drooling a little.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+{S_34018C}{FACE_1C000C}That's kind of an odd hoe.
+It looks pretty heavy...{PAUSE}{EOM}
+
+Message 66:
+{FACE_1C000C}You'd think you could use a hoe
+in our excavation work, but you can't.
+Our finds are quite delicate.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+{S_34018C}{FACE_1C000C}Well, that's an unusual hoe.
+What is that, anyway?{PAUSE}{EOM}{EOM}
+
+Message 68:
+{S_34018B}{FACE_1C0003}Ha ha!
+That hoe certainly has seen a lot of use!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+{S_34018B}{FACE_1C0003}It's amazing that you could use it
+so much.
+You really must help us with our digging.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+{S_34018C}{FACE_1C0019}Oh, that's a brand new
+hoe, isn't it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 71:
+{FACE_1C0019}That hoe still has a lot of good
+use left in it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+{S_34018C}Well, that hoe has been
+used a fair amount, hasn't it?{PAUSE}{EOM}{EOM}
+
+Message 73:
+The more you use a hoe, the more it
+molds to the shape of your hands.{PAUSE}{EOM}{EOM}
+
+Message 74:
+{S_34018B}{FACE_1C0003}Ha ha!
+That hoe certainly has seen a lot of use!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+{S_34018B}{FACE_1C0003}You sure must have done a lot of
+digging to put that much wear on your hoe.
+You really must help us with our digging.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+{S_34018C}{FACE_1C000C}Well that's an rather unusual hoe.
+Isn't it a little hard to use?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+{FACE_1C0019}Unfortunately, I don't think
+we can use sickles in our excavation
+work.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+{FACE_1C000C}That's an unusual sickle.
+Where did you get it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+{S_34018C}{FACE_1C000C}Eeek! That sickle looks
+like it's very sharp!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 80:
+{FACE_1C0019}That sickle looks a little
+odd...
+But if it works, that is all that matters.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 81:
+{S_34018C}{FACE_1C0019}Well, that's a brand new
+sickle, isn't it?{PAUSE}{EOM}{EOM}
+
+Message 82:
+{FACE_1C0019}There seems to be a lot of use left
+in that sickle.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+{S_34018C}Let's see... That sickle has
+been used a fair amount, hasn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+Sickles or almost anything get easier to
+use the more you use them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{S_34018B}{FACE_1C0003}Ha ha!
+That sickle certainly has been well used.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+{S_34018B}{FACE_1C0003}You must be working very hard at farming.
+At least judging from that sickle...{PAUSE}{EOM}{EOM}
+
+Message 87:
+{S_34018C}{FACE_1C0009}That's an odd watering can...
+Something about the shape...{PAUSE}{EOM}{EOM}
+
+Message 88:
+{FACE_1C0009}Is that a rare item?
+Well, is it?{PAUSE}{EOM}{EOM}
+
+Message 89:
+{FACE_1C0009}...In any case, watering cans don't
+do much for us while conducting excavation
+work.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+{S_34018C}{FACE_1C0019}Well, that's a brand new
+watering can, isn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 91:
+{FACE_1C0019}There seems to be a lot of use left
+in that watering can.{PAUSE}{EOM}{EOM}
+
+Message 92:
+{S_34018C}Well, that watering can has
+been used a fair amount, hasn't it?{PAUSE}{EOM}
+
+Message 93:
+{FACE_1C0019}That's a well-used watering can.
+Why don't you take a break from farming
+and help us dig?{PAUSE}{EOM}{EOM}
+
+Message 94:
+{S_34018C}{FACE_1C0003}Wow!
+That watering can has seen better days!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+{S_34018B}{FACE_1C0003}You must be working hard at farming.
+At least judging from that watering can...
+Why don't you take a break and help us?{PAUSE}{EOM}
+
+Message 96:
+{S_34018C}{FACE_1C000C}Um... Could those be
+clippers?{PAUSE}{EOM}{EOM}
+
+Message 97:
+{FACE_1C000C}...I wish they would invent some tools
+that would make digging easier.{PAUSE}{EOM}
+
+Message 98:
+{S_34018C}{FACE_1C0019}Ah, a piece of ore.
+It can be quite pretty, but...
+I'm not interested in it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+{FACE_1C0019}To me, stone tablets and fossils are
+more attractive than diamonds or rubies.
+I'm not interested in ore.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+{FACE_1C0019}We find ore like that all the time.
+We're not geologists or anything, so we
+don't have any use for it.{PAUSE}{EOM}
+
+Message 101:
+{S_34018C}{FACE_1C0019}Oh, you dug that up a while ago, right?
+I don't particularly need it, but...
+Do you like it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+{FACE_1C0009}Hmm...
+I wish we could find some kind of
+surprising fossil or tablet...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+{FACE_1C0019}When we're digging, we find lots
+of stuff like that.{PAUSE}{WIPE}
+We can use them to learn about ancient
+animals or cultures.
+Pretty interesting, hmm?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+{S_34018C}{FACE_1C0019}Isn't that a record?
+You don't see many of those around here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+{FACE_1C0019}What record is that?
+I'd like to hear it.{PAUSE}{EOM}{EOM}
+
+Message 106:
+{S_3400DA}{S_3205DC}{FACE_1C000C}...That's an odd sound.{PAUSE}{EOM}{EOM}
+
+Message 107:
+{S_3400DA}{S_3205DC}{PAUSE}{FACE_1C000C}...What an odd drum.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+{S_34018B}{FACE_1C0019}How about that necklace?
+Do you like it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+When you wear that necklace,
+don't you sense the mysterious power of
+an ancient culture throughout your body?{PAUSE}{EOM}{EOM}
+
+Message 110:
+{FACE_1C0004}If you mistreat that necklace
+I'm sure something terrible will happen
+to you. So be careful.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 111:
+I'm Professor Carter's assistant and
+I also live with him in the tent.
+Does that seem unusual?{PAUSE}{EOM}
+
+Message 112:
+I help Professor Carter with the digging
+and also prepare meals for the
+two of us.{PAUSE}{EOM}
+
+Message 113:
+The professor helped me out a lot while
+I was in college. To tell you the truth,
+I wasn't very interested in research.{PAUSE}{WIPE}
+But I didn't want to find a job, and so I
+kind of ended up doing this instead.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+{S_34018B}{FACE_1C000A}About that food you gave me...
+It was simply divine!
+Thank you.{PAUSE}{EOM}
+
+Message 115:
+{FACE_1C0002}About that food you gave me...
+Actually, I hate that kind of thing.
+I'm sorry.{PAUSE}{EOM}
+
+Message 116:
+{FACE_1C0002}You know the {VAR_00} you gave me?
+I'm sorry, but it wasn't the best.
+I know that I shouldn't be so picky.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 117:
+{S_34018B}{FACE_1C0003}You know the {VAR_00} you gave me?
+It was quite tasty.
+Thank you.{PAUSE}{EOM}
+
+Message 118:
+{S_34018B}{FACE_1C000A}About the {VAR_00} you gave me...
+It was marvelous!
+You're amazing, aren't you {PETE}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 119:
+{S_34018B}{FACE_1C000A}You know the {VAR_00} you gave me?
+It's actually one of my favorite foods.
+It was delicious.{PAUSE}{EOM}{EOM}
+
+Message 120:
+{S_34018B}{FACE_1C0003}About that dish you gave me...
+It was quite tasty.
+You're quite a cook!{PAUSE}{EOM}
+
+Message 121:
+{S_34018B}{FACE_1C0003}About that fish you gave me...
+It was quite tasty.
+You're a good fisherman too!{PAUSE}{EOM}
+
+Message 122:
+{S_34018B}{FACE_1C0003}About that wild plant you gave me...
+It was quite tasty.
+Thank you.{PAUSE}{EOM}
+
+Message 123:
+{S_34018B}{FACE_1C0003}You sure work hard every day.
+You're a real farmer.
+It's nice to devote yourself to something.{PAUSE}{EOM}{EOM}
+
+Message 124:
+{S_34018B}{FACE_1C0003}You seem to like farming.
+You're reeeeally working hard at it.
+It's nice to devote yourself to something.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+{S_34018B}{FACE_1C0003}You're excellent at cooking.
+Why don't you open a restaurant?
+It's good to devote yourself to a passion.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+Are you working hard on the farm?
+Keep up the good work!
+But give us some help occasionally too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 127:
+Are you working hard on your crops?
+Keep up the good work!
+But give us some help occasionally too.{PAUSE}{EOM}
+
+Message 128:
+Are you working hard on your cooking?
+Keep up the good work!
+But give us some help occasionally too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 129:
+{FACE_1C0019}Have you used to
+growing crops and things?
+I'm sure you have a lot to do.{PAUSE}{EOM}{EOM}
+
+Message 130:
+{FACE_1C0019}Are you used to
+growing crops and things?
+I'm sure you have a lot to do.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+{FACE_1C0019}Are you used to
+cooking?
+I'm sure you have a lot to do.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+{FACE_1C000C}It can be quite difficult to live in
+such a small tent.
+{FACE_1C0019}I'm used to it, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+{FACE_1C000C}I like archeology, but sometimes
+I don't understand what the Professor
+is talking about.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+{S_34018C}{FACE_1C000C}I only ask because we're here, but...
+What do you really think about archeology?
+{CHOICE2 DEF1}
+I think it's quite interesting.
+It's nothing but junk collecting.{EOM}{EOM}{EOM}{EOM}
+
+Message 135:
+{S_34018B}{FACE_1C000A}Really? Great!
+To tell you the truth, I sometimes wonder
+if I'm doing something worthwhile.{PAUSE}{EOM}
+
+Message 136:
+{S_34018C}{FACE_1C000C}...I was afraid you'd say that.
+I wasn't even interested in it at first.
+Before I knew it, I was deeply involved.{PAUSE}{WIPE}
+It might be a little late, but maybe I
+should consider another career...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+{FACE_1C000C}Archeology has become an
+integral part of my life.
+It's a part of me now.{PAUSE}{EOM}{EOM}
+
+Message 138:
+{FACE_1C000C}I've been living in the same tent with
+him for a long time, but sometimes I just
+don't understand the Professor.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 139:
+Sometimes I'd like to forget about digging
+and go on a shopping spree in town,
+you know?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+{S_34018B}{FACE_1C000A}Oh, you've come to help
+us with the digging?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+{S_34018C}What? You didn't come
+to help with the excavation?
+Oh then... Make yourself at home...{PAUSE}{EOM}{EOM}
+
+Message 142:
+{S_34018B}Digging is pretty
+tiring work.{PAUSE}{EOM}{EOM}
+
+Message 143:
+{S_34018B}It wouldn't hurt to take
+a little break, would it?{PAUSE}{EOM}{EOM}
+
+Message 144:
+{S_34018B}{FACE_1C0003}The flowers are in bloom...
+This season always makes me feel good.{PAUSE}{EOM}{EOM}
+
+Message 145:
+{S_34018B}Ah! I love this time of year.
+It makes me want to start something
+new.{PAUSE}{EOM}{EOM}
+
+Message 146:
+Since I spend all year in a hole in the
+ground, the weather doesn't affect me
+much, but I do feel the heat and cold.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 147:
+The most satisfying part of excavating
+is finding something worth studying.
+So feel free to help us dig.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+{FACE_1C0009}It's a little hot, isn't it?
+It's not so bad in the hole, but the tent
+is so humid!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 149:
+{FACE_1C0009}It certainly is hot, isn't it?
+Working in this heat makes me feel like
+I'm going to melt.{PAUSE}{EOM}{EOM}
+
+Message 150:
+{S_34018B}{FACE_1C0003}It's not too hot or too cold.
+What a nice time of year.{PAUSE}{EOM}
+
+Message 151:
+{S_34018B}{FACE_1C0003}Weather like this really helps
+us make progress in our work.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+{FACE_1C0009}It's getting a little cold, isn't it?
+The tent and the dig site aren't
+warm at all.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+{FACE_1C0009}When it's this cold, your hands grow numb
+and you don't make much progress digging.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 154:
+{FACE_1C0019}Digging, digging, digging every day.
+It might seem like it's boring and a lot
+of work, but I quite enjoy myself.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 155:
+{FACE_1C0019}Excavation may seem boring, but it can
+be a lot of fun when you get into it.
+You find lots of strange things, too.{PAUSE}{EOM}
+
+Message 156:
+{S_34018C}{FACE_1C0004}The Professor told me a strange man
+has been seen wandering around here.
+Do you know anything about that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+{S_34018C}{FACE_1C0004}Have you seen a strange man around here?!
+If he tries anything with me...
+I'll teach him a thing or two...{PAUSE}{EOM}{EOM}
+
+Message 158:
+{S_34018B}{FACE_1C0019}Listen... The Professor eats my cooking
+every day. He always finishes it all
+and tells me how good it is.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 159:
+{FACE_1C000C}The Professor always says my cooking
+is good, but the truth is that I'm not
+much of a cook.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 160:
+{S_34018B}{FACE_1C000A}You're here!
+I have a little present here
+for you.{PAUSE}{WIPE}
+Why?...
+Oh, don't worry about that.
+Just take it!{PAUSE}{EOM}{EOM}
+
+Message 161:
+{S_34018B}{FACE_1C0003}What do you think of that necklace?
+That's a very mysterious necklace that I
+cherished for a long time.{PAUSE}{EOM}
+
+Message 162:
+{S_34018C}Uh... I...
+I think I'll pass this time.{PAUSE}{EOM}
+
+Message 163:
+Sometimes when it rains, water seeps
+into the excavation site.
+It's a big muddy mess.{PAUSE}{EOM}{EOM}
+
+Message 164:
+The Professor just doesn't seem
+happy unless the sun is out.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+Yes?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+..............{PAUSE}{EOM}
+
+Message 167:
+Is it OK?{PAUSE}{EOM}{EOM}
+
+Message 168:
+Here I come...{PAUSE}{EOM}
+
+Message 169:
+Professor...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 170:
+Ah! {S_32012C}.{S_32012C}.{S_32012C}.{S_3201F4}What nice weather.{PAUSE}{EOM}{EOM}
+
+Message 171:
+{FACE_1C000A}I feel so warm and nice...{PAUSE}{EOM}
+
+Message 172:
+{FACE_1C0003}On days like this{S_32012C}
+it's best just to be lazy...♪{PAUSE}{EOM}
+
+Message 173:
+But...{FACE_1C0009}
+I guess I can't really do that...{PAUSE}
+I'd better be getting back...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+Sigh...
+What should I make for dinner tonight...?{PAUSE}{WIPE}
+The professor doesn't have any real
+preferences so it's hard to choose...{PAUSE}{EOM}{EOM}
+
+Message 175:
+{FACE_1C0000}Maybe fish...?
+Oh, I don't know...{PAUSE}{EOM}
+
+Message 176:
+Hmm... {FACE_1C000A}{S_3201F4}It's really nice and warm...{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

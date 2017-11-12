@@ -1,0 +1,931 @@
+Message 0:
+There's no point staying in a place
+like this if you have a wife waiting
+at home...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+ERROR{EOM}{EOM}{EOM}
+
+Message 2:
+It doesn't really matter what you drink
+but Muffy seems to think that she
+knows what you like.{PAUSE}{EOM}
+
+Message 3:
+Muffy's certainly become a beautiful girl,
+hasn't she? I mean, she's always been
+pretty, but now she's even prettier.{PAUSE}{EOM}{EOM}
+
+Message 4:
+She might not make a good wife though...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+But there's no better woman to have by
+your side when you're drinking. She's
+so cheerful and happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+We were just talking about you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+Ha, ha, ha, ha. {PETE} said
+she'd drink anything.{PAUSE}{EOM}{EOM}
+
+Message 8:
+I have to prepare for work tomorrow, so
+I'll be going home soon.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+{FACE_1B0002}I noticed that we still had
+some snacks left after all...{PAUSE}{EOM}{EOM}
+
+Message 10:
+Somebody strange? Could be.
+I didn't see anyone, though...{PAUSE}{WIPE}
+I felt bad about sending you out to buy
+snacks in the dark, so I followed you
+but you ran away from me screaming.{PAUSE}{WIPE}
+{FACE_1B0007}Wait, was this all my fault?{PAUSE}{EOM}{EOM}
+
+Message 11:
+{MUFFY}, you shouldn't walk by yourself.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+No, I'm not the kind of man to allow that.{PAUSE}{EOM}
+
+Message 13:
+Well, all right.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+Look after {MUFFY}.{PAUSE}{EOM}
+
+Message 15:
+And don't cause too trouble for
+{PETE}{C17} either.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{FACE_1B0003}I know.
+That's why I didn't do anything.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+{FACE_1B0003}I'll remember that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+{PETE}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Go on, take her with you.
+Just don't let her come back,
+okay?{PAUSE}{EOM}{EOM}
+
+Message 20:
+Morning, {PETE}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+{FACE_1B0003}Nice weather we're having today.
+Planning on going somewhere?{PAUSE}{EOM}{EOM}
+
+Message 22:
+You, uh......
+You proposed to {MUFFY}?
+{FACE_1B0007}It didn't pan out, huh?{PAUSE}{EOM}{EOM}
+
+Message 23:
+Well, I brought two pieces of good news.{PAUSE}{WIPE}
+The first is that I personally approve of
+the two of you getting together.{PAUSE}{WIPE}
+The second is that she seems to
+like you.{PAUSE}{EOM}{EOM}
+
+Message 24:
+To tell you the truth, I'd like
+to keep her here with me, but...
+But her happiness is most important.{PAUSE}{WIPE}
+If you still like her...
+Would you consider marrying her?
+{CHOICE2 DEF0}
+Propose.
+Stay single forever.{EOM}{EOM}
+
+Message 25:
+{FACE_1B0003}All right!{PAUSE}{EOM}
+
+Message 26:
+Come on, {MUFFY}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 27:
+Well, give it to her, {PETE}!{PAUSE}{EOM}{EOM}
+
+Message 28:
+You had a Blue Feather, didn't you?
+Right, {MUFFY}?{PAUSE}{EOM}
+
+Message 29:
+That was close.
+So go on, {MUFFY}. Take it.{PAUSE}{EOM}
+
+Message 30:
+A symbol of {PETE}{C17}'s feelings..{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+{FACE_1B0003}Hahaha!
+{FACE_1B0000}All right, let's go home, {MUFFY}.{PAUSE}{EOM}{EOM}
+
+Message 32:
+You can't live together until after you
+get married. You're just engaged.{PAUSE}{EOM}{EOM}
+
+Message 33:
+I'm sure you're looking forward to it.{PAUSE}{EOM}
+
+Message 34:
+Come and get her on your wedding day.
+OK?{PAUSE}{EOM}{EOM}
+
+Message 35:
+{FACE_1B0009}...........Single? {MUFFY}'s refusal was
+that big of a shock to you? But to
+stay single forever...{PAUSE}{WIPE}
+{FACE_1B0000}Oh, well...
+I'll take care of her...
+Farewell.{PAUSE}{EOM}
+
+Message 36:
+It looks like you made a big mistake.
+Now it's too late to take it back.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+{FACE_1B000A}That's not all. He said he's
+going to remain single forever.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+You know {MUFFY} is
+the main attraction at this bar.{PAUSE}{WIPE}
+She's so pretty.
+Well, She's like my own daughter.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+She likes you.{PAUSE}{WIPE}
+She was too shy to come alone,
+so she asked me to come with her.
+Isn't that sweet?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+To get right to the point,
+it seems that she wants to marry you.{PAUSE}{WIPE}
+I'm sure this is just what you've
+been waiting for...
+I'm jealous - I mean happy - for you.
+{CHOICE2 DEF0}
+Get married.
+Stay single.{EOM}
+
+Message 41:
+{PETE} says OK.
+{FACE_1B0003}I told {MUFFY} it'd be all right.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+{FACE_1B000A}............Single....?
+What kind of person would stay single when
+they could marry {MUFFY}?{PAUSE}{WIPE}
+Well, I guess nothing more can be said.{PAUSE}{EOM}{EOM}
+
+Message 43:
+{FACE_1B000A}He's a good person and a hard worker.
+But I guess he's too serious for her...{PAUSE}{EOM}{EOM}
+
+Message 44:
+Hey, what's that supposed
+to mean?{PAUSE}{EOM}
+
+Message 45:
+Hmm. Is there anyone who really likes
+archeology...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+{CARTER}, {TATSUYA} is still
+a child.{PAUSE}{WIPE}
+{TATSUYA} can't possibly be
+your assistant. Right, {PETE}?{PAUSE}{EOM}
+
+Message 47:
+I guess I've kept you for too long.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+Oh, I was feeling good so I thought
+we'd play a song.{PAUSE}{EOM}{EOM}
+
+Message 49:
+Feel free to come again.
+We'll have fun.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+Hey, I wouldn't exactly call it a
+concert.{PAUSE}{EOM}
+
+Message 51:
+Hey, {S_3201F4}I was just about to play a song.
+If you're free, take a listen.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+But first pay your bar bill.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+..............................{PAUSE}{EOM}
+
+Message 54:
+All right,{S_3201F4} here I go...{PAUSE}{EOM}
+
+Message 55:
+{FACE_1B0003}...Thanks.{PAUSE}{EOM}
+
+Message 56:
+Just a minute...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+I'm going to go to bed soon...{PAUSE}{EOM}
+
+Message 58:
+It's bedtime.
+Could you move along?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+Good night.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+I'm going to be leaving soon...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+I have to be leaving now, so if you
+don't mind...{PAUSE}{EOM}{EOM}
+
+Message 62:
+See you later...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 63:
+You shouldn't open a shop if you don't
+have anything to sell.{PAUSE}{EOM}{EOM}
+
+Message 64:
+You sell out already?
+You don't have anything to sell...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+I like that {VAR_00}, but how
+much is it?
+{CHOICE3 DEF2}
+I'll mark it down to {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}
+
+Message 66:
+I see. That's a great price.
+I'll take it.{PAUSE}{EOM}
+
+Message 67:
+I guess I'll take it.{PAUSE}{EOM}{EOM}
+
+Message 68:
+Ok then.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+I want that {VAR_00}, but
+how much is it?
+{CHOICE3 DEF2}
+I'll mark it down to {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}
+
+Message 70:
+I guess I'll pass for today.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 71:
+Hello, I'm the owner of the Blue Bar.
+Feel free to stop by and relax any time.{PAUSE}{EOM}
+
+Message 72:
+{FACE_1B0002}I'm tired today...{PAUSE}{EOM}
+
+Message 73:
+Hello. How are you doing?{PAUSE}{EOM}{EOM}
+
+Message 74:
+What are you doing out so late?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+Welcome.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+{FACE_1B000A}That's one of my favorites.
+Can I have it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+{FACE_1B0003}Really?
+Thanks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+{S_340182}I see...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+{FACE_1B000A}You've got something nice there.
+Do you think I could have it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+{FACE_1B0005}Ack! Get it away from me!{PAUSE}{EOM}{EOM}
+
+Message 81:
+What do you expect me to say?{PAUSE}{EOM}{EOM}
+
+Message 82:
+...........{PAUSE}
+{FACE_1B0003}What a cute kid.
+Looks a lot like Celia.{PAUSE}{EOM}{EOM}
+
+Message 83:
+{FACE_1B0003}What a cute kid.
+Looks a lot like Marlin.{PAUSE}{EOM}{EOM}
+
+Message 84:
+That's a cute face...{PAUSE}{EOM}{EOM}
+
+Message 85:
+{FACE_1B0003}What a cute kid.
+Looks a lot like Rock.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+{FACE_1B0003}What a cute kid.
+Who would have thought that
+Gustafa would settle down?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+Where do you think you're taking that dog?{PAUSE}{EOM}
+
+Message 88:
+That's a pretty cute dog...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 89:
+Where are you going with
+that cat?{PAUSE}{EOM}
+
+Message 90:
+That's a pretty cute cat.{PAUSE}{EOM}{EOM}
+
+Message 91:
+Is that a chicken from your farm?{PAUSE}{EOM}{EOM}
+
+Message 92:
+That's a cute chick.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 93:
+How cute.{PAUSE}{EOM}{EOM}
+
+Message 94:
+I heard that if you take good care of your
+chickens they may lay golden eggs.
+I'd like to see one of those.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+Is that a duck from your farm.{PAUSE}{EOM}
+
+Message 96:
+Cute duck.{PAUSE}{EOM}
+
+Message 97:
+Ducks are pretty cute when you
+get a good look at them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+What is that?{PAUSE}{EOM}{EOM}
+
+Message 99:
+Is that a seed for some crop?{PAUSE}{EOM}{EOM}
+
+Message 100:
+Did you grow that on your farm?
+...You're working hard, I see.{PAUSE}{EOM}
+
+Message 101:
+We don't serve food at
+my bar...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+Hey, is that fresh milk?
+Must be tasty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+We do have something called {C13}Moomoo Milk{C17}
+on our menu....
+{FACE_1B0009}But I guess that's different...{PAUSE}{EOM}{EOM}
+
+Message 104:
+We don't serve milk here.{PAUSE}{EOM}{EOM}
+
+Message 105:
+Is that cheese from your farm?
+You're working hard, I see.{PAUSE}{EOM}
+
+Message 106:
+That looks good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 107:
+Did you make that butter on your farm?
+You're working hard, I see.{PAUSE}{EOM}
+
+Message 108:
+If you walk around carrying an egg like
+that, you're bound to drop it.{PAUSE}{EOM}
+
+Message 109:
+Be careful not to drop it.{PAUSE}{EOM}
+
+Message 110:
+Did you catch that fish?
+Good job.{PAUSE}{EOM}
+
+Message 111:
+That's a fine fish you have there.{PAUSE}{EOM}
+
+Message 112:
+Is that a wild plant from around here?
+Those are good in cooking.{PAUSE}{EOM}{EOM}
+
+Message 113:
+The tastiest wild plant is the Toadstool.
+Or was it Matsutake...?
+No, I think it was Hackberry...{PAUSE}{EOM}{EOM}
+
+Message 114:
+Did you make that food?
+It looks good.{PAUSE}{EOM}
+
+Message 115:
+Are you giving it to me?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 116:
+That food looks tasty.{PAUSE}{EOM}
+
+Message 117:
+What are you doing with that?{PAUSE}{EOM}{EOM}
+
+Message 118:
+It doesn't do any good to show me that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 119:
+That's an unusual stone.
+You could probably get a lot for it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+That's a pretty stone.{PAUSE}{EOM}
+
+Message 121:
+What is that...?
+Did you find that somewhere?{PAUSE}{EOM}{EOM}
+
+Message 122:
+That's pretty weird looking.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 123:
+Those flowers bloom all around here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+{S_340181}...Pretty flower.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+{FACE_1B000A}Oh, a record.
+I have music in my soul, you know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+{FACE_1B000A}If you find a good one, let me know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 127:
+Is that some kind of spice?
+{S_340181}...Smells good.{PAUSE}{EOM}
+
+Message 128:
+I'd like to eat some food made with that.{PAUSE}{EOM}{EOM}
+
+Message 129:
+{S_3400DA}{S_3205DC}{S_340181}...A good sound.{PAUSE}{EOM}{EOM}
+
+Message 130:
+{S_3400DA}{S_3205DC}...This drum sounds like
+it would go well with a guitar...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+That's a nice necklace.
+A little strange, but...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+That's a pretty necklace.{PAUSE}{EOM}{EOM}
+
+Message 133:
+Is that music for the guitar...?
+It looks quite difficult...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+{FACE_1B0009}{S_340181}....I can't play that.{PAUSE}{EOM}{EOM}
+
+Message 135:
+Is that fireworks?
+I bet Kassey made that.
+....Or was it Patrick?{PAUSE}{EOM}{EOM}
+
+Message 136:
+That's quite big, isn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+Is that a present for someone?
+I don't need it myself, but...{PAUSE}{EOM}{EOM}
+
+Message 138:
+Not interested. Sorry.{PAUSE}{EOM}
+
+Message 139:
+I don't like serving customers, so why
+am I running this, you ask?
+I'm not sure myself sometimes...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+When I'm in the mood I sometimes play
+guitar at the bar. You might hear it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+I used to wander the city at night with
+my guitar, but my family didn't like it...
+Eventually I ended up here.{PAUSE}{EOM}
+
+Message 142:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 143:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 144:
+I heard that the farmer in Mineral Town
+is quite rich...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 145:
+I heard that the farmer in Mineral Town
+is very popular with the townspeople.
+You think it's true?{PAUSE}{EOM}
+
+Message 146:
+It must be hard to raise animals and crops
+at the same time... Oh, I'm talking about
+the farmer from Mineral Town...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 147:
+It must be hard to raise animals and crops
+at the same time... Oh, I'm talking about
+the farmer from Mineral Town...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+I heard that the farmer in Mineral Town
+spends all day digging in the mountains.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 149:
+{VAR_00} in Mineral Town caught
+lots of fish. That's what I heard, anyway.
+But I bet we have a few she hasn't caught.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+I heard that the farmer in Mineral Town
+walked one million paces.
+What's the big deal?{PAUSE}{EOM}
+
+Message 151:
+{VAR_00} Farm in Mineral Town
+has been going for 50 years.
+You have to work hard, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 152:
+I heard that the farmer in Mineral Town
+is quite an angler.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+I heard that the farmer in Mineral Town
+has really bad taste.{PAUSE}{EOM}{EOM}
+
+Message 154:
+I heard that the farmer in Mineral Town
+has three cottages.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 155:
+I heard that {VAR_00} Farm in
+Mineral Town has some amazing tools.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+{FACE_1B0003}That food you gave me was
+incredibly good.
+How'd you know it was one of my favorites?{PAUSE}{EOM}{EOM}
+
+Message 157:
+{FACE_1B0009}That food you have me
+was... Sorry... It was just terrible.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 158:
+The {VAR_00} you gave me
+tasted a little off.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+{FACE_1B0003}The {VAR_00} you gave me was
+pretty good.
+....I'll take some more if you don't mind.{PAUSE}{EOM}
+
+Message 160:
+{FACE_1B0003}That {VAR_00} was the best I've ever
+had.
+No, really.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 161:
+{FACE_1B0003}About that {VAR_00} you gave me...
+That's the kind of taste I like.{PAUSE}{EOM}{EOM}
+
+Message 162:
+That milk you gave me was good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+That cheese was a little smelly.
+But I could get used to it...{PAUSE}{EOM}
+
+Message 164:
+You know that cheese you gave me?
+That was from your farm right?
+It was good.{PAUSE}{EOM}{EOM}
+
+Message 165:
+{FACE_1B0003}That butter was rich and
+very delicious.
+I'd love some more...{PAUSE}{EOM}
+
+Message 166:
+That butter was kind of smelly.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 167:
+You know that butter you gave me?
+That was from your farm right?
+It was good.{PAUSE}{EOM}{EOM}
+
+Message 168:
+{FACE_1B0003}That {VAR_00} you gave me
+was really good.
+I love spicy things like that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 169:
+That dish you gave me was
+pretty good.{PAUSE}{EOM}
+
+Message 170:
+{FACE_1B0003}That fish you caught was
+amazingly good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+That fish you caught was
+pretty good.{PAUSE}{EOM}{EOM}
+
+Message 172:
+{FACE_1B0003}That wild plant you gave me
+was fantastic.{PAUSE}{EOM}
+
+Message 173:
+That wild plant you gave was
+good, I guess...{PAUSE}{EOM}{EOM}
+
+Message 174:
+That thing you gave me was...
+Well, words fail me.{PAUSE}{EOM}
+
+Message 175:
+It looks like you've gotten quite
+good at your work lately.
+You've become a real farmer.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 176:
+You're working hard, I can tell.
+You seem more mature now.{PAUSE}{EOM}
+
+Message 177:
+You're used to farm work
+now, aren't you?{PAUSE}{EOM}{EOM}
+
+Message 178:
+This place is pretty small, but
+it helps me to relax
+in a small sort of way, that is.{PAUSE}{EOM}{EOM}
+
+Message 179:
+Do you enjoy your life?
+{CHOICE3 DEF1}
+Sure.
+No, it's not fun.
+I don't know.{EOM}{EOM}{EOM}{EOM}
+
+Message 180:
+{FACE_1B000A}It's good if you enjoy today. It's better
+if you can look forward to tomorrow.{PAUSE}{EOM}
+
+Message 181:
+I see... Then you have to think fun
+thoughts and do fun things.{PAUSE}{WIPE}
+If you're not enjoying yourself, you just
+have to think of something fun.
+Then do it. Pretty basic, huh?{PAUSE}{EOM}
+
+Message 182:
+You really don't know?
+If you're not having a bad time, you
+must be enjoying yourself. Yeah...{PAUSE}{EOM}
+
+Message 183:
+It can't be very interesting to
+listen to me talk...
+Don't you have anything better to do?{PAUSE}{EOM}
+
+Message 184:
+Please place your drink orders
+when I'm behind the counter.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+Take it easy.{PAUSE}{EOM}{EOM}
+
+Message 186:
+What's up?
+Did you need something?{PAUSE}{EOM}
+
+Message 187:
+My bar is the place if you're
+out looking for a good time.{PAUSE}{EOM}
+
+Message 188:
+It's good to come here, but please
+give the other merchants a chance, too.{PAUSE}{EOM}
+
+Message 189:
+Do you have time to waste
+in a place like this?
+I guess I shouldn't be talking, but...{PAUSE}{EOM}
+
+Message 190:
+Work is good, but you should stop in
+at my place for a drink some time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 191:
+It's nice and warm out.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 192:
+I'm in my bar all the time, so I sometimes
+need to get outside.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 193:
+In hot weather like this you should
+enjoy a cool drink at the Blue
+Bar.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+I can't stand hot weather,
+you know...{PAUSE}{EOM}
+
+Message 195:
+This time of year always makes me feel
+blue... Is it possible for the scenery to
+be so beautiful that it makes you sad?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+This is a nice, melancholy time of year...
+Love that harvest moon, don't you?{PAUSE}{EOM}{EOM}
+
+Message 197:
+Going somewhere?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+Cold enough for you?
+I like this time of year, myself.{PAUSE}{EOM}
+
+Message 199:
+The stars are pretty at this time of year.
+Go ahead. Look up at the stars. They'll
+make you forget about everything else.{PAUSE}{EOM}{EOM}
+
+Message 200:
+You know, I've been thinking...
+Did Grant take off of work today?
+Or did he give up and quit or something?{PAUSE}{EOM}
+
+Message 201:
+Would you like something to drink?
+Or...?
+{CHOICE2 DEF1}
+I want a drink.
+I just want to chat.{EOM}{EOM}{EOM}
+
+Message 202:
+OK, what would you like?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 203:
+{VAR_00}, right? Just a minute.
+.........................
+Here you go. Drink up.{S_3203E8}{EOM}{EOM}{EOM}
+
+Message 204:
+{S_340181}...I'm sorry. You don't seem to have
+enough money.{PAUSE}{EOM}{EOM}
+
+Message 205:
+Everyone in Forget-Me-Not Valley lives
+life in their own way. I hope you're
+enjoying life too.{PAUSE}{EOM}
+
+Message 206:
+All drinks here are from original recipes.
+I'm sure one or two will pick you up.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 207:
+Good drinks, good music,
+and good conversation. You've
+got it good right here.{PAUSE}{EOM}
+
+Message 208:
+{S_340181}Well, take it easy.{PAUSE}{EOM}
+
+Message 209:
+{S_340181}What's wrong with Muffy?
+She's been strange and serious recently.{PAUSE}
+{S_340181}Come to think of it, she hasn't
+been herself ever since you got
+married.{PAUSE}
+Why don't you talk to Muffy?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 210:
+{S_340181}Your hands are full.
+You can't drink anything like that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 211:
+If you want to drink something, you have
+to have your hands free.{PAUSE}{EOM}{EOM}
+
+Message 212:
+You can't drink holding that.{PAUSE}{EOM}{EOM}
+
+Message 213:
+
+
+Message 214:
+I see...
+But I'd better pass for now.{PAUSE}{EOM}{EOM}
+
+Message 215:
+I heard that somebody named {VAR_00}
+has a dog that's very good at
+catching dog disks.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 216:
+I heard that {VAR_00} from Mineral Town
+has a horse that won a race ten
+times...{PAUSE}{EOM}
+
+Message 217:
+Have you heard of the Chicken Festival?
+Apparently the same person has won it
+10 times in Mineral Town.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 218:
+I heard that {VAR_00} from Mineral
+Town has a cow that won the Cow Festival
+10 times...{PAUSE}{EOM}{EOM}
+
+Message 219:
+Have you heard of the Sheep Festival?
+I heard that somebody in Mineral Town
+won it 10 ten times.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 220:
+Oh, it's you {PETE}.
+We're rented out right now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 221:
+Why? Today is...{S_3202BC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 222:
+Oh, here they come.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 223:
+Welcome to the Blue Bar.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 224:
+I'm not the person to ask about men and
+women.{PAUSE}{EOM}
+
+Message 225:
+Muffy.{PAUSE}{EOM}
+
+Message 226:
+Oh, it's just that you looked kind
+of sad after coming back from the city.
+I was worried...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 227:
+Really?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 228:
+What's that mean?{PAUSE}{EOM}{EOM}
+

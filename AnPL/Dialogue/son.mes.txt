@@ -1,0 +1,1122 @@
+Message 0:
+Mommy carry me! Carry me!{PAUSE}{EOM}{EOM}
+
+Message 1:
+Mommy, carry me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+Carry me!!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+Mommy more!!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+Heehee...{PAUSE}{EOM}{EOM}
+
+Message 5:
+One more time!{PAUSE}{EOM}
+
+Message 6:
+Sleep! Sleep!{PAUSE}{EOM}{EOM}
+
+Message 7:
+Sleep...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+Go beddy!{PAUSE}{EOM}{EOM}
+
+Message 9:
+Nighty-night, Mommy!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+Night, night...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+Goo-night!{PAUSE}{EOM}
+
+Message 12:
+Yawn......{PAUSE}{EOM}
+
+Message 13:
+Mornin'!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+Yay!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+Nitey-nite Mommy!{PAUSE}{EOM}{EOM}
+
+Message 16:
+No sleepy! No sleepy yet!{PAUSE}{EOM}{EOM}
+
+Message 17:
+Yawn... Go beddy-bye now...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+Yawn...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Mornin!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+Sleepy...{PAUSE}{EOM}{EOM}
+
+Message 21:
+NO! Not yet!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 22:
+Sleepy...{PAUSE}{EOM}{EOM}
+
+Message 23:
+Nighty-night.{PAUSE}{EOM}{EOM}
+
+Message 24:
+Yawn...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+Mornin!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 26:
+Yay!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 27:
+Nighty-night Mommy!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+No! I wanna play!!{PAUSE}{EOM}
+
+Message 29:
+No! Nooooo!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+Noooooo. Go night night!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+Night night! {?_388A}!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+Yaaawn.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+Morning.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+Morning. You're up early.{PAUSE}{EOM}{EOM}
+
+Message 35:
+Morning, Mom and Dad.
+You're up early.{PAUSE}{EOM}
+
+Message 36:
+It's time for me to go to bed.{PAUSE}{WIPE}
+Good night.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+Yaaaawn.......{PAUSE}{EOM}
+
+Message 38:
+Morning.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+Morning. You're up early.{PAUSE}{EOM}{EOM}
+
+Message 40:
+Yaaawn... I'm gonna go to bed...{PAUSE}{WIPE}
+Good night.{PAUSE}{EOM}
+
+Message 41:
+Yaaaawn.........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+Morning...{PAUSE}{EOM}
+
+Message 43:
+Hey! You're up early!{PAUSE}{EOM}{EOM}
+
+Message 44:
+Hey you two!
+You're up early!{PAUSE}{EOM}{EOM}
+
+Message 45:
+You going to bed?{PAUSE}{WIPE}
+Night!{PAUSE}{EOM}
+
+Message 46:
+{FACE_010001}Googooo?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+{FACE_01001B}Mmmmm...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+{FACE_01001A}Heheh!{PAUSE}{EOM}
+
+Message 49:
+Zzzzzzzz...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+Milking cows is...
+Zzzzzz...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+♪A necklace...♪
+♪Of white flowers...♪{PAUSE}{EOM}{EOM}
+
+Message 52:
+Mommy...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+I'm pwacticin' runnin'...{PAUSE}{EOM}{EOM}
+
+Message 54:
+.............{PAUSE}{EOM}{EOM}
+
+Message 55:
+Can't you see?{PAUSE}{EOM}
+
+Message 56:
+Good luck!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+Yeah...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+......................{PAUSE}{EOM}
+
+Message 59:
+Good luck!!!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+You sure are a good singer, {GUSTAFA}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+But...{PAUSE}{EOM}
+
+Message 62:
+♪Long ago... By a spring...
+Two young girls...
+Learned of the happiness love {S_3207D0}brings....{PAUSE}{EOM}
+
+Message 63:
+{GUSTAFA} was teaching me
+some songs.{PAUSE}{EOM}
+
+Message 64:
+Yeah...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+Dad, you're sure good at
+singing...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+But...{PAUSE}{EOM}
+
+Message 67:
+♪Long ago... By a spring...
+Two young girls...
+Learned of the happiness love--{S_320BB8}{EOM}{EOM}{EOM}
+
+Message 68:
+What is it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+What're you doing?{PAUSE}{EOM}
+
+Message 70:
+Hey... What're you doing?{PAUSE}{EOM}{EOM}
+
+Message 71:
+Hmm...{S_3207D0}
+I like this shape.{PAUSE}{WIPE}
+I guess.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+Oh!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 73:
+Ok, I'll come back later.{PAUSE}{EOM}{EOM}
+
+Message 74:
+Whew... pant pant pant...
+But... pant pant pant...
+I lost... pant pant pant...{PAUSE}{EOM}
+
+Message 75:
+Hey!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+I thought I might brush the cows...{S_3207D0}
+I like farm work.
+I want to help out when I get bigger.{PAUSE}{EOM}
+
+Message 77:
+I thought I might plant some seeds...{S_3207D0}
+I like farm work.
+I want to help out when I get bigger.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+Yeah, sure...{S_3203E8}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+Then just leave me alone.{S_3203E8}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+OK, OK...{S_3203E8}
+It's always the same thing.
+I'm sick of hearing it.{S_3203E8}{EOM}
+
+Message 81:
+............{PAUSE}{EOM}{EOM}{EOM}
+
+Message 82:
+I don't feel like talking right now.
+Could you just go away?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+But we're still talking.
+There are still a lot of things
+I want to ask...{PAUSE}{EOM}{EOM}
+
+Message 84:
+OK. See you later.{PAUSE}{EOM}
+
+Message 85:
+Um...{PAUSE}{EOM}{EOM}
+
+Message 86:
+I've got something I want to talk about...{PAUSE}{EOM}
+
+Message 87:
+I love working on the farm.{S_3203E8}{PAUSE}{WIPE}
+So I'd like to learn lots of stuff,
+and I'd like to be able to
+help Mom out, too.{PAUSE}{EOM}
+
+Message 88:
+But she's always so
+busy...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 89:
+OK. I'll do that.{PAUSE}{EOM}{EOM}
+
+Message 90:
+But we're still talking.
+There are still a lot of things
+I want to ask...{PAUSE}{EOM}{EOM}
+
+Message 91:
+OK. See you later.{PAUSE}{EOM}
+
+Message 92:
+Yeah, I know.{PAUSE}{EOM}{EOM}
+
+Message 93:
+Yeah, when I hear {GRIFFIN}'s guitar,
+it makes me feel great!{PAUSE}{EOM}
+
+Message 94:
+Oh!
+I was just listening to {GRIFFIN} play.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+Well, actually I asked him to
+play, but...{PAUSE}{EOM}
+
+Message 96:
+Woah, is it that late?
+When I'm listening to music I
+lose all track of time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 97:
+Well, I'd better be going home.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+I was listening to {GRIFFIN} play guitar.
+With {GUSTAFA}.
+See you...{PAUSE}{EOM}
+
+Message 99:
+I was listening to {GRIFFIN} play guitar.
+With Dad...
+See you...{PAUSE}{EOM}{EOM}
+
+Message 100:
+Dad...
+Do round things ever look square?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 101:
+Do round things ever
+look square?{PAUSE}{EOM}{EOM}
+
+Message 102:
+Well... Do you know that big round
+piece of iron sitting in front of
+{CODY}'s house?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+That's one of {CODY}'s pieces of art.{PAUSE}{EOM}{EOM}
+
+Message 104:
+He works on that thing all the time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+But it never changes shape at all,
+does it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+It's always round.
+But to {CODY}, it's gradually
+changing shape.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 107:
+He says that it's starting to look square.
+So he's almost done with it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+I think I'm beginning to understand.
+When {CODY} says that it's
+starting to look square...{S_3203E8}{PAUSE}
+He's not talking about the shape itself,
+but rather its essence.{S_3203E8}{PAUSE}
+He's trying to breathe his own
+image into that clump of iron.{PAUSE}{EOM}{EOM}
+
+Message 109:
+Get it?
+I thought that was really cool.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+Oh, your timing is just
+Perfect.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 111:
+Come on.
+It's all right, isn't it?{PAUSE}{EOM}
+
+Message 112:
+Any time.{PAUSE}{EOM}{EOM}
+
+Message 113:
+No matter how I try... pant, pant...
+I can't beat {HUGH}... pant, pant{PAUSE}{EOM}
+
+Message 114:
+Well, I'll think about it.{PAUSE}{EOM}
+
+Message 115:
+Oh, hi!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 116:
+Shhhh...
+{DARYL}'s thinking.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+Hitting it, applying heat...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 118:
+But what are you doing here so late?
+Oh, I get it.
+Dad was worried, right?{PAUSE}{EOM}
+
+Message 119:
+I guess I should be going then.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+I was listening to {DARYL} talk
+about his research. It's about energy.
+Well, bye.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+{FACE_01000C}Why did Mom start the farm?{PAUSE}{FACE_010000}{EOM}{EOM}{EOM}{EOM}
+
+Message 122:
+{FACE_01000D}Who was that?{PAUSE}{FACE_010000}{EOM}{EOM}
+
+Message 123:
+{FACE_01001E}Really?!
+I've got a grandfather...?{S_3203E8}
+{FACE_01000C}So what happened to him?{PAUSE}{FACE_010000}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+{FACE_01000C}What does Mom say about it?{PAUSE}{FACE_010000}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+{FACE_010023}Then I guess...{S_3203E8}
+{FACE_010020}I'd like to work on the farm in
+honor of my grandfather's memory, too.{PAUSE}{FACE_010000}{EOM}{EOM}
+
+Message 126:
+{FACE_010003}I'll do the rest.
+Why don't you go home and rest?{PAUSE}{EOM}{EOM}
+
+Message 127:
+{FACE_010001}You worked hard today, Mom.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+{FACE_010001}Are you going to take a bath now?{PAUSE}
+{CHOICE2 DEF0}
+I already did.
+That's right.{EOM}{EOM}
+
+Message 129:
+{FACE_010001}Oh. Never mind, then.{PAUSE}{EOM}{EOM}
+
+Message 130:
+{FACE_01001A}I thought it might be nice
+for me to get it ready for you...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+{FACE_010001}But maybe next time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+{FACE_010000}I just thought maybe...{S_3201F4}
+I could start one for you...?{PAUSE}
+{CHOICE3 DEF0}
+Yes please.♪
+No thanks.
+I can do it...{EOM}
+
+Message 133:
+{FACE_01001A}Opps, too much cold water.
+That would be a bad thing...
+{FACE_010003}You might turn into an ice cube, huh?{PAUSE}{EOM}{EOM}
+
+Message 134:
+{FACE_01001A}Come to think of it...{S_3203E8} I should
+help you out more.{PAUSE}{EOM}{EOM}
+
+Message 135:
+{DRAW_02}You know, I remember{S_3201F4}...{DRAW_00}{PAUSE}{EOM}
+
+Message 136:
+I remember the bathtub being bigger when
+I was little...{S_3205DC}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+{DRAW_02}It seems like I am always busy doing
+something and never have time to relax
+in the tub...{S_3201F4}{PAUSE}
+It is kind of sad...{DRAW_00}{S_3205DC}{PAUSE}{EOM}{EOM}
+
+Message 138:
+{DRAW_02}I added lots of bubbles to help you relax.{DRAW_00}{PAUSE}{EOM}
+
+Message 139:
+{DRAW_02}{S_340038}{S_3205DC}That should be enough
+bubbles...{PAUSE}
+Well, maybe just a few more...{S_340038}{S_3203E8}{S_340038}
+.........{S_340038}..........{S_340038}..........{S_340050}{DRAW_00}{S_3203E8}{PAUSE}{EOM}{EOM}
+
+Message 140:
+{FACE_010000}{DRAW_02}There you go Mom... Make sure you relax.
+You're not getting any younger.{PAUSE}{WIPE}
+OK, You are all set.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+{FACE_010000}.............{PAUSE}{EOM}{EOM}
+
+Message 142:
+Ok, just trying to help...{PAUSE}{EOM}
+
+Message 143:
+{FACE_010000}...................{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+Someone should do something for you.{FACE_010003}
+Come on, hurry up.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+Oh, Mom...{PAUSE}{EOM}
+
+Message 146:
+{FACE_010003}Come on, let's go.{PAUSE}{EOM}
+
+Message 147:
+Mom...{PAUSE}{EOM}
+
+Message 148:
+Um....{S_3201F4}
+Could I talk to you for a second...?
+{CHOICE3 DEF0}
+What is it?
+Could you come back later?
+I want to talk to you.{EOM}
+
+Message 149:
+I understand.{S_3201F4}
+Never mind.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 150:
+I'm sorry, but..{S_3201F4}
+I have something important to say.{PAUSE}
+{S_3201F4}Please?{PAUSE}{EOM}
+
+Message 151:
+{FACE_010009}Umm....{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+Actually I... {S_3201F4}It's about Kate... {S_3201F4} She...
+.........{PAUSE}{WIPE}
+Do you think Kate and Hugh...{S_3201F4}
+are like boyfriend and girlfriend?
+{CHOICE3 DEF0}
+I think so.
+I don't think so.
+I think Kate likes you.{EOM}
+
+Message 153:
+Yeah,{S_3201F4} I guess so.{S_3201F4}
+Hmmm...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 154:
+•••{?_388E}•••{PAUSE}{EOM}{EOM}{EOM}
+
+Message 155:
+Is it wrong of me to feel this
+way about her?
+{CHOICE2 DEF0}
+I'm sorry to say this, but...
+Not at all!{EOM}{EOM}
+
+Message 156:
+{FACE_010009}I guess I've got to...{S_3201F4}
+give up, huh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 157:
+{FACE_01001E}What? {S_3200C8}.{S_3200C8}.{S_3200C8}.{S_3200C8}What?!{S_3201F4}
+You really mean that?
+But she and Hugh...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 158:
+What would you do, Dad?{PAUSE}{WIPE}
+If you fell in love with somebody who
+may already love somebody else?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+{FACE_010001}I'll have to give this more thought.{S_3201F4}
+I'll have to think about me...{S_3201F4}
+And her...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+Thanks. {S_3205DC}Mom, Dad.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 161:
+{FACE_010001}...I see...{S_3201F4}
+If I can be a match for Hugh...{FACE_1A0009}!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 162:
+I may not be able to be a real man like
+you, Dad, but I'll do my best!{PAUSE}{EOM}
+
+Message 163:
+Really? {S_3201F4}You really think so?!{S_3201F4}
+I've still got a chance, right?
+{CHOICE2 DEF0}
+Just kidding!♪
+Of course!{EOM}{EOM}{EOM}{EOM}
+
+Message 164:
+Aghh!{S_3201F4}
+Mom!
+Why'd you say that?
+{CHOICE2 DEF0}
+No, I didn't mean that.
+It's hopeless.{EOM}
+
+Message 165:
+That didn't sound like a joke!!{PAUSE}
+But I'll have to admit, even I think
+Hugh has his act together.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+I may not be able to beat Hugh...{PAUSE}{EOM}{EOM}
+
+Message 167:
+But I'll do my best with what
+I've got!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+That's it!{PAUSE}{EOM}
+
+Message 169:
+...................
+Never mind...{PAUSE}{WIPE}
+I guess I was stupid to have
+asked you...{PAUSE}{EOM}{EOM}
+
+Message 170:
+{FACE_010009}Umm...............{PAUSE}{EOM}
+
+Message 171:
+Mom, is it strange to like someone older?{PAUSE}{WIPE}
+Like... {S_3201F4}what if somebody was
+ten years older...{PAUSE}
+{CHOICE2 DEF0}
+Go for it.
+What's wrong with that?{EOM}{EOM}{EOM}
+
+Message 172:
+{FACE_010009}You really think so?
+{CHOICE3 DEF0}
+You've got to be stronger.
+No.
+Who is it?{EOM}{EOM}{EOM}
+
+Message 173:
+She...{S_3201F4}{S_340040}It's Lumina...
+What do you think...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 174:
+{FACE_010009}Mom...{PAUSE}{EOM}
+
+Message 175:
+I guess I feel a little better.{S_3201F4}
+Thanks.{PAUSE}{EOM}
+
+Message 176:
+.........................
+...............{PAUSE}{EOM}{EOM}
+
+Message 177:
+You wouldn't understand how
+I feel...{PAUSE}{EOM}{EOM}
+
+Message 178:
+.........................
+...............
+{CHOICE3 DEF0}
+Is it Lumina?
+You don't mean Samantha, do you?
+I know! It's Vesta!{EOM}
+
+Message 179:
+{FACE_01001E}N-{S_3201F4}No!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+Mom! What's wrong?!
+Mom!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+Mom....!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+...Mom....{PAUSE}{EOM}
+
+Message 183:
+{FACE_01001F}Oh, Mom!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 184:
+{FACE_01000A}Look! Look!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+This stick is magic!{PAUSE}
+Look, isn't this stick something?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+I bet a wizard dropped it.{S_320384}
+I saw a wand just like this in a book.{PAUSE}{WIPE}
+If I practice, I can be a wizard, too!
+Cool, huh?{PAUSE}
+{CHOICE3 DEF0}
+Pretty cool!
+It's dirty. Can I throw it out?
+What kind of magic will you use?{EOM}{EOM}
+
+Message 187:
+Yeah!
+{S_3401A5}Heheh. It's my treasure!{PAUSE}{EOM}{EOM}
+
+Message 188:
+I'll tell you when I learn how to use
+magic. Then we can use it together!{PAUSE}{EOM}{EOM}
+
+Message 189:
+{FACE_010000}I gotta go potty!{PAUSE}{EOM}{EOM}
+
+Message 190:
+{FACE_010005}It's not dirty!
+It's my treasure! It's not dirty!{PAUSE}
+{CHOICE2 DEF0}
+Try breaking it.
+OK, OK...{EOM}{EOM}{EOM}{EOM}
+
+Message 191:
+Mom! No! Stop it!{PAUSE}{EOM}{EOM}
+
+Message 192:
+I'm not throwing it out!
+I hate you, Mom!!{PAUSE}{EOM}
+
+Message 193:
+I'm not throwing it out...{PAUSE}{EOM}
+
+Message 194:
+{FACE_010002}And don't try and throw it out yourself!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+Gingerbread.{S_32012C}.{S_32012C}.{PAUSE}{WIPE}
+I'll change this house into a
+gingerbread house!{S_3205DC}{PAUSE}{WIPE}
+Everything will turn into candy and cake
+and I'll eat it all up!{PAUSE}
+{CHOICE2 DEF0}
+Where are we going to live then?
+Sounds delicious!{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+{FACE_010009}Umm... It's magic, so even if
+we eat the house, it won't disappear!{PAUSE}{WIPE}
+{FACE_010003}It'll just keep gettin' bigger an' bigger!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 197:
+Heheh... I wonder if I can eat it all...{S_3205DC}!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+{FACE_010000}I gotta go potty now.♪{PAUSE}{EOM}
+
+Message 199:
+What is it, Mom?{PAUSE}
+{CHOICE2 DEF0}
+What's this box?
+Oh, nothing.{EOM}{EOM}
+
+Message 200:
+I found it on the beach.{PAUSE}{WIPE}
+I haven't opened it yet, but I
+bet there's a treasure map inside.{PAUSE}{WIPE}
+Mom, when I get big, I wanna go treasure
+huntin'!{FACE_01000A}{PAUSE}{WIPE}
+So I'm not gonna open the box until
+I'm a grownup! I'm gonna save it!{PAUSE}
+{CHOICE3 DEF0}
+I bet it's just empty.
+Let's open it now!
+Something else might be inside...{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+{FACE_010009}{S_3401A7}...No, I know there's a map inside.{PAUSE}
+{CHOICE2 DEF0}
+It's dirty. Let's toss it.
+I guess you're right.{EOM}
+
+Message 202:
+{FACE_010005}No. I don't wanna toss it!{PAUSE}{EOM}
+
+Message 203:
+{FACE_010007}Don't you open it or toss it while I'm{S_3205DC}
+in the bathroom or somethin'!{S_3205DC}{PAUSE}{WIPE}
+OK?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 204:
+{FACE_010007}You're not gonna get rid of it
+while I'm not lookin' are you?{PAUSE}{EOM}{EOM}
+
+Message 205:
+{FACE_010002}Mom, I gotta go potty.{PAUSE}{EOM}
+
+Message 206:
+{FACE_010005}Mom, are you listening to me?
+I don't want to open it!{PAUSE}{EOM}
+
+Message 207:
+...Don't open it, OK?{PAUSE}{EOM}{EOM}
+
+Message 208:
+{FACE_010000}Mom, I gotta go potty.{PAUSE}{EOM}
+
+Message 209:
+{FACE_01000B}You think so?{S_3205DC}{PAUSE}{WIPE}{EOM}{EOM}
+
+Message 210:
+{FACE_01001D}But you've gotta have a map to go
+treasure huntin' so it's gotta be inside.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 211:
+Mom,{S_320384} what do you think is inside?
+{CHOICE3 DEF0}
+Well, I don't know...
+Your future.
+Money.{EOM}{EOM}{EOM}
+
+Message 212:
+{FACE_010009}Oh... Money?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 213:
+{FACE_010023}I was hopin' for something better...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+{FACE_01000A}But we don't know for sure it's
+money...{S_320190}{PAUSE}{WIPE}
+But,{FACE_010009}{S_320320} maybe it is...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 215:
+{FACE_01000A}My future?{S_3205DC}{PAUSE}{WIPE}
+Then I'd better not open it now.{S_3401A5}
+I don't wanna know how it turns out.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 216:
+I wonder what I'll be when I grow up.{S_3200C8}.{S_3200C8}.{S_3200C8}?{PAUSE}{WIPE}
+I've gotta figure what I want to do now...{PAUSE}{WIPE}
+Hmm... I think I want{S_3201F4}.{S_3200C8}.{S_3200C8}.{S_3200C8}to go potty!{PAUSE}{EOM}{EOM}
+
+Message 217:
+Hmmm...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 218:
+Mom, I gotta go potty.
+Don't touch anything in my room.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 219:
+{FACE_010003}Mommy!{PAUSE}{EOM}
+
+Message 220:
+{FACE_010003}Bath!
+Let's take a bath!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 221:
+Yay!
+Bath! Bath!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 222:
+Yeah!{PAUSE}{EOM}{EOM}
+
+Message 223:
+{DRAW_02}I'm takin' a bath!♪♪ Soapy, soapy bath!♪♪
+With my Mom!♪ Yay!{S_3203E8}{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 224:
+{DRAW_02}One...Two...Three...Four
+Five...Six... Um... Seven...Eight
+Nine...Ten!!!{S_3205DC}{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+Yeah! All clean!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 226:
+Mmmm...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 227:
+{FACE_010001}Mommy.{PAUSE}{EOM}
+
+Message 228:
+{FACE_01001A}Can I take a bath...?{PAUSE}{EOM}{EOM}
+
+Message 229:
+Heehee... A bath!♪{PAUSE}{EOM}
+
+Message 230:
+Heehee.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 231:
+{DRAW_02}Heehee. That tickles, Mommy.
+Mmmmm.....
+Heehee.{S_3203E8}{DRAW_00}{PAUSE}{EOM}
+
+Message 232:
+Heehee. All clean...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 233:
+................{PAUSE}{EOM}{EOM}{EOM}
+
+Message 234:
+{S_3401A4}Mom, no...{PAUSE}{EOM}{EOM}
+
+Message 235:
+Pick me up!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 236:
+Pick me up!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 237:
+Pick me up!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 238:
+More!{PAUSE}{EOM}{EOM}
+
+Message 239:
+Heehee....{PAUSE}{EOM}
+
+Message 240:
+One more time!{PAUSE}{EOM}
+
+Message 241:
+Sleepy. Sleepy...{PAUSE}{EOM}{EOM}
+
+Message 242:
+Sleepytime.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 243:
+Goo-night!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 244:
+Night!{PAUSE}{EOM}
+
+Message 245:
+Night....{PAUSE}{EOM}{EOM}
+
+Message 246:
+Goonight!!{PAUSE}{EOM}
+
+Message 247:
+Morning, Mom.{PAUSE}{EOM}{EOM}
+
+Message 248:
+I fed the animals.{PAUSE}{EOM}
+
+Message 249:
+I watered the crops.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 250:
+I fed the animals.{PAUSE}{EOM}
+
+Message 251:
+I watered the crops.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 252:
+I'm sick of it!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 253:
+You're always like that!
+You don't care about me at all!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 254:
+You don't care about me, right?
+Not at all!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 255:
+No! I always feel like I'm cut off
+from everything!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 256:
+I'll say what I want. You're...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 257:
+I can't believe this!{PAUSE}{EOM}{EOM}
+
+Message 258:
+Get out of the way, Mom!{PAUSE}
+{CHOICE2 DEF0}
+Comfort gently.
+Punish.{EOM}{EOM}{EOM}{EOM}
+
+Message 259:
+I understand.{PAUSE}{EOM}{EOM}
+
+Message 260:
+I'm sorry.{PAUSE}{EOM}
+
+Message 261:
+{FACE_010009}Whew...{S_3201F4} Mom...
+I guess I got a little too angry.{FACE_010000}.{PAUSE}{WIPE}
+But I really do feel that
+way, you know.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 262:
+...I'm sorry for being so harsh.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 263:
+I can't believe you'd punish me!!{PAUSE}{EOM}{EOM}
+
+Message 264:
+How horrible...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 265:
+Why don't you have a job?!{PAUSE}{EOM}
+
+Message 266:
+You!{S_3205DC}
+What do you do all day, anyway?!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 267:
+No!{PAUSE}{WIPE}
+Normal fathers are
+different!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+You're just like a little kid!{S_3205DC}
+Although it doesn't sound so bad.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 269:
+I'm not listening!
+I can't hear you!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 270:
+Go away! Leave me alone!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 271:
+...! Owww...{PAUSE}{WIPE}
+Is that “tough love”? {S_3201F4}Ow... {S_320514}That hurt...{PAUSE}{EOM}{EOM}
+
+Message 272:
+I guess you really love me.{S_3202BC}
+I'm sorry, Mom, Dad.{S_3201F4}{PAUSE}{EOM}
+
+Message 273:
+...Wha-?!{PAUSE}{WIPE}
+I...{S_3201F4}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 274:
+I said something horrible...{S_3203E8}
+Thanks. {S_3201F4}You made me realize it.{PAUSE}{WIPE}
+{S_3201F4}...I'm sorry.{PAUSE}{EOM}{EOM}
+
+Message 275:
+You could never understand how
+I feel.{PAUSE}{EOM}
+
+Message 276:
+You and I are different.
+You're so set in your ways!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 277:
+No! You just want somebody
+who'll do everything you say!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 278:
+I can't be the kind of child you want!
+{S_320320}And I wouldn't want to be even if I could!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 279:
+I'm never going to do what you
+want me to, so just forget it!{PAUSE}{EOM}{EOM}
+
+Message 280:
+You and I are different!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 281:
+...............{PAUSE}{WIPE}
+I often feel like this these days.
+I get so angry, and I want to{FACE_010004}
+insult you guys....{S_3205DC} I'm sorry.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 282:
+You keep trying to control me.
+But maybe I went a little too far today...{PAUSE}{EOM}{EOM}
+
+Message 283:
+I guess I should open my eyes, huh?
+I'll try and calm down.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 284:
+I'm going to do things my way.{PAUSE}{EOM}
+
+Message 285:
+Just remember that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 286:
+{FACE_010000}I think it's...{S_3205DC} a map!{PAUSE}{WIPE}
+It's gotta be. Yep.{PAUSE}{WIPE}
+{FACE_01000A}I wonder what kind of map it is...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 287:
+{FACE_01000A}Hey!{PAUSE}{WIPE}
+There's a world map in the bathroom!
+If I studied it, {FACE_010003}{S_320384}it might come in handy...{PAUSE}{EOM}{EOM}
+
+Message 288:
+So that was it!
+I didn't know anything about it.{FACE_01000A}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 289:
+I....{S_320384}
+I'll do my best!{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

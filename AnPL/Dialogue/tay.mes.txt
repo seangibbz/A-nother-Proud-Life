@@ -1,0 +1,1545 @@
+Message 0:
+Good job.
+You both worked very hard.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+Hello, {PETE}...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+You saw that, did you?
+How embarrassing.{PAUSE}{WIPE}
+It's was so long ago.
+We took that picture when we went
+to a country far to the south.{PAUSE}{WIPE}
+We were so young, then...{PAUSE}{EOM}{EOM}
+
+Message 3:
+Oh, that's right.
+We got this from somebody on
+our trip.{PAUSE}{WIPE}
+It's yours, if you'd like it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+We don't use it, so if you think
+you can, you're welcome to it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+Well, bye.{PAUSE}{EOM}
+
+Message 6:
+I see...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+Oh, {PETE}...{PAUSE}{EOM}{EOM}
+
+Message 8:
+Really?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+.............{PAUSE}{EOM}{EOM}
+
+Message 10:
+OK then. If you see {NAMI}, tell
+her that we went looking for her. She just
+left her rent behind and disappeared.{PAUSE}{EOM}{EOM}
+
+Message 11:
+{NAMI} just left her rent money behind
+and left, but that's no way to do things.
+Do you think she's gone already?{PAUSE}{EOM}{EOM}
+
+Message 12:
+Hello, {PETE}...{PAUSE}
+You couldn't find her, huh?{PAUSE}{EOM}{EOM}
+
+Message 13:
+Um... {NAMI}...
+About that money you left in your room...
+It was the exact amount of your rent so...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+{NAMI}, you shouldn't tease us like that.
+Well, that's a relief.
+Come on, Ruby. Cook something up for her.{PAUSE}{EOM}
+
+Message 15:
+Oh, {NAMI}...{PAUSE}{WIPE}
+There was a telephone call from your
+father last night. I told him how much
+we enjoyed having you with us.{PAUSE}{WIPE}
+I asked if he wanted to talk to you, but
+he said no and hung up. I hope that's OK.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+Oh, that's right.
+That letter's for you.
+Go ahead and open it.{PAUSE}{EOM}
+
+Message 17:
+What happened all of a sudden?
+Well, I'm sure it'll be all right.
+There must be some reason.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 18:
+Um... Nami?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+Please take good care of {ROCK}.
+He's just like a son to us.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+Take care of yourself.
+We loved having you at our inn.{PAUSE}{EOM}
+
+Message 21:
+Of course.
+Didn't I say you were like our son,
+{ROCK}?{PAUSE}{EOM}
+
+Message 22:
+{PETE}, are you here?{PAUSE}{EOM}{EOM}
+
+Message 23:
+I'm sorry for coming so early like this.
+But I have something to ask you...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+The truth is that {NAMI} is planning
+on leaving today.
+What do you think of that, {PETE}?{PAUSE}{EOM}{EOM}
+
+Message 25:
+{PETE}, I heard that you
+proposed to {NAMI}.{PAUSE}{WIPE}
+But {NAMI} said that she regrets
+turning you down.{PAUSE}{WIPE}
+So if you still feel the same way,
+I thought...
+{CHOICE2 DEF0}
+Propose to her.
+Don't marry anyone.{EOM}{EOM}
+
+Message 26:
+Why, that's a Blue Feather.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+I've never seen one before.
+They're so rare.
+So you managed to find one, eh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+Well, that's great.
+I have to go tell Ruby.
+I'm going to home now, but...{PAUSE}{EOM}{EOM}
+
+Message 29:
+Oh yes of course.
+Well, let's go.{PAUSE}{EOM}{EOM}
+
+Message 30:
+What?
+You're not going to marry anyone?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+The truth is that {NAMI} is planning
+on leaving today.{PAUSE}{EOM}
+
+Message 32:
+{NAMI}...{PAUSE}{EOM}{EOM}
+
+Message 33:
+Of course we want {NAMI} to
+stay at our inn.{PAUSE}{WIPE}
+But I'm afraid we just can't afford
+to keep a non-paying customer. But
+I thought maybe you might be able to help.{PAUSE}{WIPE}
+Luckily, {NAMI} seems to like you,
+and you like her.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+Er, I thought you did...
+{CHOICE2 DEF0}
+Live together.
+Stay single forever.{EOM}
+
+Message 35:
+Great! Isn't that wonderful, {NAMI}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+What?
+Single... forever? I see...{PAUSE}{EOM}{EOM}
+
+Message 37:
+{PETE}, I heard that you
+proposed to {NAMI}.{PAUSE}{WIPE}
+{NAMI} said that she regrets
+turning you down.
+That's why I brought her here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+What can I do for you today?
+{CHOICE2 DEF0}
+I came to see {NAMI}.
+I came to talk with you.{EOM}{EOM}
+
+Message 39:
+Oh really!
+Thank you very much.{PAUSE}{WIPE}
+{NAMI} hasn't been very cheerful
+recently, so we've been worried about her.{PAUSE}{EOM}{EOM}
+
+Message 40:
+{NAMI}....{S_320320}{EOM}{EOM}{EOM}
+
+Message 41:
+Oh dear, she's not here.
+I'm sorry, {PETE}, but you've
+got to help {NAMI}.{PAUSE}{EOM}
+
+Message 42:
+Please try and cheer her up!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 43:
+Oh? You want to talk to me?
+Well, that's nice of you.{PAUSE}{WIPE}
+To tell you the truth, I am a little
+worried about how {NAMI}'s been
+acting recently. She seems so depressed.{PAUSE}{EOM}{EOM}
+
+Message 44:
+{NAMI} sure was
+acting strange!{PAUSE}{WIPE}
+{PETE}, I'm sorry but do you
+think you could try and cheer
+{NAMI} up for me?{PAUSE}{EOM}
+
+Message 45:
+Hello {PETE}.
+Welcome.{PAUSE}{EOM}
+
+Message 46:
+Uh, yeah...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+Sure... Whatever you say...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+{FACE_180002}What's all the
+fuss about...?{PAUSE}{EOM}{EOM}
+
+Message 49:
+{FACE_18000C}Hmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+{FACE_180003}Welcome back, {NAMI}.
+You've come home!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+{FACE_180003}Hahaha. {RUBY} will be so happy.{PAUSE}{WIPE}
+{FACE_180000}Come on inside.
+Your room is just as you left it.{PAUSE}{WIPE}
+{FACE_180003}I think I've told you before, but we
+want you to think of this as your home.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+Oh, {PETE}.
+You have very good timing...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+{NAMI} left her rent money behind
+and just disappeared.{PAUSE}{WIPE}
+Do you think she might have left
+us for good?{PAUSE}{WIPE}
+I'm sorry, but if you see {NAMI},
+could you tell her we're looking for her?
+{CHOICE2 DEF0}
+I understand.
+I'll go look for her.{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+{PETE}...
+I know it's early, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+R-really?!
+Well that's just... Thank you!!{PAUSE}{EOM}
+
+Message 56:
+It makes me feel better to hear
+you say that. Well then, could you go and
+check the places {NAMI} might go?{PAUSE}{WIPE}
+We'll split up and look ourselves.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+{PETE}...
+What is it?{PAUSE}{EOM}{EOM}
+
+Message 58:
+You couldn't find her, huh?
+Do you think she might already have left?{PAUSE}{EOM}{EOM}
+
+Message 59:
+{PETE}...
+You went too soon.{S_3207D0}{PAUSE}
+Leave {TATSUYA} to us
+and rest in peace.{PAUSE}{EOM}
+
+Message 60:
+{GRIFFIN}, could you
+sing a song for our dearly departed
+friend, {PETE}?{PAUSE}{EOM}{EOM}
+
+Message 61:
+I'm going to be heading for bed soon.{PAUSE}{EOM}{EOM}
+
+Message 62:
+It's my bedtime, so could you
+be moving along?{PAUSE}{EOM}
+
+Message 63:
+Well then. Good night.{PAUSE}{EOM}
+
+Message 64:
+Actually, I'm going to be leaving
+pretty soon.{PAUSE}{EOM}
+
+Message 65:
+I'm sorry.
+I have to go out now.
+So if you don't mind...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 66:
+So long...{PAUSE}{EOM}
+
+Message 67:
+Pardon me.{PAUSE}{EOM}
+
+Message 68:
+{PETE}, do you have a minute?{PAUSE}{EOM}{EOM}
+
+Message 69:
+{FACE_180007}Oh, that's too bad. I guess you just
+sold out of everything.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+I guess I'd better come back some other
+time.{PAUSE}{EOM}{EOM}
+
+Message 71:
+Oh, I was just hoping you might have some
+good ingredients we could use for cooking.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+Don't mind me.
+I'm just looking.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+Hmm...
+You don't seem to have ingredients that
+would be good for serving at the inn.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+Is this all you have?
+Hmm....{PAUSE}{EOM}{EOM}
+
+Message 75:
+{FACE_180007}Oh, what about this?
+{S_340175}Well, maybe not...{PAUSE}{EOM}
+
+Message 76:
+Umm....
+No, I guess not.
+Sorry.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+Oh, you came by a while ago, didn't you?
+{PETE}, wasn't it?
+How do you like Forget-Me-Not Valley?{PAUSE}{WIPE}
+To tell you the truth, I've traveled
+all over the world and somehow I wound
+up running this inn here.{PAUSE}{EOM}{EOM}
+
+Message 78:
+{FACE_180007}........Sigh.......{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+{FACE_180007}Oh, I'm sorry.
+It's just... Hmm...{PAUSE}{EOM}
+
+Message 80:
+{FACE_180004}...........!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 81:
+{FACE_180004}I'm sorry, but I'm busy right now.
+Could you make it another time?{PAUSE}{EOM}
+
+Message 82:
+Good morning.
+I hope you have a wonderful day.{PAUSE}{EOM}
+
+Message 83:
+Hello.
+How's your work coming along?{PAUSE}{WIPE}
+Me? Oh, I'm fair to middlin' as
+they say...{PAUSE}{EOM}
+
+Message 84:
+Good evening.
+My, when you're busy the time
+just flies by, doesn't it?{PAUSE}{WIPE}
+Well, I'm not usually very busy,
+to tell you the truth...
+Just sometimes...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 85:
+Hello, {PETE}.
+You're up late.{PAUSE}{EOM}
+
+Message 86:
+Hello, {PETE}.
+Welcome.
+It's pretty late. Are you here for a room?{PAUSE}{EOM}
+
+Message 87:
+Hello, {PETE}.
+Welcome.
+We always like to have guests here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+My, what a coincidence meeting you now.
+What are you doing here?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+Hello, {PETE}.
+I didn't expect to meet you
+here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+Um... Could I have that by any chance?
+I just love that kind of thing.
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 91:
+{FACE_180003}Oh, thank you!
+I'm looking forward to eating this.
+I'm so happy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 92:
+{FACE_180007}Oh, I see.
+I'm sorry.
+Please don't give it another thought.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+That's one of my favorites.
+I've traveled the world and sampled many
+delicacies, so I'm particular about food.{PAUSE}{EOM}
+
+Message 94:
+That looks very good.
+No, really.
+I can hear my stomach growling.{PAUSE}{EOM}{EOM}
+
+Message 95:
+You've got to stay at our inn sometime.
+My wife will cook something nice for you.{PAUSE}{EOM}{EOM}
+
+Message 96:
+It's the ingredients that make or break
+the dish, so I choose them very carefully.{PAUSE}{EOM}
+
+Message 97:
+{FACE_180003}Ooh, you've got something nice there.
+No, I know about these things.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 98:
+{FACE_180003}I just love that kind of thing.
+It's embarrassing but true.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+{FACE_180007}Hmm.
+I'm not a very picky eater, but I just
+can't stand that kind of thing.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+{FACE_180007}No, you can show it to me as many
+times as you like. I still don't want it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 101:
+{FACE_180007}I'm not a picky person, but...
+I'm afraid I just can't stomach that kind
+of thing. I'm sorry.{PAUSE}{EOM}{EOM}
+
+Message 102:
+Oh, look at that...
+{FACE_180007}I'm afraid I'm not very interested,
+though. I'm sorry.{PAUSE}{EOM}
+
+Message 103:
+{FACE_180007}Really...
+No matter how many times you show that
+to me, I don't want it. Sorry.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+{FACE_180003}Well well.
+What a cute child.
+Looks a lot like you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 105:
+{FACE_180003}Children are so cute.
+Even our Rock was pretty cute when
+he was younger...{PAUSE}{EOM}
+
+Message 106:
+{FACE_180003}Hey {TATSUYA}, how're you doing?
+Rock was the same when he was younger...{PAUSE}{EOM}
+
+Message 107:
+Kids are always so healthy and energetic.
+Rock was so healthy when he was younger.{PAUSE}{EOM}
+
+Message 108:
+{FACE_180003}Well, well.
+What a well behaved child.
+Looks a lot like you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+Well behaved children must be easy to
+raise. Our Rock was quite a handful
+even when he was very young...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 110:
+{FACE_180003}Well hello there.
+That looks like a very intelligent
+dog to me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 111:
+{FACE_180007}...Um.
+To tell you the truth, I don't like dogs.{PAUSE}{WIPE}
+Hm? Well, that is...
+I guess I should say that I'm kind
+of scared of them.{PAUSE}{EOM}{EOM}
+
+Message 112:
+{FACE_180007}I know I shouldn't be afraid of
+dogs, as big as I am.
+I'm so embarrassed...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 113:
+{FACE_180003}Well, what a cute cat.
+How nice. I feel relaxed just looking
+at it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+{FACE_180003}I've been all over the world and seen
+all kinds of cats, but...
+They're all cute, aren't they?{PAUSE}{EOM}
+
+Message 115:
+{FACE_180003}Cat cuteness remains a
+kind of like an international language.{PAUSE}{EOM}
+
+Message 116:
+{FACE_180003}Is that one of your chickens?
+Why, it looks just delic-- I mean, its
+looks like it would lay nice eggs.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+If it does lay some good eggs, we
+could certainly use them at the inn.
+If the price is right, that is.{PAUSE}{EOM}
+
+Message 118:
+{FACE_180003}Well well.
+What a delic-- I mean handsome
+looking duck you have there.{PAUSE}{EOM}
+
+Message 119:
+You know, there's a place where
+they eat big fat ducks flame
+broiled.{PAUSE}{WIPE}
+But when I actually went there,
+it was too expensive for me to eat.
+It sure looked good though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+{FACE_180003}That looks like a good seed.
+Oh, we grow some food of our own, so
+I know about these things.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+I hope it grows well. I'm sure we could
+use it at the inn when you harvest it.
+If the price is right, that is.{PAUSE}{EOM}
+
+Message 122:
+{FACE_180003}Well, did you grow that yourself?
+It turned our very nicely.
+Yes, I think you did very well indeed.{PAUSE}{WIPE}
+Oh, is it for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 123:
+Hmm...
+That looks very good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+There are all kinds of crops.
+We try to use as many as possible at our
+inn to expand our menu.{PAUSE}{EOM}
+
+Message 125:
+Is that milk from your farm?
+It looks nice and fresh.{PAUSE}{WIPE}
+Oh, is it for me?
+{CHOICE Y/N DEF1}
+{CHOICE Y/N DEF1}{EOM}
+
+Message 126:
+Milk is good for you.
+I'd like my wife Ruby to drink more of it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 127:
+That milk looks very fresh.
+And good too.{PAUSE}{EOM}{EOM}
+
+Message 128:
+Did you make that cheese yourself?
+{S_340175}{FACE_180003}Very impressive!
+It looks quite tasty.{PAUSE}{WIPE}
+Oh, is it for me?
+{CHOICE Y/N DEF1}{EOM}
+
+Message 129:
+Now this is a surprise.
+You don't find many cheeses like this
+anywhere in the world.{PAUSE}{WIPE}
+No, I'm serious.
+And I've traveled all over the world,
+so I know what I'm talking about.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+Yes, that cheese certainly looks tasty.
+You must have used good milk.{PAUSE}{EOM}{EOM}
+
+Message 131:
+Yes, that cheese certainly looks tasty.
+I'd like to serve it at our inn.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+Yes, that cheese certainly looks tasty.
+I wish my wife Ruby would try some.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+Did you make that butter yourself?
+{S_340175}{FACE_180003}...Yes, it smells very good.{PAUSE}{WIPE}
+Oh, is it for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 134:
+That butter looks very good.
+I'd love to serve some dishes made with
+this butter at our inn.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 135:
+That butter looks very good.
+I'd love to serve some dishes made with
+this butter at our inn.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+Dishes made with butter are very tasty,
+aren't they? The ones my Ruby makes are so
+good that I end up overeating.{PAUSE}{EOM}{EOM}
+
+Message 137:
+Did one of your chickens lay that
+egg?
+{S_340175}{FACE_180003}It must be very fresh.{PAUSE}{WIPE}
+Oh, is it for me?
+{CHOICE Y/N DEF1}{EOM}
+
+Message 138:
+There are all kinds of egg dishes in
+the world, and they're all delicious.{PAUSE}{EOM}
+
+Message 139:
+By the way, my Ruby's best egg
+dish is...{PAUSE}{WIPE}
+Fried eggs! Anyone can make that, you say?
+No, they're totally different from normal
+fried eggs. You should try them.{PAUSE}{WIPE}
+Although now that I think about it,
+she hasn't made them recently...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+One of the most delicious egg dishes I
+ever at was called a “Katsu-don.”
+Have you ever had that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 141:
+Oh, did you catch that fish?
+{S_340175}{FACE_180003}That looks very good indeed.{PAUSE}{WIPE}
+Oh, is it for me?
+{CHOICE Y/N DEF1}{EOM}
+
+Message 142:
+That looks quite good.
+I can't clean fish or anything, but it's
+a piece of cake for Ruby.{PAUSE}{EOM}{EOM}
+
+Message 143:
+Let's see, you could put that fish into
+a stew, roast it, or even make it into
+Sashimi. I'm sure it'd be quite good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 144:
+Yes, that fish looks quite good. I wonder
+what kind of dish it would be best in...{PAUSE}{EOM}
+
+Message 145:
+Oh, is that a wild plant from around here?
+I looks good... I guess.
+Can those be used in cooking?{PAUSE}{EOM}{EOM}
+
+Message 146:
+There are many kinds of wild plants,
+and some of them are dangerous. You should
+be careful, even if it looks tasty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 147:
+Well, I think most of the things you
+can find in Forget-Me-Not Valley are
+safe.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 148:
+That looks very good...
+...I guess.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 149:
+{S_340175}{FACE_180003}Well, that looks delicious.
+I'm something of a gourmet, and that looks
+just great.{PAUSE}{WIPE}
+Oh, is it for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+Using good ingredients is one of the
+basics of good cooking.{PAUSE}{WIPE}
+By the way, I do the grocery buying
+for our inn.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 151:
+{FACE_180003}Yes, that looks delicious.
+My Ruby's a great cook, but this could
+give her a run for her money.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+{FACE_180003}That's a pretty good hoe you've got there.
+Yes.
+Very good indeed.{PAUSE}{EOM}{EOM}
+
+Message 153:
+Are you going to work in the fields now?
+That sounds like hard work.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+You pay a lot of attention to your tools,
+don't you? I'm always impressed by that.{PAUSE}{EOM}
+
+Message 155:
+Oh, that's the hoe I gave you.
+How's it working out for you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+{FACE_180003}That's a pretty good sickle you've got.
+We don't have one nearly as nice as that.
+I'm a little envious, to be honest.{PAUSE}{EOM}{EOM}
+
+Message 157:
+{FACE_18000C}I'm sure you realize this, but
+it's dangerous to wave that around here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 158:
+{FACE_180003}That looks like a nice watering can.
+We don't have one nearly as nice as that.
+I'm a little jealous, to be honest.{PAUSE}{EOM}
+
+Message 159:
+That's kind of an odd shape.
+Is it easy to use?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 160:
+What an unusual watering can.
+Maybe it's a collector's item.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 161:
+Who gave you that?
+I think I've seen it somewhere before.{PAUSE}{EOM}{EOM}
+
+Message 162:
+Oh, is that a new watering can?
+You use that in your fields do you?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+You've used that watering can a fair
+amount. You use it every day?{PAUSE}{EOM}
+
+Message 164:
+{FACE_18000C}You're not planning on watering anything
+around here, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+{FACE_180003}You've certainly used that watering can
+a lot. I guess you must use it
+every day in your fields.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+{FACE_180003}What an old watering can.
+But it does look very easy to use.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 167:
+Is that a machine for milking cows?
+That must be convenient.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 168:
+Milk is tasty and good for you too.
+I'm jealous. On a farm you can always
+drink fresh milk.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 169:
+{FACE_18000C}I don't think there are any cows
+around here...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+Clippers?
+Oh, you use those to shear your sheep?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+Wool is used all over the
+world, you know.
+It's nice and warm.{PAUSE}{EOM}
+
+Message 172:
+You don't see clippers like that
+much anymore.{PAUSE}{EOM}
+
+Message 173:
+Those are new clippers, aren't they?
+So you're going to use those to
+shear your sheep from now on?{PAUSE}{EOM}
+
+Message 174:
+How are those clippers? You seem to
+have used them a fair amount.{PAUSE}{EOM}{EOM}
+
+Message 175:
+You use those to shear your sheep?
+{FACE_180003}You know, I like
+wool quite a bit.{PAUSE}{EOM}{EOM}
+
+Message 176:
+{FACE_180003}Those clippers are pretty old.
+I'm surprised they still work.{PAUSE}{EOM}{EOM}
+
+Message 177:
+New tools can be hard to use at first,
+but if you don't keep using them they'll
+never get any easier to use.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 178:
+It always makes me feel good to get
+a new tool.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+The more you use your tools, the
+easier they'll be to use.{PAUSE}{EOM}
+
+Message 180:
+If you use your tools well, they'll
+make your work a lot easier.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+{S_340175}{FACE_180003}Well, that certainly is a well used tool.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+{FACE_180003}Whenever I see a well-used tool, I think
+of all the work that it must have done.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 183:
+{S_340175}{FACE_18000C}Hmm... Is that some kind of
+rare stone? I know there are all kinds
+of stones in the world.{PAUSE}{EOM}{EOM}
+
+Message 184:
+{S_340175}{FACE_18000C}I really don't know much
+about that kind of thing, though...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+{S_340175}{FACE_180003}Wow...
+I don't know what it is, but it definitely
+looks impressive.{PAUSE}{EOM}
+
+Message 186:
+I don't suppose you'd be willing to
+give that to me, would you?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 187:
+{FACE_180003}Thank you.
+I'll take good care of it.{PAUSE}{WIPE}
+I thought maybe I'd display it in
+the inn.
+Do you think Ruby would object?{PAUSE}{EOM}
+
+Message 188:
+{S_340175}{FACE_180007}I see...
+That's too bad, but I understand.
+Don't give it another thought.{PAUSE}{WIPE}
+I thought I'd put it in the inn, but I
+suppose Ruby would object anyway.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 189:
+I guess you found that around here, huh?
+I suppose it could be good in a salad.
+But I don't normally eat those.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 190:
+I hear that some of the wild flowers
+here have mysterious properties...
+...I'm not sure what that means, though.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 191:
+{FACE_18000C}That flower is... Err...
+I'm sorry.
+I don't know anything about flowers.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+What a pretty flower.{PAUSE}{EOM}{EOM}
+
+Message 193:
+{S_340175}{FACE_180003}Oh, a record?
+Don't see many of those.{PAUSE}{EOM}{EOM}
+
+Message 194:
+What kind of record is that?
+I used to listen to those a long time ago.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 195:
+A record, huh? I used to listen
+to those when I lived in the city.
+Not since we moved here, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+I'm kind of ashamed to admit it, but
+Ruby and I have a special song we like.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 197:
+{S_340175}{FACE_180003}That's an unusual spice.
+Oh, you got it from Ruby?
+I see...{PAUSE}{EOM}
+
+Message 198:
+You can use that to make some
+delicious dishes.
+They're a little spicy, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 199:
+{FACE_180003}Ruby used to use that spice in
+all kinds of dishes.
+Well, she still does, actually.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 200:
+{S_340042}{S_3205DC}{S_340175}Hmm. That's an odd sound.{PAUSE}{EOM}
+
+Message 201:
+{S_340042}{S_3205DC}{S_340175}I've seen instruments from all over the
+world, but I've never heard that before.{PAUSE}{EOM}{EOM}
+
+Message 202:
+{S_340175}{FACE_18000C}Yep.
+That's a very unusual drum.
+Where did you get it?{PAUSE}{EOM}{EOM}
+
+Message 203:
+{S_340175}{FACE_180003}Well, that's a very
+pretty medal you have.{PAUSE}{EOM}{EOM}
+
+Message 204:
+Did you win that in some kind of
+race or something?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 205:
+You know, I once won a medal in an
+international track and field competition.
+What, you don't believe me?{PAUSE}{WIPE}
+OK, so it was an eating contest
+instead of track and field.
+They're pretty similar, right?{PAUSE}{EOM}
+
+Message 206:
+{FACE_18000C}Hey... Come to think of it, I think
+I've seen that medal somewhere before...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 207:
+{S_340175}{FACE_18000C}Well, that's an unusual
+necklace.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 208:
+There are all kinds of unusual necklaces
+in the world. I've even seen ones made of
+tiny skulls strung together.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+{FACE_180003}But that certainly is an
+unusual necklace all right.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 210:
+{S_340175}{FACE_18000C}Is that some sheet music
+you've got there?{PAUSE}{EOM}{EOM}
+
+Message 211:
+I'm sorry, I don't know how to
+read music.{PAUSE}{EOM}
+
+Message 212:
+Are you going to use that sheet music
+to play me something?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+{S_340175}{FACE_18000C}Is that a firecracker?
+That's pretty big.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+In fireworks shows around the world, they
+use hundreds of those things.
+It must be pretty expensive.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 215:
+Be sure and tell me when you're going
+to set that off.{PAUSE}{EOM}
+
+Message 216:
+Is that a present for me?
+No thanks, but I appreciate
+the sentiment.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 217:
+No, I really couldn't.{PAUSE}{EOM}
+
+Message 218:
+{S_340175}{FACE_18000C}Oh, are you going to give it
+to somebody else?
+Then why show it to me?{PAUSE}{EOM}{EOM}
+
+Message 219:
+Isn't that a present for someone?
+There's no point in showing it to me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 220:
+{S_340175}{FACE_18000C}I run the inn here, but I'm not
+really sure that I'm cut out for it.
+Sometimes I worry about it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 221:
+{FACE_18000C}I used to be a world traveler, but
+somehow I ended up living here.{PAUSE}{WIPE}
+I started out by providing rooms for my
+fellow travelers, so running an inn
+seemed the natural next step. I guess...{PAUSE}{EOM}{EOM}
+
+Message 222:
+My inn is filled with interesting objects
+that I've collected on my travels around
+the world. I think you'll like them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 223:
+You know why my Ruby's cooking is so
+good? Well, a long time ago there was a
+cooking contest. One of the judges said{PAUSE}{WIPE}
+Ruby's cooking was bad.
+Ruby got really mad and swore to improve
+her skills and be the best in the world.{PAUSE}{WIPE}
+I think that judge's name was
+Gourmet Man...
+Pretty annoying name, don't you think?{PAUSE}{EOM}
+
+Message 224:
+{FACE_180003}That thing you gave me
+was amazingly good.
+Thank you.{PAUSE}{EOM}{EOM}
+
+Message 225:
+{FACE_180007}Um... This is hard to say, but...
+That thing you gave me is one
+of my least favorite foods.{PAUSE}{WIPE}
+I'm sorry. I know you went to a
+lot of trouble to give it to me.{PAUSE}{EOM}
+
+Message 226:
+{FACE_18000C}That {VAR_00} you gave me
+tasted a little off to me.
+I'm sorry to be so picky.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+{FACE_180003}The {VAR_00} you gave me
+was pretty good.
+Thanks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 228:
+{FACE_180003}That {VAR_00} was the best!
+I've been all over the world, but
+I've never had one that good!{PAUSE}{WIPE}
+Thank you.
+Ruby was impressed, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 229:
+{FACE_180003}That {VAR_00} you gave me was
+one of my favorites. I really enjoyed it.
+Thank you very much.{PAUSE}{EOM}
+
+Message 230:
+{FACE_180003}That milk you gave me was
+very good.
+Thanks a lot.{PAUSE}{EOM}
+
+Message 231:
+{FACE_18000C}About that milk you gave me...
+I don't mean to be rude, but that was...
+Er... Thanks a lot.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 232:
+{FACE_18000C}About that milk you gave me...
+I don't mean to be rude, but it, uh...
+Thanks a lot.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 233:
+{FACE_180003}That milk you gave me was
+pretty good.
+Thanks a lot.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 234:
+{FACE_180003}That milk you gave me was
+incredibly delicious.
+Thanks a lot.{PAUSE}{EOM}{EOM}
+
+Message 235:
+{FACE_18000C}About that milk you gave me...
+I don't mean to be rude, but that was...
+Er... Oh, nothing...{PAUSE}{WIPE}
+...Maybe that kind of milk is best
+turned it into cheese?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 236:
+{FACE_18000C}That milk you gave me was...
+Well... That is to say...{PAUSE}{WIPE}
+Yep. That's about the size of it....
+...Maybe that kind of milk is best
+turned it into cheese?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 237:
+{FACE_180003}That milk you gave me was
+pretty good.
+Thanks a lot.{PAUSE}{WIPE}
+Although... I bet if you made it into
+cheese it'd be even better.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 238:
+{FACE_180003}That milk you gave me was
+was incredibly delicious!
+Thanks a lot.{PAUSE}{WIPE}
+Although... I bet if you made it into
+cheese it'd be even better.{PAUSE}{EOM}{EOM}
+
+Message 239:
+{FACE_180003}That milk you gave me tasted
+very expensive and delicious, but
+it did seem a little weak.{PAUSE}{EOM}{EOM}
+
+Message 240:
+{FACE_180003}That milk you gave me was
+was pretty good.
+Thanks a lot.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 241:
+{FACE_180003}That milk you gave me was
+was rich and very delicious.
+Thanks a lot.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 242:
+{FACE_180003}That milk you gave me was
+just fantastic!
+Thanks a lot.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 243:
+{FACE_18000C}That milk you gave me was...
+Well... That is to say...
+Oh, nothing...{PAUSE}{WIPE}
+Maybe that kind of milk is best
+turned into butter.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 244:
+{FACE_18000C}That milk you gave me was...
+Well... That is to say...{PAUSE}{WIPE}
+Yep. That's about the size of it......
+Maybe that kind of milk is best
+turned into butter?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 245:
+{FACE_180003}That milk you gave me was
+was pretty good.
+Thanks a lot.{PAUSE}{WIPE}
+You know, if you made it into butter, I
+bet it'd be even better.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 246:
+{FACE_180003}That milk you gave me was
+just fantastic!
+Thanks a lot.{PAUSE}{WIPE}
+But it did seem a tad
+strong to me.{PAUSE}{EOM}{EOM}
+
+Message 247:
+{FACE_18000C}About that milk you gave me...
+I don't mean to be rude, but that was...
+Er... A little on the smelly side...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 248:
+That milk you gave me was
+was pretty good.
+It was a little smelly, though.{PAUSE}{EOM}
+
+Message 249:
+{FACE_180003}That cheese you gave me
+was rich and very delicious.
+Thanks a lot.{PAUSE}{EOM}
+
+Message 250:
+{FACE_180003}That cheese you gave me
+smelled a little, but it was very good.
+Thanks a lot.{PAUSE}{EOM}{EOM}
+
+Message 251:
+{FACE_180003}That cheese you gave me
+is very hard to come by, isn't it?
+Thanks a lot.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 252:
+You made that cheese you gave me,
+right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 253:
+{FACE_180003}That butter you gave me was
+rich and very delicious.
+Thanks a lot.{PAUSE}{EOM}
+
+Message 254:
+{FACE_180003}That butter you gave me
+smelled a little, but it was very good.
+Thanks a lot.{PAUSE}{EOM}{EOM}
+
+Message 255:
+{FACE_180003}That butter you gave me
+is very hard to come by, isn't it?
+Thanks a lot.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 256:
+You made that butter you gave me,
+right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 257:
+{FACE_180003}The {VAR_00} you gave me was
+just fantastic!
+Thank you very much!{PAUSE}{WIPE}
+You know, I might like it even
+better than my wife Ruby's
+cooking.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 258:
+{FACE_180003}That dish you gave me
+was pretty good.
+Thanks a lot.{PAUSE}{WIPE}
+It's right up there with my
+wife Ruby's cooking.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 259:
+{FACE_180003}That fish you caught was
+the best!
+Thank you very much!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 260:
+{FACE_180003}That fish you caught was
+pretty good.
+Thanks a lot.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 261:
+{FACE_180003}You seem to be working hard every day.
+Well done.
+No really. You're a real farmer now.{PAUSE}{EOM}
+
+Message 262:
+{FACE_180003}I've heard you're very good at growing
+crops? Well done.
+Grow us lots of nice vegetables, you hear?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 263:
+{FACE_180003}I heard that your cooking is very good.
+That's just great.
+Maybe you're better than my Ruby.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 264:
+{FACE_180003}You seem to be working hard every day.
+Well done.
+Yes, you do seem a little different now.{PAUSE}{EOM}
+
+Message 265:
+{FACE_180003}Do you often cook at home?
+I've heard rumors that you're pretty good.
+Of course, maybe not as good as my Ruby...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 266:
+You seem to have gotten used to work
+on the farm.
+Keep up the good work. We're behind you.{PAUSE}{EOM}
+
+Message 267:
+You seem to have gotten used to growing
+crops.
+Keep up the good work. We're behind you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+You seem to have gotten used to
+cooking.
+Keep up the good work. We're behind you.{PAUSE}{EOM}{EOM}
+
+Message 269:
+I'd like to go traveling again someday.
+What do you think about that?
+{CHOICE2 DEF1}
+You should stay with your inn.
+Travel is nice.{EOM}
+
+Message 270:
+{FACE_18000C}You think so?
+But I think I'm really more suited
+to being a traveler.{PAUSE}{WIPE}
+Although I must say that I do like
+Forget-Me-Not Valley an awful lot...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 271:
+{FACE_180003}Oh! You think so too!
+Yes, travel is very nice indeed!
+I love going to different countries!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 272:
+Hmm... Running the inn can be fun
+in its own way, but the idea of traveling
+is very attractive.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 273:
+I've been all over the world, but
+there are lots of places that I haven't
+been yet...{PAUSE}{EOM}{EOM}
+
+Message 274:
+{FACE_180003}I like to kick back and relax with a drink
+every once in a while.
+Care to join me?{PAUSE}{EOM}
+
+Message 275:
+My favorite is the {C13}Moon Trip{C17}.
+{FACE_180003}I've been a lot of places, but I'd
+love to go on a Moon Trip!{PAUSE}{EOM}{EOM}
+
+Message 276:
+{FACE_180003}This is kind of fun.
+Drink up, {PETE}.
+Enjoy yourself.{PAUSE}{EOM}
+
+Message 277:
+{FACE_180003}We have lots of things in our
+lobby.
+Don't you think it's fun?{PAUSE}{EOM}
+
+Message 278:
+My wife Ruby and I aren't exactly slim,
+but we're nothing compared to Van!
+I wonder if we could get him on a diet?{PAUSE}{EOM}
+
+Message 279:
+{FACE_180009}I've been feeling tired just from
+walking recently.
+I guess I should go on a diet...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 280:
+{FACE_180003}Do you have some business
+here, too?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 281:
+{FACE_180003}The flowers are pretty, aren't they?
+I always feel so good on days like this.
+And feeling good stimulates my appetite.{PAUSE}{EOM}
+
+Message 282:
+{FACE_180003}I always feel good at this time of year.
+And feeling good stimulates my appetite.{PAUSE}{EOM}{EOM}
+
+Message 283:
+In some places it's a blazing desert all
+all year, and others are always covered in
+snow. But I like to see seasons change.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 284:
+Don't you just love how there are so
+many different foods to enjoy, depending
+on the season?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 285:
+{FACE_18000C}Hmmm....
+I'd like to eat something cool.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 286:
+{FACE_18000C}I can't stand the heat.
+I could really go for some ice cream
+right about now.{PAUSE}{EOM}{EOM}
+
+Message 287:
+I always have a big appetite at
+this time of year.
+Yes, bigger than usual...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 288:
+It's nice and cool outside. It feels good.
+And feeling good stimulates my appetite.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 289:
+{FACE_18000C}Cold?
+No, I'm just fine.
+But I wouldn't mind a hot drink.{PAUSE}{EOM}{EOM}
+
+Message 290:
+{FACE_18000C}Hmm...
+This kind of weather makes me want to
+eat something hot like stew.{PAUSE}{EOM}{EOM}
+
+Message 291:
+The food my Ruby makes is just
+divine.
+Don't you agree?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 292:
+{FACE_180003}My Ruby's cooking is the best!
+And I've been all over the world tasting
+different dishes, so you can believe me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 293:
+{FACE_18000C}Sometimes I get the feeling that the crops
+from our little garden are disappearing.
+You seen anything strange around there?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 294:
+{FACE_18000C}Maybe I'm imagining it.
+But it certainly seems like the crops in
+our garden are disappearing.{PAUSE}{EOM}{EOM}
+
+Message 295:
+I've seen all kinds of strange foods in
+the city, you know.
+For example...{PAUSE}{WIPE}
+Crushed ice with syrup on top.
+And fried frog's legs...
+Those are pretty good, actually.{PAUSE}{EOM}{EOM}
+
+Message 296:
+{FACE_180003}Vegetables from a farm are just great.
+They taste good and are good for you, too.{PAUSE}{EOM}{EOM}
+
+Message 297:
+Back when I was traveling the world, I
+saw all kinds of unusual things.{PAUSE}{WIPE}
+People who dance wearing almost nothing
+but masks,{PAUSE}{WIPE}
+Or even countries that have iron horses
+and iron birds that fly the skies...
+Yes, the world is a big place all right.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 298:
+{FACE_180003}Have you noticed things from our
+collection displayed around the inn?
+We're very proud of them.{PAUSE}{WIPE}
+That, oh and this over here...
+They were all very hard to come by.{PAUSE}{WIPE}
+{FACE_180007}But Rock ended up breaking our
+most precious vase. I don't know what
+we're going to do with that boy...{PAUSE}{EOM}
+
+Message 299:
+Um... I'm sorry, but I think we'd
+better make it another time.
+But I appreciate the offer.{PAUSE}{EOM}
+
+Message 300:
+{FACE_180009}I can't stand this weather.
+I never feel like going anywhere on days
+like this.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 301:
+If you walk around in wet clothes,
+you'll catch cold.{PAUSE}{EOM}{EOM}
+
+Message 302:
+I heard that {VAR_00} from Mineral
+Town has a dog that's really good
+at catching frisbees...{PAUSE}{EOM}
+
+Message 303:
+I heard that {VAR_00} from Mineral
+Town has won the horse race
+10 times...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 304:
+What is a chicken festival, anyway?
+Oh, I just heard that the farmer from
+Mineral Town won it 10 times.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 305:
+I heard that {VAR_00} from Mineral
+Town has won the cow festival
+10 times.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 306:
+What is a sheep festival, anyway?
+Oh, I just heard that {VAR_00} from
+Mineral Town won it 10 times.{PAUSE}{EOM}{EOM}
+
+Message 307:
+Well, don't worry about it. It's best
+just to leave these things alone.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 308:
+Hey Ruby...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 309:
+{FACE_180007}I know it's a little late to be asking,
+but are you sure you're happy with me?{PAUSE}{EOM}
+
+Message 310:
+I was nothing but a traveler when we met.{PAUSE}{EOM}{EOM}
+
+Message 311:
+When we arrived here, I decided
+to stay.{PAUSE}
+And you.
+You stayed with me.{PAUSE}{EOM}
+
+Message 312:
+{FACE_180007}Ruby.{PAUSE}
+You don't have to go on.
+That's enough.{PAUSE}{EOM}
+
+Message 313:
+{FACE_180003}That's right.{PAUSE}{EOM}{EOM}
+
+Message 314:
+You don't have to say anything.
+We both know just how you feel,
+Nami.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

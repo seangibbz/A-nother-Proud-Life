@@ -1,0 +1,2041 @@
+Message 0:
+{FACE_1A0004}................. I hate it when other
+people are more popular than me!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+ERROR{EOM}{EOM}{EOM}
+
+Message 2:
+Now now. Don't look so sad.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+I don't know much about the
+piano, but{PAUSE}{WIPE}
+But why do you think music is
+written down in the first place?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+That's right!{S_32012C} Because composers want to
+convey the wonderful melodies they've
+got inside their heads to a lot of people!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+Those musical notes are just symbols, just
+tools to allow you to enjoy music.{PAUSE}{WIPE}
+I just can't stand by and watch you
+let yourself be ruled by notes on a page
+when you should be enjoying playing.{PAUSE}{EOM}{EOM}
+
+Message 6:
+{FACE_1A0003}That's good!
+I'm behind you all the way!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+To women, there's a fine line between
+giving advice and preaching.
+Be careful.{S_3203E8}{EOM}{EOM}{EOM}
+
+Message 8:
+Hurry up.
+If I don't get some music soon
+I think I'm gonna die!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+I can't wait!
+I've gotta have some music right now!
+In particular, {GRIFFIN}'s guitar...{PAUSE}{EOM}{EOM}
+
+Message 10:
+The dulcet tones of that guitar are just
+perfect for the way I feel now.{S_3201F4}
+{GRIFFIN}, {S_3201F4}let me buy you a drink.{PAUSE}{EOM}
+
+Message 11:
+{FACE_1A0003}{GRIFFIN}'s guitar is always the best!
+Let me buy you a drink!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_1A0009}{PETE} was kidding,
+{MUFFY}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+{PETE}'s being mean today.
+Of course she wants to hear it.{PAUSE}{EOM}
+
+Message 14:
+Right, {PETE}? {S_3201F4}Right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+Oh, I forgot about that...{S_3201F4}
+{FACE_1A0003}{S_340180}Hahaha...{S_3201F4}{EOM}{EOM}{EOM}
+
+Message 16:
+{FACE_1A0007}..........................
+..........................
+Thanks for everything, {PETE}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+{GRIFFIN}, could you sing something?
+For {PETE}.{PAUSE}{EOM}{EOM}
+
+Message 18:
+It's about time for me to go to bed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+It's time for me to go to bed,
+so could you leave please?{PAUSE}{EOM}{EOM}
+
+Message 20:
+Well, I'm off to bed. Later.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+I'm going to be going out soon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+I have to go out now, so if you
+don't mind...{PAUSE}{EOM}{EOM}
+
+Message 23:
+Well, goodbye. Catch a clue next time.{PAUSE}{EOM}
+
+Message 24:
+{S_34017F}'Scuse me.{PAUSE}{EOM}{EOM}
+
+Message 25:
+{S_34017F}{PETE},
+got a second?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+{S_34017E}{FACE_1A0009}Oh darn.
+It looks like you're all sold out.{PAUSE}{EOM}
+
+Message 27:
+{S_34017E}{FACE_1A0009}Hmm...
+I guess I'd better come back another time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+{S_34017F}Hmm.
+I thought you might have something
+interesting for sale, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+{S_340180}Don't pay any attention to me, Babe.
+I don't have much money, so
+I'm just window shopping.{PAUSE}{EOM}{EOM}
+
+Message 30:
+{S_34017E}Hmm. I guess there's nothing in
+particular that I want here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+I like the {VAR_00}, but
+how much is it, babe?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G, babe.
+I can't sell that.{EOM}{EOM}
+
+Message 32:
+{FACE_1A0003}Oh, really?
+That's pretty cheap. Awesome!{PAUSE}{EOM}{EOM}
+
+Message 33:
+OK then.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+{FACE_1A0009}That's a little pricey.
+But, OK.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+{FACE_1A0009}Whoa. I guess I'll forget about it then.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+I want the {VAR_00}, but
+how much is it, babe?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G, babe.
+I can't sell that.{EOM}{EOM}
+
+Message 37:
+{S_34017E}Hmm. I'm sorry.
+I guess there's nothing here that I
+want after all.{PAUSE}{EOM}
+
+Message 38:
+{S_34017F}Oh yeah. {PETE}, was it?
+I'm kind of a free spirit, so be sure
+and invite me if you do something fun!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+{FACE_1A0002}Hmmm.{PAUSE}{EOM}{EOM}
+
+Message 40:
+{FACE_1A0002}I'm just not.
+Hmm...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+{FACE_1A0004}Grr!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+{FACE_1A0004}You want something?
+If not, then leave me alone!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 43:
+{S_34017F}Hello.
+I hope something fun happens today.{PAUSE}{EOM}{EOM}
+
+Message 44:
+{S_34017F}Hello.
+What's up?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 45:
+{S_34017F}Hello.
+Now is when the nightlife really begins.{PAUSE}{EOM}
+
+Message 46:
+{S_34017F}{FACE_1A0000}Hey, {PETE}.
+What brings you out so late?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+{S_34017F}{FACE_1A0000}Hey, {PETE}.
+Welcome. What brings you here this late?
+Planning on sleeping over?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+{S_34017F}{FACE_1A0000}Hey, {PETE}.
+Welcome.
+Should we have a party or something?{PAUSE}{EOM}{EOM}
+
+Message 49:
+{S_34017F}{FACE_1A0000}Well, this is a coincidence this late
+at night. You're here visiting too?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+{S_34017F}{FACE_1A0000}Hey, {PETE}.
+You here visiting too?{PAUSE}{EOM}
+
+Message 51:
+Hey, are you giving that to me?
+{FACE_1A0003}Wow! That's totally one of my favorites!
+{CHOICE Y/N DEF1}{EOM}
+
+Message 52:
+{S_340180}{FACE_1A0003}Thanks, babe!
+It looks really great.
+I'm looking forward to it!{PAUSE}{EOM}
+
+Message 53:
+{S_34017E}{FACE_1A0002}Oh, I see.
+Bummer.{PAUSE}{EOM}{EOM}
+
+Message 54:
+{S_34017E}I love that stuff.
+It looks really great.
+Of course, I eat it all the time, but...{PAUSE}{EOM}{EOM}
+
+Message 55:
+{S_34017E}{FACE_1A0000}Wow, you've got something nice there.
+Hey, are you giving that to me?
+{CHOICE Y/N DEF1}{EOM}
+
+Message 56:
+{S_340180}{FACE_1A0003}Thanks, babe!
+Cool.
+I love this stuff!{PAUSE}{EOM}{EOM}
+
+Message 57:
+{S_34017E}That's totally one of my weaknesses, babe.
+Dang, that's awesome.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+{S_34017E}{FACE_1A0009}Uh, look babe, I don't wanna
+get in your face, but... NO. Get it?
+That's one thing I just can't stand.{PAUSE}{EOM}{EOM}
+
+Message 59:
+{S_34017E}{FACE_1A0009}Ugh.
+Keep that away from me, Babe.{PAUSE}{EOM}{EOM}
+
+Message 60:
+{S_34017E}{FACE_1A0009}What's up with that, Babe?
+I certainly don't want it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+{S_34017E}{FACE_1A0009}Nope don't want that.
+To tell you the truth, I hate it.{PAUSE}{EOM}
+
+Message 62:
+{S_34017E}Hey. Cute a little boy.
+Or was it a girl?{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{S_34017E}{FACE_1A0009}To tell you the truth,
+I'm not very good with
+kids.{PAUSE}{EOM}
+
+Message 64:
+{S_34017E}Hey, a dog.
+Cute.
+Ruff ruff!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+I like cats, but dogs are nice too.
+{FACE_1A0009}But dogs are smart.
+Some can be a little dangerous.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+{S_34017F}{FACE_1A0000}Hey, cute kitty.
+Hmm.
+Yep, I sure love cats.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+{S_340180}{FACE_1A0000}I don't know, I guess the
+way cats are selfish reminds me
+of women. I love 'em.{PAUSE}{EOM}
+
+Message 68:
+{S_34017E}{FACE_1A0009}A ch-chicken? I like 'em fried,
+with a side of coleslaw, thanks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+{S_34017E}{FACE_1A0009}Babe, what's with the chicken?
+Why do you keep showing me that thing?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+{S_34017E}{FACE_1A0009}A c-chick?
+I guess it's kinda cute...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 71:
+{S_34017E}{FACE_1A0009}It's cute and all, but why are you
+showing it to me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+{S_34017E}{FACE_1A0009}A d-duck?
+Hmm. The only thing that comes to mind is
+the story of a duck walking into a bar.{PAUSE}{EOM}
+
+Message 73:
+{S_34017E}{FACE_1A0009}Look, I really don't need a duck, Babe.{PAUSE}{EOM}
+
+Message 74:
+{S_34017E}What is that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+{S_34017E}{FACE_1A0002}What's up with that,
+Babe? Why do you show me weird stuff?{PAUSE}{EOM}{EOM}
+
+Message 76:
+{S_34017E}{FACE_1A0000}Wow.
+Milk from your farm, huh?
+That's probably pretty tasty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+{S_34017E}{FACE_1A0000}Yep.
+That milk looks fresh and tasty
+all right.{PAUSE}{EOM}
+
+Message 78:
+{S_34017F}{FACE_1A0000}Did you make that cheese, babe?
+I only eat good cheese and that one
+looks pretty darn good to me.{PAUSE}{WIPE}
+{FACE_1A0003}Can I have it?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+{S_34017F}{FACE_1A0000}Cool. It really looks good.
+I guess it's made with good milk, huh?{PAUSE}{EOM}{EOM}
+
+Message 80:
+{S_34017F}{FACE_1A0000}Did you make that butter, babe?
+I only eat good butter and that
+looks pretty darn good to me.{PAUSE}{WIPE}
+{FACE_1A0003}Can I have it?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+{S_34017F}{FACE_1A0000}Cool. It really looks good.
+I bet it'd be good on bread or in
+cooking too.{PAUSE}{EOM}{EOM}
+
+Message 82:
+{S_34017E}{FACE_1A0000}Wow.
+Is that egg from your farm?
+Looks pretty good. All nice and fresh.{PAUSE}{EOM}
+
+Message 83:
+{S_34017E}{FACE_1A0000}Yeah, that egg looks good all right.
+Do you like 'em scrambled or
+sunny-side up?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+{S_34017E}Wow, like... a fish.
+I could take 'em or leave 'em.
+I'll eat it if it's served to me anyway.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+{S_34017F}I guess fish can be pretty
+good if you fried it up. Maybe a little
+tartar sauce on the side.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+{S_34017F}{FACE_1A0000}Hey babe, you like fishing?
+I guess a lot of famous stars fish.
+Hey, maybe it's cool now?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+{S_34017F}{FACE_1A0000}Hey, that looks pretty good.
+{FACE_1A0003}Is it for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+{S_34017E}Hmm. Looking at that food
+makes me feel kinda hungry.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+{S_34017E}That's some kinda farming tool, huh?
+Sorry, doesn't go with the whole image
+I'm working on.{PAUSE}{EOM}
+
+Message 90:
+{S_34017E}You think I got dressed up like
+this just to sweat like a pig working
+in some field? Nope.{PAUSE}{EOM}{EOM}
+
+Message 91:
+Do you really think a girl should be
+waving something like that around?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+I'd like to see you use that to water
+some flowers or something.
+Something nice and feminine for once.{PAUSE}{EOM}
+
+Message 93:
+{S_34017E}...Is that some kinda dairy farming thing?
+Sorry, doesn't go with the whole image
+I'm working on...{PAUSE}{EOM}
+
+Message 94:
+{S_34017E}Is that some kinda dairy farming thing?
+Sorry, it doesn't go with the whole image
+of you that I'm working on.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+It's not like I hate animals or anything,
+but I'm not taking care of 'em. No way.{PAUSE}{EOM}{EOM}
+
+Message 96:
+{S_34017E}That looks brand new.
+You like getting new stuff too, huh?{PAUSE}{EOM}{EOM}
+
+Message 97:
+{S_34017E}New stuff is always fun to get,
+but sometimes it can be hard to figure out.{PAUSE}{EOM}
+
+Message 98:
+{S_34017E}You've used that a fair amount.
+Pretty used to it now, are you?{PAUSE}{EOM}
+
+Message 99:
+{S_34017E}You've used that quite a bit.
+About the only tool that I use a lot is
+my comb.{PAUSE}{EOM}{EOM}
+
+Message 100:
+{S_34017E}Wow.
+You must really like that tool, babe.
+You've used the heck out of it.{PAUSE}{EOM}{EOM}
+
+Message 101:
+{S_34017E}Yeah, I guess you must be
+pretty attached to that thing, but if it
+were me, I'd buy a new one.{PAUSE}{EOM}{EOM}
+
+Message 102:
+{S_34017E}{FACE_1A0000}Hey, that's a pretty unusual stone. If
+it's a jewel or something, I'll take it.
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 103:
+{S_340180}You're really giving it to me?!
+{FACE_1A0003}Thanks, babe!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+{FACE_1A0001}If I made it into a necklace or something,
+I bet some girl would just love it.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 105:
+{S_34017F}{FACE_1A0000}Hey, what is that, babe?
+It looks kinda interesting. Can I have it?
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 106:
+Are you collecting things like that?
+Me too!
+I guess we have something in common.{PAUSE}{EOM}{EOM}
+
+Message 107:
+That looks interesting.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+{S_34017E}What is that, some kinda wild plant?
+What do you plan to do with that?{PAUSE}{EOM}{EOM}
+
+Message 109:
+Those grow all around here, you know.{PAUSE}{EOM}{EOM}
+
+Message 110:
+What about it?{PAUSE}{EOM}
+
+Message 111:
+{S_34017F}{FACE_1A0000}Hey, that's a record, right?
+You've got some unusual stuff, huh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+{FACE_1A0000}What kind of record is it?
+If it's rock, I definitely want to hear it.
+{S_340180}After all, my name is Rock...{PAUSE}{WIPE}
+Although I do like rap, reggae and
+house...{PAUSE}{EOM}{EOM}
+
+Message 113:
+{FACE_1A0009}I'd like to listen to records, too,
+but we don't have a record player.{EOM}{EOM}
+
+Message 114:
+Hey, that's one of Mom's spices, huh?{PAUSE}{EOM}{EOM}
+
+Message 115:
+You can make some great dishes with that.{PAUSE}{EOM}{EOM}
+
+Message 116:
+You got that from Mom, right?{PAUSE}{EOM}{EOM}
+
+Message 117:
+{S_3400DA}{S_3205DC}Hmm. That's an unusual sound.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+{S_3400DA}{S_3205DC}That's a pretty strange drum, babe.
+I've seen a lot of instruments, but I've
+never seen one like that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 119:
+{S_3400DA}{S_3205DC}Now that I listen to it, it's pretty cool.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+{S_34017E}{FACE_1A0000}Hey, that's pretty cool.
+But I'm really more the “earring and
+tattoo” kinda guy, you know?{PAUSE}{EOM}{EOM}
+
+Message 121:
+I like jewelry and accessories, but I'm
+not interested in medals.{PAUSE}{EOM}{EOM}
+
+Message 122:
+Even you can't make that look good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+{S_34017E}That's a pretty unusual necklace.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+{S_34017E}That necklace has kind of a
+wild design, huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+That's not bad. Not bad at all.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+{S_34017E}Hmm. That's sheet music, but it
+looks a little strange.{PAUSE}{EOM}
+
+Message 127:
+{S_34017E}I don't know.
+That's not normal music.{PAUSE}{EOM}{EOM}
+
+Message 128:
+{S_34017F}{FACE_1A0000}Hey, is that a firecracker?
+I bet it'd be fun to set that off.{PAUSE}{EOM}{EOM}
+
+Message 129:
+{S_340180}{FACE_1A0000}Fireworks always go along with fun things
+like festivals and parades.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 130:
+I don't think you can set off such a big
+firecracker around here, babe.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 131:
+Is that a present for me?
+Sorry, not interested.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+What're you gonna do with that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 133:
+Tim and Ruby are my Mom and Dad.
+{S_340180}But everybody says that I don't
+look like either one of 'em.{PAUSE}{WIPE}
+{FACE_1A0009}I guess this is a case of the
+apple falling a long way from the tree.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+{S_340180}Hm? What do I do every day?
+Well, er... That is... I don't think
+most people would understand...{PAUSE}{WIPE}
+{FACE_1A0004}To tell you the truth, I'm
+secretly planning something major. So I'm
+not just goofing off all day or anything.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 135:
+{S_340180}{FACE_1A0000}I suppose I should look into getting
+a job sooner or later.
+I think I'll make it “later.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+Hey Babe, I heard that the farmer
+in Mineral Town is
+like, really rich...{PAUSE}{EOM}{EOM}
+
+Message 137:
+Hey Babe, I heard that the farmer
+in Mineral Town is really popular.
+But I bet she's not as popular as me!{PAUSE}{EOM}
+
+Message 138:
+I heard {VAR_00} from Mineral Town
+has shipped every crop there is.
+I guess she's a pretty hard worker, huh?{PAUSE}{EOM}
+
+Message 139:
+Hey Babe, I heard that the farmer
+in Mineral Town is really kind to her
+animals. Sounds like a nice girl.{PAUSE}{EOM}{EOM}
+
+Message 140:
+Hey Babe, I heard that the farmer
+in Mineral Town spends all day just
+digging holes. Sounds kinda hard.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+Hey Babe, I heard that the farmer
+in Mineral Town is a master angle-dudette. {PAUSE}{EOM}{EOM}
+
+Message 142:
+I heard {VAR_00} from Mineral Town
+has walked one million steps.
+What's the big deal, anyway?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 143:
+That farmer from Mineral Town sure
+has lived a long time. She worked
+that farm for more than 50 years.{PAUSE}{EOM}
+
+Message 144:
+Hey Babe, I heard that the farmer
+in Mineral Town is ignoring her chores and
+just fishes all day. My kinda gal!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+I heard that the farmer from Mineral Town
+likes everything to be in gold.
+Pretty cool, huh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 146:
+Hey babe... I heard that the farmer
+in Mineral Town has three cottages.
+Woah. Probably party palaces, too.{PAUSE}{EOM}
+
+Message 147:
+I heard they have some amazing tools at
+{VAR_00} Farm in Mineral Town.
+Like, what do they do, you think?{PAUSE}{EOM}
+
+Message 148:
+{S_340180}{FACE_1A0003}Babe, that thing you gave me
+was totally awesome!
+Thanks babe! You're all right!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 149:
+{S_34017E}{FACE_1A0009}Babe, that thing you gave me
+was totally gross.
+I just can't stand that kind of thing.{PAUSE}{EOM}{EOM}
+
+Message 150:
+{S_34017E}{FACE_1A0009}Babe, that {VAR_00} you
+gave me was. Not the greatest.
+Sorry, Babe.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+{S_34017F}{FACE_1A0000}Babe, that {VAR_00} you
+gave me was pretty good.
+Feel free to give me some more!{PAUSE}{EOM}{EOM}
+
+Message 152:
+{S_340180}{FACE_1A0003}Babe, that {VAR_00} you
+gave me was fantastic!
+Thanks, man! I'd love some more!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 153:
+{S_340180}{FACE_1A0003}Don't tell anybody, but the
+{VAR_00} you gave me is one of my
+favorites. It was amazing! Thanks, babe!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 154:
+{S_34017E}{FACE_1A0009}About that milk you gave me.
+Sorry, Babe. It could still use more work.
+How about some better stuff next time?{PAUSE}{EOM}{EOM}
+
+Message 155:
+{S_34017E}{FACE_1A0009}About that milk you gave me...
+Sorry, babe. It could still use more work.
+How about some better stuff next time?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+{S_34017F}{FACE_1A0003}That milk you gave me was
+pretty good.
+Thanks, babe.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 157:
+{S_340180}{FACE_1A0003}That milk you gave me was
+just fantastic!
+Thanks, babe! I'd love some more!{PAUSE}{EOM}
+
+Message 158:
+{S_340180}{FACE_1A0003}That cheese you gave me
+was rich and totally delicious!
+Thanks, babe! I'd love some more!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 159:
+{S_34017F}{FACE_1A0000}That cheese you gave me was
+pretty good.
+Thanks, babe.{PAUSE}{EOM}{EOM}
+
+Message 160:
+{S_34017F}Hey, you made that cheese you gave
+me, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 161:
+{S_340180}{FACE_1A0003}That butter you gave me
+was rich and totally delicious!
+Thanks, babe! I'd love some more!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+{S_34017E}{FACE_1A0002}About that butter you gave me.
+Sorry Babe, but it just wasn't for
+me, you know?{PAUSE}{EOM}
+
+Message 163:
+{S_34017F}{FACE_1A0000}That butter you gave me
+was pretty good.
+Thanks, babe.{PAUSE}{EOM}{EOM}
+
+Message 164:
+{S_34017F}Hey, you made that butter you gave
+me, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+{S_34017F}{FACE_1A0000}That dish you cooked for me
+was pretty good.
+Thanks, babe.{PAUSE}{EOM}{EOM}
+
+Message 166:
+{S_340180}{FACE_1A0003}Don't tell anybody, but the fish
+you gave me is one of my favorites.
+It was the best! Thanks, babe!{PAUSE}{EOM}
+
+Message 167:
+{S_34017F}{FACE_1A0000}That fish you gave me
+was pretty good.
+Thanks, babe.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+{S_340180}{FACE_1A0003}Don't tell anybody, but the wild
+plant you gave me was one of my favorites!
+It was the best! Thanks, babe!{PAUSE}{EOM}{EOM}
+
+Message 169:
+{S_34017F}{FACE_1A0000}That wild plant you gave me
+was better than I thought it'd be.
+Well, it wasn't bad anyway.{PAUSE}{EOM}{EOM}
+
+Message 170:
+{S_34017F}That thing you gave me
+was better than I thought it'd be.
+Well, it wasn't bad anyway.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+{S_340180}{FACE_1A0003}You're working hard every day, huh?
+So you're a successful farmer now?
+How about buying me a drink then?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+{S_340180}{FACE_1A0003}You're working hard every day, huh?
+I hear you're concentrating more on crops
+than on dairy products.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 173:
+{S_340180}{FACE_1A0003}You're working hard at cooking, huh?
+Everybody says you're pretty good.
+You should really open a restaurant.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+{S_34017F}{FACE_1A0000}I hear you're working hard every day.
+You do look somehow different these days.
+How about buying me a drink sometime?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 175:
+{S_34017F}{FACE_1A0000}I hear you're working hard every day.
+You do look somehow different these days.
+How about buying me a drink sometime?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 176:
+{S_34017F}{FACE_1A0000}I hear you're cooking a lot every day.
+I guess it must be nice to have something
+to devote yourself to.{PAUSE}{EOM}
+
+Message 177:
+Have you gotten used to farm work?
+{S_34017E}It looks pretty tough.
+I know I couldn't handle it.{PAUSE}{EOM}{EOM}
+
+Message 178:
+Have you gotten used to growing crops?
+{S_34017E}It looks pretty tough.
+I know I couldn't handle it.{PAUSE}{EOM}{EOM}
+
+Message 179:
+Have you gotten used to cooking?
+{S_34017E}You want to be a cook
+in the future or something?{PAUSE}{EOM}{EOM}
+
+Message 180:
+{S_34017F}You know, I've been thinking.
+If I could just publish a book containing
+all of my knowledge about{PAUSE}{WIPE}
+partying and fashion, I bet
+it'd sell pretty well.
+What do you think?
+{CHOICE2 DEF1}
+Maybe so.
+Maybe not.{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+{S_340180}{FACE_1A0003}You think so, too?
+I think a book like that would be really
+popular with the younger crowd!{PAUSE}{WIPE}
+{FACE_1A0009}But I guess it takes a lot of money
+to publish a book, huh?
+I'm practically broke.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 182:
+{S_34017E}{FACE_1A0004}What? Why?
+I think a book like that would be really
+popular with the younger crowd!{PAUSE}{WIPE}
+{FACE_1A0009}Well, I guess I knew it wouldn't work.
+You've gotta have money to publish a book,{PAUSE}{WIPE}
+and I don't think I could ever finish
+writing a whole book anyway.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+{S_34017E}{FACE_1A0002}Yeah, I guess it'd be a waste
+to just tell everybody all of my partying
+and fashion secrets.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 184:
+{S_34017E}{FACE_1A0002}Maybe I could make a line of
+clothes that expressed my unique fashion
+sense. Yeah, let me think about that.{PAUSE}{EOM}
+
+Message 185:
+{S_34017F}{FACE_1A0000}Drink up, babe!
+I think we're gonna start dancing
+pretty soon!{PAUSE}{EOM}{EOM}
+
+Message 186:
+{S_340180}My favorite's probably the {C13}Mixed Punch{C17}.
+But I guess everybody likes
+that.{PAUSE}{EOM}
+
+Message 187:
+{S_340180}{FACE_1A0003}Come on, babe! Drink up!
+I'll drink you under the table!
+Just kidding.{PAUSE}{EOM}{EOM}
+
+Message 188:
+{S_34017F}{FACE_1A0000}Kick back and relax, babe!
+That's my motto.{PAUSE}{EOM}
+
+Message 189:
+{S_34017F}{FACE_1A0000}Make yourself at home.
+You want to sleep over?
+Just kidding.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 190:
+{S_340180}{FACE_1A0000}It's pretty interesting here.
+Don't you think?{PAUSE}{EOM}{EOM}
+
+Message 191:
+You like this place, too?
+{S_340180}I understand.
+It's pretty nice.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+{S_34017F}{FACE_1A0000}I love this time of year.
+Want to go smell the flowers with me?{PAUSE}{EOM}
+
+Message 193:
+{S_34017F}{FACE_1A0000}It sure feels good out.
+Maybe I should go hiking or something...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+{S_34017F}There are some kinds of activities that
+you can really only do in a particular
+season. But that can be hard around here.{PAUSE}{WIPE}
+Well, I guess you can go fishing.
+You like fishing, babe?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 195:
+{S_34017F}I'd love to go all out and throw
+a big party. But I don't have much
+in the money department.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+{S_34017F}Whew, it sure is hot.
+At this time of year, the best
+thing to do is swim at the beach.{PAUSE}{EOM}{EOM}
+
+Message 197:
+{S_34017E}At this time of year, I like to go to
+the beach and pick up some pretty girls--
+I mean, go surfing. Yeah.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+{S_34017F}It's nice to walk outside at this time of
+year. Not too hot, not too cold.{PAUSE}{EOM}{EOM}
+
+Message 199:
+{S_34017F}This is a nice time of year.
+It'd be even better if I was on a date
+with a cute girl. You know what I mean?{PAUSE}{EOM}
+
+Message 200:
+{S_34017F}It does get a little chilly at this time
+of year. But this is the only time that
+you can go skiing or snowboarding.{PAUSE}{EOM}
+
+Message 201:
+I'd like to go snowboarding.
+{S_340180}I may not look it, but I'm pretty good.
+I'm almost a pro freestyle skier, too.{PAUSE}{EOM}
+
+Message 202:
+{S_34017E}Woah, you look pretty busy there, babe.{PAUSE}{EOM}
+
+Message 203:
+{S_34017F}You know, I think people need
+some time to just stare up at the clouds
+and think.{PAUSE}{WIPE}
+You can get a lot out of it, you know.
+Am I being too philosophical for you?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 204:
+{S_34017F}I was just thinking about
+fashion.{PAUSE}{WIPE}
+I try to keep up on all the latest trends
+and fashions.
+And I think I look pretty good.{PAUSE}{WIPE}
+I have an overall theme that I'm going for
+with my clothes, so you might not notice,
+but I wear something different every day.{PAUSE}{WIPE}
+I make subtle changes to my accessories
+and color scheme all the time, but nobody
+seems to notice.{PAUSE}{EOM}{EOM}
+
+Message 205:
+{S_34017F}I wish something interesting
+would happen.
+Don't you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+{S_34017F}You know, I think people need
+some time to just stare up at the stars
+and think.{PAUSE}{WIPE}
+Well, sometimes I fall asleep and
+end up catching a cold while I'm
+doing that, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 207:
+..............I was just
+thinking.........{PAUSE}{EOM}
+
+Message 208:
+{S_34017F}You know, that Sebastian...
+I've been thinking for a long time
+that he wears a rug.{PAUSE}{WIPE}
+There's just something weird, something
+unnatural about that hair of his.
+I just can't get it off my mind!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+{S_34017E}{FACE_1A0002}I'm eating right now.
+Could you make it later?{PAUSE}{EOM}{EOM}
+
+Message 210:
+{S_34017E}{FACE_1A0002}Look, I said I was
+eating, so please come back later.
+Really, Babe! After dessert!{PAUSE}{EOM}{EOM}
+
+Message 211:
+{S_34017E}When do you think they're
+gonna come and collect this garbage?
+They're not gonna just leave it here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+{S_34017F}When do you think Cody will
+notice me? At this rate, I'll die of
+old age before he notices!{PAUSE}{WIPE}
+Think he'd notice if I wrote on his face?{PAUSE}{EOM}
+
+Message 213:
+{S_340180}Woah! I guess Cody finally
+noticed me. Heh heh...
+That's my best time yet!{PAUSE}{EOM}{EOM}
+
+Message 214:
+{FACE_1A0002}..........................
+..........................
+..........................{PAUSE}{WIPE}
+{FACE_1A0004}..........................
+..........................{S_3203E8}Whew!!
+{S_340180}{FACE_1A0003}Yes! I held my breath for 3 minutes!{PAUSE}{EOM}{EOM}
+
+Message 215:
+{FACE_1A0002}..........................
+..........................
+..........................{PAUSE}{WIPE}
+{FACE_1A0004}..........................
+..........................
+..........................{PAUSE}{WIPE}
+..........................
+..........................{S_3203E8}Whew!!
+{S_340180}{FACE_1A0003}Yes! I held my breath for 5 minutes!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 216:
+{FACE_1A0002}..........................
+..........................
+..........................{PAUSE}{WIPE}
+..........................
+..........................
+..........................{PAUSE}{WIPE}
+..........................
+..........................
+..........................{PAUSE}{WIPE}
+..........................
+..........................
+..........................{PAUSE}{WIPE}
+..........................
+....Yes? Holding my breath?
+{S_34017E}{FACE_1A0000}No, I was just daydreaming there.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+{S_34017F}You don't seem to have anything to do.
+How about a milk drinking contest?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 218:
+{S_340180}All right! Let's do it!{PAUSE}{EOM}
+
+Message 219:
+{S_34017E}OK then.
+Come back when you're ready.
+I'll be waiting.{PAUSE}{EOM}{EOM}
+
+Message 220:
+{S_34017F}We often have milk drinking contests here.{PAUSE}{EOM}{EOM}
+
+Message 221:
+Uh, sorry babe.
+I'd better pass for now.
+....Just because....{PAUSE}{EOM}{EOM}
+
+Message 222:
+I don't usually go out on days like
+this unless I have to.{PAUSE}{EOM}
+
+Message 223:
+Maybe we should find some place
+to get out of the rain.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 224:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 225:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 226:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 228:
+{FACE_1A0002}Darn it...!{S_3202BC}
+You won't beat me next time!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 229:
+{FACE_1A0003}{S_340180}Ha ha ha! I win!{S_3202BC}
+You won't beat me next time, either!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 230:
+Hey Lumina.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 231:
+You've got good timing.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 232:
+There's something I've been thinking
+about that I'd like to ask you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 233:
+It's about Sebastian.{PAUSE}{WIPE}
+This is hard to say, but according
+to my sources.{PAUSE}{EOM}{EOM}
+
+Message 234:
+He...{S_3202BC} He wears a toupee.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 235:
+I've thought a lot about this, and I've
+decided that he must be suffering,{PAUSE}{WIPE}
+you know, not being able to tell
+anybody about his secret.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 236:
+So I decided to shave my
+head in solidarity with him.{PAUSE}{EOM}{EOM}
+
+Message 237:
+Hey! Lumina!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 238:
+There's a thin line between advice and
+preaching. Be careful.{S_3203E8}{EOM}{EOM}{EOM}{EOM}
+
+Message 239:
+Hey! {S_3202BC}Hey hey hey!{PAUSE}{WIPE}
+What's this?!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 240:
+{FACE_1A0003}Lumina!♪
+What're you doing here?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 241:
+{FACE_1A0009}Don't talk like that.
+You're worried about something, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 242:
+Aha!♪
+I bet it's...{S_3203E8}{FACE_1A0009} Love problems, right?{PAUSE}{WIPE}{EOM}{EOM}
+
+Message 243:
+{FACE_1A0009}It's all right!
+Lumina!
+I won't change my mind about you.{PAUSE}{WIPE}
+{FACE_1A0003}Go ahead and say it!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 244:
+{FACE_1A0009}That's simple!
+Why don't you just ask somebody?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 245:
+Well...{S_32012C}{PAUSE}{EOM}
+
+Message 246:
+Why don't you just forget about it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 247:
+But, {S_32012C}maybe it's better for
+you not to know.{PAUSE}{EOM}
+
+Message 248:
+In any case,{S_32012C}
+They don't seem to want to tell you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 249:
+There's no point getting upset about it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 250:
+Besides, you've got Romana and
+Sebastian with you!{PAUSE}{EOM}
+
+Message 251:
+If I were you, I'd stop trying to find out
+about the past.{PAUSE}{WIPE}
+{FACE_1A0003}And start thinking about the future!{PAUSE}{EOM}{EOM}
+
+Message 252:
+{FACE_1A0009}Hmm.{S_3202BC}{FACE_1A0003}
+Yep!{S_3202BC} That's good advice!{S_320384}
+{FACE_1A0009}How very like me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 253:
+{FACE_1A0009}Whew.{PAUSE}{WIPE}
+I'm quite a catch, if I do say so myself.
+Yessirree!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 254:
+Hey!{PAUSE}{WIPE}
+Lumina!{PAUSE}{EOM}
+
+Message 255:
+The forest?{PAUSE}{WIPE}
+No! I'll take you someplace a lot better
+than the forest!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 256:
+Come on, let's go!{PAUSE}{EOM}
+
+Message 257:
+That's just your imagination!♪{FACE_1A0003}{PAUSE}{EOM}
+
+Message 258:
+The reason is...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 259:
+The sea was {S_32012C}calling me!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 260:
+You're taking me a little too literally.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 261:
+But being honest about your feelings is
+{FACE_1A0003}one of your best features!{PAUSE}{EOM}
+
+Message 262:
+{FACE_1A0000}Oh, you taking a nap too?{PAUSE}
+{CHOICE2 DEF0}
+Not exactly.
+Heavens no!{PAUSE}{EOM}
+
+Message 263:
+{FACE_1A0009}Well, whatever.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 264:
+{FACE_1A0000}Naps are great, huh?
+They're good for you, and feel good too.
+I just love that drowsy feeling you get...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 265:
+{FACE_1A0009}I've been thinking. Is there any
+point to working?{PAUSE}
+I mean, you can have all the money in the
+world, but it won't make you happy.{PAUSE}{EOM}{EOM}
+
+Message 266:
+{FACE_1A0009}I think I'm a lot happier
+just napping here than I could be
+doing any kind of work.{PAUSE}
+Why do people do it?{PAUSE}{EOM}{EOM}
+
+Message 267:
+{FACE_1A0009}Don't you agree?{PAUSE}
+{CHOICE2 DEF0}
+Sure.
+You're a real piece of work.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+{FACE_1A0003}I knew it!
+I knew you'd understand.{PAUSE}
+I guess we're just smarter than the
+rest of the world, huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 269:
+{FACE_1A0009}There aren't many people who understand
+what it means to be free, like we do.{PAUSE}
+You know, I kind of feel sorry for
+them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 270:
+And about that farm of yours.{PAUSE}{WIPE}
+I don't know how you got started with
+that, but it's not like you HAVE to do it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 271:
+They may call this Forget-Me-Not Valley,
+but just forget about all that junk!{PAUSE}{EOM}{EOM}
+
+Message 272:
+{FACE_1A0003}Wow, I'm making even more sense
+than usual.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 273:
+{FACE_1A0000}It's surprising how sharp I'm being today.{PAUSE}
+{CHOICE2 DEF0}
+Yep.
+Moron.{PAUSE}{EOM}
+
+Message 274:
+{FACE_1A0003}Hey, you and I must really have similar
+ideas, huh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 275:
+{FACE_1A0000}Well, I'm sick of napping.
+I guess I'll take a little stroll.{PAUSE}{EOM}{EOM}
+
+Message 276:
+{FACE_1A0000}See ya.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 277:
+D-Did you just call me a moron?!
+Well...
+Uh, um... It takes one to know one! Yeah!{PAUSE}{EOM}
+
+Message 278:
+I never expected you to talk to me
+like that!{PAUSE}{EOM}{EOM}
+
+Message 279:
+Hm?
+What is it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 280:
+Women sure are hard to understand.{PAUSE}{EOM}
+
+Message 281:
+{FACE_1A0009}Hey.
+In a bad mood today?{PAUSE}{EOM}{EOM}
+
+Message 282:
+{FACE_1A0009}Look, I don't know what happened, but you
+shouldn't lash out at people like that.{PAUSE}{EOM}{EOM}
+
+Message 283:
+{FACE_1A0000}Well, never mind.
+I'm about to go searching for
+romance.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 284:
+Hey...{PAUSE}{EOM}
+
+Message 285:
+Did you come just to see me?{PAUSE}
+Wow.
+It's tough being so popular.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 286:
+Hey, what's with the long
+faces?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 287:
+Well, I guess I'll go out for a while.{PAUSE}
+{CHOICE2 DEF0}
+Go with him.
+Don't go with him.{PAUSE}{EOM}
+
+Message 288:
+Actually, I heard you talking earlier.{PAUSE}{EOM}
+
+Message 289:
+{FACE_1A0009}It's about Marlin from Vesta's
+farm, right?{PAUSE}
+He's got it rough.
+Nobody seems to want him.{PAUSE}{EOM}{EOM}
+
+Message 290:
+{FACE_1A0009}If you ask me, it's obvious that
+he's in love with Celia.{PAUSE}
+But since he can't have her, he's
+tryin' to put the moves on you.{PAUSE}
+Please, allow me to apologize for my
+Mom.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 291:
+{FACE_1A0003}I mean, wouldn't being with me
+be like a million times better than
+being with Marlin?{PAUSE}
+{CHOICE2 DEF0}
+It sure would.
+Not so fast, Mr. Ego.{PAUSE}{EOM}
+
+Message 292:
+{FACE_1A0009}I'm just kidding.
+I can't stand to be tied down by things
+like marriage and commitment.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 293:
+{FACE_1A0003}But you might make it fun...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 294:
+{FACE_1A0009}Hahaha. Did you take me seriously?{PAUSE}{EOM}
+
+Message 295:
+{FACE_1A0000}Well, I guess I'll go for a walk.{PAUSE}{EOM}{EOM}
+
+Message 296:
+{FACE_1A0003}Did you think that'd hurt me?{PAUSE}
+Hey, I can figure out that you
+like me.
+It's written all over your face.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 297:
+Trying to play hard to get,
+are we?{PAUSE}
+Unfortunately, that never works
+with me.{PAUSE}{EOM}{EOM}
+
+Message 298:
+My parents are such meddlers.
+They're trying to get you to marry poor
+old Marlin?
+You have my sympathies.{PAUSE}{EOM}{EOM}
+
+Message 299:
+Hey, be quiet.
+Crusher.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 300:
+OK, OK.
+I'll get up.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 301:
+{FACE_1A0000}Hey, what're you doing?{PAUSE}
+{CHOICE2 DEF0}
+What are YOU doing?
+Go home.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 302:
+Me?
+It'll take a while to explain.{PAUSE}{EOM}
+
+Message 303:
+{FACE_1A0000}Do you want to hear about my
+desperate struggle with the Crusher?{PAUSE}
+I call it, “Super Rock Vs. Crusher the
+ordinary average dog.”{PAUSE}
+{CHOICE2 DEF0}
+Tell me!
+No thanks.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 304:
+{FACE_1A0000}I first met Crusher just
+a bit ago.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 305:
+So this is the farm, huh?{PAUSE}{EOM}{EOM}
+
+Message 306:
+{FACE_1A0000}I wonder how much it'd sell for.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 307:
+Well, never mind.{PAUSE}{EOM}{EOM}
+
+Message 308:
+{FACE_1A0003}She'll be surprised.
+She won't be expecting the guy she
+likes to come visit her like this.{PAUSE}{EOM}
+
+Message 309:
+{FACE_1A0000}Now that I've taken the trouble
+to come all the way out here and see her,
+she'll certainly cook me dinner.{PAUSE}{EOM}
+
+Message 310:
+{FACE_1A0003}Hey.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 311:
+Cute.
+I like dogs.{PAUSE}{EOM}
+
+Message 312:
+{FACE_1A0003}Maybe I should get a dog.{PAUSE}{EOM}{EOM}
+
+Message 313:
+{FACE_1A0009}But I'm broke, so...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 314:
+Well, I guess that's the price of being a
+free spirit.{PAUSE}{EOM}
+
+Message 315:
+I wonder how much he'd sell for...{PAUSE}{EOM}
+
+Message 316:
+Hey!
+Settle down!{PAUSE}{EOM}{EOM}
+
+Message 317:
+{FACE_1A0004}Well well.
+So this is how you treat me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 318:
+{FACE_1A0004}All right Crusher!
+Just you and me!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 319:
+Would you like to hear the rest?{PAUSE}
+{CHOICE2 DEF0}
+Hear it.
+Don't hear it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 320:
+{FACE_1A0004}No cheating, now.{PAUSE}{EOM}{EOM}
+
+Message 321:
+{FACE_1A0004}All right, here we go!{PAUSE}{EOM}
+
+Message 322:
+{FACE_1A0009}Rock wins by a landslide.
+Well, what else would you expect, really?
+I won three times in a row.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 323:
+{FACE_1A0009}Hey, Crusher seems a little perturbed.{PAUSE}{EOM}
+
+Message 324:
+{FACE_1A0000}I guess I should be heading on then.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 325:
+{FACE_1A0003}See ya.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 326:
+{FACE_1A0000}But this is where it gets interesting.{PAUSE}{EOM}
+
+Message 327:
+{FACE_1A0003}Well, whatever.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 328:
+{FACE_1A0004}Crusher!
+I'm gonna want a rematch one of these
+days! Be ready!{PAUSE}{EOM}
+
+Message 329:
+{FACE_1A0009}If you ask me later, I won't tell you.{PAUSE}{EOM}
+
+Message 330:
+{FACE_1A0004}Crusher!
+Keep this between you and me!{PAUSE}{EOM}
+
+Message 331:
+{FACE_1A0009}Hey, why are you so upset?{PAUSE}{EOM}
+
+Message 332:
+{FACE_1A0004}Crusher!
+I'll definitely win next time!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 333:
+Ha!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 334:
+{FACE_1A0000}So the time has come at last.{PAUSE}{EOM}{EOM}
+
+Message 335:
+{FACE_1A0000}You're hopelessly in...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 336:
+{FACE_1A0004}Well, I guess I don't have to say it.{PAUSE}{EOM}{EOM}
+
+Message 337:
+{FACE_1A0003}The Blue Feather in my hands
+is proof enough of your feelings.{PAUSE}{EOM}
+
+Message 338:
+{FACE_1A0004}But just let me say this.{PAUSE}{EOM}{EOM}
+
+Message 339:
+{FACE_1A0004}I won't work.{PAUSE}{EOM}{EOM}
+
+Message 340:
+{FACE_1A0004}You don't mind that, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 341:
+{FACE_1A0009}Well, there's no backing out
+now that you've given me this.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 342:
+{FACE_1A0003}So I guess we're getting hitched.{PAUSE}{EOM}{EOM}
+
+Message 343:
+{FACE_1A0000}A Blue Feather?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 344:
+{FACE_1A0009}You can't mean...{PAUSE}{EOM}{EOM}
+
+Message 345:
+{FACE_1A0000}Of course.{PAUSE}{EOM}
+
+Message 346:
+There're ducks in the pond.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 347:
+Where did they have come from?{PAUSE}{EOM}
+
+Message 348:
+Maybe we should keep 'em.
+{CHOICE2 DEF0}
+Keep them.
+Don't keep them.{EOM}{EOM}{EOM}{EOM}
+
+Message 349:
+Cool.
+Well, we've gotta give them names, right?
+What should we name the male?{PAUSE}{EOM}{EOM}
+
+Message 350:
+That's too bad.
+I guess we should set them free somewhere.{PAUSE}{EOM}
+
+Message 351:
+{PREV_80}, eh?{S_3203E8}
+OK, what about the female?{PAUSE}{EOM}{EOM}
+
+Message 352:
+{PREV_80}? All right.{S_3203E8}
+...We should show them the {C14}{STRUC_21}{C17}.{PAUSE}{EOM}
+
+Message 353:
+.......Yaaaaawn....{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 354:
+Yawn... Morning. You're up early.{PAUSE}{EOM}{EOM}
+
+Message 355:
+Morning, {NICKNAME}!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 356:
+Morning!♪ You're up early!{PAUSE}{EOM}
+
+Message 357:
+{TATSUYA}, it's morning!
+Time to get up!{PAUSE}{EOM}{EOM}
+
+Message 358:
+{NICKNAME}...{PAUSE}{WIPE}
+I'm pretty spent, so I think I'm gonna
+go on to bed.{PAUSE}{WIPE}
+Night!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 359:
+Woah! Is that the time?
+{TATSUYA}, you'd better
+get to bed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 360:
+No!
+{FACE_1A0003}Kids have to go to bed early.{PAUSE}{EOM}{EOM}
+
+Message 361:
+{FACE_1A0004}No!! You've gotta go to bed or I can't
+do what I want! Go to bed!{PAUSE}{EOM}{EOM}
+
+Message 362:
+That's right.♪ Very good.♪
+Say “good night” to Mommy.{PAUSE}{EOM}{EOM}
+
+Message 363:
+{TATSUYA}, it's time for bed.{PAUSE}{EOM}
+
+Message 364:
+{FACE_1A001F}Hey, the kid's not home yet?{S_3201F4}
+..........{S_32012C}All right!{PAUSE}{WIPE}
+{FACE_1A0003}I'll go out and look!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 365:
+Hey, it's really late but that
+kid of yours still hasn't
+come home.{PAUSE}{WIPE}
+I'm going to go have a look around.{PAUSE}{EOM}{EOM}
+
+Message 366:
+{FACE_1A001F}Hey! It's really late!{PAUSE}
+{TATSUYA} still hasn't
+come home, right?{PAUSE}{WIPE}{EOM}
+
+Message 367:
+{FACE_1A0004}{NICKNAME}! You don't think
+something's happened to {TATSUYA}...?{PAUSE}{WIPE}
+{TATSUYA}'s just like you...{FACE_00001E}
+Pretty irresponsible...
+I'll go have a look around!{FACE_000000}{PAUSE}{EOM}{EOM}
+
+Message 368:
+{FACE_1A0004}Hey {TATSUYA}!
+We were worried!{S_3201F4}{PAUSE}{WIPE}
+{FACE_1A0009}Are you listening, {TATSUYA}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 369:
+{FACE_1A0004}If he's gonna worry me this much,
+I won't go looking for him next time!{PAUSE}{WIPE}
+You should pay more attention to
+your son's well-being too!{PAUSE}{EOM}{EOM}
+
+Message 370:
+All right...
+{TATSUYA}, it's bedtime.{PAUSE}{EOM}
+
+Message 371:
+Good night ☆ {TATSUYA}!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 372:
+Oh!
+It's about {TATSUYA}'s bedtime!
+We've gotta put that kid to bed!{PAUSE}{EOM}{EOM}
+
+Message 373:
+{S_340040}Hey, have you seen my crackers?{PAUSE}{EOM}
+
+Message 374:
+Hey, {S_3201F4}What's wrong?{S_3201F4}
+What's with the long faces?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 375:
+Give up? Give what up?{PAUSE}{WIPE}
+...{S_320320}!!{S_3203E8}
+Hey! {S_320320}{TATSUYA}!{PAUSE}{WIPE}
+Asking for money at your age?{PAUSE}{WIPE}
+Well I'm not giving you any.{PAUSE}
+{CHOICE2 DEF0}
+Go away.
+We're talking about love.{EOM}{EOM}
+
+Message 376:
+I said I won't give any money and I won't!
+Honestly! {TATSUYA}'s acting pretty
+selfish! I can't believe it!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 377:
+....{S_3201F4}There they are!{PAUSE}{WIPE}
+Now who could've put them here.{S_32012C}.{S_32012C}.
+My crackers!♪{S_32012C}
+Hoo hoo!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 378:
+{FACE_1A0003}Aha.
+{S_3201F4}I thought so.{PAUSE}{WIPE}
+So {TATSUYA}'s in love at last.
+I was starting to get a little worried.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 379:
+{S_340040}{FACE_1A0003}Dumdumdedum!{S_3201F4}
+I heard that!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 380:
+Heh heh...
+{FACE_1A0009}I guess this is my time to shine.{S_3201F4}
+Ask me anything!{S_32012C}
+{FACE_1A0003}I'll tell you what you want to know.{PAUSE}{WIPE}
+But...{FACE_1A0001} is the person you like...
+{FACE_1A0009}......{S_3204B0}Kate, by any chance?{PAUSE}{EOM}{EOM}
+
+Message 381:
+{FACE_1A0003}{TATSUYA} & Kate, sittin' in a tree!{S_3201F4}
+{FACE_010009}But that means that Hugh is
+gonna be your rival, right?{S_320384}{PAUSE}{WIPE}
+....{S_3201F4}Don't worry about it!{S_320384}
+Well, Hugh is handsome, great at
+sports, and {FACE_1A0003}masculine...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 382:
+{FACE_00001E}Hoo-Hoo!{PAUSE}{WIPE}
+You can't become a real man like me
+overnight! {FACE_00001E}{S_3201F4}But...{PAUSE}{WIPE}
+{FACE_1A0003}Just do your best. It'll work out!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 383:
+{TATSUYA}, you'll become
+{FACE_1A0003}a real man soon enough.♪{PAUSE}{EOM}
+
+Message 384:
+{FACE_1A000C}A real man...?{PAUSE}{EOM}
+
+Message 385:
+{FACE_1A001F}Omigosh, I forgot!{S_3201F4} My favorite show,
+“As The Farm Turns” is on now!{PAUSE}{EOM}
+
+Message 386:
+{FACE_1A0009}Don't talk like that.{PAUSE}{EOM}{EOM}
+
+Message 387:
+{FACE_1A0000}Let's go do something.{PAUSE}{EOM}
+
+Message 388:
+{FACE_1A0007}Hmph...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 389:
+{FACE_1A0009}Sigh...
+It'd be a lot of fun, too...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 390:
+{FACE_1A0000}Oh well.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 391:
+{FACE_1A0000}Is there anybody else?{PAUSE}{EOM}
+
+Message 392:
+{FACE_1A0003}Hey!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 393:
+You wanna go someplace and do
+something?{PAUSE}
+{CHOICE2 DEF0}
+I'm going home.
+Are you hitting on me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 394:
+Not at all.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 395:
+Do I look like that kind of guy?{PAUSE}
+{CHOICE2 DEF0}
+Yep. I'm going home.
+What do you want?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 396:
+{FACE_1A0009}This isn't my day.{PAUSE}{EOM}
+
+Message 397:
+{FACE_1A0003}Well, I can understand you being nervous,
+with me coming up and talking to you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 398:
+Is there anybody else?{PAUSE}{EOM}
+
+Message 399:
+There's nothing here.{PAUSE}{EOM}{EOM}
+
+Message 400:
+So I thought I'd teach you some stuff.
+You know, about this and that.{PAUSE}{EOM}{EOM}
+
+Message 401:
+Don't make that face.{PAUSE}{EOM}{EOM}
+
+Message 402:
+We've still got our whole future
+ahead of us.
+Let's enjoy this.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 403:
+Well, as a rule, I don't carry any
+money with me.{PAUSE}
+So there's not much we can
+do.{PAUSE}{EOM}{EOM}
+
+Message 404:
+I know!
+There's something interesting we can see.{PAUSE}{EOM}{EOM}
+
+Message 405:
+Come with me!{PAUSE}{EOM}{EOM}
+
+Message 406:
+{FACE_1A0007}W-what?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 407:
+{FACE_1A0007}Dead...
+{FACE_1A0004}Those darn kids. They probably did this.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 408:
+{FACE_1A0004}You heard a story like that
+a long time ago, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 409:
+{FACE_1A0004}That must be it!
+I'm like Urashima-taro from that story!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 410:
+{FACE_1A0007}And I could've met the Harvest Goddess...
+Sigh...{PAUSE}{EOM}{EOM}
+
+Message 411:
+{FACE_1A0007}The only kids living around here are...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 412:
+{FACE_1A0004}I bet it was that Hugh.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 413:
+{FACE_1A0004}With that cute face of his!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 414:
+{FACE_1A0004}I can't believe I live in this same town!{PAUSE}{EOM}{EOM}
+
+Message 415:
+My Harvest Goddess...{EOM}{EOM}{EOM}
+
+Message 416:
+There are some things that kids
+just shouldn't do.
+Kids today...{S_3203E8} Scary.{EOM}{EOM}
+
+Message 417:
+What...?{S_3201F4}{EOM}
+
+Message 418:
+Hm?
+I was just thinking about you.{PAUSE}{EOM}
+
+Message 419:
+You mind if I join you?
+So, what were you talking about?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 420:
+!?{PAUSE}{EOM}
+
+Message 421:
+I see...
+That sounds kind of tricky...{PAUSE}{EOM}
+
+Message 422:
+Well,
+it's probably better if I wasn't here.
+As you were.{PAUSE}{EOM}{EOM}
+
+Message 423:
+{FACE_1A0009}What's your problem?{FACE_1A0000}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 424:
+{FACE_1A0003}Good timing!{S_3201F4}{PAUSE}{WIPE}
+I don't know what the deal is,
+but {TATSUYA} seems really
+upset about something.{FACE_1A0009}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 425:
+{FACE_1A0003}I'm doing what I need to do to live.
+Taking strolls, taking naps...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 426:
+{FACE_1A0009}What're you saying? Those are the
+most important things of all!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 427:
+{FACE_1A000A}{TATSUYA}♪
+Mommy's gonna make you all clean!♪{PAUSE}{EOM}
+
+Message 428:
+{FACE_1A000A}Are you clean now?{PAUSE}{EOM}
+
+Message 429:
+{FACE_1A0005}Why don't you just give the
+poor kid a bath!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 430:
+Morning!!
+It's me. {ROCK}.{PAUSE}{EOM}
+
+Message 431:
+Sorry for showing up so suddenly.{PAUSE}{EOM}{EOM}
+
+Message 432:
+I've got something I wanna talk about.{PAUSE}{EOM}
+
+Message 433:
+Recently my parents have been kinda
+nagging me. They say I should stop
+goofing off and get a job.{PAUSE}{EOM}{EOM}
+
+Message 434:
+So I thought if I could live here,
+everything would work out great!
+You love being with me, right?{PAUSE}
+{CHOICE2 DEF0}
+Yes. Let's farm together.
+I think you're mistaken.{EOM}{EOM}{EOM}
+
+Message 435:
+Thanks!!!{PAUSE}{EOM}{EOM}
+
+Message 436:
+Well, you'll take care of the actual
+farming! I'm not much on work, you know!
+See ya!{PAUSE}{EOM}{EOM}
+
+Message 437:
+Oh...{PAUSE}{WIPE}
+Turning ME down?
+You're gonna regret this
+sooner or later!{PAUSE}{EOM}
+
+Message 438:
+Well, goodbye!{PAUSE}{EOM}
+
+Message 439:
+
+
+Message 440:
+Sorry for showing up so suddenly.{PAUSE}{EOM}{EOM}
+
+Message 441:
+It's been exactly a year since
+you came here.{PAUSE}{EOM}{EOM}
+
+Message 442:
+And I've recently realized something
+amazing!!{PAUSE}{EOM}
+
+Message 443:
+You're my Juliet!
+And I'm Romeo!
+It's fate for us to be together!{PAUSE}
+{CHOICE2 DEF0}
+Yes. Let's farm together.
+I think you're mistaken.{EOM}{EOM}{EOM}{EOM}
+
+Message 444:
+Yes! Juliet, I'll make you happy!
+I promise!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 445:
+This'll be great!{PAUSE}{EOM}{EOM}
+
+Message 446:
+But Juliet, that's not in my script.{PAUSE}{WIPE}
+Wait... turning ME down?
+You're gonna regret this
+sooner or later!{PAUSE}{EOM}{EOM}
+
+Message 447:
+Goodbye!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 448:
+{PAUSE}{EOM}{EOM}{EOM}
+
+Message 449:
+{FACE_1A0003}That makes me want to fly like a bird.{PAUSE}{EOM}
+
+Message 450:
+{FACE_1A0003}Aha!!!{PAUSE}{EOM}
+
+Message 451:
+Morning, {PETE}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 452:
+{FACE_1A0004}Dad!!{PAUSE}
+What's that supposed to mean!{S_3207D0}
+Man!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 453:
+I forgot to say one thing...{PAUSE}
+Don't get any fatter! You've gotta be
+slim, like me!{PAUSE}{EOM}
+
+Message 454:
+See you, Mom.
+I'll be back to eat your cooking.{PAUSE}{WIPE}
+I'm sure you'll be pretty sad to
+have me gone, but...{S_3207D0}
+Hmmm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 455:
+I know.
+Geez!{PAUSE}{EOM}{EOM}
+
+Message 456:
+Well, see you later!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 457:
+Besides,{S_32012C} you're the second best looking
+guy around! After me, of course!{PAUSE}{WIPE}
+{FACE_010009}{S_3201F4}I guess...{S_32012C} you are at a disadvantage{S_32012C}...{PAUSE}{WIPE}
+Your only hope is that you've got{FACE_1A0003}
+my blood in your veins.
+You're a regular thoroughbred!{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

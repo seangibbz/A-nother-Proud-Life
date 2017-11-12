@@ -1,0 +1,853 @@
+Message 0:
+{DRAW_02}Oh, hello there.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+{DRAW_02}Oh yes.{PAUSE}{WIPE}
+In weather this nice, the
+washing dries so quickly.
+I love it.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+{DRAW_02}Oh I don't know.{PAUSE}{WIPE}
+Now that Hugh has a playmate his own
+age, he seems to come home every day
+covered in mud.{PAUSE}{WIPE}
+We have a boy, so it's not so bad, but
+you have a girl, after all..
+We wouldn't want her to get hurt.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+{DRAW_02}I suppose you're right.
+Hee hee hee.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+{DRAW_02}That's true.{PAUSE}{WIPE}
+There aren't any cars like in the city,
+so if you can stand a little
+inconvenience, it's a great environment.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+{DRAW_02}Oh, your poor husband.
+Hee hee hee.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+{DRAW_02}Yes, he's a former marathon runner, so
+he wants our son to follow in his
+footsteps and be a pro athlete.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+{DRAW_02}Oh, your poor husband.
+Hee hee hee!{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+{DRAW_02}Oh, have you finished making
+dinner for tonight?{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+{DRAW_02}Me neither.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+{DRAW_02}Yes, maybe I'll
+try that for us, too.{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 11:
+{DRAW_02}Well, that's very nice of you.
+Hee hee hee!{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{DRAW_02}I enjoyed it.
+Well then, I'll talk to you later.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+{DRAW_02}My husband is training with Hugh
+all the time, so we go through so many
+shirts and towels...{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+{DRAW_02}No, he still depends on me for
+so much. I wish he'd be a little
+more mature.{PAUSE}{WIPE}
+Your {KATE} seems to be
+doing quite well in that department.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+{DRAW_02}Well, she's a girl, after all.
+But it's cute, don't you think?
+Hee hee hee!{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{DRAW_02}That's right.
+Hee hee hee!{DRAW_00}{PAUSE}{EOM}
+
+Message 17:
+{DRAW_02}Thank you.{DRAW_00}{PAUSE}{EOM}
+
+Message 18:
+{DRAW_02}Yes.
+I think he's more excited about
+it than Hugh is.{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 19:
+
+
+Message 20:
+{DRAW_02}Oh really?{DRAW_00}{PAUSE}{EOM}
+
+Message 21:
+{DRAW_02}Lessons?
+I don't really think that's necessary.{PAUSE}{WIPE}
+Children have unlimited potential if left
+to their own devices. I don't think they
+need to decide everything so early.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 22:
+
+
+Message 23:
+{DRAW_02}By the way, have you prepared
+supper yet?{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 24:
+{DRAW_02}Well then, as a thank you for the other
+day, please take some of the food I made.{DRAW_00}{PAUSE}{EOM}{EOM}
+
+Message 25:
+{DRAW_02}Not at all.
+I just hope you like it.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+{DRAW_02}Oh, is that right?
+Hohoho.{DRAW_00}{PAUSE}{EOM}
+
+Message 27:
+{DRAW_02}Me too.
+See you later.{DRAW_00}{PAUSE}{EOM}
+
+Message 28:
+{DRAW_02}Oh yes.{PAUSE}{WIPE}
+In weather this nice, the
+washing dries so quickly.
+I love it.{PAUSE}{WIPE}
+My husband is training with Hugh
+all the time, so we go through so many{PAUSE}{WIPE}
+shirts and towels, it keeps
+me washing constantly.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+Oh, are you all sold out today?
+Oh well, then...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 30:
+{FACE_0C0002}If you don't have anything,
+it can't be helped.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+{FACE_0C0002}...Hmm... Not much here, is there?{PAUSE}{EOM}
+
+Message 32:
+I like the {VAR_00}, but
+how much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G,
+I can't sell that.{EOM}{EOM}
+
+Message 33:
+{FACE_0C0003}Really?!
+That's not bad.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+Well, all right...{PAUSE}{EOM}
+
+Message 35:
+{FACE_0C0009}Oh, I see...
+Never mind, then...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+I'd like that {VAR_00},
+but how much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G,
+I can't sell that.{EOM}{EOM}{EOM}
+
+Message 37:
+I'm just wondering what I should
+cook for dinner...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+Oh, {PETE}.
+How is the farm going? I'm always in the
+market for good milk, if it's affordable.{PAUSE}{EOM}
+
+Message 39:
+{FACE_0C0009}I don't feel like talking...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+{FACE_0C0009}I'm tired today...{PAUSE}{EOM}
+
+Message 41:
+Oh, welcome.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+{FACE_0C000A}My goodness! That's one of my favorites!
+Could I have it?{CHOICE Y/N DEF0}{EOM}
+
+Message 43:
+{FACE_0C0003}Oh, how nice of you! Hee Hee Hee!
+Thank you very much.{PAUSE}{EOM}
+
+Message 44:
+{FACE_0C0009}{S_340145}Oh... I see...{PAUSE}{EOM}{EOM}
+
+Message 45:
+That looks good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+{FACE_0C000A}I have a weakness for that kind of thing.
+Could I... have it?{CHOICE Y/N DEF0}{EOM}
+
+Message 47:
+That looks good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+{FACE_0C0019}I'm sorry.
+I really don't like that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+I don't really like that kind of thing.
+Sorry.{PAUSE}{EOM}
+
+Message 50:
+{FACE_0C0019}I'm sorry.
+I'm not very fond of that kind of thing.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+Where on earth did you find that...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 52:
+{FACE_0C000A}What a cute child.{PAUSE}{EOM}
+
+Message 53:
+Should I tell {TATSUYA}'s
+fortune?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 54:
+{FACE_0C0023}Hmm... Ah!{S_3201F4}
+Hmm... Ummmhmmm...
+I see...{PAUSE}{WIPE}
+{FACE_0C0000}This child is intelligent and gentle.
+Yes, I see a bright future.{PAUSE}{EOM}{EOM}
+
+Message 55:
+Oh, I see...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+Yes, I see a bright future.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+Should I tell {TATSUYA}'s fortune?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 58:
+{FACE_0C0023}Hmm... Ah!{S_3201F4}
+Hmm... Ummmhmmm...
+I see...{PAUSE}{WIPE}
+{FACE_0C0000}I sense excellent athletic abilities.
+This child will be healthy and active.
+But maybe a little wild...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+Oh, I see...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+This child will definitely be healthy.{PAUSE}{EOM}
+
+Message 61:
+Should I tell {TATSUYA}'s fortune?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 62:
+{FACE_0C0023}Hmm... Ah!{S_3201F4}
+Hmm... Ummmhmmm...
+I see...{PAUSE}{WIPE}
+{FACE_0C0000}This child has boundless curiosity.
+I sense a deep interest in many things.
+But perhaps not much independence...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 63:
+Oh, I see...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 64:
+It'll be interesting to see how this
+one grows up.{PAUSE}{EOM}
+
+Message 65:
+Oh, what a cute little doggie.{PAUSE}{EOM}
+
+Message 66:
+{FACE_0C0023}Yes. {S_3201F4}This dog
+has quite a handsome face.
+{FACE_0C0000}His future is bright.{PAUSE}{EOM}{EOM}
+
+Message 67:
+What a cute doggie.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+What a cute kitty.{PAUSE}{EOM}
+
+Message 69:
+{FACE_0C0023}Hmmm...{S_3201F4} This cat's ears are
+nice and pointed and his nose is wet...
+His future is bright.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+What a cute kitty.{PAUSE}{EOM}
+
+Message 71:
+All chickens' faces look the same to
+me, so I can't tell their fortunes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+Why would I tell a duck's fortune?{PAUSE}{EOM}
+
+Message 73:
+That's some kind of seed, isn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+When you harvest it, give me some.{PAUSE}{EOM}
+
+Message 75:
+Did you grow that yourself?
+Could I have it?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 76:
+{FACE_0C000A}Really?!
+Thank you.
+I guess it never hurts to ask...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+{FACE_0C0019}{S_340145}Oh, I see. Of course not.
+You're going to sell it, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+Then maybe I'll buy it later.{PAUSE}{EOM}{EOM}
+
+Message 79:
+Fresh fruits and vegetables are
+good aren't they?{PAUSE}{EOM}{EOM}
+
+Message 80:
+Is that milk from your farm?
+Could I have it?{CHOICE Y/N DEF0}{EOM}
+
+Message 81:
+Fresh milk sure is tasty.{PAUSE}{EOM}{EOM}
+
+Message 82:
+You made that cheese on your farm, right?
+Could I have it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+Cheese is good for you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+You made that butter on your farm, right?
+Could I have it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+It's quite good on bread.{PAUSE}{EOM}{EOM}
+
+Message 86:
+Did one of your chickens lay that?
+Could I have it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 87:
+My husband likes egg protein, you see.{PAUSE}{EOM}
+
+Message 88:
+The kinds of wild plants that grow change
+with the seasons.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 89:
+Oh, did you make that dish?
+It looks good.{PAUSE}{EOM}
+
+Message 90:
+You're quite a good cook.{PAUSE}{EOM}{EOM}
+
+Message 91:
+That looks good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 92:
+Stop showing me that.
+I'm getting hungry...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+That's an odd hoe...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 94:
+That hoe's quite old, isn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+That's a pretty new hoe.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 96:
+{FACE_0C0009}I don't know anything about hoes.{PAUSE}{EOM}{EOM}
+
+Message 97:
+That looks like an ordinary hoe.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 98:
+What an odd looking sickle...{PAUSE}{EOM}{EOM}
+
+Message 99:
+That's a strange sickle...{PAUSE}{EOM}
+
+Message 100:
+That sickle's quite new, isn't it?{PAUSE}{EOM}
+
+Message 101:
+{FACE_0C0009}I don't know anything about sickles.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+That looks like an ordinary sickle.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+You use that watering can to water
+your crops every day, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+What is that?{PAUSE}{EOM}{EOM}
+
+Message 105:
+Whatever it is, it's pretty old...{PAUSE}{EOM}
+
+Message 106:
+Oh, those clippers bring back memories.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+Wally used those to cut Hugh's hair.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 108:
+Those are nice clippers you've got.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+Oh, you use them on your sheep...
+I see.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 110:
+{FACE_0C0009}I don't know much about tools.{PAUSE}{EOM}
+
+Message 111:
+Is there something special about that?{PAUSE}{EOM}
+
+Message 112:
+My, what a pretty stone...
+Could I have it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 113:
+{FACE_0C0003}Well! How nice of you!
+Maybe I'll make it into a pendant...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+{S_340145}How mean...
+{FACE_0C0019}O-oh, I didn't say anything...{PAUSE}{EOM}{EOM}
+
+Message 115:
+What a pretty stone.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 116:
+That's a pretty flower.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+My family doesn't seem too
+interested in music.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+Is that some kind of seasoning?
+It smells kind of odd.{PAUSE}{EOM}
+
+Message 119:
+What kind of cooking do you use it in?{PAUSE}{EOM}
+
+Message 120:
+Isn't that... Is that the medal that my
+husband used to have?{PAUSE}{EOM}{EOM}
+
+Message 121:
+That's one of my husband's mementos.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+Fireworks?
+Did those strange old men
+make that...?{PAUSE}{EOM}
+
+Message 123:
+I bet that would be pretty if you
+set it off.{PAUSE}{EOM}{EOM}
+
+Message 124:
+Working in the city can be fun, but when
+I think about my husband and son, I'm
+sure that this is the best place for us.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+Fortunetelling is my hobby.
+I'll tell your fortune anytime.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+I hope Hugh can become a
+top athlete like my husband
+Wally...{PAUSE}{EOM}{EOM}
+
+Message 127:
+........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 128:
+Come to think of it, there's a man named
+Rod in the city who is searching for some
+medicine to help his sick wife.{PAUSE}{WIPE}
+I hear he's traveling all over the world
+looking for it. Of course, I imagine his
+wife would rather have him with her...{PAUSE}{EOM}{EOM}
+
+Message 129:
+I heard that the farmer from
+Mineral Town is rather
+wealthy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 130:
+I heard that the farmer from
+Mineral Town is very popular.
+I wonder if it's true...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 131:
+Are you still a farmer if you spend
+all of your time digging in mines?
+Oh, I'm just talking about Mineral Town...{PAUSE}{EOM}{EOM}
+
+Message 132:
+{VAR_00} from Mineral Town
+is a master angler, I hear.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 133:
+I heard that the farmer from
+Mineral Town is ignoring her farm and
+just fishes all the time. Really...{PAUSE}{EOM}
+
+Message 134:
+I heard that the farmer from
+Mineral Town has three cottages.
+I wonder if we can afford that.{PAUSE}{EOM}{EOM}
+
+Message 135:
+I heard there's a blacksmith in Mineral
+Town who makes some amazing tools.{PAUSE}{EOM}
+
+Message 136:
+{FACE_0C000A}That thing you gave me
+was really delicious.
+I'd like some more, if it's OK.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 137:
+That thing you gave me
+wasn't very tasty.{PAUSE}{EOM}{EOM}
+
+Message 138:
+The {VAR_00} you gave me was a little
+disappointing.{PAUSE}{EOM}
+
+Message 139:
+{FACE_0C000A}The {VAR_00} you gave me
+was pretty good.
+I'd love some more.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+{FACE_0C000A}The {VAR_00} you gave me
+was very delicious.
+I'm serious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+That wonderful milk you gave me
+certainly tasted delicious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+That milk you gave me tasted...
+How should I put this... um,
+It wasn't as good as I'd hoped.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 143:
+The milk you gave me
+wasn't bad.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 144:
+{FACE_0C000A}That milk you gave me
+was incredibly good.{PAUSE}{EOM}
+
+Message 145:
+That milk you gave me was
+a little disappointing.
+It was a little too strong for me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 146:
+That milk you gave me was
+kind of strong.{PAUSE}{EOM}{EOM}
+
+Message 147:
+That milk you gave me tasted
+good, but maybe it would be better
+to make it into cheese...{PAUSE}{EOM}{EOM}
+
+Message 148:
+{FACE_0C000A}That milk you gave me
+tasted just great.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 149:
+{FACE_0C000A}That milk you gave me
+was tasty.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 150:
+{FACE_0C000A}That milk you gave me
+was incredibly good.{PAUSE}{EOM}
+
+Message 151:
+{FACE_0C000A}That milk you gave me
+was rich and delicious.{PAUSE}{EOM}{EOM}
+
+Message 152:
+{FACE_0C000A}That milk you gave me
+was the best I've ever tasted.
+You can't get milk like that in the city.{PAUSE}{EOM}
+
+Message 153:
+That milk you gave me tasted
+a little disappointing.
+Maybe there was too much fat in it...{PAUSE}{EOM}
+
+Message 154:
+That milk you gave me tasted
+fair.
+But it was sort of strong...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 155:
+That milk you gave me tasted
+pretty good. But I think it would be
+better made into butter...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+{FACE_0C000A}That milk you gave me
+was really good.
+But maybe it was a little too rich...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+That cheese was a little tart.{PAUSE}{EOM}
+
+Message 158:
+That butter was a little smelly.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 159:
+{FACE_0C000A}The {VAR_00} you gave me
+was just the kind I like.
+You made that youself?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 160:
+{FACE_0C000A}That dish you gave me
+was delicious.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 161:
+You're working hard, aren't you?
+My husband was saying what a good
+farmer you were.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 162:
+You're quite good at cooking.
+That's what everyone says.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 163:
+It looks like you're getting used to
+farm life.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 164:
+People say that your cooking
+is quite good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 165:
+My husband is an athlete, so he
+is very careful about his health.
+It makes things difficult for me, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 166:
+Working women have it hard,
+you know.
+Don't you think?{PAUSE}{EOM}
+
+Message 167:
+Shall I tell your fortune?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+{FACE_0C0023}Hmm... Ah!{S_3201F4}
+Hmm... Ummmhmmm...
+I see...{PAUSE}{WIPE}
+{FACE_0C0000}There's someone you like, isn't there?
+I'm sure that person also likes you.
+If you try hard, everything will be fine.{PAUSE}{EOM}{EOM}
+
+Message 169:
+{S_340145}Oh, that's too bad.
+I'm really quite good...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+{FACE_0C0023}Hmm... Ah!{S_3201F4}
+Hmm... Ummmhmmm...
+I see...{PAUSE}{WIPE}
+{FACE_0C0000}Are you thinking about changing
+something in your life?
+It's OK. There's still time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+My predictions often come true.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 172:
+Going out drinking is fun once in a while.{PAUSE}{EOM}
+
+Message 173:
+I feel good...{PAUSE}{EOM}
+
+Message 174:
+Please come visit us again sometime.
+I'll tell your fortune.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 175:
+It's pleasant enough to live here, but
+the commute to the city can be tiring.{PAUSE}{EOM}{EOM}
+
+Message 176:
+The woods are so nice and cool
+at this time of year.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 177:
+I hate commuting to the city at
+this time of year.{PAUSE}{EOM}
+
+Message 178:
+At this time of year you can see some
+pretty stars above the waterfall...{PAUSE}{EOM}{EOM}
+
+Message 179:
+We were just talking about those two old
+fireworks designers.{PAUSE}{WIPE}
+Kassey and Patrick are the best
+fireworks designers in the world, they
+say...{PAUSE}{WIPE}
+But one day when they were lighting a big
+fireworks display, there was an accident
+and they were blown all the way here.{PAUSE}{WIPE}
+I wonder how much of that is true.{PAUSE}{EOM}{EOM}
+
+Message 180:
+We were just talking about Sebastian.
+Now tell the truth. Do you think
+that he wears a toupee?{PAUSE}{EOM}
+
+Message 181:
+{FACE_0C0009}Listen...
+It's about my Hugh...
+I guess he's in a rebellious stage.{PAUSE}{WIPE}
+He doesn't talk much and he won't
+listen to what we say.
+Do you think it's just a stage?{PAUSE}{EOM}
+
+Message 182:
+Women like talking,
+you know.
+You know what I mean...{PAUSE}{EOM}{EOM}
+
+Message 183:
+Women like talking,
+you know.
+You are the same, right?{PAUSE}{EOM}
+
+Message 184:
+{FACE_0C0009}...How strange.
+I've been throwing all kinds of things
+in the spring here,{PAUSE}{WIPE}
+but the Harvest Goddess doesn't appear.
+But I'm doing it just like the
+legend said to...{PAUSE}{EOM}{EOM}
+
+Message 185:
+{FACE_0C0009}Maybe my offerings aren't nice enough...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 186:
+Cody's works of art seem like
+they fit in with nature.
+It's almost like they're alive.{PAUSE}{EOM}
+
+Message 187:
+Whenever I'm here, I feel like
+energy is flowing through me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 188:
+Nina was a good person, wasn't she?
+I like to stop by to pay my respects
+from time to time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 189:
+Are you visiting her grave, too?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+Oh, I'm so busy...
+I'll have to pass for now.{PAUSE}{EOM}{EOM}
+
+Message 191:
+{VAR_00} from Mineral Town
+has a dog that's very good at
+catching dog disks, I hear.{PAUSE}{EOM}
+
+Message 192:
+{VAR_00} from Mineral Town
+has a horse that won a race 10
+times, I hear.{PAUSE}{EOM}
+
+Message 193:
+I wonder what a chicken festival is...
+Oh, it's just that the farmer from Mineral
+town has won it 10 times, they say.{PAUSE}{EOM}{EOM}
+
+Message 194:
+I hear that {VAR_00} from Mineral
+Town has won the horse festival 10
+times...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 195:
+I wonder what a sheep festival is...
+It's just that {VAR_00} from Mineral
+Town won ten times.{EOM}
+
+Message 196:
+{PETE} was a good person...
+I know I'll miss her...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 197:
+{GRIFFIN}, could you
+play a song for us?{PAUSE}{EOM}{EOM}
+
+Message 198:
+I'm headed to bed...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 199:
+It's my bedtime, so could you
+be moving along?{PAUSE}{EOM}
+
+Message 200:
+Goodnight.{PAUSE}{EOM}
+
+Message 201:
+I have to be leaving soon...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 202:
+I have to leave now, so if you
+don't mind...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 203:
+See you later.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

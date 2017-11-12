@@ -1,0 +1,2082 @@
+Message 0:
+{C13}{ITEM_014F} A
+{C17}Growing season:
+Summer - Winter.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+{C13}{ITEM_0150} A
+{C17}Growing season:
+Summer - Winter.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+{C13}{ITEM_0151} A
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 3:
+{C13}{ITEM_0152} A
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 4:
+{C13}{ITEM_0153} S
+{C17}Growing season:
+Summer - Winter.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+{C13}{ITEM_0154} S
+{C17}Growing season:
+Summer - Winter.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+{C13}{ITEM_0155} S
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 7:
+{C13}{ITEM_0156} S
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 8:
+{C13}{ITEM_0157} B
+{C17}Growing season:
+Winter - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 9:
+{C13}{ITEM_0158} B
+{C17}Growing season:
+Winter - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 10:
+{C13}{ITEM_0159} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+{C13}{ITEM_015A} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{C13}{ITEM_015B} A
+{C17}Growing season:
+Winter - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 13:
+{C13}{ITEM_015C} A
+{C17}Growing season:
+Winter - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 14:
+{C13}{ITEM_015D} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+{C13}{ITEM_015E} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{C13}{ITEM_015F} S
+{C17}Growing season:
+Winter - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 17:
+{C13}{ITEM_0160} S
+{C17}Growing season:
+Winter - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 18:
+{C13}{ITEM_0161} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+{C13}{ITEM_0162} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+{C13}{ITEM_0163} B
+{C17}Growing season:
+Fall - Winter.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth Rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+{C13}{ITEM_0164} B
+{C17}Growing season:
+Fall - Winter.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+{C13}{ITEM_0165} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+{C13}{ITEM_0166} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+{C13}{ITEM_0167} A
+{C17}Growing season:
+Fall - Winter.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+{C13}{ITEM_0168} A
+{C17}Growing season:
+Fall - Winter.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 26:
+{C13}{ITEM_0169} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+{C13}{ITEM_016A} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+{C13}{ITEM_016B} S
+{C17}Growing season:
+Fall - Winter.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+{C13}{ITEM_016C} S
+{C17}Growing season:
+Fall - Winter.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+{C13}{ITEM_016D} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+{C13}{ITEM_016E} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+{C13}{ITEM_016F} B
+{C17}Growing season:
+Fall only.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+{C13}{ITEM_0170} B
+{C17}Growing season:
+Fall only.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+{C13}{ITEM_0171} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 35:
+{C13}{ITEM_0172} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+{C13}{ITEM_0173} A
+{C17}Growing season:
+Fall only.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+{C13}{ITEM_0174} A
+{C17}Growing season:
+Fall only.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+{C13}{ITEM_0175} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+{C13}{ITEM_0176} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+{C13}{ITEM_0177} S
+{C17}Growing season:
+Fall only.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+{C13}{ITEM_0178} S
+{C17}Growing season:
+Fall only.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+{C13}{ITEM_0179} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+{C13}{ITEM_017A} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+{C13}{ITEM_017B} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 45:
+{C13}{ITEM_017C} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+{C13}{ITEM_017D} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 47:
+{C13}{ITEM_017E} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+{C13}{ITEM_017F} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+{C13}{ITEM_0180} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+{C13}{ITEM_0181} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 51:
+{C13}{ITEM_0182} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+{C13}{ITEM_0183} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+{C13}{ITEM_0184} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+{C13}{ITEM_0185} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 55:
+{C13}{ITEM_0186} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{C13}{ITEM_0187} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+{C13}{ITEM_0188} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+{C13}{ITEM_0189} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 59:
+{C13}{ITEM_018A} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+{C13}{ITEM_018B} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+{C13}{ITEM_018C} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+{C13}{ITEM_018D} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 63:
+{C13}{ITEM_018E} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+{C13}{ITEM_018F} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+{C13}{ITEM_0190} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+{C13}{ITEM_0191} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 67:
+{C13}{ITEM_0192} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+{C13}{ITEM_0193} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+{C13}{ITEM_0194} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+{C13}{ITEM_0195} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 71:
+{C13}{ITEM_0196} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+{C13}{ITEM_0197} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+{C13}{ITEM_0198} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+{C13}{ITEM_0199} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 75:
+{C13}{ITEM_019A} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+{C13}{ITEM_019B} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+{C13}{ITEM_019C} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+{C13}{ITEM_019D} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 79:
+{C13}{ITEM_019E} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+{C13}{ITEM_019F} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 81:
+{C13}{ITEM_01A0} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 82:
+{C13}{ITEM_01A1} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 83:
+{C13}{ITEM_01A2} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+{C13}{ITEM_01A3} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 85:
+{C13}{ITEM_01A4} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 86:
+{C13}{ITEM_01A5} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 87:
+{C13}{ITEM_01A6} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+{C13}{ITEM_01A7} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 89:
+{C13}{ITEM_01A8} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 90:
+{C13}{ITEM_01A9} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 91:
+{C13}{ITEM_01AA} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+{C13}{ITEM_01AB} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 93:
+{C13}{ITEM_01AC} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 94:
+{C13}{ITEM_01AD} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 95:
+{C13}{ITEM_01AE} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+{C13}{ITEM_01AF} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 97:
+{C13}{ITEM_01B0} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 98:
+{C13}{ITEM_01B1} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 99:
+{C13}{ITEM_01B2} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+{C13}{ITEM_01B3} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 101:
+{C13}{ITEM_01B4} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 102:
+{C13}{ITEM_01B5} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 103:
+{C13}{ITEM_01B6} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+{C13}{ITEM_01B7} B
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 105:
+{C13}{ITEM_01B8} B
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+{C13}{ITEM_01B9} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 107:
+{C13}{ITEM_01BA} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+{C13}{ITEM_01BB} A
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+{C13}{ITEM_01BC} A
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+{C13}{ITEM_01BD} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 111:
+{C13}{ITEM_01BE} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+{C13}{ITEM_01BF} S
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+{C13}{ITEM_01C0} S
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+{C13}{ITEM_01C1} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 115:
+{C13}{ITEM_01C2} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 116:
+{C13}{ITEM_01C3} B
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}
+
+Message 117:
+{C13}{ITEM_01C4} B
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 118:
+{C13}{ITEM_01C5} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 119:
+{C13}{ITEM_01C6} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+{C13}{ITEM_01C7} A
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}
+
+Message 121:
+{C13}{ITEM_01C8} A
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 122:
+{C13}{ITEM_01C9} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 123:
+{C13}{ITEM_01CA} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+{C13}{ITEM_01CB} S
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}
+
+Message 125:
+{C13}{ITEM_01CC} S
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 126:
+{C13}{ITEM_01CD} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 127:
+{C13}{ITEM_01CE} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+{C13}{ITEM_01CF} B
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}
+
+Message 129:
+{C13}{ITEM_01D0} B
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 130:
+{C13}{ITEM_01D1} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 131:
+{C13}{ITEM_01D2} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+{C13}{ITEM_01D3} A
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}
+
+Message 133:
+{C13}{ITEM_01D4} A
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 134:
+{C13}{ITEM_01D5} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 135:
+{C13}{ITEM_01D6} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 136:
+{C13}{ITEM_01D7} S
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}
+
+Message 137:
+{C13}{ITEM_01D8} S
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 138:
+{C13}{ITEM_01D9} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 139:
+{C13}{ITEM_01DA} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+{C13}{ITEM_01DB} B
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}
+
+Message 141:
+{C13}{ITEM_01DC} B
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 142:
+{C13}{ITEM_01DD} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 143:
+{C13}{ITEM_01DE} B
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 144:
+{C13}{ITEM_01DF} A
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}
+
+Message 145:
+{C13}{ITEM_01E0} A
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 146:
+{C13}{ITEM_01E1} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 147:
+{C13}{ITEM_01E2} A
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 148:
+{C13}{ITEM_01E3} S
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}
+
+Message 149:
+{C13}{ITEM_01E4} S
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 150:
+{C13}{ITEM_01E5} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+{C13}{ITEM_01E6} S
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 152:
+{C13}{ITEM_01E7} B
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}
+
+Message 153:
+{C13}{ITEM_01E8} B
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 154:
+{C13}{ITEM_01E9} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 155:
+{C13}{ITEM_01EA} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+{C13}{ITEM_01EB} A
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}
+
+Message 157:
+{C13}{ITEM_01EC} A
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 158:
+{C13}{ITEM_01ED} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 159:
+{C13}{ITEM_01EE} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 160:
+{C13}{ITEM_01EF} S
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}
+
+Message 161:
+{C13}{ITEM_01F0} S
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 162:
+{C13}{ITEM_01F1} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 163:
+{C13}{ITEM_01F2} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 164:
+{C13}{ITEM_01F3} B
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}
+
+Message 165:
+{C13}{ITEM_01F4} B
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+{C13}{ITEM_01F5} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 167:
+{C13}{ITEM_01F6} B
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 168:
+{C13}{ITEM_01F7} A
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}
+
+Message 169:
+{C13}{ITEM_01F8} A
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 170:
+{C13}{ITEM_01F9} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+{C13}{ITEM_01FA} A
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 172:
+{C13}{ITEM_01FB} S
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}
+
+Message 173:
+{C13}{ITEM_01FC} S
+{C17}Growing season:
+Winter - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 174:
+{C13}{ITEM_01FD} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 175:
+{C13}{ITEM_01FE} S
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 176:
+{C13}{ITEM_01FF} B
+{C17}Growing season:
+Summer - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 177:
+{C13}{ITEM_0200} B
+{C17}Growing season:
+Summer - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+{C13}{ITEM_0201} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 179:
+{C13}{ITEM_0202} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 180:
+{C13}{ITEM_0203} A
+{C17}Growing season:
+Summer - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+{C13}{ITEM_0204} A
+{C17}Growing season:
+Summer - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 182:
+{C13}{ITEM_0205} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 183:
+{C13}{ITEM_0206} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 184:
+{C13}{ITEM_0207} S
+{C17}Growing season:
+Summer - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 185:
+{C13}{ITEM_0208} S
+{C17}Growing season:
+Summer - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+{C13}{ITEM_0209} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 187:
+{C13}{ITEM_020A} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+{C13}{ITEM_020B} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+{C13}{ITEM_020C} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 190:
+{C13}{ITEM_020D} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 191:
+{C13}{ITEM_020E} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 192:
+{C13}{ITEM_020F} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 193:
+{C13}{ITEM_0210} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+{C13}{ITEM_0211} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 195:
+{C13}{ITEM_0212} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+{C13}{ITEM_0213} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 197:
+{C13}{ITEM_0214} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 198:
+{C13}{ITEM_0215} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 199:
+{C13}{ITEM_0216} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 200:
+{C13}{ITEM_0217} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 201:
+{C13}{ITEM_0218} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 202:
+{C13}{ITEM_0219} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 203:
+{C13}{ITEM_021A} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 204:
+{C13}{ITEM_021B} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 205:
+{C13}{ITEM_021C} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 206:
+{C13}{ITEM_021D} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 207:
+{C13}{ITEM_021E} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 208:
+{C13}{ITEM_021F} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 209:
+{C13}{ITEM_0220} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 210:
+{C13}{ITEM_0221} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 211:
+{C13}{ITEM_0222} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+{C13}{ITEM_0223} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 213:
+{C13}{ITEM_0224} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 214:
+{C13}{ITEM_0225} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 215:
+{C13}{ITEM_0226} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 216:
+{C13}{ITEM_0227} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 217:
+{C13}{ITEM_0228} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 218:
+{C13}{ITEM_0229} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 219:
+{C13}{ITEM_022A} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 220:
+{C13}{ITEM_022B} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 221:
+{C13}{ITEM_022C} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 222:
+{C13}{ITEM_022D} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 223:
+{C13}{ITEM_022E} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 224:
+{C13}{ITEM_022F} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 225:
+{C13}{ITEM_0230} B
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 226:
+{C13}{ITEM_0231} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 227:
+{C13}{ITEM_0232} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 228:
+{C13}{ITEM_0233} A
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 229:
+{C13}{ITEM_0234} A
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 230:
+{C13}{ITEM_0235} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 231:
+{C13}{ITEM_0236} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 232:
+{C13}{ITEM_0237} S
+Spring - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 233:
+{C13}{ITEM_0238} S
+{C17}Growing season:
+Spring - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 234:
+{C13}{ITEM_0239} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 235:
+{C13}{ITEM_023A} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 236:
+{C13}{ITEM_023B} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 237:
+{C13}{ITEM_023C} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 238:
+{C13}{ITEM_023D} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 239:
+{C13}{ITEM_023E} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 240:
+{C13}{ITEM_023F} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 241:
+{C13}{ITEM_0240} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 242:
+{C13}{ITEM_0241} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 243:
+{C13}{ITEM_0242} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 244:
+{C13}{ITEM_0243} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 245:
+{C13}{ITEM_0244} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 246:
+{C13}{ITEM_0245} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 247:
+{C13}{ITEM_0246} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 248:
+{C13}{ITEM_0247} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 249:
+{C13}{ITEM_0248} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 250:
+{C13}{ITEM_0249} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 251:
+{C13}{ITEM_024A} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 252:
+{C13}{ITEM_024B} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 253:
+{C13}{ITEM_024C} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 254:
+{C13}{ITEM_024D} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 255:
+{C13}{ITEM_024E} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 256:
+{C13}{ITEM_024F} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 257:
+{C13}{ITEM_0250} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 258:
+{C13}{ITEM_0251} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 259:
+{C13}{ITEM_0252} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 260:
+{C13}{ITEM_0253} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 261:
+{C13}{ITEM_0254} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 262:
+{C13}{ITEM_0255} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 263:
+{C13}{ITEM_0256} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 264:
+{C13}{ITEM_0257} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 265:
+{C13}{ITEM_0258} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 266:
+{C13}{ITEM_0259} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 267:
+{C13}{ITEM_025A} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+{C13}{ITEM_025B} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 269:
+{C13}{ITEM_025C} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 270:
+{C13}{ITEM_025D} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 271:
+{C13}{ITEM_025E} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 272:
+{C13}{ITEM_025F} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 273:
+{C13}{ITEM_0260} B
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 274:
+{C13}{ITEM_0261} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 275:
+{C13}{ITEM_0262} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 276:
+{C13}{ITEM_0263} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 277:
+{C13}{ITEM_0264} A
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 278:
+{C13}{ITEM_0265} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 279:
+{C13}{ITEM_0266} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 280:
+{C13}{ITEM_0267} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}
+
+Message 281:
+{C13}{ITEM_0268} S
+{C17}Growing season:
+Spring - Summer.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 282:
+{C13}{ITEM_0269} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 283:
+{C13}{ITEM_026A} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 284:
+{C13}{ITEM_026B} B
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 285:
+{C13}{ITEM_026C} B
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 286:
+{C13}{ITEM_026D} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 287:
+{C13}{ITEM_026E} B
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 288:
+{C13}{ITEM_026F} A
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 289:
+{C13}{ITEM_0270} A
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 290:
+{C13}{ITEM_0271} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 291:
+{C13}{ITEM_0272} A
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 292:
+{C13}{ITEM_0273} S
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 293:
+{C13}{ITEM_0274} S
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 294:
+{C13}{ITEM_0275} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 295:
+{C13}{ITEM_0276} S
+{C17}Can be grown in any soil or season.
+Growth rate: Fast.{PAUSE}{EOM}
+
+Message 296:
+{C13}{ITEM_0277} B
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 297:
+{C13}{ITEM_0278} B
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 298:
+{C13}{ITEM_0279} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 299:
+{C13}{ITEM_027A} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 300:
+{C13}{ITEM_027B} A
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 301:
+{C13}{ITEM_027C} A
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 302:
+{C13}{ITEM_027D} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 303:
+{C13}{ITEM_027E} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 304:
+{C13}{ITEM_027F} S
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 305:
+{C13}{ITEM_0280} S
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 306:
+{C13}{ITEM_0281} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}
+
+Message 307:
+{C13}{ITEM_0282} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat fast.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 308:
+{C13}{ITEM_0283} B
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 309:
+{C13}{ITEM_0284} B
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Slow.{PAUSE}{EOM}
+
+Message 310:
+{C13}{ITEM_0285} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 311:
+{C13}{ITEM_0286} B
+{C17}Can be grown in any soil or season.
+Growth rate: Slow.{PAUSE}{EOM}
+
+Message 312:
+{C13}{ITEM_0287} A
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 313:
+{C13}{ITEM_0288} A
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Slow.{PAUSE}{EOM}
+
+Message 314:
+{C13}{ITEM_0289} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 315:
+{C13}{ITEM_028A} A
+{C17}Can be grown in any soil or season.
+Growth rate: Slow.{PAUSE}{EOM}
+
+Message 316:
+{C13}{ITEM_028B} S
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 317:
+{C13}{ITEM_028C} S
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Slow.{PAUSE}{EOM}
+
+Message 318:
+{C13}{ITEM_028D} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 319:
+{C13}{ITEM_028E} S
+{C17}Can be grown in any soil or season.
+Growth rate: Slow.{PAUSE}{EOM}
+
+Message 320:
+{C13}{ITEM_028F} B
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 321:
+{C13}{ITEM_0290} B
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 322:
+{C13}{ITEM_0291} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 323:
+{C13}{ITEM_0292} B
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 324:
+{C13}{ITEM_0293} A
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 325:
+{C13}{ITEM_0294} A
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 326:
+{C13}{ITEM_0295} A
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 327:
+{C13}{ITEM_0296} A
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 328:
+{C13}{ITEM_0297} S
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 329:
+{C13}{ITEM_0298} S
+{C17}Growing season:
+Fall - Spring.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 330:
+{C13}{ITEM_0299} S
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}
+
+Message 331:
+{C13}{ITEM_029A} S
+{C17}Can be grown in any soil or season.
+Growth rate: Somewhat slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 332:
+{C13}{ITEM_029B} B
+{C17}Growing season:
+Summer - Fall.{PAUSE}{WIPE}
+Will not grow in poor soil.
+Growth rate: Slow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 333:
+{C13}{ITEM_029C} B
+{C17}Growing season:
+Summer - Fall.{PAUSE}{WIPE}
+Will grow in any kind of soil.
+Growth rate: Slow.{PAUSE}{EOM}
+
+Message 334:
+{C13}{ITEM_029D} B
+{C17}Can be grown in any season, but
+will not grow in poor soil.{PAUSE}{WIPE}
+Growth rate: Slow.{PAUSE}{EOM}{EOM}{EOM}
+

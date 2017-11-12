@@ -1,0 +1,1076 @@
+Message 0:
+All right, now give her a name.{PAUSE}
+And you should decide where to put her
+feedbox at the same time.{PAUSE}{EOM}{EOM}
+
+Message 1:
+{PREV_80}...That's a strange name...
+Anyway, take good care of her.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+She seems to like you.{PAUSE}{EOM}
+
+Message 3:
+I'll go ahead and put a free {C13}{ITEM_0508}{C17}
+in the {C14}{STRUC_48}{C17}.{PAUSE}{WIPE}
+...Well, I'll be seeing you.{PAUSE}{EOM}
+
+Message 4:
+Ah...
+There are lots of expensive looking
+things here, aren't there?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+Just looking is nice too, but there are
+many things I'd like to have...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 6:
+What! It can't be!
+It's not possible!{PAUSE}{EOM}{EOM}
+
+Message 7:
+I've never seen a picture like that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+What?! T-that's amazing!!{PAUSE}
+So that means...
+You bought it direct from the artist?{PAUSE}{EOM}{EOM}
+
+Message 9:
+What! Could it be the Ronet who was one of
+foremost artists of the surrealist school?
+And as a female artist, she was a rarity.{PAUSE}{WIPE}
+Let's see, I believe her first apprentice
+Romani was a man, though...
+Oh yes, I need to see the signature...{PAUSE}{EOM}
+
+Message 10:
+Oh come on... Please...
+I'd like to get a better look at it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+How mean of you.
+All right, the next time I come,
+I'll bring a lot of money with me!{PAUSE}{WIPE}
+Take good care of it until then.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+I'll just leave it here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+I'm sure your child will be very happy.
+You can't find that kind of thing even
+in the city, so take good care of it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+Anyway...{PAUSE}{EOM}{EOM}
+
+Message 15:
+I have to get back to my business,
+so you'll have to excuse me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+Do you want to sell that?{CHOICE Y/N DEF0}{EOM}
+
+Message 17:
+I can't buy that.{PAUSE}{EOM}{EOM}
+
+Message 18:
+OK, will you take {GOLD_0000}G
+for it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+That's too bad.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+Thank you.{PAUSE}{EOM}
+
+Message 21:
+Welcome.
+How can I help you?
+{CHOICE3 DEF0}
+Sell.
+Buy.
+Never mind.{EOM}{EOM}
+
+Message 22:
+What will you be selling today?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+What do you need today?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+I'm afraid you don't have enough money.
+You'll have to work harder.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+I'm afraid you have too many items.
+You'll have to forget about it this time.{PAUSE}{EOM}{EOM}
+
+Message 26:
+Thank you for your business.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 27:
+That's too bad.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+An excellent choice.{PAUSE}
+And you can milk this goat too.
+I'll include the milker, so how does
+{GOLD_0000}G sound to you?
+{CHOICE3 DEF0}
+Buy.
+Never mind.
+Discount?{EOM}
+
+Message 29:
+An excellent choice.{PAUSE}
+They say that this doll's expressions
+actually change over time.{PAUSE}
+If you buy it now, it's only {GOLD_0000}G.
+How about it?
+{CHOICE3 DEF0}
+Buy.
+Never mind.
+Discount?{EOM}{EOM}
+
+Message 30:
+An excellent choice.
+This is a valuable flower vase that
+was made in a faraway land.{PAUSE}
+Just this once, I'll give it to you for
+only {GOLD_0000}G.
+{CHOICE3 DEF0}
+Buy.
+Never mind.
+Discount?{EOM}{EOM}
+
+Message 31:
+I'm thinking about
+going somewhere outside the village
+some time soon.{PAUSE}{EOM}
+
+Message 32:
+Incidentally, do you know about
+Mineral Town?
+I'd like to go there some day.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+I see...
+Well, how does {GOLD_0000}G
+sound?
+{CHOICE2 DEF0}
+I'll take it.
+Never mind.{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+Hmm... I see...
+Well, how about {GOLD_0000}G?
+Any better?
+{CHOICE2 DEF0}
+I'll take it.
+No, never mind.{EOM}{EOM}
+
+Message 35:
+Hmm... This is a pickle...
+Well, how does {GOLD_0000}G
+strike you?
+{CHOICE2 DEF0}
+It's a deal.
+No, I guess I'll pass.{EOM}{EOM}{EOM}
+
+Message 36:
+Hmm... You drive a hard bargain...
+All right. {GOLD_0000}G.
+How's that?
+{CHOICE2 DEF0}
+OK.
+I think I'll pass after all.{EOM}
+
+Message 37:
+You're really quite stubborn, you know.
+This is my final offer: {GOLD_0000}G.
+What do you think?
+{CHOICE2 DEF0}
+I'll take it.
+I give up.{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+All right, please hand it over.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+Let's just forget this ever happened, OK?{PAUSE}{EOM}{EOM}
+
+Message 40:
+I see...
+Well, how does {GOLD_0000}G
+sound to you?
+{CHOICE3 DEF0}
+Buy.
+Never mind.
+Can't you do better?{EOM}
+
+Message 41:
+Hmm... I see...
+Well, what about {GOLD_0000}G?
+Any better?
+{CHOICE3 DEF0}
+Buy.
+Never mind.
+Can't you do better?{EOM}
+
+Message 42:
+Hmm...
+Oh dear, oh dear...
+Well, how does {GOLD_0000}G
+strike you?
+{CHOICE3 DEF0}
+Buy.
+Never mind.
+Can't you do better?{EOM}
+
+Message 43:
+Hmm...
+You drive a hard bargain...
+Very well. {GOLD_0000}G.
+...How about that?
+{CHOICE3 DEF0}
+Buy.
+Never mind.
+Can't you do better?{EOM}
+
+Message 44:
+You're really quite stubborn, you know.
+This is my final offer. {GOLD_0000}G.
+So?
+{CHOICE3 DEF0}
+Buy.
+Never mind.
+Can't you do better?{EOM}{EOM}
+
+Message 45:
+All right.
+I'll deliver it to you.{PAUSE}{EOM}
+
+Message 46:
+All right...
+Let's just forget this ever happened.{PAUSE}{EOM}
+
+Message 47:
+Well then, I'll pay {GOLD_0000}G each.{S_3202BC}
+You seem to have {GOLD_0100} of them.
+How many do you want to sell?{PAUSE}{EOM}{EOM}
+
+Message 48:
+Can I help you with anything else?
+{CHOICE3 DEF0}
+Sell.
+Buy.
+Never mind.{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+Thank you very much.
+I'll have them delivered to your
+place.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+Thank you very much.
+I'll just put it in your chest.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+Well then...{S_3203E8} Time to open Van's store.{PAUSE}{EOM}{EOM}
+
+Message 52:
+All right...{S_3201F4}
+Come on everyone! I'm open for business!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+Well...{S_3203E8} It's about time to close up shop.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 54:
+That's the end of another day.{PAUSE}
+{S_3203E8}...I guess I'll be heading home...{PAUSE}{EOM}{EOM}
+
+Message 55:
+Whew...{S_3201F4} What about here?{S_3201F4}
+It's perfect for this room.{S_3201F4} Whew...{PAUSE}{EOM}{EOM}
+
+Message 56:
+It's quite an usual item, so take
+good care of it.{PAUSE}{EOM}
+
+Message 57:
+Well then... {S_3201F4}I should be heading back.{PAUSE}{EOM}{EOM}
+
+Message 58:
+Thank you for everything,
+{PETE}.
+I feel lonely already...{PAUSE}{EOM}
+
+Message 59:
+{GRIFFIN}, a song please,
+for {PETE}.{PAUSE}{EOM}
+
+Message 60:
+Excuse me, but...{PAUSE}{EOM}{EOM}
+
+Message 61:
+If you want to sell something, it helps
+if you have something to sell...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 62:
+I was in the market for something unusual,
+but if you don't have anything...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 63:
+I'm looking for unusual items.{PAUSE}{EOM}
+
+Message 64:
+Not much here, is there?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+I like that {VAR_00}...
+How much is it?
+{CHOICE3 DEF2}
+Today only, it's just {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}
+
+Message 66:
+{FACE_240009}{S_34019D}Hmm... That's still a little
+on the expensive side...{S_3201F4}
+Oh all right, I'll take it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+Hmm... Can't you make it a little
+less expensive?{PAUSE}{EOM}{EOM}
+
+Message 68:
+It's a little expensive, but...
+Oh, OK. I'll take it.
+But you should buy something from me too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+I guess I'll have to pass this time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+How much is that {VAR_00}?
+{CHOICE3 DEF2}
+Today only, it's just {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}{EOM}
+
+Message 71:
+I guess I'll forget about it for today.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+Please come to my shop
+sometime, too.{PAUSE}{EOM}{EOM}
+
+Message 73:
+Hello. I travel the world
+selling lots of unusual items.
+Come by and visit!{PAUSE}{WIPE}
+My shop is open on the 3rd and the 8th,
+and sometimes other times.
+Please stop by.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+{FACE_240007}......{PAUSE}{EOM}
+
+Message 75:
+{FACE_240007}I'm tired today...{PAUSE}{EOM}
+
+Message 76:
+Good morning.{PAUSE}{EOM}{EOM}
+
+Message 77:
+Hello.{PAUSE}{EOM}
+
+Message 78:
+Good evening.{PAUSE}{EOM}{EOM}
+
+Message 79:
+Why are you out so late?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 80:
+{FACE_24000A}Oh, that's one of my favorite foods.
+C-can I have it?{CHOICE Y/N DEF0}{EOM}
+
+Message 81:
+{FACE_240003}Really?
+Thank you.{PAUSE}{EOM}
+
+Message 82:
+Oh, I see...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+{S_34019D}You've got something quite nice there.{PAUSE}{EOM}{EOM}
+
+Message 84:
+{FACE_240003}You're giving it to me for free?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 85:
+In that case, I'll pay generously for it.
+Please bring it to my shop.{PAUSE}{EOM}{EOM}
+
+Message 86:
+...That's quite something.{PAUSE}{EOM}
+
+Message 87:
+I think I'll pass.{PAUSE}{EOM}
+
+Message 88:
+I don't like that.{PAUSE}{EOM}
+
+Message 89:
+That's...not very valuable.
+If you want to sell it, come to my shop.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+{FACE_24000A}What a cute child.
+I deal in toys as well, you know.
+I'm sure you'll find something nice.{PAUSE}{EOM}{EOM}
+
+Message 91:
+What a cute child.{PAUSE}{EOM}
+
+Message 92:
+I recommend a toy for your child.{PAUSE}{EOM}{EOM}
+
+Message 93:
+I don't deal in dogs.{PAUSE}{EOM}{EOM}
+
+Message 94:
+I don't deal in cats.{PAUSE}{EOM}{EOM}
+
+Message 95:
+I can't buy that.{PAUSE}{EOM}{EOM}
+
+Message 96:
+A duck can't keep its eggs warm
+by itself.{PAUSE}{EOM}
+
+Message 97:
+I don't handle that kind of thing, but
+if you really want to sell it, bring it
+to my shop.{PAUSE}{EOM}
+
+Message 98:
+Come to my shop and I'll pay you for it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+If you want to sell it, come to my shop.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+I don't have many food items
+at my shop, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 101:
+{FACE_240003}Are you giving that to me for free?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 102:
+{FACE_240003}Well, thank you very much.{PAUSE}{EOM}
+
+Message 103:
+I didn't think so.
+You probably want to sell it.
+Well, come to my shop later.{PAUSE}{EOM}{EOM}
+
+Message 104:
+Do you grow crops at your farm...?{PAUSE}{EOM}
+
+Message 105:
+It would be nice if it were low-fat milk.
+It would be nice if it were low-fat milk.{EOM}
+
+Message 106:
+It would be nice if it were low calorie
+cheese...{PAUSE}{EOM}{EOM}
+
+Message 107:
+It would be nice if it were low calorie
+butter...{PAUSE}{EOM}{EOM}
+
+Message 108:
+Eggs have cholesterol in them
+so I'm trying to avoid eating to many.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+It doesn't cost anything to sell fish that
+you catch. It's all profit. {FACE_240003}{S_34019C}Heh heh heh.{S_3201F4}{FACE_240000}{PAUSE}{EOM}{EOM}
+
+Message 110:
+Did you make this food?
+It looks quite good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 111:
+{FACE_240003}Can I...have that food?
+{CHOICE2 DEF1}
+Of course.
+You really shouldn't eat it.{EOM}{EOM}
+
+Message 112:
+{FACE_240009}{S_34019D}That's very nice of you, but...
+I'm on a diet. But thanks for thinking
+of me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+{FACE_240009}I see... But you're right.
+I'm not exactly slim, am I?{PAUSE}{EOM}
+
+Message 114:
+That food looks delicious.{PAUSE}{EOM}
+
+Message 115:
+{FACE_240009}It's too tempting. Please put it away.{PAUSE}{EOM}
+
+Message 116:
+That hoe looks quite new.{PAUSE}{EOM}{EOM}
+
+Message 117:
+That's an ordinary hoe.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+That's a worn hoe.{PAUSE}{EOM}
+
+Message 119:
+That sickle looks quite sharp.{PAUSE}{EOM}
+
+Message 120:
+That sickle looks quite new.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 121:
+That's an ordinary sickle.{PAUSE}{EOM}
+
+Message 122:
+That's a dirty sickle.{PAUSE}{EOM}
+
+Message 123:
+That watering can is quite new.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+That's an ordinary watering can.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+That's an old watering can.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+That milker looks quite new.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 127:
+That's an ordinary milker.{PAUSE}{EOM}
+
+Message 128:
+That's an ordinary milker.{PAUSE}{EOM}
+
+Message 129:
+That's an ordinary milker.{PAUSE}{EOM}
+
+Message 130:
+Those clippers are pretty new.{PAUSE}{EOM}
+
+Message 131:
+Those are ordinary clippers.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+That's quite an unusual stone.{PAUSE}{EOM}
+
+Message 133:
+{S_34019D}Some people would get excited about that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+There are many different kinds of records.
+I'll be getting more in later, so please
+check back every once in a while.{PAUSE}{EOM}{EOM}
+
+Message 135:
+What an unusual necklace.
+I wonder if there's a story behind it...{PAUSE}{EOM}
+
+Message 136:
+{S_34019D}...Fireworks?
+I don't deal in dangerous things
+like that...{PAUSE}{EOM}
+
+Message 137:
+I like finding unusual things, and
+while I was doing that, I somehow ended up
+becoming a traveling salesman.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 138:
+If you find anything unusual, please
+bring it to me.
+I pay well for those kinds of things.{PAUSE}{EOM}
+
+Message 139:
+I sometimes go to Mineral Town on
+business and often see Won the salesman.
+He has a shifty way of doing business.{PAUSE}{WIPE}
+But don't tell him I said that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+....{PAUSE}{EOM}{EOM}{EOM}
+
+Message 141:
+I hear that the owner of the farm in
+Mineral Town is saving up a lot
+of money.{PAUSE}{EOM}
+
+Message 142:
+I heard that {VAR_00} in Mineral
+Town has walked one million steps.
+I wonder if he's dieting or something{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 143:
+The owner of the farm in Mineral Town
+sure has bad taste.
+He uses way too much gold...{PAUSE}{EOM}
+
+Message 144:
+The owner of the farm in Mineral Town
+has three cottages.
+Even though his family is small...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 145:
+{FACE_240003}{S_34019C}That food you gave me earlier
+was really delicious.
+So much for my diet. Ho ho ho.{PAUSE}{EOM}{EOM}
+
+Message 146:
+That food you gave me earlier
+wasn't very tasty.
+It might be good for my diet, though.{PAUSE}{EOM}
+
+Message 147:
+The {VAR_00} you gave me a while
+ago... It tasted a little off...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 148:
+{FACE_240003}{S_34019C}The {VAR_00} you gave me a bit ago
+was the best.
+No, really!{EOM}{EOM}{EOM}
+
+Message 149:
+About that milk you gave me a while ago...
+It wasn't very popular.{PAUSE}{EOM}
+
+Message 150:
+About that milk you gave me a while ago...
+People thought it wasn't bad.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 151:
+About that milk you gave me a while ago...
+People thought it was pretty good.{PAUSE}{EOM}{EOM}
+
+Message 152:
+About that milk you gave me a while ago...
+People thought it was quite good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 153:
+{FACE_240003}About that milk you gave me a while ago...
+People thought it was fantastic.
+That must be the best milk in the world.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+About that milk you gave me a while ago...
+People said it tasted a little odd.{PAUSE}{EOM}
+
+Message 155:
+People said that the cheese you gave me
+was rich and very delicious.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+About that cheese you gave me...
+People said it was smelly, but that
+they could get to like it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 157:
+People thought your cheese was OK.{PAUSE}{EOM}
+
+Message 158:
+People said your butter was rich and
+incredibly tasty.{PAUSE}{EOM}
+
+Message 159:
+People said that your butter was a little
+smelly, but they could get to like it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+That butter you gave me a while back
+was no ordinary butter.
+It was quite exceptional.{PAUSE}{EOM}
+
+Message 161:
+People thought your butter wasn't bad.{PAUSE}{EOM}
+
+Message 162:
+{FACE_240003}That fish you caught
+tasted fantastic.
+I ate it myself.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+I was told that the fish you caught was
+not bad.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 164:
+You seem more dignified recently.
+You are quite a successful farmer.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+They say that you have quite a green
+thumb, you know.{PAUSE}{EOM}{EOM}
+
+Message 166:
+You're working hard on the farm.
+You look a little different...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 167:
+People are saying that the things you grow
+are quite tasty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+....{PAUSE}{EOM}{EOM}{EOM}
+
+Message 169:
+....{PAUSE}{EOM}{EOM}{EOM}
+
+Message 170:
+{FACE_24000A}Whenever I'm here on business,
+I look forward to stopping by this shop.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 171:
+I'm trying not to eat too many
+snacks.{PAUSE}{EOM}
+
+Message 172:
+Whenever I come here, I end
+up staying too long.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 173:
+It's quite a trip here to Forget-Me-Not
+Valley, but it's all part of business.{PAUSE}{EOM}
+
+Message 174:
+It'll be difficult to sell as the
+weather grows warmer.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 175:
+{FACE_240002}...It's hot.... Whew!{PAUSE}{EOM}{EOM}
+
+Message 176:
+I'm sweating like a pig but
+I still can't seem to lose weight!{PAUSE}{EOM}
+
+Message 177:
+Things are a little more comfortable
+now that it's cooler outside.{PAUSE}{EOM}
+
+Message 178:
+The air here is much cleaner than in the
+city. I love it.{PAUSE}{EOM}{EOM}
+
+Message 179:
+Even if it's cold outside, I end up
+sweating on the trip here. Whew!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+The snow doesn't pile up here, does it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+Business isn't very good when it's cold.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 182:
+There are lots of nice things here
+that I'd like to buy, but they won't
+sell them to me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 183:
+Romana doesn't seem to have any intention
+of selling the things in this house.
+But I won't give up.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 184:
+I can't tell if Romana is a shrewd
+businesswoman, or just mean...{PAUSE}{EOM}{EOM}
+
+Message 185:
+I can't tell if Romana is a shrewd
+businesswoman, or just mean...{PAUSE}{EOM}{EOM}
+
+Message 186:
+I always stop here to see if Carter
+will sell me any of his unusual
+finds.{PAUSE}{EOM}
+
+Message 187:
+Sometimes very unusual things turn up
+in the excavations around here.{PAUSE}{EOM}{EOM}
+
+Message 188:
+Do you dig, too?
+If you find something usual, I'll buy it.{PAUSE}{EOM}
+
+Message 189:
+Business wasn't very good today.
+I'm going home.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+Good luck with your business.{PAUSE}{EOM}{EOM}
+
+Message 191:
+I'm thinking of going to Mineral Town.
+They have some pretty interesting
+things there, you know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+This kind of weather isn't very
+good for business.{PAUSE}{EOM}
+
+Message 193:
+It wasn't raining when I left
+this morning...
+Oh well!{PAUSE}{EOM}
+
+Message 194:
+My goodness! How wonderful!
+I guess hard work pays off!
+Ha, ha, ha!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 195:
+Oh, {PETE}!
+You came at just the right time!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 196:
+I was just telling Tim about the results
+of the diet that Romana told me about last
+month.{PAUSE}{EOM}
+
+Message 197:
+Now I was a little skeptical
+about the diet at first...{PAUSE}{WIPE}
+After all, you're supposed to put on a
+blindfold and walk around flapping your
+arms about twice a day...{PAUSE}{WIPE}
+But apparently modern science has
+determined that this diet is the most
+effective.{PAUSE}{WIPE}
+So I did that for 10 days and then
+I stepped onto my new
+bathroom scale...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+And would you believe it!{PAUSE}{WIPE}
+{FACE_240000}The scale read 80 pounds!
+{FACE_24000A}I guess all of my hard work was worth it!
+Ha, ha, ha!{S_3202BC}
+{CHOICE2 DEF0}
+Didn't it just go past 0 and start again?
+Congratulations!!{EOM}{EOM}{EOM}
+
+Message 199:
+Thank you, thank you.
+I'm going to keep working on my diet!!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 200:
+Maybe you should try it too, Tim.{PAUSE}{EOM}{EOM}
+
+Message 201:
+I'm living proof that it works!
+Ha, ha, ha!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 202:
+Well, I can't stand around here all day.
+I have to go tell Romana...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 203:
+I'll see you later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 204:
+............................
+............................
+............................{PAUSE}{WIPE}
+............................
+............................
+............................{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 205:
+I-I suppose you're right.
+I thought for sure my diet worked
+this time...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+Oh well...{PAUSE}{EOM}
+
+Message 207:
+My goodness! How wonderful!
+I guess hard work pays off!
+Ha, ha, ha!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 208:
+Given my failure with the last diet,
+I was a little skeptical at first.{PAUSE}{WIPE}
+After all, you're supposed to put on a
+blindfold and spin around like a top with
+your arms sticking out twice a day.{PAUSE}{WIPE}
+But apparently modern science has
+determined that this diet is the most
+effective.{PAUSE}{WIPE}
+So I did that for 10 days and then
+I stepped onto my new
+scale for pets...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 209:
+And wouldn't you know it!{PAUSE}{WIPE}
+{FACE_240000}My weight had gone down to 199 pounds!
+{FACE_24000A}I guess all those times I fell over
+were worth it! Ha, ha, ha!{S_3202BC}
+{CHOICE2 DEF0}
+I think the scale only goes up to 199...
+Congratulations!!{EOM}{EOM}
+
+Message 210:
+I'll stand by this diet! It really works!
+Ha, ha, ha!{PAUSE}{EOM}{EOM}
+
+Message 211:
+I-I suppose you're right.
+I thought for sure my diet worked
+this time...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 212:
+I'll admit that my previous two failures
+have made me wary of diets...{PAUSE}{WIPE}
+And it's true that this diet consists of
+ramming your body against a thick piece of
+wood 15 times, twice a day.{PAUSE}{WIPE}
+But apparently modern science has
+determined that this diet is the most
+effective.{PAUSE}{WIPE}
+So I did that for 10 days and then
+I stepped onto my new
+electronic scale...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 213:
+And wouldn't you know it!{PAUSE}{WIPE}
+{FACE_240000}My weight was down to 200 pounds!
+{FACE_24000A}I nearly destroyed my house ramming myself
+into the walls, but it was worth it!{S_3202BC}
+{CHOICE2 DEF0}
+Didn't you forget to put the batteries in?
+Congratulations!!{EOM}{EOM}{EOM}{EOM}
+
+Message 214:
+I've had so many failures in the past,
+that I was unsure about this diet.{PAUSE}{WIPE}
+After all, it consists of climbing up on
+Daryl's roof and touching that sparky
+thing twice a day.{PAUSE}{WIPE}
+But apparently modern science has
+determined that this diet is the most
+effective.{PAUSE}{WIPE}
+So I did that for 10 days and then
+I stepped onto my new
+imported made scale.{PAUSE}{EOM}
+
+Message 215:
+And what do you know!{PAUSE}{WIPE}
+{FACE_240000}My weight was half what it was before!
+{FACE_24000A}All those times I fell off the
+roof were worth it! Ha, ha, ha!{S_3202BC}
+{CHOICE2 DEF0}
+Wasn't the scale just in kilograms...?
+Congratulations!!{EOM}{EOM}{EOM}{EOM}
+
+Message 216:
+What with all of my failures in the past,
+I was certainly skeptical about it.{PAUSE}{WIPE}
+After all, I was supposed to go to the
+beach twice a day and scream at the sun
+21 times while rolling in the sand...{PAUSE}{WIPE}
+But apparently modern science has
+determined that this diet is the most
+effective.{PAUSE}{WIPE}
+So I did that for 10 days and then
+I stepped onto my new scale with all the
+latest features.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 217:
+And what do you know!{PAUSE}{WIPE}
+{FACE_240000}My weight was down to 76 pounds!
+{FACE_24000A}All that time I spent covered in sand
+screaming was well worth it! Ha, ha, ha!{S_3202BC}
+{CHOICE2 DEF0}
+Um, doesn't that only measure body fat?
+Congratulations!!{EOM}
+
+Message 218:
+I've had so many failures in the past
+that I was more than a little skeptical.{PAUSE}{WIPE}
+After all, I was supposed to have a
+staring contest with Murrey every day...{PAUSE}{WIPE}
+But apparently modern science has
+determined that this diet is the most
+effective.{PAUSE}{WIPE}
+So I did that for 10 days and then
+I stepped onto the full-body scale
+that Romana gave me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 219:
+And what a surprise!{PAUSE}{WIPE}
+{FACE_240000}My weight had gone down to 60 inches!
+{FACE_24000A}All those times that Murrey laughed
+at me were well worth it! Ha, ha, ha!{S_3202BC}
+{CHOICE2 DEF0}
+Doesn't that measure your height?
+Congratulations!!{EOM}{EOM}{EOM}{EOM}
+
+Message 220:
+I've had failure after failure, so you can
+be sure that I was skeptical about this.{PAUSE}{WIPE}
+After all, I was supposed to watch what I
+eat and exercise every day...{PAUSE}{WIPE}
+But apparently modern science has
+determined that this diet is the most
+effective.{PAUSE}{WIPE}
+So I did that for 10 days and then
+stepped onto the old scale that
+I had all along.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 221:
+And would you believe it!{PAUSE}{WIPE}
+{FACE_240000}My weight went down a little bit!
+{FACE_24000A}It was worth giving up all those
+ice cream sundaes! Ha, ha, ha!{PAUSE}{WIPE}
+{FACE_240003}Oh joyous day!
+Tim, how about a sundae to celebrate!
+In fact, bring me a whole tray of them!{S_3202BC}
+{CHOICE2 DEF0}
+Won't that make you gain weight again?
+Congratulations!!{EOM}
+
+Message 222:
+Err... That... That is...{PAUSE}{EOM}{EOM}
+
+Message 223:
+Aaaaggghh!{S_320BB8}{EOM}{EOM}{EOM}
+
+Message 224:
+Whew... Whew...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+Oh hello, {PETE}.{PAUSE}{WIPE}
+{ROMANA} told me that if I could run from
+the {C14}{STRUC_31}{C17} to the {C14}{STRUC_34}{C17} every day
+I'd lose weight, so I've taken up running.{PAUSE}{WIPE}
+It's a lot harder than I thought!{PAUSE}{WIPE}
+I tried running from the {C14}{STRUC_30}{C17},
+but I fell down and rolled all the way
+to the inn. It was terrible. Whew!{PAUSE}{WIPE}
+Well, I'm off to the {C14}{STRUC_34}{C17}!
+See you later, {PETE}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 226:
+I-I c-can't make it up these hills!{S_3203E8}
+Aaaaggghh!{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,1888 @@
+Message 0:
+{C9}{CA},{NICKNAME}{CB}{PAUSE}{EOM}{EOM}
+
+Message 1:
+{CC}{CD}{CE}{CF},{D0}{D0}{D1}{D2}{D3}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+{FACE_030019}{D4}{D3},{D5}{D0}{CE}{D6}{D0},{D7}{D8}{D9}{DA}{DB}{DC}{DD}{DE}{DF}?
+{E0}{D1}{D2}{DE}{E1}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+{D4}{D6}{D2}{E2}{E3}{E4}{E5}{E6}{DE}{D0}{E7}{E8}{DE}{D0}?
+{E9}{EA}{EB}{E4}{DE}{D3},{DC}{D3}{CE}{EC}{D0}{ED}{E4}{CF}{EE}{CE}{D6}{DF}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+{FACE_030019}{D9}{EF}{DE}{D0}{DE}{D3},{D4}{D6}{D2}{E2}{E3}{CE}{EC}{D4}{EOM}{F0}{E9}{E4}{CF}
+{EE}{CE}{D6}{E6}{EOM}{F1}{D5}{CB}
+{D7}{DC}{DE}{D0}{DE}{D3}{EOM}{F2}{D1}{CE}{D6}{E5}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+{D5}{D4}{D4},{EOM}{F3}{D1}{CE}{D6}{E5}{CB}
+{EOM}{F4}{EOM}{F5}{EOM}{F6},{D9}{DD}{EOM}{F7}{EF}{D6}{DF}{C9}?
+{FACE_03000A}{S_340184}{EOM}{F8}{EOM}{F9}{EOM}{FA}!{E2}{EOM}{F5}{EOM}{FB}{CE}{D6}{DF}{C9}♥{PAUSE}{EOM}{EOM}
+
+Message 6:
+{D5}{C9}{CA},{ED}{EF}{EOM}{FC}{E6}{D2}{D1}{DE}{D0}{DF}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+{EOM}{FD}{EOM}{FE}{EOM}{FF}{DE}{D0}{E6}{EOM}{F1},{D5}{D4}{D6}{D2}{DE}{D3}{E3}{E5}{DE}{D0}{E5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+{D4}{D3},
+{EOM}{CE}{EC}{DA}{DF}{C9}{CB}
+{EOM}{F1}{E4},{D9}{EF}{EC}{D0}{DA}{DF}?
+{CHOICE2 DEF0}
+{DE}{D1}{DE}{D1}
+{EOM}{F4}{EOM}{F5}{EOM}{F4}{EOM}{F5}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+
+
+
+ 
+{ENDPAGE}?
+{FACE_03000A}{EOM}{F2}{D1}{CE}{D6}{E5}
+{04}♥{PAUSE}{EOM}{EOM}
+
+Message 10:
+{D5}{D5}{D5}{DC}{E4}{CC}{CD}{CE}{CF},
+{EOM}{FA}
+{05}-
+{06}{DE}
+{07}{E2}{E0}{D8}
+{08}
+{09}{EF}{EOM}{FB}{EOM}{F2}{D0}{EOM}{F5}{E7}{E8}{DE}{D0}?{PAUSE}{EOM}{EOM}
+
+Message 11:
+{EB}{EF}{E7}{E8}{D4},{E2}{EOM}{F5}{EOM}{FB}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_030009}{EOM}{FF}
+{04},{EOM}{F1}{E4}{D2}{EC}{D1}{D2}{D3}{CB}
+{DE}{EOM}{F5}{EOM}{FC}{D1},{CF}{EC}{DC},{DB}{D3}{D0}{E5}{D5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+{FACE_030009}{E9}{EOM}{FE}{EOM}{F3}{D1}{D3}{DE}{D0}{DF}{CB}
+
+{0A}{DC},{D4}{EOM}{F5}
+{0B}{DD}{E1}{CF}
+{0C}
+{0D}
+{0E}
+{ENDPAGE}{DE}{EF}{DE}{D0}{E5}{CB}{PAUSE}{EOM}
+
+Message 14:
+{FACE_030009}{EOM}{FD}{D0}{E6}{EOM}{F1},{EB}{CE}{CF}{D2}{EC}{E0}{D0}{EC}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+{FACE_030009}{D2}{EOM}{FB}{D3}{EOM}{FE},
+{0F}{DC}{E4}{D1}{D2}{D3}{D5}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 16:
+{FACE_030002}{EOM}{FF}
+{04},{EOM}{F1}{E4}{D2}{EC}{D1}{D2}{D3}{CB}
+{DE}{EOM}{F5}{EOM}{FC}{D1},
+{C10}
+{C11}{EOM}{F9}-{DE}
+{0E}{EOM}{F3}{EOM}{FC}{E5}{CB}{PAUSE}{EOM}
+
+Message 17:
+{FACE_030002}{EOM}{F1}{E4}{D2}{EC}{D1}
+{C12}{EOM}{F3}
+{0A}{DC}{EOM}{F3}{D1}{D3}{DE}{D0}{D1}{D3}
+
+{C10}
+{C11}{EOM}{F9}-{DE}
+{0E}{EOM}{F3}{DE}{DF}{E9}{CB}{PAUSE}{EOM}
+
+Message 18:
+{FACE_030002}{EOM}{F7}{CE}{CF},
+{C13}{DF}{D4}{D6}{D2}
+{ENDPAGE}{EOM}{FF}
+
+{0E}{EOM}{F3}{EC}{EOM}{F5}{D1}{EOM}{F5}{E2}
+{C14}
+{C15}{DE}{DF}{E9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+{EOM}{F1}{EOM}{FE}{D2}{EOM}{F5}
+{C16}
+{C17}{E2}{DE}{DB}{D1}{D2}{D0}{E5}{D5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+{FACE_030002}{EOM}{F5},{DC}{E4}
+{?_1801}
+
+{0E}{DF}{EOM}{F7}{D0}{D6}
+{19}
+{1A}{DC}
+{19}
+{07}{DE}{D0}{DE}{D3}
+
+{0C}{D2}{D1}{E6}{EC}{ED}{DE}{D0}
+{0A}{CC}{CD}{E4}{EOM}{FC}{D0}!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+{E0}{EOM}{FF}{E9}•••{NICKNAME}{CB}
+
+{EOM}{CE}
+{1B}{DD},
+{1C}{CE}{EC}•••
+{1D}
+{1E}{EOM}{FC}{E5}
+{04}•••{CB}{PAUSE}{EOM}{EOM}
+
+Message 22:
+{D5}{D5}{D5}{D5}{D5}{D5}{D5}{D5}{D5}{D4}{D4},{NICKNAME}{CB}{PAUSE}{EOM}
+
+Message 23:
+{D5}
+{EOM}{CE}
+{1B}{DD},
+{1C}{CE}{EC}{D5}
+{1D}
+{1E}{EOM}{FC}{E5}
+{04}{D5}{CB}
+
+{1F}{D4}
+{04}
+{04}{D5}{CB}{PAUSE}{EOM}
+
+Message 24:
+
+{TATSUYA}{PREV_01}{NAME?}{D5},{DC}{E4}
+{DOG}{D2}
+{0A}
+{D0}{DB}{DC}{DF}{D4}{D6}{D2}
+{ENDPAGE}{DE}{DA}{E5}{CB}{PAUSE}{EOM}{EOM}
+
+Message 25:
+{D4}{D3},{NICKNAME}{CB}
+{EOM}{F1}{E4}{D2}{D6}{DF}?{PAUSE}{EOM}{EOM}
+
+Message 26:
+{D4}{D4},{NICKNAME}{CB}
+
+{0B}{EOM}{FC},
+{FARM}
+{ITEM_BF01}{CROP_CEEC}{DA}{DF}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+{S_340184}{E0}{DB}{D1}{EF}{EA}
+{0B}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+{C9}
+{ORD_222}{D0}{DF}?
+{FACE_03000A}{S_340184}{D5}{D4}{D6}{D2}{DC}{DE}{DF}{E9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 29:
+{D6}
+{0B}
+{ENDPAGE}{EOM}{FF}{EOM}{F2}{D0}{E5}{E9}{C9}{CB}{PAUSE}{EOM}
+
+Message 30:
+{D5}{E0}
+{Title_41}
+{ENDPAGE}{EOM}{FD}{D0}{D1}{D3},{DC}{E4}{CC}{CD}{CE}{CF}{D2}{D6}{D3}
+{C9}
+{0B}{D2}{CD}{E4}{D5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+{C9}
+{ORD_222}{D0}{DF}?
+{FACE_03000A}{S_340184}{D5}{D4}{D6}{D2}{DC}{DE}{DF}{E9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 32:
+{FACE_03001A}{S_340185}{D6}
+{0B}
+{ENDPAGE}{EOM}{FF}{EOM}{F2}{D0}{E5}{E9}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 33:
+{D5}{E0}
+{Title_41}
+{ENDPAGE}{EOM}{FD}{D0}{D1}{D3},{DC}{E4}{CC}{CD}{CE}{CF}{D2}{D6}{D3}
+{C9}
+{0B}{D2}{CD}{E4}{D5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+{DE}
+{04}
+{ENDPAGE}?{E0}
+{FARM}
+{ITEM_00FF}{EOM}{F1}{E4}{D2}{D6}{DF}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+{E0}{DE}{D1}
+{0A}{DC}
+{GOLD_CED6}?
+{EB}{ED}{D3}
+{GOLD_00F5}{DF}
+{STRUC_1}{PH_BFDB}
+{0B}{EOM}{F5}
+{0A}{E0}{D0}{EC}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 36:
+
+{1F}{D6}{DD}
+{0A}
+{NICKNAME}{CE}{EOM}{FE}{DD}{E0}
+{0C}{D2}{D6}{D0}{DF}?
+
+{0A}{DC},{D7}{DC}{EE}{D0}
+{2E}{D1}{EOM}{FB}{DE}{D0}{E5}{CB}{PAUSE}{EOM}
+
+Message 37:
+
+{2F}
+{ENDPAGE}{D0}{DA}{CF}{EOM}{F7}{EOM}{FE}{D3}{D0},
+{DF}{EOM}{F5}
+{PAUSE}{DD}{D2}
+{0B}{D2}{CD}{E4}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 38:
+{FACE_030019}{D4}{D3},{D5}
+{VAR_01}{WIPE}{DE}
+{1F}{E4}
+{1F}{E9}{C9}♥
+
+{1F}{D6}{DD}{D2}{EC},{ED}{EOM}{F5}{DE}
+{S_320133}
+{ENDPAGE}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+{DC}{E4}{E7}{EOM}{F7}
+{S_34DAE5}{CB}
+
+{DRAW_01}{SKIP}{E2}{D4}{DA}{DC}{DF}{C9}{CB}{PAUSE}{EOM}
+
+Message 40:
+{DC}{E4}{E7}{EOM}{F7}
+{S_34DAE5}{CB}
+{?_38DF}{DF}
+{ITEM_DC01}{DBG_37013800FC}{D2}{D5}{CB}{PAUSE}{EOM}
+
+Message 41:
+{D4}{D3},{NICKNAME}{DC}{ED}{ED}
+{ENDPAGE}
+{?_39}{DE}{DF}?{PAUSE}{EOM}
+
+Message 42:
+{FACE_030003}{EOM}{F7}{E8}{D4}!{CF}{CE}{EC}{DC},{E0}{D0}{D2}{EB}{E4}♥
+{CHOICE3 DEF0}
+{D4}{EOM}{F0}{DA}
+{D4}{EOM}{F0}{DE}{D0}
+{D9}{DA}{EOM}{EOM}{EOM}
+
+Message 43:
+
+
+
+ 
+{ENDPAGE}!?
+{FACE_03000A}{S_340184}{NICKNAME},
+{PETE}{F8}{EOM}{FA}{E9}♥{PAUSE}{EOM}
+
+Message 44:
+{DE}
+{04}
+{ENDPAGE}?
+{FACE_030004}
+{08}
+{09}{DA}{EOM}{FC}{E6}{EOM}{FC}{CE}{D6}{DF}~?
+{D5}
+{C11}
+{3A}
+{3B}
+{3C}{C9}!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+{DE}{EOM}{F5}
+{0A}
+{0D}{CE}{EC}~?
+{D5}{NICKNAME}
+{ENDPAGE}{EOM}{FF}
+
+
+
+ 
+{ENDPAGE}{E0}{EOM}{F1}
+{3D}{D1}{EA}{EF}{DA}{E5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+{CF}{CE}{EC}{DC}{E0}{D0}{D2}{EB}{E4}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+{D4}{D3},{EOM}{F8}{EOM}{F9}{EOM}{FA}{C9}{CB}
+{FACE_03000A}{D4}{D6}{D2}{DC}{ED}{E4}{D0}{E4}{DF},
+{3E}{D2}{D0}{E5}~♥
+{CHOICE3 DEF0}
+{D4}{EOM}{F0}{DA}
+{D4}{EOM}{F0}{DE}{D0}
+{D9}{DA}{EOM}{EOM}
+
+Message 48:
+
+{07}
+{07}?
+
+
+ 
+{ENDPAGE}??
+{FACE_03000A}{S_340184}{D5}{E4}{EF}{D2}{D0}!
+{NICKNAME},
+{PETE}{F8}{EOM}{FA}{E9}♥{PAUSE}{EOM}
+
+Message 49:
+
+{C13}
+{3F}{EOM}{FF},{D4}{D6}{D2}
+{ENDPAGE}{CC}{CD}{E4}{EOM}{FC}{D0}{C9}♥{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+{FACE_030005}{NICKNAME}{DF}
+{CHOICE Y/N DEF1}{CHOICE138 DEF1}
+{DE}{D4}
+{ENDPAGE}{E9},{EB}{EOM}{F5}{DE}{DF},{D0}{D3}{DE}{D0}{E5}!{PAUSE}{EOM}
+
+Message 51:
+{FACE_030009}{EOM}{F4}{EOM}{F5}{EOM}{F4}{EOM}{F5},{E0}{D0}{D2}{EOM}{FE}{DE}{EA}{EB}{E4}{C9}{CB}
+{D2}{CD}{EOM}{FE}{E9}{EOM}{FE}{E2}{E5}{D1}{DE}{D0}{E5}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+{FACE_030009}
+{EOM}{CE}
+{1B}{DD},{EOM}{F4}{EOM}{F5}{EOM}{F4}{EOM}{F5},
+{D2}{CD}{EOM}{FE}{E9}{EOM}{FE}{E5}{D1}{DE}{D0}{E5}!{PAUSE}{EOM}
+
+Message 53:
+{D5}{D5}{D5}{DE}
+{04}
+{ENDPAGE}{D5}?{PAUSE}{EOM}
+
+Message 54:
+{D4}{D6}{D2},{EB}{EOM}{F5}{DE}{DC}{DF}
+{ENDPAGE}{EOM}{FA}
+{42}
+{43}
+{44}{EOM}{FF}{DE}{D0}{DF}{E9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+{FACE_03000A}{S_340184}{D0}{D0}{E5}{C9}{CA},{?_38CB}{CB}
+
+{45}
+{45}
+{ENDPAGE}{EOM}{FC}{CE}{ED}{D2}{EC}{DC}{D3}
+{07}{EC}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+
+{45}
+{45}{EOM}{FF},
+{?_3800}{EOM}{FB}{CE}{D1}{DD}{EOM}{FC}{CE}{ED}{D2}{EC},
+
+{46}
+{46}{DF}
+{ITEM_00FF},{D1}
+{0B}{CE}{EC}{EOM}{FE}{EF}{DE}{D0}{DF}{E9}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+{D4}{D3},{DOG}{CB}
+{E0}{DE}{D1}{EOM}{FF}
+{0D}{D0}{EC}{DE}{D0}?{PAUSE}{EOM}
+
+Message 58:
+{EOM}{FC}{CE}{ED}{D2}{D6}{D3},
+{1E}{D8}{D4}{D3}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 59:
+{D4}{D3},{NAME?}•••{CB}
+•••{EOM}{FC}{CE}{D6}{D1}{DE}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+{EOM}{FC}{CE}{ED}{D2}{D6}{D3},
+{1E}{D8}{D4}{D3}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 61:
+{FACE_030019}{D4}{D3},
+{PAUSE}{CE}{EOM}{FE}{DD}{D2}{D6}
+{04}{CB}
+{DB}{DB}{D1}{DE}{D0}
+{0A}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 62:
+{EB}{E4}{D0}
+{07}{EOM}{FB},{?_38E2}{E2}
+
+{47}
+{3B}
+{06}
+{48}{D8}{E9}{EOM}{FE}
+{49}{D0}{D1}{E6}{EC}{DA}{E5}{CB}{PAUSE}{EOM}{EOM}
+
+Message 63:
+
+{ENDPAGE}{E5}{CF}{DD}{CE}{EC}
+{E0}{D0}{D2}{D0}
+{4A}
+{46}
+{4B}{D8}
+{4C}{EOM}{F5}
+{0A}{EOM}{FE}{EF}{DA}{D1}{D3}
+
+{4D}{D1}{DA}{E5}♥{PAUSE}{EOM}
+
+Message 64:
+
+{47}
+{3B}
+{06}
+{48}{EOM}{FF}{EOM}{FC}{D0}{E7}
+{ENDPAGE}
+{4E}{EC}{DA}{CF}
+{EOM}{F7}{EOM}{F5}{DF}
+{4A}
+{46}
+{4B}{D8}{E4}
+{ORD_245}
+{0A}{D2}{CD}{E4}?
+
+{TATSUYA}{ITEM_0103}{D2}
+{0B}{D2}{CD}{E4}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 65:
+{EOM}{FC}{CE}{ED}{D2}{D6}{D3},
+{1E}{D8}{D4}{D3}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 66:
+{D4}{D3},{D1}{E5}{D0}{D0}{CB}
+
+{4F}{EOM}{FE}
+{PETE}{F7}{EOM}{FE}{DE}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+{ED}{EOM}{F5}{DE}
+{ENDPAGE}{EOM}{F7}{D0}
+{3D}{D0}{DF}{E2},
+{D4}{EOM}{F5}{DE}
+{47}
+{3B}
+{06}
+{48}
+{ENDPAGE}{DE}{DA}{DE}{EOM}{F5}{EC}{D5}{CB}
+
+{0D}
+{FACE_D00151}
+{FACER_00F6DD}{E9}{C9}{CA}{D5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+{EOM}{FC}{CE}{ED}{D2}{D6}{D3},
+{1E}{D8}{D4}{D3}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 69:
+{DE}
+{04}
+{ENDPAGE}?
+
+{53}-
+{53}-{CE}{EC},
+{DC}{EOM}{F5}{EOM}{FE}{D8}
+{19}{E5}{EF}{EC}{DA}
+{54}{D6}{D0}{EOM}{FC}{E5}{CB}{PAUSE}{EOM}{EOM}
+
+Message 70:
+{EOM}{FC}{CE}{ED}{D2}{D6}{D3},
+{1E}{D8}{D4}{D3}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 71:
+{DE}{EOM}{F5}{EOM}{FC}{D1}{D5}{CB}
+{ENDPAGE}{EOM}{FE}
+{55}{DE}{D0}
+{56}{C9}{CA}{D5}{CB}{PAUSE}{EOM}
+
+Message 72:
+{D4}{D3},{CC}{CE}{CC}{E8}{D0}
+{57}
+{58}
+{3C}{EA}{EOM}{F5}{CB}
+{EOM}{FF}
+{EOM}{EOM}{FE}
+{PETE}{F7}{EOM}{FE}{DE}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+{FACE_03000A}{S_340184}
+{59}
+{59}
+{59}♥
+{ED}{DF}
+{5A},
+{5B}{EOM}{F7}
+{5C}{E2}
+{5D}{E1}
+{5E}{DE}{DF}{E9}{C9}{CB}
+{EE}{D0}
+{5F}
+{0D}{CF}
+0{CE}{CC}{E8}{E4}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+{EOM}{FC}{CE}{ED}{D2}{D6}{D3},
+{1E}{D8}{D4}{D3}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 75:
+{D4}{D3},
+1{E7}{E8}{DE}{D0}{CB}
+{D0}{CE}{D6}{D0},{D7}{DF}
+1{D1}{D2}{D3}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+{D4}{D6}{D2},
+1{DF}
+{ITEM_00FF}{E9}{EOM}{FE}{EOM}{F3}{D1}{D3}{DE}{D0}{DF}{CB}
+{CF}
+{ENDPAGE}{D1}{EOM}{FE},
+{0B}{D0}{EC}
+{54}{D6}{D3}{EOM}{F1}{E4}{D1}{D2}{D3}?{PAUSE}{EOM}{EOM}
+
+Message 77:
+{D4}{D3},
+2
+3{E2}{CF}{EF}{D6}{DF}?
+{E0}{D0}{D2}{EB}{E4}{E7}{E8}{DE}{D0}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+{D9}{DD}
+{ENDPAGE}
+4{D1}{DE}{D0}{DE}{D3},
+5
+6{CC}{E8}{D0}
+{0B}{D2}{CD}{E4}{E9}{CB}{PAUSE}{EOM}
+
+Message 79:
+{EOM}{F1}{E4}
+7
+8{D2}{D6}{D3}{D0}{D0}{DF}{D1}{D2}{D3}?
+{NICKNAME}{DF}
+{5C}{E2},{EOM}{FE}{E5}{D2}{EB}{E4}{C9}♥{PAUSE}{EOM}{EOM}{EOM}
+
+Message 80:
+{D4}{D3},{E0}{D0}{D2}{EB}{E4}{DE}
+{44}
+{3C}
+9{C9}{CB}
+{D2}{EOM}{FB}{DD}{D6}{EC}{DE}{DF}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+
+{44}
+{3C}
+9{EOM}{FF}
+{43}
+-{DF}
+1
+A
+{EOM}
+{4E}{EC}
+{5C}
+{ENDPAGE}{E9}{CE}{EC}
+
+B{E2}{CC}{E2}{E4}{EOM}{F5}
+{0A}{D2}{CD}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+{D4}{D6}{D2}{EOM}{FF},{D4}
+{0B}{EOM}{FE}{EC}{ED}{D0}
+{44}
+{3C}
+9{E2}
+C{EOM}{F7}{EOM}{FC}{E5}♪{PAUSE}{EOM}{EOM}
+
+Message 83:
+{ED}
+D{EA}{DE}{D0}{E9}{E4}
+{ENDPAGE}
+{0E}{D8}{DB}{E6}{EC}{CB}{PAUSE}{EOM}{EOM}
+
+Message 84:
+{D4}{D3},{E0}{D0}{D2}{EB}{E4}{DE}
+E-
+F{C9}{CB}
+{NICKNAME}{E2}
+2{CE}{D6}{DF}{C9}?{PAUSE}{EOM}
+
+Message 85:
+{EB}{DF}
+E-
+F{CB}{D9}{DD}
+{ENDPAGE}
+4{D1}{DE}{D0}{DE}{D3}
+{D0}{CE}{D2}{CD}
+{ENDPAGE}
+5
+6
+{0B}{D2}{CD}{E4}{E9}!
+{CC}{E8}{EOM}{F5}{CF}{D0}{D0}
+{44}
+{3C}
+9
+{0A}
+2{CE}{D6}?{PAUSE}{EOM}
+
+Message 86:
+
+E-
+F{DE}{D3}
+G
+{SKIP}
+{0A}{DC}
+5
+6{D6}{D0}{E5}{CB}
+{EOM}{F1}{EOM}{F5}{EOM}{F1}{EOM}{F5}
+2{CE}{EC}{C9}♥{PAUSE}{EOM}{EOM}
+
+Message 87:
+{D4}{D3},{E0}{D0}{D2}{EB}{E4}{DE}
+{CHOICE Y/N DEF1}{4A}-{C9}{CB}
+{NICKNAME}{E2}
+2{CE}{D6}{DF}{C9}?{PAUSE}{EOM}
+
+Message 88:
+{EB}{DF}
+{CHOICE Y/N DEF1}{4A}-{CB}{D9}{DD}
+{ENDPAGE}
+4{D1}{DE}{D0}{DE}{D3}
+
+{45}
+H
+{ENDPAGE}{D6}{CE}
+I{DD}
+J{CE}{EC}
+5
+6{D6}{D0}{E5}!
+{CC}{E8}{EOM}{F5}{CF}{D0}{D0}
+{44}
+{3C}
+9
+{0A}
+2{CE}{D6}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+
+{CHOICE Y/N DEF1}{4A}-{DE}{D3}
+G
+{SKIP}
+{0A}{DC}
+5
+6{D6}{D0}{E5}{CB}
+{EOM}{F1}{EOM}{F5}{EOM}{F1}{EOM}{F5}
+2{CE}{EC}{C9}♥{PAUSE}{EOM}{EOM}
+
+Message 90:
+{EB}{EF}{CE}{EC},
+{47}
+{3B}
+{06}
+{48}{DF}
+{4A}
+{46}
+{4B}{DE}{DF}?
+{D5}
+5
+6{CC}{E8}{E4}{DF}{D1}{D2}{D3}?{PAUSE}{EOM}{EOM}
+
+Message 91:
+
+{58}
+K
+{5A}
+{ENDPAGE}{D2}{D6}{CE}{EC},
+L
+M
+N
+O
+{ENDPAGE}{D2}{D6}{CE}{EC}{D5}
+
+{TATSUYA}{0D}{EOM}{F7}{EOM}{FC}{E5}{CB}
+{EOM}{F7}{D0}
+{3D}{EOM}{FE}{EC}
+{1F}{E5}
+{1F}{E5}{EOM}{FC}{D2}{D5}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+
+{07}?
+{EB}{DF}
+P{D5}{DC}{D2}{D1}{D2}{EC}
+5
+6{DA}{DF}?{PAUSE}{EOM}{EOM}
+
+Message 93:
+{EA}{EOM}{FB}{EOM}{FE}{DE}{D3}
+{C12}{EOM}{F3}
+{0A}{D2}{EC}{C9}{D5}{CB}{PAUSE}{EOM}
+
+Message 94:
+{FACE_030009}
+{C13},
+Q{E2}{D4}{CE}{CC}{E8}{CE}{D6}{E5}!
+{EB}{DF},
+P{CF}{E9}!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 95:
+{D7}{D1}{D2}{D3},{EB}{DF}
+9
+{C10}{CB}
+{D4}{D4},
+R
+S{C9}!
+{D5}
+{EOM}{CE}
+{1B}{DD},
+R
+{0A}{CF}{CE}{EC}{EOM}{F7}{D6}{DF}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+
+R
+S{CE}{EC},
+T
+{3C}
+--
+{0A}{D0}{D0}{DF}{E9}{C9}{CB}{PAUSE}{EOM}
+
+Message 97:
+{D4}{D3},{E0}{D0}{D2}{EB}{E4}{DE}
+7
+8{C9}{CB}
+{E0}{D0}{D2}{EOM}{FE}
+{5F}
+U{EC}{D0}{DA}{D1}{D2}{D3}?
+{CHOICE2 DEF0}
+
+5
+6{EC}
+{54}{EC}
+{EB}{E4}
+{0A}{D2}{CD}{E4}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+{FACE_03000A}{EOM}{F7}{E8}{D4},
+
+
+ 
+{ENDPAGE}?
+{NICKNAME}{CF}{E6}{CE}{ED}{EOM}{F5}{D2}{EC}
+{E9}{D1}{CE}{D6}{E5}♥{PAUSE}{EOM}{EOM}
+
+Message 99:
+{FACE_030004}{DE}
+{04}
+{ENDPAGE}?
+
+{5D}{E1}
+{0A}
+5
+6{CC}{E8}{E4}{DF}?
+V
+H!{PAUSE}{EOM}
+
+Message 100:
+{E0}{D0}{D2}{EB}{E4}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 101:
+{D5}{D5}{D5}{D5}{D5}{D5}
+9
+{3B}{E9}{C9}{CB}
+{EOM}{F1}{ED}{D1}
+W
+{0D}{DF}{D5}?{PAUSE}{EOM}{EOM}
+
+Message 102:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+W{D2}{EC}{EOM}{F7}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 103:
+{D5}{D5}{D5}{D5}{D5}{D5}
+9
+{3B}{E9}{C9}{CB}
+{EOM}{F1}{ED}{D1}
+W
+{0D}{DF}{D5}?{PAUSE}{EOM}{EOM}
+
+Message 104:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+W{D2}{EC}{EOM}{F7}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 105:
+
+{GOLD_CACA},
+X{D2}{D0}
+9
+{3B}{DE}{DF}{CB}
+{E9}{D1}{CE}{D6}{E5}{C9}{CA}{CB}{PAUSE}{EOM}{EOM}
+
+Message 106:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+W{D2}{EC}{EOM}{F7}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 107:
+{D5}{D5}{D5}{D5}{D5}{D5}
+9
+{3B}{E9}{C9}{CB}
+{EOM}{F1}{ED}{D1}
+W
+{0D}{DF}{D5}?{PAUSE}{EOM}{EOM}
+
+Message 108:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+W{D2}{EC}{EOM}{F7}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 109:
+{DE}
+{04}
+{ENDPAGE}?
+
+X{D2}{D0}
+9
+{3B}{E2},
+{3E}{D2}{D0}{DF}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+W{D2}{EC}{EOM}{F7}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 111:
+{D5}{D5}{D5}{D5}{D5}{D5}
+{CHOICE1 DEF70}
+{E9}{C9}{CB}
+{D7}{D1}{D5}
+Y{DA}{DF}{D1}{D2}{D3}{D5}?{PAUSE}{EOM}
+
+Message 112:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+Y{CE}{EC}{EOM}{F7}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 113:
+{D5}{D5}{D5}{D5}{D5}{D5}
+{CHOICE1 DEF70}
+{E9}{C9}{CB}
+{D7}{D1}{D5}
+Y{DA}{DF}{D1}{D2}{D3}{D5}?{PAUSE}{EOM}
+
+Message 114:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+Y{CE}{EC}{EOM}{F7}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 115:
+
+{GOLD_CACA},
+X{D2}{D0}
+{CHOICE1 DEF70}
+{DE}{DF}{CB}
+{E9}{D1}{CE}{D6}{E5}{C9}{CA}{CB}{PAUSE}{EOM}{EOM}
+
+Message 116:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+Y{CE}{EC}{EOM}{F7}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 117:
+{D5}{D5}{D5}{D5}{D5}{D5}
+{CHOICE1 DEF70}
+{E9}{C9}{CB}
+{D7}{D1}{D5}
+Y{DA}{DF}{D1}{D2}{D3}{D5}?{PAUSE}{EOM}
+
+Message 118:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+Y{CE}{EC}{EOM}{F7}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 119:
+{DE}
+{04}
+{ENDPAGE}?
+
+X{D2}{D0}
+{CHOICE1 DEF70}
+{E2},
+{3E}{D2}{D0}{DF}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+Y{CE}{EC}{EOM}{F7}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 121:
+{D5}{D5}{D5}{D5}{D5}{D5}
+{3A}
+{42}
+{43}
+Z{E9}{C9}{CB}
+{D4}{D4},{E0}
++{D8}{D4}{EOM}{F0}{DA}{DF}{C9}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},{E0}
++{D4}{EOM}{F0}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 123:
+{D4}{D3},
+X{D2}{D0}
+{3A}
+{42}
+{43}
+Z{DE}{DF}{CB}
+{E9}{D1}{CE}{D6}{E5}{C9}{CA}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},{E0}
++{D4}{EOM}{F0}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 125:
+{D5}{D5}{D5}{D5}{D5}{D5}
+{3A}
+{42}
+{43}
+Z{E9}{C9}{CB}
+{D4}{D4},{E0}
++{D8}{D4}{EOM}{F0}{DA}{DF}{C9}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},{E0}
++{D4}{EOM}{F0}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 127:
+{DE}
+{04}
+{ENDPAGE}?
+
+X{D2}{D0}
+{3A}
+{42}
+{43}
+Z{E2}
+{3E}{D2}{D0}{DF}{D5}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},{E0}
++{D4}{EOM}{F0}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 129:
+{D4}{D3},
+X{D2}{D0}
+×{DF}
+.{D2}
+D{DD}{DE}{DF}{C9}{CB}
+{S_340184}{E9}{D1}{CE}{D6}{E5}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+{D6}{EOM}{FE}{EA}{EOM}{F5},{D0}{D0}
+{44}
+{3C}
+9{E2}
+{5F}{DA}{CF}{D0}{D0}{E5}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 131:
+{D4}{D3},
+×{DF}
+.{D2}
+D{DD}{C9}{CB}
+{DE}{EOM}{F5}{EOM}{FC}{D1},{D0}{D6}{EB}{E4}{E9}{C9}{CA}{D5}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+{D6}{EOM}{FE}{EA}{EOM}{F5},{D0}{D0}
+{44}
+{3C}
+9{E2}
+{5F}{DA}{CF}{D0}{D0}{E5}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 133:
+
+○{D0}
+{5C}{EOM}{FF}{E9}{EOM}{FE}
+?{D3}{DE}{D0}{E6}{EOM}{F1},
+
+{EOM}{EA}{D2}{EOM}{FE},{D2}
+D{CE}{EC}{D4}{EOM}{F0}{EC}{C9}{CB}{PAUSE}{EOM}
+
+Message 134:
+
+X{D2}{D0}
+.{D2}
+D{DD}{E2}
+{3E}{D2}{D0}{DF}?
+{D5}{EB}{E4}{E9}{C9},{ED}{EF}{EOM}{FC}{CF}
+{43}
+-{DC}{D1}{E5}{D0}{EB}{E4}{E9}{C9}{CB}{PAUSE}{EOM}
+
+Message 135:
+{D6}{EOM}{FE}{EA}{EOM}{F5},{D0}{D0}
+{44}
+{3C}
+9{E2}
+{5F}{DA}{CF}{D0}{D0}{E5}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 136:
+{D4}{D3},
+{CHOICE Y/N DEF1}{48}
+{CHOICE1 DEF114}
+{EOM}{FC}{E5}{CB}
+
+{0D}
+{FACE_D0E5BF}
+{1E}
+{0A}
+Y{DA}{EOM}{FC}{DE}{EOM}{F5}{EC}{CB}{PAUSE}{EOM}{EOM}
+
+Message 137:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+{58}
+O
+{3A}{DF}
+!{D8}{D1}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+{D4}{D6}{D3}{D2}{D0}
+{CHOICE Y/N DEF1}{48}
+{CHOICE1 DEF114}
+{C9}{CB}
+
+{58}
+O
+{3A}{DC}{E4}{EF}{D2}{D0}{E5}{C9}{CB}{PAUSE}{EOM}
+
+Message 139:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+{58}
+O
+{3A}{DF}
+!{D8}{D1}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+{D4}{D3},
+{CHOICE Y/N DEF1}{48}
+{CHOICE1 DEF114}
+{C9}{CB}
+
+{58}
+O
+{3A}{DF}
+!{D8}
+Y{DA}{DF}{C9}{CB}{PAUSE}{EOM}
+
+Message 141:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+{58}
+O
+{3A}{DF}
+!{D8}{D1}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+{D4}{D6}{D3}{D2}{D0}
+{CHOICE Y/N DEF1}{48}
+{CHOICE1 DEF114}
+{E2}
+{3E}{D2}{D0}{DF}?
+{D4}{D3},{EB}{DF}
+{5C}{E2}
+○{D0}
+{EOM}
+{0D}{D0}{DF}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 143:
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},
+{58}
+O
+{3A}{DF}
+!{D8}{D1}{CE}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+
+X{D2}{D0}
+●
+♂{D8}{E3}{CE}{D6}{DF}{CB}
+{E9}{D1}{CE}{D6}{E5}{C9}{CB}{PAUSE}{EOM}
+
+Message 145:
+{EB}{EF}{E7}{E8}{D4},{E0}
+{FARM}
+{ITEM_BFE2}{EOM}{F5}{EOM}{FB}{CE}{EC}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 146:
+{DE}
+{04}
+{ENDPAGE}?
+{NICKNAME}
+{ENDPAGE}{CF}{CE}{EC}{EOM}{FF}
+{EOM}{F8}{EOM}{F9}{EOM}{FA}{DE}
+{STRUC_1}{PH_DEDF}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 147:
+{FACE_030009}{D5}{D5}{D5}{D5}{D5}{D5}
+{FACE_015500}{F5}{DE}{EA}{D0}{CB}
+{E9}{EA}{E2}{EOM}{F3}{D1}{D3}{DE}{D0}{E5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+{FACE_030009}{E4}{D5}{CB}
+{DE}{EOM}{F5}{EOM}{FC}{D1},{CF}{CE}{EC}{DC}{EOM}{FA}
+{4A}{DE}{D0}{E5}{C9}{CA}{CB}{PAUSE}{EOM}{EOM}
+
+Message 149:
+{D5}{D5}{D5}{E2}{EOM}{F5}{EOM}{FB}{CE}{EC},{E0}
+{FARM}
+{ITEM_D2EC}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 150:
+{FACE_03000A}{D4}{D3}!
+{EOM}{F8}{EOM}{F9}{EOM}{FA}{DE}
+♀♥
+{EOM}{F1}{ED}{D1}
+{0A}{E3}{CE}{D6}{DF}?{PAUSE}{EOM}
+
+Message 151:
+
+{07}
+{07}?
+
+{C12}{EOM}{F3}
+{0A}
+{08}{DB}{E6}{D6}{DF}?
+
+{0B}{EOM}{FC},{D6}{EOM}{FE}{EA}{EOM}{F5}{D4}{DA}{DF}{D1}{D2}{D3}{D5}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+{EB}{DF}
+♀,{D1}
+•{CE}{EC}{E0}{D0}{EC}{DC}{EOM}{F8}{EOM}{F9}{EOM}{FA}{C9}{CB}{PAUSE}{EOM}
+
+Message 153:
+{EB}{DF}
+♀,
+-{EOM}{FE}{D9}{EF}{DA}{D1}{D2}{D3}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+{EOM}{F7}{E8}{CB}{D5}{D7}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 155:
+{D7}{D1},
+-{D0}{DC}{DF}{DE}{DF}{D5}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+{ED}{DF}{D4}{D6}{DD}{DF}
+&
+/
+{ENDPAGE}{EOM}{FF}
+{1F}{D2}
+♪{DE}{ED}{E4}{D1}{D8}
+
+★{DB}{DC}{DF}{E2}{D4}{DA}{D3}{D2}{D0}{E5}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 157:
+{ED}{DF}{D4}{D6}{DD}
+{0A}{CF}{EF}{D6}
+&
+/{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 158:
+{FACE_03000A}{S_340184}{D4}{D3},
+N
+{5A}-
+☆{E7}{E8}{DE}{D0}{CB}
+{EOM}{F8}{EOM}{F9}{EOM}{FA}!{PAUSE}{EOM}
+
+Message 159:
+
+{PH_0148}{DF}{D0}{D0}
+♥{D1}{D2}{D3}{CB}
+{E0}{EOM}{F1}{EF}{DA}{DF}{E7}{E8}{DE}{EOM}{F7}{E8}
+{VAR_01}{WIPE}{E9}♪{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+{DE}
+{ENDPAGE}{D1}{DF}
+%
+B
+7{DE}{DF}?
+{RUBY}{EA}{EOM}{F5}{D1}{D3}{DC}{D3}{CE}{D6}{DF}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 161:
+{ED}{EF}{D8}
+○
+{07}{EOM}{FB},{RUBY}{EA}{EOM}{F5}{CF}
+a{E7}{EOM}{FE}{D3}{D0}
+{E0}{D0}{D2}{D0}
+{FACE_00FF00}{F5}{E2}
+{5F}
+U{DA}{D1}{DC}{CB}
+{EOM}{F7}{D6}{D0}{D2}{EC}{DA}{E5}♥{PAUSE}{EOM}{EOM}
+
+Message 162:
+{EB}{EF}{D5}{D5}{D5}{D6}{D2}{D1}{EOM}{F8}
+{57}
+{48}-{EA}{EOM}{F5}{E2}
+
+★{CE}{EC}{D6}
+{WIPE}
+{VAR_01}{3C}{E9}{C9}{CB}{PAUSE}{EOM}
+
+Message 163:
+{EOM}{F7}{EF}{D0}{DE}
+{WIPE}
+{VAR_01}{3C}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 164:
+{D1}{E5}{CE}{D6}
+b{D1}
+•{DD}{C9}{CB}
+
+{0A}{DC},{D9}{CE}{D6}{D3}
+-{D0}{D1}{DC}{D2}{EF}{DE}{D0}{E5}{E9}{C9}{CB}{PAUSE}{EOM}
+
+Message 165:
+
+{TATSUYA}{ITEM_0103}{D2}{EC}{E0}{EOM}{FE}{CF}{D0}{D0}{E5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+{D4}{D3},{EB}{EF},{D7}{DF}
+♥{DE}{DF}?{PAUSE}{EOM}{EOM}
+
+Message 167:
+{NICKNAME},{D7}{D1},
+c
+d{D8}
+
+{07}{EOM}{F5}{EB}{E4}
+{0A}{EOM}{F7}{DA}{DF}?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 168:
+{D4}{D3},
+e
+f?
+
+{0D}
+{FACE_D0E5C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 169:
+{FACE_030009}{DE}{EOM}{F5}{EOM}{FC}{D1},{ED}{E5}{D0}{E5}-{CB}
+
+{CHOICE Y/N DEF1}9
+{Title_121}{DE}{EOM}{F5}{D1}{D2}{D6}{DD}{D2}{DE}{D0}?{PAUSE}{EOM}{EOM}
+
+Message 170:
+{EB}{EF},{EOM}{F1}{E4}
+{0D}{DA}{DF}?{EOM}
+
+Message 171:
+{FACE_030009}{D4}{D6}{D2},
+g{EA}{D0}{ED}
+{3D}
+{ENDPAGE}
+h{CF}{EOM}{FF}{DE}{EF}{D6}{D1}{D3}
+{D0}{DB}{DC},
+{CHAR_E1}{DF}
+{56}
+i{D8}{E4}{D1}{E2}{CE}{EC}{D0}{D6}{E5}{CB}
+{DB}
+{0B}{D3}{DE}{D0}
+{C16}
+{C17}{EOM}{FC}{CE}{D6}{CB}{PAUSE}{EOM}
+
+Message 172:
+{?_38D8}{D8}
+{08}{EC}{D0}{EC}
+{EE}{D0}
+{5F}{D2}{D6}{DF}{CB}
+{D4}{DF}
+{5A}{E2}{EB}{E4}
+{0A}{DE}{EOM}{FE}{EC}{E9}{D1}{CE}{D6}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 173:
+
+j
+3{CE}{EC}
+c
+{0A}{D0}{D0}{E5}{E9}{C9}{CB}
+{E1}{CF}{CC}{E2}{CE}{EC},{EE}{CE}{EC}{D0}{DA}{ED}{CF}{CF}
+{CC}{E2}{E4}{ED}{CF}{D8}
+{19}{CE}{D6}{DD}{D2}{DE}{D0}{DC}{DF}{CB}{PAUSE}{EOM}
+
+Message 174:
+{D4}{D6}{D2},{C14}{STRUC_31}{C17}
+{ENDPAGE}{D0}{D6}{ED}
+{3D}
+{ENDPAGE}
+{EOM}{FE}{D3}
+6{DA}{CF},
+
+k{D0}{EOM}{F6}{EOM}{F5}{EOM}{F8}{EOM}{F9}{EOM}{FA}{DE}
+l
+m{D8}
+n{CE}{EC}{D0}{DA}{E5}{CB}{PAUSE}{EOM}
+
+Message 175:
+{D4}{D6}{D2},{C14}{STRUC_30}{C17}{EOM}{FF},
+{DC}{CE}{CF}{ED}{DF}
+o{DF}
+p{EC}{DF}{E9}{E4}{DE}{CF}{ED}
+{3D}{EOM}{FC}{CF}
+{EOM}{F7}{D0}{EC}
+{EOM}{CE}{EC}
+U{D6}{DF}{CB}{PAUSE}{WIPE}
+{EB}{EF}{EOM}{FE}{D3}{D0}
+q{D0}
+{0E}
+★{CC}{EOM}{FC}{CE}{D6}{DF}{E9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 176:
+{C14}{STRUC_30}{C17}{EOM}{FF},
+{C12}{EOM}{F3}{D8}
+★{CE}{EC}
+
+c{D2}{EOM}{FE}
+{EOM}{CE}{EC}{D0}{DA}{E1}{D6}{CC}{E2}
+r{D0}
+{0A}{D2}{CD}{E4}?{PAUSE}{WIPE}
+{EB}{E4}{EE}{CE}{D6}{D3},
+{D6}{EOM}{FC},{ED}{ED}
+{GOLD_0103}{EOM}{F0}{EC}{EOM}{F7}{D6}{EOM}{FC}{E6}{DF}
+
+{C12}{EOM}{F3}{E2}
+{C11}
+s
+{ENDPAGE}{DE}{CE}{D6}{E5}{CB}{PAUSE}{EOM}{EOM}
+
+Message 177:
+{FACE_03000A}{NICKNAME}{E2}
+2{CE}{D6}
+7
+8,
+{CF}{CE}{EC}{DC},{E0}{D0}{D2}{D1}{CE}{D6}{E5}{CB}{PAUSE}{WIPE}
+{S_340184}
+t{DF}
+C
+{54}{D8}{E9}{EOM}{FE}
+?{CE}{EC}{D0}{DA}{DF}{C9}♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+{FACE_03000A}{NICKNAME}{E2}
+
+V
+N
+u
+H
+{06}{D2}{EC}{EOM}{FE}{EF}{D6}{E0}
+7
+8,
+5
+6{D6}{E5}{E9}{CB}
+
+{FACE_CCEBE4}{EA}
+{0B}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+{FACE_03000A}{NICKNAME}{CE}{EC}
+{0D}
+{FACE_D0E5E9}{C9}{CA}{D5}{CB}
+{DC}{E4},{DD}{CE}
+{1B}{DE}
+v
+w
+x{EOM}{FC}{CE}{EC},
+
+{54}{EOM}{F5}{DE}{E2}
+{19}{CE}{EC}{DA}{E5}{E9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 180:
+{FACE_03000A}{NICKNAME}{CE}{EC}
+{0D}
+{FACE_D0E5E9}{C9}{CA}{D5}{CB}{PAUSE}{WIPE}
+{C14}{FARM}{C17}{DF}
+2
+3{EOM}{FF},
+{CF}{CE}{EC}{DC}{D0}{D0}
+{5F}
+U{EOM}{FC}{CE}{EC},
+
+{54}{EOM}{F5}{DE}{E2}
+{19}{CE}{EC}{DA}{E5}{E9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+{FACE_03000A}{NICKNAME}{DF}
+2{DA}
+7
+8{CE}{EC}
+
+
+
+ 
+{ENDPAGE}{E0}{D0}{D2}{D0}{E5}♥
+{E0}
+y{E2}
+{5F}
+{09}{DA}{E5}{C9}!{PAUSE}{EOM}{EOM}
+
+Message 182:
+{EA}{D0}{D2}{CD}{EOM}{FF},{ED}{EOM}{F5}{DE}{E1}
+{ENDPAGE}
+v
+w{DE}{EOM}{F5}{EC}
+
+{5F}
+U{DA}{DF}{D1}{CF}{EE}{CE}{EC}{D0}{D6}{E6}{EOM}{F1}{D5}{CB}
+{NICKNAME},{E2}{EOM}{F5}{EOM}{FB}{CE}{EC}{DA}{E5}{E9}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 183:
+
+2
+3,{E9}{EOM}{FE}
+{4E}{CE}{EC}{D0}{DA}{E5}{C9}{CB}
+{NICKNAME}{CE}{EC},
+2
+3{D8}
+{4E}{EC}{DA}{DF}{E2}
+
+C{EOM}{F7}{DE}{DF}{C9}{CB}{PAUSE}{EOM}
+
+Message 184:
+{D4}{D6}{D2}{E9}{DD},{NICKNAME}{DF}
+{5C}{E2}
+{E0}
+7
+8
+z
+{1E}{E9}{C9}{CB}
+{D5}{D5}{D5}{D5}{E2}{EOM}{F5}{EOM}{FB}{D3}{DE}{D0}{CF},
+{VAR_01}{WIPE}{E9}{C9}{CA}{D5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 185:
+{C9}{CA},{DC}{E4}{CC}{CD}{CE}{CF}
+{4A}
+{46}
+{4B}
+{EOM}
+{44}
+{3C}
+9{DF}
+{5C}{DC}
+{E2}{EOM}{F5}{EOM}{FB}{CE}{D6}
+{3E}{E4}{E2}{EOM}{F2}{D0}{EOM}{F5}{E7}{E8}{DE}{D0}{D1}{D2}{D3}{CB}
+{D4}{D6}{D2},{DC}{CE}{CF},{E0}{D0}{D2}{D0}{DF}{E2}
+5
+6{D6}{D0}{E5}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+{C9}{CA},{DC}{E4}{CC}{CD}{CE}{CF},
+2
+3{D8}
+{4E}{EC}{DA}{DF}{D8}
+{E2}{EOM}{F5}{EOM}{FB}{CE}{EC}
+{54}{DE}{D0}?
+{D5}{DE}{EOM}{F5}{CF}{DE}{EOM}{FE},{EB}{E4}{EE}{CE}{D6}{DF}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+{D4}-,{E0}{D0}{D2}{D0}
+7
+8{E2}
+5
+6{D6}{D0}{E5}-{CB}
+{C9}{CA},{D4}{DE}{D6}{CB}
+{D5}{DC}{CE}{CF},{E0}
+7
+8
+'
+<{D2}{EC}{EOM}{FE}{EF}{DA}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+OL
+{C16}
+{C17}{EOM}{FF}{ED}{EOM}{F5}{DE}
+l
+m,
+>
+{07}{DC}{D2}{DE}{D1}{CE}{D6}{E5}{CB}{PAUSE}{EOM}{EOM}
+
+Message 189:
+{ED}{CE}{CC}
+{GOLD_017F}{EC},{NICKNAME}{CF}
+({CE}{EC}{D1}{D3}{EOM}{FF}
+
+k{CE}{CF},{ED}{EOM}{F5}{DE}
+l
+m
+>
+{07}{EC}{D0}{D6}{E6}{EOM}{F1}♥{PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+{FACE_030019}{C14}{STRUC_30}{C17}
+{GOLD_017F}{EC}{D1}{D3}{DC}
+{EB}{E4}{EOM}{FC}{CE}{D6}{E6}{EOM}{F1}{D5}{CB}
+
+k{CE}{CF},{EA}
+{54}{D2}{D1}{CE}{D6}{DC}{DF}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 191:
+{FACE_030019}
+{C12}{EOM}{F3}{E2}{EOM}{FC}{EF}{D1}{CF}{E6}{CE}{ED}{EOM}{F5}
+{0D}{DA}{ED}{CF}{EA}
+{07}
+{DE}{EOM}{F4}{EOM}{FC}{D1}{D4}{EOM}{F7}{D3}
+{55}{EC}{D0}{D6}{DF}{D5}{CB}{PAUSE}{EOM}
+
+Message 192:
+{FACE_030019}
+{C13}{DF}
+l
+m
+{ENDPAGE},
+{59}
+{46}
+H{EOM}{FF}{DE}{D0}{EOM}{F5}{EOM}{FC}{E6}{EOM}{F1}{D5}{CB}
+{DE}{EOM}{F5}{EOM}{FC}{D1}
+-
+){EOM}{FA}{E2}
+｢{DD}{DE}{D0}{DF}{E9}{C9}{D5}{CB}{PAUSE}{EOM}{EOM}
+
+Message 193:
+{FACE_030019}
+{C13}{DF}
+l
+m
+{ENDPAGE}
+{59}
+{46}
+H{E2}{D4}{DA}{E5}{E6}{E7}{E8}{DE}{D0}{DF}{E9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+{FACE_030019}{EOM}{F7}{EB}{EOM}{FE}
+｣{D2}{D0}
+l
+m{CE}{EC},{E6}{CE}{ED}{E4}
+
+{TATSUYA}{51}{E9}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+{ED}{ED}
+{ENDPAGE}{D0}{DA}{CF}
+~{CC}
+✽{EOM}{FE}{EOM}{F5}{?_38CB}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+{?_38DC}{DC}{ED}{ED}{E2}
+{0E}
+{ENDPAGE}
+“{CE}{EC}{DA}
+
+{54}{D6}{D0}{?_38C9}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 197:
+{D4}{CE}{D6}{D1}{EOM}{FE}{DE}{CE}{EC}{EOM}{F7}{D6}{E5}{C9}{CA}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+{EB}{ED}{D3}
+{P_330103}
+M
+-{E2}
+{5F}{EC}{EOM}{F7}{D6}{E5}{D5}{CB}
+
+{0B}{D0}{CE}{CC}{E8}{E4}{CB}{PAUSE}{EOM}
+
+Message 199:
+
+k{CE}{CF},{ED}{EOM}{F5}{DE}{EOM}{FC}{CE}{D6}{D3}{EOM}{F2}{D0}{DF}
+{ENDPAGE}{CB}{PAUSE}{EOM}{EOM}
+
+Message 200:
+{EOM}{FF}
+{04},
+
+
+ 
+{ENDPAGE}{D4}{DB}{D0}{E5}{E9}{C9}{CA}{CB}
+{D7}{DC}
+{0D}{DA}
+{0E}{E2}{DE}{EOM}{FE}{DE}{CE}{CC}{E8}{E4}{CB}{PAUSE}{EOM}{EOM}
+
+Message 201:
+
+{WIPE}
+{C11}
+9{E2}
+{0D}
+”
+{ENDPAGE}{EOM}{FE}
+k{EF}{EC}{EOM}{F7}{CC}{E8}{E4}{CB}{PAUSE}{EOM}{EOM}
+
+Message 202:
+
+{0E}{D8}
+_{E6}{DE}{D0}{CF}
+{Title_41}{E2}
+{EOM}{E6}{CC}{E8}{E4}{CB}{PAUSE}{EOM}{EOM}
+
+Message 203:
+{D7}{DC}
+5
+6{DA}
+{0E}{E2}{D2}{DE}{D0}{E5}
+{04}{CB}
+
+{0A}{DC}{EOM}{F1}{E4}{D2}{EC}
+{EOM}
+{09}{DE}{D0}{DF}{D1}{D2}{D3}?{PAUSE}{EOM}{EOM}
+
+Message 204:
+
+{0D}
+{FACE_D20100}
+{0D}{EOM}{FE}{DE}{CE}{EC}{EOM}{F7}{D6}{E5}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 205:
+{DE}{EOM}{F5}{EOM}{FC}{D1},
+-
+c{E2}
+{3E}{D2}{EOM}{FE}{DE}{DA}{E5}{C9}{CB}
+{GRIFFIN}{DF}
+=
+{4A}-
+{0A}{DC}
+{EOM}{F7}{EOM}{F7}
+{ENDPAGE}{D0}{ED}{E4}{D1}{D2}{D3}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+
+{FACE_00FF00}{F5}{DC}{E0}{D0}{D2}{EOM}{FE}{DE}{DA}{D2}{D5}{CB}
+{CC}{CD}{CE}{CF},
+{43}
+,{EOM}{F8}
+{06}{E2}
+{0E}
+{ENDPAGE}{DE}{CE}{EC}{EOM}{F7}{D6}{E5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 207:
+{?_38E2}{E2},
+:
+{0A}{D0}
+{3D}{D0}
+{3D}{DE}{DC}{DF}{D8}
+
+α
+{3D}{CE}{EC}
+{08}
+{09}{EC}{EOM}{FE}{EF}{DA}{DF}{E9}{CB}
+{D1}{E5}{D0}{D0}{E5}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 208:
+{FACE_030002}{EOM}{FF}
+{04}-{CB}{EA}
+{ORD_229}
+{04}{CB}
+{D4}{D6}{D2},{EA}
+{ORD_223}{CE}{EC}
+θ
+H
+{?_1806}{06}
+{ENDPAGE}
+
+{ENDPAGE}{E2}{EC}{DE}{DF}{E9}{C9}{CA}{D5}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 209:
+{FACE_030002}{EOM}{FA}
+{?_186F}E
+H{DC}
+{D0}{DB}{EOM}{FC}{CE}{EC}{E0}
+{NICKNAME}{E2}
+{5F}{EF}{EOM}{FB}{D0}{D0}{DF}
+{ENDPAGE}{D5}!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 210:
+{EA}{D0}{EOM}{F7}{EOM}{F5},
+｢
+ψ{E2}{CF}{CE}{EC}{DC}
+α
+{07}{DA}{DF}{CB}
+{E5}{D1}{D0}{ED}
+{3D}{EOM}{FF}{ED}{EOM}{F5}{DE}{ED}{CF}{CE}{EC}
+{DE}{D1}{CE}{D6}{DF}
+{ENDPAGE}{D5}{CB}{PAUSE}{EOM}
+
+Message 211:
+
+Α
+Θ
+{ENDPAGE}
+Ψ{D6}{DE}{D0}
+{5C}{E2}{EOM}{F2}{D0}{DF}{D1}{DC}{D5}{CB}{PAUSE}{EOM}
+
+Message 212:
+{FACE_030019}
+X{D2}{D0}{E0}
+β,{E3}{CE}{EC}{E0}{EOM}{FE}{E5}{C9}{D5}{CB}{PAUSE}{EOM}
+
+Message 213:
+{E0}
+‾
+{C9}{E2}{CC}{D3}{D1}{CE}{EC}{DE}{D0}{D1},
+
+{08}
+{ENDPAGE}
+U{D6}{DF}{E9}{CB}{PAUSE}{EOM}
+
+Message 214:
+{?_38DF}{DF}
+{ITEM_BF2D}{DC}{CC}{E8}{EOM}{F5}{CF}
+
+{08}{EC}{D4}{EOM}{F0}{EC}{D0}{EC}{C9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 215:
+{?_38BF},
+C{EOM}{F7}{DE}
+{5A}{CF}{D1}{D0}{DA}{DF}{D1}{D2}{D3}{CB}
+{D4}{D4},{ED}{ED}{E7}{E8}{D4}{D5}{D0}{DA}{E5}{E6}{DE}{D0}{E5}{E9}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 216:
+{ED}{DF}
+{CA}{DF}
+{CB}{DF}
+{CC}{CE}{EC},
+{EOM}{F1}{EOM}{F5}{DE}
+{ITEM_0103}{EOM}{FA}
+{42}
+{43}
+{44}{E2}{D4}{DA}{DF}{D1}{D2}{D3}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+{FACE_03001A}{D4}{D4},{NICKNAME}{CB}
+{S_340184}
+{59}
+{59}♥
+{CC}{CD}{CE}{CF},{EOM}{F7}
+{CD}{E4}{E6}{D0}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 218:
+{C14}{STRUC_31}{C17}
+{0A}{E3}{CE}{D6}
+
+{D8}
+{E9}{EOM}{F5}
+{0A}{D6}{DF}{CB}
+{D5}{D5}{D5}
+{CE}
+{CF}{EOM}{FC}{E6}{EOM}{F1}{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 219:
+{D4}{D3},{D0}
+{EOM}{EOM}{FC}{CB}
+{E6}{CE}{ED}{E4}
+{C16}
+{D0}{E2}{D6}{CE}{EC}{D0}{D6}{DF}{C9}-{CB}
+
+{CE}
+{CF}{D8}
+{D1}{EOM}{F5}
+{0A}{DA}{CF}
+c{D2}{EOM}{FE}{CE}{EC}{CB}{PAUSE}{EOM}
+
+Message 220:
+{S_340184}{DE}{EOM}{F5}{EOM}{FC}{D1},
+{1F}{CF},
+-
+{57}
+{3B}
+{D2}{CB}
+{FACE_03000A}
+{2F}{CE}{EC},{D4}{D6}{D6}{D1}{D0}{DC}{DF}{EOM}{FC}{CE}{D6}{DF}{C9}-{D5}{CB}{PAUSE}{EOM}{EOM}
+
+Message 221:
+{D7}{EOM}{FC}{D1}{C9}{CB}
+{D1}
+{D3}{EOM}{FE}{E2}
+{5F}
+U{D6}{EOM}{F5}{EOM}{FC}{DE}
+{04}{CF}{EE}{CE}{EC}{D0}{D6}{DF}{CB}{PAUSE}{EOM}{EOM}
+
+Message 222:
+{FACE_030009}{ED}{ED}{DF}{EOM}{F9}
+N
+{D4}{EOM}{FF}{D4}{D6}{D2}{DF}
+C{EOM}{F7}{DE}
+{EOM}{FF}{D0}
+{NICKNAME}{E4}{DF}
+{5F}{EC}{DA}
+{D5}
+{D6}{E2}
+{D7}{D3}{DE}{D0}{DF}{E9}!
+{D4}{D4}{EOM}{F5},{EOM}{FE}
+{EOM}{D2}{D0}{E5}
+{04}-{CB}{PAUSE}{EOM}
+
+Message 223:
+{?_38E2}{E2},{D4}{D6}{D2}{DF}{ED}{CF}{D8}
+
+{D8}{CE}{EC}{E0}{E6}{DE}{D0}!{DE}{EOM}{F5}{EC}
+{19}{E4}{DF}{E9}~♥{PAUSE}{EOM}{EOM}{EOM}
+
+Message 224:
+•••••••••••{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+•••••{NICKNAME}•••••{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 226:
+••••{PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+••••{PAUSE}{EOM}{EOM}{EOM}
+
+Message 228:
+••••{PAUSE}{EOM}{EOM}{EOM}
+
+Message 229:
+••••{PAUSE}{EOM}{EOM}{EOM}
+
+Message 230:
+••••{PAUSE}{EOM}{EOM}{EOM}
+
+Message 231:
+••••{PAUSE}{EOM}{EOM}{EOM}
+
+Message 232:
+••••{PAUSE}{EOM}{EOM}{EOM}
+
+Message 233:
+••••{PAUSE}{EOM}{EOM}{EOM}
+
+Message 234:
+••••{PAUSE}{EOM}{EOM}{EOM}
+
+Message 235:
+{E4}{EF}{D2}{D0}{E5}~{CB}
+{D4}{D4},
+{0A}{DC},
+{C13}{EOM}{FF}
+{1E}{E2}{EOM}{FF}{DE}
+{09}{DE}{D0}{DF}{CB}
+
+{FACE_015500}{F5}{DE}{EA}
+{04}{D0}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 236:
+
+{0B}{D6},{CC}{CD}{E4}{EOM}{FC}{D0}{C9}{CB}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 237:
+{FACE_03000A}{?_3892}♪
+
+{45}
+{45}
+{ENDPAGE}
+{D2}{CE}{D1}{DD}
+{D9}{CE}{EC}{DC}{D3}{E4}{DF}{E9}{CB}{PAUSE}{EOM}{EOM}
+
+Message 238:
+{FACE_03000A}{EOM}{F7}{EF}{D0}
+{ENDPAGE}{DE}{CE}{D6}{E5}{C9}-♥{PAUSE}{EOM}{EOM}
+
+Message 239:
+{FACE_030005}
+“{EF}{EC}{D4}{EOM}{F0}{EF}{EOM}{FB}{D0}{D0}{E7}{E8}{DE}{D0}!
+{DC}{E4}{CE}!!{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

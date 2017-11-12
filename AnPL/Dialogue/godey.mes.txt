@@ -1,0 +1,821 @@
+Message 0:
+..........{PAUSE}{EOM}
+
+Message 1:
+{S_340169}I just don't like the
+shape of this... So I have to...
+fix it, like this...{PAUSE}{EOM}
+
+Message 2:
+{S_34016A}There, that's not a bad shape....{PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+Well, your mother is here for you.
+I guess it's time to be going.{PAUSE}{EOM}{EOM}
+
+Message 4:
+Your son has an artistic sense.
+Not everyone is so sensitive
+to shapes...{PAUSE}{WIPE}
+That kind of talent has to be nurtured.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+Death is a part of life...{S_3207D0}
+But for those of us still living,{S_3207D0}
+it can be hard to lose those we love.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+{GRIFFIN}, would you sing something
+for our friend....?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+{S_34016A}Oh, it's you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 8:
+You came just at the right time.
+I made something for you to put in
+your room.{PAUSE}
+Are your rooms pretty big?{S_3203E8}
+{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+Then it should be OK.{PAUSE}{EOM}{EOM}
+
+Message 10:
+I thought so, so I made it small.{PAUSE}{EOM}{EOM}
+
+Message 11:
+I thought I'd bring it over to you
+now...{S_3203E8}
+{CHOICE2 DEF0}
+OK then.
+Could you wait a bit?{EOM}{EOM}
+
+Message 12:
+Well, let's go...{PAUSE}{EOM}{EOM}
+
+Message 13:
+Can't wait.{S_3203E8}
+Let's go...{PAUSE}{EOM}
+
+Message 14:
+Which room do you want it in?{S_3203E8}
+{CHOICE2 DEF0}
+{STRUC_16}
+{STRUC_18}{EOM}{EOM}{EOM}
+
+Message 15:
+All right then.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+All right then.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+It's perfect here.{PAUSE}{EOM}
+
+Message 18:
+{FACE_150003}Not bad, eh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+Well, I guess I'll be heading back.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+I'm going to be going to bed soon...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 21:
+It's my bedtime.
+Could you be moving along?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+Well, see you later.
+Goodnight.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+I'm going to be going out in a bit...{PAUSE}{EOM}{EOM}
+
+Message 24:
+I'm leaving now.
+Could you leave?{PAUSE}{EOM}{EOM}
+
+Message 25:
+See you later...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+Hey...{PAUSE}{EOM}
+
+Message 27:
+Uh, excuse me...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+{S_340169}Nothing to sell, I see.{PAUSE}{EOM}
+
+Message 29:
+I guess there's no point in shopping then.{PAUSE}{EOM}
+
+Message 30:
+Don't you have anything to sell?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+I'm just having a look around.{PAUSE}{EOM}
+
+Message 32:
+You don't seem to have much.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+I like the {VAR_00},
+but how much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}
+
+Message 34:
+All right then, I'll take it.{PAUSE}{EOM}{EOM}
+
+Message 35:
+Well, all right.
+I'll take it.{PAUSE}{EOM}
+
+Message 36:
+Oh.
+OK then...{PAUSE}{EOM}
+
+Message 37:
+How much is the {VAR_00}?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}
+
+Message 38:
+I guess I'll pass for today.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+I'm an artist. I make iron sculptures.
+Nice to meet you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+Oh, you're the one working the farm, eh?
+{CHAR_80}, right? Nice to meet you.{PAUSE}{EOM}{EOM}
+
+Message 41:
+{S_34016A}What?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+..........{PAUSE}{EOM}
+
+Message 43:
+What are you doing out so late?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+{S_34016B}Oh, is that for me?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+{FACE_150003}Arigato.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+.........{PAUSE}{EOM}{EOM}
+
+Message 47:
+That looks good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+{S_34016B}That looks pretty good.{PAUSE}{EOM}
+
+Message 49:
+I don't like that kind of thing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+Don't need that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+{S_34016A}What's that??{PAUSE}{EOM}{EOM}{EOM}
+
+Message 52:
+{FACE_150003}Cute kid...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+He has a cute face.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+He looks a little wild.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+{FACE_150003}Cute kid...
+Looks talented.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+I can tell that this child
+has unlimited potential.
+Don't waste it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+Hey doggie. How's it goin'?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+Take good care of him.{PAUSE}{EOM}
+
+Message 59:
+Cute kitty...{PAUSE}{EOM}{EOM}
+
+Message 60:
+I don't think it likes being held.{PAUSE}{EOM}
+
+Message 61:
+I don't like chickens.{PAUSE}{EOM}
+
+Message 62:
+What a cute chick.{PAUSE}{EOM}
+
+Message 63:
+Cute, but...
+Not for me...{PAUSE}{EOM}
+
+Message 64:
+I don't think it likes being held.{PAUSE}{EOM}
+
+Message 65:
+Interesting face.{PAUSE}{EOM}{EOM}
+
+Message 66:
+...I wonder what it's thinking...?{PAUSE}{EOM}
+
+Message 67:
+What kind of seed could that be?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+Isn't planting seeds your
+job?{PAUSE}{EOM}
+
+Message 69:
+Did you grow that?
+Mother Earth has blessed you...{PAUSE}{EOM}
+
+Message 70:
+{FACE_150003}...Could I have that?{CHOICE Y/N DEF0}{EOM}
+
+Message 71:
+{FACE_150003}Really? Thanks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+{S_340169}I see....{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+It's good to grow living
+things...{PAUSE}{EOM}
+
+Message 74:
+Fresh milk is great.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+Fresh milk tastes great.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+Did you make that cheese on your farm?
+It looks good.{PAUSE}{EOM}{EOM}
+
+Message 77:
+Good cheese is rich and delicious.{PAUSE}{EOM}
+
+Message 78:
+Did you make that butter on your farm?
+It looks good.{PAUSE}{EOM}{EOM}
+
+Message 79:
+Good butter has a distinctive smell.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 80:
+Don't drop that...{PAUSE}{EOM}
+
+Message 81:
+Did you catch that fish yourself?
+Not bad.{PAUSE}{EOM}
+
+Message 82:
+That's a good looking fish.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+The wild plants around here are tasty.{PAUSE}{EOM}
+
+Message 84:
+{S_34016A}Why don't you try eating that yourself?{PAUSE}{EOM}
+
+Message 85:
+Did you make that dish?
+It looks good.{PAUSE}{EOM}
+
+Message 86:
+That looks pretty good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+That dish looks quite good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+That's an odd hoe.
+It looks pretty heavy.{PAUSE}{EOM}{EOM}
+
+Message 89:
+I've never seen a hoe like that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+That hoe certainly is old, isn't it?
+Can you use it properly?{PAUSE}{EOM}{EOM}
+
+Message 91:
+...That hoe sure is dirty.{PAUSE}{EOM}
+
+Message 92:
+That hoe looks brand new.
+You've got to break it in...{PAUSE}{EOM}
+
+Message 93:
+You haven't used that hoe much, have you?{PAUSE}{EOM}{EOM}
+
+Message 94:
+The more you use a hoe, the better it is.{PAUSE}{EOM}{EOM}
+
+Message 95:
+Where are you headed with that hoe?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+Is that your hoe?
+It looks like you've used it a lot.{PAUSE}{EOM}{EOM}
+
+Message 97:
+That hoe looks easy to use.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+That's an unusual sickle.
+It looks kind of hard to use...{PAUSE}{EOM}{EOM}
+
+Message 99:
+That's a strange looking sickle...{PAUSE}{EOM}
+
+Message 100:
+That sickle looks really sharp.
+You can't go waving that around here.{PAUSE}{PAUSE}{EOM}
+
+Message 101:
+What an odd sickle.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+Is that your sickle?
+You've got to break it in more.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+That's a pretty new sickle there.{PAUSE}{EOM}{EOM}
+
+Message 104:
+The more you use a sickle, the better.{PAUSE}{EOM}
+
+Message 105:
+You can't just walk around with that.{PAUSE}{EOM}{EOM}
+
+Message 106:
+Is that your sickle?
+Pretty old, isn't it?{PAUSE}{EOM}
+
+Message 107:
+That sickle's been used a lot.{PAUSE}{EOM}
+
+Message 108:
+What's that?
+A piece of art that you made?{PAUSE}{EOM}
+
+Message 109:
+It has a nice shape to it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 110:
+I don't need a watering can.
+Do I look like I'm a
+gardener?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 111:
+Are you planning to water me?{PAUSE}{EOM}{EOM}
+
+Message 112:
+{S_340169}What an odd device.{PAUSE}{EOM}
+
+Message 113:
+I don't like that shape much
+at all...{PAUSE}{EOM}
+
+Message 114:
+My mom used to use those on me...{PAUSE}{EOM}{EOM}
+
+Message 115:
+{FACE_150004}Don't get those near
+my head!{PAUSE}{EOM}{EOM}
+
+Message 116:
+Those are some big clippers you've got.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+{S_34016A}What is that anyway?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+I try not to use too many tools when I'm
+creating my art...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 119:
+That's an unusual stone.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 120:
+Pretty stone.{PAUSE}{EOM}{EOM}
+
+Message 121:
+That's pretty strange looking...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+What are you going to do with that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+I've heard that the wild plants that grow
+around here have strange properties.{PAUSE}{EOM}
+
+Message 124:
+You picked that around here, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+Oh, is that a record?
+Do you have a collection or something?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 126:
+I love music.{PAUSE}{EOM}{EOM}
+
+Message 127:
+Smells strong.{PAUSE}{EOM}
+
+Message 128:
+{S_3400DA}{S_3205DC}{S_34016B}What an odd looking drum.{PAUSE}{EOM}
+
+Message 129:
+{S_3400DA}{S_3205DC}{FACE_150003}Not a bad sound, though.{PAUSE}{EOM}
+
+Message 130:
+What an unusual necklace.{PAUSE}{EOM}{EOM}
+
+Message 131:
+That's a pretty necklace.{PAUSE}{EOM}{EOM}
+
+Message 132:
+The old guys over there made that, right?{PAUSE}{EOM}{EOM}
+
+Message 133:
+Where do you set off something like that?{EOM}{EOM}{EOM}
+
+Message 134:
+Don't drop that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 135:
+I've been to a lot of places, but
+I feel the most comfortable here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 136:
+I don't talk much, but don't
+worry about it.
+I'm just not much of a conversationalist.{PAUSE}{EOM}
+
+Message 137:
+I love it when one of my creations blends
+in perfectly with the environment...{PAUSE}{EOM}
+
+Message 138:
+.........{PAUSE}{EOM}{EOM}
+
+Message 139:
+I heard that the farmer in Mineral Town
+is really rich...
+Not that I care...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 140:
+I hear the farmer in Mineral Town
+is very popular, but she probably
+just gossips a lot.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 141:
+To raise animals and also grow all
+of the crops... Oh, I'm talking about the
+farmer in Mineral Town.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 142:
+That farmer in Mineral Town is a nice gal.
+I heard that she takes very good care
+of his animals.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 143:
+I hear that the farmer in Mineral Town
+digs lots of holes in the mountains.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+I heard that the farmer in Mineral Town
+is a great fisherman...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+The farmer in Mineral Town walks
+a lot, I hear.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 146:
+That farmer in Mineral Town certainly is
+old. She's been farming for 50 years.{PAUSE}{EOM}
+
+Message 147:
+I heard that the farmer in Mineral Town
+ignores her farm and spends all
+her time fishing.{PAUSE}{EOM}{EOM}
+
+Message 148:
+I heard that the farmer in Mineral Town
+has really bad taste.{PAUSE}{EOM}{EOM}
+
+Message 149:
+I wonder what the farmer in Mineral Town
+gets out of building so many houses?{PAUSE}{EOM}{EOM}
+
+Message 150:
+It seems there's a blacksmith in Mineral
+Town that can make some amazing tools.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 151:
+{FACE_150003}That thing you gave me a while ago
+was really good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+I'm sorry to say this after you were so
+nice to give it to me, but that thing
+you gave me wasn't very good...{PAUSE}{EOM}{EOM}
+
+Message 153:
+The {VAR_00} you gave me was
+delicious.{PAUSE}{EOM}{EOM}
+
+Message 154:
+The {VAR_00} you gave me was
+really delicious.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 155:
+{FACE_150003}The {VAR_00} you gave me
+was the best!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 156:
+{FACE_150003}The {VAR_00} you gave me
+was just the kind I like.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+{FACE_150003}The cheese you gave me
+was really good. Very rich...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 158:
+That cheese was kind of smelly.
+But I like that kind of thing.{PAUSE}{EOM}
+
+Message 159:
+That cheese you gave me
+was pretty good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+{FACE_150003}That butter you gave me was
+really good. Very rich...{PAUSE}{EOM}{EOM}
+
+Message 161:
+That butter was kind of smelly.
+But I like that kind of thing.{PAUSE}{EOM}
+
+Message 162:
+That butter you gave me
+was pretty good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 163:
+{FACE_150003}The {VAR_00} you gave me
+was amazingly good.{PAUSE}{EOM}
+
+Message 164:
+That dish you gave me was
+pretty good.{PAUSE}{EOM}
+
+Message 165:
+That fish you caught was
+delicious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 166:
+The wild plants you picked for me
+were delicious.{PAUSE}{EOM}{EOM}
+
+Message 167:
+The wild plants you picked for me
+were delicious..{PAUSE}{EOM}
+
+Message 168:
+That thing you gave me was good.
+I think.{PAUSE}{EOM}{EOM}
+
+Message 169:
+You're sure working hard lately.
+I can see it on your face.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 170:
+You're sure working hard lately.
+You have a dignified air about you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+You seem to be used to your work.
+You appear more relaxed now.{PAUSE}{EOM}
+
+Message 172:
+What do you think of my artwork?
+{CHOICE3 DEF1}
+It's pretty.
+I guess I like it.
+I'm not sure.{EOM}{EOM}{EOM}
+
+Message 173:
+{FACE_150003}{S_340169}Really?
+I thought maybe I was the only person who
+thought this kind of thing was pretty...{PAUSE}{EOM}{EOM}
+
+Message 174:
+{FACE_150003}Well... It's nice of you
+to say that, anyway.{PAUSE}{EOM}{EOM}
+
+Message 175:
+{S_340169}I suppose not.
+I think maybe the tastes
+are different between us.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 176:
+I'm not very good with people,
+but don't worry.
+That's just who I am.{PAUSE}{EOM}{EOM}
+
+Message 177:
+The nature around here goes well with my
+artwork.
+Or is it the opposite?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 178:
+{FACE_150003}I feel good today.{PAUSE}{EOM}
+
+Message 179:
+How're you doing? Hmm?{PAUSE}{EOM}
+
+Message 180:
+{S_34016A}What's up?{PAUSE}{EOM}{EOM}
+
+Message 181:
+Did you need something?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 182:
+{S_340169}I feel good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+{S_340169}...I feel good.{PAUSE}{EOM}
+
+Message 184:
+I'm busy thinking about my
+artwork right now.{PAUSE}{EOM}{EOM}
+
+Message 185:
+{S_340169}No, I don't like it.
+Something's not right.
+I can't quite put my finger on it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 186:
+You've got to feel to live.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+I get so many images and feelings
+just from living here, but I'm still not
+able to express them.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 188:
+{S_340169}I feel like I'm missing out
+on something important...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+{S_34016A}How are you feeling?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 190:
+You have to feel something about the
+things you see and hear...
+...do you understand what I mean?{PAUSE}{EOM}{EOM}
+
+Message 191:
+Nature changes along with the
+seasons, but my artwork never changes...
+...that'll never do.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 192:
+I guess it just takes more time.
+Yes........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 193:
+Oh, welcome.
+Make yourself at home.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+When I make a piece of artwork, I
+try to work my feelings into
+the material I'm working with.{PAUSE}{EOM}{EOM}
+
+Message 195:
+I still don't get a feeling of
+“nature” from this piece.
+Still needs more work.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+The ocean consumes all.
+Even human emotions are absorbed
+by the sea...{PAUSE}{EOM}
+
+Message 197:
+A calm ocean is nice, but a rough
+one is even better.{PAUSE}{EOM}{EOM}
+
+Message 198:
+The flow of a river never stops.
+You may forget time looking at a river,
+but like the river, time never stops.{PAUSE}{EOM}
+
+Message 199:
+{S_340169}If you stare long into a river...
+Your eyes see everything in motion...{PAUSE}{EOM}
+
+Message 200:
+Even though I've got such a small house,
+these guys sure come over a lot...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+{S_340169}Don't touch those iron plates...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 202:
+{FACE_150003}{S_340169}...It's lively here today...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+This waterfall gives me energy.
+I can feel the immense power of the water.{PAUSE}{EOM}
+
+Message 204:
+I never get tired of this place,
+no matter how many times I come.{PAUSE}{EOM}{EOM}
+
+Message 205:
+I see...
+But I think I'll have to pass for now.
+Maybe next time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+I found something strange on the beach...{PAUSE}{EOM}{EOM}
+
+Message 207:
+Would you like to try using it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 208:
+OK, here you go...{PAUSE}{EOM}
+
+Message 209:
+I hope you can use it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 210:
+.........................{PAUSE}{EOM}{EOM}
+
+Message 211:
+.................Nami........{PAUSE}{EOM}{EOM}
+
+Message 212:
+I...{S_320384} don't...{S_320320} lie...{PAUSE}{EOM}
+
+Message 213:
+{PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+Nami... You wanted to talk to me?{PAUSE}{EOM}{EOM}
+
+Message 215:
+Oh...
+I thought there was a store here...{PAUSE}{EOM}{EOM}
+
+Message 216:
+What did I want to buy?
+Hmm... Well, toys or maybe some
+things from the dig site...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 217:
+When it rains, my artwork rusts.
+That's a part of my art, too...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 218:
+It's part of the evolution of my oeuvre.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 219:
+That's what so interesting about iron.{PAUSE}{EOM}
+
+Message 220:
+...............{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 221:
+I don't believe in making lots of artwork.{PAUSE}{EOM}
+
+Message 222:
+First I have to perfect the ones
+I am working on...{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,156 @@
+Message 0:
+Seed Maker{EOM}{EOM}
+
+Message 1:
+Freezer{EOM}
+
+Message 2:
+Refrigerator{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+Shelf{EOM}{EOM}{EOM}
+
+Message 4:
+Crop Shipping Bin{EOM}{EOM}{EOM}
+
+Message 5:
+Dairy Shipping Bin{EOM}{EOM}
+
+Message 6:
+Ledger{EOM}{EOM}
+
+Message 7:
+Trash{EOM}{EOM}{EOM}
+
+Message 8:
+Item Storage Box{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+Fodder Dispenser{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+Butter Maker{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+Cheese Maker{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+Fertilizer Maker{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+Pond{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+Food Processing Room{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+Milking Room{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+Living Room{EOM}
+
+Message 17:
+Kitchen{EOM}
+
+Message 18:
+Bedroom{EOM}
+
+Message 19:
+Child's Room{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+Barn{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+Chicken Coop{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+Workshop{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+Tool Shed{EOM}{EOM}{EOM}
+
+Message 24:
+Food Storage{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+Incubator{EOM}{EOM}{EOM}
+
+Message 26:
+Forest{EOM}{EOM}
+
+Message 27:
+Sea{EOM}
+
+Message 28:
+River{EOM}{EOM}{EOM}
+
+Message 29:
+Next Town{EOM}{EOM}{EOM}
+
+Message 30:
+Forget-me-not{EOM}{EOM}{EOM}
+
+Message 31:
+City{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+Farm{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+Blue Bar{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+Villa{EOM}{EOM}{EOM}
+
+Message 35:
+Inner Inn{EOM}{EOM}{EOM}
+
+Message 36:
+Grave Hill{EOM}{EOM}
+
+Message 37:
+Beach{EOM}{EOM}{EOM}
+
+Message 38:
+Spring{EOM}{EOM}
+
+Message 39:
+Turtle Swamp{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+Waterfall{EOM}{EOM}{EOM}
+
+Message 41:
+Dig Site{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+Bridge{EOM}{EOM}
+
+Message 43:
+Well{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+Poor Field{EOM}{EOM}
+
+Message 45:
+Good Field{EOM}{EOM}
+
+Message 46:
+Great Field{EOM}
+
+Message 47:
+Pasture{EOM}
+
+Message 48:
+Tool Shelf{EOM}{EOM}
+
+Message 49:
+Chicken Yard{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+Your House{EOM}{EOM}
+
+Message 51:
+Dog House{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,1693 @@
+Message 0:
+Today's weather: It's gonna
+be perfect! Nice and clear!{EOM}
+
+Message 1:
+Today's weather: It's
+gonna be nice and clear.{EOM}{EOM}
+
+Message 2:
+Today's weather: It's
+gonna be pretty cloudy.{EOM}{EOM}{EOM}
+
+Message 3:
+Today's weather: It's
+gonna be pretty rainy.{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+Today's weather: It's
+gonna be pretty snowy.{EOM}{EOM}{EOM}{EOM}
+
+Message 5:
+Today's weather: We're
+gonna have a big storm!{EOM}{EOM}
+
+Message 6:
+Today's weather: It's
+gonna be nice and clear.{EOM}{EOM}
+
+Message 7:
+Today's weather: It's gonna
+be perfect! Nice and clear!{EOM}
+
+Message 8:
+Today's weather: It's gonna
+start gettin' cloudy.{EOM}{EOM}{EOM}
+
+Message 9:
+Today's weather: It's gonna
+start clearin' up.{EOM}{EOM}
+
+Message 10:
+Today's weather: It's
+gonna start raining.{EOM}{EOM}
+
+Message 11:
+Today's weather: It's
+gonna start snowing.{EOM}{EOM}
+
+Message 12:
+Today's weather: The
+rain's gonna stop.{EOM}
+
+Message 13:
+Today's weather: The rain's
+gonna turn to snow. Brrr...{EOM}
+
+Message 14:
+Today's weather: The snow's
+gonna turn to rain.{EOM}
+
+Message 15:
+Today's weather: The
+snow's gonna stop.{EOM}
+
+Message 16:
+Today's weather: We're
+gonna have a big storm!{EOM}{EOM}
+
+Message 17:
+Today's weather: The rain's
+gonna slow down a little.{EOM}{EOM}{EOM}
+
+Message 18:
+And now for our 12-hour weather report.
+A high-pressure front is giving
+us beautiful weather today.{EOM}
+
+Message 19:
+And now for our 12-hour weather report.
+Some light clouds remain high in
+the sky, but it will stay clear.{EOM}{EOM}{EOM}
+
+Message 20:
+And now for our 12-hour weather report.
+The front will be bringing
+in clouds today.{EOM}
+
+Message 21:
+And now for our 12-hour weather report.
+A stationary front will be
+bringing in rain today.{EOM}{EOM}
+
+Message 22:
+And now for our 12-hour weather report.
+The intense cold will
+result in snow.{EOM}{EOM}{EOM}
+
+Message 23:
+And now for our 12-hour weather report.
+The strong low front will bring in
+heavy rain. Remember your umbrella!{EOM}{EOM}
+
+Message 24:
+And now for our 12-hour weather report.
+Some light clouds remain high in
+the sky, but it will stay clear.{EOM}{EOM}{EOM}
+
+Message 25:
+And now for our 12-hour weather report.
+A high-pressure front will be
+bringing us beautiful weather today.{EOM}{EOM}
+
+Message 26:
+And now for our 12-hour weather report.
+The front will be bringing
+in clouds today.{EOM}
+
+Message 27:
+And now for our 12-hour weather report.
+A high-pressure front will
+bring us clear skies today.{EOM}{EOM}
+
+Message 28:
+And now for our 12-hour weather report.
+We'll have some rain as the
+front approaches our region.{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+And now for our 12-hour weather report.
+We'll have some snow as a cold
+front approaches our region.{EOM}
+
+Message 30:
+And now for our 12-hour weather report.
+The front has moved off to the east.
+We'll have rain off and on today.{EOM}{EOM}
+
+Message 31:
+And now for our 12-hour weather report.
+Rain will turn to snow as a cold
+front approaches our region.{EOM}{EOM}{EOM}
+
+Message 32:
+And now for our 12-hour weather report.
+The snow we're having now
+will soon be turning to rain.{EOM}
+
+Message 33:
+And now for our 12-hour weather report.
+The front will move off to the
+east, taking the snow with it.{EOM}{EOM}{EOM}
+
+Message 34:
+And now for our 12-hour weather report.
+A huge typhoon is headed our way!
+Take all precautions immediately!{EOM}
+
+Message 35:
+And now for our 12-hour weather report.
+The typhoon has headed east, but
+the rain is expected to continue.{EOM}{EOM}
+
+Message 36:
+It's the Daily Dairy Hour!
+Today we'll talk about cow fodder.
+Jim and Tim are here with questions.{PAUSE}
+Jim: What do cows eat?
+...Their diet mostly consists of {C13}{ITEM_0003}{C17}.
+   Twice a day and they're ready to go!{PAUSE}
+Tim: Twice a day, huh? But what about
+   snacks? I can't get through the day
+   without a few snacks.{PAUSE}
+...Oh, Tim--you sure are a glutton!
+   But cows enjoy snacks, too.
+Tim: Really? I never knew that!{PAUSE}
+   Cows eating snacks...imagine that!
+...But no matter how much your cows love
+   eating {C13}{ITEM_0004}{C17}, you have to make{PAUSE}
+   sure they eat properly. Feed them
+   plenty of {C13}{ITEM_0003}{C17}, too.
+Tim: You got it!{PAUSE}
+...And that's all for today!{EOM}{EOM}{EOM}
+
+Message 37:
+It's the Daily Dairy Hour!
+Today we'll talk about the effect
+stress can have on your cows.{PAUSE}
+Jim and Tim are here with questions.
+Tim: Nrrrrgh...
+...What is it, Tim? Are you all right?{PAUSE}
+Tim: I'm just so irritated! Maybe all
+   this stress is affecting me...
+...Ooh, you've got to find a way to get{PAUSE}
+   rid of stress, that's for sure.
+Jim: Say, do cows ever get stressed
+   like people do?{PAUSE}
+...That's exactly what I wanted
+   to talk about today. Yes,
+   cows can feel stress, too.{PAUSE}
+   When cows are stressed, they
+   can become irritable and give
+   less milk. If it's really bad,{PAUSE}
+   they can even get sick!
+Jim: Oh, I see. Poor cows! But how do
+   they get so stressed out, anyway?{PAUSE}
+...Well, they can get stressed when
+   they're kept inside all the time or
+   left outside in bad weather, or{PAUSE}
+   when people mistreat them.
+Tim: Just like people!
+Jim: Is there a way to help cows{PAUSE}
+   get rid of all of their stress?
+...Well, you should let them stay
+   outside when there's nice weather.{PAUSE}
+   You can also brush and wash them.
+   That spa treatment does wonders
+   for anyone's mental health!{PAUSE}
+Jim: So whatever would feel good for
+   me would be great for them, too!
+Tim: Eating yummy food always{PAUSE}
+   makes my stress disappear...
+...Oh, Tim--you sure are a glutton!
+...And that's all for today!{EOM}{EOM}
+
+Message 38:
+It's the Daily Dairy Hour!
+Today we'll be talking about cows' milk.
+Jim and Tim are here with questions.{PAUSE}
+Tim: How many times in a day
+   will a cow give you milk?
+...You can milk a cow once in{PAUSE}
+   the morning and then once more,
+   in the evening.
+Jim: So twice a day, huh?{PAUSE}
+   Cows sure are hard workers!
+...And did you know, Jim, that
+   cows that only give milk{PAUSE}
+   after they've had a baby
+   of their own?
+Jim: Yep, I knew that!{PAUSE}
+Tim: Really? I thought all girl
+   cows could give milk once they
+   got big enough. So that's not{PAUSE}
+   true after all?
+...A lot of people have the same
+   misunderstanding, Tim.{PAUSE}
+   But a human female won't make milk
+   until after she has a baby, right?
+Tim: Wow, and cows are just the same!{PAUSE}
+...Milking a cow is very good for her
+   body, too. If you go too long
+   without milking her, she can{PAUSE}
+   get really sick.
+Tim: If she's got all that tasty milk
+   ready for us, it'd be a shame to{PAUSE}
+   waste any of it!
+...Oh, Tim--you sure are a glutton!
+   Don't be rough on the poor cow{PAUSE}
+   just because you're thirsty for
+   milk. Instead, milk her gently--
+   she'll love you for it.{PAUSE}
+Tim: Got it!
+...And that's all for today!{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+It's the Daily Dairy Hour!
+Today we'll be talking about how
+much milk cows can give us.{PAUSE}
+Jim and Tim are here with questions.
+Jim: Do cows always give the same
+   amount of milk?{PAUSE}
+...It depends on the cow's health,
+   the season, and how long it's
+   been since she's given birth.{PAUSE}
+Jim: Wow, the season matters, too?
+...Cows give more milk in cool seasons
+   than they do in hot ones.{PAUSE}
+Tim: How does the time since a cow's
+   had a baby affect her milk?
+...Her milk will begin to run out as{PAUSE}
+   days pass after she's given birth.
+   In about 40 days, she'll stop giving
+   milk altogether.{PAUSE}
+Tim: So if you want milk all the
+   time, the cow's going to have
+   to have babies on a pretty{PAUSE}
+   regular basis, huh?
+...That's exactly right, Tim.
+...And that's all for today!{EOM}{EOM}{EOM}
+
+Message 40:
+It's the Daily Dairy Hour!
+Today we'll talk about the
+quality of your cows' milk.{PAUSE}
+Jim and Tim are here with questions.
+Tim: I get the feeling that the
+   flavor of milk changes from{PAUSE}
+   season to season. Am I crazy?
+...Not at all, Tim! You have
+   a great sense of taste.{PAUSE}
+Jim: Really?! The season
+   does affect its flavor?
+...That's right.{PAUSE}
+  The colder the season, the richer
+   and tastier the milk is.
+Tim: So I was right after all!{PAUSE}
+   Say, there's something else I've
+   been meaning to ask about...
+...What's that, Tim?{PAUSE}
+Tim: Baby cows drink milk,
+   right? Is that the same
+   milk we drink, too?{PAUSE}
+   Babies need a lot of
+   nutrients, don't they?
+...You're pretty sharp today, Tim!{PAUSE}
+   A mother cow gives special milk
+   right after she has her babies.
+Tim: I thought so!{PAUSE}
+...For 3 days after the birth, the
+   mother cow's milk is full of
+   nutrients her baby needs.{PAUSE}
+   Baby cows who drink this milk
+   are much healthier and hardier
+   than baby cows who don't.{PAUSE}
+Jim: Wow, that's some important milk!
+...We might take some of the mother's
+   milk for our own use, but that{PAUSE}
+   special milk is just for her
+   and her babies. That's why you
+   can't sell it.{PAUSE}
+Tim: Oh, I see. So that means the milk
+   I drink is different from the milk
+   that baby cows drink.{PAUSE}
+   ...I'd like to try that milk, though.
+...I'm sure the farmer would let you
+   try it if you asked nicely.{PAUSE}
+Tim: Hmm, that sounds good.
+   I think I'll ask the farmer the next
+   time I'm at the farm.{PAUSE}
+...Oh, Tim--you sure are a glutton!
+...And that's all for today!{EOM}{EOM}{EOM}
+
+Message 41:
+It's the Daily Dairy Hour!
+Today we're talking about birthing cows.
+Jim and Tim are here with questions.{PAUSE}
+Jim: How long is the baby cow inside
+   the mother cow's tummy?
+...I'd say about 30 days.{PAUSE}
+Jim: Wow, that's a long time.
+Tim: Is there a way to tell when
+   the baby's ready to come out?{PAUSE}
+   I'd hate to be unprepared.
+...You've got a point there!
+   The mother cow's udder will turn red{PAUSE}
+   as her due date gets nearer.
+Tim: About how many days before her
+   due date does that happen?{PAUSE}
+...About 6 days before, I'd say.
+   While her udder is red, but before
+   she has her baby, the mother cow{PAUSE}
+   is going to need to take in a lot
+   of nutrition for her and her baby.
+   This is called “retaining milk”.{PAUSE}
+   What was that again?
+Both: Retaining milk!
+...Good for you!{PAUSE}
+   When she starts retaining milk, you
+   need to stop milking her, okay?
+Jim: Okay!{PAUSE}
+...Also, after her udder turns red,
+   you should separate the mother cow
+   to protect her from the others.{PAUSE}
+Tim: How do we do that?
+...Just use fencing to make a
+   separate pen inside the barn{PAUSE}
+   for the mother cow.
+Jim: Oh, is that all? That's easy!
+...Just because she's in her own pen{PAUSE}
+   doesn't mean you don't have to keep
+   taking care of her every day!
+Both: Okay!{PAUSE}
+...And that's all for today!{EOM}{EOM}{EOM}
+
+Message 42:
+It's the Daily Dairy Hour!
+Today we'll talk about
+newborn baby cows.{PAUSE}
+Jim and Tim are here with questions.
+Jim: How should you handle
+   a newborn baby cow?{PAUSE}
+...Baby cows are very delicate.
+   You especially need to be
+   careful about germs.{PAUSE}
+Tim: That's because it's been safe
+   in its mama's belly for so long.
+...You should keep the baby cow away{PAUSE}
+   from other animals for a while,
+   for its own protection.
+Jim: Can't it stay with its mommy?{PAUSE}
+   Poor baby cow...
+...Well, it can, but just in case,
+   wouldn't it be better if it were{PAUSE}
+   safe in its own pen?
+Jim: Yeah, I guess you're right.
+Tim: What are you supposed to{PAUSE}
+   feed a baby cow, anyway?
+...For the first 6 days,
+   they only drink milk.{PAUSE}
+Jim: That means we have to
+   milk the mother cow and
+   feed her baby, huh.{PAUSE}
+...Taking care of a baby cow
+   is a lot of hard work.
+Tim: But, but, but...{PAUSE}
+   The baby cow drinks right out of
+   your hand, right? Gosh, that
+   wouldn't feel like work at all!{PAUSE}
+...You're right about that.
+   And after about 6 days, it can
+   start eating {C13}{ITEM_0003}{C17}, too.{PAUSE}
+   Once the baby cow can eat {C13}{ITEM_0003}{C17},
+   it's almost ready for the barn.
+Both: Got it!{PAUSE}
+...And that's all for today!{EOM}
+
+Message 43:
+It's the Daily Dairy Hour!
+Today we're at an actual
+farm with Tim and Jim.{PAUSE}
+Jim: It's so wide open! I love it!
+Tim: C'mon, let's go find the cows!
+....................................{PAUSE}
+Jim: I can hear them mooing!
+...Say, Jim, do you know why that
+   cow mooed like that just now?{PAUSE}
+Jim: Huh? You mean you can tell stuff
+   like that from how they moo?
+...Well, of course!{PAUSE}
+Tim: Cows have lots of different moos.
+...Okay, today we'll learn how to tell
+   how a cow feels from its moos.{PAUSE}
+   {S_3400D1}{S_3204B0}That's a normal moo.
+   {S_320320}{S_3400CE}{S_3204B0}And that's a happy moo!
+Jim: There really is a difference!{PAUSE}
+...There is, isn't there?{S_3400D2}{S_3204B0}
+Tim: That one sounded kind
+   of sad somehow...{PAUSE}
+...That's right. Something unpleasant
+   must have happened.
+Jim: This is great! I feel like{PAUSE}
+   I've made friends with the cows!
+...Now, don't forget what you've learned!
+Both: We won't!{PAUSE}
+...And that's all for today!
+   Back to the studio, boys...
+Both: Aw, do we have to?{PAUSE}
+   But we just got here!{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+It's the Daily Dairy Hour!
+Today we'll be talking about some
+cow-raising odds and ends.{PAUSE}
+Jim and Tim are here with questions.
+Tim: The last time I was on a farm, I{PAUSE}
+   saw a cow with a star on its forehead!
+   What kind of cow was that?
+...That would be what's{PAUSE}
+   called a Star Cow, Tim.
+   They produce very high-
+   quality milk.{PAUSE}
+   It's good for making butter
+   and cheese, too.
+Jim: Oh, so they're named after{PAUSE}
+   that star, huh. That's easy.
+Tim: Then there was this other cow
+   that looked normal except for{PAUSE}
+   these spots it had. They were
+   black and brownish. Is that
+   another kind of cow, too?{PAUSE}
+...You've got a good eye, Tim!
+   The ones with the black and
+   tan spots are known as{PAUSE}
+   Marble Cows. This breed of
+   cow produces milk that's
+   best for making into cheese.{PAUSE}
+Tim: So the cows with the big black
+   splotches are just Normal Cows?
+...That's right.{PAUSE}
+   The milk from Normal Cows isn't
+   as good as from other cows, but
+   of all the breeds, they're the{PAUSE}
+   ones that give the most milk.
+Jim: What other kinds of cows are there?
+...Well, there's the Brown Cow. It's{PAUSE}
+   light brown all over, and its milk
+   is good for making butter.
+Jim: I'd like to see one of those!{PAUSE}
+Tim: I want to do a taste test with all
+   these different kinds of milk...
+...Oh, Tim--you sure are a glutton!{PAUSE}
+...And that's all for today!{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+This is the Daily Dairy Hour,
+but Jim is on vacation today.
+Join us next time, okay?{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+It's the Daily Dairy Hour!
+Today we'll talk about cow fodder.
+Jim and Tim are here with questions.{PAUSE}
+Jim: What do cows eat?
+...Their diet mostly consists of {C13}{ITEM_0003}{C17}.
+   Twice a day and they're ready to go!{PAUSE}
+Tim: Twice a day, huh? But what about
+   snacks? I can't get through the day
+   without a few snacks.{PAUSE}
+...Oh, Tim--you sure are a glutton!
+   But cows enjoy snacks, too.
+Tim: Really? I never knew that!{PAUSE}
+   Cows eating snacks...imagine that!
+...But no matter how much your cows love
+   eating {C13}{ITEM_0004}{C17}, you have to make{PAUSE}
+   sure they eat properly. Feed them
+   plenty of {C13}{ITEM_0003}{C17}, too.
+Tim: You got it!{PAUSE}
+...And that's all for today!{EOM}{EOM}{EOM}
+
+Message 47:
+It's the Daily Dairy Hour!
+Today we'll talk about the effect
+stress can have on your cows.{PAUSE}
+Jim and Tim are here with questions.
+Tim: Nrrrrgh...
+...What is it, Tim? Are you all right?{PAUSE}
+Tim: I'm just so irritated! Maybe all
+   this stress is affecting me...
+...Ooh, you've got to find a way to get{PAUSE}
+   rid of stress, that's for sure.
+Jim: Say, do cows ever get stressed
+   like people do?{PAUSE}
+...That's exactly what I wanted
+   to talk about today. Yes,
+   cows can feel stress, too.{PAUSE}
+   When cows are stressed, they
+   can become irritable and give
+   less milk. If it's really bad,{PAUSE}
+   they can even get sick!
+Jim: Oh, I see...poor cows! But how do
+   they get so stressed out, anyway?{PAUSE}
+...Well, they can get stressed when
+   they're kept inside all the time or
+   left outside in bad weather, or{PAUSE}
+   when people mistreat them.
+Tim: Just like people!
+Jim: Is there a way to help cows{PAUSE}
+   get rid of all of their stress?
+...Well, you should let them stay
+   outside when there's nice weather.{PAUSE}
+   You can also brush and wash them.
+   That spa treatment does wonders
+   for anyone's mental health!{PAUSE}
+Jim: So whatever would feel good for
+   me would be great for them, too!
+Tim: Eating yummy food always{PAUSE}
+   makes my stress disappear...
+...Oh, Tim--you sure are a glutton!
+...And that's all for today!{EOM}
+
+Message 48:
+It's the Daily Dairy Hour!
+Today we'll be talking about cows' milk.
+Jim and Tim are here with questions.{PAUSE}
+Tim: How many times in a day
+   will a cow give you milk?
+...You can milk a cow once in{PAUSE}
+   the morning and then once more,
+   in the evening.
+Jim: So twice a day, huh?{PAUSE}
+   Cows sure are hard workers!
+...And did you know, Jim, that
+   cows that only give milk{PAUSE}
+   after they've had a baby
+   of their own?
+Jim: Yep, I knew that!{PAUSE}
+Tim: Really? I thought all girl
+   cows could give milk once they
+   got big enough. So that's not{PAUSE}
+   true after all?
+...A lot of people have the same
+   misunderstanding, Tim.{PAUSE}
+   But a human female won't make milk
+   until after she has a baby, right?
+Tim: Wow, and cows are just the same!{PAUSE}
+...Milking a cow is very good for her
+   body, too. If you go too long
+   without milking her, she can{PAUSE}
+   get really sick.
+Tim: If she's got all that tasty milk
+   ready for us, it'd be a shame to{PAUSE}
+   waste any of it!
+...Oh, Tim--you sure are a glutton!
+   Don't be rough on the poor cow{PAUSE}
+   just because you're thirsty for
+   milk. Instead, milk her gently--
+   she'll love you for it.{PAUSE}
+Tim: Got it!
+...And that's all for today!{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+It's the Daily Dairy Hour!
+Today we'll be talking about how
+much milk cows can give us.{PAUSE}
+Jim and Tim are here with questions.
+Jim: Do cows always give the same
+   amount of milk?{PAUSE}
+...It depends on the cow's health,
+   the season, and how long it's
+   been since she's given birth.{PAUSE}
+Jim: Wow, the season matters, too?
+...Cows give more milk in cool seasons
+   than they do in hot ones.{PAUSE}
+Tim: How does the time since a cow's
+   had a baby affect her milk?
+...Her milk will begin to run out as{PAUSE}
+   days pass after she's given birth.
+   In about 40 days, she'll stop giving
+   milk altogether.{PAUSE}
+Tim: So if you want milk all the
+   time, the cow's going to have
+   to have babies on a pretty{PAUSE}
+   regular basis, huh?
+...That's exactly right, Tim.
+...And that's all for today!{EOM}{EOM}{EOM}
+
+Message 50:
+It's the Daily Dairy Hour!
+Today we'll talk about the
+quality of your cows' milk.{PAUSE}
+Jim and Tim are here with questions.
+Tim: I get the feeling that the
+   flavor of milk changes from{PAUSE}
+   season to season. Am I crazy?
+...Not at all, Tim! You have
+   a great sense of taste.{PAUSE}
+Jim: Really?! The season
+   does affect its flavor?
+...That's right.{PAUSE}
+  The colder the season, the richer
+   and tastier the milk is.
+Tim: So I was right after all!{PAUSE}
+   Say, there's something else I've
+   been meaning to ask about...
+...What's that, Tim?{PAUSE}
+Tim: Baby cows drink milk,
+   right? Is that the same
+   milk we drink, too?{PAUSE}
+   Babies need a lot of
+   nutrients, don't they?
+...You're pretty sharp today, Tim!{PAUSE}
+   A mother cow gives special milk
+   right after she has her babies.
+Tim: I thought so!{PAUSE}
+...For 3 days after the birth, the
+   mother cow's milk is full of
+   nutrients her baby needs.{PAUSE}
+   Baby cows who drink this milk
+   are much healthier and hardier
+   than baby cows who don't.{PAUSE}
+Jim: Wow, that's some important milk!
+...We might take some of the mother's
+   milk for our own use, but that{PAUSE}
+   special milk is just for her
+   and her babies. That's why you
+   can't sell it.{PAUSE}
+Tim: Oh, I see. So that means the milk
+   I drink is different from the milk
+   that baby cows drink.{PAUSE}
+   ...I'd like to try that milk, though.
+...I'm sure the farmer would let you
+   try it if you asked nicely.{PAUSE}
+Tim: Hmm, that sounds good.
+   I think I'll ask the farmer the next
+   time I'm at the farm.{PAUSE}
+...Oh, Tim--you sure are a glutton!
+...And that's all for today!{EOM}{EOM}{EOM}
+
+Message 51:
+It's the Daily Dairy Hour!
+Today we're talking about birthing cows.
+Jim and Tim are here with questions.{PAUSE}
+Jim: How long is the baby cow inside
+   the mother cow's tummy?
+...I'd say about 30 days.{PAUSE}
+Jim: Wow, that's a long time.
+Tim: Is there a way to tell when
+   the baby's ready to come out?{PAUSE}
+   I'd hate to be unprepared.
+...You've got a point there!
+   The mother cow's udder will turn red{PAUSE}
+   as her due date gets nearer.
+Tim: About how many days before her
+   due date does that happen?{PAUSE}
+...About 6 days before, I'd say.
+   While her udder is red, but before
+   she has her baby, the mother cow{PAUSE}
+   is going to need to take in a lot
+   of nutrition for her and her baby.
+   This is called “retaining milk”.{PAUSE}
+   What was that again?
+Both: Retaining milk!
+...Good for you!{PAUSE}
+   When she starts retaining milk, you
+   need to stop milking her, okay?
+Jim: Okay!{PAUSE}
+...Also, after her udder turns red,
+   you should separate the mother cow
+   to protect her from the others.{PAUSE}
+Tim: How do we do that?
+...Just use fencing to make a
+   separate pen inside the barn{PAUSE}
+   for the mother cow.
+Jim: Oh, is that all? That's easy!
+...Just because she's in her own pen{PAUSE}
+   doesn't mean you don't have to keep
+   taking care of her every day!
+Both: Okay!{PAUSE}
+...And that's all for today!{EOM}{EOM}{EOM}
+
+Message 52:
+It's the Daily Dairy Hour!
+Today we'll talk about
+newborn baby cows.{PAUSE}
+Jim and Tim are here with questions.
+Jim: How should you handle
+   a newborn baby cow?{PAUSE}
+...Baby cows are very delicate.
+   You especially need to be
+   careful about germs.{PAUSE}
+Tim: That's because it's been safe
+   in its mama's belly for so long.
+...You should keep the baby cow away{PAUSE}
+   from other animals for a while,
+   for its own protection.
+Jim: Can't it stay with its mommy?{PAUSE}
+   Poor baby cow...
+...Well, it can, but just in case,
+   wouldn't it be better if it were{PAUSE}
+   safe in its own pen?
+Jim: Yeah, I guess you're right.
+Tim: What are you supposed to{PAUSE}
+   feed a baby cow, anyway?
+...For the first 6 days,
+   they only drink milk.{PAUSE}
+Jim: That means we have to
+   milk the mother cow and
+   feed her baby, huh.{PAUSE}
+...Taking care of a baby cow
+   is a lot of hard work.
+Tim: But, but, but...{PAUSE}
+   The baby cow drinks right out of
+   your hand, right? Gosh, that
+   wouldn't feel like work at all!{PAUSE}
+...You're right about that.
+   And after about 6 days, it can
+   start eating {C13}{ITEM_0003}{C17}, too.{PAUSE}
+   Once the baby cow can eat {C13}{ITEM_0003}{C17},
+   it's almost ready for the barn.
+Both: Got it!{PAUSE}
+...And that's all for today!{EOM}
+
+Message 53:
+It's the Daily Dairy Hour!
+Today we're at an actual
+farm with Tim and Jim.{PAUSE}
+Jim: It's so wide open! I love it!
+Tim: C'mon, let's go find the cows!
+....................................{PAUSE}
+Jim: I can hear them mooing!
+...Say, Jim, do you know why that
+   cow mooed like that just now?{PAUSE}
+Jim: Huh? You mean you can tell stuff
+   like that from how they moo?
+...Well, of course!{PAUSE}
+Tim: Cows have lots of different moos.
+...Okay, today we'll learn how to tell
+   how a cow feels from its moos.{PAUSE}
+   {S_3400D1}{S_3204B0}That's a normal moo.
+   {S_320320}{S_3400CE}{S_3204B0}And that's a happy moo!
+Jim: There really is a difference!{PAUSE}
+...There is, isn't there?{S_3400D2}{S_3204B0}
+Tim: That one sounded kind
+   of sad somehow...{PAUSE}
+...That's right. Something unpleasant
+   must have happened.
+Jim: This is great! I feel like{PAUSE}
+   I've made friends with the cows!
+...Now, don't forget what you've learned!
+Both: We won't!{PAUSE}
+...And that's all for today!
+   Back to the studio, boys...
+Both: Aw, do we have to?{PAUSE}
+   But we just got here!{EOM}{EOM}{EOM}{EOM}
+
+Message 54:
+It's the Daily Dairy Hour!
+Today we'll be talking about some
+cow-raising odds and ends.{PAUSE}
+Jim and Tim are here with questions.
+Tim: The last time I was on a farm, I{PAUSE}
+   saw a cow with a star on its forehead!
+   What kind of cow was that?
+...That would be what's{PAUSE}
+   called a Star Cow, Tim.
+   They produce very high-
+   quality milk.{PAUSE}
+   It's good for making butter
+   and cheese, too.
+Jim: Oh, so they're named after{PAUSE}
+   that star, huh. That's easy.
+Tim: Then there was this other cow
+   that looked normal except for{PAUSE}
+   these spots it had. They were
+   black and brownish. Is that
+   another kind of cow, too?{PAUSE}
+...You've got a good eye, Tim!
+   The ones with the black and
+   tan spots are known as{PAUSE}
+   Marble Cows. This breed of
+   cow produces milk that's
+   best for making into cheese.{PAUSE}
+Tim: So the cows with the big black
+   splotches are just Normal Cows?
+...That's right.{PAUSE}
+   The milk from Normal Cows isn't
+   as good as from other cows, but
+   of all the breeds, they're the{PAUSE}
+   ones that give the most milk.
+Jim: What other kinds of cows are there?
+...Well, there's the Brown Cow. It's{PAUSE}
+   light brown all over, and its milk
+   is good for making butter.
+Jim: I'd like to see one of those!{PAUSE}
+Tim: I want to do a taste test with all
+   these different kinds of milk...
+...Oh, Tim--you sure are a glutton!{PAUSE}
+...And that's all for today!{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+This is the Daily Dairy Hour,
+but Jim is on vacation today.
+Join us next time, okay?{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 57:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 58:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 59:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 60:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 61:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 62:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 63:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 64:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 65:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 66:
+Hello, and welcome to Crop Talk.
+Today we're discussing fields.
+Ron and Jon are here with questions.{PAUSE}
+Ron: Will seeds sprout just anywhere?
+...No, only when they're in a field.
+Ron: So what's a field like, anyway?{PAUSE}
+...It's a patch of good, rich soil.
+   You use a hoe to till furrows into
+   the soil and plant your seeds there.{PAUSE}
+Jon: Will every kind of seed
+   grow in that field?
+...Unfortunately not.{PAUSE}
+   Each seed grows best in a certain
+   kind of soil, and some won't grow
+   without fertilizer. Got it?{PAUSE}
+Jon: ...I guess.
+...And that's our show for today.{EOM}{EOM}{EOM}
+
+Message 67:
+Hello, and welcome to Crop Talk.
+Today we're discussing crop watering.
+Ron and Jon are here with questions.{PAUSE}
+Jon: Do seeds sprout when you plant them?
+...It takes a little more work than
+   that. You have to water them, too.{PAUSE}
+Ron: How do I do that?
+...Just fill a watering can with water
+   and sprinkle it over the seeds.{PAUSE}
+Jon: How much water do they need?
+...Watch the soil. When it starts looking
+   dry, it's time to water again.{PAUSE}
+Jon: What if I forget?
+...Your seeds won't sprout, and
+   your crops will wither up.{PAUSE}
+   That's why you have to water your
+   crops every day. Twice a day
+   should be just right. Got it?{PAUSE}
+Ron: You bet!
+...And that's our show for today.{EOM}
+
+Message 68:
+Hello, and welcome to Crop Talk.
+Today we're discussing flowers.
+Ron and Jon are here with questions.{PAUSE}
+Ron: Do crops have flowers, too?
+...Yes, of course they do.
+Jon: Then comes the fruit.{PAUSE}
+...That's exactly right, Jon. Good job!
+   Every crop flowers, then produces
+   its fruit or vegetable.{PAUSE}
+Ron: Better not pick those flowers.
+...Ha ha ha! You're right. No
+   flowers means no harvest.{PAUSE}
+Jon: Can you pick the crop right away?
+...Well, not right away...
+   Let's talk about that next time.{PAUSE}
+...And that's our show for today.
+   {EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+Hello, and welcome to Crop Talk.
+Today we're discussing crop harvesting.
+Ron and Jon are here with questions.{PAUSE}
+Ron: Some crops don't make fruit, right?
+...You mean root vegetables? Well,
+   we just eat their roots instead.{PAUSE}
+Jon: When should you pick those?
+...With root vegetables, wait until
+   their flowers bloom, then wither.{PAUSE}
+   Pull them up then and you'll find
+   a nice big root underneath.
+Ron: Can you eat that?{PAUSE}
+...You eat them all the time!
+   Turnips, potatoes, carrots...
+   they're all root vegetables.{PAUSE}
+Ron: Really? Those are roots?
+Jon: Well, duh...
+...Anyway, hope that helped.{PAUSE}
+...And that's our show for today.{EOM}{EOM}
+
+Message 70:
+Hello, and welcome to Crop Talk.
+Today we're discussing trees.
+Ron and Jon are here with questions.{PAUSE}
+Jon: Does it take time to grow trees?
+...It sure does. Trees take a long
+   time to grow big and tall.{PAUSE}
+Dex: Must be hard to care for them.
+...Actually, you don't even have to water
+   trees. Just plant a seed and wait.{PAUSE}
+Jon: Really? That's easy!
+...But trees need a lot of nutrition, so
+   you can't grow other crops nearby.{PAUSE}
+Jon: What happens?
+...Crops planted near a tree will bloom,
+   but they'll wither right away.{PAUSE}
+Dex: So it's a no-grow zone, huh.
+...That's right. Think carefully before
+  deciding where to plant a tree.{PAUSE}
+Jon: Hmm, I get it.
+...And that's our show for today.{EOM}{EOM}{EOM}
+
+Message 71:
+Hello, and welcome to Crop Talk.
+Today we're discussing fields.
+Ron and Jon are here with questions.{PAUSE}
+Ron: Will seeds sprout just anywhere?
+...No, only when they're in a field.
+Ron: So what's a field like, anyway?{PAUSE}
+...It's a patch of good, rich soil.
+   You use a hoe to till furrows into
+   the soil and plant your seeds there.{PAUSE}
+Jon: Will every kind of seed
+   grow in that field?
+...Unfortunately not.{PAUSE}
+   Each seed grows best in a certain
+   kind of soil, and some won't grow
+   without fertilizer. Got it?{PAUSE}
+Jon: ...I guess.
+...And that's our show for today.{EOM}{EOM}{EOM}
+
+Message 72:
+Hello, and welcome to Crop Talk.
+Today we're discussing crop watering.
+Ron and Jon are here with questions.{PAUSE}
+Jon: Do seeds sprout when you plant them?
+...It takes a little more work than
+   that. You have to water them, too.{PAUSE}
+Ron: How do I do that?
+...Just fill a watering can with water
+   and sprinkle it over the seeds.{PAUSE}
+Jon: How much water do they need?
+...Watch the soil. When it starts looking
+   dry, it's time to water again.{PAUSE}
+Jon: What if I forget?
+...Your seeds won't sprout, and
+   your crops will wither up.{PAUSE}
+   That's why you have to water your
+   crops every day. Twice a day
+   should be just right. Got it?{PAUSE}
+Ron: You bet!
+...And that's our show for today.{EOM}
+
+Message 73:
+Hello, and welcome to Crop Talk.
+Today we're discussing flowers.
+Ron and Jon are here with questions.{PAUSE}
+Ron: Do crops have flowers, too?
+...Yes, of course they do.
+Jon: Then comes the fruit.{PAUSE}
+...That's exactly right, Jon. Good job!
+   Every crop flowers, then produces
+   its fruit or vegetable.{PAUSE}
+Ron: Better not pick those flowers.
+...Ha ha ha! You're right. No
+   flowers means no harvest.{PAUSE}
+Jon: Can you pick the crop right away?
+...Well, not right away...
+   Let's talk about that next time.{PAUSE}
+...And that's our show for today.{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+Hello, and welcome to Crop Talk.
+Today we're discussing crop harvesting.
+Ron and Jon are here with questions.{PAUSE}
+Ron: Some crops don't make fruit, right?
+...You mean root vegetables? Well,
+   we just eat their roots instead.{PAUSE}
+Jon: When should you pick those?
+...With root vegetables, wait until
+   their flowers bloom, then wither.{PAUSE}
+   Pull them up then and you'll find
+   a nice big root underneath.
+Ron: Can you eat that?{PAUSE}
+...You eat them all the time!
+   Turnips, potatoes, carrots...
+   they're all root vegetables.{PAUSE}
+Ron: Really? Those are roots?
+Jon: Well, duh...
+...Anyway, hope that helped.{PAUSE}
+...And that's our show for today.{EOM}{EOM}
+
+Message 75:
+Hello, and welcome to Crop Talk.
+Today we're discussing trees.
+Ron and Jon are here with questions.{PAUSE}
+Jon: Does it take time to grow trees?
+...It sure does. Trees take a long
+   time to grow big and tall.{PAUSE}
+Dex: Must be hard to care for them.
+...Actually, you don't even have to water
+   trees. Just plant a seed and wait.{PAUSE}
+Jon: Really? That's easy!
+...But trees need a lot of nutrition, so
+   you can't grow other crops nearby.{PAUSE}
+Jon: What happens?
+...Crops planted near a tree will bloom,
+   but they'll wither right away.{PAUSE}
+Dex: So it's a no-grow zone, huh.
+...That's right. Think carefully before
+  deciding where to plant a tree.{PAUSE}
+Jon: Hmm, I get it.
+...And that's our show for today.{EOM}{EOM}{EOM}
+
+Message 76:
+Hello, and welcome to Crop Talk.
+Today we're discussing seeds.
+Lex and Dex are here with questions.{PAUSE}
+Lex: Are there different kinds of seeds?
+...There are seeds that grow fruit or
+   vegetables at the ends of stems,{PAUSE}
+   seeds that grow big thick roots,
+   and seeds that grow into flowering
+   and fruiting trees.{PAUSE}
+Dex: Can you tell by looking at a seed?
+...It's pretty difficult, I'd say.
+   Let me teach you the basics.{PAUSE}
+   Fruit crops are {C13}tomatoes{C17}, {C13}watermelons{C17},
+   {C13}strawberries{C17}, {C13}melons{C17}, and so on.{PAUSE}
+   Root crops are {C13}turnips{C17}, {C13}potatoes{C17},
+   {C13}carrots{C17}, {C13}sweet potatoes{C17}, and so on.{PAUSE}
+   Tree crops are {C13}peaches{C17}, {C13}oranges{C17},
+   {C13}grapes{C17}, {C13}bananas{C17}, {C13}apples{C17}, and so on.
+   Got it?{PAUSE}
+Dex: Yep!
+Lex: There are other crops, too, right?
+...Of course--lots more.{PAUSE}
+   We'll talk about those later.
+   See you next time!{EOM}{EOM}
+
+Message 77:
+Hello, and welcome to Crop Talk.
+Today we're discussing raising crops.
+Lex and Dex are here with questions.{PAUSE}
+Lex: Do crops grow differently?
+...Of course. Some grow quickly,
+   but others take their time.{PAUSE}
+Dex: How long until the fruit appears?
+...The fastest crop matures in about
+   five days, I'd say.{PAUSE}
+   With root vegetables, you can't
+   see the part you have to harvest.
+   And trees take much longer.{PAUSE}
+Lex: How do you make crops grow quickly?
+...First of all, water them every day.
+   But don't get impatient!{PAUSE}
+   It takes time to grow good crops.
+   Just keep that in mind, okay?
+Lex: ...Okay.{PAUSE}
+   See you next time!{EOM}{EOM}{EOM}
+
+Message 78:
+Hello, and welcome to Crop Talk.
+Today we're discussing crop harvesting.
+Lex and Dex are here with questions.{PAUSE}
+Dex: Can you eat what you pick?
+...Well, not right away...
+Lex: When is this stuff ready, anyway?!{PAUSE}
+...For truly delicious crops, you have
+   to let the fruit mature a little.
+Lex: How long should you wait?{PAUSE}
+...Maybe a day or two at least. You'll
+   see the fruit get nice and plump.
+Lex: We can't see roots, though.{PAUSE}
+...You're right about that, Lex.
+   We'll talk about root vegetables
+   next time, okay?{PAUSE}
+Dex: What are root vegetables?
+Lex: Haven't you been paying attention?
+   See you next time!{EOM}
+
+Message 79:
+Hello, and welcome to Crop Talk.
+Today we're discussing crop harvesting.
+Lex and Dex are here with questions.{PAUSE}
+Lex: How do you pick tree crops?
+...Tree crops rely on the seasons.
+   When flowers bloom on a big tree,{PAUSE}
+   it'll bear fruit the next season.
+Dex: Then it's up the tree, right?
+...No, no, you can't just pick them.{PAUSE}
+   After they're nice and ripe, shake
+   the tree and collect what falls.
+Lex: ...Oh, okay.{PAUSE}
+...The fruit will eventually fall from
+   the tree whether you shake it or not.
+   You can gather those, too.{PAUSE}
+Dex: I'd rather shake the tree.
+...Either way is fine, but make sure you
+   pick up the fruit or you'll lose it.{PAUSE}
+Lex: So you have to pick up the
+   fallen fruit right away, huh.
+...That's the idea.{PAUSE}
+   See you next time!{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+Hello, and welcome to Crop Talk.
+Today we're discussing the four seasons.
+Lex and Dex are here with questions.{PAUSE}
+Lex: Do crops grow in certain seasons?
+...That's right. Each crop has a
+   season in which it grows.{PAUSE}
+Dex: What if it's the wrong season?
+...If the season changes, your crops
+   with wither before too long.{PAUSE}
+Lex: You really have to think about
+   when to plant your seeds, huh.{PAUSE}
+...That's exactly right.{PAUSE}
+   Examine your seeds to find out
+   the best time to plant them.
+   See you next time!{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+Hello, and welcome to Crop Talk.
+Today we're discussing seeds.
+Lex and Dex are here with questions.{PAUSE}
+Lex: Are there different kinds of seeds?
+...There are seeds that grow fruit or
+   vegetables at the ends of stems,{PAUSE}
+   seeds that grow big thick roots,
+   and seeds that grow into flowering
+   and fruiting trees.{PAUSE}
+Dex: Can you tell by looking at a seed?
+...It's pretty difficult, I'd say.
+   Let me teach you the basics.{PAUSE}
+   Fruit crops are {C13}tomatoes{C17}, {C13}watermelons{C17},
+   {C13}strawberries{C17}, {C13}melons{C17}, and so on.{PAUSE}
+   Root crops are {C13}turnips{C17}, {C13}potatoes{C17},
+   {C13}carrots{C17}, {C13}sweet potatoes{C17}, and so on.{PAUSE}
+   Tree crops are {C13}peaches{C17}, {C13}oranges{C17},
+   {C13}grapes{C17}, {C13}bananas{C17}, {C13}apples{C17}, and so on.
+   Got it?{PAUSE}
+Dex: Yep!
+Lex: There are other crops, too, right?
+...Of course--lots more.{PAUSE}
+   We'll talk about those later.
+   See you next time!{EOM}{EOM}
+
+Message 82:
+Hello, and welcome to Crop Talk.
+Today we're discussing raising crops.
+Lex and Dex are here with questions.{PAUSE}
+Lex: Do crops grow differently?
+...Of course. Some grow quickly,
+   but others take their time.{PAUSE}
+Dex: How long until the fruit appears?
+...The fastest crop matures in about
+   five days, I'd say.{PAUSE}
+   With root vegetables, you can't
+   see the part you have to harvest.
+   And trees take much longer.{PAUSE}
+Lex: How do you make crops grow quickly?
+...First of all, water them every day.
+   But don't get impatient!{PAUSE}
+   It takes time to grow good crops.
+   Just keep that in mind, okay?
+Lex: ...Okay.{PAUSE}
+   See you next time!{EOM}{EOM}{EOM}
+
+Message 83:
+Hello, and welcome to Crop Talk.
+Today we're discussing crop harvesting.
+Lex and Dex are here with questions.{PAUSE}
+Dex: Can you eat what you pick?
+...Well, not right away...
+Lex: When is this stuff ready, anyway?!{PAUSE}
+...For truly delicious crops, you have
+   to let the fruit mature a little.
+Lex: How long should you wait?{PAUSE}
+...Maybe a day or two at least. You'll
+   see the fruit get nice and plump.
+Lex: We can't see roots, though.{PAUSE}
+...You're right about that, Lex.
+   We'll talk about root vegetables
+   next time, okay?{PAUSE}
+Dex: What are root vegetables?
+Lex: Haven't you been paying attention?
+   See you next time!{EOM}
+
+Message 84:
+Hello, and welcome to Crop Talk.
+Today we're discussing crop harvesting.
+Lex and Dex are here with questions.{PAUSE}
+Lex: How do you pick tree crops?
+...Tree crops rely on the seasons.
+   When flowers bloom on a big tree,{PAUSE}
+   it'll bear fruit the next season.
+Dex: Then it's up the tree, right?
+...No, no, you can't just pick them.{PAUSE}
+   After they're nice and ripe, shake
+   the tree and collect what falls.
+Lex: ...Oh, okay.{PAUSE}
+...The fruit will eventually fall from
+   the tree whether you shake it or not.
+   You can gather those, too.{PAUSE}
+Dex: I'd rather shake the tree.
+...Either way is fine, but make sure you
+   pick up the fruit or you'll lose it.{PAUSE}
+Lex: So you have to pick up the
+   fallen fruit right away, huh.
+...That's the idea.{PAUSE}
+   See you next time!{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+Hello, and welcome to Crop Talk.
+Today we're discussing the four seasons.
+Lex and Dex are here with questions.{PAUSE}
+Lex: Do crops grow in certain seasons?
+...That's right. Each crop has a
+   season in which it grows.{PAUSE}
+Dex: What if it's the wrong season?
+...If the season changes, your crops
+   with wither before too long.{PAUSE}
+Lex: You really have to think about
+   when to plant your seeds, huh.{PAUSE}
+...That's exactly right.{PAUSE}
+   Examine your seeds to find out
+   the best time to plant them.
+   See you next time!{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 87:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 88:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 89:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 90:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 91:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 92:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 93:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 94:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 95:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 96:
+It's Jim and Tim's Farm Freak Quiz!
+Jim: It's my turn to ask the questions!
+   Here goes!{PAUSE}
+Tim: I hope I get it right...
+Jim: The question:
+   How many times a day{PAUSE}
+   does a cow eat?
+Tim: Ummm...twice!
+Jim: Ding ding ding! You got it!{PAUSE}
+Tim: All right!{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+It's Jim and Tim's Farm Freak Quiz!
+Tim: It's my turn to ask the questions!
+Jim: All right, bring it on!{PAUSE}
+Tim: The question:
+   When a cow eats {ITEM_0004}{C17},
+   which of these three changes?{PAUSE}
+   A. The cow's luck
+   B. The amount of milk
+   C. The milk's quality{PAUSE}
+Jim: Hmm, that's a tough one.
+   ...B, the amount of milk!
+Tim: Bzzzt! Wrong answer!{PAUSE}
+   It's C, the milk's quality!
+Jim: Rats! Next time I won't lose!
+   ...But listen, Tim...I{PAUSE}
+   don't think cows have luck.
+Tim: Hee hee!{EOM}
+
+Message 98:
+It's Jim and Tim's Farm Freak Quiz!
+Jim: It's my turn today!
+   Will it be a tough one?{PAUSE}
+Tim: I'll do my best!
+Jim: The question:
+   Which of these three things{PAUSE}
+   has no effect on milk quality?
+   A. The season
+   B. The cow's name{PAUSE}
+   C. The cow's health
+Tim: Aw, that's an easy one!
+   B, the cow's name!{PAUSE}
+Jim: Ding ding ding! You got it!
+   Was that one too easy for you?
+Tim: WAY too easy!{EOM}
+
+Message 99:
+It's Jim and Tim's Farm Freak Quiz!
+Tim: It's my turn to ask the questions!
+Jim: Hit me with your best shot!{PAUSE}
+Tim: The question:
+   About how long does a baby cow
+   stay in the mother cow's tummy?{PAUSE}
+   A. 30 days
+   B. 60 days
+   C. 266 days{PAUSE}
+Jim: I'll get it right this time!
+   C, 266 days!
+Tim: Bzzzt! Bzzzt! Bzzzt!{PAUSE}
+Jim: Whaaat? Wrong again?!
+Tim: The correct answer is A, 30 days!
+Jim: I've got to study harder...{PAUSE}
+Tim: Maybe you just need more snacks.{EOM}{EOM}{EOM}
+
+Message 100:
+It's Jim and Tim's Farm Freak Quiz!
+Jim: I'll ask the questions today.
+   This one's a real toughie!{PAUSE}
+Tim: Give it to me!
+Jim: The question:
+   What is it called when you must{PAUSE}
+   stop milking a cow for a few days
+   before she gives milk?
+Tim: Wow, this is a tough one!{PAUSE}
+   Ummmm...
+Jim: Give up?
+Tim: It's on the tip of my tongue...{PAUSE}
+   Ummmm...
+   I got it!
+Jim: Your answer, please!{PAUSE}
+Tim: Retaining milk!
+Jim: Ding ding ding!!
+   Good job, Tim!{PAUSE}
+   You have a great memory!
+Tim: Hee hee!{EOM}
+
+Message 101:
+It's Jim and Tim's Farm Freak Quiz!
+Tim: It's my turn to ask the questions!
+Jim: I'm feeling a little out of it,{PAUSE}
+   so I might not get it right...
+Tim: What are you talking about?
+   You NEVER get it right!{PAUSE}
+Jim: Oh, yeah...
+Tim: Okay, here's the question:
+   What's the best thing{PAUSE}
+   to give baby cows?
+Jim: Ummmm....milk, right?
+Tim: Ding ding ding!!{PAUSE}
+   You got it right, Jim!
+Jim: Hey, good for me!
+Tim: Feels good, doesn't it?{PAUSE}
+Jim: Yeah, it kinda does!{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+It's Jim and Tim's Farm Freak Quiz!
+Jim: My mind is totally clear!
+   I'll ask the questions today!{PAUSE}
+Tim: Go ahead!
+Jim: The question:
+   For how long after giving birth{PAUSE}
+   does a cow keep giving milk?
+Tim: That would be 60 days!
+Jim: Incorrect!{PAUSE}
+   A cow gives milk for
+   only about 40 days!
+Tim: Darn! I was so close!{PAUSE}
+Jim: Not really.{EOM}
+
+Message 103:
+It's Jim and Tim's Farm Freak Quiz!
+Tim: Today is a little different!
+Jim: What's up your sleeve?{PAUSE}
+Tim: We have an audio question for you!
+Jim: Hey, that sounds fun!
+Tim: Here we go!{PAUSE}
+Jim: Ready!
+Tim: Listen to the following
+   cow. How is it feeling?{PAUSE}
+   {S_3400D2}{S_3204B0}Well?
+Jim: Hmm...well, it sounded
+   kind of sad, in a way...{PAUSE}
+Tim: Ding ding ding!!
+   That was a cow's sad moo!
+Jim: I got it right!{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+It's Jim and Tim's Farm Freak Quiz!
+Jim: It's my turn to ask the questions!
+Tim: Lemme at 'em!{PAUSE}
+Jim: The Marble Cow's milk is
+   best for making cheese.
+   Now, which cow's milk is{PAUSE}
+   best for making butter?
+   A. Normal Cow
+   B. Star Cow{PAUSE}
+   C. Brown Cow
+Tim: Do you want me to pick the one
+   that's best for making butter?{PAUSE}
+   Because the Star Cow's milk
+   is good for both cheese and
+   for butter...{PAUSE}
+Jim: Urk...that's pretty sharp, Tim.
+Tim: Normal Cows are all right, but
+   then their milk isn't as good for{PAUSE}
+   butter. The only cow whose milk
+   isn't also good for cheese, like
+   the Star Cow, would have to be...{PAUSE}
+   the Brown Cow, right?
+Jim: Er, uh...right.
+Tim: Ha ha ha!{EOM}{EOM}{EOM}
+
+Message 105:
+It's Jim and Tim's Farm Freak Quiz!
+Tim: It's my turn today!
+   Here we go!{PAUSE}
+Jim: Ready!
+Tim: Which of these three is NOT
+   the right way to reduce your{PAUSE}
+   cow's stress levels?
+   A. Show it something it hates
+   B. Brush it{PAUSE}
+   C. Leave it out on a nice day
+Jim: That one's easy.
+   A, show it something it hates,{PAUSE}
+   is not the right thing to do!
+   That'll just make it even more
+   stressed out!{PAUSE}
+Tim: You got it!{EOM}
+
+Message 106:
+It's Ron and Jon's Crop Care Quiz!
+Ron: I'll ask the questions today!
+Jon: Here we go!{PAUSE}
+Ron: What fields are for planting seeds?
+Jon: That's an easy one.
+   Fields with furrows, of course!{PAUSE}
+Ron: Ding ding ding!!{EOM}
+
+Message 107:
+It's Ron and Jon's Crop Care Quiz!
+Ron: I'll ask the questions today!
+Jon: I'm feeling lucky!{PAUSE}
+Ron: How many times a day should
+   you water your crops?
+Jon: Umm, once a day!{PAUSE}
+Ron: Bzzzt! Twice a day!
+Jon: Rats! I got it wrong!
+   That'll keep 'em moist, huh.{PAUSE}
+Ron: You got that right.{EOM}{EOM}{EOM}
+
+Message 108:
+It's Ron and Jon's Crop Care Quiz!
+Jon: I'll ask the questions today!
+Ron: Here we go!{PAUSE}
+Jon: The question:
+   Are crops harvested when the flowers
+   are blooming, or after they fall off?{PAUSE}
+Ron: After the flowers fall off!
+Jon: Right you are!{EOM}{EOM}{EOM}
+
+Message 109:
+It's Ron and Jon's Crop Care Quiz!
+Ron: I'll ask the questions today!
+   Here we go!{PAUSE}
+   Which of these is a root vegetable?
+   A. Tomato
+   B. Turnip{PAUSE}
+   C. Watermelon
+Jon: B, turnip!
+Ron: Ding ding ding!!{PAUSE}
+Jon: All right!{EOM}
+
+Message 110:
+It's Ron and Jon's Crop Care Quiz!
+Jon: I'll ask the questions today!
+Ron: Bring it on!{PAUSE}
+Jon: The question:
+   What happens to seeds planted
+   too close to a tree?{PAUSE}
+Ron: Hmm...that would be...
+   I know! They wither and die!
+Jon: Ding ding ding!!{EOM}
+
+Message 111:
+It's Lex and Dex's Plant Power Quiz!
+Lex: I'll ask the questions today!
+Dex: I'll do my best!{PAUSE}
+Lex: Here we go:
+   What season is right for
+   planting sweet potatoes?{PAUSE}
+Dex: Umm...that would be fall!
+Lex: Correct!{EOM}{EOM}{EOM}
+
+Message 112:
+It's Lex and Dex's Plant Power Quiz!
+Dex: I'll ask the questions today!
+Lex: I can hardly wait!{PAUSE}
+Dex: Ready? The question:
+   If you plant tomatoes and carrots
+   on the same day, which one will{PAUSE}
+   be ready to be picked first?
+Lex: That's tough...
+   The carrots?{PAUSE}
+Dex: Bzzzt! Wrong answer!
+   Tomatoes grow faster!{EOM}{EOM}{EOM}{EOM}
+
+Message 113:
+It's Lex and Dex's Plant Power Quiz!
+Lex: Ready? Here we go!
+Dex: Go for it!{PAUSE}
+Lex: True or false:
+   You can pick a fruit right
+   after its flowers have fallen{PAUSE}
+   and the fruit has appeared.
+   Your answer, please.
+Dex: That's definitely false.{PAUSE}
+   Fruit picked that early hasn't
+   had any time to ripen!
+Lex: Good for you--right answer!{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+It's Lex and Dex's Plant Power Quiz!
+Dex: Ready for this one, Lex?
+Lex: Go ahead!{PAUSE}
+Dex: How do you harvest fruit trees?
+Lex: Well, you either shake the tree
+   or wait for the fruit to fall.{PAUSE}
+Dex: Ding ding ding!!
+   I knew you could do it, Lex!{EOM}{EOM}{EOM}
+
+Message 115:
+It's Lex and Dex's Plant Power Quiz!
+Lex: Here's today's question!
+Dex: I'm ready for it, too!{PAUSE}
+Lex: What happens if you plant
+   a seed in the wrong season?
+Dex: C'mon, Lex, that's too easy!{PAUSE}
+   It's going to wither, of course.
+Lex: And you are correct!
+Tex: This here quiz show...it's{PAUSE}
+   jest too durn easy, y'all.
+Both: ...Where'd you come from?{EOM}{EOM}{EOM}
+
+Message 116:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 117:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 118:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 119:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 120:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 121:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 122:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 123:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 124:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 125:
+This concludes today's broadcast.{EOM}{EOM}{EOM}
+
+Message 126:
+{VAR_00}
+{VAR_01}
+{VAR_02}{EOM}{EOM}{EOM}{EOM}
+
+Message 127:
+Today you will be...very lucky!{EOM}
+
+Message 128:
+Today you will be...lucky!{EOM}{EOM}
+
+Message 129:
+Today you will be...unlucky.{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+A cocktail will improve your vitality.{EOM}{EOM}
+
+Message 131:
+Aim for straightforward communication.{EOM}{EOM}
+
+Message 132:
+Eat something yummy and take it easy.{EOM}{EOM}{EOM}
+
+Message 133:
+Your smile will bring you luck!{EOM}
+
+Message 134:
+Today's lucky item is: Wild plants.{EOM}
+
+Message 135:
+Someone older may bring you happiness...{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

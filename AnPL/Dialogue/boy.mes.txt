@@ -1,0 +1,212 @@
+Message 0:
+I'm looking kind of bland...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+Hmm. I've got to try a little
+harder to look nice...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+Ugh. Terrible.{PAUSE}{EOM}
+
+Message 3:
+Oh dear. I look tired.
+I need to relax...{PAUSE}{EOM}{EOM}
+
+Message 4:
+I wonder why I'm so tired recently...{PAUSE}{EOM}{EOM}
+
+Message 5:
+I'm definitely not getting enough sleep.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+Yaaaawn. I'm sleepy...{PAUSE}{EOM}
+
+Message 7:
+My eyes are bloodshot.{PAUSE}{EOM}
+
+Message 8:
+I've got dark circles underneath
+my eyes...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+Why do my eyes look so
+droopy...?{PAUSE}{EOM}{EOM}
+
+Message 10:
+My face looks dead.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+Maybe I'm working a bit too hard.{PAUSE}{EOM}{EOM}
+
+Message 12:
+Hmm... I can see that I'm tired.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+Sigh. That's a tired face...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+My face looks dull somehow.
+I guess I'm overly tired...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+I wonder how old I look...{PAUSE}{EOM}
+
+Message 16:
+Could this lead to a parallel world?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+I've still got it!
+I'm still young!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+A p-pimple!{PAUSE}
+I want to pop it!
+Aggghh!{PAUSE}{EOM}
+
+Message 19:
+The road to beauty is a long one...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+It can't be!
+A zit on my face!?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 21:
+Come on! You can be just like Celia!{PAUSE}
+......................{PAUSE}
+No, I suppose that's impossible.{PAUSE}{EOM}
+
+Message 22:
+I gained weight after giving birth...{PAUSE}
+No no! I'm still fine!{PAUSE}
+.................I think.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 23:
+You go girl!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 24:
+My eyebrows are too bushy.{PAUSE}{EOM}
+
+Message 25:
+I guess some cultures think that skin like
+an eggshell is the most attractive...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+Children watch their parents as they grow
+up, so I've got to set a good example!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 27:
+Maybe I should go on a diet...{PAUSE}{EOM}
+
+Message 28:
+You can do it!{PAUSE}{EOM}
+
+Message 29:
+The candle that burns twice as bright...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 30:
+Rome wasn't built in a day, you know.{PAUSE}{EOM}{EOM}
+
+Message 31:
+Oh my goodness, me...
+Uh-oh, I said that again.
+I must be getting old.{PAUSE}{EOM}
+
+Message 32:
+I'm just entering the prime of womanhood.
+Can't give up now...{PAUSE}{EOM}
+
+Message 33:
+Why doesn't anyone seem to think that the
+face of a working woman is beautiful...?{PAUSE}{EOM}
+
+Message 34:
+That's the face of a hard worker.{PAUSE}{EOM}{EOM}
+
+Message 35:
+I wish I were a little prettier...{PAUSE}{EOM}
+
+Message 36:
+Yep, I'm still OK.{PAUSE}{EOM}
+
+Message 37:
+Uh-oh. I'm getting crow's feet...{PAUSE}{EOM}{EOM}
+
+Message 38:
+“Mirror mirror, on the wall,
+who's the fairest one of all?”
+Did I really say that?{PAUSE}{EOM}
+
+Message 39:
+I think this mirror's a little curved...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+Wrinkles!
+Disappear!!{PAUSE}{EOM}{EOM}
+
+Message 41:
+Takakura...
+Sure does live long...{PAUSE}{EOM}
+
+Message 42:
+A gray hair......
+Do I dye or keep plucking grey hairs out?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+Am I aging gracefully?{PAUSE}{EOM}
+
+Message 44:
+I think I'm younger than I look, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+My skin isn't very young looking...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+I hope I can stay like this forever.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 47:
+Yep. I'm still fine...{PAUSE}{EOM}
+
+Message 48:
+I like my face quite a bit.
+I guess.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+“Good job today.”
+Do I have to say that to myself now?{PAUSE}{EOM}
+
+Message 50:
+“Mirror, mirror, on the wall,
+who's the fairest one of all?”
+Oh never mind.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 51:
+It's show time!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+I wish I were a Harvest Sprite.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+I look kind of like a tiny little rose...{PAUSE}{EOM}{EOM}
+
+Message 54:
+I hate my bangs.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 55:
+I think my head's kind of big...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+Whew...
+I'm tired.{PAUSE}{EOM}
+
+Message 57:
+My hair has quite a bit of
+volume to it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+Hee hee♪
+My hair is nice and long and straight♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+I wish people would stop saying that
+I “bought the farm...”{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

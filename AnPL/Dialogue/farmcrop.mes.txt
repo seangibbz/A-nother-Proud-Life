@@ -1,0 +1,255 @@
+Message 0:
+♥{EOM}{EOM}{EOM}
+
+Message 1:
+Tomato{EOM}{EOM}
+
+Message 2:
+Watermelon{EOM}{EOM}
+
+Message 3:
+Strawberry{EOM}{EOM}
+
+Message 4:
+Melon{EOM}{EOM}{EOM}
+
+Message 5:
+Gretoma{EOM}
+
+Message 6:
+Berrytoma{EOM}{EOM}{EOM}
+
+Message 7:
+Melotoma{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+Berryber{EOM}{EOM}{EOM}{EOM}
+
+Message 9:
+Melober{EOM}
+
+Message 10:
+Berrylon{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+Trady{EOM}{EOM}{EOM}
+
+Message 12:
+Trady{EOM}{EOM}{EOM}
+
+Message 13:
+Raury{EOM}{EOM}{EOM}
+
+Message 14:
+Cabber{EOM}{EOM}
+
+Message 15:
+Dhibe{EOM}{EOM}{EOM}
+
+Message 16:
+Caberry{EOM}
+
+Message 17:
+Dhilon{EOM}{EOM}
+
+Message 18:
+Camelo{EOM}{EOM}
+
+Message 19:
+Rare 1{EOM}{EOM}
+
+Message 20:
+Rare 2{EOM}{EOM}
+
+Message 21:
+Rare 3{EOM}{EOM}
+
+Message 22:
+Rare 4{EOM}{EOM}
+
+Message 23:
+Rare 5{EOM}{EOM}
+
+Message 24:
+Rare 11{EOM}
+
+Message 25:
+Rare 12{EOM}
+
+Message 26:
+Rare 13{EOM}
+
+Message 27:
+Rare 14{EOM}
+
+Message 28:
+Rare 19{EOM}
+
+Message 29:
+Rare 20{EOM}
+
+Message 30:
+Rare 21{EOM}
+
+Message 31:
+Rare 22{EOM}
+
+Message 32:
+Turnip{EOM}{EOM}
+
+Message 33:
+Potato{EOM}{EOM}
+
+Message 34:
+Carrot{EOM}{EOM}
+
+Message 35:
+Yam{EOM}
+
+Message 36:
+Radita{EOM}{EOM}
+
+Message 37:
+Cady{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+Kandy{EOM}{EOM}{EOM}
+
+Message 39:
+Tataro{EOM}{EOM}
+
+Message 40:
+Bashota{EOM}
+
+Message 41:
+Kanro{EOM}{EOM}{EOM}
+
+Message 42:
+Tobatama{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+Yamato{EOM}{EOM}
+
+Message 44:
+Bashber{EOM}
+
+Message 45:
+Kashry{EOM}{EOM}
+
+Message 46:
+Paberryta{EOM}{EOM}{EOM}
+
+Message 47:
+Berrican{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+Potamelo{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+Sholo{EOM}{EOM}{EOM}
+
+Message 50:
+Rare 6{EOM}{EOM}
+
+Message 51:
+Rare 7{EOM}{EOM}
+
+Message 52:
+Rare 8{EOM}{EOM}
+
+Message 53:
+Rare 9{EOM}{EOM}
+
+Message 54:
+Rare 15{EOM}
+
+Message 55:
+Rare 16{EOM}
+
+Message 56:
+Rare 17{EOM}
+
+Message 57:
+Rare 18{EOM}
+
+Message 58:
+Rare 23{EOM}
+
+Message 59:
+Rare 24{EOM}
+
+Message 60:
+Rare 25{EOM}
+
+Message 61:
+Peach{EOM}{EOM}{EOM}
+
+Message 62:
+Orange{EOM}{EOM}
+
+Message 63:
+Grape{EOM}{EOM}{EOM}
+
+Message 64:
+Banana{EOM}{EOM}
+
+Message 65:
+Apple{EOM}{EOM}{EOM}
+
+Message 66:
+Lanmuge{EOM}
+
+Message 67:
+Jurum{EOM}{EOM}{EOM}
+
+Message 68:
+Magerum{EOM}
+
+Message 69:
+Phurum{EOM}{EOM}
+
+Message 70:
+Orahge{EOM}{EOM}
+
+Message 71:
+Magenge{EOM}
+
+Message 72:
+Oraphu{EOM}{EOM}
+
+Message 73:
+Gehju{EOM}{EOM}{EOM}
+
+Message 74:
+Phuju{EOM}{EOM}{EOM}
+
+Message 75:
+Appage{EOM}{EOM}
+
+Message 76:
+Rare 1{EOM}{EOM}
+
+Message 77:
+Rare 2{EOM}{EOM}
+
+Message 78:
+Rare 3{EOM}{EOM}
+
+Message 79:
+Rare 4{EOM}{EOM}
+
+Message 80:
+Rare 5{EOM}{EOM}
+
+Message 81:
+Rare 6{EOM}{EOM}
+
+Message 82:
+Rare 7{EOM}{EOM}
+
+Message 83:
+Rare 8{EOM}{EOM}
+
+Message 84:
+Rare 9{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

@@ -1,0 +1,590 @@
+Message 0:
+I think I'm going to
+get to bed now...{PAUSE}{EOM}
+
+Message 1:
+It's time for bed, you see...
+You ought to be heading home now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+Pleasant dreams.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+I'm about to go out,
+I'm afraid...{PAUSE}{EOM}
+
+Message 4:
+I have to go out now.
+See you later...{PAUSE}{EOM}
+
+Message 5:
+See you...{PAUSE}{EOM}
+
+Message 6:
+Hello?
+Excuse me.{PAUSE}{EOM}{EOM}
+
+Message 7:
+Excuse me, {PETE}?{PAUSE}{EOM}
+
+Message 8:
+Ah, how disappointing.
+It looks like you're all sold out.{PAUSE}{EOM}{EOM}
+
+Message 9:
+Oh, well--I suppose I'll just
+have to check back later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+Oh, don't mind me.
+I'm just browsing, you see.
+Browsing can be fun, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+Is this all you have?
+Hmm...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+I like this {VAR_00}.
+How much?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}{EOM}
+
+Message 13:
+{S_340160}What? Really?!
+My, that's affordable. Thank you!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+Ah, I see.
+All right--I'll take it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+{S_340161}Oh, my...
+That's too bad.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 16:
+I think I'm going
+to call it a day.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+So you're {PETE}, the newcomer.
+My husband Galen and I live
+here in Forget-Me-Not Valley.{PAUSE}{WIPE}
+We came to live out the rest
+of our lives in peace and comfort.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+{FACE_120002}......{PAUSE}{EOM}
+
+Message 19:
+{FACE_120002}Ahh...
+It's no fun getting old.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+{FACE_120002}What do you want?{PAUSE}{EOM}{EOM}
+
+Message 21:
+{FACE_120002}Leave me alone if you don't need anything.{PAUSE}{EOM}
+
+Message 22:
+{S_340161}And a good morning to you!{PAUSE}{EOM}{EOM}
+
+Message 23:
+{S_340161}Hello there!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+{S_340161}And a good evening to you!{PAUSE}{EOM}{EOM}
+
+Message 25:
+{S_340161}And a good evening to you!
+...But what could you
+be doing out so late?{PAUSE}{EOM}{EOM}
+
+Message 26:
+{S_340161}Ah, {PETE}.
+...Good evening.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+{S_340161}Ah, {PETE}.
+Good to see you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+{S_340161}What are you doing at this hour?
+Goodness me!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 29:
+{S_340161}Ah, {PETE}.
+Imagine meeting you here!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 30:
+Eh? Is that for me?
+{FACE_120003}...How wonderful! That's my favorite.
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+{S_340160}{FACE_120003}{S_340160}This is my lucky day!
+Thank you so much.{PAUSE}{EOM}
+
+Message 32:
+{FACE_120002}Oh, I see...
+That's too bad, but I understand.
+Don't worry about it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+Oh, my!
+This is my favorite.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 34:
+Goodness...that looks splendid.
+{FACE_120003}Eh? Are you giving it to me?
+{CHOICE Y/N DEF1}{EOM}
+
+Message 35:
+I really can't help myself
+when those are around...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+{FACE_120009}Well, ah...
+I'm sorry, but I don't much
+like those, you see...{PAUSE}{EOM}
+
+Message 37:
+I liked them when I was younger, but
+as you get older, your tastes change.
+Sorry.{PAUSE}{EOM}{EOM}
+
+Message 38:
+I'm not really
+interested in that.{PAUSE}{EOM}
+
+Message 39:
+I'm afraid I still don't like them.
+Sorry about that.{PAUSE}{EOM}{EOM}
+
+Message 40:
+Oh, my! How cute!
+Animals certainly are relaxing.{PAUSE}{EOM}{EOM}
+
+Message 41:
+{S_340161}What a little darling!
+Maybe we ought to get a pet
+for ourselves.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+{S_340161}And what kind of seed is that?{PAUSE}{EOM}{EOM}
+
+Message 43:
+I don't know what kind of seed it is,
+but I know you'll grow it well.{PAUSE}{EOM}{EOM}
+
+Message 44:
+Did you grow that on your farm?
+It looks so fresh and tasty...
+You can always share them with me.{PAUSE}{EOM}{EOM}
+
+Message 45:
+My, does that look delicious.{PAUSE}{EOM}{EOM}
+
+Message 46:
+From your farm, right?
+It looks nice and fresh.
+It must be very good milk.{PAUSE}{EOM}
+
+Message 47:
+Old and new bones need milk's calcium.
+We must not forget that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+{S_340160}{S_340160}That dish looks delicious!
+{FACE_120003}Is--is that for me?
+{CHOICE Y/N DEF1}{EOM}
+
+Message 49:
+How delectable!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+Ah, a hoe?
+Well, now, I wouldn't know
+the first thing about that.{PAUSE}{EOM}{EOM}
+
+Message 51:
+Are you off to tend your fields now?
+Don't work too hard.{PAUSE}{EOM}{EOM}
+
+Message 52:
+It must get easier to use the
+more practice you get with it.
+But not for an old woman like me.{PAUSE}{EOM}
+
+Message 53:
+Ah, a sickle?
+Well, now, I wouldn't know
+much at all about that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 54:
+This may be common sense,
+but you're better off not swinging
+that thing around here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 55:
+That reminds me of my
+husband's watering can.{PAUSE}{EOM}{EOM}
+
+Message 56:
+Do you use that watering
+can on bonsai, too?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+What on earth is that?{PAUSE}{EOM}
+
+Message 58:
+Ah, so that's a milking machine?
+That must be how you get such
+delicious milk.{PAUSE}{EOM}
+
+Message 59:
+Those are... clippers, right?
+You be careful with those.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+Do you shear sheep with those?
+Just be careful, all right?{PAUSE}{EOM}
+
+Message 61:
+And what is this?{PAUSE}{EOM}{EOM}
+
+Message 62:
+Tools get easier to handle
+the more you use them.{PAUSE}{EOM}{EOM}
+
+Message 63:
+I may be an old woman now,
+but I still love jewels.
+What kind of stone is that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 64:
+What a mysterious stone.
+I bet it's a very expensive
+and fancy jewel in the rough.{PAUSE}{EOM}
+
+Message 65:
+{S_340160}Oh, my!
+Why, how wonderful!{PAUSE}{EOM}
+
+Message 66:
+And where did you find that?
+I'm so excited.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+And what kind of plant is that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+I don't quite understand the details.{PAUSE}{EOM}{EOM}
+
+Message 69:
+What could that be?
+Some kind of giant cookie?{PAUSE}{EOM}
+
+Message 70:
+What are you going to do with
+a giant cookie, anyway?{PAUSE}{EOM}{EOM}
+
+Message 71:
+What could that be?
+Some kind of seasoning?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+Are you going to use that to
+cook something delicious for me?{PAUSE}{EOM}{EOM}
+
+Message 73:
+{S_3400DA}{S_3205DC}What a strange sound.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+{S_3400DA}{S_3205DC}It's quite an interesting sound--
+where on earth did you find that?{PAUSE}{EOM}{EOM}
+
+Message 75:
+Is that some sort of medal?
+Wait... where have I seen that before?{PAUSE}{EOM}
+
+Message 76:
+I certainly don't know anything
+about any medals.{PAUSE}{EOM}{EOM}
+
+Message 77:
+Ah, a necklace!
+I'm afraid it's not my style, though.{PAUSE}{EOM}{EOM}
+
+Message 78:
+It might suit me nicely if
+I were a little younger.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+What book do you have there?
+It's simply full of symbols...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+Aha, is that used in music? What do they
+call it...? Sheet music?{PAUSE}{EOM}{EOM}
+
+Message 81:
+Say, is that some sort of bomb?!
+A-are you crazy?{PAUSE}{EOM}{EOM}
+
+Message 82:
+Fireworks, you say?
+Now, that's quite enough.
+You'll give me a heart attack!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+Eh? Are you giving it to me?
+Oh, no, that's all right!
+It's the thought that counts.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+{S_340160}Eh?
+Is that a present for someone?{PAUSE}{EOM}{EOM}
+
+Message 85:
+We used to live in the city. We
+came to Forget-Me-Not Valley in our
+old age for a more leisurely life.{PAUSE}{EOM}
+
+Message 86:
+My husband is stubborn and cranky, but
+he really does look after me.
+I'm a very lucky woman.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+I've been taking care of my husband ever
+since we came to Forget-Me-Not Valley.
+And I'll keep doing it, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+{FACE_120003}The last thing you gave me
+was truly delicious.
+Thank you so much!{PAUSE}{EOM}
+
+Message 89:
+{FACE_120002}The last thing you gave me...
+well, it's not really my favorite.
+I'm sorry about that.{PAUSE}{EOM}
+
+Message 90:
+That {VAR_00} you gave me
+was, well...almost delicious.{PAUSE}{EOM}{EOM}
+
+Message 91:
+That {VAR_00} you gave me
+was pretty tasty.
+I'm looking forward to the next one.{PAUSE}{EOM}
+
+Message 92:
+That {VAR_00} you gave me
+was the best I'd tasted!
+Good work!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+That {VAR_00} you gave me
+was one of my favorites.
+Good work!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+That milk you gave me...
+I don't know what kind it was, but
+I'm afraid it's not to my taste.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+That milk you gave me...
+I don't know what kind it was, but
+it was pretty tasty.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 96:
+{FACE_12000A}That milk you gave me...
+I don't know what kind it was, but
+it was rather yummy. Thank you!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+{FACE_120003}That milk you gave me...
+it was just about the best I've had!
+Good work!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 98:
+That milk you gave me...
+I don't know what kind it was, but
+it was a little smelly.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+That milk you gave me...
+it wasn't half bad, actually.
+It was a little smelly, though.{PAUSE}{EOM}
+
+Message 100:
+{FACE_12000A}That cheese you gave me...
+I don't know what kind it was, but
+it was really delicious! Thank you!{PAUSE}{EOM}{EOM}
+
+Message 101:
+That cheese you gave me...
+You made that?
+It was delicious!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 102:
+{FACE_12000A}That butter you gave me...
+I don't know what kind it was, but
+it was really delicious! Thank you!{PAUSE}{EOM}{EOM}
+
+Message 103:
+That butter you gave me...
+You made that?
+It was delicious!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+{FACE_12000A}That cooking of yours
+was pretty tasty.
+Thank you!{PAUSE}{EOM}
+
+Message 105:
+{FACE_12000A}The last one you gave me
+was somewhat tasty. Thank you!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+You're working hard every day,
+aren't you. Good job!
+...You certainly are reliable.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+Are you used to working on the farm yet?
+It must still be difficult, but if
+you work hard, you'll be rewarded.{PAUSE}{EOM}
+
+Message 108:
+Seems like we've been here forever...
+Forget-Me-Not Valley really is a
+lovely place.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+I can really feel how good this
+place is--I could live here forever.
+Even if there's not much to do.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 110:
+I like Forget-Me-Not Valley so much,
+I'll live here for the rest of my days.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 111:
+.........{PAUSE}{EOM}{EOM}
+
+Message 112:
+.........{PAUSE}{EOM}{EOM}
+
+Message 113:
+Relax and take it easy, all right?
+Not that there's much to do.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 114:
+I'm afraid I'm not much
+of a hostess.{PAUSE}{EOM}{EOM}
+
+Message 115:
+I can really relax here.
+Life is good.{PAUSE}{EOM}
+
+Message 116:
+So you like it here, too?
+That's good to hear.{PAUSE}{EOM}
+
+Message 117:
+{FACE_12000A}This time of year, I remember
+when my husband and I came here
+to Forget-Me-Not Valley.{PAUSE}{WIPE}
+The flowers were blooming
+so beautifully.{PAUSE}{EOM}
+
+Message 118:
+It's easy for old folks to live in a
+laidback place like Forget-Me-Not Valley.{PAUSE}{EOM}
+
+Message 119:
+Goodness, it's hot... still, summer
+in Forget-Me-Not Valley isn't as bad
+as it is elsewhere...{PAUSE}{EOM}
+
+Message 120:
+My, it certainly is hot.
+Us old folks really feel it, too.{PAUSE}{EOM}
+
+Message 121:
+This is the best season for us old folks.{PAUSE}{WIPE}{EOM}
+
+Message 122:
+Lately I've been feeling
+kind of lonely.
+Maybe I'm just getting old.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 123:
+Goodness, it's cold. Still, winter
+in Forget-Me-Not Valley isn't as bad
+as it is elsewhere. {PAUSE}{WIPE}{EOM}{EOM}
+
+Message 124:
+You certainly are
+doing well...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+{FACE_12000A}My, but isn't little Hugh cute!
+He may be a little mischievous, but
+that's part of his charm.{PAUSE}{EOM}{EOM}
+
+Message 126:
+{FACE_12000A}Hugh always reminds me of my
+grandson, back in the city.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 127:
+{FACE_12000A}Hugh is as cute as my own grandchild.
+He's the apple of my eye!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+You know those tools Van
+brings by sometimes?
+They're cheap and good quality.{PAUSE}{EOM}{EOM}
+
+Message 129:
+Do you often buy from Van, too?
+I don't know what Forget-Me-Not Valley
+would do without him.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 130:
+Vesta always comes by to
+drop off things for us.
+She's a real lifesaver.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+Vesta often comes by to
+drop off things for us.
+We're so grateful.{PAUSE}{EOM}
+
+Message 132:
+I'm sorry, but could we
+make it another day?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 133:
+It's really coming down...{PAUSE}{EOM}
+
+Message 134:
+Days like this have a certain
+degree of character...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 135:
+A fight between a turtle and a human, eh?
+I'm not going to lose!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+{FACE_120007}I won!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+ {S_3200C8}.{S_3200C8}.{S_3200C8}.{S_3200C8}Phew...{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

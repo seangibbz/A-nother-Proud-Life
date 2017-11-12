@@ -1,0 +1,1227 @@
+Message 0:
+{FACE_010023}{S_3401A7}Would people like me better
+if I was more cheerful?{PAUSE}{EOM}
+
+Message 1:
+{S_3401A8}{FACE_010023}They say “be yourself”,
+but I'm not sure what that means...{PAUSE}{EOM}
+
+Message 2:
+{S_3401A9}{FACE_01000C}Have I changed since I was little?{PAUSE}{EOM}{EOM}
+
+Message 3:
+{FACE_010023}{S_3401A7}Would people like me better
+if I was more cheerful?{PAUSE}{EOM}
+
+Message 4:
+{S_3401A8}{FACE_010023}They say “be yourself”,
+but I'm not sure what that means...{PAUSE}{EOM}
+
+Message 5:
+{S_3401A9}{FACE_01000C}Have I changed since I was little?{PAUSE}{EOM}{EOM}
+
+Message 6:
+{FACE_010001}Did you go to bed and get
+up early when you were a kid?
+{CHOICE2 DEF0}
+Of course I did!
+I hated leaving my bed!{EOM}
+
+Message 7:
+{S_3401A5}{FACE_010003}I thought so!
+I'm going to go to bed and wake up
+early, too, so I can grow up fast!{PAUSE}{EOM}
+
+Message 8:
+{S_3401A6}{FACE_010009}You did? That was naughty of you!
+{FACE_010001}I'm going to go to bed and wake up
+early, like a responsible adult!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+{FACE_01000A}I'm being good, right?{PAUSE}{EOM}
+
+Message 10:
+{FACE_010023}I wanna be a good adult when I grow up.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+{FACE_010023}I should try to be like {GRANT}!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_010023}It's my life, I'll make my own decisions.{PAUSE}{EOM}{EOM}
+
+Message 13:
+{S_3401A9}{FACE_010023}Why do there have to be so many
+rules?{PAUSE}{EOM}{EOM}
+
+Message 14:
+{S_3401A8}{FACE_010023}I don't want to grow up.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+{FACE_010023}I guess rules are necessary after all.
+I'm finally beginning to understand.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 16:
+{FACE_010023}Repeating the same routine every day...
+{FACE_010001}It must be important.{PAUSE}{EOM}{EOM}
+
+Message 17:
+{FACE_010023}Everyone should leave home at least once
+and take a look at the outside world.{PAUSE}{WIPE}
+{FACE_010001}You've seen the world
+outside Forget-Me-Not Valley, haven't you?
+{FACE_010007}{S_3401A8}For me, this is the only world I know.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+Hi! I hope you're getting enough rest.
+{CHOICE2 DEF0}
+Maybe I need more sleep, actually.
+You bet I am!{EOM}{EOM}
+
+Message 19:
+{S_3401A8}{FACE_010009}Well, you should try to get some rest.
+{FACE_010019}You're not as young as you used to be.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 20:
+{FACE_010001}I see.
+{FACE_010009}Please don't overwork yourself.
+{FACE_010019}You're not as young as you used to be.{PAUSE}{EOM}{EOM}
+
+Message 21:
+Time is money, as they say.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 22:
+{FACE_010023}I've been thinking a lot lately,
+about what I should try to be.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+{FACE_010023}I'm starting to think seriously
+about the kind of life I want to live.{PAUSE}{EOM}
+
+Message 24:
+Is your work pretty hard?
+{CHOICE2 DEF0}
+Yes, it is.
+Not really.{EOM}{EOM}{EOM}{EOM}
+
+Message 25:
+I see.
+{S_3401A7}{FACE_010009}Must be hard to be a grown-up.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+{FACE_01000C}Really?
+{FACE_010000}I thought work was supposed to be hard.
+{FACE_01000C}Are you slacking off?{PAUSE}{EOM}{EOM}
+
+Message 27:
+Work is supposed to be hard, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+{FACE_010001}I hope your work goes well.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+{FACE_010001}I'd just like to be of some
+use to someone.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+{FACE_010001}Society needs rules to function.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+It's important to be on time.{PAUSE}{EOM}{EOM}
+
+Message 32:
+Um...
+What are your plans for the future?
+{CHOICE3 DEF0}
+To make the farm bigger.
+I already am in my future...
+To live on a deserted tropical island...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 33:
+{FACE_010001}Yes, it's a good thing
+to have some kind of goal.{PAUSE}{EOM}{EOM}
+
+Message 34:
+{S_3401A8}{FACE_010009}Come on now,
+you're not that old yet.{PAUSE}{WIPE}
+Where would we be
+without our dreams?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+{FACE_01000D}Oh Mom...
+You'll never change, will you?{PAUSE}{WIPE}
+{FACE_010019}You're just too embarrassed to tell me
+because I'm your child.{PAUSE}{EOM}{EOM}
+
+Message 36:
+{FACE_010009}Take care of yourself, you hear?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+{FACE_010009}Make sure you eat properly, OK?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+{FACE_010009}Get plenty of sleep.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+{FACE_010024}I'm kinda bored...{PAUSE}{EOM}
+
+Message 40:
+{S_3401A5}{FACE_01001A}I scratched my hand again!{PAUSE}{EOM}{EOM}
+
+Message 41:
+{S_3401A6}{FACE_010004}I see you, you dirty pirate!
+You're not getting my treasure!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+{S_3401A9}{FACE_010004}Get lost, will you!?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 43:
+{FACE_01000D}Adults can never understand
+how I feel.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+{S_3401A9}{FACE_010004}I'm practically an adult!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 45:
+{S_3401A8}{FACE_010009}I wish I could go back to being a kid...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+{FACE_010001}I'm kinda bored...{PAUSE}{EOM}
+
+Message 47:
+{FACE_010009}I can't wait for something to happen!{PAUSE}{EOM}{EOM}
+
+Message 48:
+{S_3401A7}{FACE_010019}Dad yelled at me again.
+{FACE_010004}He can just get lost!
+{CHOICE3 DEF0}
+How dare you say that!?
+Serves you right for not behaving.
+Dad is a little strict, isn't he?{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+{FACE_010004}Oh come on,
+now you're scolding me too?
+{FACE_01000B}You can get lost, too!{PAUSE}{EOM}
+
+Message 50:
+{FACE_010009}You betcha!
+He looks like a real monster
+when he screams at me!{PAUSE}{WIPE}
+{FACE_01000C}Why did you marry him, anyway?
+Why?{PAUSE}{EOM}{EOM}
+
+Message 51:
+{FACE_01000A}Look at me, I've got wings!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+{FACE_01000A}I can call the wind!
+It's true! It's really true!{PAUSE}{EOM}{EOM}
+
+Message 53:
+{FACE_010002}Who cares about rules, anyway?{PAUSE}{EOM}
+
+Message 54:
+{S_3401A9}{FACE_010002}What's wrong with putting yourself
+first?
+{FACE_010004}Who cares what others think!{PAUSE}{EOM}{EOM}
+
+Message 55:
+{S_3401A9}{FACE_010002}What do you want?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+{S_3401A8}{FACE_010009}I hate having to always worry
+about the time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+{FACE_010001}Doing what you want when you want.
+{S_3401AA}That's what's best.{PAUSE}{EOM}{EOM}
+
+Message 58:
+{FACE_010023}You should just try and go with the flow.
+{FACE_010001}You really shouldn't work too hard.{PAUSE}{EOM}{EOM}
+
+Message 59:
+{FACE_010001}If nobody was home, I'd like to stay up
+and go out at night.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+{S_3401A7}{FACE_010023}What would life be like without clocks?
+{FACE_010001}It might be fun...{PAUSE}{EOM}{EOM}
+
+Message 61:
+{S_3401A8}{FACE_010002}I can't wait to become independent.{PAUSE}{EOM}
+
+Message 62:
+{FACE_010002}Everyone should live the way they want to.{PAUSE}{EOM}
+
+Message 63:
+{FACE_010001}Only narrow-minded people care about time.{PAUSE}{EOM}
+
+Message 64:
+{S_3401A8}{FACE_010007}I find it hard to get along with people.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+{FACE_010009}Who cares about me, anyway...{PAUSE}{EOM}{EOM}
+
+Message 66:
+{S_3401A7}{FACE_01000C}Do I act like a sissy?
+{FACE_010009}{KATE} said I do...{PAUSE}{EOM}{EOM}
+
+Message 67:
+{FACE_010002}You were laughing at me, weren't you?{PAUSE}{EOM}{EOM}
+
+Message 68:
+{S_3401A8}{FACE_010007}I wish I'd never been born.
+Who cares, anyway...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+{FACE_010009}People like me are better suited
+to staying in the background.{PAUSE}{EOM}
+
+Message 70:
+{S_3401A8}{FACE_010007}Nobody's ever going to like me.
+I know it.{PAUSE}{EOM}{EOM}
+
+Message 71:
+{FACE_01000C}Am I behaving well?
+{CHOICE3 DEF0}
+Of course you are.
+You're a bad seed.
+Well, do you think you are?{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+{S_3401A5}{FACE_010003}Yeah, I think so!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+{S_3401A7}{FACE_010009}Very funny.
+So I should try and be better?{PAUSE}{EOM}{EOM}
+
+Message 74:
+{S_3401A7}{FACE_010009}Hmmm... I don't know.
+I might be, and I might not.
+{FACE_010003}I guess both are OK for me!{PAUSE}{EOM}{EOM}
+
+Message 75:
+{FACE_010001}You don't have to behave as a kid,
+{FACE_010009}but you have to when you're a grown-up.{PAUSE}{EOM}
+
+Message 76:
+{S_3401A7}{FACE_010023}I guess it's better to behave.{PAUSE}{EOM}{EOM}
+
+Message 77:
+{S_3401A7}{FACE_010023}Kids who behave don't get in trouble.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+{FACE_010004}Just leave me alone, will you?{PAUSE}{EOM}
+
+Message 79:
+{FACE_010004}I'm not a kid any more, you know?{PAUSE}{EOM}{EOM}
+
+Message 80:
+{FACE_010004}There're some things only I understand!
+Just leave me alone!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 81:
+{S_3401A8}{FACE_010009}I wonder what being free really means?{PAUSE}{EOM}{EOM}
+
+Message 82:
+{FACE_010023}Everyone lives
+in a framework of some kind or another.
+{FACE_010001}Humans and animals alike.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+{FACE_010001}I'm starting to feel that life is easier
+if you follow a daily routine.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+{S_3401A7}{FACE_010009}I'll never be able to behave
+like everyone wants me to.{PAUSE}{EOM}
+
+Message 85:
+{S_3401A7}{FACE_010009}I sometimes think people
+don't really like me...
+{PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+{FACE_010002}I'm going to drop out, sooner or later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 87:
+{S_3401A8}{FACE_010002}“Act your age! Be a man!”
+What's all that supposed to mean?{PAUSE}{EOM}
+
+Message 88:
+{FACE_01001A}I think I know what
+it means to grow up now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+{FACE_010023}It's important to get along with others.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+{FACE_010024}What game should I play now?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+{S_3401A5}{FACE_010003}There's a treasure hidden
+somewhere in my room!{PAUSE}{EOM}
+
+Message 92:
+{FACE_010004}I'm going to rot if I stay out here
+in the country!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 93:
+{FACE_010004}Just leave me alone!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 94:
+{FACE_010009}I kinda envy myself back when I was
+a kid. It was a simpler time.{PAUSE}{EOM}{EOM}
+
+Message 95:
+{FACE_010001}I sometimes feel like screaming at the top
+of my lungs, just like a little kid.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+{FACE_01001E}{S_3401A6}{DOG} gets cavities, too!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 97:
+{FACE_010001}Owls only move around during the night,
+so that's why we only hear them at night!{PAUSE}{EOM}{EOM}
+
+Message 98:
+{FACE_010003}Dogs have feelings, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+{FACE_010003}I saw a huge turtle near the sea.{PAUSE}{EOM}{EOM}
+
+Message 100:
+{FACE_010002}I think you need to study
+more about animals.{PAUSE}{EOM}{EOM}
+
+Message 101:
+{FACE_010000}There must be all kinds of wild animals
+deeper in the forest.{PAUSE}{EOM}{EOM}
+
+Message 102:
+{FACE_010023}I'm researching what it takes
+to make good milk.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+{FACE_010001}There's a lot to think about
+if we want to improve this farm.{PAUSE}{EOM}{EOM}
+
+Message 104:
+{FACE_010023}Would it be more efficient
+if we automated the {STRUC_20}?{PAUSE}{EOM}
+
+Message 105:
+{FACE_010023}The farms near the city are recycling
+the waste from their animals.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+{FACE_010001}I'm pretty confident I can make this farm
+even better than it is now!{PAUSE}{EOM}{EOM}
+
+Message 107:
+{FACE_010000}Some farms near the city
+are completely automated.
+{DARYL} told me so.{PAUSE}{EOM}{EOM}
+
+Message 108:
+{FACE_010003}You should start thinking about
+learning the joys of being a woman!
+{FACE_01001A}Well, maybe.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+{FACE_010004}I'm going to try and make this
+a much more modern farm.{PAUSE}{WIPE}
+{FACE_010001}{DARYL} tells me that
+we should automate this farm, too.{PAUSE}{EOM}{EOM}
+
+Message 110:
+{FACE_010001}There are owls in the forest at night!
+They're perched on top of big trees!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 111:
+{FACE_010003}The cat at the {STRUC_34}
+answers when I say hello!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+{FACE_010023}I understand the behavior of turtles now.
+I think...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+{FACE_010023}{S_3401A7}I think {DOG}
+is making fun of me.{PAUSE}{EOM}{EOM}
+
+Message 114:
+{FACE_010002}I believe that I understand animals'
+feelings better than you do.{PAUSE}{EOM}{EOM}
+
+Message 115:
+{FACE_010002}I think I'm the one in the family
+who likes animals the most.{PAUSE}{EOM}{EOM}
+
+Message 116:
+{FACE_010003}If you really care about animals,
+they begin caring about you, too!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+{FACE_010003}Hey, I bet I'm skilled enough
+to take your place
+if you retired right now.{PAUSE}{WIPE}
+{FACE_010019}But I don't have real experience yet.{PAUSE}{EOM}
+
+Message 118:
+{S_3401AA}{FACE_010001}I really understand how animals feel.
+{FACE_01000D}I'm not kidding.{PAUSE}{EOM}{EOM}
+
+Message 119:
+{FACE_010000}The first step is realizing that
+you're an animal yourself.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+{FACE_010009}There's so much more to learn
+about the farm and about the animals.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 121:
+{FACE_010023}Maybe I should ask Grandpa {TAKAKURA}
+to take me to the city market.
+{FACE_010001}The more you see the better, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+{FACE_010000}When it comes to farm work,
+experience often beats knowledge.{PAUSE}{EOM}{EOM}
+
+Message 123:
+{FACE_010007}{S_3401A8}I need to study harder...
+or else,{FACE_010021} you won't get to retire.{PAUSE}{EOM}
+
+Message 124:
+{FACE_010003}The grass here is in really good shape!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 125:
+{S_3401A6}{FACE_010003}The field in back has dark soil!
+It must be good soil!{PAUSE}{EOM}{EOM}
+
+Message 126:
+{FACE_010001}Darker soil has better stuff in it, right?{PAUSE}{EOM}
+
+Message 127:
+{S_3401A7}{FACE_010023}Sunlight is important, right?
+For both people and plants.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 128:
+{FACE_010002}Giving too much attention to a crop
+can end up ruining it, you know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 129:
+I bet crops grown outside taste better
+than those grown in greenhouses.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 130:
+{FACE_010023}I'm thinking about more efficient ways
+of growing crops.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+{FACE_010004}They have what you call
+“genetically engineered” crops in the city.
+{FACE_010003}That's another subject I'd like to study.{PAUSE}{EOM}{EOM}
+
+Message 132:
+{FACE_010001}I'd like to use one of those cultivators.{PAUSE}{EOM}{EOM}
+
+Message 133:
+{FACE_010004}They have what you call
+“genetically engineered” crops in the city.
+{FACE_010003}Another subject I'd like to study.{PAUSE}{EOM}
+
+Message 134:
+{FACE_010023}I'm thinking about
+better ways to grow crops.
+{FACE_010001}I'd like a look at a biofarm.{PAUSE}{WIPE}
+{FACE_01000C}{DARYL} might know something about it.
+{FACE_010001}I ask him.{PAUSE}{EOM}
+
+Message 135:
+{FACE_010001}I should ask {VESTA} to teach me
+more about each crop.{PAUSE}{EOM}{EOM}
+
+Message 136:
+{FACE_010001}Wouldn't it be a good idea to recycle
+the waste from animals?{PAUSE}{WIPE}
+{DARYL} knows a lot
+about recycling materials.
+{FACE_01000C}I should pay him a visit.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+We might be able to make
+better fertilizer ourselves.
+I need to look into this further, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+{FACE_010003}I can tell good soil
+from the way it smells!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 139:
+{S_3401A6}{FACE_010003}I know where the wild plants are, now!{PAUSE}{EOM}{EOM}
+
+Message 140:
+{FACE_010001}I kinda know now
+which flowers bloom in which season.{PAUSE}{EOM}{EOM}
+
+Message 141:
+{FACE_010001}I think I'm good at raising plants.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 142:
+{FACE_010002}So what if I get better at growing crops?
+It's just make me look nerdy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 143:
+{FACE_010002}I'd hate it if people told me
+I smell like dirt.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 144:
+{FACE_010001}I've grown fond of my farming tools.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 145:
+{FACE_010001}It takes a lot of patience to grow crops.{PAUSE}{EOM}{EOM}
+
+Message 146:
+{FACE_010001}The joys of harvesting
+outweigh the bother of waiting.{PAUSE}{EOM}
+
+Message 147:
+{FACE_010001}Nothing beats taking a long time
+to grow something tasty.{PAUSE}{EOM}{EOM}
+
+Message 148:
+G. McCoy is a great composer!
+Do you know him?
+{CHOICE3 DEF0}
+McCoy who?
+Of course I do!
+I'm even greater!{EOM}{EOM}
+
+Message 149:
+{S_3401A6}{FACE_01001E}You don't know him!
+{FACE_010001}I read somewhere that he's real famous!
+{FACE_010009}You need to study more!{PAUSE}{EOM}
+
+Message 150:
+{S_3401A5}Wow! He is famous, then!
+I'd like to get my hands on the legendary
+instruments McCoy G used to play!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 151:
+{FACE_01000D}No way!
+All you ever do is whistle!
+McCoy played all sorts of instruments!{PAUSE}{EOM}
+
+Message 152:
+{FACE_010001}I wish I could make owl noises!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+{FACE_010001}The noise from waterfalls changes!{PAUSE}{EOM}
+
+Message 154:
+{FACE_010001}G. McCoy was great with
+the legendary instrument called the
+“Ogritch”!{PAUSE}{EOM}
+
+Message 155:
+{FACE_010000}If you were an instrument,
+I'd say you'd be a bell.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+{FACE_010009}I wish I had a 7-octave voice.{PAUSE}{EOM}
+
+Message 157:
+{FACE_010002}Your voice annoys me
+somehow...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 158:
+{FACE_010009}{GRIFFIN}'s guitar is sometimes
+out of tune.
+Did you know that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 159:
+{FACE_010001}The piano in the manor
+isn't all that old.{PAUSE}{EOM}
+
+Message 160:
+{FACE_010001}Music is like a type of puzzle.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 161:
+{FACE_010001}You need to use two voices for some songs.
+{FACE_010009}Singing like that's bad for your health.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 162:
+{FACE_010001}I just came up with a nice little melody,
+{FACE_010009}but I lost it already{S_3401A8}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 163:
+{FACE_01001A}When I'm in the {STRUC_33},
+I almost start humming,
+but I catch myself and stop each time.{PAUSE}{EOM}
+
+Message 164:
+{FACE_010023}I think there's something special
+about music that heals people...
+Maybe {DARYL} would know why.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 165:
+{FACE_010023}There must be a secret
+to the healing powers of music...
+I should ask {DARYL} some time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 166:
+{FACE_010001}It might be fun to play along with
+someone who has a different musical style.{PAUSE}{EOM}{EOM}
+
+Message 167:
+{FACE_010001}It feels good when you sing out loud!{PAUSE}{EOM}{EOM}
+
+Message 168:
+{FACE_010001}I can't help but move around
+when I hear good music!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 169:
+{FACE_010009}Listening to a rhythmical sound
+makes me feel sleepy.{PAUSE}{EOM}{EOM}
+
+Message 170:
+{FACE_01001A}I can't help being moved by the rhythm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 171:
+{FACE_010000}I'd like to listen to some other records.{PAUSE}{EOM}{EOM}
+
+Message 172:
+{FACE_010018}Fah... So... La...
+{FACE_010002}It's getting hard to sing high notes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 173:
+{FACE_010001}I wish I could express myself
+with an instrument instead of words.{PAUSE}{EOM}
+
+Message 174:
+{FACE_010001}My voice changes when I sing.{PAUSE}{WIPE}
+I can't really hear my own voice,
+because when I sing, my voice
+rings through my entire head.{PAUSE}{EOM}{EOM}
+
+Message 175:
+{FACE_010001}The same piece can sound quite different
+depending on who plays it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 176:
+{FACE_010001}Some people say that
+those who play music made by others
+lack originality,{PAUSE}{WIPE}
+but I don't think so.{PAUSE}{EOM}
+
+Message 177:
+{FACE_010001}I know lots of colors now!
+“Indigo”, “Sienna”...
+{CHOICE3 DEF0}
+What does “Indigo” look like?
+What does “Sienna” look like?
+What about “Lavender”, then?{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+{FACE_010001}It's bluish and purplish,
+and kinda gray even!{PAUSE}{EOM}
+
+Message 179:
+{FACE_010001}It's reddish and brownish,
+and kinda fuzzy!
+{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+{FACE_010001}It's purplish and beautiful!
+You know a lot, don't you!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+{FACE_010001}Things look pretty when they're symmetric!{PAUSE}{EOM}
+
+Message 182:
+{FACE_010001}When you mix lights of many colors,
+it gets all whitish! I wonder why!{PAUSE}{EOM}
+
+Message 183:
+{FACE_010000}They say “The Thinker” is looking at
+hades. {FACE_01001B}It's kinda scary.{PAUSE}{EOM}{EOM}
+
+Message 184:
+{FACE_010009}Animals are hard to draw.{PAUSE}{EOM}{EOM}
+
+Message 185:
+{FACE_010023}I wonder what the most beautiful thing
+in this world is...{PAUSE}{EOM}
+
+Message 186:
+{FACE_010023}I wonder why {CODY} creates his pieces
+from metal?{PAUSE}{EOM}
+
+Message 187:
+{FACE_010023}Aesthetic tastes vary,
+but I feel there's a pattern there.{PAUSE}{EOM}
+
+Message 188:
+{FACE_010001}The female body is really beautiful.
+{FACE_01001A}H-hey! I'm not having dirty thoughts!
+I'm talking about the curves!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+{FACE_010001}Women's makeup is an art in itself.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 190:
+{FACE_010001}I feel art shouldn't only be
+about showing things to others.
+You know?{PAUSE}{EOM}
+
+Message 191:
+{FACE_010001}I'd like to travel the world
+and see lots of things for myself.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 192:
+{FACE_010001}What happens inside the brain
+when one thinks something is beautiful?{PAUSE}{WIPE}
+{FACE_010023}{DARYL} might be able to
+tell me...{PAUSE}{EOM}
+
+Message 193:
+{FACE_010023}What happens inside your head
+when you recognize different shapes?
+{FACE_010001}Maybe I should ask {DARYL}.{PAUSE}{EOM}{EOM}
+
+Message 194:
+{FACE_010023}I'd like to have time to think
+away from everybody else.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+{FACE_010001}I draw really well, you know?
+{FACE_01000D}I'm not lying! {FACE_01000A}It's true! Really!
+{FACE_010019}I need practice before I show you, though!{PAUSE}{EOM}
+
+Message 196:
+{FACE_01000A}I drew Dad the other day.
+He was really happy when I
+showed him!{PAUSE}{WIPE}
+{FACE_010019}I might have made him a little
+too handsome.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 197:
+{FACE_01000A}I drew dad the other day.
+He was really happy when I
+showed him!{PAUSE}{WIPE}
+{FACE_010019}{S_3401A7}Maybe because it was more handsome
+than he actually is.{PAUSE}{EOM}{EOM}
+
+Message 198:
+{FACE_010001}I like coloring in the pictures I draw.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 199:
+{FACE_010023}I wonder what color I am now...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 200:
+{FACE_010023}I find the color purple pretty.
+Am I frustrated, or something?{PAUSE}{EOM}
+
+Message 201:
+{FACE_010001}Creating something within a person's heart
+is another form of art, I think.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 202:
+{FACE_010001}Some works of art only become complete
+with the presence of others.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+{FACE_010023}Art is very deep.{PAUSE}{EOM}{EOM}
+
+Message 204:
+{FACE_010023}I feel that merely drawing pictures
+doesn't make one an artist...{PAUSE}{EOM}{EOM}
+
+Message 205:
+{FACE_010001}I wish I were left-handed!
+They say it's better for you in many ways.{PAUSE}{EOM}{EOM}
+
+Message 206:
+{FACE_010001}You can run faster by using your arms!{PAUSE}{EOM}
+
+Message 207:
+{FACE_010001}{S_3401A7}Training without thinking won't do much.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 208:
+{FACE_010001}Guess what?
+I might be pretty good at sports.{PAUSE}{EOM}{EOM}
+
+Message 209:
+{FACE_010002}I hate being sweaty and all that.{PAUSE}{EOM}{EOM}
+
+Message 210:
+{FACE_010002}I'd hate to be all brawn
+and no brain.{PAUSE}{EOM}
+
+Message 211:
+{FACE_010023}Training is more effective
+if you think about which muscles
+you're working.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+{FACE_010023}I'm not always sure whether
+{WALLY}'s training really works.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+{FACE_010023}Guts alone won't improve your abilities.
+{FACE_010001}You need well-planned training
+based on a concrete theory.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 214:
+{FACE_010023}I think it's important to study
+the functions of the body and mind when
+trying to train or improve your abilities.{PAUSE}{WIPE}
+{FACE_010001}I could ask {DARYL} to teach me
+more.{PAUSE}{EOM}{EOM}
+
+Message 215:
+{FACE_010001}There're so many kinds of sports.
+I found several I might be good at.{PAUSE}{EOM}{EOM}
+
+Message 216:
+{FACE_010001}I feel like committing myself
+to a thinking man's sport, so to speak.
+{FACE_010023}I think I'd be better suited to those.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 217:
+{FACE_010023}Something tells me I'm better suited
+to sports that make you think.
+{FACE_010001}I'm going to ask {WALLY} about this.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 218:
+{FACE_010023}I'm not really interested in sports
+that only require physical abilities.{PAUSE}{EOM}{EOM}
+
+Message 219:
+{FACE_010001}I wanna jump even higher!{PAUSE}{EOM}{EOM}
+
+Message 220:
+{FACE_010001}I can run faster than {KATE}!{PAUSE}{EOM}{EOM}
+
+Message 221:
+{FACE_010001}I can run up the road
+in front of the {STRUC_34} now!{PAUSE}{EOM}{EOM}
+
+Message 222:
+{FACE_010001}I'm good at running.
+Really. I'm not lying.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 223:
+{FACE_010000}They say athletes are quite popular...
+{FACE_010002}Maybe not here in the country, though.{PAUSE}{EOM}{EOM}
+
+Message 224:
+{FACE_010023}I'm interested in sports popular in the city.{PAUSE}{EOM}{EOM}
+
+Message 225:
+{FACE_010001}I have what you call “washboard abs”.{PAUSE}{EOM}{EOM}
+
+Message 226:
+{FACE_010009}Just a few days without training
+is enough to dull the body.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+{FACE_010009}{WALLY} seems like he would
+emphasize “guts” over anything else.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 228:
+{FACE_010023}I wonder how much training it'd take
+to be a professional athlete?{PAUSE}{EOM}
+
+Message 229:
+{FACE_010001}Umm...
+Do you enjoy working with animals?
+{CHOICE3 DEF0}
+Honestly, I don't.
+Yes, I enjoy it.
+Why do you ask?{EOM}{EOM}{EOM}{EOM}
+
+Message 230:
+{FACE_01000C}You don't?{FACE_010023}{S_3401A7} Hmmm... I guess it takes
+more than just liking animals, huh?
+{FACE_010001}It must be hard to work!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 231:
+{FACE_010001}I thought so!
+The animals are so cute!
+I want to work on the farm when I grow up!{PAUSE}{EOM}{EOM}
+
+Message 232:
+{FACE_010001}I like animals, so I think
+working on the farm might be fun for me!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 233:
+{FACE_010001}You really need to like animals
+to work on a farm!{PAUSE}{EOM}
+
+Message 234:
+{FACE_01000C}I see... I guess it takes
+{FACE_010023}more than just liking animals, huh?
+{S_3401A7}Hmmm...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 235:
+{FACE_010001}I thought so. I'd like to work on the farm
+when I grow up, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 236:
+{FACE_010001}I kinda like animals, so I thought
+maybe I might work on the farm
+when I grow up, too.{PAUSE}{EOM}
+
+Message 237:
+{FACE_010001}Animals are so cute.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 238:
+{FACE_010009}I like animals, but it must be hard work
+when your job is taking care of them.{PAUSE}{EOM}
+
+Message 239:
+{FACE_010009}I'm interested in farm work, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 240:
+{FACE_010000}Tell me,
+{FACE_010023}what's fun about running a farm?
+{CHOICE3 DEF0}
+Making friends with the animals.
+The money, of course!
+All the tasty things you get to eat.{EOM}{EOM}{EOM}{EOM}
+
+Message 241:
+{FACE_010001}You're right about that,
+nothing beats looking into their eyes
+{FACE_010009}and seeing them need your care.{PAUSE}{EOM}
+
+Message 242:
+{FACE_010009}Really? I'm surprised.
+{FACE_010023}Does farming earn that much money?{PAUSE}{EOM}{EOM}
+
+Message 243:
+{FACE_010001}Yeah, you're right. We get to eat things
+before anyone else, as fresh as possible.{PAUSE}{EOM}
+
+Message 244:
+{FACE_010001}I was born and raised on a farm. It's only
+natural I'd be interested in farm work.{PAUSE}{EOM}
+
+Message 245:
+{FACE_010023}Do you want me to
+{FACE_010000}take over the farm after you?
+{CHOICE3 DEF0}
+Of course I do.
+Not really.
+You can do whatever you want.{EOM}{EOM}{EOM}{EOM}
+
+Message 246:
+{FACE_010001}It would make sense, I guess...
+I'll think about it. I am interested.{PAUSE}{EOM}{EOM}
+
+Message 247:
+{FACE_010001}Oh. I thought that you...
+{FACE_010023}I guess I was worrying for nothing.
+{FACE_01001A}Never mind, then.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 248:
+{FACE_010001}Thanks for saying so,
+but I'm also giving serious thought
+being a farmer.{PAUSE}{EOM}{EOM}
+
+Message 249:
+{FACE_010001}Farm work does interest me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 250:
+{FACE_010001}You know what, some trees
+close their leaves when it's dark!
+I wish I could see that!{PAUSE}{EOM}{EOM}
+
+Message 251:
+{FACE_010001}Plants are cool.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 252:
+{FACE_01000C}{S_3401A7}Do you think I'll find mole crickets
+in {VESTA}'s fields?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 253:
+{FACE_010002}I like plants. They never betray people.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 254:
+{FACE_010023}I wonder which is easier,
+growing crops or raising animals...{PAUSE}{EOM}{EOM}
+
+Message 255:
+{FACE_010001}I'd like to develop a unique crop myself.{PAUSE}{EOM}{EOM}
+
+Message 256:
+{FACE_010009}I'm not sure whether dried flowers
+are pretty or not.{PAUSE}{EOM}{EOM}
+
+Message 257:
+{FACE_010001}Have you ever listened to
+{GRIFFIN} playing his guitar?
+{CHOICE2 DEF0}
+Of course I have.
+Not yet.{EOM}{EOM}
+
+Message 258:
+{FACE_010001}Wow! I envy you!
+I want to grow up too, soon.{PAUSE}{EOM}{EOM}
+
+Message 259:
+{FACE_010000}You haven't?
+{FACE_010001}They say {GRIFFIN}'s awesome with the guitar!
+He used to work as a guitarist!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 260:
+{FACE_010001}Playing instruments is cool.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 261:
+{FACE_010009}I envy you.
+I want to grow up too, soon.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 262:
+{FACE_010001}You haven't?
+They say it's as if {GRIFFIN}'s guitar cries.
+I wish I could hear him play.{PAUSE}{EOM}{EOM}
+
+Message 263:
+{FACE_010002}I want to listen to deep, inspiring music.{PAUSE}{EOM}
+
+Message 264:
+{FACE_010023}What would life be like without sounds?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 265:
+{FACE_010001}The music {GRIFFIN} plays
+truly touches your soul.
+It's really awesome.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 266:
+{FACE_010001}I wish {GRIFFIN} would play us
+some more songs.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 267:
+{FACE_010001}Hey, what are those big, strange things
+around {CODY}'s house?
+{CHOICE3 DEF0}
+Just big chunks of iron.
+Works of art.
+Didn't you ask me this before?{EOM}
+
+Message 268:
+{FACE_010001}I see...
+{FACE_010023}I can't help staring at them, though.
+{FACE_010001}They look like something more.{PAUSE}{EOM}{EOM}
+
+Message 269:
+{FACE_010001}I see!
+{CODY} puts his soul into such things.{PAUSE}{EOM}{EOM}
+
+Message 270:
+{FACE_01000C}Whoops? I did?{FACE_010001}{S_3401A7} When I look at them,
+I can't help thinking all sorts of things.{PAUSE}{EOM}{EOM}
+
+Message 271:
+{FACE_010001}{CODY} is awesome. He makes all those
+things with his bare hands!{PAUSE}{EOM}{EOM}
+
+Message 272:
+{FACE_010001}Beautiful pictures are nice, but I like
+abstract drawings, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 273:
+{FACE_010009}I wonder if painting something would help
+me get rid of this frustration I feel.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 274:
+{FACE_010009}Artists always seem to be thinking over
+all sorts of difficult concepts.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 275:
+{FACE_010023}When artists create something,
+they probably start off by
+looking at their own hearts.{PAUSE}{EOM}
+
+Message 276:
+{FACE_010001}Hey,
+does {WALLY} run
+faster than you?
+{CHOICE2 DEF0}
+Of course he does.
+I'm faster than him!{EOM}{EOM}{EOM}{EOM}
+
+Message 277:
+{FACE_010001}I see.
+I guess {WALLY} really is awesome, then.{PAUSE}{EOM}
+
+Message 278:
+{FACE_010001}Really? You should race each other then.
+I'll time you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 279:
+{FACE_010001}People who run fast are really cool.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 280:
+{FACE_010023}Maybe I should train a little, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 281:
+{FACE_010023}I wish my arms were stronger.{PAUSE}{EOM}{EOM}
+
+Message 282:
+{FACE_010001}The shoes {HUGH} wears
+must be specially made, right?
+{FACE_010009}Good footwear is important for running faster.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 283:
+{FACE_010001}It feels great to work out.
+It's important to get enough exercise.{PAUSE}{EOM}
+
+Message 284:
+{FACE_010001}How many digits can you add
+in your head?
+{CHOICE3 DEF0}
+I'm terrible at arithmetic.
+3 maybe?
+As many as I need to!{EOM}
+
+Message 285:
+{FACE_010009}Gee, you worry me sometimes.
+Grown-ups should be able to do
+at least 3 digits in their head.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 286:
+{FACE_010001}{S_3401A6}Wow, grown-ups are awesome.
+Me? I can barely add
+single-digit numbers.{PAUSE}{EOM}{EOM}
+
+Message 287:
+{FACE_010001}{S_3401A6}Wow! That's awesome!
+Let's seen, then...
+What's 2654 plus 398?{S_3203E8}{WIPE}
+....................................
+{FACE_010009}....................................
+What's wrong? Feeling sick?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 288:
+{FACE_010009}I wish I was smarter.{PAUSE}{EOM}{EOM}
+
+Message 289:
+{FACE_010023}I'm interested in {DARYL}'s experiments.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 290:
+{FACE_010023}I wonder what my IQ is.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 291:
+{FACE_010001}I wish I could look into {DARYL}'s thoughts
+and see what he's thinking.{PAUSE}{EOM}
+
+Message 292:
+{FACE_010009}{DARYL} is pretty close to being
+weird.
+{FACE_010001}I'd say it's a close call, really.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

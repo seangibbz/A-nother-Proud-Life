@@ -1,0 +1,1918 @@
+Message 0:
+{FACE_1E0003}{TATSUYA},
+isn't it nice to have Mommy play with you?{PAUSE}{EOM}
+
+Message 1:
+Hey, {NICKNAME}.{PAUSE}{WIPE}
+I thought maybe {TATSUYA} should
+take over {FARM} Farm.
+Why do you think?
+{CHOICE2 DEF0}
+Definitely.
+That's for {TATSUYA} to decide.{EOM}
+
+Message 2:
+Yep.
+{TATSUYA} was born on a farm, after
+all. That kid'll make a great farmer.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 3:
+Well, that's true.
+Maybe I was getting ahead of myself...
+Growing up healthy is the most important.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+{TATSUYA}, time for bed.{PAUSE}{EOM}{EOM}
+
+Message 5:
+Oh yeah...{PAUSE}{EOM}
+
+Message 6:
+{NICKNAME}, there's not much
+food left in refrigerator.
+Could you put some more in?{PAUSE}{WIPE}
+Night.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+Welcome home.{PAUSE}{EOM}{EOM}
+
+Message 8:
+{TATSUYA} just went to bed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+By the way... {TATSUYA}'s
+been watching a lot of TV lately.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+Hey, you think that kid would be
+interested in taking over the farm?{PAUSE}{WIPE}
+{TATSUYA} seemed pretty
+interested in the farm report...
+What do you think?
+{CHOICE2 DEF0}
+I bet you're right!
+It's too early to tell.{EOM}{EOM}
+
+Message 11:
+Yep.
+I bet that kid will be helping you out on
+the farm before you know it.{PAUSE}{WIPE}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_1E001A}I guess you're right.
+But if you set a good example,
+{TATSUYA} will be sure to like farming.{PAUSE}{EOM}{EOM}
+
+Message 13:
+♪A necklace of♪
+♪white flowers...♪{PAUSE}{EOM}
+
+Message 14:
+♪A necklace I got♪
+♪from you...♪{PAUSE}{EOM}{EOM}{EOM}
+
+Message 15:
+{TATSUYA},
+just wait a sec, OK?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 16:
+That's pretty good, {TATSUYA}.
+You want to sing that for Mommy?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+{NICKNAME},
+{TATSUYA} is a really good
+singer.{PAUSE}{WIPE}
+That kid learned that song in no time.
+I bet {TATSUYA}'s got talent.
+{CHOICE2 DEF0}
+I bet you're right!
+It's too early to tell.{EOM}{EOM}{EOM}
+
+Message 18:
+Yep. We have the next Sinatra right here.{PAUSE}{EOM}{EOM}
+
+Message 19:
+{FACE_1E0009}Hmm....{S_3203E8}
+{FACE_1E001A}I guess you're right.{PAUSE}{WIPE}
+{FACE_1E0003}But if that kid can sing that well
+with no training, I think we should try
+being supportive.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+{FACE_1E0003}What are you drawing?{PAUSE}{EOM}{EOM}
+
+Message 21:
+{FACE_1E0009}Mommy???{PAUSE}{WIPE}
+{FACE_1E0019}Uh, that's real good...{PAUSE}{EOM}
+
+Message 22:
+{TATSUYA} drew this.
+What do you think it is?
+{CHOICE3 DEF0}
+Flowers.
+Me, of course.
+Don't know.{EOM}{EOM}{EOM}
+
+Message 23:
+Yes. Flowers.
+Anyway, I think it's pretty good.
+{FACE_1E0003}I think that kid has talent...{PAUSE}{EOM}
+
+Message 24:
+{FACE_1E0009}Really?
+If you say so, {NICKNAME}.{PAUSE}{WIPE}
+Hey!
+{FACE_1E0003}You don' t think {TATSUYA}
+is some sort of creative genius, do you?{PAUSE}{EOM}{EOM}
+
+Message 25:
+Hmmm.
+It looks like flowers to me.
+But {TATSUYA} says it's “Mommy.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 26:
+But depending on how you think about it,
+{TATSUYA} might be have real talent.{PAUSE}{WIPE}
+I bet we just can't appreciate it.
+{FACE_1E0003}...Maybe even a genius...{PAUSE}{EOM}{EOM}
+
+Message 27:
+{FACE_1E0003}Whatcha doin'?{PAUSE}{EOM}
+
+Message 28:
+{FACE_1E0003}You're bookin'!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+Hey {NICKNAME},
+{TATSUYA} seems to be a pretty
+good athlete. Don't you think?
+{CHOICE2 DEF0}
+I don't know...
+Of course.{EOM}
+
+Message 30:
+I'm sure of it.
+That kid loves running and jumping.
+That kid will be a sports star.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+Sure. {TATSUYA} is your kid, after
+all. {FACE_1E0003}We have to develop this talent.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+Hey {NICKNAME},
+{TATSUYA} sure likes books.{PAUSE}{WIPE}
+That kid is a regular bookworm.
+You know, just the other day...{PAUSE}{EOM}{EOM}
+
+Message 33:
+{FACE_1E0003}Hey {TATSUYA},
+you readin' a book?{PAUSE}{WIPE}
+What kind of book is it?{PAUSE}{EOM}
+
+Message 34:
+Hey, what kind of book is it?{PAUSE}{EOM}{EOM}
+
+Message 35:
+{FACE_1E0003}I'm gonna go start up the bath.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+Hey {TATSUYA},
+still reading?{PAUSE}{EOM}
+
+Message 37:
+{FACE_1E0003}You like books, huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 38:
+{TATSUYA} loves to study, I can tell.
+Maybe our kid will be a professor!
+{CHOICE2 DEF0}
+I think so too.
+Um. You're the kid's father...{EOM}
+
+Message 39:
+{FACE_1E0003}Yep.
+A famous scholar... Wow!{PAUSE}{EOM}{EOM}
+
+Message 40:
+{FACE_1E0003}Hahaha. Perhaps I am a little biased.
+But we have to help {TATSUYA} develop
+good study habits in any case.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 41:
+{NICKNAME}, there's something I
+want to ask you.{PAUSE}{WIPE}
+I don't want to get in your face or
+anything, but...{PAUSE}{WIPE}
+Have things been going well on the farm?
+{TAKAKURA} is worried because
+you haven't been shipping much.
+{CHOICE2 DEF0}
+I'm sorry. I'll try harder.
+Who cares about this dumb old farm!{EOM}{EOM}
+
+Message 42:
+{FACE_1E0009}Do you really mean that?
+{CHOICE2 DEF0}
+No, I'll try harder.
+Sure I do!{EOM}
+
+Message 43:
+{FACE_1E0009}You're kidding, right?
+{CHOICE2 DEF0}
+I'm kidding.
+I'm serious!{EOM}
+
+Message 44:
+{FACE_1E0004}You're serious?!
+Don't you care what happens
+to the farm?!
+{CHOICE2 DEF0}
+Of course I do. I'll try harder.
+Not really...{EOM}{EOM}{EOM}{EOM}
+
+Message 45:
+I'm glad that you said that.
+I feel a little better.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+You scared me there...
+But I guess I'm OK now.{PAUSE}{EOM}
+
+Message 47:
+If we don't make this farm work,
+Vesta will worry about us...
+Please try harder!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+{FACE_1E0009}But...{PAUSE}{EOM}
+
+Message 49:
+{FACE_1E0009}B-But...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+{FACE_1E0009}......{PAUSE}{EOM}
+
+Message 51:
+{FACE_1E0007}OK, fine.
+Just do whatever the heck you want.{PAUSE}{EOM}{EOM}
+
+Message 52:
+That was a pretty singing voice just now.
+...Was that {GUSTAFA}?{PAUSE}{EOM}{EOM}
+
+Message 53:
+It was {TATSUYA}?{PAUSE}{EOM}
+
+Message 54:
+Hey {NICKNAME},
+I wonder if {TATSUYA} could have a
+talent for music...{PAUSE}{WIPE}
+{GUSTAFA} said so.
+I think our kid really likes music, too.
+What do you think, {NICKNAME}?
+{CHOICE2 DEF0}
+I think so too.
+I don't think so.{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+I thought you'd say that.
+I hope things work out for
+{TATSUYA}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+I'm sure our kid has the makings
+of a great musician...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 57:
+Really...?
+Maybe I'm just being biased.{PAUSE}{WIPE}
+But our kid does have a great singing
+voice. I think we have to be
+supportive.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+{TATSUYA} may be a great musician!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 59:
+I wonder if {TATSUYA}
+has any artistic sense...
+Could our kid be an artist?{PAUSE}{WIPE}
+What do you think, {NICKNAME}?
+{CHOICE2 DEF0}
+Sure.
+It's too early to tell.{EOM}{EOM}{EOM}
+
+Message 60:
+If {CODY} said so, it's
+good enough for me...{PAUSE}{WIPE}
+I wonder what kind of artist....
+Maybe a metal sculptor like Cody...?{PAUSE}{EOM}{EOM}
+
+Message 61:
+Well, that's true. It's too early to say.{PAUSE}{WIPE}
+But if our kid has an artistic sense
+like {CODY} said, then I think
+we have to be supportive..{PAUSE}{EOM}
+
+Message 62:
+Hey, you scared me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+Well of course you can't beat {HUGH},
+he's much older than you...{PAUSE}{EOM}{EOM}
+
+Message 64:
+{TATSUYA} is fleet on his feet.{PAUSE}{WIPE}
+{WALLY} said so.
+Could our kid be an athlete?
+{CHOICE2 DEF0}
+Maybe so.
+Don't be silly.{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+{TATSUYA} seems to like sports...
+...Maybe a pro athlete....{PAUSE}{WIPE}
+{HUGH} would make a good
+trainer, too.{PAUSE}{EOM}
+
+Message 66:
+...Maybe. But I've never seen a kid
+{TATSUYA}'s age run like that.{PAUSE}{WIPE}
+That kid seems to like sports. Maybe we
+have a future athlete in the family.{PAUSE}{EOM}
+
+Message 67:
+That professor said he wants
+{TATSUYA} to be his
+assistant...{PAUSE}{WIPE}
+I knew my kid was smart!
+{TATSUYA} is a regular egghead, I know
+it! What do you think, {NICKNAME}?
+{CHOICE2 DEF0}
+I agree.
+He's merely curious about stuff.{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+I knew you'd think so!
+{TATSUYA} could be a genius!{PAUSE}{WIPE}
+We have to do everything we can
+to help out!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+I guess so. {TATSUYA} is still a kid.{PAUSE}{WIPE}
+But if {TATSUYA}'s interested in
+something, I think it's our duty as
+parents to be supportive.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 70:
+{NICKNAME}, I'm a little worried.
+Is everything going all right
+with the farm?{PAUSE}{WIPE}
+This may be none of my business, but
+how are things going, really?
+{CHOICE2 DEF0}
+I'm sorry. I'll try harder.
+I don't want to do farm work.{EOM}
+
+Message 71:
+{FACE_1E0009}You can't mean that.
+{CHOICE2 DEF0}
+Of course not. I'll try harder.
+I'm serious!{EOM}{EOM}{EOM}{EOM}
+
+Message 72:
+{FACE_1E0009}You really mean that?
+{CHOICE2 DEF0}
+No. I'll try harder.
+Of course I do!{EOM}{EOM}{EOM}
+
+Message 73:
+{FACE_1E0004}So you're really serious?!
+You don't care what happens to the farm?!
+{CHOICE2 DEF0}
+I'm sorry. I'll try harder.
+No, not really...{EOM}{EOM}{EOM}
+
+Message 74:
+I feel a better now that you've
+said that.{PAUSE}{EOM}
+
+Message 75:
+You scared me...
+But I feel better now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+{FACE_1E0003}The kid is growing up now,
+and I'd like to remodel the house.
+We're going to be OK, right?{PAUSE}{EOM}
+
+Message 77:
+{FACE_1E0009}Wha-?{PAUSE}{EOM}{EOM}
+
+Message 78:
+{FACE_1E0009}But...{PAUSE}{EOM}
+
+Message 79:
+{FACE_1E0009}.......{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+{FACE_1E0007}....Fine.
+Do whatever you like.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+I know what you're trying to say...{S_3203E8}{EOM}{EOM}
+
+Message 82:
+But I want you to listen to
+what your mother and I say, too.{S_3203E8}{EOM}
+
+Message 83:
+For the love of...
+This isn't from my side of the family...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 84:
+What kind of book are you reading?{PAUSE}{EOM}
+
+Message 85:
+You want to go for a walk or something?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+What?{PAUSE}{EOM}{EOM}
+
+Message 87:
+Why are you so serious?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+Then why don't you just ask
+your mother?
+I'm sure she'd be happy to show you.{PAUSE}{EOM}{EOM}
+
+Message 89:
+Yes, that's true.{S_3203E8} I've got it.{PAUSE}{WIPE}
+I'll ask her for you. Then
+you can ask her yourself when you
+get the chance, OK?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 90:
+{NICKNAME}...
+It's about {TATSUYA}...{PAUSE}{EOM}{EOM}
+
+Message 91:
+{TATSUYA} seems very interested in
+your work.{PAUSE}{WIPE}
+So if {TATSUYA} and asks you, I'd
+like you to take some time for your kid.
+{CHOICE2 DEF0}
+Of course.
+I'm too busy.{EOM}{EOM}{EOM}{EOM}
+
+Message 92:
+I knew you'd do it.{PAUSE}{WIPE}
+{FACE_1E0003}You've got to teach that
+kid as much about the farm
+as you can.{PAUSE}{EOM}{EOM}
+
+Message 93:
+That's why {TATSUYA} didn't
+want to ask you in the first place.{PAUSE}{WIPE}
+All right.
+If you're really that busy, why not have
+{TATSUYA} help you?{FACER_000000}
+{?_39}{PAUSE}{WIPE}
+Wouldn't that work?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 94:
+{NICKNAME}...
+It's about {TATSUYA}...{PAUSE}{EOM}{EOM}
+
+Message 95:
+I think maybe {TATSUYA} isn't very
+interested in farm work. What do you say?
+{CHOICE2 DEF0}
+Maybe not.
+Of course my child is interested!{EOM}{EOM}{EOM}
+
+Message 96:
+You think so too?
+But if there's something else
+{TATSUYA} likes, that's fine too.{PAUSE}{WIPE}
+It's {TATSUYA}'s life,
+after all.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 97:
+You think so...?
+If you say so, I guess maybe
+it's true, but...{PAUSE}{WIPE}
+But if there's something else
+{TATSUYA} likes, that's fine too.{PAUSE}{WIPE}
+It's {TATSUYA}'s life,
+after all.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 98:
+How are things going?
+The farm, I mean.
+{CHOICE2 DEF0}
+It's going well.
+Not great...{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+Really?{FACE_1E0023}
+Well, that's good.{PAUSE}{WIPE}
+It's just that {TATSUYA}'s getting
+bigger and all...{PAUSE}{EOM}
+
+Message 100:
+Hmm... What are we going to do?
+{FACE_1E0009}{TATSUYA} grows bigger every
+day.{PAUSE}{EOM}
+
+Message 101:
+Music is nice, but you should help your
+mother out sometimes, too.{PAUSE}{EOM}
+
+Message 102:
+Art is nice, but you should help your
+mother out sometimes, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 103:
+Sports are awesome, but you should help
+your mother out sometimes, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+Studying is great, but you should help your
+mother out sometimes, too.{PAUSE}{EOM}
+
+Message 105:
+I know you like the farm, but you're
+still young. You have to try doing lots
+of things while you still can.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 106:
+Hey {NICKNAME}...
+{FACE_1E0009}{TATSUYA} still hasn't come home.{PAUSE}{WIPE}
+It's getting so late...{PAUSE}{WIPE}
+Where could that kid be?
+{CHOICE2 DEF0}
+I'll go looking.
+{TATSUYA} is an adult now.{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+Well, that's true.
+But it's so late.
+Couldn't you go out and have a look?
+{CHOICE2 DEF0}
+Sure I'll go.
+{TATSUYA} will be back soon.{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+Yes, please do...
+I'll look for him myself.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+Hmm. Listening to {GRIFFIN}'s guitar?
+There's nothing wrong with music, but a
+father worries if his kid is out so late.{PAUSE}{WIPE}
+That kid certainly does like music.
+Do we have a future musician on our hands?{PAUSE}{EOM}{EOM}
+
+Message 110:
+Hmm. If you say so...{PAUSE}{EOM}{EOM}
+
+Message 111:
+Oh, {TATSUYA}'s back.{PAUSE}{EOM}
+
+Message 112:
+Where've you been?{PAUSE}{EOM}
+
+Message 113:
+Just a second...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 114:
+Hmm. Listening to {GRIFFIN}'s guitar?
+There's nothing wrong with music, but a
+father worries if his kid's out so late.{PAUSE}{WIPE}
+That kid certainly does like music.
+Do we have a future musician on our hands?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 115:
+Can I ask you something strange?
+{CHOICE2 DEF0}
+No.
+Sure.{EOM}{EOM}{EOM}
+
+Message 116:
+Why are you being so cold?!
+I just want to ask a question!{PAUSE}{EOM}
+
+Message 117:
+Well...
+Do round things ever look square?{PAUSE}
+{CHOICE2 DEF0}
+???
+Of course not.{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+You don't understand that either, do you?{PAUSE}{EOM}{EOM}
+
+Message 119:
+Yes, that's what I thought.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 120:
+The thing is, {TATSUYA}
+asked me that out of the blue...{PAUSE}{EOM}{EOM}
+
+Message 121:
+Come again?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 122:
+What?{PAUSE}{EOM}{EOM}
+
+Message 123:
+Hmm... I wonder.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 124:
+So that's what happened.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+I wonder if our kid might want to be an
+artist... I think {TATSUYA} is
+quite talented...{PAUSE}{EOM}{EOM}
+
+Message 126:
+What is it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 127:
+OK...
+What should I do?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 128:
+I see.{PAUSE}{EOM}
+
+Message 129:
+OK. Ready?{PAUSE}{EOM}
+
+Message 130:
+Ready... Set... Go!!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 131:
+Go {TATSUYA}!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+Finished!!{PAUSE}{EOM}
+
+Message 133:
+{HUGH} is pretty fast, isn't he?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 134:
+{NICKNAME}...
+{FACE_1E0009}{TATSUYA} still isn't home.{PAUSE}{WIPE}
+It's so late. Where
+could that kid be?
+{CHOICE2 DEF0}
+I'll go look.
+{TATSUYA} is an adult now.{EOM}
+
+Message 135:
+Well, that's true.
+But I'm still worried.
+Could you go look?
+{CHOICE2 DEF0}
+Alright, I'll go.
+{TATSUYA} will be back soon.{EOM}
+
+Message 136:
+Please do...
+I'll have a look myself.{PAUSE}{EOM}{EOM}
+
+Message 137:
+{DARYL} seems to like {TATSUYA}...
+Being interested in {DARYL}'s research
+is fine, but staying out at all hours...{PAUSE}{WIPE}
+I wonder if our kid's thinking
+of becoming a scholar...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+Hmm. If you say so.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 139:
+Oh, {TATSUYA}'s back.{PAUSE}{EOM}
+
+Message 140:
+Where've you been?{PAUSE}{EOM}
+
+Message 141:
+Hey, just a second...{PAUSE}{EOM}{EOM}
+
+Message 142:
+{DARYL} seems to like {TATSUYA}...
+Being interested in {DARYL}'s research
+is fine, but staying out at all hours...{PAUSE}{WIPE}
+I wonder if our son thinks
+of becoming a scholar...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 143:
+What are you doing there by yourself?{PAUSE}{EOM}{EOM}
+
+Message 144:
+Why?{PAUSE}{WIPE}
+I don't know the details, but it was
+before you were born...
+I think it was in the spring.{PAUSE}{WIPE}
+{TAKAKURA} and your mother came
+here.{PAUSE}{WIPE}
+But {TAKAKURA} had been here before, with
+some guy...{PAUSE}{EOM}{EOM}
+
+Message 145:
+I only asked {TAKAKURA} about it once.
+But that person was your mother's father.
+That makes him your grandfather.{PAUSE}{EOM}{EOM}
+
+Message 146:
+I don't really know.{PAUSE}{WIPE}
+I never saw him again and
+{TAKAKURA} won't tell me
+any more.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 147:
+She doesn't seem to want to talk about
+it. She just says he's working on the farm
+in honor of your grandfather's memory.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+Really?
+I'm sure your mother would be happy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 149:
+What're you looking at?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 150:
+Are you thinking about something?{PAUSE}{EOM}{EOM}
+
+Message 151:
+It's been a long time, hasn't it?{PAUSE}{EOM}{EOM}
+
+Message 152:
+{TATSUYA}'s all grown up,
+and we've both gotten older...{PAUSE}{EOM}{EOM}
+
+Message 153:
+Why, your hair's turned all white
+and you're all wrinkly! Heheh.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+What?
+{CHOICE2 DEF0}
+Check out the mirror, Prune Face.
+You're as handsome as ever.{EOM}{EOM}
+
+Message 155:
+{FACE_1E0004}Hey...{S_3207D0}
+{FACE_1E0003}I guess neither of us is young anymore.{PAUSE}{EOM}{EOM}
+
+Message 156:
+{FACE_1E000A}Well...
+You're certainly being nice today.{PAUSE}{EOM}
+
+Message 157:
+{FACE_1E000A}But we still have work to do.
+{TAKAKURA} still works so hard every day...{PAUSE}{EOM}{EOM}
+
+Message 158:
+{NICKNAME}... {NICKNAME}...
+What's wrong?
+{NICKNAME}! {PETE}!!{PAUSE}{WIPE}
+{TATSUYA}! Call {HARDY} here
+right away!!!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 159:
+Hang in there {NICKNAME}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+How is she?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 161:
+No!!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 162:
+Working hard, huh?{PAUSE}{EOM}
+
+Message 163:
+How are sales?{PAUSE}{EOM}
+
+Message 164:
+Hey, you don't have anything to sell.{PAUSE}{EOM}{EOM}
+
+Message 165:
+If you're sold out, why don't
+you come on home?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 166:
+I'd like to help out, but I'm
+not much of a salesman...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 167:
+Van has a shop here sometimes, but do
+you think he really makes much money?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+If you have any milk Vesta would
+certainly buy it from you....
+And Celia loves flowers.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 169:
+There's no point in me buying from you.
+I'll pass.{PAUSE}{EOM}
+
+Message 170:
+{FACE_1E0007}.........{PAUSE}{EOM}{EOM}
+
+Message 171:
+{FACE_1E0007}It's OK. Just let me be.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 172:
+{FACE_1E0004}What do you want?!{PAUSE}{EOM}
+
+Message 173:
+{FACE_1E0005}........{PAUSE}{EOM}{EOM}{EOM}
+
+Message 174:
+Morning.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 175:
+Is that for me?{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 176:
+{FACE_1E0003}Thanks.
+I'll certainly take it then.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 177:
+{FACE_1E0004}Oh, I see.
+{FACE_1E0000}No, it's OK.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+I'd really like that, but I'd better
+pass for today.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 179:
+I said no...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+You take it, {NICKNAME}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 181:
+Is that for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 182:
+{FACE_1E0003}Well, that's nice of you.
+OK, I'll take it.
+Thanks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+{FACE_1E0002}Oh, I see.
+{FACE_1E0000}Well, never mind.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 184:
+That looks pretty good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 185:
+You know that I like that kind of thing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 186:
+{FACE_1E0009}You expect me to eat that?!
+Give me a break.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 187:
+I don't mind just looking at it, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+You go ahead and have it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 189:
+What is that?{PAUSE}{EOM}{EOM}
+
+Message 190:
+I'm not interested in that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 191:
+{TATSUYA} might be interested
+in that, you know.{PAUSE}{EOM}{EOM}
+
+Message 192:
+{S_340191}{FACE_1E0003}Hey {TATSUYA},
+how's it going?{PAUSE}{EOM}
+
+Message 193:
+You think the kid looks like me?
+{S_3201F4}.{S_3201F4}.{S_3201F4}.{S_3201F4}Or maybe more like you?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+I guess kids aren't so bad, huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+He looks happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+{S_340191}{FACE_1E0009}I don't really like animals, but
+{DOG}'s cute.{PAUSE}{EOM}{EOM}
+
+Message 197:
+{FACE_1E0009}He seems to like you pretty well.
+I wonder what he thinks of me?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+Can {DOG} do any tricks?
+Shake or beg?{PAUSE}{EOM}
+
+Message 199:
+I don't like animals much.
+But that cat is cute.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 200:
+Pretty quiet kitty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+Don't get that too close to me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 202:
+I told you I'm not much for animals.
+In particular, I can't stand chickens.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+It has a tiny little beak.{PAUSE}{EOM}
+
+Message 204:
+It's cute, but...
+It's still a chicken.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 205:
+You don't mind chickens, huh?{PAUSE}{EOM}{EOM}
+
+Message 206:
+You know, I kind of like ducks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 207:
+Ducks seem kind of clumsy, don't they?
+I like that about them.{PAUSE}{EOM}
+
+Message 208:
+I wonder if a duck would sell for more
+than a chicken...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 209:
+I'm sure you know this, but it's
+important to check out the soil quality
+when planting seeds.{PAUSE}{WIPE}
+Some kinds of seeds won't grow in
+bad quality soil.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 210:
+I think all of the seeds that Vesta sells
+will grow in any kind of soil.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 211:
+Good luck with your crops.{PAUSE}{EOM}
+
+Message 212:
+That seed should grow into a good crop.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+{S_340191}{FACE_1E0003}That's one of our crops, huh?
+Can I eat it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 214:
+OK, I'll give it a try later.{PAUSE}{EOM}{EOM}
+
+Message 215:
+Yeah, I guess you want to sell it, huh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 216:
+Can I eat that?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 217:
+Leave the tasting of the crops to me.
+I used to work on a farm, after all.{PAUSE}{EOM}
+
+Message 218:
+The taste of a crop is more important than
+its appearance. You've gotta try them.{PAUSE}{EOM}{EOM}
+
+Message 219:
+That's milk from our farm.
+I don't know much about milk, but is
+it OK if I drink it?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 220:
+Can I drink that?{CHOICE Y/N DEF0}{EOM}
+
+Message 221:
+Milking cows must be tough.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 222:
+You have to be on a farm to get fresh
+milk like that.{PAUSE}{EOM}{EOM}
+
+Message 223:
+I know we make it and all, so this might
+sound a little strange, but...
+I don't like cheese very much.{PAUSE}{EOM}
+
+Message 224:
+I just can't stand the smell
+of cheese.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 225:
+I'm not gonna eat it. Sorry.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 226:
+Please, no butter.{PAUSE}{EOM}
+
+Message 227:
+I can't stand it.{PAUSE}{EOM}{EOM}
+
+Message 228:
+Did one of our chickens lay that egg?
+Don't drop it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 229:
+Are you going to scramble that up for me?{PAUSE}{EOM}{EOM}
+
+Message 230:
+Did you catch that, {NICKNAME}?
+Good job. It still looks fresh.{PAUSE}{EOM}
+
+Message 231:
+I don't fish, but maybe
+{TATSUYA} would like to do it
+sometime...{PAUSE}{EOM}
+
+Message 232:
+{TATSUYA} might like to see
+that...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 233:
+Oh, a wild plant....
+They grow all around here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 234:
+I guess those can be pretty good
+if you cook them right.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 235:
+Out of all the wild plants, I particularly
+like mushrooms.{PAUSE}{EOM}
+
+Message 236:
+Hey, that looks pretty good...
+Could I eat it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
+
+Message 237:
+{FACE_1E0003}All right. Thanks.{PAUSE}{EOM}
+
+Message 238:
+{FACE_1E0002}I'm just supposed to look at it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 239:
+That looks good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 240:
+I like spicy food.{PAUSE}{EOM}
+
+Message 241:
+{S_340191}{FACE_1E0009}...That's an odd looking hoe.
+I've never seen one like it.
+But it looks really heavy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 242:
+{S_340191}{FACE_1E0009}I once heard of a kind of hoe that could
+till a lot of soil at once...{PAUSE}{EOM}{EOM}
+
+Message 243:
+I never saw a hoe like that at
+Vesta's farm.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 244:
+{S_340191}{FACE_1E0009}...That's seen a lot of use.
+And it looks pretty easy to use....{PAUSE}{WIPE}
+{S_3201F4}Hey, didn't that used to
+be at Vesta's house?{PAUSE}{EOM}
+
+Message 245:
+I never used that hoe, but I thought
+Vesta liked it pretty well...{PAUSE}{EOM}
+
+Message 246:
+That hoe's still pretty new.
+You've got to break it in...{PAUSE}{EOM}{EOM}
+
+Message 247:
+I was never very good at working in the
+fields, so I can't use a hoe very well...{PAUSE}{EOM}{EOM}
+
+Message 248:
+You've used that hoe quite a bit...
+Does it feel like it's been broken in?{PAUSE}{EOM}
+
+Message 249:
+Using a hoe can be pretty tiring, huh?{PAUSE}{EOM}
+
+Message 250:
+That hoe's been used an awful lot.
+You're really working hard...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 251:
+Vesta's hoe looked about like that.
+I guess you're pretty used to working
+in the fields too...{PAUSE}{EOM}
+
+Message 252:
+{S_340191}{FACE_1E0009}What a strange sickle...
+It looks pretty old. Can you still use it?{PAUSE}{EOM}
+
+Message 253:
+{S_340191}{FACE_1E0009}I've never seen a sickle like that.{PAUSE}{EOM}
+
+Message 254:
+{S_340191}That's a strange sickle, but it
+looks like it's pretty sharp.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 255:
+What a strange sickle.{PAUSE}{EOM}
+
+Message 256:
+{S_340191}{FACE_1E0009}Got a new sickle, eh?
+You've got to use it more...{PAUSE}{EOM}{EOM}
+
+Message 257:
+{S_340191}{FACE_1E0009}You shouldn't go swinging something
+like that around...{PAUSE}{EOM}
+
+Message 258:
+What are you doing with that sickle?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 259:
+I'm not very interested in sickles.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 260:
+You've used that sickle quite a bit.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 261:
+You use that sickle to cut grass, right?
+Looks like a lot of work.{PAUSE}{EOM}
+
+Message 262:
+Is that a watering can?
+What a strange shape.{PAUSE}{EOM}{EOM}
+
+Message 263:
+{FACE_1E0009}There's just something strange about that.{PAUSE}{EOM}
+
+Message 264:
+Does that watering can water a lot
+of crops at once or something?{PAUSE}{EOM}{EOM}
+
+Message 265:
+Going to water the crops?
+Once or twice a day is plenty.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 266:
+The bigger the watering can the better.
+It's heavy, but at least you don't
+have to go back for more water much.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 267:
+You use that to milk the cows, huh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+You want me to milk the cows?
+Sorry, anything but that.
+I just can't stand animals.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 269:
+That's a pretty strange machine.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 270:
+You use that to shear the sheep?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 271:
+You want me to shear the sheep?
+Sorry, anything but that.
+I don't do well around animals.{PAUSE}{EOM}{EOM}
+
+Message 272:
+If I tried to shear the sheep, they'd
+probably end up all bloody.{PAUSE}{EOM}{EOM}
+
+Message 273:
+Those clippers look really old.
+Do they still cut OK?{PAUSE}{EOM}{EOM}
+
+Message 274:
+What?
+You carrying that for a reason?{PAUSE}{EOM}{EOM}
+
+Message 275:
+I'm not very good at using
+things like that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 276:
+That's a pretty stone...
+I didn't know you could find
+things like that laying around here...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 277:
+I bet Vesta would like to see that
+stone.{PAUSE}{EOM}{EOM}
+
+Message 278:
+If it's a rare stone, do you think it
+might be worth something...?{PAUSE}{EOM}
+
+Message 279:
+That's pretty strange.
+You collect those things?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 280:
+Sorry.
+I'm not interested in that stuff.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 281:
+Vesta and Celia like that kind
+of flower.{PAUSE}{EOM}{EOM}
+
+Message 282:
+Different kinds of wild plants grow
+depending on the season, so you
+should stock up while you can.{PAUSE}{EOM}
+
+Message 283:
+I've heard that some kinds of wild plants
+can have an effect on crops.{PAUSE}{EOM}
+
+Message 284:
+{FACE_1E0003}Hey, a record.
+If you have any new ones, let me
+listen to them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 285:
+It's nice to be able to work outside
+while listening to music.{PAUSE}{EOM}
+
+Message 286:
+Our farm's pretty great, huh?
+You can listen to records and everything.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 287:
+If you have any new ones, let me
+listen to them.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 288:
+Is that some kind of spice?
+Wow, that's quite a smell.
+Spicy, just how I like it.{PAUSE}{EOM}{EOM}
+
+Message 289:
+I bet that would be pretty tasty
+if you used it in cooking...{PAUSE}{EOM}{EOM}
+
+Message 290:
+{S_3400DA}{S_3205DC}Nice sound.{PAUSE}
+How did you make it do that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 291:
+{S_3400DA}{S_3205DC}...What an unusual drum.{PAUSE}{EOM}
+
+Message 292:
+What is that?
+It's all sparkly and gaudy.
+Not exactly my taste, {NICKNAME}.{PAUSE}{EOM}
+
+Message 293:
+What are you going to do with that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 294:
+Is that yours?
+I've never seen you wear it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 295:
+You've sure carry around dangerous stuff.
+Fireworks, huh? That's pretty big.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 296:
+You'd better put it away. It's dangerous.{PAUSE}{EOM}{EOM}
+
+Message 297:
+{FACE_1E0009}Hey, I'm Vesta's brother.
+I help out around the farm...
+Did I tell you this already?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 298:
+{S_340190}{FACE_1E0009}I used to be a top businessman
+in the city.{PAUSE}{WIPE}
+I guess there's no point in worrying
+about it, but if I hadn't gotten sick,
+I'd probably be company president by now.{PAUSE}{WIPE}
+But I'm glad I'm here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 299:
+{FACE_1E0009}...I'm not very good with people, so
+you might think I'm unsociable, but I'm
+just... Oh, I don't know how to say it...{PAUSE}{EOM}
+
+Message 300:
+{FACE_1E0003}Oh yeah, that thing you gave me
+was really good.
+Pretty impressive.{PAUSE}
+That's one of my favorites.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 301:
+{FACE_1E0009}About that thing you gave me...
+To tell the truth, I couldn't stand it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 302:
+{FACE_1E0009}By the way, that {VAR_00}
+could have been sweeter.
+Did you use enough fertilizer?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 303:
+{FACE_1E0003}Oh, by the way...
+That {VAR_00} I tasted for you
+was awful good. Yep, it was tasty.{PAUSE}{EOM}{EOM}
+
+Message 304:
+{FACE_1E0003}Oh, yeah...
+That {VAR_00} was just fantastic.
+I've never eaten anything like it.
+You're good. I'm pleasantly surprised.{PAUSE}{EOM}{EOM}
+
+Message 305:
+{FACE_1E0003}That {VAR_00} I had a
+while ago was the kind of thing I like.
+Yep, it was pretty good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 306:
+That milk you gave me was
+good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 307:
+{FACE_1E0003}By the way, that milk I had
+was pretty good.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 308:
+{FACE_1E0003}Oh, that's right.
+That milk I had was just amazing.
+You should be able to sell it for a lot.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 309:
+Oh, I almost forgot. That milk I had a
+while ago was fantastic. Even I can
+tell that.{PAUSE}{EOM}{EOM}
+
+Message 310:
+{FACE_1E0009}That milk you gave me seemed
+a little smelly.
+Oh, goat milk?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 311:
+{FACE_1E0003}That milk you gave me was a
+little smelly, but it tasted pretty
+good.{PAUSE}{EOM}{EOM}
+
+Message 312:
+About that {VAR_00} you gave me,
+did you season it yourself?{PAUSE}{WIPE}
+It was just the way I like it.
+It was delicious.{PAUSE}{EOM}{EOM}
+
+Message 313:
+{FACE_1E0003}That dish that you cooked up was
+pretty good.
+Why don't you make it again?{PAUSE}{EOM}
+
+Message 314:
+{FACE_1E0003}This might sound strange coming from me,
+but you seem more like a real
+farmer now.{PAUSE}{EOM}
+
+Message 315:
+{FACE_1E0003}You know, Vesta was just saying
+the other day how you were a fast worker.
+I think so, too.{PAUSE}{EOM}
+
+Message 316:
+{FACE_1E0003}I've been thinking lately that you
+seem just like a real sous
+chef.{PAUSE}{WIPE}
+You know so many great recipes.{PAUSE}{EOM}{EOM}
+
+Message 317:
+You're working hard, I can tell.
+And it's helping the farm.{PAUSE}
+Aren't you a lot faster
+at your work now?
+I think maybe you have.{PAUSE}{EOM}
+
+Message 318:
+Working hard at growing crops, eh?
+That can be difficult.{PAUSE}{EOM}{EOM}
+
+Message 319:
+You're working hard at cooking, I see.
+Hasn't the number of dishes you can
+cook increased recently?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 320:
+I can't help you much with the animals,
+but I do have my own ideas about how to
+grow crops. I might be able to help.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 321:
+Do you like our current way of
+life, {NICKNAME}?
+{CHOICE3 DEF1}
+Of course.
+Sort of.
+Not really.{EOM}{EOM}
+
+Message 322:
+Oh, that's good.
+I like it, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 323:
+I see.
+Well, that's the way it goes.
+We have a long future ahead of us, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 324:
+It hurts me to hear you say that.
+But things will pick up.{PAUSE}{WIPE}
+I'm looking forward to seeing
+{TATSUYA} grow up and all...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 325:
+Working with the animals seems tough. I
+can at least help clean out the barn.{PAUSE}{EOM}{EOM}
+
+Message 326:
+I wonder what Takakura thinks about
+me...?
+I think I'm a nice guy, but...{PAUSE}{EOM}{EOM}
+
+Message 327:
+{TATSUYA}'s been talking back a
+lot recently.
+I guess that kid takes after me...{PAUSE}{EOM}{EOM}
+
+Message 328:
+Don't you think that Takakura's looking
+a lot older lately?
+I hope he's OK...{PAUSE}{EOM}{EOM}
+
+Message 329:
+Is your work going well?
+{CHOICE3 DEF1}
+Of course.
+It's not bad.
+It's terrible.{EOM}
+
+Message 330:
+That's my {NICKNAME}.
+Good job.{PAUSE}{EOM}
+
+Message 331:
+But... we're making
+money, right?
+No?{PAUSE}{EOM}{EOM}
+
+Message 332:
+But we're not doing all that
+bad, are we?
+As long as we can eat, we'll be OK.{PAUSE}{EOM}{EOM}
+
+Message 333:
+Can I ask you something?
+Am I an old man?
+{CHOICE3 DEF1}
+Not at all.
+I've been shopping for your cane.
+It's a close call...{EOM}
+
+Message 334:
+You really think so?
+That's a relief.
+I'm still OK...{PAUSE}{EOM}{EOM}
+
+Message 335:
+Ugh... I thought so...
+Oh, by the way...
+Your cane is on backorder.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 336:
+I see... I guess you're right...
+We're both pushing it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 337:
+We've lived here for quite a long time,
+but recently I've felt really good
+I think I'm suited for farm life.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 338:
+When I'm in the mood, I'll even take care
+of your tools for you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 339:
+It's great that we can plant trees here.
+Hybrid fruits sell for a lot of money.
+Vesta doesn't handle those, you know.{PAUSE}{EOM}{EOM}
+
+Message 340:
+Hey, why did you decide to name this
+place {FARM} Farm?
+Just wondering.{PAUSE}{EOM}
+
+Message 341:
+Hey, what's up?
+Done with your work already?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 342:
+Isn't a drink after work refreshing?
+It's pretty good even without working.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 343:
+I'll go right home after my drink.{PAUSE}{EOM}
+
+Message 344:
+It's kind of nice to drink like this, just
+the two of us...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 345:
+Farm work isn't easy.
+You're pretty amazing, you know that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 346:
+I wonder what {TATSUYA} is
+interested in these days...{PAUSE}{WIPE}
+I bet if you showed that kid a
+bunch of different things, it might
+make {TATSUYA} interested in them.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 347:
+{NICKNAME}, have you been talking
+to {TATSUYA} recently?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 348:
+Well, that's good.
+But I think that kid is in a rebellious
+phase...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 349:
+Maybe you should leave the kid alone.
+It's just a phase.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 350:
+It may seem strange for me to say this
+now, but I don't help out with the work
+much, do I? What do you think of that?
+{CHOICE3 DEF1}
+Don't worry about it.
+You're a lazy old man.
+I've given up on you.{EOM}
+
+Message 351:
+Really? That makes me feel better.
+It's been bothering me, but I'm really
+not cut out for this kind of work.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 352:
+I suppose you're right.
+{TATSUYA} probably thinks so, too.
+But I have to be myself...{PAUSE}{EOM}
+
+Message 353:
+Um... I see...
+That's a little harsh. But I guess
+nothing can be done about it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 354:
+Have I mellowed out since we got married?
+Celia said that I had. She said I talk
+more gently nowadays.{PAUSE}{EOM}
+
+Message 355:
+I'd like to help out with the farm work
+every once in a while.
+I probably can't do much, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 356:
+I hope {TATSUYA} grows up healthy
+and happy. Well, any child with your genes
+should be fine.{PAUSE}{EOM}{EOM}
+
+Message 357:
+Having our kid grow up means that we'll
+have more time for the two of us, but
+it's kind of lonely, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 358:
+Oh, hello.
+You come here often, too?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 359:
+I just stopped by for a minute.
+I'll be going home soon.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 360:
+Even a guy like me likes to stop
+and talk with people sometimes.
+Of course, I mostly listen...{PAUSE}{EOM}
+
+Message 361:
+On days like this, I like to get outside
+as much as possible.
+It feels good and it's good for you.{PAUSE}{EOM}
+
+Message 362:
+Vesta plants Tomatoes, Watermelon,
+and Potatoes at this time of year.{PAUSE}{EOM}{EOM}
+
+Message 363:
+It's so nice out, I was just
+taking a little break.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 364:
+You taking a walk, too?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 365:
+It's a little hot, but
+it feels really good in the shade
+of the trees.{PAUSE}{EOM}
+
+Message 366:
+I used to swim in the ocean all
+the time. But nobody swims here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 367:
+Vesta plants Melons, Watermelons, and
+Turnips at this time of year.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 368:
+Vesta plants Melons, Yams, and
+Turnips at this time of year.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 369:
+It's a little chilly...
+Where are you off to?{PAUSE}{EOM}{EOM}
+
+Message 370:
+When I'm walking somewhere I'm
+usually thinking about something.
+About what? Oh, lots of stuff.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 371:
+This is a tough season for the crops.{PAUSE}{EOM}{EOM}
+
+Message 372:
+Vesta plants Strawberries, Potatoes,
+and Carrots at this time of year.{PAUSE}{EOM}
+
+Message 373:
+I'm not much of a cook.
+Could you dish up something for me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 374:
+Celia used to mess up all the time when
+she was cooking. Do you have that problem?
+{CHOICE3 DEF1}
+Leave the cooking to me!
+That depends on your definition of “mess.”
+If you don't like it, FINE!{EOM}{EOM}{EOM}
+
+Message 375:
+{FACE_1E0003}I'm looking forward to it.{PAUSE}{EOM}
+
+Message 376:
+Well, I'll eat anything you want to
+cook me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 377:
+{FACE_1E0009}S-sorry.
+I didn't mean anything by it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 378:
+Sometimes I think I might like to try
+my hand at cooking...{PAUSE}{WIPE}
+But don't worry.
+I'll eat the stuff I cook myself.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 379:
+Vesta likes baking bread and pastries
+more than cooking.
+Are you like that?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 380:
+I see...
+I'm not very big on sweets, though...{PAUSE}{EOM}
+
+Message 381:
+That's good.
+I don't like sweets very much.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 382:
+I've learned how to cook a bit
+recently.
+I'm not as good as you, of course.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 383:
+When you're not here, I eat the
+food in the refrigerator, so try
+and keep it stocked, OK?{PAUSE}{EOM}{EOM}
+
+Message 384:
+I wonder what kind of cooking
+{TATSUYA} likes...{PAUSE}{EOM}{EOM}
+
+Message 385:
+{TATSUYA} is eating a lot lately.
+Growing kids'll do that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 386:
+Everything we cook should be great.
+We use the best ingredients, after all.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 387:
+I wonder what {TATSUYA} wants
+to be in the future...{PAUSE}{EOM}{EOM}
+
+Message 388:
+{TATSUYA} seems to be keeping
+a diary. Have you looked at it?
+I suppose we shouldn't read it, but...{PAUSE}{EOM}{EOM}
+
+Message 389:
+It might be best for you to stay out
+of {TATSUYA}'s room for a while.
+Older kids need their privacy...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 390:
+When I look at {TATSUYA}'s room,
+I remember when that kid was just a baby.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 391:
+If you look at {TATSUYA}'s toy box
+and bookshelves, I think you can tell
+what that kid's interested in.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 392:
+I guess adults can't appreciate what
+kids really find valuable...{PAUSE}{EOM}{EOM}
+
+Message 393:
+{TATSUYA} seems to be
+reading a lot of pretty difficult
+books recently.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 394:
+I guess we can't just walk
+into {TATSUYA}'s room without
+knocking anymore.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 395:
+Our kid's room is always
+going to be a kid's room to me...
+Well, I guess that's natural...{PAUSE}{EOM}
+
+Message 396:
+I like to come here and look at the
+fields occasionally. I might learn
+something we can use on our farm...{PAUSE}{EOM}
+
+Message 397:
+Did you come to buy some seeds?
+Then you'd better ask Vesta or
+Celia.{PAUSE}{EOM}{EOM}
+
+Message 398:
+This is where we raise stable crop
+varieties for shipping to the city.{PAUSE}{EOM}
+
+Message 399:
+I made that scarecrow over there.
+We didn't really need it, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 400:
+Zzzzzzz.......{PAUSE}{EOM}
+
+Message 401:
+Zzzzzz... Zzzz...{PAUSE}{EOM}{EOM}
+
+Message 402:
+The room seems kind of empty
+without a bed in it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 403:
+Do you watch TV a lot?
+{CHOICE3 DEF1}
+All the time.
+Occasionally.
+Never.{EOM}{EOM}{EOM}{EOM}
+
+Message 404:
+So, you're a couch potato, eh?
+I don't watch it much myself.
+Is it really that good?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 405:
+I guess there are some programs about
+farming... I wonder if they're any good...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 406:
+Then what do we have one for?{PAUSE}
+Not just for its looks, is it?{PAUSE}{EOM}{EOM}
+
+Message 407:
+You know, we've got a pretty big house
+for just three people...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 408:
+The quality of the soil is different
+from field to field.{PAUSE}{EOM}{EOM}
+
+Message 409:
+I don't think I'm cut out for farm work,
+but I am interested in crops.
+I'm researching hybridization.{PAUSE}{EOM}{EOM}
+
+Message 410:
+Hybridization is when you take the genes of
+two plants and make a third, new plant.
+It can be pretty interesting.{PAUSE}{WIPE}
+For example, if you combined a Tomato and
+a Watermelon, you'd get a {CROP_0005}
+that has both of their genes.{PAUSE}{WIPE}
+Or if you combined a Melon and a
+Strawberry, you'd get a {CROP_000A}
+that has both of their genes.{PAUSE}{WIPE}
+And if you combine the {CROP_0005} and the
+{CROP_000A}, you get something that has
+genes from all of those plants.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 411:
+Daryl may be researching hybrids too,
+but he's such a weird guy and all.
+Who knows what he's up to?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 412:
+I'd like to help you out by coming
+up with some good new crops
+on my own.{PAUSE}{EOM}{EOM}
+
+Message 413:
+This is a good place for a pasture.
+It gets plenty of sun and wind.
+Yep, it's just about perfect...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 414:
+I love to watch the grass bend and wave
+in the wind.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 415:
+{FACE_1E0009}I think I'd better pass for now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 416:
+Where are you off to in this rain?
+It's not good for your health.{PAUSE}{EOM}{EOM}
+
+Message 417:
+I don't feel like going out on days like
+this... But being cooped up inside
+all day is boring...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 418:
+I can care for the tools and the
+the freezer, you know...
+I don't mind giving Takakura a hand.{PAUSE}{EOM}
+
+Message 419:
+I thought I might do a little
+cleaning around here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 420:
+I can't really take care of the animals,
+but I can at least clean up after them.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 421:
+If we don't keep the barn clean, the
+animals could become ill.{PAUSE}{EOM}
+
+Message 422:
+What's up?
+I just thought I'd come and have a
+chat with Takakura.{PAUSE}{EOM}{EOM}
+
+Message 423:
+I thought I'd ask Takakura to teach me
+about the farm.{PAUSE}{EOM}
+

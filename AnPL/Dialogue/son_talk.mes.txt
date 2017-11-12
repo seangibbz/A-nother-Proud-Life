@@ -1,0 +1,2866 @@
+Message 0:
+Happy New Year!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+Happy New Year, Mom.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+Happy New Year, Mom,
+I hope this year's as good as last year.{PAUSE}{EOM}{EOM}
+
+Message 3:
+Good morning, Mom.{PAUSE}{EOM}
+
+Message 4:
+Hi, Mom.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+Heya, {PETE}!
+How much do you want for that?
+{CHOICE3 DEF0}
+I'm not selling you this
+100,000G's!
+50G's{EOM}{EOM}
+
+Message 6:
+{S_3401A7}{FACE_010009}Come on, Mom, be a sport!
+{FACE_01000D}You won't be selling anything like that.{PAUSE}{EOM}{EOM}
+
+Message 7:
+{S_3401A5}{FACE_01000A}Ha ha! Mom, that's outrageous!{PAUSE}{EOM}{EOM}
+
+Message 8:
+{S_3401A7}{FACE_01000A}Mom,
+You're asking money from your own son?{PAUSE}{EOM}
+
+Message 9:
+{FACE_01000A}Hi! Why don't you sell me one of those!
+{FACE_010002}I'm just kidding, you know.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+{FACE_01000A}That's 500G.
+{CHOICE2 DEF0}
+Thanks!
+You're kidding, right?{EOM}{EOM}
+
+Message 11:
+{FACE_010022}Er... of course I am!
+{FACE_010009}All it would do is increase
+your pocket money.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+{FACE_01000D}Gee, be a sport,
+Mom...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 13:
+{FACE_010001}I hope you sell a lot!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+{FACE_010009}Why do you think I'd buy this?
+Get a grip, Mom...{PAUSE}{EOM}{EOM}
+
+Message 15:
+{FACE_010004}You go make yourself a fortune, Mom!
+{FACE_010001}Just kidding.{PAUSE}{EOM}
+
+Message 16:
+{S_3401A7}Mom, isn't the world map {FACE_010009}
+on the bathroom wall kinda old?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 17:
+{S_3401A8}{FACE_010007}I really need to think about this...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 18:
+{FACE_010001}I gave the animals something to eat.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 19:
+{FACE_010001}I gave the animals their food.{PAUSE}{EOM}
+
+Message 20:
+{FACE_010001}I watered the fields.{PAUSE}{EOM}{EOM}
+
+Message 21:
+{FACE_010001}I watered the crops.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 22:
+{FACE_01000A}I hope we make tons of money!{PAUSE}{EOM}{EOM}
+
+Message 23:
+{FACE_01000A}I wonder what we'll sell next?{PAUSE}{EOM}
+
+Message 24:
+{FACE_01000C}Is anyone going to buy that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 25:
+We should sell higher-profit items.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 26:
+{FACE_010021}If a pretty girl offered me that,
+I'd buy it without thinking twice.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 27:
+{FACE_010001}You sell stuff to your own poster boy!?
+.....................
+{FACE_01001A}Er... “poster kid”, then.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+{FACE_01001E}I don't want any.{PAUSE}{EOM}{EOM}
+
+Message 29:
+{FACE_010009}Didn't anyone buy that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 30:
+{FACE_01000C}Hmm? Why me?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+{FACE_010009}Yeah, yeah,
+I know you're working hard.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+{FACE_010009}If you're trying to sell that to me,
+you must be really desperate.{PAUSE}{EOM}
+
+Message 33:
+{FACE_010009}Let me guess... you couldn't sell it.{PAUSE}{EOM}{EOM}
+
+Message 34:
+{FACE_010009}Wake up, will you?
+I'm not one of your customers.{PAUSE}{EOM}{EOM}
+
+Message 35:
+{FACE_010009}Are you tired?
+It's me.
+Not a customer.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+{FACE_010009}If you're so tired, just call it a day.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 37:
+{FACE_010009}You couldn't sell it, or what?{PAUSE}{EOM}
+
+Message 38:
+{FACE_010004}Mom,
+you're selling that to a customer, right?
+Why are you showing it to me?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+{FACE_01000D}Come on, wake up and work.{PAUSE}{EOM}
+
+Message 40:
+{FACE_01000D}You're not going to charge a member
+of your own family, are you? Come on!{PAUSE}{EOM}{EOM}
+
+Message 41:
+I don't want any.{PAUSE}{EOM}{EOM}
+
+Message 42:
+{FACE_010002}What are you trying to do?{PAUSE}{EOM}
+
+Message 43:
+What's the use selling that to me?{PAUSE}{EOM}
+
+Message 44:
+You couldn't sell it, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 45:
+How's it going?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 46:
+You want to sell that, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+You look nice today, Mom.{PAUSE}{EOM}{EOM}
+
+Message 48:
+I'm going to build a house
+even bigger than yours!{PAUSE}{EOM}
+
+Message 49:
+Do you like taking baths?{PAUSE}{EOM}{EOM}
+
+Message 50:
+Hi, what's up?{PAUSE}{EOM}
+
+Message 51:
+My knees are hurting me.
+I feel like they're grinding at night.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+Yes?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 53:
+I wish I had a cute little sister.{PAUSE}{EOM}
+
+Message 54:
+I wonder if there'll always be
+a place for me here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 55:
+Come to think of it,
+I'm the first person to be
+born and raised here, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+{FACE_010003}{S_3401A6}Wow, I wish I had one of those!
+You're giving it to me?
+{CHOICE2 DEF0}
+Sure, you can have it.
+Nope, sorry.{EOM}{EOM}{EOM}
+
+Message 57:
+{FACE_01000A}{S_3401A5}Yippeee!
+Thanks, Mom!
+I really love this!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 58:
+{FACE_010008}{S_3401A7}Oh, gee.
+I knew you'd say that.{PAUSE}{EOM}
+
+Message 59:
+{FACE_010003}You mean I can have that?
+{CHOICE2 DEF0}
+Yup! It's yours!
+Nope, sorry.{EOM}{EOM}
+
+Message 60:
+{FACE_01000A}{S_3401A5}Wow, thanks!
+I love these things!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+{FACE_010008}Oh. I see.
+{FACE_010003}I thought you were giving it to me.
+I love these things, you know.{PAUSE}{EOM}{EOM}
+
+Message 62:
+{FACE_01000A}Wow...!
+{FACE_01001A}Er... No, never mind.
+No, I really don't want it.{PAUSE}{EOM}{EOM}
+
+Message 63:
+{FACE_010001}Did you know I love these things?{PAUSE}{EOM}{EOM}
+
+Message 64:
+{FACE_010001}I really love these things!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 65:
+{FACE_010001}Wow... I wish I had one of those.
+{FACE_010019}Can I have one?
+{CHOICE2 DEF0}
+Sure, here you go.
+Nope, sorry.{EOM}{EOM}{EOM}{EOM}
+
+Message 66:
+{FACE_01000A}Thanks!
+I love these things!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+{FACE_010008}I thought so...
+{FACE_010019}{S_3401A7}I really love these things, you know.
+{FACE_010001}Well, never mind.{PAUSE}{EOM}
+
+Message 68:
+{FACE_010001}Wow, I love these things...
+{CHOICE2 DEF0}
+You can have it if you like.
+What about it?{EOM}{EOM}
+
+Message 69:
+{FACE_010019}You're giving me this? Really?
+{FACE_01000A}Thanks!
+I really love these!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+{FACE_01001A}Er...
+It's nothing, really. Never mind.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+{FACE_01001A}I love those things, you know.{PAUSE}{EOM}
+
+Message 72:
+{FACE_01001A}Did you know I love those things?{PAUSE}{EOM}{EOM}
+
+Message 73:
+{FACE_010001}I really like those!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 74:
+You're giving this to me?
+{CHOICE2 DEF0}
+Yup.
+Nope, only showing it to you.{EOM}
+
+Message 75:
+Thanks.
+I love these things.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 76:
+Hmmm. Thought so.{PAUSE}{EOM}{EOM}
+
+Message 77:
+Yeah? What is it?
+{CHOICE2 DEF0}
+Would you like to have this?
+Never mind.{EOM}{EOM}{EOM}
+
+Message 78:
+Yeah, sure. Thanks.
+I like these.{PAUSE}{EOM}{EOM}
+
+Message 79:
+Thought so.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 80:
+I don't need anything now.{PAUSE}{EOM}
+
+Message 81:
+Lemme guess... you're trying to bribe me
+with a “present”.{PAUSE}{EOM}
+
+Message 82:
+...Well, I kinda like those, if you didn't know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 83:
+No, I'm fine.{PAUSE}{EOM}{EOM}
+
+Message 84:
+Wow, I love those things.
+{CHOICE2 DEF0}
+Here, take it.
+Yeah, I know you do.{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+You mean you don't need it?
+Thanks, then!
+I love these things.{PAUSE}{EOM}
+
+Message 86:
+You're so lucky.
+I really love those things.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+Wow!
+I love those things!
+{CHOICE2 DEF0}
+Here you are, then.
+Sorry, I need this.{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+Thanks, Mom!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+Thought you were going to give it to me.
+Never mind, then.{PAUSE}{EOM}
+
+Message 90:
+Guess what?
+I love those things.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 91:
+Did you know I love those things?{PAUSE}{EOM}{EOM}
+
+Message 92:
+Looks good!
+I can't believe some people
+hate these things.{PAUSE}{EOM}
+
+Message 93:
+Wow... I love those things...
+{CHOICE2 DEF0}
+It's yours, then.
+I know you do.{EOM}{EOM}{EOM}
+
+Message 94:
+Oh, thanks!
+I really like these!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 95:
+I really do.
+Can't get enough of them.{PAUSE}{EOM}
+
+Message 96:
+Look at what you have there...
+{CHOICE2 DEF0}
+You can have it, then.
+Well, you're not getting it.{EOM}{EOM}{EOM}
+
+Message 97:
+You mean I can have it?
+Thanks, Mom.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 98:
+Er... it's not like I want it,
+though I do like it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 99:
+Hey, look at that.
+I love those things.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 100:
+Yup, these things are definitely great.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 101:
+I like those things.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 102:
+{FACE_01001E}{S_3401A6}Ewww...!
+{FACE_010009}What is that, Mom!?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+{FACE_010009}{S_3401A7}I don't want any!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+{FACE_010009}{S_3401A7}I hate these...{PAUSE}{EOM}
+
+Message 105:
+{FACE_010009}{S_3401A7}I don't want any of those!{PAUSE}{EOM}{EOM}
+
+Message 106:
+{FACE_010004}{S_3401A7}Why do you always bring
+things I hate!?{PAUSE}{EOM}
+
+Message 107:
+{FACE_010009}What is that?
+Ewww...{PAUSE}{EOM}{EOM}
+
+Message 108:
+{FACE_010009}I don't like that...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 109:
+{FACE_010009}I don't want that.{PAUSE}{EOM}
+
+Message 110:
+{FACE_010009}Ewww.
+Put that away somewhere.{PAUSE}{EOM}
+
+Message 111:
+{FACE_010009}I don't want that.{PAUSE}{EOM}
+
+Message 112:
+{FACE_010004}What is that? I don't want it.{PAUSE}{EOM}
+
+Message 113:
+{FACE_010004}What is it?
+Get it away from me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 114:
+{FACE_010004}I don't want to see that.{PAUSE}{EOM}{EOM}
+
+Message 115:
+{FACE_010004}I don't want it!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 116:
+{FACE_010004}...Mom,
+You're trying to make me mad, aren't you?{PAUSE}{EOM}{EOM}
+
+Message 117:
+{FACE_010009}Mom,
+could you put that away?
+I hate it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 118:
+{FACE_010009}Ewww.
+I can't stand the sight of that.{PAUSE}{EOM}
+
+Message 119:
+{FACE_010004}No thanks, no thanks!
+I don't want it!{PAUSE}{EOM}
+
+Message 120:
+{FACE_010009}No way, take it somewhere else.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 121:
+{FACE_010009}Don't show me something like that.{PAUSE}{EOM}
+
+Message 122:
+{FACE_010009}What is that? I don't want any.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+{FACE_010004}Could you take that away
+from me and keep it there?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+{FACE_010004}Ewww...
+I can't stand the sight of that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+{FACE_010004}Don't bother showing me that.{PAUSE}{EOM}{EOM}
+
+Message 126:
+{FACE_010009}Yuck...
+I don't want that.{PAUSE}{EOM}
+
+Message 127:
+{FACE_01001E}Phew! You scared me!
+{FACE_010007}Are you sure it won't bite?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 128:
+{FACE_01001E}Yikes!
+{FACE_010004}It's not like I'm not scared!{PAUSE}
+It's just not something I really like...{PAUSE}{EOM}
+
+Message 129:
+{FACE_010009}What the heck?{PAUSE}{EOM}
+
+Message 130:
+{FACE_010004}W...what do you want?
+I'm...not...scared!{PAUSE}{EOM}{EOM}
+
+Message 131:
+{FACE_010004}You're having fun, aren't you!?
+Seeing me scared and all...!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 132:
+{FACE_010004}Go away!
+You bring {DOG} near me again, and
+I'll ignore you for the rest of my life!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 133:
+{FACE_010004}. . . . . . . . . . . . . . . . . . . . .{PAUSE}{EOM}{EOM}
+
+Message 134:
+{FACE_01001E}Hmmm?{FACE_01001B}W...what the?{PAUSE}{EOM}
+
+Message 135:
+{FACE_01001B}It looks as if...
+as if it's going to bite me any second!{PAUSE}{EOM}{EOM}
+
+Message 136:
+{FACE_01001B}I really don't like dogs...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+{FACE_010004}What do you want?
+Keep it away from me, okay?{PAUSE}{EOM}{EOM}
+
+Message 138:
+{FACE_010004}Just don't bring it near me.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 139:
+{FACE_010004}. . . . . . . . . . . . . . . . . . . . .{PAUSE}{EOM}{EOM}
+
+Message 140:
+{FACE_01001E}Yikes! You scared me!
+{FACE_010009}I don't like dogs...{PAUSE}{EOM}
+
+Message 141:
+{FACE_010009}{DOG} won't bite, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 142:
+{FACE_010009}I'm trying to keep it a secret...
+Being afraid of dogs, at this age...{PAUSE}{EOM}
+
+Message 143:
+{FACE_01001E}Yikes! {FACE_010004}What do you want!
+you want?{EOM}{EOM}
+
+Message 144:
+{FACE_010004}Are you doing this on
+purpose, Mom?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+{FACE_010004}Go away, will you?{PAUSE}{EOM}
+
+Message 146:
+{FACE_010007}It won't bite, will it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 147:
+{FACE_010007}I don't get along well with dogs...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 148:
+{FACE_01001B}Don't you bite...don't you bite...{PAUSE}{EOM}
+
+Message 149:
+{FACE_010003}Know what, Mom?
+Dogs don't mind the cold!{PAUSE}{EOM}{EOM}
+
+Message 150:
+{FACE_010003}I'm an expert on dogs!{PAUSE}{EOM}
+
+Message 151:
+{FACE_010003}I wonder if {DOG} can dig, too?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 152:
+{FACE_010003}Ask me anything about dogs.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+{FACE_010003}They don't really see
+things that are near them.
+Just like some of us humans.{PAUSE}{EOM}{EOM}
+
+Message 154:
+{FACE_010002}Why don't you just go look it up?{PAUSE}{EOM}{EOM}
+
+Message 155:
+{FACE_010023}I wonder if {DOG} sees itself
+as above me or below?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 156:
+{FACE_010003}Unless you train them correclty,
+dogs think they're the masters.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 157:
+{FACE_010003}{DOG} is already old.{PAUSE}{EOM}{EOM}
+
+Message 158:
+{FACE_010003}Hope {DOG} lives nice and long.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+{FACE_010003}Is {DOG} okay?{PAUSE}{EOM}
+
+Message 160:
+{FACE_010003}As cute as ever!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 161:
+{FACE_010003}Hey, how's {DOG} doing?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 162:
+I bet he has no worries at all...{PAUSE}{EOM}{EOM}
+
+Message 163:
+{FACE_010003}You're always so cute!{PAUSE}{EOM}
+
+Message 164:
+{FACE_010003}{DOG}, I envy you, you know?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 165:
+{FACE_010003}A bigger dog might be nice, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+{FACE_010024}It's so cute. Can I draw eyebrows on him?{PAUSE}{EOM}{EOM}
+
+Message 167:
+{FACE_010001}I wonder if it'll eat fruit...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+{FACE_010001}It's so cute!{PAUSE}{EOM}{EOM}
+
+Message 169:
+{FACE_010001}Does it like me?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 170:
+{FACE_010009}I bet you have no worries at all.{PAUSE}{EOM}{EOM}
+
+Message 171:
+{FACE_01000A}It's really cute.{PAUSE}{EOM}{EOM}
+
+Message 172:
+{FACE_010024}We should have more animals here.{PAUSE}{EOM}{EOM}
+
+Message 173:
+{FACE_01000C}I wonder what it's thinking...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+It's raining.{PAUSE}{EOM}{EOM}
+
+Message 175:
+Ah, rain...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 176:
+I wonder when it'll stop raining.{PAUSE}{EOM}{EOM}
+
+Message 177:
+Mom! it's snowing!
+It's so exciting!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 178:
+Ah, snow...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 179:
+Hmmm. Snow. Is it going to stay?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 180:
+It's nice and sunny!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+Nice weather today.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 182:
+Good weather makes me wanna relax all day.{PAUSE}{EOM}
+
+Message 183:
+It's so hot today!{PAUSE}{EOM}
+
+Message 184:
+It's really hot...
+Heat really gets to me...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 185:
+It's hot today, isn't it?
+It's gonna wear me out.{PAUSE}{EOM}{EOM}
+
+Message 186:
+Nice and warm today, isn't it, Mom?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+A warm day, that's for sure...{PAUSE}{EOM}
+
+Message 188:
+The air feels nice and pure!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+Mom, can you see the Moon?{PAUSE}{EOM}
+
+Message 190:
+It feels great...{PAUSE}{EOM}{EOM}
+
+Message 191:
+It's somewhat cold on the evenings,
+but this is the best time of the year.{PAUSE}{EOM}
+
+Message 192:
+It's nice and cool now!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 193:
+Feels much better at night.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+It's a little cooler now.
+I wish it were like this everyday.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+The stars are beautiful this time of year!{PAUSE}{EOM}
+
+Message 196:
+It's so quiet.{PAUSE}{EOM}
+
+Message 197:
+It's a truly romantic evening.
+{FACE_010021}I'd want to be with my sweetheart...
+{FACE_01001A}Just kidding.{PAUSE}{EOM}{EOM}
+
+Message 198:
+Dad is usually nice,
+but she sometimes chews me out
+like a woman possessed!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 199:
+She nags me about every little thing.
+I can't stand her...!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 200:
+Was there something between Dad
+and {MARLIN} in the past...?{PAUSE}{EOM}
+
+Message 201:
+Can't help thinking
+that Dad's grown old.{PAUSE}{EOM}{EOM}
+
+Message 202:
+Dad told me I must take care of myself.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+Dad doesn't really care about me.
+I swear she doesn't.{PAUSE}{EOM}
+
+Message 204:
+I'm beginning to understand that
+Dad does love me,
+but in her own way.{PAUSE}{EOM}
+
+Message 205:
+They say men marry women resembling their
+mothers or who are totally different.
+I wonder which type I am...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 206:
+Sometimes, I don't understand
+what Dad's thinking.{PAUSE}{WIPE}
+{FACE_010001}One moment she's smiling,
+{FACE_010004}and then suddenly she's mad.
+{FACE_010009}I'm not sure what to think...{PAUSE}{EOM}{EOM}
+
+Message 207:
+{FACE_010002}She still treats me
+like a little kid...
+It's so frustrating...!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 208:
+Dad told me that
+the way she fell in love with you
+was really dramatic.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 209:
+Even Dad
+can't help showing her age.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 210:
+Mom, are you staying at home today?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 211:
+I'm kinda hungry...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 212:
+I'm so bored!{PAUSE}{EOM}{EOM}
+
+Message 213:
+. . . . . . . . . . . . . . . . . . . . .{PAUSE}{EOM}{EOM}
+
+Message 214:
+I feel like going on a trip somewhere.{PAUSE}{EOM}
+
+Message 215:
+We've never been on a family trip, huh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 216:
+I wonder if I should start thinking
+about getting married.{PAUSE}{EOM}
+
+Message 217:
+If there's one thing missing
+at home, it would be
+a cute little sister...{PAUSE}{EOM}{EOM}
+
+Message 218:
+What's on the other side of the sea?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 219:
+I can smell the sea!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 220:
+This place makes me realize
+how little and powerless I am...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 221:
+Please. Just leave me alone.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 222:
+The sound of the waves is so soothing.{PAUSE}{EOM}
+
+Message 223:
+{FACE_010009}The wind makes my face feel odd...{PAUSE}{EOM}
+
+Message 224:
+This place brings up lots of memories.
+I guess the sea is the mother of all life.{PAUSE}{EOM}{EOM}
+
+Message 225:
+{FACE_01000C}Come to think of it, I've never this sea
+become stormy or anything...{PAUSE}{EOM}{EOM}
+
+Message 226:
+The trees are talking to each other!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+Look there, Mukumuku...!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 228:
+This place is nice and quiet.{PAUSE}{EOM}{EOM}
+
+Message 229:
+. . . . . . . . . . . . . . . . . . . . .{PAUSE}{EOM}{EOM}
+
+Message 230:
+This place looks quite different at night.{PAUSE}{EOM}
+
+Message 231:
+I was kinda scared of this place as a kid.
+The big trees and all...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 232:
+. . . . . . . . . . . . . . . . . . . . .{PAUSE}{EOM}{EOM}
+
+Message 233:
+Hmmm? I wonder how you pronounce this?{PAUSE}{EOM}
+
+Message 234:
+. . . . . . . . . . . . . . . . . . . . .{PAUSE}{EOM}{EOM}
+
+Message 235:
+Here's a strike!
+Nope. Too bad.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 236:
+. . . . . . . . . . . . . . . . . . . . ?
+. . . . . . . . . . . . . . . . . . . . !{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 237:
+I'm kinda busy right now.{PAUSE}{EOM}{EOM}
+
+Message 238:
+Oh no!
+{FACE_010004}You made me mess up my drawing!{PAUSE}{EOM}
+
+Message 239:
+{FACE_010004}I'm not drawing very well today.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 240:
+{FACE_010004}Just go away, will you?
+You're ruining my concentration.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 241:
+Oh, come on, Mom!
+Quit peeking!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 242:
+Sorry, can't show you right now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 243:
+I'm making a drawing!{PAUSE}{EOM}{EOM}
+
+Message 244:
+Straight lines are so hard to draw!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 245:
+It's not easy to draw something
+like you want to.{PAUSE}{EOM}{EOM}
+
+Message 246:
+Beats me...
+I wonder why the lines end up slanting?
+Hmmm...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 247:
+Me? I'm just drawing some simple,
+random things lying around.{PAUSE}{EOM}{EOM}
+
+Message 248:
+I'm having trouble capturing the form
+of that thing over there.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 249:
+I figure my drawings could be anything
+between “unique” and “incomprehensible”.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 250:
+You wanna know what I'm drawing?
+Sorry, it's a secret!{PAUSE}{EOM}
+
+Message 251:
+This is my best drawing ever!{PAUSE}{EOM}{EOM}
+
+Message 252:
+I wonder if {VAN}
+will buy my drawings?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 253:
+I wish I had a new paintbrush.{PAUSE}{EOM}
+
+Message 254:
+What should I draw next?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 255:
+I wish I could draw
+with a lady modeling for me.{PAUSE}{WIPE}
+A beautiful woman
+posing just for me...
+Erm, never mind. Forget what you heard.{PAUSE}{EOM}
+
+Message 256:
+Your feelings affect the colors you use.
+The feelings behind some of my drawings
+are so obvious, it's almost embarrassing.{PAUSE}{EOM}
+
+Message 257:
+I'm going to draw something great today!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 258:
+I love it when I draw my lines neatly!{PAUSE}{EOM}
+
+Message 259:
+{FACE_010004}Oh, what is it?
+I'm drawing now, don't annoy me!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 260:
+{FACE_010004}Just go away!{PAUSE}{EOM}{EOM}
+
+Message 261:
+{FACE_010004}Please don't bother me, Mom.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 262:
+{FACE_010004}Come on, just go away!{PAUSE}{EOM}
+
+Message 263:
+{FACE_010003}This book is really fun!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 264:
+{FACE_010003}I want to read lots more books!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 265:
+{FACE_010003}This book is awesome.
+It doesn't have many pictures,
+but you can almost see what's happening.{PAUSE}{EOM}{EOM}
+
+Message 266:
+{FACE_010003}I can't wait to read the next page!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 267:
+I'm reading a book.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+This book really makes you think...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 269:
+When I'm reading, I often
+lose track of time.{PAUSE}{EOM}{EOM}
+
+Message 270:
+The least I can do is read.
+There's not much news around here...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 271:
+Sorry, can't talk right now.
+This is one of the good parts.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 272:
+{FACE_010004}. . . . . . . . . . . . . . . . . . . . .{PAUSE}{EOM}{EOM}
+
+Message 273:
+Each time I finish reading a book,
+I feel like I've expanded my knowledge.
+Is it just me?{PAUSE}{EOM}{EOM}
+
+Message 274:
+I thank the day I picked this book up.
+I should thank {VAN} as well.{PAUSE}{EOM}{EOM}
+
+Message 275:
+How's your reading going, Mom?{PAUSE}{EOM}
+
+Message 276:
+I've got some interesting books on my shelf.
+You should take a look.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 277:
+A little pretty necklace,
+with the flowers...{PAUSE}{EOM}{EOM}
+
+Message 278:
+A little pretty necklace,
+with white flowers...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 279:
+A little pretty necklace,
+with white flowers...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 280:
+Looove meee,
+Looove meee forever...!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 281:
+Looove meee,
+Looove meee forever...!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 282:
+Looove meee forever
+Hmmm...can't sing this high.
+Hey, did you just laugh at me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 283:
+{FACE_010009}(Mom...don't make any noise!
+{FACE_010004}I almost caught something!){PAUSE}{EOM}{EOM}{EOM}
+
+Message 284:
+{FACE_010004}(Mom, tiptoe when you walk!
+{FACE_01000D}It's your fault if the fish gets away!){PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 285:
+{FACE_010004}Shhh!
+Just go away, I almost caught it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 286:
+{FACE_01000D}It's your fault it I don't catch anything!{PAUSE}{EOM}
+
+Message 287:
+I'm getting lots of strikes today!
+Why don't you fish too?{PAUSE}{EOM}
+
+Message 288:
+Mom, don't you want to fish?
+You can buy a {C13}{ITEM_0502}{C17} from {VAN}.
+Haven't you bought one?{PAUSE}{EOM}{EOM}
+
+Message 289:
+Mom, let's fish together!
+Today is great for fishing!{PAUSE}{EOM}{EOM}
+
+Message 290:
+I'm not fishing much lately...{PAUSE}{EOM}
+
+Message 291:
+I wish I could catch a fish
+big enough to break my fishing rod.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 292:
+{FACE_01000D}Shhh! Just go away.
+There's a big one down there.{PAUSE}{EOM}{EOM}
+
+Message 293:
+Oh come on,{FACE_01000D} I prefer fishing alone.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 294:
+Wanna fish with me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 295:
+Aren't you going to fish?{PAUSE}{EOM}{EOM}
+
+Message 296:
+I actually enjoy waiting
+for the fish to bite.{PAUSE}{EOM}
+
+Message 297:
+I cherish the times
+when I'm concentrating on one thing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 298:
+{FACE_010009}Sorry, I feel like fishing alone.{PAUSE}{EOM}{EOM}
+
+Message 299:
+{FACE_010004}Today is not my day.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 300:
+Hi Mom,
+want to fish with me here?
+It's looking good today!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 301:
+Mom, aren't you going to fish?
+It's looking good today!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 302:
+If you leave the rod alone
+when a fish strikes, it's as if
+you're connected to the fish.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 303:
+{FACE_010018}ZZZ. . . . . . . . . . . . . . . . . . . .{PAUSE}{EOM}
+
+Message 304:
+{FACE_010018}ZZZ. . . . . . . . . ZZZ. . . . . . . . .{PAUSE}{EOM}{EOM}
+
+Message 305:
+{FACE_010018}. . . . . . . . .Wow, awesome. . . . . . .
+ZZZ. . . . . . . . . ZZZ. . . . . . . . .{PAUSE}{EOM}{EOM}{EOM}
+
+Message 306:
+{FACE_010018}. . . . . . . .Oh, come on. . . . . . . .
+ZZZ. . . . . . . . . ZZZ. . . . . . . . .{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 307:
+{FACE_010018}. . . . .Can't eat. . . . .any more. . . .
+ZZZ. . . . . . . . . ZZZ. . . . . . . . .{PAUSE}{EOM}{EOM}{EOM}
+
+Message 308:
+Oh no...I hate cats!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 309:
+Please! Go away!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 310:
+Oh come on! Keep it away from me!{PAUSE}{EOM}{EOM}
+
+Message 311:
+Are you doing this on purpose?{PAUSE}{EOM}
+
+Message 312:
+...Mom, either you're enjoying this,
+or you're trying to annoy me.{PAUSE}{EOM}
+
+Message 313:
+{FACE_01001B}Help! It's going to scratch me...!{PAUSE}{EOM}
+
+Message 314:
+Oh come on! I hate you, Mom!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 315:
+{FACE_010007}Just go away!{PAUSE}{EOM}{EOM}
+
+Message 316:
+Cats have their own territory, you know.
+If you don't respect this,
+they will kill you dead!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 317:
+The cats' world must be a hard one...{PAUSE}{EOM}{EOM}
+
+Message 318:
+They run away when you go near them,
+but they come towards you if you wait.
+I guess I kinda understand.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 319:
+Cats aren't as independent as they look.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 320:
+Cats sometimes need to eat grass, too.{PAUSE}{EOM}
+
+Message 321:
+Cats often lick themselves clean.
+Then they need to eat grass{PAUSE}{WIPE}
+so they can throw up the hair
+they've swallowed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 322:
+A cat's tail shows what it's feeling.
+A thin tail going straight up
+means it's happy.{PAUSE}{EOM}{EOM}
+
+Message 323:
+Naturally, their tails can't stand up
+when you're holding them.
+Maybe it makes them unhappy.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 324:
+Cats are so cute!
+Their paws, their eyes...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 325:
+I wish I could live carefree
+just like a cat.
+{FACE_01001A}Is it strange for a kid to think that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 326:
+{FACE_010003}It's purring! How cute it is!{PAUSE}{EOM}{EOM}
+
+Message 327:
+{FACE_010003}I wonder how they make that noise.
+Such rhythmic purring...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 328:
+{FACE_010003}They're cuter with lots of whiskers.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 329:
+{FACE_010003}Wow! It's so tiny!
+It could fit in your mouth!{PAUSE}{EOM}
+
+Message 330:
+I must be careful not to step on them.{PAUSE}
+In the pasture.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 331:
+They look totally different
+when they grow up.
+Like two different animals.{PAUSE}{EOM}
+
+Message 332:
+I wonder when their wings change color.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 333:
+A chick.
+Something wrong with this one?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 334:
+{FACE_010003}They're so cute when they're small!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 335:
+{FACE_010003}They get all sassy when they grow up.
+I bet you feel the same
+about me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 336:
+They'll only be cute for a short while.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 337:
+They look kinda weird
+just before they grow up.
+Though they're cute for now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 338:
+Just a normal chick. What about it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 339:
+When did that chick hatch?{PAUSE}{EOM}
+
+Message 340:
+Both animals and humans.{PAUSE}
+are cute when they are young.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 341:
+You should take it back to its mother.
+Can't you hear it crying?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 342:
+Grow up fast, little one!{PAUSE}{EOM}{EOM}
+
+Message 343:
+Yikes!
+Chickens are so aggressive and stinky.
+I hate them!{PAUSE}{EOM}
+
+Message 344:
+I told you I hate chickens!
+Just go away!{PAUSE}{EOM}{EOM}
+
+Message 345:
+Take it away somewhere!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 346:
+I hate chickens.
+Their legs are thin and all wrinkly.
+It's gross.{PAUSE}{EOM}{EOM}
+
+Message 347:
+I hate them, no matter what.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 348:
+They say some chickens
+were born to fight!
+Chickens are so cool!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 349:
+Chickens are pretty aggressive!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 350:
+In some countries, when people get
+married, the man gives a chicken to
+his wife's family.{PAUSE}{EOM}{EOM}
+
+Message 351:
+Too much stress
+makes them stop laying eggs.
+Maybe you shouldn't hold them so much.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 352:
+I wish it could fly.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 353:
+It has wings, so
+it can fly a little, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 354:
+I hate chickens...{PAUSE}{EOM}
+
+Message 355:
+Just take it away somewhere.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 356:
+Are you making fun of me!?{PAUSE}{EOM}
+
+Message 357:
+Chickens are pretty aggressive!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 358:
+Roosters have flashy combs.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 359:
+The chickens around here have small combs,
+but they say some chickens
+have combs as big as a rooster's.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 360:
+What is it with you!
+You know I hate chickens!{PAUSE}{EOM}
+
+Message 361:
+You do that even though you know
+I hate chickens, don't you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 362:
+Some chickens are bred for show.
+With extra long tails and such.
+{PAUSE}{EOM}{EOM}
+
+Message 363:
+Chickens' claws grow as well.{PAUSE}{EOM}{EOM}
+
+Message 364:
+Heya, Chickster, how're you feeling today?
+Yeah, I know its name isn't Chickster.{PAUSE}{WIPE}
+But all chickens are Chickster to me.
+{PAUSE}{EOM}
+
+Message 365:
+The way they move their necks is unique.
+Lightning-quick, if you will...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 366:
+Yikes!
+Mom, I hate ducks, you know?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 367:
+I hate these things! Shoo! Shoo!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 368:
+{FACE_010009}Oh no... I hate ducks...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 369:
+They say ducks
+don't warm their eggs.
+Some parents!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 370:
+There's these birds called cuckoos.
+They don't warm their eggs either.{PAUSE}{EOM}
+
+Message 371:
+I love the way ducks walk!
+They're so cute!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 372:
+The way the ducklings follow their parents
+is real cute, too!{PAUSE}{EOM}{EOM}
+
+Message 373:
+I hate ducks, you know...{PAUSE}{EOM}{EOM}
+
+Message 374:
+What do you get if you breed a wild
+and domesticated duck?{EOM}{EOM}
+
+Message 375:
+If I remember correctly,
+ducks don't live in the wild.{PAUSE}{EOM}
+
+Message 376:
+Looks like it might give off a nice sound!{PAUSE}{EOM}
+
+Message 377:
+That crop is funny!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 378:
+Looks like it might have a nice sound.{PAUSE}{EOM}
+
+Message 379:
+These crops are interesting.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 380:
+Looks like it could move any moment!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 381:
+It'd be scary if you were holding
+one of those and it started moving.{PAUSE}{EOM}{EOM}
+
+Message 382:
+That thing's kinda scary...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 383:
+Wow, it a bug! Is it dead?
+{CHOICE3 DEF0}
+Yup, it's dead.
+Actually, it's a crop.
+I showed you this before, no?{PAUSE}{EOM}
+
+Message 384:
+{FACE_010009}It is?
+Then you should dig it a grave, right?{PAUSE}{EOM}{EOM}
+
+Message 385:
+{FACE_01001E}It is? Then it's weird!
+I thought it was a dead bug!
+{PAUSE}{EOM}{EOM}
+
+Message 386:
+You did?
+It's a crop or something, right?{PAUSE}{EOM}{EOM}
+
+Message 387:
+It looks kinda gross!{PAUSE}{EOM}{EOM}
+
+Message 388:
+It looks gross, doesn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 389:
+I get the shivers when I look at it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 390:
+Wow, looks like a light bulb!{PAUSE}{EOM}{EOM}
+
+Message 391:
+It'd be handy in the dark.{PAUSE}{EOM}
+
+Message 392:
+{FACE_010003}He he, it looks weird!{S_320514}
+{FACE_01000D}(It's got a better figure
+than Mom!){PAUSE}{EOM}
+
+Message 393:
+{FACE_010019}Mom, people are going to stare at you
+if you carry that thing around!
+{PAUSE}{EOM}
+
+Message 394:
+{FACE_01001A}Mom, what are you doing with that thing?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 395:
+{FACE_010009}Come on, Mom.
+You're embarrassing me...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 396:
+I bet it tastes weird, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 397:
+Good soil is important
+in making good crops.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 398:
+The soil in our fields
+is better near the woods.
+The soil there is darker.{PAUSE}{EOM}
+
+Message 399:
+You shouldn't give the crops
+too much {C13}{ITEM_0001}{C17}!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 400:
+It's better to use just the right amount!{PAUSE}{EOM}{EOM}
+
+Message 401:
+You grew that, didn't you?
+I wish I could grow some myself.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 402:
+I bet someone will buy that.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 403:
+That's one of our crops, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 404:
+{FACE_010022}Ewww...
+it looks gross, doesn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 405:
+Is that one of our crops?{PAUSE}{EOM}{EOM}
+
+Message 406:
+{FACE_010021}Wow. . . . . . . . . . . . . . . . . . . .
+{FACE_010022}No, it's nothing.
+I swear it's nothing!{PAUSE}{EOM}
+
+Message 407:
+{FACE_010021}Talk about some nice curves...
+{FACE_010022}No, it's nothing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 408:
+{VESTA} says she grows her crops
+without fertilizer.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 409:
+Crops with tons of bugs
+are kinda gross,{PAUSE}{WIPE}
+but they're better than crops that were
+grown with tons of fertilizer...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 410:
+There's lots of calcium in milk!
+Dad told me I won't grow tall
+if I don't get enough calcium!{PAUSE}{WIPE}
+{S_3401A5}I better drink tons of milk!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 411:
+Milk is rich in nutrients, right?{PAUSE}{EOM}{EOM}
+
+Message 412:
+Milk is rich in nutrients, right?
+I gotta drink lots.{PAUSE}{EOM}{EOM}
+
+Message 413:
+Grown-up men sometimes get stomachaches
+after drinking milk!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 414:
+Milk from different cows tastes different.{PAUSE}{EOM}
+
+Message 415:
+When I grow up,
+I'm going to raise all kinds of cows,
+and drink all kinds of milk!{PAUSE}{EOM}
+
+Message 416:
+You milked that yourself, right?
+Do you like milking cows?
+{CHOICE3 DEF0}
+Yeah, sorta.
+It's great fun!
+It's a bother.{EOM}{EOM}{EOM}
+
+Message 417:
+I see!
+Must be hard work!{PAUSE}{EOM}{EOM}
+
+Message 418:
+Wow! I didn't know that!
+When I grow up,
+I want to raise cows as well!{PAUSE}{EOM}
+
+Message 419:
+It is?
+Work is really hard, I guess.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 420:
+Fresh milk is really good!{PAUSE}{EOM}
+
+Message 421:
+I see. “Sorta”, huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 422:
+If it's so much fun,
+I'd like to try some time, too!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 423:
+I see. I guess that's what work is like.
+I don't really understand yet, though...{PAUSE}{EOM}{EOM}
+
+Message 424:
+I want to try the milk sold in the city.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 425:
+They say milk from Star cows
+is good for both butter and cheese.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 426:
+They say milk with lots of fat
+is good for making butter.{PAUSE}{EOM}{EOM}
+
+Message 427:
+There are many different types of milk.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 428:
+I'm learning to tell the difference
+between different types of milk.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 429:
+This is milk from our barn, right?{PAUSE}{EOM}
+
+Message 430:
+In some places, they shower
+the winners of a race with milk.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 431:
+If you got showered with milk,
+I bet you'd stink afterwards.
+Though your skin might be nice and smooth.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 432:
+Brown cow milk is good for making butter,
+and Marble cow milk is good
+for making cheese.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 433:
+Mom,
+don't you need those seeds?
+{CHOICE2 DEF0}
+I don't need them, so you can have them.
+Yes, I need them.{EOM}{EOM}
+
+Message 434:
+Yipeee! I'm going to plant them somewhere
+that only I know!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 435:
+I thought so.
+Those seeds are part of your job, right?
+{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 436:
+What's fun about seeds is waiting for them
+to grow after you've planted them!{PAUSE}{EOM}{EOM}
+
+Message 437:
+Thanks. I'll try planting some sometime.
+Somewhere secret.{PAUSE}{EOM}
+
+Message 438:
+You're planting those, right?{PAUSE}{EOM}{EOM}
+
+Message 439:
+You shouldn't plant fruit seeds
+near the crops.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 440:
+Fruit seeds are stronger
+than crop seeds.{PAUSE}{EOM}{EOM}
+
+Message 441:
+They say some types of cheese
+have mold growing on them!
+Wouldn't that give you a stomachache?{PAUSE}{EOM}
+
+Message 442:
+I bet “tasty” moldy cheese can only be
+enjoyed by grown-ups!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 443:
+{VAN} told me
+cheese goes well with wine.
+But I can't drink wine yet.{PAUSE}{EOM}
+
+Message 444:
+Once I am old enough I am going to see
+for myself if cheese goes well with wine!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 445:
+It'd be awesome if you ate some cheese
+and could tell which type of milk
+it was made from.{PAUSE}{EOM}
+
+Message 446:
+{FACE_01000D}If you feed cheese to the cows, would they
+give us milk that tastes like cheese?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 447:
+How did you make this?
+{CHOICE3 DEF0}
+With a machine.
+With milk.
+Hope you like it.{EOM}{EOM}
+
+Message 448:
+Whoever made that machine must be awesome!
+What if it's one of {DARYL}'s inventions?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 449:
+{FACE_010009}Hey, I know that!
+{FACE_010001}Some types of milk are good for cheese,
+others are good for making butter, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 450:
+{FACE_010009}Heh, you're pulling my leg, aren't you?
+{FACE_010003}But thanks anyway.
+You bet I'm happy with it!{PAUSE}{EOM}{EOM}
+
+Message 451:
+Many things are made from milk, right?{PAUSE}{EOM}
+
+Message 452:
+I see. I wonder what that machine
+actually does.
+Would {DARYL} be able to tell me?{PAUSE}{EOM}{EOM}
+
+Message 453:
+The first person who thought of
+eating cheese must've been very brave.
+Cheese back then must've tasted weird.{PAUSE}{EOM}{EOM}
+
+Message 454:
+The first cheese ever eaten by man
+must have tasted really sour.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 455:
+I wish I could eat that with wine, soon.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 456:
+If you mix cheese in hot water and harden
+it, it gets sticky when you heat it.{PAUSE}{EOM}
+
+Message 457:
+Burnt cheese is tasty too.{PAUSE}{EOM}
+
+Message 458:
+{GRIFFIN} doesn't serve wine at his place.
+I wish I could see whether
+wine goes well with cheese.{PAUSE}{EOM}
+
+Message 459:
+Cheese made from goat milk
+has a very strong smell.
+Some people can't stand the it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 460:
+Butter is weird. Milk is white, but it
+turns yellow when turned to butter.{PAUSE}{EOM}
+
+Message 461:
+The yellowness in butter
+might come from the same nutrients
+that're in vegetables...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 462:
+Butter tastes better
+when it's fresh.{PAUSE}{EOM}{EOM}
+
+Message 463:
+You made this butter, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 464:
+The yellowish color of butter
+comes from beta-carotene.
+You knew this, of course, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 465:
+The fat in butter is easily absorbed.{PAUSE}{EOM}{EOM}
+
+Message 466:
+You made this butter, right?
+What about it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 467:
+Yes? What about it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 468:
+{FACE_010004}What do you want me to do with that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 469:
+{FACE_010002}Yeah? What about it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 470:
+Chicks come out of some eggs,
+while others never hatch.
+I know quite a lot, right?{PAUSE}{EOM}
+
+Message 471:
+That one looks like it'll hatch...
+...but I can't tell for sure yet.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 472:
+I think eggs taste best
+when they're soft-boiled.{PAUSE}{EOM}{EOM}
+
+Message 473:
+Chicks think that the first thing they see
+after hatching is their mother.{PAUSE}{EOM}
+
+Message 474:
+It's no wonder eggs are full of nutrients!
+They turn into chicks, after all.
+{PAUSE}{EOM}{EOM}
+
+Message 475:
+{HUGH}'s father
+drinks raw eggs whole.
+He is something, isn't he...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 476:
+When hens lay eggs,
+the eggs come out
+pointed end first.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 477:
+Birds are mysterious, aren't they?
+To think that they make eggs
+inside their bodies...{PAUSE}{EOM}
+
+Message 478:
+Some eggs contain salmonella,
+so it's best to heat them
+at least 1 minute at 160 degrees or more.{PAUSE}{EOM}{EOM}
+
+Message 479:
+The white, string-like things attached to
+egg yolks are called “chalaza”'s. It helps
+keep the yolk in the center of the egg.{PAUSE}{WIPE}
+You knew this, of course,
+didn't you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 480:
+Mom, can you tell which hen
+an egg came from
+just by looking at the egg?
+{CHOICE2 DEF0}
+Nope. No way.
+Of course I can!{EOM}{EOM}
+
+Message 481:
+I thought so.
+They all look the same.{PAUSE}{EOM}{EOM}
+
+Message 482:
+Wow, that's awesome.
+I didn't know you could do that.
+I wonder if I'll be able to tell some day?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 483:
+Wow! It's huge!
+Did you catch it, Mom?
+{CHOICE2 DEF0}
+You bet I did!
+{MURREY} gave it to me.{EOM}{EOM}
+
+Message 484:
+You're awesome, Mom!
+Please teach me the good fishing spots
+some time!{PAUSE}{EOM}
+
+Message 485:
+{MURREY} gave it to you?
+He must have caught it with his hands.{PAUSE}{WIPE}
+I've never seen {MURREY}
+use a fishing rod!{PAUSE}{EOM}{EOM}
+
+Message 486:
+Really?
+I guess it's his way of saying thanks!{PAUSE}{EOM}
+
+Message 487:
+It's huge!
+I wish I could catch a fish that big.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 488:
+Fish taste better if prepared well.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 489:
+Did you catch it, yourself, Mom?
+{CHOICE2 DEF0}
+Yes I did.
+You mean you've never caught your own?{EOM}{EOM}{EOM}
+
+Message 490:
+Hmmm.
+It's not really that big at all.{PAUSE}{WIPE}
+Sometime I'll show you
+where you can catch really big fish.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 491:
+Gosh, this frustrating.
+That fish isn't very big at all!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 492:
+That fish is nothing!{PAUSE}{EOM}{EOM}
+
+Message 493:
+Wow, that's a big one. Did you catch it?
+{CHOICE2 DEF0}
+Nope.
+Yep.{EOM}{EOM}
+
+Message 494:
+Oh, I thought you'd caught it.
+You rarely see any that big.
+We should have a fishing contest sometime.{PAUSE}{EOM}
+
+Message 495:
+Wow, awesome.
+Show me some good fishing points some day.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 496:
+You rarely get any that big.
+{PAUSE}{EOM}{EOM}
+
+Message 497:
+I don't know what to say when there's
+someone fishing next to you, and you catch
+a big one first.{PAUSE}{EOM}{EOM}
+
+Message 498:
+It tastes like it was made for grown-ups.{PAUSE}{EOM}{EOM}
+
+Message 499:
+Wow, did you cook that?
+{CHOICE2 DEF0}
+Of course I did!
+No I didn't.{EOM}{EOM}{EOM}{EOM}
+
+Message 500:
+You're a good cook, Mom!
+I'm proud of you!{PAUSE}{EOM}
+
+Message 501:
+I thought you cooked that.{PAUSE}{EOM}
+
+Message 502:
+Your cooking is
+the best in the world!{PAUSE}{EOM}
+
+Message 503:
+That's a pretty hard dish to cook, right?{PAUSE}{EOM}{EOM}
+
+Message 504:
+Wow, you can cook all sorts of things!
+I'm impressed.{PAUSE}{EOM}{EOM}
+
+Message 505:
+Hmmm... you're pretty good, I guess.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 506:
+Wow, it looks delicious!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 507:
+{RUBY} is a good cook.{PAUSE}{EOM}
+
+Message 508:
+{FACE_010022}Of course you did? It's a total mess!
+ You should ask {RUBY}
+to teach you how to cook.{PAUSE}{EOM}
+
+Message 509:
+I thought so.
+You would do better.
+{FACE_01000C}It's a real mess, isn't it.{PAUSE}{EOM}
+
+Message 510:
+{FACE_01000C}I wonder if you can eat that?{PAUSE}{EOM}{EOM}
+
+Message 511:
+I'd get a stomach ache if I ate that.{PAUSE}{EOM}{EOM}
+
+Message 512:
+{FACE_010022}Mom, aren't you feeling well?
+You'll do better next time.{PAUSE}{EOM}{EOM}
+
+Message 513:
+{FACE_010003}Ha ha ha!
+Mom, you're a terrible cook!{PAUSE}{EOM}
+
+Message 514:
+You're not a very good cook, are you?{PAUSE}{EOM}{EOM}
+
+Message 515:
+It looks delicious!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 516:
+Oh. Not bad, I guess.{PAUSE}{EOM}{EOM}
+
+Message 517:
+Oh. You didn't.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 518:
+{FACE_010003}It looks really delicious.{PAUSE}{EOM}
+
+Message 519:
+Not bad, I guess.{PAUSE}{EOM}{EOM}
+
+Message 520:
+Looks good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 521:
+{FACE_010002}You don't have to brag about it.
+You have a lot to learn.{PAUSE}{EOM}{EOM}
+
+Message 522:
+Oh. You didn't.
+It's a real mess either way, isn't it?{PAUSE}{EOM}
+
+Message 523:
+What is that?
+It smells really... unique.{PAUSE}{EOM}{EOM}
+
+Message 524:
+{FACE_010006}Don't bring that here!
+It's making me feel sick.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 525:
+All I'd get by eating it is a stomachache.{PAUSE}{EOM}
+
+Message 526:
+Wow, not bad?
+I bet you're as good as {RUBY}!{PAUSE}{EOM}{EOM}
+
+Message 527:
+Not bad. You could open a restaurant.{PAUSE}{EOM}{EOM}
+
+Message 528:
+Hmmm. Looks quite good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 529:
+{FACE_010022}Of course you did?
+Wake up, Mom...
+How did you get such a gross color?{PAUSE}{EOM}
+
+Message 530:
+Oh. You didn't.
+Either way, the color looks real gross.
+I bet even the flies wouldn't touch it...{PAUSE}{EOM}{EOM}
+
+Message 531:
+{FACE_01001E}...Yuck!{S_3204B0} Ewww...yuck!
+{FACE_010022}What is
+that?{FACE_010007}{S_3204B0} Ah... it really reeks!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 532:
+{FACE_010009}It has such a... unique... color.{PAUSE}{EOM}{EOM}
+
+Message 533:
+Did you ask {RUBY} to teach you
+one of her best recipes?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 534:
+You haven't used that very much, have you?
+I can tell.{PAUSE}{EOM}
+
+Message 535:
+It's getting dirty, isn't it?
+I bet you're totally comfortable using it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 536:
+It looks nice and worn!
+Must be like part of you, now.{PAUSE}{EOM}
+
+Message 537:
+Wow, that's such a weird hoe!
+I bet it gives you some special powers!{PAUSE}{EOM}{EOM}
+
+Message 538:
+That hoe looks heavy! I bet you'll be
+stronger by the time you get used to it!{PAUSE}{EOM}
+
+Message 539:
+People used to look at the blades of their
+hoes and sickles to forecast the weather.
+Pretty cool, huh?{PAUSE}{EOM}
+
+Message 540:
+What is it? Looks weird.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 541:
+Ewww, that's such a filthy hoe!
+I don't even want to use it.
+Why don't you buy a new one?{PAUSE}{EOM}{EOM}
+
+Message 542:
+A hoe, right?
+What about it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 543:
+That sickle has a really unique shape.
+I wonder who used to use it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 544:
+It really is dirty.
+I bet the handle smells sweaty, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 545:
+That's yours, right?
+What about it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 546:
+Wow, that is pretty old.
+Why don't you buy a new one?{PAUSE}{EOM}{EOM}
+
+Message 547:
+You want me to help you?
+I can't right now. I'm kinda busy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 548:
+Ewww, that's such a dirty sickle!
+Why don't you buy a new one?{PAUSE}{EOM}
+
+Message 549:
+Don't get hurt yourself, Mom.{PAUSE}{EOM}{EOM}
+
+Message 550:
+A wooden watering can? Kinda weird, no?
+{FACE_01000C}I wonder if it was even meant to be used
+as a watering can.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 551:
+Wow, that watering can sure is old.
+Doesn't it have holes in it, or something?
+Why don't you buy a new one?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 552:
+That's your watering can, right?
+What about it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 553:
+That watering can is made of wood, right?
+Never seen one like it.{PAUSE}{EOM}{EOM}
+
+Message 554:
+I bet that watering can has holes in it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 555:
+They say if you let cows listen to
+music when you milk them, they relax and
+yield more milk. I wonder if that's true?{PAUSE}{EOM}{EOM}
+
+Message 556:
+{FACE_01000C}I wonder how this thing works?
+{FACE_010001}It's a great invention.{PAUSE}{EOM}
+
+Message 557:
+Goats, as well as cows,
+give you more milk
+if you milk them rhythmically.{PAUSE}{EOM}{EOM}
+
+Message 558:
+It's pretty old, now isn't it?
+I wonder if it still works properly?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 559:
+You use it to milk animals, right?
+I know that much!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 560:
+For cows with swollen breasts,
+the veiny parts
+give you the most milk.{PAUSE}{EOM}
+
+Message 561:
+Goats have two breasts.
+I guess you knew that already.
+Right?{PAUSE}{EOM}{EOM}
+
+Message 562:
+It's really old now, isn't it?{PAUSE}{EOM}
+
+Message 563:
+You want me to help you?
+{FACE_010019}Er... I prefer to milk by hand.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 564:
+You want me to help?
+Er... I don't want to steal your work.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 565:
+Hmmm? Those clippers have
+black hair stuck between the blades.
+Did we have any black sheep?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 566:
+I wonder why there's black hair on it.
+I bet you used it
+to cut someone's hair.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 567:
+Some places have trimming competitions
+with prizes and everything.{PAUSE}{EOM}
+
+Message 568:
+{FACE_010024}I wonder if I can mow the grass with that.{PAUSE}{EOM}
+
+Message 569:
+Using that to trim the sheep everyday
+might make your arms stronger.{PAUSE}{WIPE}
+Whoops, maybe not everyday. The sheep's
+hair doesn't grow back that fast.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 570:
+I wonder if you can cut paper with those?
+Probably not. They're way too big.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 571:
+{FACE_010022}Sheep look really sad
+after you've trimmed their hair.
+Seeing that makes me kinda sad, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 572:
+It's really old now!
+Make sure you don't cut yourself, Mom.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 573:
+That's yours, right?
+What about it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 574:
+I wonder if I should start shaving...
+Never mind, it's nothing.
+I was just talking to myself.{PAUSE}{EOM}{EOM}
+
+Message 575:
+Using that to trim the sheep each day
+might make your arms stronger.{PAUSE}{WIPE}
+Come to think of it,
+it might be the ideal workout tool.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 576:
+The sheep look so cold once you trim them.
+I kinda pity them.{PAUSE}{EOM}{EOM}
+
+Message 577:
+Does it still cut properly?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 578:
+I don't know why, but I get excited
+when I see little gadgets like those.{PAUSE}{EOM}{EOM}
+
+Message 579:
+I get kinda excited when I see knives.
+{FACE_01000D}...Not that I'm weird or anything!{PAUSE}{EOM}{EOM}
+
+Message 580:
+Feels great to cast the lure far away.
+I want to cast it even farther,
+but that's only possible by the sea.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 581:
+If feels great when the bobber flies high,
+sailing through the air.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 582:
+I enjoy the waits between bites!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 583:
+I get so excited when
+the bobber dips down!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 584:
+I wouldn't be surprised
+if the rod breaks right now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 585:
+You can't catch any big fish with that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 586:
+Wow, you've really used that rod.
+You must've caught lots of fish, huh?
+I wish I could, too.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 587:
+Hey, that's the same rod
+I saw on Greg's TV!
+How is it? Getting any bites?{PAUSE}{EOM}
+
+Message 588:
+I wish I could go out on a boat
+and catch some really big fish
+with an even bigger fishing rod.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 589:
+Even small fish tug like mad when
+they're in the water. Impressive.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 590:
+I'd say that rod is ready to retire.
+Though it does fit you well.{PAUSE}{EOM}{EOM}
+
+Message 591:
+You won't catch anything big with that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 592:
+You must have used that rod for ages now.
+I bet you've caught tons of big fish
+with it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 593:
+Heh, you won't be catching anything unless
+your skills are as good as your rod.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 594:
+Could I borrow that rod some time?
+You've caught quite a lot with it, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 595:
+I love it when they eat from your hand!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 596:
+I like having animals around me,
+{FACE_010007}but I sometimes feel sad when I know that
+they're there only for the food.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 597:
+All they see is their food.
+It kinda scares me sometimes.
+{PAUSE}{EOM}
+
+Message 598:
+{FACE_01000D}I'm not an animal, you know.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 599:
+{FACE_010002}...I'm not an animal.{PAUSE}{EOM}{EOM}
+
+Message 600:
+Mom, have you stocked enough food?
+You should be sure to check often.{PAUSE}{EOM}{EOM}
+
+Message 601:
+There are many kinds of fertilizer,
+but the soil here is pretty good,
+so you only need one of them.
+{VESTA} told me so!{PAUSE}{EOM}
+
+Message 602:
+“Fertilizers?”
+{FACE_010004}“No point in using more than necessary!”
+{FACE_010003}That's what I was told, anyway.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 603:
+Grandpa {TAKAKURA} told me that
+the fertilizer we use was made
+from “natural” ingredients.{PAUSE}{EOM}
+
+Message 604:
+Most people in town use
+chemically-enhanced fertilizer.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 605:
+Hmmm. It does smell pretty bad.
+But if this'll help make good crops,
+I guess I can stand it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 606:
+I'd hate it if the smell of fertilizer was
+still there after harvesting the crops.{PAUSE}{EOM}
+
+Message 607:
+{FACE_010007}Ewww! It smells! I don't wan't any!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 608:
+Small amounts are effective,
+but you can mess it up by using to much.
+I guess it's the same with anything.{PAUSE}{EOM}
+
+Message 609:
+Behind the stench lies future growth that
+makes it all worthwhile.{PAUSE}{WIPE}
+...You just chuckled at me, didn't you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 610:
+It smells, take it away somewhere.{PAUSE}{EOM}
+
+Message 611:
+That's “organic fertilizer”, right?
+Wouldn't it be fun if it showed on the bag
+who the ingredients were from?{PAUSE}{WIPE}
+Though I'd hate it if it were my own name.{PAUSE}{EOM}
+
+Message 612:
+What about the fertilizer?{PAUSE}{EOM}
+
+Message 613:
+The cows love that stuff, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 614:
+The cows really like that stuff.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 615:
+There's many things in this stuff.
+Just like stew or something.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 616:
+I guess the cows are into “gourmet”, too.{PAUSE}{EOM}{EOM}
+
+Message 617:
+Food for the cows, right?
+What about it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 618:
+{FACE_01000D}Giving them this stuff alone won't help.
+You know this, don't you, Mom?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 619:
+I bet the birds would eat this stuff, too.
+I should try giving them some.
+Hey, just kidding.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 620:
+I don't want any.
+I'm not a cow, you know?{PAUSE}{EOM}
+
+Message 621:
+Give cows a good balance of food and
+snacks and they will give you good milk.{PAUSE}{EOM}{EOM}
+
+Message 622:
+The cows look really happy
+when they're eating this.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 623:
+Yes? What about it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 624:
+To make medicine work, you need to use it
+once a day for several days.{PAUSE}{WIPE}
+Too much medicine can be bad,
+so you need to be careful!{PAUSE}{EOM}{EOM}
+
+Message 625:
+Medicine should be taken once per day.
+This doesn't totally cure the animals,
+so watch them for a couple of days!{PAUSE}{EOM}{EOM}
+
+Message 626:
+I wonder what that medicine's made from.
+It says once per day, so I guess
+there's something powerful inside.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 627:
+Is one of the animals sick?
+I hope it gets well soon.{PAUSE}{EOM}{EOM}
+
+Message 628:
+That container is cute!
+I wonder if the animals feel better
+if the container is cute.{PAUSE}{EOM}{EOM}
+
+Message 629:
+Make sure you don't give the animals
+medicine more than once per day.{PAUSE}{EOM}{EOM}
+
+Message 630:
+Using the drug once isn't enough
+to cure a sick animal.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 631:
+Would medicine mend my broken heart?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 632:
+It's medicine for the animals, right?
+What about it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 633:
+You should check on the animals often.
+It's our fault when they fall ill.{PAUSE}{EOM}{EOM}
+
+Message 634:
+Animals feel affection they're brushed..{PAUSE}{EOM}{EOM}{EOM}
+
+Message 635:
+You gotta be gentle and careful
+when using the brush on animals!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 636:
+Wow, you've been using that a lot, right?
+I hope the animals know you love them.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 637:
+That brush must be like a
+part of your body by now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 638:
+Hey! You took my toy!
+Just kidding.
+I'm not a kid anymore.{PAUSE}{EOM}
+
+Message 639:
+Make sure you put that back
+in the toy box, okay?{PAUSE}{EOM}{EOM}
+
+Message 640:
+You can do what you want with that one,
+but make sure you don't take my treasure!{PAUSE}{EOM}{EOM}
+
+Message 641:
+{FACE_010004}I don't care about that, but I wish
+you'd quit sneaking inside my room.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 642:
+I don't play with those things
+anymore, you know.{PAUSE}{EOM}{EOM}
+
+Message 643:
+On second thought... never mind.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 644:
+I can't take that right now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 645:
+I don't want it, after all.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 646:
+Er... sorry,
+I guess I don't want that after all.{PAUSE}{EOM}{EOM}
+
+Message 647:
+Whoops, you can't give me that now.
+Sorry.{PAUSE}{EOM}
+
+Message 648:
+When I see a ball rolling
+I can't help chasing after it!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 649:
+I'm not interested in that.
+I'm not a baby, you know.{PAUSE}{EOM}{EOM}
+
+Message 650:
+It's exciting when you pile these up
+real high!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 651:
+By the way, {CODY} mentioned something
+about fixing cars and stuff.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 652:
+That's yours, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 653:
+Some stones have different colors
+when you look at them, and when you
+rub them on something!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 654:
+I wonder if that stone could be polished?
+{CHOICE2 DEF0}
+Good question.
+If we polish it properly, it might shine.{EOM}{EOM}{EOM}
+
+Message 655:
+I bet it'll shine!{PAUSE}{EOM}
+
+Message 656:
+There are many ways to polish it?{PAUSE}{EOM}{EOM}
+
+Message 657:
+It looks pretty!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 658:
+Did you know that some
+stones are harder than others?{PAUSE}{EOM}{EOM}
+
+Message 659:
+Is that stone the hardest in the world?
+{CHOICE2 DEF0}
+It's not a diamond, so I guess not.
+Might be.{EOM}{EOM}{EOM}{EOM}
+
+Message 660:
+{FACE_010022}I see!
+{FACE_010001}I wish I could find
+a real diamond!{PAUSE}{EOM}
+
+Message 661:
+Really? Next time I find one of those,
+I'm going to smash it on a rock and see.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 662:
+How long did it take for that stone to form?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 663:
+{FACE_010001}It's a pretty stone.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 664:
+They say the color of face powder
+sometimes comes from stones.{PAUSE}{EOM}
+
+Message 665:
+I bet it'd look even prettier
+if you hold it up to the light.{PAUSE}{EOM}{EOM}
+
+Message 666:
+Just because a stone is hard doesn't mean
+it's hard to break, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 667:
+I feel a strange power in this stone.{PAUSE}{EOM}{EOM}
+
+Message 668:
+{FACE_010001}It's shiny all over. Quite pretty.{PAUSE}{EOM}
+
+Message 669:
+The same stone can have different colors
+and names depending on what's inside.
+{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 670:
+I wonder who first thought of
+polishing these things.{PAUSE}{EOM}{EOM}
+
+Message 671:
+Some stones produce electricity when you
+heat them or rub them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 672:
+Nature takes ages to create these stones,
+but we take them as soon as we find them.
+Is this really okay?{PAUSE}{WIPE}
+I'm not blaming you or anything,
+of course.{PAUSE}{EOM}
+
+Message 673:
+{FACE_010001}It'd shine even more if you polished it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 674:
+They say fossils don't need to be
+made of stone to be called fossils.{PAUSE}{EOM}{EOM}
+
+Message 675:
+Where did you find that, Mom?
+{CHOICE2 DEF0}
+I bought if from {VAN}.
+I found it at the {STRUC_41}.{EOM}
+
+Message 676:
+Wow!
+Do you think he'll sell me one too?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 677:
+Really!?
+I wish I could dig there too.
+I wonder if {CARTER} will let me.{PAUSE}{EOM}
+
+Message 678:
+It's awesome to think that things from
+long ago are still here today.{PAUSE}{EOM}{EOM}
+
+Message 679:
+I hate dwelling on the past so much,
+but I must admit I'm interested
+in such things.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 680:
+{FACE_010003}Imagine being dug up as a fossil yourself,
+and making people imagine today's world.
+Would be pretty funny, no?{PAUSE}{EOM}
+
+Message 681:
+Though we don't have any here,
+many weeds are poisonous and can
+cause rashes if you touch them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 682:
+Flowers aren't just pretty,
+some contain special substances.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 683:
+{FACE_010007}You shouldn't pick too many of those.
+{FACE_010001}{GALEN} told me the spirits
+might get upset.{PAUSE}{EOM}{EOM}
+
+Message 684:
+You picked those nearby, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 685:
+{FACE_010007}Flowers are so tough, gripping the earth
+with their roots, enduring rain and wind.{PAUSE}{EOM}
+
+Message 686:
+Flowers aren't just pretty, you know?{PAUSE}{EOM}{EOM}
+
+Message 687:
+Are you giving those to someone?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 688:
+I envy those who can honestly appreciate
+the beauty of a flower...{PAUSE}{EOM}
+
+Message 689:
+What about that flower?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 690:
+Why don't you give Dad a few?{PAUSE}{EOM}{EOM}
+
+Message 691:
+Some flowers contain special substances,
+and are used for all sorts of things
+in the city.{PAUSE}{EOM}
+
+Message 692:
+I have the feeling that flowers make
+most ladies happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 693:
+Many flowers have romantic names,
+but some of their names are
+really straightforward.{PAUSE}{EOM}{EOM}
+
+Message 694:
+Dad might be pleased if you gave
+him some.{PAUSE}{EOM}
+
+Message 695:
+Hi Mom,
+are people buying those?
+{CHOICE2 DEF0}
+Of course they are!
+Not too much, actually...{EOM}{EOM}{EOM}
+
+Message 696:
+{FACE_01000A}Wow, Mom!
+I bet Dad will be pleased, too!{PAUSE}{EOM}{EOM}
+
+Message 697:
+{S_3401A7}{FACE_010009}I see...{S_3204B0}
+{FACE_010001}Good luck, Mom!{PAUSE}{EOM}
+
+Message 698:
+{FACE_010003}I hope you sell a lot of those!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 699:
+{FACE_01000C}I wonder if more people would buy these
+if I stood here and welcomed them?{PAUSE}{EOM}
+
+Message 700:
+{FACE_010019}Yes, Mom?
+You're working right now, aren't you?
+You shouldn't waste time talking to me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 701:
+{FACE_010002}Come on,
+back to work!{PAUSE}{EOM}
+
+Message 702:
+{FACE_010001}I see!
+I bet Dad will be pleased too!{PAUSE}{EOM}{EOM}
+
+Message 703:
+{FACE_010007}I see...{S_3204B0}
+{FACE_010001}I bet they'll sell soon enough, though.
+Don't give up!{PAUSE}{EOM}
+
+Message 704:
+{FACE_010001}I hope you sell tons of those.{PAUSE}{EOM}
+
+Message 705:
+Yes, Mom?
+You're working, right?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 706:
+Mom, you should concentrate on your work.{PAUSE}{EOM}{EOM}
+
+Message 707:
+{FACE_010007}Looks like Dad is sick.
+Is she going to be okay, Mom?
+{S_3401A7}Should I go ask {HARDY} to come over?{PAUSE}{EOM}{EOM}
+
+Message 708:
+{FACE_010007}I get all worried
+when Dad isn't well...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 709:
+{FACE_010007}Dad isn't feeling well...{PAUSE}{EOM}{EOM}
+
+Message 710:
+{FACE_010007}I wonder if Dad will be okay...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 711:
+{FACE_01000D}Hey Mom,
+Dad isn't very happy now,
+be careful what you tell her!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 712:
+{S_3401A7}{FACE_010019}Dad always starts yelling at me
+when she's in a bad mood.
+I wish she didn't...{PAUSE}{EOM}{EOM}
+
+Message 713:
+{FACE_01000C}{S_3401A7}Hmmm...I wonder why Dad
+is in such a bad mood...?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 714:
+{FACE_010002}Dad is in a bad mood...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 715:
+That's one of your records, right?
+What about it?{PAUSE}{EOM}{EOM}
+
+Message 716:
+That's one of your records, isn't it?{PAUSE}{EOM}{EOM}
+
+Message 717:
+That's one of your records, right?
+Let's listen to it later on!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 718:
+Please put that on later!{PAUSE}{EOM}{EOM}
+
+Message 719:
+I wish {VAN} would sell
+records as well...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 720:
+Why don't you put that record on later?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 721:
+{FACE_010023}{S_3401A7}Hmmm. I remember this smell
+from somewhere...{S_3204B0}
+{FACE_01000A}{S_3401A6}I know! The food at the {C14}{STRUC_35}{C17}!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 722:
+{FACE_010001}{RUBY} is a really good cook.{PAUSE}{EOM}{EOM}
+
+Message 723:
+{FACE_010001}Hey, that's the same smell as the food
+at the {C14}{STRUC_35}{C17}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 724:
+{FACE_01000C}What's in that dirty little bottle?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 725:
+{FACE_010009}The stuff in this bottle smells weird!{PAUSE}{EOM}
+
+Message 726:
+{FACE_010001}I'm happy when we have tons of records.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 727:
+{FACE_010000}When you're playing one of your records,
+I can't help wanting to place something
+right in the middle of the record.{PAUSE}{WIPE}
+{FACE_010002}Er...when I was a kid, I mean.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 728:
+The music can skip if the records
+get scratched. Gotta be careful.{PAUSE}{EOM}
+
+Message 729:
+I've never heard of anyone hating music,
+though what type of music one listens to
+depends on the person.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 730:
+{FACE_010009}The overtones get in the way sometimes,
+making it hard to distinguishing sounds.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 731:
+{S_3401A8}{FACE_010009}I get sick if the sound is just 1 hertz
+off the mark...{PAUSE}{EOM}
+
+Message 732:
+{S_3401A8}{FACE_010009}I bet I'd find many more records
+if I went to the city.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

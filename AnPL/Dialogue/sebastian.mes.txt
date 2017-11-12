@@ -1,0 +1,1458 @@
+Message 0:
+O-oh!
+W-why t-that's just!{PAUSE}{EOM}
+
+Message 1:
+Oh dear.
+I thought if I put another photograph on
+top of it, no one would find it.{PAUSE}{EOM}
+
+Message 2:
+P-please, could madam be so kind
+as to keep this a secret?
+I would appreciate it.{PAUSE}{EOM}{EOM}
+
+Message 3:
+Ahhhhh!!
+Ms. {PETE}!
+How long has Madam been there?!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+I-I'm sorry.
+I guess I was just thinking.{PAUSE}{EOM}{EOM}
+
+Message 5:
+I've been wondering recently.
+I've been serving Miss Romana
+for so many years.{PAUSE}{WIPE}
+I wonder how many more years I'll
+be able to continue doing it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+If anything should happen to me,
+who would take care of Miss Romana and
+Miss Lumina?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 7:
+Thank you!
+Thank you, Ms. {PETE}!
+You've made an old butler very happy!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 8:
+Y-yes, I suppose so. It's just like you
+say, Ms. {PETE}.{PAUSE}{WIPE}
+I'm such a fool.
+I'm so ashamed of myself.{PAUSE}{WIPE}
+Please don't tell Miss Romana about
+this.
+Thank you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 9:
+Oh dear. I must have put
+the second picture in by mistake...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+Why no. But it's
+not hard to see why one would think so,
+madam. It's actually Miss Romana.{PAUSE}{EOM}
+
+Message 11:
+M-Madam is very perceptive.
+That is indeed a picture of
+Miss Romana.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 12:
+Wha-?{S_3202BC}
+Uh..............{PAUSE}{WIPE}
+!!!
+Yes! Yes, that it is it precisely, Madam!
+A picture of my mother.{PAUSE}{WIPE}
+It's certainly not a picture of Miss
+Romana!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+Wha-? {S_3202BC}Oh.
+T-thank you very much, Madam...{PAUSE}{WIPE}
+I, uh...
+I thought perhaps Madam was wondering about
+the picture inside.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 14:
+This was taken when Miss Romana was
+just Miss Lumina's age and as Madam can
+see, the resemblance is remarkable.{PAUSE}{WIPE}
+Photographs were still a rarity at that
+time, so this is the only picture of
+Miss Romana as a young girl.{PAUSE}{WIPE}
+It was taken as a lark, and somehow
+it wound up with me. If Miss Romana knew,
+I'm sure she would laugh.{PAUSE}{EOM}{EOM}
+
+Message 15:
+P-please. Could Madam find it in her
+heart not to mention this to Miss Romana?
+{CHOICE2 DEF0}
+Sorry, buddy.
+I understand.{EOM}{EOM}{EOM}
+
+Message 16:
+Oh please, isn't there any way Madam
+could reconsider?
+{CHOICE2 DEF0}
+I understand.
+Sorry, buddy.{EOM}{EOM}{EOM}
+
+Message 17:
+Thank you, Madam.{PAUSE}{EOM}{EOM}
+
+Message 18:
+I see...
+Well, my own carelessness was the cause of
+all this, so I must face the consequences.{PAUSE}{EOM}
+
+Message 19:
+Yes, Miss Romana?{PAUSE}{EOM}{EOM}
+
+Message 20:
+Very good, Miss Romana.
+I shall do it immediately.{S_3201F4}
+If Madam will excuse me.{PAUSE}{EOM}
+
+Message 21:
+I have delivered it, Miss Romana.{PAUSE}{EOM}{EOM}
+
+Message 22:
+I left it on the shelf in Madam's
+{C14}{STRUC_23}{C17}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 23:
+Well then,{S_3201F4} I shall be going now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+{FACE_0A0002}Ms.{PETE}...
+I never dreamed that Ms. {PETE}
+would go before I did.{S_3207D0}{PAUSE}{WIPE}
+Please leave young {TATSUYA}
+to me.{S_3207D0}{PAUSE}{WIPE}
+I will do everything in my power
+to help in this time of need.{PAUSE}{WIPE}{EOM}
+
+Message 25:
+Mr. {GRIFFIN}, would you be
+so kind as to sing a song in
+Ms. {PETE}'s memory?{S_3207D0}
+I'm sure Ms. {PETE} would like
+it very much...{PAUSE}{WIPE}{EOM}{EOM}
+
+Message 26:
+Oh, pardon me, Madam.{PAUSE}{EOM}{EOM}
+
+Message 27:
+Ms. {PETE}, could I trouble you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 28:
+{FACE_0A0009}Oh dear, it looks as though
+Madam is all sold out.{PAUSE}{EOM}
+
+Message 29:
+Oh, it's nothing.{PAUSE}{WIPE}
+I was just wondering if Madam might have
+some foods that Miss Romana would like.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 30:
+Oh, it's nothing.{PAUSE}{WIPE}
+I was just wondering if madam might have
+some foods that Miss Romana would like.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 31:
+Please don't mind me, Madam.
+I'm just looking.{PAUSE}{EOM}
+
+Message 32:
+Hmmm...{PAUSE}{WIPE}
+Sadly, Madam doesn't appear to have any
+food that Miss Romana would like.{EOM}
+
+Message 33:
+I don't suppose Madam has anything
+else? They say that one woman's trash
+is another's treasure. Hmmm...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+Oh, what's this?
+No, no that'll never do. Hmm...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 35:
+I'm rather fond of the {VAR_00}.
+What is the price?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}{EOM}
+
+Message 36:
+How much is the {VAR_00}, Madam?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}
+
+Message 37:
+{FACE_0A0003}Well, that's quite reasonable.
+Thank you, Madam.
+...Hohoho...{PAUSE}{EOM}{EOM}
+
+Message 38:
+I see. That's unfortunate...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+...I see. That's unfortunate...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+Uh, pardon me Madam...
+But I believe I've changed my mind.
+If Madam will excuse me...{PAUSE}{EOM}{EOM}
+
+Message 41:
+{FACE_0A000A}Well, if it isn't Ms. {PETE}.
+I hope the farm is going well, Madam.
+I am well, as usual.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 42:
+{FACE_0A0002}..............{PAUSE}{EOM}
+
+Message 43:
+Pardon me, Madam.
+Oh curse my old bones. I'm just not
+feeling very well today, Madam.{PAUSE}{EOM}{EOM}
+
+Message 44:
+{FACE_0A0004}Tsk. Tsk.{PAUSE}{EOM}{EOM}
+
+Message 45:
+{FACE_0A0004}I'm terribly sorry, but I'm busy
+right now. Could Madam come back later?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+{S_34013F}Good morning, Madam.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+{S_34013F}Good day, Madam.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+Good evening, Madam.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 49:
+{S_34013F}Why Ms. {PETE},
+it is rather late, is it not?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+Why Ms. {PETE}...
+Does Madam have business at this hour?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+{S_34013F}Why Ms. {PETE}.
+Welcome.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+What can I do for Madam so late at night?
+{FACE_0A0003}{S_34013F}Haha.{S_3201F4} They do say
+that history is made at night.{PAUSE}{WIPE}
+{FACE_0A0009}Or am I exaggerating? {PAUSE}{EOM}{EOM}
+
+Message 53:
+{S_34013F}Why Ms. {PETE}...
+Good day.{PAUSE}{EOM}
+
+Message 54:
+{FACE_0A000A}Is Madam going to give that to me?
+I must admit it is one of my weaknesses.
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 55:
+{S_34013F}{FACE_0A0003}Oh, thank you, Madam!
+I shall look forward to eating it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{FACE_0A0002}I see.
+Oh, it's no problem, Madam.
+Pay me no mind...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+{S_34013F}Why yes, it's one of my favorites, Madam.{PAUSE}{WIPE}
+I prepare Miss Romana's food every
+day, so I am somewhat picky about food...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+{S_34013F}That looks most appetizing, Madam.
+My, yes.
+Very tempting indeed, sir.{PAUSE}{EOM}{EOM}
+
+Message 59:
+{S_34013F}Please come by the Villa soon, Madam.
+I shall prepare Madam a delicious meal.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+Cooking can be quite complicated, Madam.
+I always do my best to select the best
+ingredients.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 61:
+Oh. Madam has something very nice there.
+Yes, I can tell.{PAUSE}{EOM}{EOM}
+
+Message 62:
+That is one of my weaknesses.
+Yes, it embarrasses me to say it...{PAUSE}{EOM}{EOM}
+
+Message 63:
+{FACE_0A0009}Hmm...
+I'm not a very picky person, Madam, but
+I simply cannot abide that.{PAUSE}{EOM}
+
+Message 64:
+{FACE_0A0009}Hmm. I'm afraid I still don't like it.{PAUSE}{EOM}
+
+Message 65:
+{FACE_0A0009}It's not as if I've never tried that...
+But I'm afraid I just can't stomach it.{PAUSE}{WIPE}
+But please don't tell Miss Romana, Madam.
+I am always telling her how one shouldn't
+turn up one's nose at certain foods.{PAUSE}{EOM}
+
+Message 66:
+{FACE_0A0009}Oh dear...
+I'm afraid I'm not interested in it, Madam
+Pearls before swine and all that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+{FACE_0A0009}I'm afraid I'm not very
+interested in that kind of thing, Madam.
+It would just be wasted on me...{PAUSE}{EOM}{EOM}
+
+Message 68:
+{S_34013F}{FACE_0A000A}My my...
+What a cute child Madam has. I can see a
+distinct resemblance to you.{PAUSE}{EOM}{EOM}
+
+Message 69:
+But now that I look closer, I can
+see a resemblance to Mr. Marlin as well.{PAUSE}{EOM}
+
+Message 70:
+Miss Lumina certainly was cute when she
+was this age, Madam. My yes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 71:
+{S_34013F}{FACE_0A000A}My my...
+What a healthy looking child. I can see a
+distinct resemblance Miss Muffy.{PAUSE}{EOM}
+
+Message 72:
+But now that I look closer, I can
+see a resemblance to Mr. Rock as well.{PAUSE}
+Yes, a very healthy child.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+Miss Lumina was healthy and mischievous
+at this age, Madam. My yes.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+{FACE_0A000A}Of course!
+Why, the child would be the perfect model
+for my painting, Madam!{PAUSE}{WIPE}
+{FACE_0A0009}But that will have to wait until
+my current project, “Flowers of
+Forget-Me-Not Valley” is finished...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 75:
+{S_34013F}{FACE_0A000A}Well, well.
+What a well behaved child Madam has. I see a
+distinct resemblance to Miss Nami.{PAUSE}{EOM}
+
+Message 76:
+But now that I look closer, I can
+see a resemblance to Mr. Gustafa as well.{PAUSE}
+Yes, a thoughtful looking child.{PAUSE}{EOM}{EOM}
+
+Message 77:
+Miss Lumina wasn't very quiet when she
+was this age, Madam. My no.{PAUSE}{EOM}
+
+Message 78:
+{FACE_0A000A}Oh!
+What an intelligent looking canine!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 79:
+Dogs have lived with people since ancient
+times, sometimes as protectors, sometimes
+as pets and sometimes as friends.{PAUSE}{WIPE}
+I'm sure this dog will become an
+excellent companion for Madam in the
+future.{PAUSE}{EOM}{EOM}
+
+Message 80:
+Dogs are wonderful, aren't they Madam?
+I especially appreciate how they are
+so loyal to their masters.{PAUSE}{EOM}
+
+Message 81:
+{S_34013F}{FACE_0A000A}How cute.
+I'm more of a dog person, but I like
+animals of all kinds.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 82:
+I sometimes feel envious of Madam,
+surrounded as Madam is by animals
+every day.{PAUSE}{WIPE}
+I could take care of the animals and
+occasionally draw pictures. Yes.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 83:
+Yes, animals are nice, but I am quite
+satisfied serving Miss Romana, so please
+don't mention this conversation to her.{PAUSE}{EOM}
+
+Message 84:
+{S_34013F}Is that a chicken from Madam's farm?
+What a fine looking specimen. I'm sure it
+will lay many delicious eggs.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 85:
+If chickens experience too much stress, it
+will affect the quality of their eggs.{PAUSE}{WIPE}
+They say that eating eggs from a stressed
+chicken isn't good for one's health.
+So please take good care of them, Madam.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 86:
+What a fine chicken.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 87:
+{FACE_0A000A}Why, what a cute little chick.
+Take good care of it, Madam.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 88:
+{FACE_0A000A}What a cute little chick.{PAUSE}{EOM}{EOM}
+
+Message 89:
+{S_34013F}Well, now.
+What a nice, plump duck.{PAUSE}{EOM}
+
+Message 90:
+A long time ago in a faraway land, they
+used to make their ducks nice and fat
+before broiling them over an open flame.{PAUSE}{WIPE}
+I've never had that dish, but Miss Romana
+says it is exquisite. I'd dearly love to
+prepare it for her someday.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 91:
+What a cute duck, Madam.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 92:
+{S_34013F}That looks like a fine seed, Madam.
+My knowledge of seeds is sadly limited,
+but even I can tell that much.{PAUSE}{EOM}{EOM}
+
+Message 93:
+{FACE_0A000A}I hope it grows well, Madam. Good crops
+make for good cooking, after all.{PAUSE}{EOM}{EOM}
+
+Message 94:
+{S_34013F}Did Madam grow that on her farm?
+Very nicely done, if I may say so. One can
+tell its quality just by looking at it.{PAUSE}{WIPE}
+{FACE_0A000A}Oh, is it for me by any chance?
+{CHOICE Y/N DEF1}{EOM}
+
+Message 95:
+It looks very good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 96:
+There are so many kinds of crops, sir.{PAUSE}{WIPE}
+Why, just once I'd like to use all
+of them to make a feast for Miss Romana.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 97:
+{S_34013F}Well now. Unless I miss my guess,
+that must be milk from Madam's farm.
+It looks quite fresh and tasty.{PAUSE}{WIPE}
+{FACE_0A000A}My goodness, is it for me?
+Why, I do quite like dairy products.
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 98:
+Good milk makes good cheese, Madam.
+I would dearly love to taste cheese made
+from this milk.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+That milk is very fresh, isn't it Madam?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 100:
+Did Madam make that cheese?
+Most impressive. Most impressive indeed.{PAUSE}{WIPE}
+{FACE_0A000A}My goodness, is it for me?
+Why, I do quite like dairy products.
+{CHOICE Y/N DEF1}{EOM}{EOM}{EOM}
+
+Message 101:
+{FACE_0A000A}Let me be frank, Madam.
+To make such cheese is most extraordinary.{PAUSE}{WIPE}
+I'm rather fussy about my cheese, mind
+you, and even I will admit that this looks
+like an unimpeachable specimen.{PAUSE}{EOM}
+
+Message 102:
+The taste of cheese varies depending on
+the milk used to make it, but this is a
+nearly perfect example of the art.{PAUSE}{WIPE}
+I would dearly love to make cheese fondue
+with this cheese for Miss Romana,
+just once.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 103:
+Ahem... Differences in the aging process
+or the kind of mold introduced can result
+in many different varieties of cheese.{PAUSE}{WIPE}
+There's Red Leicester, Tilsit, Caerphilly,
+Bel Paese, Stilton, Emmental, Gruyere,
+Norwegian Jarlsberger, Liptauer....{PAUSE}{WIPE}
+And then there are the more famous
+varieties such as Camembert, Mozzarella,
+or even Gorgonzola.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 104:
+There are countless varieties of cheese,
+but they are loosely grouped into
+processed and natural cheeses.{PAUSE}{EOM}{EOM}
+
+Message 105:
+Did Madam make that butter?
+Yes, most impressive.{PAUSE}{WIPE}
+{FACE_0A000A}My goodness, is it for me?
+Why, I do quite like dairy products.
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 106:
+{S_34013F}Yes, this is fine butter.{PAUSE}{WIPE}
+I would dearly love to use butter like
+this when cooking a dish for Miss Romana.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 107:
+Butter can be very delicious in cooking.
+But they say it isn't very good for
+one's health, so use it in moderation.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 108:
+{S_34013F}That butter certainly looks good.
+I wonder what kind of cooking it would be
+best with?{PAUSE}{EOM}{EOM}
+
+Message 109:
+{S_34013F}Is that an egg that one of Madam's
+chicken's laid, by any chance?
+It looks quite fresh and good.{PAUSE}{WIPE}
+{FACE_0A000A}My goodness, is it for me?
+{CHOICE Y/N DEF1}{EOM}
+
+Message 110:
+There are many kinds of egg dishes,
+all of them very delicious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 111:
+Miss Romana is particularly partial to
+my omelets.{PAUSE}{WIPE}
+She also enjoys my souffles, if I
+do say so myself...
+Does Madam enjoy souffles?{PAUSE}{EOM}{EOM}
+
+Message 112:
+How a chicken is treated can certainly
+affect the quality of its eggs.
+But this is a fine egg. A fine egg...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 113:
+{S_34013F}Well now, did Madam catch that herself?
+Very impressive.{PAUSE}{WIPE}
+{FACE_0A000A}My goodness, is it for me?
+{CHOICE Y/N DEF1}{EOM}
+
+Message 114:
+No, I do not fish myself, but I select
+and prepare fish almost every day
+for Miss Romana.{PAUSE}{EOM}{EOM}
+
+Message 115:
+Let's see. With that fish, one could
+stew it, fry it, or even eat it raw as
+sashimi and it would be delicious.{PAUSE}{EOM}
+
+Message 116:
+Yes, that is a fine fish.
+If it were I, I would make a lovely fish
+stew for Miss Romana.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 117:
+{S_34013F}Did Madam find that wild plant in this
+area? That is certainly a fine specimen.
+It should be very good in cooking.{PAUSE}{EOM}{EOM}
+
+Message 118:
+There are many types of wild plants,
+including some that are dangerous.
+One must use caution when collecting them.{PAUSE}{EOM}
+
+Message 119:
+I'm sure most of the varieties that can be
+found in Forget-Me-Not Valley are safe.
+{FACE_0A0002}But one never knows...{PAUSE}{EOM}{EOM}
+
+Message 120:
+This is a very fine specimen.
+I'd make it into a delicious rice dish
+for Miss Romana.{PAUSE}{EOM}{EOM}
+
+Message 121:
+{S_34013F}My, most impressive, Madam.
+Ahem. I am a cook in my own right, and
+this is quite well prepared.{PAUSE}{WIPE}
+{FACE_0A000A}My goodness, is it for me?
+{CHOICE Y/N DEF1}{EOM}{EOM}
+
+Message 122:
+Cooking starts with the selection of
+ingredients, and includes preparation,
+seasoning and presentation.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 123:
+Yes, it looks quite delicious.
+I would love for Miss Romana to
+get a taste of this lovely dish.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 124:
+{FACE_0A0009}Is that a proper hoe, Madam?
+I'm afraid I don't know much about tools.{PAUSE}{EOM}
+
+Message 125:
+Going to work in the fields, madam?
+How delightful.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 126:
+Is it true that tools become easier to
+use the more one uses them?{PAUSE}{EOM}
+
+Message 127:
+{FACE_0A0009}Is that a proper sickle, Madam?
+I'm afraid I don't know much about tools.{PAUSE}{EOM}{EOM}
+
+Message 128:
+{FACE_0A0002}One mustn't swing such things
+around here, Madam.{PAUSE}{EOM}{EOM}
+
+Message 129:
+{S_34013F}{FACE_0A000A}That's Miss Romana's old watering can.
+Does it meet with Madam's approval?{PAUSE}{EOM}{EOM}
+
+Message 130:
+It may have a somewhat unorthodox shape,
+but I assure Madam it is very easy to use.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 131:
+{FACE_0A000A}That's Miss Romana's old watering can.
+Yes, of course I recognize it, Madam.
+It has a most distinctive shape.{PAUSE}{EOM}{EOM}
+
+Message 132:
+{FACE_0A000A}That's Miss Romana's old watering can.
+Do take good care of it, Madam.{PAUSE}{EOM}
+
+Message 133:
+My, is that a new watering can, Madam?
+I wish Madam good luck with her watering.
+After all, farming is a noble profession.{PAUSE}{EOM}
+
+Message 134:
+That watering can has been gently used.
+I wish Madam good luck with her watering.
+After all, farming is a noble profession.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 135:
+{FACE_0A0002}Madam doesn't plan to water here, does
+she? Farming may be a noble profession,
+but there is a time and place for it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+{S_34013F}{FACE_0A000A}What a well-used watering can Madam has.
+I'm glad to see Madam has been working
+hard on her crops.{PAUSE}{EOM}{EOM}
+
+Message 137:
+It's an old watering can, isn't it madam?
+But I'd wager that it's very easy to use.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 138:
+Is that device used for milking cows?
+And to think people used to use their
+hands for such things.{PAUSE}{EOM}
+
+Message 139:
+Milk is rich in calcium and very
+good for one's health.
+Good luck with the milking, Madam.{PAUSE}{EOM}
+
+Message 140:
+{FACE_0A0002}I do not believe there are any
+cows in this general vicinity, Madam.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 141:
+Electric shears, Madam?
+Those do look rather difficult to use.{PAUSE}{EOM}
+
+Message 142:
+{S_34013F}Actually, when I was a child I always
+had my hair cut with something like that.
+Hard to believe, Madam?{PAUSE}{EOM}
+
+Message 143:
+Does Madam use those to shear sheep?
+Please take care not to hurt
+them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 144:
+Those are new clippers, Madam?
+Does Madam use those to shear sheep?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 145:
+It appears that Madam has become
+accustomed to using those clippers.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 146:
+One could use those clippers to cut
+human hair as well. {S_34013F} I fondly remember
+having my hair neatly cropped as a lad.{PAUSE}{EOM}{EOM}
+
+Message 147:
+{S_34013F}{FACE_0A000A}Those clippers certainly show a bit of
+character. I'm surprised they are not
+broken. Madam must be use them well.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 148:
+New tools can be difficult to use at
+first. And if one never breaks them in,
+they will remain that way, Madam.{PAUSE}{EOM}
+
+Message 149:
+I always feel fresh and new when I
+receive a new tool. Does Madam agree?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 150:
+One should use one's tools as much as
+possible. Then they will get easier to use
+and one will develop affection for them.{PAUSE}{EOM}{EOM}
+
+Message 151:
+{S_34013F}Using tools well will improve one's work.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 152:
+{S_34013F}That tool has a rich patina of age to it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 153:
+{FACE_0A000A}When one spots a well-used tool,
+one recognizes the mastery of the owner,
+Madam.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 154:
+{FACE_0A0009}Is that a rare stone
+by any chance? I'm sorry Madam, I am not
+well versed in geology or gemology.{PAUSE}{EOM}{EOM}
+
+Message 155:
+Perhaps if it were a rare stone or a gem
+it would be valuable.{PAUSE}{EOM}
+
+Message 156:
+{FACE_0A0003}My goodness, that is a rare find, Madam.
+Collecting curiosities such as this is a
+passion of mine.{PAUSE}{EOM}
+
+Message 157:
+I don't suppose I could prevail upon Madam
+to give it to me?
+{CHOICE Y/N DEF0}{EOM}
+
+Message 158:
+{S_34013F}{FACE_0A0003}Thank you, Madam.
+I shall treasure it always.{PAUSE}{WIPE}
+{FACE_0A0009}Does Madam think that I have
+unusual tastes?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 159:
+{FACE_0A0009}I see. I'm sorry
+Madam, I shouldn't have mentioned
+it. Please don't give it a second thought.{PAUSE}{EOM}{EOM}
+
+Message 160:
+Did Madam find that wild plant in this
+area? It's quite a beautiful specimen. It
+is good to have an admiration for nature.{PAUSE}{EOM}
+
+Message 161:
+I have heard tell that the plants which
+grow in this area have strange properties.
+Unfortunately, I know no more than that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 162:
+Some wild plants can be used in cooking,
+but wild grasses are inedible, Madam.{PAUSE}{EOM}
+
+Message 163:
+What a pretty flower, Madam.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 164:
+{FACE_0A000A}A record, isn't it Madam? Music has charms
+to soothe the savage breast.{S_340140} Yes, indeed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 165:
+May I ask what kind of record it is,
+Madam? Oh, it's just that collecting
+antiques is a bit of a passion of mine.{PAUSE}{EOM}{EOM}
+
+Message 166:
+Both records and the songs on them have
+unique histories. If one listens to them,
+one can see a glimpse of the past.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 167:
+I used to listen to phonograph records
+often when I was younger. And even now
+I enjoy listening to classical music.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 168:
+{FACE_0A000A}My, that is a very rare spice, indeed.
+Wherever did Madam find it?{PAUSE}{EOM}
+
+Message 169:
+I would very much like to serve
+Miss Romana a dish made with that very
+spice.{PAUSE}{EOM}{EOM}
+
+Message 170:
+If I had such a spice, I would use it in a
+wide variety of dishes.
+Like what? Well, let me see.{PAUSE}{WIPE}
+{FACE_0A000A}Oh, dear. Just thinking about it
+has made me all excited.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 171:
+{S_3400DA}{S_3205DC}Well, that is a rather mysterious sound.
+As a matter of fact, Madam, one of my
+hobbies is listening to classical music.{PAUSE}{EOM}{EOM}
+
+Message 172:
+{S_3400DA}{S_3205DC}Somehow that sound seems to make
+one feel relaxed. Yes.{PAUSE}{EOM}{EOM}
+
+Message 173:
+{S_340042}{S_3205DC}Hmm...
+That is a most unusual drum.
+May I ask where Madam found it?{PAUSE}{EOM}{EOM}
+
+Message 174:
+My, that is a very handsome medal,
+Madam.{PAUSE}{EOM}{EOM}
+
+Message 175:
+Did Madam win that in some sort of
+athletic event? I myself have never been
+so fortunate as to win a medal.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 176:
+But if there were a worldwide butler
+contest, I think I might have a chance
+to do fairly well.{PAUSE}{WIPE}
+Pardon me for saying so, Madam.
+But don't you agree?{PAUSE}{EOM}{EOM}
+
+Message 177:
+Hm. Come to think of it, I believe
+I have seen that medal somewhere before.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 178:
+My dear.
+What an unusual necklace.{PAUSE}{EOM}
+
+Message 179:
+There are many types of necklace, each
+with unique regional and historical
+characteristics.{PAUSE}{WIPE}
+I wonder where that particular necklace
+could have come from.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 180:
+{FACE_0A0009}Why, of course not Madam.
+I myself have no interest in wearing such
+a thing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 181:
+Well now.
+Isn't that the sheet music that
+Miss Romana gave madam?{PAUSE}{EOM}{EOM}
+
+Message 182:
+Did Miss Romana give Madam that?
+{FACE_0A0009}One would think that Miss Romana did so
+because she was unable to play it herself.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 183:
+{FACE_0A0009}I'm afraid I am unable to play it
+either, Madam. While I do enjoy listening
+to music, playing it is beyond me.{PAUSE}{EOM}
+
+Message 184:
+Is that a firework, Madam?
+An excellent specimen. I'm sure it will
+be most beautiful when set off.{PAUSE}{EOM}
+
+Message 185:
+Fireworks produce different colors and
+shapes depending on the gunpowder used.
+Now I wonder what kind that is.{PAUSE}{EOM}
+
+Message 186:
+Please do me the favor of informing
+me when Madam intends set that off.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 187:
+{FACE_0A0009}What? A present for me, Madam?
+No, no.
+Such things would be wasted on me.{PAUSE}{EOM}{EOM}
+
+Message 188:
+Does Madam plan to give that as a
+present to someone?
+{FACE_0A0003}S-surely not to me?!{PAUSE}{EOM}
+
+Message 189:
+Surely Madam does not plan to.
+No, I was just thinking out loud.
+So, who is that a present for, Madam?{PAUSE}{EOM}
+
+Message 190:
+{FACE_0A0009}Madam is going to give that as a present,
+isn't Madam? Why show it to me?{PAUSE}{EOM}{EOM}
+
+Message 191:
+I have been serving Miss Romana for
+over a decade now. But it has passed in
+the blink of the proverbial eye.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+My father served in Miss Romana's
+household, so I have known Miss Romana
+since I was a young man.{PAUSE}{EOM}{EOM}
+
+Message 193:
+I would like nothing more than to stay
+at Miss Romana's side constantly, but...{PAUSE}{WIPE}
+{FACE_0A0009}But Miss Romana seems to dislike
+my being with her all the time, so I've
+started taking walks around the Villa.{PAUSE}{EOM}{EOM}
+
+Message 194:
+There are a number of photographs
+displayed around the Villa. They were
+taken long ago by a man named Canot.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 195:
+{S_34013F}{FACE_0A0003}That item that Madam was gracious enough
+to give me earlier was truly delicious.
+I must say, I was a bit surprised.{PAUSE}{EOM}
+
+Message 196:
+{FACE_0A0009}I'm afraid that this is difficult to
+say, but the item that Madam kindly gave
+me is not one of my favorites.{PAUSE}{WIPE}
+I'm terribly sorry, after Madam went to
+the trouble of giving it to me.{PAUSE}{EOM}
+
+Message 197:
+{FACE_0A0009}The {VAR_00} that Madam gave to me
+could use a bit more work.
+Please forgive me for saying so.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 198:
+{S_34013F}{FACE_0A000A}The {VAR_00} that Madam gave me
+was quite good. I'm sure Madam will think
+it imprudent, but I would love some more.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 199:
+{S_34013F}{FACE_0A0003}The {VAR_00} Madam kindly gave me was
+divine. I have never tasted anything like
+it. I am truly impressed.{PAUSE}{EOM}
+
+Message 200:
+{S_34013F}{FACE_0A0003}The {VAR_00} Madam kindly gave me was
+quite good. I'm sure it would be
+delicious in any type of cuisine.{PAUSE}{EOM}{EOM}
+
+Message 201:
+The milk Madam gave me tasted most
+nutritious. Yes, I'm sure that it was
+quite healthy indeed.{PAUSE}{EOM}
+
+Message 202:
+{FACE_0A0009}About that milk that Madam
+gave me. You must forgive me, but...
+No, never mind.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+{FACE_0A0009}Forgive me for saying so, Madam, but
+I believe the milk Madam gave me could
+still stand to be improved.{PAUSE}{WIPE}
+But they say a journey of a thousand miles
+begins with a single step. I'm sure that
+Madam is on the correct path.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 204:
+The milk Madam gave me tasted
+rather good, but...
+Perhaps it could still be improved.{PAUSE}{EOM}{EOM}
+
+Message 205:
+{S_34013F}{FACE_0A000A}The milk Madam gave me was the
+best this butler has ever tasted.
+I am rather moved, actually.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 206:
+{FACE_0A0009}About that milk that Madam
+gave me. You must forgive me, but...
+No, never mind.{PAUSE}{WIPE}
+But it might be rather good
+made into cheese.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 207:
+{FACE_0A0009}Forgive me for saying so, Madam, but
+I believe the milk Madam gave me could still
+stand to be improved.{PAUSE}{WIPE}
+But they say a journey of a thousand miles
+begins with a single step. Perhaps the
+best destination is among cheese.{PAUSE}{EOM}{EOM}
+
+Message 208:
+The milk that Madam gave me had an
+excellent flavor, but...
+I believe it could still be improved.{PAUSE}{WIPE}
+Perhaps it would be best
+if used for cheese.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 209:
+{S_34013F}{FACE_0A0003}The milk Madam kindly gave me
+was the best this butler has ever tasted.
+I am rather moved, actually.{PAUSE}{WIPE}
+But I couldn't help but think that
+it would be even better made into cheese.{PAUSE}{EOM}
+
+Message 210:
+The milk Madam gave me tasted quite
+elegant, but perhaps it was slightly
+weak.{PAUSE}{EOM}
+
+Message 211:
+{S_34013F}{FACE_0A000A}The milk Madam gave me was
+quite good.{PAUSE}{EOM}{EOM}
+
+Message 212:
+{S_34013F}{FACE_0A000A}The milk Madam gave me was
+rich and quite delicious.
+I am impressed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 213:
+{S_34013F}{FACE_0A0003}The milk Madam kindly gave me
+was simply divine.
+I am most impressed.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 214:
+{FACE_0A0009}About that milk that Madam
+gave me. You must forgive me, but...
+No, never mind.{PAUSE}{WIPE}
+But it might be rather good
+made into butter.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 215:
+{FACE_0A0009}Forgive me for saying so, Madam, but
+I believe the milk Madam gave me could still
+stand to be improved.{PAUSE}{WIPE}
+But they say a journey of a thousand miles
+begins with a single step. Perhaps the
+best destination is among butter.{PAUSE}{EOM}{EOM}
+
+Message 216:
+The milk that Madam gave me had an
+excellent flavor, but...
+Perhaps it could be improved.{PAUSE}{WIPE}
+Perhaps it would be best
+used to make butter.{PAUSE}{EOM}{EOM}
+
+Message 217:
+{S_34013F}{FACE_0A0003}The milk Madam kindly gave me
+was simply divine.
+I was most impressed.{PAUSE}{WIPE}
+But perhaps it was slightly
+too strong.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 218:
+{FACE_0A0009}That milk that Madam kindly gave
+me had a...
+Rather distinct odor.{PAUSE}{EOM}
+
+Message 219:
+{FACE_0A000A}The milk Madam gave me was
+quite good. But...
+It did seem to have a distinctive odor.{PAUSE}{EOM}{EOM}
+
+Message 220:
+{S_34013F}{FACE_0A0003}The cheese that Madam gave me
+was rich and delicious. It was, as the
+French say, a coup de foudre!{PAUSE}{WIPE}
+Most impressive indeed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 221:
+{S_34013F}{FACE_0A000A}Although that cheese Madam gave me
+had something of an odor, it enhanced
+its Mediterranean flavor. Delicious!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 222:
+{S_34013F}{FACE_0A0003}The cheese that Madam gave me
+is quite rare, is it not?
+I understand these things, Madam.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 223:
+Did Madam make the cheese that she
+gave me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 224:
+{S_34013F}{FACE_0A0003}The butter that Madam kindly gave
+me was rich and very delicious.
+I am most impressed.{PAUSE}{EOM}{EOM}
+
+Message 225:
+{S_34013F}{FACE_0A000A}The butter Madam gave me had a
+bit of an odor, but was quite delicious.
+I am most impressed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 226:
+{S_34013F}{FACE_0A0003}That delicious butter that Madam gave
+me is difficult to come by, is it not?
+I understand these things, Madam.{PAUSE}{EOM}{EOM}
+
+Message 227:
+Did Madam make the butter that she
+gave me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 228:
+{S_34013F}{FACE_0A0003}That {VAR_00} was simply fantastic.
+Yes indeed.{PAUSE}{WIPE}
+It was like the proverbial manna from
+heaven. I really must improve my culinary
+skills for Miss Romana's sake.{PAUSE}{EOM}{EOM}
+
+Message 229:
+{S_34013F}{FACE_0A000A}The food Madam kindly gave me
+was quite good. But there is always room
+for improvement, as they say.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 230:
+{S_34013F}{FACE_0A0003}That fish Madam gave me tasted
+simply divine.{PAUSE}{WIPE}
+That type of fish would be delicious
+no matter how it was prepared.{PAUSE}{EOM}
+
+Message 231:
+{S_34013F}{FACE_0A000A}That fish Madam gave me tasted
+quite good.
+Fishing is a noble passion.{PAUSE}{EOM}{EOM}
+
+Message 232:
+{S_34013F}{FACE_0A0003}Working hard, Madam?
+That's most commendable.
+Madam is a true farmer now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 233:
+{S_34013F}{FACE_0A0003}I've heard that Madam is quite skilled at
+growing crops. Madam must enjoy it. One is
+most likely to excel at things one enjoys.{PAUSE}{EOM}
+
+Message 234:
+{S_34013F}{FACE_0A0003}I've heard that Madam is quite the cook.
+How wonderful. I really must strive to
+improve my own skills.{PAUSE}{EOM}{EOM}
+
+Message 235:
+{S_34013F}{FACE_0A000A}Working hard, Madam?
+That's most commendable. Yes,
+Madam does seem somehow different now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 236:
+{S_34013F}{FACE_0A000A}Does Madam enjoy cooking at home?
+I have heard that Madam is well versed.
+I must polish my own culinary skills.{PAUSE}{EOM}
+
+Message 237:
+It appears that Madam has become somewhat
+accustomed to work on the farm.{PAUSE}{WIPE}
+Rome wasn't built in a day, as they say.
+Keep up the hard work, Madam.{PAUSE}{EOM}
+
+Message 238:
+It appears that Madam has become somewhat
+accustomed to growing crops.{PAUSE}{WIPE}
+Rome wasn't built in a day, as they say.
+Keep up the hard work, Madam.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 239:
+It appears that Madam has become somewhat
+accustomed to cooking.{PAUSE}{WIPE}
+Rome wasn't built in a day, as they say.
+Keep up the hard work, Madam.{PAUSE}{EOM}{EOM}
+
+Message 240:
+Painting pictures is my hobby. Please
+tell me... What does Madam honestly think?
+{CHOICE2 DEF1}
+I don't have an eye for art.
+That's a good hobby.{EOM}{EOM}{EOM}
+
+Message 241:
+{FACE_0A0009}Yes, I see.
+I'm afraid there are not many who
+understand me and my passion.{PAUSE}{WIPE}
+But thank you for being so
+honest, Madam.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 242:
+{S_34013F}{FACE_0A0003}Oh! Thank you so much Madam!
+It does my heart good to hear someone say
+that. I feel like painting again!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 243:
+It's not as if I've had any formal art
+instruction and sometimes I'm not even
+sure what's good or bad...{PAUSE}{WIPE}
+But painting does seem to relax me, Madam.{PAUSE}{EOM}{EOM}
+
+Message 244:
+{S_34013F}Perhaps Madam should try painting a
+picture sometime. It can be most relaxing.{PAUSE}{EOM}{EOM}
+
+Message 245:
+{S_34013F}Sometimes it can be nice to drink
+in a place like this. Does Madam feel that
+I don't fit in here?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 246:
+My favorite drink is the {C13}Cherry Pink{C17}.
+Somehow it seems to be the one
+that suits me the most.{PAUSE}{EOM}
+
+Message 247:
+{S_34013F}{FACE_0A0003}My, this is rather festive, isn't it,
+madam? You must “drink up” as they say,
+Ms. {PETE}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 248:
+{FACE_0A000A}Isn't this a nice relaxing room, Madam?
+Of course, it's not as if it's my
+house, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 249:
+{FACE_0A000A}Does Madam like the villa?
+You are always welcome here. {S_340140}Yes.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 250:
+{FACE_0A000A}This place relaxes me.
+I enjoy living here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 251:
+{S_34013F}Madam seems to have taken a liking to
+this place as well.
+I understand. {S_340140}Yes indeed.{PAUSE}{EOM}{EOM}
+
+Message 252:
+{S_34013F}{FACE_0A000A}This is a wonderful season, is it not
+Madam? The flowers are blooming.
+It makes me want to start sketching them.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 253:
+{S_34013F}{FACE_0A000A}This is a wonderful season, isn't Madam?
+When one feels good, one works better.{PAUSE}{EOM}
+
+Message 254:
+{FACE_0A0009}This season is not my favorite...
+This heat slows down one's work.{PAUSE}{WIPE}
+Whew.
+{FACE_0A0000}Don't misunderstand me, Madam.
+My work never suffers in the least. {S_340140}No.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 255:
+{FACE_0A0009}The wind does feel rather good.
+In particular, the breeze blowing through
+the trees offers respite from the heat.{PAUSE}{EOM}{EOM}
+
+Message 256:
+{S_34013F}{FACE_0A000A}This is the best time of year, I think.
+Not too hot, not too cold.
+One works best in this atmosphere, Madam.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 257:
+{S_34013F}{FACE_0A000A}The scenery is certainly pretty
+when the leaves begin to change colors.
+It makes me want to start sketching.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 258:
+{FACE_0A0009}It is a bit brisk, isn't it Madam?
+This cold slows down one's work.{PAUSE}{WIPE}
+Brrrr.
+{FACE_0A0000}Don't misunderstand me, Madam.
+My work does not suffer in the least. {S_340140}No.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 259:
+{FACE_0A0009}I suppose a snowscape is rather
+pretty in it own way.{PAUSE}{EOM}{EOM}
+
+Message 260:
+Miss Lumina's mother was also
+quite skilled at the piano.
+I'm sure she is rejoicing in heaven.{PAUSE}{EOM}
+
+Message 261:
+{FACE_0A0004}Miss Lumina is practicing, Madam.
+We must be quiet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 262:
+{FACE_0A0004}Quiet please!{PAUSE}{EOM}{EOM}
+
+Message 263:
+{FACE_0A0009}Oh dear.
+You really must excuse me, Madam.
+That isn't like me.{PAUSE}{EOM}
+
+Message 264:
+{FACE_0A0009}I tried to refuse, but she
+wouldn't listen.{PAUSE}{WIPE}
+Imagine, Miss Lumina helping clean up.
+She certainly is a kind young woman.{PAUSE}{EOM}{EOM}
+
+Message 265:
+Lumina certainly is a kind young woman,
+isn't she, Madam? I mean that.{PAUSE}{EOM}
+
+Message 266:
+Miss Kate said that she wanted to hear
+my life story. But I hardly think someone
+like me would be interesting to her.{PAUSE}{WIPE}
+But if I can be of some use to her,
+I can think of no higher honor.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 267:
+{FACE_0A0009}Yes, it's is h-h-high honor indeed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 268:
+{FACE_0A0009}I'm terribly sorry, Madam.
+Could I take that at some other time?
+Please accept my humble apologies.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 269:
+.................{PAUSE}{EOM}{EOM}
+
+Message 270:
+.................{PAUSE}{EOM}{EOM}
+
+Message 271:
+.................{PAUSE}{EOM}{EOM}
+
+Message 272:
+.................{PAUSE}{EOM}{EOM}
+
+Message 273:
+Working in this weather must be hard.{PAUSE}{EOM}{EOM}
+
+Message 274:
+Working on a farm must be rather
+trying in weather like this.{PAUSE}{EOM}{EOM}
+
+Message 275:
+I'm afraid I shall be
+retiring to my room soon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 276:
+I'm afraid that it is time for everyone to
+retire. Could Madam return tomorrow?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 277:
+Good night, Madam.{PAUSE}{EOM}
+
+Message 278:
+I'm afraid I have to be leaving
+fairly soon.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 279:
+I'm afraid I have to leave now.
+If you don't mind, madam.{PAUSE}{EOM}{EOM}
+
+Message 280:
+Goodbye, Madam.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 281:
+How may I be of service,{S_32012C}
+Miss Lumina?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 282:
+Welcome, Ms. {PETE}.{S_3201F4}
+I'm afraid there is something that I must
+tend to, but please make yourself at home.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 283:
+I have no quarrel with you, Madam, but
+this is for Miss Lumina!{S_3200C8}
+Please step aside.{PAUSE}{EOM}{EOM}
+
+Message 284:
+Here I come! {S_3201F4}Aghhhhh!!{PAUSE}{EOM}{EOM}
+
+Message 285:
+N-{S_3201F4}No...
+I wanted to give Miss Lumina the best
+paintbrush for a present, but...{PAUSE}{EOM}{EOM}
+
+Message 286:
+What is the matter,{S_32012C}
+Miss Lumina?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 287:
+Yes. {S_32012C}By all means.{PAUSE}{EOM}{EOM}
+
+Message 288:
+Does it meet with your approval?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 289:
+I see.
+Thank you.{PAUSE}{EOM}{EOM}
+
+Message 290:
+It does me good to hear that.
+Please, take your time.{PAUSE}{EOM}{EOM}
+
+Message 291:
+What is the matter,
+Miss Lumina?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 292:
+I see. Please feel free to
+come again anytime.{PAUSE}{EOM}
+
+Message 293:
+What is it,
+Miss Lumina?{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

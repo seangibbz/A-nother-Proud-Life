@@ -1,0 +1,1221 @@
+Message 0:
+Oh, it's you, {PETE}.
+Hello.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 1:
+The thing about farm work is,
+raising the crops is very hard work,{PAUSE}{WIPE}
+but watching them grow and develop
+can be a lot of fun.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+Do you like working in the
+fields, {PETE}?
+{CHOICE2 DEF0}
+I don't like it.
+I don't mind it.{EOM}
+
+Message 3:
+Is that so.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 4:
+When I take care of the crops
+in the fields I feel kind of like they
+give some of their energy to me.{PAUSE}{EOM}{EOM}
+
+Message 5:
+You should try it too,
+{PETE}...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+{FACE_020003}Good!{PAUSE}{EOM}{EOM}
+
+Message 7:
+Heehee.
+You might think I'm strange for saying
+this kind of thing, though.{PAUSE}{EOM}
+
+Message 8:
+{MARLIN}!!
+Haven't you finished with the {C13}Carrots{C17} yet?{PAUSE}
+I need them for my cooking!{PAUSE}{EOM}
+
+Message 9:
+What about those ingredients?{PAUSE}
+Where are the {C13}Carrots{C17} I asked for?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 10:
+Hmph! Men always want to goof off
+all the time!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 11:
+And make sure that you pick
+full-grown carrots!
+Not small ones, like last time!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 12:
+{MARLIN}!!
+Haven't you finished with the {C13}Turnips{C17} yet?{PAUSE}
+I need them for my cooking!{PAUSE}{EOM}
+
+Message 13:
+Where are those {C13}Turnips{C17}?{PAUSE}{EOM}
+
+Message 14:
+I'll never finish cooking at this rate!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 15:
+That's enough, Marlin.{PAUSE}{EOM}
+
+Message 16:
+{PETE}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 17:
+I'm sorry.{PAUSE}{EOM}
+
+Message 18:
+They say that the good die young.
+That was certainly the case here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 19:
+{GRIFFIN}, please sing a
+special song for {PETE}
+up in heaven.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 20:
+Did you want to buy something today?{CHOICE Y/N DEF0}{EOM}{EOM}
+
+Message 21:
+Don't need anything?
+{FACE_020003}That's OK. Come back anytime.{PAUSE}{EOM}
+
+Message 22:
+Well then, what do you want?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 23:
+{C13}{VAR_00}{C17}?
+You have {GOLD_0003} now.
+How many do you want?{PAUSE}{EOM}{EOM}
+
+Message 24:
+{FACE_020009}Oh dear. Your rucksack is too full to fit
+any {C13}{VAR_00}{C17}.
+Come back after you've cleaned it out.{PAUSE}{EOM}
+
+Message 25:
+{FACE_020009}Oh dear, you don't have enough money.
+{FACE_020000}Come back when you have enough.{PAUSE}{EOM}{EOM}
+
+Message 26:
+So {GOLD_0002} of them
+comes to {GOLD_0107}G.
+Is that OK?{CHOICE Y/N DEF0}{EOM}
+
+Message 27:
+{FACE_020003}Thank you.
+Come back anytime.{PAUSE}{EOM}{EOM}
+
+Message 28:
+Oh, did you change your mind?
+{FACE_020001}Well, come back anytime.{PAUSE}{EOM}
+
+Message 29:
+Do you need anything else?
+{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 30:
+Oh, you're selling things.
+Mind if I take a look?{PAUSE}{EOM}{EOM}
+
+Message 31:
+Oh, let me see what you've
+got here!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+My, you don't have anything, do you?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 33:
+I guess I'd better come earlier next time.{PAUSE}{EOM}
+
+Message 34:
+Hmm... I guess there's nothing I
+want here today.{PAUSE}{EOM}{EOM}
+
+Message 35:
+I'm sorry.
+There's nothing I want here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 36:
+Maybe I'll buy the {VAR_00}.
+How much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G
+It's {GOLD_0205}G.
+I can't sell that.{EOM}{EOM}{EOM}
+
+Message 37:
+{S_340194}Really?
+{FACE_020003}Thanks!{PAUSE}{EOM}
+
+Message 38:
+Well, I guess I'll take it then.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 39:
+Oh...
+I guess that wasn't for sale.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 40:
+Well, bye. I'll be back.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+This {VAR_00} looks good.
+How much is it?
+{CHOICE3 DEF2}
+For you, {GOLD_0105}G.
+It's {GOLD_0205}G.
+I can't sell that.{EOM}
+
+Message 42:
+{FACE_020009}Hello. Sigh.....{PAUSE}{EOM}{EOM}{EOM}
+
+Message 43:
+{FACE_020009}Oh, it's nothing... Sigh.{PAUSE}{EOM}{EOM}
+
+Message 44:
+{FACE_020002}I said it's nothing!!{PAUSE}{EOM}{EOM}
+
+Message 45:
+{FACE_020009}I'm just not feeling very well today.
+I'm sorry.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 46:
+{S_340193}Good morning.
+Let's work hard today!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+{S_340193}Hello.{PAUSE}{EOM}{EOM}
+
+Message 48:
+{S_340193}Good evening.
+Let's get plenty of rest for tomorrow!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 49:
+{S_340193}Oh, thank goodness it's you.
+At this time of night, I get a little
+nervous. I'm glad it was only you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+{S_340193}My, what are you doing out at this hour?
+Who did you want to see?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 51:
+{S_340193}Oh, welcome.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 52:
+{S_340193}Oh, I didn't expect to see you this late.
+Do you always stay up so late?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 53:
+{S_340193}Hello.
+Do you come here often?{PAUSE}{EOM}{EOM}
+
+Message 54:
+{FACE_020003}My, that looks delicious.
+{CHOICE2 DEF0}
+Have some.
+It's not for you.{EOM}{EOM}{EOM}
+
+Message 55:
+Is it really OK?
+{S_340193}How nice. Thank you!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 56:
+{S_340194}{FACE_02000A}Hmm?
+Don't worry. I won't steal it or anything.{PAUSE}{EOM}
+
+Message 57:
+{S_340193}{FACE_020003}That looks good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 58:
+My, you have something nice there.
+{CHOICE2 DEF0}
+Give it to her.
+Don't give it to her.{EOM}
+
+Message 59:
+{FACE_020001}Are you sure?
+{FACE_020003}I'll take good care of it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 60:
+So you like that kind of thing,
+do you?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 61:
+{S_340193}That's wonderful.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 62:
+{S_340194}Oh dear, I don't like that kind of thing.
+I know I shouldn't be so picky, but...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+{FACE_020009}You know, just thinking of
+how that tastes makes me feel ill.{PAUSE}{EOM}{EOM}
+
+Message 64:
+{FACE_020009}What is that? You're not going
+to try and give it to me, are you?{PAUSE}{EOM}{EOM}
+
+Message 65:
+{FACE_020009}Yuck.{PAUSE}{EOM}{EOM}
+
+Message 66:
+{S_340193}My, {TATSUYA}.
+Are you on a walk with your Mommy?
+How nice.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 67:
+I see {ROCK} out on the town often.
+You guys are married and all.
+Does he go home at night?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 68:
+{S_340193}My, {TATSUYA}.
+Are you on a walk with your Mommy?
+How nice.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+{GUSTAFA}'s son...
+I bet he'll become a musician.{PAUSE}{EOM}
+
+Message 70:
+{TATSUYA}...
+Be sure to come and visit us at the farm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+{MARLIN}'s kids...
+I'm looking forward to their growing up.{PAUSE}{EOM}{EOM}
+
+Message 72:
+Are you taking {DOG} for a walk?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+{FACE_020003}Good doggie.
+Yes, who's a good boy?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 74:
+{S_340193}Oh, a cat?
+How cute.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+{FACE_020003}Good kitty.
+Cute kitty.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+What a fine looking chicken.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 77:
+What a cute little chick.
+Was it born at {FARM} Farm?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 78:
+Chickens lay eggs, so they're very good
+to have around. Is that a female?{PAUSE}{EOM}{EOM}
+
+Message 79:
+My, that's very big.
+Is it a duck?{PAUSE}{EOM}
+
+Message 80:
+How cute.
+Is that a duck?{PAUSE}{EOM}{EOM}
+
+Message 81:
+Ducks are kind of cute
+once you get used to them.{PAUSE}{EOM}{EOM}
+
+Message 82:
+Are you planting now?{PAUSE}{EOM}{EOM}
+
+Message 83:
+I hope {FARM} Farm
+has a bumper crop this year.{PAUSE}{EOM}
+
+Message 84:
+{S_340194}Oh, is that from {FARM} Farm?
+How nice!
+{CHOICE2 DEF0}
+Give it to her.
+Don't give it to her.{EOM}{EOM}
+
+Message 85:
+{S_340194}For me? Oh, you want us
+to tell you what we think of it?
+OK. We'll all give it a try.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 86:
+Let's both keep up the hard
+work.{PAUSE}{EOM}{EOM}
+
+Message 87:
+It looks quite good.
+You've done well.{PAUSE}{EOM}
+
+Message 88:
+That milk looks good.
+It's from {FARM} Farm, right?{PAUSE}{EOM}
+
+Message 89:
+I bet milk from your own farm
+must taste especially good.{PAUSE}{EOM}{EOM}
+
+Message 90:
+Oh, did you make some cheese?
+{FACE_020003}Wow.{PAUSE}{EOM}
+
+Message 91:
+Making cheese sounds like a lot of work.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 92:
+Oh, did you make some butter?{PAUSE}{EOM}{EOM}
+
+Message 93:
+I make butter sometimes, too.
+But I do it by hand, so you have to
+keep churning and churning.{PAUSE}{EOM}{EOM}
+
+Message 94:
+Oh, an egg.
+Did one of your chickens lay it?
+{CHOICE2 DEF0}
+Give it to her.
+Don't give it to her.{EOM}{EOM}{EOM}
+
+Message 95:
+{S_340193}{FACE_020003}I'm so happy!
+I'll use it in tonight's dinner.{PAUSE}{EOM}{EOM}
+
+Message 96:
+I'm making a lot of egg dishes these days.{PAUSE}{EOM}
+
+Message 97:
+I'd like to keep chickens on our farm,
+but everyone's so busy with our crops that
+we wouldn't have time to care for them.{PAUSE}{EOM}{EOM}
+
+Message 98:
+Wow, good job.
+{FACE_020003}You caught that, huh?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 99:
+You should cook it while it's
+still fresh.{PAUSE}{EOM}
+
+Message 100:
+My, that looks tasty.{PAUSE}{EOM}{EOM}
+
+Message 101:
+If there are still some growing there,
+maybe I should go collect some myself.{PAUSE}{EOM}{EOM}
+
+Message 102:
+My, that turned out very well.
+It looks quite good.
+{CHOICE2 DEF0}
+Try it.
+I'll eat it later.{EOM}{EOM}{EOM}
+
+Message 103:
+{FACE_020003}Really?
+Well, thank you.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 104:
+If it's good, you must give me the recipe.
+Cooking is a hobby of mine.{PAUSE}{EOM}
+
+Message 105:
+{FACE_020003}Be sure and give me some good recipes.{PAUSE}{EOM}
+
+Message 106:
+My, what strange hoe.
+Do you use it like a normal hoe?{PAUSE}{EOM}
+
+Message 107:
+I'd like something like that, too.{PAUSE}{EOM}
+
+Message 108:
+What an unusual hoe.
+Does it work well?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 109:
+You like growing things, don't you?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 110:
+Is that your hoe?
+You haven't used it much yet, have you?{PAUSE}{EOM}{EOM}
+
+Message 111:
+You've got to break it in more.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 112:
+Is that your hoe?
+Mine is an old one of Vesta's,
+so it's older than that.{PAUSE}{EOM}{EOM}
+
+Message 113:
+That looks like a good hoe.
+Use it well.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 114:
+My, that's impressive.
+You certainly used that a lot.{PAUSE}{EOM}{EOM}
+
+Message 115:
+{FACE_020001}You're really working hard on your crops!
+Wow!{PAUSE}{EOM}
+
+Message 116:
+That's a strange shape.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 117:
+That looks pretty sharp.
+But maybe you shouldn't go walking
+around with it. You could hurt someone.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 118:
+My, what an unusual sickle.
+You use that in your fields?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 119:
+I'd like to try using that.
+I wonder how it compares to a normal one.{PAUSE}{EOM}{EOM}
+
+Message 120:
+Wow.
+{FACE_020003}That sickle's brand new!{PAUSE}{EOM}{EOM}
+
+Message 121:
+You haven't used that at all.
+You've got to break it in.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 122:
+Oh, is that your sickle?
+Mine is more broken in than that.{PAUSE}{EOM}
+
+Message 123:
+You probably shouldn't carry that around.
+{FACE_020009}It's dangerous.{PAUSE}{EOM}{EOM}
+
+Message 124:
+My, you've used that sickle quite a lot.
+If you don't sharpen it, it must get
+dull very quickly.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 125:
+I think it's great you've used it so much.{PAUSE}{EOM}
+
+Message 126:
+What an unusual watering can.
+Is it used differently from normal ones?{PAUSE}{EOM}
+
+Message 127:
+What a nice watering can.{PAUSE}{EOM}{EOM}
+
+Message 128:
+That watering can is spotless.
+That must make watering fun.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 129:
+You are watering your crops, right?
+It looks like you're not using it...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 130:
+Is that your watering can?
+Watering crops is fun, isn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 131:
+When you water your crops, check them to
+see how they're doing.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 132:
+My! What an old watering can!{PAUSE}{EOM}{EOM}
+
+Message 133:
+You must really be working hard to have
+used it that much.{PAUSE}{EOM}
+
+Message 134:
+My, that's new, isn't it?{PAUSE}{EOM}{EOM}
+
+Message 135:
+Good luck with your milking.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 136:
+That's used for milking cows,
+isn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 137:
+I hope you get some good milk.{PAUSE}{EOM}
+
+Message 138:
+That's used for milking cows,
+isn't it?{PAUSE}
+It's pretty old, huh?{PAUSE}{EOM}
+
+Message 139:
+If you want to produce good milk, I think
+a clean milker would be best.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 140:
+Oh, so you use those to
+shear your sheep?
+That looks difficult...{PAUSE}{EOM}{EOM}
+
+Message 141:
+Shearing sheep seems challenging.{PAUSE}{EOM}{EOM}
+
+Message 142:
+Oh, you use those to shear
+your sheep?
+That looks fun.{PAUSE}{EOM}
+
+Message 143:
+Shearing sheep looks like fun.{PAUSE}{EOM}
+
+Message 144:
+Is it sheep shearing season now?
+We work all year round here.{PAUSE}{EOM}{EOM}
+
+Message 145:
+Don't the sheep catch cold or
+something when they're sheared?{PAUSE}{EOM}{EOM}
+
+Message 146:
+Those clippers have been used a lot.
+You're used to shearing, then?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 147:
+I like sheared sheep.
+They're so cute.{PAUSE}{EOM}
+
+Message 148:
+My, you have a new tool.
+How nice!{PAUSE}{EOM}
+
+Message 149:
+When you get a new tool do you sometimes
+invent work just so you can use it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 150:
+Going to work now?
+Good luck.{PAUSE}{EOM}{EOM}
+
+Message 151:
+We both need to work hard. I'm sure we'll
+get better at our jobs soon.{PAUSE}{EOM}
+
+Message 152:
+My, that's been used a lot, hasn't it?
+Did you do that all by yourself?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 153:
+There's nothing like a well-used tool.
+After you use one for a long time
+it seems like it grows to fit your hand.{PAUSE}{EOM}{EOM}
+
+Message 154:
+{FACE_020003}What a nice stone.
+{FACE_020000}Are you going to go sell that?{PAUSE}{EOM}{EOM}
+
+Message 155:
+That's very nice.{PAUSE}{EOM}{EOM}
+
+Message 156:
+You've got something interesting there.
+Do you sell those?{PAUSE}{EOM}
+
+Message 157:
+You like those type of things?
+How odd of you.{PAUSE}{EOM}
+
+Message 158:
+Oh, that's a wild plant, isn't it?
+Did you pick it yourself?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 159:
+Try not to collect too many
+of them.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 160:
+My, that's a record, isn't it?
+Do you have a record
+player?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 161:
+Listening to music is relaxing, isn't it?{PAUSE}{EOM}{EOM}
+
+Message 162:
+{S_340193}My, did {RUBY} give you that?
+How nice.{PAUSE}{EOM}
+
+Message 163:
+{RUBY}'s such a good cook, I'm
+thinking of taking lessons from her.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 164:
+{S_340193}My, what a pretty gold medal!
+That's {WALLY}'s, isn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 165:
+I would've kept it as a memento, myself.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 166:
+............
+That's nicely decorated.{PAUSE}{EOM}{EOM}
+
+Message 167:
+Take good care of it.{PAUSE}{EOM}{EOM}
+
+Message 168:
+Oh, is that {LUMINA}'s?
+Maybe she gave it to you to keep
+until she's ready to play that piece?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 169:
+Keep it safe.
+You can give it back to {LUMINA} when
+she's ready to play it.{PAUSE}{EOM}{EOM}
+
+Message 170:
+{S_340194}!
+Oh, you scared me.
+{FACE_020009}Does that have gunpowder inside?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 171:
+If you're going to set off fireworks,
+be careful not to burn yourself.{PAUSE}{EOM}
+
+Message 172:
+What is that?{PAUSE}{EOM}{EOM}
+
+Message 173:
+If it's something important,
+you'd better take good care of it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 174:
+When I lived with my parents in the {C14}{STRUC_31}{C17},
+{VESTA} used to deliver fresh
+vegetables to our house.{EOM}
+
+Message 175:
+The people in this town weren't too happy
+when {VESTA} brought me here.{PAUSE}{EOM}
+
+Message 176:
+But I'm glad I came to {C14}{STRUC_30}{C17}.
+Even if it meant leaving my parents.{PAUSE}{EOM}{EOM}
+
+Message 177:
+The {VAR_00} you gave me
+was very good.
+{FACE_020003}I love that kind of thing!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 178:
+The {VAR_00} you gave me
+could use a little more work.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 179:
+The {VAR_00} you gave me
+was really good.
+Keep up the good work.{PAUSE}{EOM}
+
+Message 180:
+The {VAR_00} you gave me
+was very good.{PAUSE}{WIPE}
+Really.
+Even {VESTA} was
+surprised.{PAUSE}{EOM}
+
+Message 181:
+That {VAR_00} was delicious.
+{FACE_020003}I like that kind of thing.{PAUSE}{EOM}{EOM}
+
+Message 182:
+The {VAR_00} you made
+was very good.
+You'll have to give me the recipe.{PAUSE}{EOM}{EOM}
+
+Message 183:
+The {VAR_00} you made
+was good.
+{FACE_020003}You've been working hard at cooking.{PAUSE}{EOM}
+
+Message 184:
+I ate the {VAR_00} you made.
+Thanks...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 185:
+I think you're a lot better at
+your job now.
+{FACE_020003}You're a real farmer.{PAUSE}{EOM}
+
+Message 186:
+You're quite good at raising crops,
+aren't you?{PAUSE}{WIPE}
+I'm still such an amateur.
+I really respect you.{PAUSE}{EOM}
+
+Message 187:
+You've a good cook,
+Do you know that?
+Maybe you could teach me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 188:
+You've been working hard on your farm.
+{FACE_020003}I think it's great how seriously
+you're taking your work.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 189:
+Raising crops isn't easy, but you're
+doing your best.
+We both need to work hard.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 190:
+Do you often cook at home?
+I've heard you're pretty good.
+That's just great!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 191:
+I guess you're getting used to life
+on the farm, huh?
+Keep up the good work.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 192:
+I guess you're getting used to
+growing crops, huh?
+{FACE_020003}We both need to keep working at it.{PAUSE}{EOM}
+
+Message 193:
+You cook, don't you?
+Me too!
+If you find any good recipes, tell me!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 194:
+My room is in the attic.
+But I like it a lot.{PAUSE}{EOM}{EOM}
+
+Message 195:
+Do you like your current lifestyle?
+{FACE_020003}Me? I love living
+here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 196:
+{TATSUYA}'s really cute.
+I bet running around a farm is great
+for a child's development.{PAUSE}{EOM}{EOM}
+
+Message 197:
+
+{EOM}{EOM}{EOM}
+
+Message 198:
+{TATSUYA} seems bigger.
+I wonder if he will
+take over the farm after you.{PAUSE}{EOM}
+
+Message 199:
+Raising children must be very difficult.
+When they get to a certain age, they
+probably don't listen to their parents.{PAUSE}{EOM}{EOM}
+
+Message 200:
+{TATSUYA}'s all grown up
+now.
+Time certainly does fly.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 201:
+I love houses made from wood.{PAUSE}{EOM}{EOM}
+
+Message 202:
+Vesta sometimes bakes bread for
+us, you know.
+It's really good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 203:
+Marlin may seem like he's always in a
+bad mood, but he's really a kind man.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 204:
+It's nice to come to a place like this
+every once in a while.{PAUSE}{EOM}{EOM}
+
+Message 205:
+Let's take it easy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 206:
+Vesta's vegetables
+are the best!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 207:
+It was so nice of you to come.
+I can't even offer you any refreshments...
+But feel free to stop by anytime.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 208:
+Good luck with your crops.
+I'm sure they'll be delicious.{PAUSE}{EOM}{EOM}
+
+Message 209:
+This kind of place always relaxes
+me.{PAUSE}{EOM}{EOM}
+
+Message 210:
+{S_340193}Sigh.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 211:
+Everything seems so fresh and new
+at this time of year. I love it.{PAUSE}{EOM}
+
+Message 212:
+This is my favorite time of year.{PAUSE}{EOM}{EOM}
+
+Message 213:
+You can hear the little songbirds and
+see the flowers blooming...
+They're so cute.{PAUSE}{EOM}
+
+Message 214:
+For farms this time of year is the
+busiest. Vesta's really working hard.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 215:
+If you have some free time, maybe you
+could go flower-viewing with us. We could
+have a picnic. Doesn't that sound nice?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 216:
+I just can't keep my mind focused today.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 217:
+{FACE_020009}Whew. It's hot.
+{FACE_020001}How's everyone at {FARM} Farm?{PAUSE}{EOM}{EOM}
+
+Message 218:
+Let's work hard so that
+the crops do well!{PAUSE}{EOM}
+
+Message 219:
+{FACE_020009}It sure is hot.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 220:
+Make sure not to overwork the animals.{PAUSE}{EOM}
+
+Message 221:
+It's so hot at this time of year,
+cooking must be difficult, huh?{PAUSE}{EOM}{EOM}
+
+Message 222:
+I'd like to eat some nice juicy fruit.{PAUSE}{EOM}
+
+Message 223:
+The weather seems a lot more
+comfortable, doesn't it? I like to draw
+pictures and read books in the fall.{PAUSE}{EOM}{EOM}
+
+Message 224:
+There are so many delicious foods
+available in the fall.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 225:
+It's pretty great if you think about it.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 226:
+Aren't autumn leaves just
+beautiful?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 227:
+I like to pick up fallen leaves to
+use as bookmarks.
+Isn't that a good idea?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 228:
+Whenever I hear the crickets chirping
+I like to stop and listen to them.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 229:
+It's pretty cold.
+How's everyone at {FARM} Farm?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 230:
+You should have some hot food
+to warm yourself up.{PAUSE}{EOM}
+
+Message 231:
+I don't really like the cold very much,
+{FACE_020003}but I always feel happy when it snows.
+It's so pretty.{PAUSE}{EOM}
+
+Message 232:
+Be careful that your animals don't
+catch cold.
+Oh, and that goes for you, too!{PAUSE}{EOM}
+
+Message 233:
+When there's frost on the ground in the
+morning, I just can't get myself moving.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 234:
+I wish spring would hurry up and get here.{PAUSE}{EOM}
+
+Message 235:
+I was looking at the crops.
+I hope they will grow really big.{PAUSE}{EOM}{EOM}
+
+Message 236:
+What are your fields like,
+anyway?
+I should go take a look.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 237:
+Oh, it's you.
+You like it here too?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 238:
+I love the sound of leaves in
+the wind. If you listen to them for
+a long time, it's almost hypnotic.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 239:
+{FACE_020009}I'm sorry. I don't want to
+think about anything right now.{PAUSE}{WIPE}
+But I guess I can't be like this
+forever...{PAUSE}{EOM}{EOM}{EOM}
+
+Message 240:
+..................{PAUSE}{EOM}
+
+Message 241:
+{FACE_020007}I'm sorry.
+I can't talk to you.
+I'll just start crying again.{PAUSE}{EOM}{EOM}
+
+Message 242:
+{FACE_020007}Just leave me alone.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 243:
+{FACE_020007}You don't...
+You don't have to worry about me anymore.{PAUSE}{EOM}
+
+Message 244:
+{FACE_020009}How much do I really know about you,
+{PETE}?
+I'm a little worried.{PAUSE}{EOM}
+
+Message 245:
+What?
+Oh, I'm sorry.
+I'm busy right now.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 246:
+Don't worry.
+Maybe it was for the best.{PAUSE}{WIPE}
+I just need some time to think by myself.
+I'm sorry.{PAUSE}{EOM}
+
+Message 247:
+Oh, it's you!
+I'm having so much fun these days!
+I'm so very happy!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 248:
+Hello.
+I've been thinking about you a lot.{PAUSE}{WIPE}
+{VESTA} scolded me for
+daydreaming all the time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 249:
+I was just thinking about you.
+And to have you show up.
+That must be more than a coincidence.{PAUSE}{EOM}{EOM}
+
+Message 250:
+{FACE_020007}I'm sorry.
+I can't talk to you.
+I'll just start crying again.{PAUSE}{EOM}{EOM}
+
+Message 251:
+{FACE_02001A}{VESTA} teaches me to cook now.
+Soon I'll make delicious dinners.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 252:
+The crops love it when
+it rains, so I love it too.
+Is that strange?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 253:
+You don't have to water when it rains,
+so it must make your work easier.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 254:
+It's sure coming down, isn't it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 255:
+I heard that the farmer in Mineral Town
+has won a lot of disk catching
+contests with her dog.{PAUSE}{EOM}{EOM}
+
+Message 256:
+I heard that the farmer in Mineral Town
+has won a lot of horse races.
+Did you know that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 257:
+I heard that the farmer in Mineral Town
+has won a lot of chicken festivals.
+Did you know that?{PAUSE}{EOM}
+
+Message 258:
+I heard that the farmer in Mineral Town
+has won a lot of cow festivals.
+Did you know that?{PAUSE}{EOM}
+
+Message 259:
+I heard that the farmer in Mineral Town
+has won a lot of sheep festivals.
+Did you know that?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 260:
+That's very nice of you, but I'm a little
+busy right now. I'm sorry.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 261:
+Thanks for thinking of me.{PAUSE}{EOM}
+
+Message 262:
+I have to be going to bed soon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 263:
+It's time for me to go to bed.
+Could you please leave now?{PAUSE}{EOM}
+
+Message 264:
+Good night.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 265:
+I'll be going out soon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 266:
+I'm sorry,
+I have to leave now...{PAUSE}{EOM}{EOM}
+
+Message 267:
+See you later.{PAUSE}{EOM}
+
+Message 268:
+{VESTA}, today is the
+Harvest Festival. I'm so excited.{PAUSE}{EOM}
+
+Message 269:
+Eat up!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 270:
+Marlin.
+What's going on?{PAUSE}{WIPE}
+I can't help thinking that you've been
+avoiding me lately.{PAUSE}{EOM}{EOM}
+
+Message 271:
+{FACE_020009}If I did anything to upset you,
+I'd be glad to apologize.{PAUSE}{EOM}{EOM}
+
+Message 272:
+{FACE_020009}Oh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 273:
+Really?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 274:
+Thank goodness!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 275:
+Marlin.{PAUSE}{WIPE}
+I'm sorry for making you come out
+here because of a silly misunderstanding.{PAUSE}{EOM}{EOM}
+
+Message 276:
+I really should get back to
+Vesta now.{PAUSE}{EOM}
+
+Message 277:
+Oh, Marlin?{PAUSE}{WIPE}
+My, is the sun down already?{PAUSE}{EOM}
+
+Message 278:
+I just wanted to take a little rest,
+but I fell fast asleep.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 279:
+I'm sorry.{PAUSE}{EOM}
+
+Message 280:
+Marlin...{PAUSE}{EOM}{EOM}
+
+Message 281:
+Yes.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 282:
+Marlin...{PAUSE}{EOM}{EOM}
+
+Message 283:
+It'll change!{PAUSE}{EOM}{EOM}
+
+Message 284:
+Watching the river always relaxes me.{PAUSE}{EOM}{EOM}
+
+Message 285:
+Oh, hello.{PAUSE}{EOM}
+
+Message 286:
+I'm OK.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 287:
+But I wouldn't want anything to
+happen, so maybe I'll rest a bit.{PAUSE}{EOM}{EOM}
+
+Message 288:
+I'm sorry.{PAUSE}
+Why don't you talk with Marlin?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 289:
+Heehee
+It's so pretty.{PAUSE}{EOM}
+
+Message 290:
+This is wonderful garden.{PAUSE}{EOM}{EOM}
+
+Message 291:
+I've always liked the garden here.
+I thought I'd like to get a closer
+look.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 292:
+Thank you.{PAUSE}{EOM}
+
+Message 293:
+Hello.{PAUSE}{EOM}
+
+Message 294:
+Sebastian, I should be getting
+back home.{PAUSE}{EOM}{EOM}
+
+Message 295:
+Yes.{PAUSE}
+Thank you.{PAUSE}
+Bye.{PAUSE}{EOM}
+
+Message 296:
+Oh, Marlin!{S_3207D0}
+{FACE_020003}Anyway,{S_3207D0} congratulations you two!{PAUSE}{EOM}
+
+Message 297:
+{FACE_020003}Oh {MARLIN}! How rude!{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

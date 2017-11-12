@@ -1,0 +1,241 @@
+Message 0:
+Good morning.{PAUSE}{WIPE}{EOM}
+
+Message 1:
+{WIPE}“{VAR_00}, Day {GOLD_0002}.
+ {VAR_01} is sick, so no sale is possible.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 2:
+{WIPE}“{VAR_00}, Day {GOLD_0002}.
+{VAR_01} seems to be acting a little
+strange. Could she be pregnant?”{PAUSE}{EOM}
+
+Message 3:
+{WIPE}“{VAR_00}, Day {GOLD_0002}.
+{VAR_01} is sick. No Miracle Potion today.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+{WIPE}“{VAR_00}, Day {GOLD_0002}.
+{VAR_01} seems to be acting a little
+strange. Could she already be pregnant?”{PAUSE}{EOM}
+
+Message 5:
+{WIPE}“At the moment, we have plenty of:
+{C13}{VAR_02} {VAR_03} {VAR_04}.”{C17}{PAUSE}
+There is a package waiting by the entrance{PAUSE}{EOM}{EOM}{EOM}
+
+Message 6:
+{WIPE}“I can't sell {C13}Wool{C17} in the city.”{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 7:
+{WIPE}“I can only sell {C13}crops{C17} and {C13}seeds{C17}
+that you name yourself.”{PAUSE}{EOM}
+
+Message 8:
+{WIPE}“Here are your profits.”{FACER_000000}{EOM}{?_39}
+You made a total of {GOLD_0207}G.{PAUSE}{EOM}{EOM}
+
+Message 9:
+{WIPE}“Order canceled: The barn is full.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+{WIPE}“Here's your money back for now.”{FACER_000000}
+{?_39}
+You received {GOLD_0307}G back.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 11:
+{WIPE}{EOM}{EOM}{EOM}
+
+Message 12:
+{WIPE}“{VAR_00}, Day {GOLD_0002}.
+There is already a pregnant cow, so the
+Miracle Potion request was canceled.”{PAUSE}{EOM}{EOM}{EOM}
+
+Message 13:
+{VAR_00},{EOM}
+
+Message 14:
+{C12}{GOLD_0002}{C17} {C13}{VAR_00}{C17},{EOM}
+
+Message 15:
+{C12}{GOLD_0102}{C17} {C13}{VAR_01}{C17},{EOM}
+
+Message 16:
+{C12}{GOLD_0202}{C17} {C13}{VAR_02}{C17},{EOM}
+
+Message 17:
+{C12}{GOLD_0302}{C17} {C13}{VAR_03}{C17},{EOM}
+
+Message 18:
+{C13}{VAR_00}{C17},{EOM}{EOM}{EOM}
+
+Message 19:
+{C13}{VAR_01}{C17},{EOM}{EOM}{EOM}
+
+Message 20:
+{C13}{VAR_02}{C17},{EOM}{EOM}{EOM}
+
+Message 21:
+{C13}{VAR_03}{C17},{EOM}{EOM}{EOM}
+
+Message 22:
+{S_320000}{EOM}
+
+Message 23:
+ERROR{EOM}{EOM}{EOM}
+
+Message 24:
+ERROR
+ERROR{EOM}
+
+Message 25:
+ERROR{EOM}{EOM}{EOM}
+
+Message 26:
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 27:
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR{EOM}{EOM}{EOM}
+
+Message 28:
+{WIPE}{EOM}{EOM}{EOM}
+
+Message 29:
+ERROR
+ERROR{EOM}
+
+Message 30:
+Cultivated land.{EOM}{EOM}{EOM}{EOM}
+
+Message 31:
+A {CROP_8002} seed was planted here.{EOM}{EOM}{EOM}{EOM}
+
+Message 32:
+A {CROP_8002} sprouts here.{EOM}
+
+Message 33:
+A {CROP_8002} grows here.{EOM}{EOM}{EOM}
+
+Message 34:
+A {CROP_8002} will soon bloom here.{EOM}
+
+Message 35:
+A {CROP_8002} flower blooms here.{EOM}{EOM}{EOM}
+
+Message 36:
+This {CROP_8002} is ripe.{EOM}{EOM}{EOM}
+
+Message 37:
+This {CROP_8002} will wilt soon.{EOM}{EOM}{EOM}{EOM}
+
+Message 38:
+This {CROP_8002} is dead.{EOM}{EOM}{EOM}
+
+Message 39:
+A new {CROP_8002} tree.{EOM}
+
+Message 40:
+If you till here, you can plant a seed.{EOM}
+
+Message 41:
+This {CROP_8002} is dead.{EOM}{EOM}{EOM}
+
+Message 42:
+A mature {CROP_8002} tree.{EOM}{EOM}
+
+Message 43:
+You should water this crop.{EOM}
+
+Message 44:
+This doesn't grow well during this season.{EOM}{EOM}
+
+Message 45:
+This doesn't do well close to a tree.{EOM}{EOM}{EOM}
+
+Message 46:
+You should be able to harvest this soon.{EOM}{EOM}{EOM}{EOM}
+
+Message 47:
+If you water it, it will sprout.{EOM}{EOM}{EOM}{EOM}
+
+Message 48:
+This soil is very poor.{EOM}
+
+Message 49:
+This soil is relatively fertile.{EOM}{EOM}{EOM}{EOM}
+
+Message 50:
+This soil is exceptionally fertile.{EOM}
+
+Message 51:
+Use your hoe if you don't need this crop.{EOM}{EOM}{EOM}
+
+Message 52:
+
+{EOM}{EOM}{EOM}
+
+Message 53:
+Wow! This is an unusual plant!{EOM}{EOM}
+
+Message 54:
+Hmm... This is out of the ordinary!{EOM}
+
+Message 55:
+Hmmm... This didn't turn out so well...{EOM}
+
+Message 56:
+I've seen this one before.{EOM}{EOM}
+
+Message 57:
+It's the same... and yet not quite...{EOM}{EOM}{EOM}
+
+Message 58:
+I've never seen anything like it.{EOM}{EOM}{EOM}
+
+Message 59:
+One of those {VAR_01}s, I bet.{EOM}{EOM}{EOM}{EOM}
+
+Message 60:
+This must be one of those {VAR_01}s.{EOM}{EOM}
+
+Message 61:
+That's one of those {VAR_01}s.{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+A strange {VAR_01}, isn't it?{EOM}
+
+Message 63:
+Why don't you name it, {PETE}?{EOM}{EOM}
+
+Message 64:
+Good season(s) to plant it would be:
+{VAR_02}{EOM}
+
+Message 65:
+Well, that's about it.{EOM}{EOM}
+
+Message 66:
+This is {VAR_00}.{EOM}
+
+Message 67:
+It tastes... {VAR_01}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+Good season(s) to plant it should be:
+{VAR_02}{EOM}{EOM}{EOM}{EOM}
+
+Message 69:
+What's up with this {VAR_00}?!{EOM}{EOM}{EOM}{EOM}
+
+Message 70:
+This is {VAR_01}!!{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+What'll I do if I get a stomach ache?!{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+

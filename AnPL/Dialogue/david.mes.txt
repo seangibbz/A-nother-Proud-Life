@@ -1,0 +1,338 @@
+Message 0:
+{PETE}...{S_3203E8}{PAUSE}
+Do you have a minute?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 1:
+The {C14}{STRUC_38}{C17} is still sleeping.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 2:
+There are many conditions that have to be
+fulfilled for the goddess to come.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 3:
+That's why we have to collect a
+lot of “nices.” We're preparing for the
+Harvest Goddess.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 4:
+All right!
+Let's go and find ourselves some
+“nices”!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 5:
+None here.{PAUSE}{EOM}
+
+Message 6:
+We're looking for “nices.”{PAUSE}{EOM}
+
+Message 7:
+Nope.{PAUSE}{EOM}{EOM}
+
+Message 8:
+Let's try somewhere else!{PAUSE}{EOM}{EOM}
+
+Message 9:
+Nope. None here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 10:
+I thought for sure there would be some
+around here...{PAUSE}{EOM}{EOM}
+
+Message 11:
+I guess not...{PAUSE}{EOM}
+
+Message 12:
+Let's look somewhere else!{PAUSE}{EOM}
+
+Message 13:
+Nope. None here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 14:
+I thought for sure there would be some
+around here...{PAUSE}{EOM}{EOM}
+
+Message 15:
+....{PAUSE}{EOM}{EOM}{EOM}
+
+Message 16:
+Let's look somewhere else!{PAUSE}{EOM}
+
+Message 17:
+None here.{PAUSE}{EOM}
+
+Message 18:
+I thought for sure there would be some
+around here...{PAUSE}{EOM}{EOM}
+
+Message 19:
+Hmmm.{PAUSE}{EOM}{EOM}
+
+Message 20:
+That's it!
+That singing voice is nice!{PAUSE}{EOM}
+
+Message 21:
+Way to go guys! Let's keep it up and
+go looking other places!{PAUSE}{EOM}{EOM}
+
+Message 22:
+...Not yet, I guess.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 23:
+Hello, {PETE}.{PAUSE}{WIPE}
+Today we have a test to see
+whether the Harvest Goddess will come to
+the {C14}{STRUC_38}{C17}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 24:
+I guess not...{PAUSE}{EOM}
+
+Message 25:
+We've got to go out and collect
+even more “nices”!{PAUSE}{EOM}
+
+Message 26:
+All right! Let's keep up the good work!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 27:
+{DRAW_02}But who could it be?{DRAW_00}{PAUSE}{WIPE}
+{DRAW_02}We're the only Harvest Sprites in this
+town.{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 28:
+{DRAW_02}{PETE}?{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 29:
+{DRAW_02}I'm Nak.
+Nice to meet you.{DRAW_00}{PAUSE}{EOM}
+
+Message 30:
+For one thing, the {C14}{STRUC_38}{C17} must be clean.{PAUSE}{EOM}
+
+Message 31:
+Your calf outgrew the
+space inside the calf hutch.{PAUSE}{WIPE}
+So we'll put the hutch in the {C14}{STRUC_23}{C17}
+and put the calf in its new home!{S_3203E8}{PAUSE}{EOM}{EOM}{EOM}
+
+Message 32:
+We put the calf that was in the calf hutch
+into its new home.
+So you won't need the calf hutch anymore.{S_3203E8}{PAUSE}{WIPE}
+We'll put it in the {C14}{STRUC_23}{C17}.{PAUSE}{EOM}
+
+Message 33:
+{PETE}...{S_3203E8}{PAUSE}{WIPE}
+Bring that one to her home.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+
+Message 34:
+A little while before she gives
+birth you'll need to isolate her.{PAUSE}{WIPE}
+From now on you'll need to do this by
+yourself, {PETE}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 35:
+I hope the calf arrives soon!{PAUSE}{EOM}{EOM}
+
+Message 36:
+{PETE}!
+Something terrible happened!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 37:
+.......................{PAUSE}{WIPE}
+The poor thing.{S_3203E8}
+You have to look after them
+more carefully...{PAUSE}{EOM}
+
+Message 38:
+{PETE}!
+We've got a new friend!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 39:
+What do you want to name it?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 40:
+{PREV_80}?
+That's a nice name!♪{PAUSE}{EOM}{EOM}{EOM}
+
+Message 41:
+We'll put {PREV_80} in the
+calf hutch.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 42:
+It's mine!{PAUSE}{EOM}
+
+Message 43:
+I found it!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 44:
+That's because I didn't realize it was a
+{C13}Blue Feather{C17}!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 45:
+Hmph!{PAUSE}{EOM}{EOM}
+
+Message 46:
+Hmph!!{PAUSE}{EOM}
+
+Message 47:
+How sad.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 48:
+I'll give it!{PAUSE}{EOM}{EOM}
+
+Message 49:
+I'm the one who gave it!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 50:
+You can't go any further that way.{PAUSE}{EOM}
+
+Message 51:
+You can't go further than this.{S_3201F4}
+But if you want to know what's going on
+over there, you should link.{PAUSE}{WIPE}
+Would you like to link to the
+Game Boy Advance game “Harvest Moon:
+More Friends of Mineral Town”?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 52:
+First, keep the Game Boy Advance off and
+insert the “Harvest Moon: More Friends of
+Mineral Town” Game Pak. After connecting{PAUSE}
+it to the Nintendo GameCube, turn on the
+Game Boy Advance. This game can only{PAUSE}{WIPE}
+link to data from “More Friends of
+Mineral Town.”{PAUSE}
+and only with data that hasn't already
+connected with a different game.{S_3201F4}
+So, do you want to link now?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+
+Message 53:
+OK, come back later when you want
+to link.{PAUSE}{EOM}
+
+Message 54:
+All right...{S_3201F4} Come back later when
+you want to link again.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 55:
+{PETE}!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 56:
+{PETE}! Welcome.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 57:
+I hope something fun happens.{PAUSE}{EOM}{EOM}
+
+Message 58:
+I was thinking of something fun!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 59:
+Talk to Flak, too!{PAUSE}{EOM}
+
+Message 60:
+Talk to Nik, too!{PAUSE}{EOM}{EOM}
+
+Message 61:
+You're our friend, {PETE}.
+You're a good person, so I like you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 62:
+You should share happy things with others.
+Then everyone will be happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 63:
+We've been here since before there
+were people living in the valley.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 64:
+Don't take too much food away
+from the forest.
+There won't be any left for us!{PAUSE}{EOM}
+
+Message 65:
+The people in {C14}{STRUC_30}{C17} are funny.
+So we go to see them all the time.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 66:
+Wow, that's amazing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 67:
+You can't use that here.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 68:
+We don't need those.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 69:
+We know about those, too.{PAUSE}{EOM}{EOM}
+
+Message 70:
+We carry those to all places... to help
+flowers spread.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 71:
+That's a baby plant.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 72:
+Is that your dinner?{PAUSE}{EOM}{EOM}{EOM}
+
+Message 73:
+I'm hungry...{PAUSE}{EOM}{EOM}
+
+Message 74:
+I think we'll eat soon.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 75:
+Did you grow that at {FARM} Farm?
+Good job!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 76:
+It must have taken a lot of work to grow!
+I bet it's delicious!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 77:
+Eat it while it's fresh and tasty!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 78:
+Did you make that at {FARM} Farm?
+Amazing!!{PAUSE}{EOM}
+
+Message 79:
+You've taken good care of your animals!
+I'm sure it's delicious!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 80:
+That's a gift from the animals to you,
+{PETE}! Be thankful!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 81:
+What is that??{PAUSE}{EOM}
+
+Message 82:
+How do you eat that??{PAUSE}{EOM}{EOM}
+
+Message 83:
+Can you use that for something??{PAUSE}{EOM}{EOM}{EOM}
+
+Message 84:
+Today is the day we test if the Harvest
+Goddess will come to the spring.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 85:
+Harvest Goddess?!{PAUSE}{EOM}{EOM}
+
+Message 86:
+Harvest Goddess!♪{PAUSE}{EOM}{EOM}
+
+Message 87:
+Yes!{PAUSE}{EOM}{EOM}{EOM}
+
+Message 88:
+I guess not.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 89:
+OK, we'll just have to work harder!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+
+Message 90:
+Me too!{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+
