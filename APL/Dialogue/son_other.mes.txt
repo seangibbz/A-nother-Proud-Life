@@ -221,7 +221,7 @@ Message 67:
 Cawwy...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 68:
-{S_3401A7}Dad, I'm not a kid
+{S_3401A7}Mom, I'm not a kid
 anymore! {PAUSE}{EOM}{EOM}
 
 Message 69:
@@ -229,45 +229,45 @@ Message 69:
 want! {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 70:
-{S_3401A7}Dad, I'm not a baby
+{S_3401A7}Mom, I'm not a baby
 anymore! {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 71:
 {S_3401A7}What are you doing!?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 72:
-{S_3401A7}Stop , Dad.
+{S_3401A7}Stop it Mom.
 I'm not a little
-baby anymore okay? {PAUSE}{EOM}{EOM}
+baby anymoreK okay?
 
 Message 73:
-{S_3401A7}Dad, I'm not a
-child anymore. {PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{S_3401A7}Mom, I'm not a
+child anymore.
 
 Message 74:
-{S_3401A7}Stop it.
+ {PAUSE}{EOM}{EOM}{S_3401A7}Stop it.
 Can't you see I'm
-not a baby anymore? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+not a baby anymore? {PAUSE}
 
 Message 75:
-{S_3401A7}Just stop
-okay, Dad? {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{S_3401A7}Just stop
+okay, Mom?
 
 Message 76:
-{S_3401A9}Hey, stop.
-I'm not kidding. {PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}{S_3401A9}Hey, stop.
+I'm not kiddingへ
 
 Message 77:
-{S_3401A8}Hey, I'm not
-a kid anymore. {PAUSE}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{S_3401A8}Hey, I'm not
+a kid anymore.
 
 Message 78:
-{S_3401A9}What the heck,
-Pop! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{S_3401A9}What the heck,
+Ma! {PAUSE}{EOM}{EOM}
 
 Message 79:
-{S_3401A9}What the heck,
-Pop! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{S_3401A9}What the heck,
+Ma! {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 80:
 Please stop it. {PAUSE}{EOM}{EOM}

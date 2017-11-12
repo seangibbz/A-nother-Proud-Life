@@ -516,7 +516,7 @@ Message 95:
 I see...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 96:
-I guess your Dad
+I guess your Mom
 needs you now. I'll
 talk to you later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 

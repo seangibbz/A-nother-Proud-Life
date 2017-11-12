@@ -255,7 +255,7 @@ out of here. {PAUSE}{EOM}
 Message 54:
 {S_340193}{FACE_020003}Isn't it nice,
 {TATSUYA}?{PAUSE}{WIPE}
-See how Daddy picks
+See how Mommy picks
 you up? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 55:

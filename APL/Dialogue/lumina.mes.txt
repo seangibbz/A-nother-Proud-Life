@@ -115,7 +115,7 @@ Where did you get
 that thing from...? {PAUSE}{EOM}{EOM}
 
 Message 27:
-{FACE_09000A}Awwwwm, how cute! {PAUSE}{EOM}{EOM}
+{FACE_09000A}Awwwww, how cute! {PAUSE}{EOM}{EOM}
 
 Message 28:
 {FACE_09000A}He's so cute! {PAUSE}{EOM}{EOM}

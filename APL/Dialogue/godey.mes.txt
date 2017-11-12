@@ -52,7 +52,7 @@ Message 10:
 okay shape... {PAUSE}{EOM}{EOM}
 
 Message 11:
-Your Dad came to
+Your Mom came to
 pick you up, so
 go home. {PAUSE}{EOM}
 

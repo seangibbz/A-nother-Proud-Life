@@ -1012,7 +1012,7 @@ Message 180:
 light pink-purple
 color right? {PAUSE}{WIPE}
 Wow, you know
-a lot, Dad!{PAUSE}{EOM}{EOM}
+a lot, Mom!{PAUSE}{EOM}{EOM}
 
 Message 181:
 {FACE_010001}Things are pretty
@@ -1304,7 +1304,7 @@ you need to workout
 to go pro...? {PAUSE}{EOM}{EOM}
 
 Message 229:
-{FACE_010001}Dad, is farm work
+{FACE_010001}Mom, is farm work
 fun?
 {CHOICE3 DEF0}
 Not at all.
@@ -1406,7 +1406,7 @@ I was brought up on
 a farm after all. {PAUSE}{EOM}
 
 Message 245:
-{FACE_010023}Hey, Dad.
+{FACE_010023}Hey, Mom.
 {FACE_010000}Do you want me to
 be a farmer like {PAUSE}
 you?
@@ -1440,7 +1440,7 @@ Message 249:
 life as a farmer. {PAUSE}{EOM}{EOM}
 
 Message 250:
-{FACE_010001}Dad, there's a
+{FACE_010001}Mom, there's a
 tree that closes
 it's leaves up {PAUSE}
 when it gets dark,
@@ -1477,7 +1477,7 @@ the beauty in
 dried flowers. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 257:
-{FACE_010001}Dad, have you ever
+{FACE_010001}Mom, have you ever
 seen {GRIFFIN} live
 before?
 {CHOICE2 DEF0}
@@ -1594,7 +1594,7 @@ first in the heart
 of the artist. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 276:
-{FACE_010001}Hey, Dad.
+{FACE_010001}Hey, Mom.
 {WALLY} is a lot faster
 than you right?
 {CHOICE2 DEF0}
@@ -1665,7 +1665,7 @@ Okay, okay... {PAUSE}{WIPE}
 What's 2,654 plus
 398? {S_3203E8}{WIPE}
 ....................
-{FACE_010009}Um, Dad? Are you
+{FACE_010009}Um, Mom? Are you
 feeling okay? {PAUSE}{EOM}
 
 Message 288:

@@ -381,7 +381,7 @@ Message 87:
 Is that a seed?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 88:
-Is that form your
+Is that from your
 farm? Looks pretty
 good.{PAUSE}{EOM}{EOM}
 
@@ -1938,7 +1938,7 @@ a good young man.{PAUSE}{EOM}
 Message 401:
 {TATSUYA} is
 tougher than his
-father now...{PAUSE}{WIPE}
+mother now...{PAUSE}{WIPE}
 ...It might be time
 for me to retire...{PAUSE}{EOM}
 
@@ -2025,7 +2025,7 @@ run a farm together.{PAUSE}{EOM}
 
 Message 416:
 He decided to{S_3203E8}
-follow his father's
+follow his mother's
 footsteps. {S_3203E8}
 He's working hard to
 learn about farming.{S_3203E8}
@@ -2040,7 +2040,7 @@ grew up here.{S_3201F4}
 He knows what to do.{S_3203E8}
 He might become a
 better farmer than
-his father.{S_3201F4}
+his mother.{S_3201F4}
 It could happen,
 you know. {S_3207D0}{EOM}{EOM}{EOM}
 
@@ -2055,7 +2055,7 @@ Really well...{S_3207D0}{EOM}{EOM}
 
 Message 419:
 He decided to follow
-his father's
+his mother's
 footsteps. {S_3203E8}
 He seems to like
 growing crops...{S_3207D0}{EOM}
@@ -2176,7 +2176,7 @@ His team lost that
 day, but they'll do
 well...{S_3207D0}
 ...Do I sound like
-his father...?{PAUSE}{EOM}{EOM}{EOM}
+his mother...?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 433:
 He loved to read.

@@ -1,15 +1,15 @@
 Message 0:
-Daddy, carry me,
+Mommy, carry me,
 carry me!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 1:
-Daddy, carry me...{PAUSE}{EOM}
+Mommy, carry me...{PAUSE}{EOM}
 
 Message 2:
-Daddy, carry me!!{PAUSE}{EOM}{EOM}{EOM}
+Mommy, carry me!!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 3:
-Daddy, more!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Mommy, more!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 4:
 ...Hee hee...{PAUSE}{EOM}{EOM}
@@ -27,7 +27,7 @@ Message 8:
 Goin' my beeeeed!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 9:
-Night-night, Daddy!{PAUSE}{EOM}{EOM}
+Night-night, Mommy!{PAUSE}{EOM}{EOM}
 
 Message 10:
 Nighty-night!{PAUSE}{EOM}
@@ -39,13 +39,13 @@ Message 12:
 Yaaawn...{PAUSE}{EOM}
 
 Message 13:
-Good mornin', Daddy!{PAUSE}{EOM}
+Good mornin', Mommy!{PAUSE}{EOM}
 
 Message 14:
 Yah!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 15:
-Good night, Daddy.{PAUSE}{EOM}
+Good night, Mommy.{PAUSE}{EOM}
 
 Message 16:
 Nooooo, I'm not
@@ -58,7 +58,7 @@ Message 18:
 ...Mmmm... ...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 19:
-Mornin', Daddy.{PAUSE}{EOM}{EOM}
+Mornin', Mommy.{PAUSE}{EOM}{EOM}
 
 Message 20:
 Goin' night-night...{PAUSE}{EOM}{EOM}{EOM}{EOM}
@@ -70,19 +70,19 @@ Message 22:
 Go night-night...{PAUSE}{EOM}{EOM}
 
 Message 23:
-Night-night, Daddy.{PAUSE}{EOM}{EOM}
+Night-night, Mommy.{PAUSE}{EOM}{EOM}
 
 Message 24:
 ...Yaaawn.....{PAUSE}{EOM}{EOM}{EOM}
 
 Message 25:
-Mornin', Daddy!{PAUSE}{EOM}{EOM}
+Mornin', Mommy!{PAUSE}{EOM}{EOM}
 
 Message 26:
 Yeah!{PAUSE}{EOM}
 
 Message 27:
-Good night, Daddy!{PAUSE}{EOM}
+Good night, Mommy!{PAUSE}{EOM}
 
 Message 28:
 But I want to
@@ -105,17 +105,17 @@ Message 33:
 Good morning!{PAUSE}{EOM}{EOM}
 
 Message 34:
-Good morning, Dad.
+Good morning, Mom.
 You're up early.{PAUSE}{EOM}{EOM}
 
 Message 35:
-Good morning, Dad.
+Good morning, Mom.
 Good morning, Mom.
 You two are early.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 36:
 I'm going to bed now.
-Good night, Dad.{PAUSE}{EOM}{EOM}
+Good night, Mom.{PAUSE}{EOM}{EOM}
 
 Message 37:
 ...Mmmmm...{PAUSE}{EOM}
@@ -128,7 +128,7 @@ You're up early.{PAUSE}{EOM}
 
 Message 40:
 I'm going to bed now.
-Good night, Dad.{PAUSE}{EOM}{EOM}
+Good night, Mom.{PAUSE}{EOM}{EOM}
 
 Message 41:
 ...Yaawn...{PAUSE}{EOM}
@@ -138,16 +138,16 @@ Mornin'...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 43:
 You're up early,
-Dad!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Mom!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 44:
-Good morning, Dad.
+Good morning, Mom.
 Good morning, Mom.
 You're up early.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 45:
 I'm going to bed now.
-Good night, Dad.{PAUSE}{EOM}{EOM}
+Good night, Mom.{PAUSE}{EOM}{EOM}
 
 Message 46:
 {FACE_010001}Haaaai?{PAUSE}{EOM}
@@ -170,7 +170,7 @@ Message 51:
 ♪White flowers...♪{PAUSE}{EOM}
 
 Message 52:
-...Dad...{PAUSE}{EOM}
+...Mom...{PAUSE}{EOM}
 
 Message 53:
 Runnin' fast...{PAUSE}{EOM}{EOM}
@@ -182,16 +182,16 @@ Message 55:
 ...Can't you see?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 56:
-Good luck, Daddy!!{PAUSE}{EOM}
+Good luck, Mommy!!{PAUSE}{EOM}
 
 Message 57:
-Dad?{PAUSE}{EOM}{EOM}{EOM}
+Mom?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 58:
 ...Mom...{PAUSE}{EOM}
 
 Message 59:
-Good luck, Dad!!{PAUSE}{EOM}
+Good luck, Mom!!{PAUSE}{EOM}
 
 Message 60:
 {GUSTAFA} is such a
@@ -228,7 +228,7 @@ I think I like
 this shape...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 68:
-Oh, Dad!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Oh, Mom!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 69:
 ...See you later.{PAUSE}{EOM}{EOM}{EOM}
@@ -239,7 +239,7 @@ But...pant pant...
 I lost...pant pant...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 71:
-Oh, Dad!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Oh, Mom!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 72:
 I was just trying
@@ -296,7 +296,7 @@ Message 83:
 I really like the
 farm.{S_3203E8}{PAUSE}{WIPE}
 So, I want to learn
-more and help Dad.{PAUSE}{EOM}{EOM}{EOM}
+more and help Mom.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 84:
 But, he's really
@@ -325,7 +325,7 @@ Listening to
 makes me so happy!{PAUSE}{EOM}{EOM}
 
 Message 90:
-Oh, Dad!
+Oh, Mom!
 I was just listening
 to {GUSTAFA} play.{PAUSE}{EOM}{EOM}{EOM}
 
@@ -422,7 +422,7 @@ Message 109:
 I'll think about it.{PAUSE}{EOM}{EOM}
 
 Message 110:
-Hey, Dad! {PAUSE}{EOM}
+Hey, Mom! {PAUSE}{EOM}
 
 Message 111:
 Shh! {DARYL}'s
@@ -449,7 +449,7 @@ me about his research
 on energy!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 116:
-{FACE_01000C}Dad, why did you
+{FACE_01000C}Mom, why did you
 start farming? {PAUSE}{FACE_010000}{EOM}
 
 Message 117:
@@ -535,7 +535,7 @@ Message 133:
 in here.{PAUSE}{WIPE}
 Look, my hands are
 getting wrinkled.
-How about yours, Dad?{PAUSE}{WIPE}
+How about yours, Mom?{PAUSE}{WIPE}
 ...Hey, your hands...{DRAW_00}{PAUSE}{EOM}{EOM}{EOM}
 
 Message 134:
@@ -568,258 +568,258 @@ Message 138:
 {FACE_010000}......{PAUSE}{EOM}{EOM}{EOM}
 
 Message 139:
-No, Dad! I didn't do
+No, Mom! I didn't do
 anything bad. I just
 thought it'd be nice{PAUSE}
-to spend a quality
-father-and-son time
-together.{PAUSE}{EOM}{EOM}{EOM}
+to spend some
+quality mother-son
+time together.{PAUSE}{EOM}{EOM}{EOM}N
 
 Message 140:
-No, Dad... I didn't
+o, Mom... I didn't
 do anything...{PAUSE}{WIPE}
-Jus wanted to spend
-a quality time
-with you...{PAUSE}{EOM}
+I just wanted to spend
+some quality time
+with yoヲ
 
 Message 141:
-{FACE_010003}Come on, Dad.{PAUSE}{EOM}{EOM}{EOM}
+{EC}...{PAUSE}{EOM}{FACE_010003}Come on, Mこ
 
 Message 142:
-Dad...{PAUSE}{EOM}{EOM}{EOM}
+{E6}m.{PAUSE}{EOM}{EOM}{EOM}Momし
 
 Message 143:
-Hey, Dad...{S_3201F4}
+{C8}..{PAUSE}{EOM}{EOM}{EOM}Hey, Mom...{S_3201F4}
 Can I talk to you?
 {CHOICE3 DEF0}
 What is it?
 Later, I'm busy.
-I've got no money.{EOM}{EOM}
+I've got no moし
 
 Message 144:
-......I see.{S_3201F4}
-Never mind, then...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{E5}ey.{EOM}{EOM}......I see.{S_3201F4}
+Never mind, then.
 
 Message 145:
-That's not what
-I wanted!{PAUSE}{EOM}
+..{PAUSE}{EOM}{EOM}{EOM}{EOM}That's not what
+I wanた
 
 Message 146:
-{FACE_010009}...Umm...{PAUSE}{EOM}
+{EB}ed!{PAUSE}{EOM}{FACE_010009}...UmW
 
 Message 147:
-{FACE_01001A}Do you think Kate
+{E4}...{PAUSE}{EOM}{FACE_01001A}Do you think Kate
 and Hugh...{S_3201F4}like...
 ...each other?...{PAUSE}
 {CHOICE3 DEF0}
 I think so.
 I doubt it.
-Do you like Hugh?{EOM}{EOM}
+Do you like Hケ
 
 Message 148:
-You think so, huh? {S_3201F4}
-...I see.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EC}gh?{EOM}{EOM}You think so, huh? {S_3201F4}
+...I se
 
 Message 149:
-......Dad...{PAUSE}{EOM}{EOM}{EOM}
+e.{PAUSE}{EOM}{EOM}{EOM}{EOM}......Momぢ
 
 Message 150:
-Now what am I
+{C8}..{PAUSE}{EOM}{EOM}{EOM}Now what am I
 going to do!?
 {CHOICE2 DEF0}
 Just accept it.
-Win her over!{EOM}{EOM}{EOM}
+Win her ov
 
 Message 151:
-{FACE_010009}So I should
+er!{EOM}{EOM}{EOM}{FACE_010009}So I should
 just...{S_3201F4}
-give up...?{PAUSE}{EOM}{EOM}{EOM}
+give up.と
 
 Message 152:
-{FACE_01001E}!{S_3200C8}.{S_3200C8}.{S_3200C8}.{S_3200C8}
+{C8}.?{PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}!{S_3200C8}.{S_3200C8}.{S_3200C8}.{S_3200C8}
 You mean I should...
-But what about Hugh!?{PAUSE}{EOM}
+But what about Huぽ
 
 Message 153:
-What do you think
+{DE}h!?{PAUSE}{EOM}What do you think
 of Kate and
-Hugh, Mom?{PAUSE}{EOM}{EOM}{EOM}
+Hugh, Mぽ
 
 Message 154:
-{FACE_010001}I have to think
+{E6}m?{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}I have to think
 more about this...{S_3201F4}
-About her...{PAUSE}{EOM}{EOM}
+About her
 
 Message 155:
-Thanks, Dad!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+...{PAUSE}{EOM}{EOM}Thanks, Mo
 
 Message 156:
-{FACE_010001}I see...{S_3201F4}
+m!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010001}I see...{S_3201F4}
 If I can just become
-a cool guy...!{PAUSE}{EOM}
+a cool guyざ
 
 Message 157:
-...Like you, Dad!{PAUSE}{EOM}{EOM}{EOM}
+{C8}..!{PAUSE}{EOM}...Like you, Mる
 
 Message 158:
-You...{S_3201F4}you're right!{S_3201F4}
+{E6}m!{PAUSE}{EOM}{EOM}{EOM}You...{S_3201F4}you're right!{S_3201F4}
 I bet they're just
 good friends!{PAUSE}{WIPE}
 There's hope
 for me after all!
 {CHOICE2 DEF0}
 I don't know...
-Sure!{EOM}{EOM}{EOM}{EOM}
+Suろ
 
 Message 159:
-...!!{S_3201F4}
+{E9}e!{EOM}{EOM}{EOM}{EOM}...!!{S_3201F4}
 Why would you say
 something like that?!
 {CHOICE2 DEF0}
 Just kidding.
-No chance, son.{EOM}{EOM}{EOM}{EOM}
+No chance, sし
 
 Message 160:
-Ha ha, Dad...
+{E6}n.{EOM}{EOM}{EOM}{EOM}Ha ha, Mom...
 Very funny...{S_3201F4}
-But Hugh's cool...{PAUSE}{EOM}{EOM}{EOM}
+But Hugh's cooln
 
 Message 161:
-Hugh is quite a
-rival, but...{PAUSE}{EOM}{EOM}
+{C8}..{PAUSE}{EOM}{EOM}{EOM}Hugh is quite a
+rival, but
 
 Message 162:
-I've got to become
+...{PAUSE}{EOM}{EOM}I've got to become
 someone to match
-him, that's all!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+him, that's al
 
 Message 163:
-That's it!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+l!{PAUSE}{EOM}{EOM}{EOM}{EOM}That's i
 
 Message 164:
-....Oh, never mind!{PAUSE}{WIPE}
+t!{PAUSE}{EOM}{EOM}{EOM}{EOM}....Oh, never mind!{PAUSE}{WIPE}
 I was wrong to
-even ask you!{PAUSE}{EOM}{EOM}
+even ask y
 
 Message 165:
-{FACE_010009}I have to
-ask you something...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+ou!{PAUSE}{EOM}{EOM}{FACE_010009}I have to
+ask you something.
 
 Message 166:
-Is it wrong to fall
+..{PAUSE}{EOM}{EOM}{EOM}{EOM}Is it wrong to fall
 in love with somebody
 10 years older?
 {CHOICE2 DEF0}
 Of course not!
-Pretty odd, I'd say.{EOM}
+Pretty odd, I'd 
 
 Message 167:
-{FACE_010009}Do you really
+say.{EOM}{FACE_010009}Do you really
 think so?
 {CHOICE3 DEF0}
 Forget about her.
 No, I don't.
-Who do you like?{EOM}
+Who do you l
 
 Message 168:
-It's...{S_3201F4}{S_340040}
-...Lumina.{PAUSE}{EOM}{EOM}
+ike?{EOM}It's...{S_3201F4}{S_340040}
+...Lumi
 
 Message 169:
-{FACE_010009}Mom...{PAUSE}{EOM}{EOM}{EOM}
+na.{PAUSE}{EOM}{EOM}{FACE_010009}Moms
 
 Message 170:
-I feel better now.{S_3201F4}
-Thanks...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{C8}..{PAUSE}{EOM}{EOM}{EOM}I feel better now.{S_3201F4}
+Thanks.
 
 Message 171:
-....................
-..........{PAUSE}{EOM}{EOM}
+..{PAUSE}{EOM}{EOM}{EOM}{EOM}....................
+.......
 
 Message 172:
-...You wouldn't know
-how I feel.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+...{PAUSE}{EOM}{EOM}...You wouldn't know
+how I fee
 
 Message 173:
-....................
+l.{PAUSE}{EOM}{EOM}{EOM}{EOM}....................
 ..........
 {CHOICE3 DEF0}
 Is it Lumina?
 Romana?
-Takakura?{EOM}
+Takak
 
 Message 174:
-{FACE_01001E}Of course not!{PAUSE}{EOM}
+ura?{EOM}{FACE_01001E}Of course ぽ
 
 Message 175:
-Dad! What's going on?
-...Dad...!{PAUSE}{EOM}{EOM}{EOM}
+{E5}ot!{PAUSE}{EOM}Mom! What's going on?
+...Mom.ぽ
 
 Message 176:
-Dad...!{PAUSE}{EOM}
+{C8}.!{PAUSE}{EOM}{EOM}{EOM}Momo
 
 Message 177:
-...Dad...{PAUSE}{EOM}
+{C8}..!{PAUSE}{EOM}...Mos
 
 Message 178:
-{FACE_01001F}Hey, Dad!{PAUSE}{EOM}{EOM}
+{E4}...{PAUSE}{EOM}{FACE_01001F}Hey, M
 
 Message 179:
-{FACE_01000A}Look! Look!{PAUSE}{EOM}{EOM}
+om!{PAUSE}{EOM}{EOM}{FACE_01000A}Look! Lo
 
 Message 180:
-Look at this piece
+ok!{PAUSE}{EOM}{EOM}Look at this piece
 of wood!
-Isn't it something?!{PAUSE}{EOM}{EOM}{EOM}
+Isn't it somethinぞ
 
 Message 181:
-I found it behind the
+{DE}?!{PAUSE}{EOM}{EOM}{EOM}I found it behind the
 chicken coop. Isn't
 it cool like a spy!?
 {CHOICE3 DEF0}
 Cool!
 Throw it away.
-Why a spy?{EOM}{EOM}{EOM}{EOM}
+Why a sぐ
 
 Message 182:
-{S_3401A5}Hee hee, it's
-my treasure!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{E7}y?{EOM}{EOM}{EOM}{EOM}{S_3401A5}Hee hee, it's
+my treasur
 
 Message 183:
-If you find anything
+e!{PAUSE}{EOM}{EOM}{EOM}{EOM}If you find anything
 cooler than this,
 tell me, okay!?{PAUSE}{WIPE}
 I'm going to
-pick it up.{PAUSE}{EOM}{EOM}
+pick it 
 
 Message 184:
-Mmm...
-I gotta go pee!{PAUSE}{EOM}{EOM}{EOM}
+up.{PAUSE}{EOM}{EOM}Mmm...
+I gotta go pむ
 
 Message 185:
-{FACE_010005}No! It's my
+{DC}e!{PAUSE}{EOM}{EOM}{EOM}{FACE_010005}No! It's my
 treasure!
 {CHOICE2 DEF0}
 Toss it, NOW.
-You silly boy.{EOM}{EOM}
+You silly そ
 
 Message 186:
-No!{PAUSE}{EOM}
+{D9}oy.{EOM}
 
 Message 187:
-I hate you, Dad!{PAUSE}{EOM}{EOM}
+{EOM}No!{PAUSE}{EOM}I hate you, M
 
 Message 188:
-I'll never
-throw it away.{PAUSE}{EOM}
+om!{PAUSE}{EOM}{EOM}I'll never
+throw it aむ
 
 Message 189:
-{FACE_010002}Don't throw it
+{EE}ay.{PAUSE}{EOM}{FACE_010002}Don't throw it
 away when I'm not
-around, okay?{PAUSE}{EOM}{EOM}{EOM}
+around, okぞ
 
 Message 190:
-When bad people come
+{D8}y?{PAUSE}{EOM}{EOM}{EOM}When bad people come
 to attack, he goes,
 swoosh!{S_3401A6}{PAUSE}{WIPE}
 to dodge their
@@ -828,196 +828,196 @@ have a weapon, but{PAUSE}
 he always wins!
 {CHOICE2 DEF0}
 That's not a spy.
-Wow, cool!{EOM}{EOM}{EOM}{EOM}
+Wow, coW
 
 Message 191:
-{FACE_010009}He's a spy!{PAUSE}{EOM}{EOM}{EOM}
+{E6}l!{EOM}{EOM}{EOM}{EOM}{FACE_010009}He's a sオ
 
 Message 192:
-{S_3401A7}You wouldn't
-understand, Dad...{PAUSE}{EOM}
+{E7}y!{PAUSE}{EOM}{EOM}{EOM}{S_3401A7}You wouldn't
+understand, Moぽ
 
 Message 193:
-{FACE_01001A}Mmm, I have to go!{PAUSE}{EOM}{EOM}{EOM}
+{E4}...{PAUSE}{EOM}{FACE_01001A}Mmm, I have to ぺ
 
 Message 194:
-What is it, Dad?
+{DE}o!{PAUSE}{EOM}{EOM}{EOM}What is it, Mom?
 {CHOICE2 DEF0}
 What's this box?
-It's nothing.{EOM}{EOM}{EOM}
+It's nothi
 
 Message 195:
-I picked it up
+ng.{EOM}{EOM}{EOM}I picked it up
 on the beach.
 {CHOICE3 DEF0}
 Throw it away.
 I see.
-It's cool.{EOM}{EOM}{EOM}{EOM}
+It's co0
 
 Message 196:
-{FACE_010009}{S_3401A7}I don't want to!
+{E6}l.{EOM}{EOM}{EOM}{EOM}{FACE_010009}{S_3401A7}I don't want to!
 I like it!
 {CHOICE2 DEF0}
 Throw it away!
-Oh, whatever.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Oh, whateve
 
 Message 197:
-{FACE_010005}No way! It's mine!{PAUSE}{EOM}{EOM}
+r.{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010005}No way! It's mi
 
 Message 198:
-Just don't throw it
+ne!{PAUSE}{EOM}{EOM}Just don't throw it
 away when I'm
-not looking, okay!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+not looking, oka
 
 Message 199:
-You'd better not
+y!{PAUSE}{EOM}{EOM}{EOM}{EOM}You'd better not
 throw it away when
-I'm not looking!{FACE_01000D}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+I'm not looking!
 
 Message 200:
-I'm going to the
-bathroom.{PAUSE}{EOM}{EOM}{EOM}
+{FACE_01000D}{PAUSE}{EOM}{EOM}{EOM}{EOM}I'm going to the
+bathroケ
 
 Message 201:
-I don't know why,
-I just like it.{FACE_01000A}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{E6}m.{PAUSE}{EOM}{EOM}{EOM}I don't know why,
+I just like it.
 
 Message 202:
-Don't carry it off
-now!{FACE_01000D}{PAUSE}{EOM}
+{FACE_01000A}{PAUSE}{EOM}{EOM}{EOM}{EOM}Don't carry it off
+noむ
 
 Message 203:
-{FACE_010000}I'm going to the
-bathroom.{PAUSE}{EOM}{EOM}{EOM}
+{EE}!{FACE_01000D}{PAUSE}{EOM}{FACE_010000}I'm going to the
+bathroへ
 
 Message 204:
-{S_3401A5}{FACE_01000A}You like it, too?
+{E6}m.{PAUSE}{EOM}{EOM}{EOM}{S_3401A5}{FACE_01000A}You like it, too?
 I'm glad!
-Now look here...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Now look here.
 
 Message 205:
-It looks like a code
-written on the side!{PAUSE}{EOM}
+..{PAUSE}{EOM}{EOM}{EOM}{EOM}It looks like a code
+written on the sV
 
 Message 206:
-I wonder what it
+{E0}de!{PAUSE}{EOM}I wonder what it
 could be...?
 {CHOICE3 DEF0}
 I have no idea.
 It says: "Fragile".
-"Whoopie Cushions".{EOM}
+"Whoopie Cushio
 
 Message 207:
-Even you don't
+ns".{EOM}Even you don't
 know...?
-{FACE_010009}Hmm...{PAUSE}{EOM}{EOM}{EOM}
+{FACE_010009}Hmmぽ
 
 Message 208:
-I bet it's something
+{C8}..{PAUSE}{EOM}{EOM}{EOM}I bet it's something
 secret! Someone evil
 might come looking{PAUSE}
-for it...!{FACE_010023}{PAUSE}{EOM}{EOM}{EOM}
+for it...V
 
 Message 209:
-We've got to make a
+{CB}{FACE_010023}{PAUSE}{EOM}{EOM}{EOM}We've got to make a
 plan...! I'll think
 about it while I{PAUSE}
-go to the bathroom.{PAUSE}{EOM}
+go to the bathrV
 
 Message 210:
-{S_3401A6}Wow!
+{E6}om.{PAUSE}{EOM}{S_3401A6}Wow!
 I can't believe you
 can read the code!{PAUSE}{WIPE}
-You're like a spy!{PAUSE}{EOM}{EOM}
+You're like a s
 
 Message 211:
-{FACE_010023}Okay...I have to
+py!{PAUSE}{EOM}{EOM}{FACE_010023}Okay...I have to
 train too...{PAUSE}{WIPE}
 {S_3401A7}First is covert
 operations. Let's see
 how secretly I can{PAUSE}
-go to the bathroom.{PAUSE}{EOM}{EOM}{EOM}
+go to the bathro0
 
 Message 212:
-I see.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{E6}m.{PAUSE}{EOM}{EOM}{EOM}I se
 
 Message 213:
-I'm going to the
-bathroom.{PAUSE}{EOM}{EOM}{EOM}
+e.{PAUSE}{EOM}{EOM}{EOM}{EOM}I'm going to the
+bathroゆ
 
 Message 214:
-{FACE_010003}Dad!!{PAUSE}{EOM}
+{E6}m.{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}M0
 
 Message 215:
-{FACE_010003}Let's take
-a bath!!!{PAUSE}{EOM}{EOM}
+{E6}m!!{PAUSE}{EOM}{FACE_010003}Let's take
+a bath
 
 Message 216:
-Wheee!
-A bath...!!{PAUSE}{EOM}
+!!!{PAUSE}{EOM}{EOM}Wheee!
+A bath.だ
 
 Message 217:
-Okay!!{PAUSE}{EOM}{EOM}{EOM}
+{C8}.!!{PAUSE}{EOM}Oka0
 
 Message 218:
-{DRAW_02}♪♪I love to
+{F0}!!{PAUSE}{EOM}{EOM}{EOM}{DRAW_02}♪♪I love to
 take baths...♪♪
-La-dee-da...♪♪{S_3203E8}{DRAW_00}{PAUSE}{EOM}
+La-dee-da...♪
 
 Message 219:
-{DRAW_02}1...2...3...
+♪{S_3203E8}{DRAW_00}{PAUSE}{EOM}{DRAW_02}1...2...3...
 4...5...6...7...
-8...9...10!!{S_3205DC}{DRAW_00}{PAUSE}{EOM}{EOM}
+8...9...10!シ
 
 Message 220:
-Yippee!!
-I feel so clean!{PAUSE}{EOM}
+{CB}{S_3205DC}{DRAW_00}{PAUSE}{EOM}{EOM}Yippee!!
+I feel so clし
 
 Message 221:
-Mmmm......{PAUSE}{EOM}{EOM}{EOM}
+{DC}an!{PAUSE}{EOM}Mmmm...W
 
 Message 222:
-{FACE_010001}Dad.{PAUSE}{EOM}{EOM}{EOM}
+{C8}..{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Mm
 
 Message 223:
-{FACE_01001A}Let's take a
-bath now...please?{PAUSE}{EOM}
+{E6}m.{PAUSE}{EOM}{EOM}{EOM}{FACE_01001A}Let's take a
+bath now...pleぽ
 
 Message 224:
-I love the bath...!♪{PAUSE}{EOM}{EOM}
+{D8}se?{PAUSE}{EOM}I love the bath..
 
 Message 225:
-Hee hee!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+.!♪{PAUSE}{EOM}{EOM}Hee he
 
 Message 226:
-{DRAW_02}Hee hee, Dad!!
+e!{PAUSE}{EOM}{EOM}{EOM}{EOM}{DRAW_02}Hee hee, Mom!!
 That tickles!!...
-...Stop it...!!{S_3203E8}{DRAW_00}{PAUSE}{EOM}{EOM}
+...Stop it...!た
 
 Message 227:
-Yippee!!
-I feel so clean!{PAUSE}{EOM}
+{CB}{S_3203E8}{DRAW_00}{PAUSE}{EOM}{EOM}Yippee!!
+I feel so clし
 
 Message 228:
-............{PAUSE}{EOM}{EOM}{EOM}
+{DC}an!{PAUSE}{EOM}.........0
 
 Message 229:
-What are you doing?!
-Get out of my room!!{PAUSE}{EOM}
+{C8}..{PAUSE}{EOM}{EOM}{EOM}What are you doing?!
+Get out of my roぽ
 
 Message 230:
-Don't come into my
+{E6}m!!{PAUSE}{EOM}Don't come into my
 room without
-asking, okay...?{PAUSE}{EOM}{EOM}
+asking, okay.
 
 Message 231:
-Didn't I say not to
-come into my room?!{PAUSE}{EOM}
+..?{PAUSE}{EOM}{EOM}Didn't I say not to
+come into my roす
 
 Message 232:
-Don't come in here,
-ever again!{PAUSE}{EOM}{EOM}
+{E6}m?!{PAUSE}{EOM}Don't come in here,
+ever aga
 
 Message 233:
-Dad, nooooo...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+in!{PAUSE}{EOM}{EOM}Mom, nooooo...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 

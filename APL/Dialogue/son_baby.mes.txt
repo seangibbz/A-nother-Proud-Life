@@ -1,5 +1,5 @@
 Message 0:
-Daddy, Mommy!
+Mommy, Mommy!
 Today is so clear!
 Are you going out? {PAUSE}
 Of course you'll
@@ -23,1451 +23,1451 @@ Adult son doubts {S_32012C}{S_3401A9}{S_320258}
 Adult son HEP Navi {S_32012C}{S_3401AA}{S_320258}{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 4:
-{FACE_010001}{S_3401A3}Happy new year, Dad!{PAUSE}{EOM}{EOM}{EOM}
+{FACE_010001}{S_3401A3}Happy new year, Mom!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 5:
-Moin', Dad. {PAUSE}{EOM}
+Mornin', MomW
 
 Message 6:
-Ah, Dad. {PAUSE}{EOM}{EOM}{EOM}
+{C8} {PAUSE}{EOM}Ah, Mom. 
 
 Message 7:
-{FACE_010003}{S_3401A3}Wowie, dat's nice
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Wowie, dat's nice
 ting. How muck?
 {CHOICE2 DEF0}
 100G.
-You can't buy it.{EOM}{EOM}
+You can't buy it
 
 Message 8:
-{FACE_01000B}Dat's too bad.
+.{EOM}{EOM}{FACE_01000B}Dat's too bad.
 I hab no money. {PAUSE}
-{FACE_01001A}{S_3401A3}Eh hee hee! {PAUSE}{EOM}{EOM}
+{FACE_01001A}{S_3401A3}Eh hee hee!
 
 Message 9:
-Cheap! Cheap! Daddy!{PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}Cheap! Cheap! Mommy
 
 Message 10:
-{FACE_010003}Dad, are you selling
+!{PAUSE}{EOM}{FACE_010003}Mom, are you selling
 lots of them?
 {CHOICE3 DEF0}
 Bunches!
 Not really.
-Go get customers.{EOM}{EOM}{EOM}
+Go get customersむ
 
 Message 11:
-{FACE_010003}{S_3401A3}Dat's so much fun♪ {PAUSE}{EOM}{EOM}
+{C8}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Dat's so much fun♪
 
 Message 12:
-{FACE_010008}Mmm...
+ {PAUSE}{EOM}{EOM}{FACE_010008}Mmm...
 Guess you have to
-work hawder... {PAUSE}{EOM}{EOM}
+work hawder...
 
 Message 13:
-{FACE_010003}{S_3401A3}Hey! Peoples!
-Come buy stuff! {PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010003}{S_3401A3}Hey! Peoples!
+Come buy stuffぼ
 
 Message 14:
-{FACE_010001}It'd be nice if wots
-of peoples came♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010001}It'd be nice if wots
+of peoples came♪{PAUSE}
 
 Message 15:
-{FACE_01000A}It'd be nice if wots
-of peoples came♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01000A}It'd be nice if wots
+of peoples came♪{PAUSE}
 
 Message 16:
-{FACE_01000C}No customers?{PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01000C}No customersぽ
 
 Message 17:
-{FACE_01000C}??? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{CA}{PAUSE}{EOM}{EOM}{FACE_01000C}??? {PAUSE}
 
 Message 18:
-{FACE_010002}That's to sell to the
-peoples. {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010002}That's to sell to the
+peoples. 
 
 Message 19:
-{FACE_010002}No... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010002}No... {PAUSE}
 
 Message 20:
-Shop {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Shop
 
 Message 21:
-Daddy, do you love
+ {PAUSE}{EOM}{EOM}Mommy, do you love
 Mommy?
 {CHOICE2 DEF0}
 Yes.
-What do you think?{EOM}{EOM}{EOM}{EOM}
+What do you think?
 
 Message 22:
-{FACE_01000A}{S_3401A3}Oooh...♥
-Me too♪{PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01000A}{S_3401A3}Oooh...♥
+Me tooぺ
 
 Message 23:
-{FACE_01000A}Eh heh heh, you do
+{D3}{PAUSE}{EOM}{EOM}{FACE_01000A}Eh heh heh, you do
 wight?
-{S_3401A3}Mommy likes you too! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{S_3401A3}Mommy likes you too! {PAUSE}
 
 Message 24:
-I'm getting big. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}I'm getting big. {PAUSE}
 
 Message 25:
-{S_3401A3}Buu buuu♪{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{S_3401A3}Buu buuu♪
 
 Message 26:
-Daddy!
-Diaper! Pee!{PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Mommy!
+Diaper! Pee!
 
 Message 27:
-{S_3401A6}I did it! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A6}I did it! 
 
 Message 28:
-{S_3401A6}Gwanpa Taku
-is so bwack! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A6}Gwanpa Taku
+is so bwack! 
 
 Message 29:
-{S_3401A3}We tawked... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A3}We tawked... {PAUSE}
 
 Message 30:
-Shh, Gwanpa Taku... {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Shh, Gwanpa Taku...
 
 Message 31:
-We tawked... {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}We tawked... 
 
 Message 32:
-Gwanpa Taku... {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Gwanpa Taku... 
 
 Message 33:
-Gwammy?{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Gwammy
 
 Message 34:
-Sister! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+?{PAUSE}{EOM}Sister! {PAUSE}
 
 Message 35:
-Wolly wolly. {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Wolly wolly. 
 
 Message 36:
-{FACE_01001E}{S_3401A3}Unca! Unca! {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A3}Unca! Unca!
 
 Message 37:
-Kwis! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Kwis! {PAUSE}
 
 Message 38:
-Hyu! {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Hyu!
 
 Message 39:
-Shiny gwasses. {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Shiny gwasses. 
 
 Message 40:
-{S_3401A6}{FACE_01001E}Candy! Candy! {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A6}{FACE_01001E}Candy! Candy!
 
 Message 41:
-I do it! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}I do it! {PAUSE}
 
 Message 42:
-Beawd, beawd! {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}Beawd, beawdび
 
 Message 43:
-Cape! Cape! {PAUSE}{EOM}
+{CB} {PAUSE}{EOM}Cape! CapeW
 
 Message 44:
-Pretty fwowers. {PAUSE}{EOM}
+{CB} {PAUSE}{EOM}Pretty fwowersぽ
 
 Message 45:
-{FACE_01001E}{S_3401A6}Big! Big! {PAUSE}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{FACE_01001E}{S_3401A6}Big! Big!
 
 Message 46:
-Eyebwows! Eyebwows! {PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}Eyebwows! Eyebwowsむ
 
 Message 47:
-Togetha! {PAUSE}{EOM}{EOM}
+{CB} {PAUSE}{EOM}Togetha!
 
 Message 48:
-{S_3401A3}Moi moi moi moi! {PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{S_3401A3}Moi moi moi moi!
 
 Message 49:
-Shmall eyes... {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Shmall eyes... 
 
 Message 50:
-Gwamma? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Gwamma? {PAUSE}
 
 Message 51:
-Wed hair. {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}Wed hairp
 
 Message 52:
-Pwetty wock. {PAUSE}{EOM}{EOM}{EOM}
+{C8} {PAUSE}{EOM}Pwetty wock. 
 
 Message 53:
-Mushy face. {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Mushy faceW
 
 Message 54:
-{FACE_01001E}{S_3401A3}Sister! {PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{FACE_01001E}{S_3401A3}SisterW
 
 Message 55:
-Shuquawar! {PAUSE}{EOM}{EOM}
+{CB} {PAUSE}{EOM}Shuquawar!
 
 Message 56:
-Sister? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Sister? {PAUSE}
 
 Message 57:
-Auntie? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Auntie? {PAUSE}
 
 Message 58:
-Mawin. {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Mawin.
 
 Message 59:
-Sister pwayed with
-bewwy. {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Sister pwayed with
+bewwy. 
 
 Message 60:
-{FACE_01001E}{S_3401A3}Doccy! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A3}Doccy! 
 
 Message 61:
-Soft soft! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Soft soft! 
 
 Message 62:
-Mistah {VAN}! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Mistah {VAN}t
 
 Message 63:
-...... {PAUSE}{EOM}{EOM}
+{CB} {PAUSE}{EOM}......
 
 Message 64:
-Were's Granpa Taku? {PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Were's Granpa Taku?
 
 Message 65:
-Mukumuku come! {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Mukumuku come! 
 
 Message 66:
-{FACE_01001E}{S_3401A3}Going wit uncle. {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A3}Going wit uncleる
 
 Message 67:
-{FACE_01001E}{S_3401A3}Going with auntie. {PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{FACE_01001E}{S_3401A3}Going with auntieる
 
 Message 68:
-{FACE_01001E}{S_3401A3}Going wit Gwanpa! {PAUSE}{EOM}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{FACE_01001E}{S_3401A3}Going wit Gwanpa! 
 
 Message 69:
-{FACE_01001E}{S_3401A3}Going with auntie! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A3}Going with auntieぞ
 
 Message 70:
-{FACE_01001E}{S_3401A3}Bwother!
-Pway wit me! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_01001E}{S_3401A3}Bwother!
+Pway wit me! {PAUSE}
 
 Message 71:
-Sister! Were aw you?{PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Sister! Were aw youケ
 
 Message 72:
-Wanna go dere! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{CA}{PAUSE}{EOM}{EOM}Wanna go dere! {PAUSE}
 
 Message 73:
-Gwanpa Taku...
-were aw you? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Gwanpa Taku...
+were aw you? {PAUSE}
 
 Message 74:
-Mukumuku... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Mukumuku... {PAUSE}
 
 Message 75:
-Unca... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Unca... {PAUSE}
 
 Message 76:
-Auntie... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Auntie... {PAUSE}
 
 Message 77:
-Were is unca? {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Were is unca?
 
 Message 78:
-Gwamma go... {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Gwamma go... 
 
 Message 79:
-Pway wit bwother... {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Pway wit bwother...
 
 Message 80:
-Wooking for sister...{PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Wooking for sister...
 
 Message 81:
-Wet's go! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Wet's goシ
 
 Message 82:
-{FACE_01000A}{S_3401A3}Fwa ha ha!
-I wike that ♥{PAUSE}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_01000A}{S_3401A3}Fwa ha ha!
+I wike that た
 
 Message 83:
-{FACE_01000A}{S_3401A3}Fwa ha ha!
-I wike that ♥{PAUSE}{EOM}{EOM}
+{D6}{PAUSE}{EOM}{EOM}{FACE_01000A}{S_3401A3}Fwa ha ha!
+I wike that る
 
 Message 84:
-{FACE_01000A}{S_3401A3}Eee hee hee ♪{PAUSE}{EOM}
+{D6}{PAUSE}{EOM}{EOM}{FACE_01000A}{S_3401A3}Eee hee hee 
 
 Message 85:
-{FACE_01000A}{S_3401A3}Dat's fun! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_01000A}{S_3401A3}Dat's fun! {PAUSE}
 
 Message 86:
-{FACE_01000A}{S_3401A3}Wheee...
-I wike dat ♥{PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01000A}{S_3401A3}Wheee...
+I wike dat V
 
 Message 87:
-{FACE_01000A}{S_3401A3}Wheee... ♥{PAUSE}{EOM}
+{D6}{PAUSE}{EOM}{EOM}{FACE_01000A}{S_3401A3}Wheee... 
 
 Message 88:
-{FACE_01000A}{S_3401A3}...♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+♥{PAUSE}{EOM}{FACE_01000A}{S_3401A3}...♥{PAUSE}
 
 Message 89:
-{FACE_01000A}{S_3401A3}Whee... {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01000A}{S_3401A3}Whee..W
 
 Message 90:
-{FACE_010009}Phhbt!
-I don't wike dat! {PAUSE}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010009}Phhbt!
+I don't wike dat!
 
 Message 91:
-{FACE_010009}Phhbt! {PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010009}Phhbt!
 
 Message 92:
-{FACE_010009}I don't wike dat! {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010009}I don't wike dat! 
 
 Message 93:
-{FACE_010009}I don't wike dat! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010009}I don't wike dat! 
 
 Message 94:
-{FACE_010009}Phbbbbbbbbt! {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010009}Phbbbbbbbbt!
 
 Message 95:
-{FACE_010008}No! Phbbt! {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010008}No! Phbbt! 
 
 Message 96:
-{FACE_010009}No no no! {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010009}No no no!
 
 Message 97:
-{FACE_010009}I don't wike that! {PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010009}I don't wike thatぺ
 
 Message 98:
-{FACE_010009}Blehhh! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010009}Blehhh! {PAUSE}
 
 Message 99:
-{FACE_010009}Phbbbbbt... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010009}Phbbbbbt... {PAUSE}
 
 Message 100:
-{FACE_01001E}No!{S_3204B0}
-{FACE_01001B}{S_3401A2}Doggie scawy! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001E}No!{S_3204B0}
+{FACE_01001B}{S_3401A2}Doggie scawy! {PAUSE}
 
 Message 101:
-{S_3401A2}{FACE_01001B}No no no! {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{S_3401A2}{FACE_01001B}No no no! 
 
 Message 102:
-{S_3401A2}{FACE_01001B}No doggie! Scawy! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A2}{FACE_01001B}No doggie! Scawy! 
 
 Message 103:
-{FACE_01001B}No no no!
-{FACE_010004}Blehhhh! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001B}No no no!
+{FACE_010004}Blehhhhた
 
 Message 104:
-{S_3401A2}{FACE_010004}No no no nooooo!!! {PAUSE}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{S_3401A2}{FACE_010004}No no no nooooo!!!
 
 Message 105:
-{FACE_010004}No!
-Don't wike Daddy! {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010004}No!
+Don't wike Mommy! 
 
 Message 106:
-{FACE_01001B}Doggie scawy... {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001B}Doggie scawy..だ
 
 Message 107:
-{FACE_01001B}Nooo... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{FACE_01001B}Nooo... {PAUSE}
 
 Message 108:
-{S_3401A2}{FACE_01001B}Booooo... {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{S_3401A2}{FACE_01001B}Booooo..び
 
 Message 109:
-{S_3401A3}{FACE_010003}Doggie has tail! {PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{S_3401A3}{FACE_010003}Doggie has tailぽ
 
 Message 110:
-{S_3401A3}{FACE_010003}Bow wow! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{S_3401A3}{FACE_010003}Bow wow! {PAUSE}
 
 Message 111:
-{S_3401A3}{FACE_010003}Hee hee!
-Doggie soft! Soft!{PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{S_3401A3}{FACE_010003}Hee hee!
+Doggie soft! Softす
 
 Message 112:
-{S_3401A3}{FACE_010003}Is doggie happy? {PAUSE}{EOM}
+{CB}{PAUSE}{EOM}{EOM}{S_3401A3}{FACE_010003}Is doggie happyぽ
 
 Message 113:
-{FACE_010003}Doggy cute ♥{PAUSE}{EOM}
+{CA} {PAUSE}{EOM}{FACE_010003}Doggy cute 
 
 Message 114:
-{FACE_010003}Doggie doggie♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+♥{PAUSE}{EOM}{FACE_010003}Doggie doggie♪{PAUSE}
 
 Message 115:
-{S_3401A3}{FACE_010001}Aminals! Aminals! {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{S_3401A3}{FACE_010001}Aminals! Aminals!
 
 Message 116:
-{FACE_01000A}Cute aminals♪{PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_01000A}Cute aminalsぺ
 
 Message 117:
-{FACE_01000A}Cute...♥{PAUSE}{EOM}{EOM}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_01000A}Cute...♥
 
 Message 118:
-{S_3401A3}{FACE_01000A}Oooh, cute♪{PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A3}{FACE_01000A}Oooh, cute♪
 
 Message 119:
-{S_3401A3}{FACE_010003}I'm a good boy!{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A3}{FACE_010003}I'm a good boy
 
 Message 120:
-{FACE_010003}Good boys go
-seepy early! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+!{PAUSE}{EOM}{FACE_010003}Good boys go
+seepy early! {PAUSE}
 
 Message 121:
-{FACE_010009}I was a good boy... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010009}I was a good boy... {PAUSE}
 
 Message 122:
-{FACE_010009}Daddy, work... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010009}Mommy, work... 
 
 Message 123:
-{S_3401A3}{FACE_01000A}Bu buuu♪{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A3}{FACE_01000A}Bu buuu
 
 Message 124:
-{S_3401A3}{FACE_01000A}Hi! {PAUSE}{EOM}
+♪{PAUSE}{EOM}{S_3401A3}{FACE_01000A}Hiシ
 
 Message 125:
-{S_3401A3}{FACE_01000A}Dum de dum de dum♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{S_3401A3}{FACE_01000A}Dum de dum de dum♪{PAUSE}
 
 Message 126:
-{FACE_010001}Oops! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010001}Oops! {PAUSE}
 
 Message 127:
-Sleepin! {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Sleepin!
 
 Message 128:
-Phbttt...{PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}Phbttt..
 
 Message 129:
-Hungwy...{PAUSE}{EOM}
+.{PAUSE}{EOM}Hungwy..
 
 Message 130:
-{FACE_010008}............ {PAUSE}{EOM}{EOM}
+.{PAUSE}{EOM}{FACE_010008}............
 
 Message 131:
-{FACE_010008}No... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010008}No... {PAUSE}
 
 Message 132:
-{FACE_010001}Daddy, how work? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010001}Mommy, how work? {PAUSE}
 
 Message 133:
-{FACE_010001}Daddy workin'! {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010001}Mommy workin'! 
 
 Message 134:
-{FACE_010001}Mommy workin' too! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Mommy workin' too! {PAUSE}
 
 Message 135:
-{FACE_010008}Where's Mommy...?{PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010008}Where's Mommy...ぺ
 
 Message 136:
-{FACE_01001A}Daddy workin'... {PAUSE}{EOM}{EOM}{EOM}
+{CA}{PAUSE}{EOM}{EOM}{FACE_01001A}Mommy workin'... 
 
 Message 137:
-{FACE_010001}Daddy, ! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Mommy, ! 
 
 Message 138:
-{FACE_010001}Moi moi moi moi ♪{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Moi moi moi moi 
 
 Message 139:
-{FACE_010009}Rainin'... {PAUSE}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_010009}Rainin'...
 
 Message 140:
-{FACE_010001}White! Soft! {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010001}White! Soft! 
 
 Message 141:
-{FACE_010001}Warm! Sunny♪ {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Warm! Sunny♪ 
 
 Message 142:
-{FACE_010009}Hot! Hot! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010009}Hot! HotW
 
 Message 143:
-{FACE_010001}Warmmy warm warm♪{PAUSE}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010001}Warmmy warm warm♪
 
 Message 144:
-{FACE_010001}Is there Moon? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Is there Moon? {PAUSE}
 
 Message 145:
-{FACE_010001}Pwetty stars. {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010001}Pwetty starsぽ
 
 Message 146:
-{FACE_010001}So qwiet... {PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010001}So qwiet..0
 
 Message 147:
-{FACE_010003}{S_3401A3}Mommy said Mommy
-loves me♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010003}{S_3401A3}Mommy said Mommy
+loves me♪{PAUSE}
 
 Message 148:
-{FACE_010009}Mommy, work... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010009}Mommy, work... 
 
 Message 149:
-{FACE_010003}Daddy! Mommy!
-Bye bye♪{PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Mommy! Mommy!
+Bye byeと
 
 Message 150:
-{S_3401A3}Did it!{PAUSE}{EOM}{EOM}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{S_3401A3}Did it!
 
 Message 151:
-{FACE_010003}{S_3401A3}Sea sea sea! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Sea sea seaぽ
 
 Message 152:
-{FACE_010003}{S_3401A3}Spwish spwash♥{PAUSE}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010003}{S_3401A3}Spwish spwash
 
 Message 153:
-{FACE_010001}{S_3401A3}So many fwowers♥{PAUSE}{EOM}{EOM}
+♥{PAUSE}{EOM}{FACE_010001}{S_3401A3}So many fwowersぼ
 
 Message 154:
-{FACE_010009}Scawy... {PAUSE}{EOM}{EOM}
+{D6}{PAUSE}{EOM}{EOM}{FACE_010009}Scawy...
 
 Message 155:
-{FACE_010001}{S_3401A3}Doggie has tail! {PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010001}{S_3401A3}Doggie has tailぺ
 
 Message 156:
-{FACE_010001}Bow wow!
-{S_3401A3}Doggie! {PAUSE}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010001}Bow wow!
+{S_3401A3}Doggieぅ
 
 Message 157:
-{FACE_010001}Doggie tail... {PAUSE}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010001}Doggie tail... 
 
 Message 158:
-{FACE_010001}{S_3401A3}Doggie, doggie♪{PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}{S_3401A3}Doggie, doggie♪
 
 Message 159:
-{FACE_010001}Pwetty fwowers♪{PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Pwetty fwowersキ
 
 Message 160:
-{FACE_010001}Gween! {PAUSE}{EOM}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_010001}Gween!
 
 Message 161:
-{FACE_010001}Pwetty pwetty
-fwowers. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010001}Pwetty pwetty
+fwowers. {PAUSE}
 
 Message 162:
-{FACE_010001}Gween gween... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010001}Gween gween... 
 
 Message 163:
-{FACE_010003}{S_3401A3}Do♪ wey♪ me♪... {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Do♪ wey♪ me♪... 
 
 Message 164:
-{FACE_010003}La♪ la♪ la♪ {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}La♪ la♪ la♪
 
 Message 165:
-{FACE_01001A}Listening to music...{PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_01001A}Listening to music...
 
 Message 166:
-{FACE_01001A}La la la...♪
-Doh doh doh...♪ {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001A}La la la...♪
+Doh doh doh...♪ 
 
 Message 167:
-{FACE_010003}{S_3401A6}Dwawing fun! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A6}Dwawing fun! {PAUSE}
 
 Message 168:
-{FACE_010003}Moon is wound! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Moon is wound! {PAUSE}
 
 Message 169:
-{FACE_01001A}Dwawing dwawing... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001A}Dwawing dwawing... 
 
 Message 170:
-{FACE_01001A}Moon is woundy
-wound... {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001A}Moon is woundy
+wound... 
 
 Message 171:
-{FACE_010003}Wun! Wun! Wun! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Wun! Wun! Wun! {PAUSE}
 
 Message 172:
-{FACE_010003}Okay...
-Go! {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Okay...
+Go0
 
 Message 173:
-{FACE_01001E}Daddy, do you wike
+{CB} {PAUSE}{EOM}{FACE_01001E}Mommy, do you wike
 aminals?
 {CHOICE3 DEF0}
 I like them.
 I like you more.
-Not really.{EOM}{EOM}{EOM}{EOM}
+Not really.
 
 Message 174:
-{FACE_01001E}{S_3401A3}Mee too♪
-Cuuuuute♥{PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A3}Mee too♪
+Cuuuuuteせ
 
 Message 175:
-{FACE_01001E}{S_3401A3}Eee hee hee hee♪
+{D6}{PAUSE}{EOM}{EOM}{FACE_01001E}{S_3401A3}Eee hee hee hee♪
 I wike you too!
-Mommy too♥{PAUSE}{EOM}{EOM}{EOM}
+Mommy too♥
 
 Message 176:
-{FACE_010009}Daddy, you don't
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010009}Mommy, you don't
 wike aminals? {PAUSE}{WIPE}
 {FACE_010003}I wike them!
-Aminals aw cute♥{PAUSE}{EOM}{EOM}
+Aminals aw cuteち
 
 Message 177:
-{FACE_010003}Aminals aw cute♪{PAUSE}{EOM}
+{D6}{PAUSE}{EOM}{EOM}{FACE_010003}Aminals aw cute
 
 Message 178:
-{FACE_01000C}Do you tink aminals
+♪{PAUSE}{EOM}{FACE_01000C}Do you tink aminals
 aw cute? {PAUSE}
 {CHOICE3 DEF0}
 They're cute.
 You're cuter.
-Not really.{EOM}{EOM}
+Not really
 
 Message 179:
-{FACE_01001E}Yeah, aminals aw
-cute♥{PAUSE}{EOM}{EOM}
+.{EOM}{EOM}{FACE_01001E}Yeah, aminals aw
+cuteと
 
 Message 180:
-{FACE_010003}Eee hee hee hee♪{PAUSE}{EOM}{EOM}
+{D6}{PAUSE}{EOM}{EOM}{FACE_010003}Eee hee hee heeだ
 
 Message 181:
-{FACE_010009}Phbbbt... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_010009}Phbbbt... {PAUSE}
 
 Message 182:
-{FACE_010003}Aminals aw cute...♪{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Aminals aw cute...♪
 
 Message 183:
-Wound...wound... {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Wound...wound...
 
 Message 184:
-{S_3401A3}Ball! Ball! {PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{S_3401A3}Ball! Ball!
 
 Message 185:
-One...two...twee... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}One...two...twee... {PAUSE}
 
 Message 186:
-Voom voom... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Voom voom... 
 
 Message 187:
-Blue...gween,fwower.
-{S_3401A6}Oh! Elephant! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Blue...gween,fwower.
+{S_3401A6}Oh! Elephantわ
 
 Message 188:
-Pwetty fwower! {PAUSE}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}Pwetty fwower! 
 
 Message 189:
-{S_3401A6}Grasshopper! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A6}Grasshopper! 
 
 Message 190:
-Fwowers are pwetty... ♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Fwowers are pwetty... ♥{PAUSE}
 
 Message 191:
-Fwowers smell good... ♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Fwowers smell good... ♥{PAUSE}
 
 Message 192:
-{FACE_010003}Daddy!
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Mommy!
 Can you sing?
 {CHOICE2 DEF0}
 Very well.
-Terrible.{EOM}
+Terriblケ
 
 Message 193:
-{FACE_010003}Yeah! I'm good!
-La la la♪{PAUSE}{EOM}{EOM}
+{DC}.{EOM}{FACE_010003}Yeah! I'm good!
+La la laV
 
 Message 194:
-{FACE_01000C}Not good?
-{FACE_010003}Mommy can teach me! {PAUSE}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_01000C}Not good?
+{FACE_010003}Mommy can teach meぽ
 
 Message 195:
-{FACE_010003}I wike songs♪{PAUSE}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010003}I wike songs♪
 
 Message 196:
-{FACE_01000C}Are you sqware? {PAUSE}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}Are you sqware? {PAUSE}
 {CHOICE2 DEF0}
 That's right.
-Not square.{EOM}{EOM}{EOM}
+Not squareざ
 
 Message 197:
-{FACE_010003}{S_3401A3}Eee hee hee hee!
-Daddy is sqware♪
-I'm wound! {PAUSE}{EOM}{EOM}{EOM}
+{C8}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Eee hee hee hee!
+Mommy is sqware♪
+I'm wound! 
 
 Message 198:
-{FACE_01000C}Mmm... {S_3204B0}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}Mmm... {S_3204B0}
 {FACE_010023}Wound, twiangle...
-{S_3401A3}{FACE_010003}Sqware! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{S_3401A3}{FACE_010003}Sqware! {PAUSE}
 
 Message 199:
-{FACE_01001A}Yeah, sqware...♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001A}Yeah, sqware...♪{PAUSE}
 
 Message 200:
-{FACE_010007}Not sqware... {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010007}Not sqware..ぽ
 
 Message 201:
-{FACE_010003}Moon is wound♪
+{C8} {PAUSE}{EOM}{FACE_010003}Moon is wound♪
 Mountain is
-twiangle♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+twiangle♪{PAUSE}
 
 Message 202:
-{FACE_01001E}{S_3401A6}Legs wong! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A6}Legs wong! {PAUSE}
 
 Message 203:
-{FACE_010003}{S_3401A6}Daddy, big hands! {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A6}Mommy, big hands! 
 
 Message 204:
-{FACE_01001A}Belly belly... {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001A}Belly belly... 
 
 Message 205:
-{FACE_010001}{S_3401A6}Daddy, big hands♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}{S_3401A6}Mommy, big hands♪{PAUSE}
 
 Message 206:
-{FACE_010003}{S_3401A3}Picture book! {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Picture book!
 
 Message 207:
-{FACE_010003}{S_3401A3}Two eyes! {PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010003}{S_3401A3}Two eyes!
 
 Message 208:
-{FACE_01001A}Picture book... {PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_01001A}Picture book..ぽ
 
 Message 209:
-{FACE_010023}A...B...C...{PAUSE}{EOM}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010023}A...B...C...
 
 Message 210:
-{S_3401A4}No!
-Daddy, phbbbt! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A4}No!
+Mommy, phbbbtぺ
 
 Message 211:
-{S_3401A4}Blehhh...! {PAUSE}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{S_3401A4}Blehhh...! 
 
 Message 212:
-{S_3401A4}No!
-Phbbbt... {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A4}No!
+Phbbbt...
 
 Message 213:
-{S_3401A4}Mmmm...... {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{S_3401A4}Mmmm...... 
 
 Message 214:
-{S_3401A4}Dwawing pictures! {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A4}Dwawing pictures!
 
 Message 215:
-My house! {PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}My houseシ
 
 Message 216:
-Dwawing pictures. {PAUSE}{EOM}
+{CB} {PAUSE}{EOM}Dwawing picturesだ
 
 Message 217:
-Roof on house is
-twiangle... {PAUSE}{EOM}{EOM}
+{C8} {PAUSE}{EOM}Roof on house is
+twiangle...
 
 Message 218:
-Eee hee hee hee!
-I did it♪{PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}Eee hee hee hee!
+I did it
 
 Message 219:
-Fwowers! {PAUSE}{EOM}{EOM}
+♪{PAUSE}{EOM}Fwowers!
 
 Message 220:
-Eee hee hee♪
-Fwowers♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Eee hee hee♪
+Fwowers♪{PAUSE}
 
 Message 221:
-I dwawed it♥{PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}I dwawed it
 
 Message 222:
-Ball soft! {PAUSE}{EOM}{EOM}{EOM}
+♥{PAUSE}{EOM}Ball soft! 
 
 Message 223:
-Ball... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Ball... {PAUSE}
 
 Message 224:
-Stacking wots♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Stacking wots♪{PAUSE}
 
 Message 225:
-Bwocks fun! {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}Bwocks funW
 
 Message 226:
-I wike bwocks...♪{PAUSE}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}I wike bwocks...♪
 
 Message 227:
-See! Bwocks! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}See! Bwocks! 
 
 Message 228:
-See! Bwocks! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}See! Bwocks! 
 
 Message 229:
-Vooom! Vooom! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Vooom! Vooomぁ
 
 Message 230:
-Go! Go! Vooom! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}Go! Go! Vooom! {PAUSE}
 
 Message 231:
-Eee hee♪
-Fast fast♪ {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Eee hee♪
+Fast fast♪ 
 
 Message 232:
-Vooom voom!
-I like it♪ {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Vooom voom!
+I like it♪
 
 Message 233:
-I'm dwiving car! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}I'm dwiving car! {PAUSE}
 
 Message 234:
-Voom voom♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Voom voom♪{PAUSE}
 
 Message 235:
-Wots of mukumuku♪{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Wots of mukumuku♪
 
 Message 236:
-Lots of fwowers♪{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Lots of fwowers
 
 Message 237:
-Picture book. {PAUSE}{EOM}
+♪{PAUSE}{EOM}Picture bookぁ
 
 Message 238:
-{FACE_010003}Do we me♪
-Me fa so♪ {PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010003}Do we me♪
+Me fa soぺ
 
 Message 239:
-{FACE_010003}Ba...ba ba ba ba♪
-Ba ba ba! Ba ba!♪ {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{D3} {PAUSE}{EOM}{FACE_010003}Ba...ba ba ba ba♪
+Ba ba ba! Ba ba!♪ {PAUSE}
 
 Message 240:
-{FACE_010003}Baaaaah baaah bahhh?♪{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Baaaaah baaah bahhh?♪
 
 Message 241:
-Zzzz Zzzz...
-Zzzz Zzzz...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Zzzz Zzzz...
+Zzzz Zzzz...{PAUSE}
 
 Message 242:
-Gwa...ZzzZzz...
+{EOM}{EOM}{EOM}{EOM}Gwa...ZzzZzz...
 ...Huhn? Mommy!...
-Zzz...Zzzz... {PAUSE}{EOM}
+Zzz...Zzzz..し
 
 Message 243:
-Zzz...Zzz...Zzz... {PAUSE}{EOM}{EOM}
+{C8} {PAUSE}{EOM}Zzz...Zzz...Zzz...
 
 Message 244:
-Zzz...Zzz...
-Ball...Dwawing... {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}Zzz...Zzz...
+Ball...Dwawing... 
 
 Message 245:
-{FACE_010009}No!
-No cat! {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010009}No!
+No cat!
 
 Message 246:
-{S_3401A2}{FACE_010004}Noooo! {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{S_3401A2}{FACE_010004}Noooo! 
 
 Message 247:
-{FACE_010004}Daddy! No Daddy! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010004}Mommy! No Mommy! {PAUSE}
 
 Message 248:
-{FACE_010004}Phbbbt! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010004}Phbbbt! {PAUSE}
 
 Message 249:
-{S_3401A2}{FACE_01001B}Nooooo... {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{S_3401A2}{FACE_01001B}Nooooo..び
 
 Message 250:
-{S_3401A2}{FACE_01001B}......... {PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{S_3401A2}{FACE_01001B}........ざ
 
 Message 251:
-{FACE_010003}{S_3401A3}Cat tail is puffy! {PAUSE}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010003}{S_3401A3}Cat tail is puffy!
 
 Message 252:
-{FACE_010001}Kitty cute♪{PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010001}Kitty cuteむ
 
 Message 253:
-{FACE_010001}Kitty's toungue
-funny! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_010001}Kitty's toungue
+funny! {PAUSE}
 
 Message 254:
-{FACE_010003}{S_3401A3}Yeah!
-{FACE_01001A}Kitty cute♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Yeah!
+{FACE_01001A}Kitty cute♥{PAUSE}
 
 Message 255:
-{FACE_010001}{S_3401A3}Kitty gives kisses♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010001}{S_3401A3}Kitty gives kisses♪{PAUSE}
 
 Message 256:
-{FACE_010003}{S_3401A6}Oooh!
-Teeny tiny!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A6}Oooh!
+Teeny tiny!{PAUSE}
 
 Message 257:
-{FACE_010003}{S_3401A3}Tweety tweet♥{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Tweety tweet♥
 
 Message 258:
-{FACE_010000}So shmall♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010000}So shmall♥{PAUSE}
 
 Message 259:
-{FACE_010000}{S_3401A3}Fluffy, fluffy,
-chicky, chicky!{PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010000}{S_3401A3}Fluffy, fluffy,
+chicky, chicky
 
 Message 260:
-{FACE_01001A}...Tiny... {PAUSE}{EOM}{EOM}
+!{PAUSE}{EOM}{FACE_01001A}...Tiny...
 
 Message 261:
-{FACE_010004}Noooo!
-Scawy! {PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010004}Noooo!
+Scawyぽ
 
 Message 262:
-{S_3401A2}{FACE_01001B}No like! No like!{PAUSE}{EOM}
+{CB} {PAUSE}{EOM}{S_3401A2}{FACE_01001B}No like! No like
 
 Message 263:
-{S_3401A2}{FACE_01001B}Nooooooo! {PAUSE}{EOM}
+!{PAUSE}{EOM}{S_3401A2}{FACE_01001B}Nooooooo0
 
 Message 264:
-{FACE_010003}{S_3401A3}Mr. Tiken's head red!{PAUSE}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010003}{S_3401A3}Mr. Tiken's head red
 
 Message 265:
-{FACE_010001}Lay eggies? {PAUSE}{EOM}
+!{PAUSE}{EOM}{FACE_010001}Lay eggiesむ
 
 Message 266:
-{FACE_010001}{S_3401A3}Mr. Tiken happy? {PAUSE}{EOM}
+{CA} {PAUSE}{EOM}{FACE_010001}{S_3401A3}Mr. Tiken happyぺ
 
 Message 267:
-{FACE_01001A}{S_3401A3}Cuuuute♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{CA} {PAUSE}{EOM}{FACE_01001A}{S_3401A3}Cuuuute♥{PAUSE}
 
 Message 268:
-{S_3401A3}That tiken's mouth
-big!{PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{S_3401A3}That tiken's mouth
+big
 
 Message 269:
-{FACE_01000C}Seed...? {PAUSE}{EOM}{EOM}
+!{PAUSE}{EOM}{FACE_01000C}Seed...?
 
 Message 270:
-{FACE_01000C}? ? ? ? {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_01000C}? ? ? ? 
 
 Message 271:
-{FACE_01000C}Hm...? {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}Hm...?
 
 Message 272:
-{FACE_01000C}What that...? {PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_01000C}What that...ぽ
 
 Message 273:
-{FACE_010003}{S_3401A6}Gwasshopper! {PAUSE}{EOM}{EOM}{EOM}
+{CA} {PAUSE}{EOM}{FACE_010003}{S_3401A6}Gwasshopper! 
 
 Message 274:
-{FACE_010003}{S_3401A6}Bugs! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A6}Bugsシ
 
 Message 275:
-{FACE_01000C}Bug...?!...? {PAUSE}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_01000C}Bug...?!...?
 
 Message 276:
-{S_3401A6}{FACE_010003}Shiny shiny! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{S_3401A6}{FACE_010003}Shiny shiny! {PAUSE}
 
 Message 277:
-{FACE_010003}Pwetty! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Pwetty! {PAUSE}
 
 Message 278:
-{FACE_010003}Pwetty pwetty...
-Eee hee hee♪{PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Pwetty pwetty...
+Eee hee hee
 
 Message 279:
-{FACE_010003}Pwetty... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_010003}Pwetty... {PAUSE}
 
 Message 280:
-{S_3401A6}{FACE_010003}Sister! Sister! {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{S_3401A6}{FACE_010003}Sister! Sister!
 
 Message 281:
-{FACE_010003}{S_3401A3}Bye bye! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010003}{S_3401A3}Bye bye! {PAUSE}
 
 Message 282:
-{FACE_010003}Mommy
-......... {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Mommy
+........ろ
 
 Message 283:
-{FACE_010003}Mommy
-......... {PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010003}Mommy
+........だ
 
 Message 284:
-{FACE_01000C}What dat? {PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{FACE_01000C}What datW
 
 Message 285:
-{FACE_010003}Dat stwange! {PAUSE}{EOM}{EOM}{EOM}
+{CA} {PAUSE}{EOM}{FACE_010003}Dat stwange! 
 
 Message 286:
-{FACE_01000D}What dat...? Food...?{PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01000D}What dat...? Food...?
 
 Message 287:
-{FACE_01000C}Stinky... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}Stinky... {PAUSE}
 
 Message 288:
-{FACE_010000}Veggies. {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010000}Veggies.
 
 Message 289:
-{FACE_010003}{S_3401A3}Veggies veggies. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010003}{S_3401A3}Veggies veggies. {PAUSE}
 
 Message 290:
-{FACE_010000}Hmm...
-Dwopped! {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010000}Hmm...
+Dwoppedひ
 
 Message 291:
-{FACE_010003}{S_3401A3}Aminals milk! {PAUSE}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010003}{S_3401A3}Aminals milk!
 
 Message 292:
-{FACE_01001A}Aminal milk yummy♥{PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_01001A}Aminal milk yummy
 
 Message 293:
-{FACE_010001}{S_3401A3}Aminals milky milk♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+♥{PAUSE}{EOM}{FACE_010001}{S_3401A3}Aminals milky milk♪{PAUSE}
 
 Message 294:
-{FACE_01000C}What dat?
+{EOM}{EOM}{EOM}{EOM}{FACE_01000C}What dat?
 {CHOICE2 DEF0}
 It's a "seed".
-A "seed" to plant.{EOM}{EOM}{EOM}
+A "seed" to plantざ
 
 Message 295:
-{FACE_010003}Seed♪
-Cute seed♥{PAUSE}{EOM}
+{C8}{EOM}{EOM}{EOM}{FACE_010003}Seed♪
+Cute seed
 
 Message 296:
-{FACE_01000C}Bewy in soil?
+♥{PAUSE}{EOM}{FACE_01000C}Bewy in soil?
 {FACE_010003}Eee hee hee,
-gwow fwowers! {PAUSE}{EOM}
+gwow fwowersつ
 
 Message 297:
-{FACE_010003}Seed!{PAUSE}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010003}Seed
 
 Message 298:
-{FACE_01001A}Oh...
-{FACE_010003}Gwowing fwowers♪{PAUSE}{EOM}
+!{PAUSE}{EOM}{FACE_01001A}Oh...
+{FACE_010003}Gwowing fwowers
 
 Message 299:
-{FACE_010000}Seed... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_010000}Seed... {PAUSE}
 
 Message 300:
-{FACE_01000C}? ? ? {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01000C}? ? ?
 
 Message 301:
-{FACE_010003}{S_3401A6}Keese keese! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010003}{S_3401A6}Keese keese! {PAUSE}
 
 Message 302:
-{FACE_010000}Making keese? {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010000}Making keeseぺ
 
 Message 303:
-{FACE_01001A}Smells sour. {PAUSE}{EOM}{EOM}{EOM}
+{CA} {PAUSE}{EOM}{FACE_01001A}Smells sour. 
 
 Message 304:
-{FACE_010003}{S_3401A3}Keese! Yummy! {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Keese! Yummy!
 
 Message 305:
-{FACE_010000}Yummy keese! {PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010000}Yummy keese! 
 
 Message 306:
-{FACE_010003}Buttah! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Buttah! {PAUSE}
 
 Message 307:
-Buttah. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}Buttah. {PAUSE}
 
 Message 308:
-{FACE_010000}Not smelly. {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010000}Not smellyざ
 
 Message 309:
-{FACE_010003}{S_3401A6}Mr. Tiken's eggie! {PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010003}{S_3401A6}Mr. Tiken's eggieぞ
 
 Message 310:
-{FACE_010003}{S_3401A3}Mr. Tiken eggie! {PAUSE}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010003}{S_3401A3}Mr. Tiken eggieキ
 
 Message 311:
-{FACE_010003}Chicky come out?
+{CB} {PAUSE}{EOM}{FACE_010003}Chicky come out?
 {CHOICE2 DEF0}
 Not this one.
-Yes it does.{EOM}{EOM}{EOM}
+Yes it doesざ
 
 Message 312:
-{FACE_010007}No chicky gets
-born... {PAUSE}{EOM}
+{C8}{EOM}{EOM}{EOM}{FACE_010007}No chicky gets
+born..す
 
 Message 313:
-{FACE_010003}{S_3401A3}Yea! Chicky come
+{C8} {PAUSE}{EOM}{FACE_010003}{S_3401A3}Yea! Chicky come
 from eggie♪
-Chicky cute♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Chicky cute♪{PAUSE}
 
 Message 314:
-{FACE_010003}Eggie♪{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Eggie♪
 
 Message 315:
-{FACE_010003}Eee hee hee!
-Daddy catch it!?
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Eee hee hee!
+Mommy catch it!?
 {CHOICE2 DEF0}
 That's right.
-Not me.{EOM}{EOM}{EOM}{EOM}
+Not me.
 
 Message 316:
-{FACE_010003}Ooooh!
-I wanna catch too!{PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Ooooh!
+I wanna catch too
 
 Message 317:
-{FACE_01001E}{S_3401A6}Vewy big! {PAUSE}{EOM}{EOM}
+!{PAUSE}{EOM}{FACE_01001E}{S_3401A6}Vewy big!
 
 Message 318:
-Fishy? {PAUSE}
+ {PAUSE}{EOM}{EOM}Fishy? {PAUSE}
 {CHOICE2 DEF0}
 Yup, fishy.
-Fish Monster{EOM}
+Fish Monstぽ
 
 Message 319:
-{FACE_010003}{S_3401A6}Big fishy♪{PAUSE}{EOM}
+{DC}r{EOM}{FACE_010003}{S_3401A6}Big fishy
 
 Message 320:
-{FACE_01001B}Nooooooo! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_01001B}Nooooooo! {PAUSE}
 
 Message 321:
-{FACE_01000C}Fishy...? {S_3203E8}
-{FACE_01001B}Fish monster? {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01000C}Fishy...? {S_3203E8}
+{FACE_01001B}Fish monster?
 
 Message 322:
-{FACE_010003}{S_3401A3}Fishy!
-Squish squish♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010003}{S_3401A3}Fishy!
+Squish squish♪{PAUSE}
 
 Message 323:
-{FACE_010003}{S_3401A3}Fishy fish fish. {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Fishy fish fishし
 
 Message 324:
-{S_3401A6}Dat's bitter!{PAUSE}{EOM}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{S_3401A6}Dat's bitter!
 
 Message 325:
-Bitter! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}Bitter! {PAUSE}
 
 Message 326:
-{FACE_010003}Daddy make it?
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Mommy make it?
 {CHOICE2 DEF0}
 You got it♪
-Mommy made it.{EOM}{EOM}{EOM}
+Mommy made itせ
 
 Message 327:
-{FACE_010003}{S_3401A3}Oooh! Wooks yummy♪
-Daddy good cook♥{PAUSE}{EOM}{EOM}{EOM}
+{C8}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Oooh! Wooks yummy♪
+Mommy good cook♥
 
 Message 328:
-{FACE_010003}{S_3401A3}Good cook♪{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Good cook
 
 Message 329:
-{FACE_010003}{S_3401A3}Oooh...!
-Wooks yummy! {PAUSE}{EOM}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_010003}{S_3401A3}Oooh...!
+Wooks yummy! 
 
 Message 330:
-{FACE_01000C}...?Daddy make it...?
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}...?Mommy make it...?
 {CHOICE2 DEF0}
 That's right♪
-Mommy made it.{EOM}{EOM}{EOM}{EOM}
+Mommy made it.
 
 Message 331:
-{FACE_010003}Eee hee hee,
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Eee hee hee,
 wooks yummy♪
-Vewy good cook.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Vewy good cook.{PAUSE}
 
 Message 332:
-{FACE_010003}Smells good...♪{PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Smells good...ぽ
 
 Message 333:
-{FACE_010008}Shmells weird...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_010008}Shmells weird...{PAUSE}
 
 Message 334:
-{FACE_010008}? ? ?
-Squishy squashy... {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010008}? ? ?
+Squishy squashy...
 
 Message 335:
-{FACE_010001}{S_3401A3}Dum de dum dum♪
-Dinner!{PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010001}{S_3401A3}Dum de dum dum♪
+DinnerV
 
 Message 336:
-{FACE_010001}{S_3401A3}Shword!
+{CB}{PAUSE}{EOM}{EOM}{FACE_010001}{S_3401A3}Shword!
 {CHOICE2 DEF0}
 It's a "hoe".
-Shword!{EOM}{EOM}{EOM}{EOM}
+Shword!
 
 Message 337:
-{FACE_01000C}Toe?
-{S_3203E8}{FACE_010001}Toe.{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01000C}Toe?
+{S_3203E8}{FACE_010001}Toe.
 
 Message 338:
-{FACE_010001}{S_3401A3}Eee hee hee!
-Shword♪{PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}{S_3401A3}Eee hee hee!
+Shword♪
 
 Message 339:
-{FACE_010001}Tooly tool tool♪{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Tooly tool tool
 
 Message 340:
-{FACE_010001}{S_3401A3}Toe!
+♪{PAUSE}{EOM}{FACE_010001}{S_3401A3}Toe!
 {CHOICE2 DEF0}
 It's a "sickle".
-Toe♪{EOM}{EOM}
+Toe
 
 Message 341:
-{FACE_01000C}Pickle?
-{S_3203E8}{FACE_010001}Pickle♪{PAUSE}{EOM}{EOM}{EOM}
+♪{EOM}{EOM}{FACE_01000C}Pickle?
+{S_3203E8}{FACE_010001}Pickle♪
 
 Message 342:
-{FACE_010001}{S_3401A3}Eee hee hee,
-pickle♪{PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}{S_3401A3}Eee hee hee,
+pickle♪
 
 Message 343:
-{FACE_010001}Pickle... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Pickle... {PAUSE}
 
 Message 344:
-{FACE_010001}{S_3401A3}Can can♪{PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010001}{S_3401A3}Can can
 
 Message 345:
-Put water?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+♪{PAUSE}{EOM}Put water?{PAUSE}
 
 Message 346:
-{FACE_01001A}Smells wike milk♪{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001A}Smells wike milk♪
 
 Message 347:
-{FACE_01001E}{S_3401A6}Big!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A6}Big!{PAUSE}
 
 Message 348:
-{FACE_010001}Moo cow.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010001}Moo cow.{PAUSE}
 
 Message 349:
-{FACE_010003}Moo cow's.
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Moo cow's.
 {CHOICE2 DEF0}
 No, Baa baa sheep's.
-Moo cow's!{EOM}{EOM}{EOM}{EOM}
+Moo cow's!
 
 Message 350:
-{FACE_01000C}Baa baa sheep? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01000C}Baa baa sheep? {PAUSE}
 
 Message 351:
-{FACE_01001E}{S_3401A3}Skissors! {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A3}Skissors0
 
 Message 352:
-{FACE_01000C}Bwack bwack... {PAUSE}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_01000C}Bwack bwack... 
 
 Message 353:
-{FACE_01001A}Skissors skissors... {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001A}Skissors skissors... 
 
 Message 354:
-{FACE_010003}Whiirrr, whirr♪{PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Whiirrr, whirrだ
 
 Message 355:
-{FACE_01001E}{S_3401A6}Wobot!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_01001E}{S_3401A6}Wobot!{PAUSE}
 
 Message 356:
-{FACE_010008}Loud sound...{PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010008}Loud sound..し
 
 Message 357:
-{FACE_010008}...... {PAUSE}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{FACE_010008}......
 
 Message 358:
-{FACE_01001E}{S_3401A6}Skissors! {PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_01001E}{S_3401A6}Skissorsび
 
 Message 359:
-{FACE_010001}Skissors go sip sip. {PAUSE}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010001}Skissors go sip sipケ
 
 Message 360:
-{FACE_01001E}{S_3401A6}Wong! {PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{FACE_01001E}{S_3401A6}Wongt
 
 Message 361:
-{FACE_010001}Longy long. {PAUSE}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010001}Longy longむ
 
 Message 362:
-{FACE_010004}Mine!{PAUSE}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010004}Mine
 
 Message 363:
-...Mine...{PAUSE}{EOM}{EOM}{EOM}
+!{PAUSE}{EOM}...Mine...
 
 Message 364:
-{S_3401A2}{FACE_010005}Took mine!! {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A2}{FACE_010005}Took mine!!
 
 Message 365:
-{S_3401A2}{FACE_010007}Sniff sniff...
-Took it...{PAUSE}{EOM}
+ {PAUSE}{EOM}{EOM}{S_3401A2}{FACE_010007}Sniff sniff...
+Took it..
 
 Message 366:
-{FACE_01001E}{S_3401A3}Oooh! Ball! {PAUSE}{EOM}{EOM}
+.{PAUSE}{EOM}{FACE_01001E}{S_3401A3}Oooh! Ball!
 
 Message 367:
-{FACE_010003}Wound♪{PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010003}Wound♪
 
 Message 368:
-{FACE_010003}Bally ball♪{PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Bally ballび
 
 Message 369:
-{FACE_01001E}{S_3401A3}Oooh!
-Bwocks♪{PAUSE}{EOM}{EOM}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_01001E}{S_3401A3}Oooh!
+Bwocks♪
 
 Message 370:
-{FACE_010003}Pwaying bwocks,
-pwaying bwocks♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Pwaying bwocks,
+pwaying bwocks♪{PAUSE}
 
 Message 371:
-{FACE_01001A}Wheee...
-Bwocks...♥{PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001A}Wheee...
+Bwocks...ぞ
 
 Message 372:
-{FACE_010001}Bwocks...♥{PAUSE}{EOM}{EOM}{EOM}
+{D6}{PAUSE}{EOM}{EOM}{FACE_010001}Bwocks...♥
 
 Message 373:
-{FACE_01001E}{S_3401A3}Voom voom car! {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A3}Voom voom carだ
 
 Message 374:
-{FACE_010003}Fast! Fast!{PAUSE}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010003}Fast! Fastぁ
 
 Message 375:
-{FACE_010001}Wheee.
-Voom voom...♥{PAUSE}{EOM}
+{CB}{PAUSE}{EOM}{EOM}{FACE_010001}Wheee.
+Voom voom...
 
 Message 376:
-{FACE_010001}Go faster. {PAUSE}{EOM}{EOM}{EOM}
+♥{PAUSE}{EOM}{FACE_010001}Go faster. 
 
 Message 377:
-{FACE_010003}{S_3401A3}Dwawing fwowers!{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Dwawing fwowers
 
 Message 378:
-{FACE_010003}{S_3401A3}Dwawing Daddy! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+!{PAUSE}{EOM}{FACE_010003}{S_3401A3}Dwawing Mommy! {PAUSE}
 
 Message 379:
-{FACE_010003}{S_3401A3}Dwawing Mommy! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Dwawing Mommy! {PAUSE}
 
 Message 380:
-{FACE_010003}Dwawing fwowers... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Dwawing fwowers... 
 
 Message 381:
-{FACE_010003}Dwawing Daddy... {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Dwawing Mommy... 
 
 Message 382:
-{FACE_010003}Dwawing Mommy... {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Dwawing Mommy... 
 
 Message 383:
-{FACE_010003}{S_3401A3}Pwetty♪
-Spakly spakly ★{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Pwetty♪
+Spakly spakly 
 
 Message 384:
-{FACE_010003}Spakly spakly stone★{PAUSE}{EOM}
+★{PAUSE}{EOM}{FACE_010003}Spakly spakly stone
 
 Message 385:
-{FACE_01001A}Oooh...
-Spakly...♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+★{PAUSE}{EOM}{FACE_01001A}Oooh...
+Spakly...♪{PAUSE}
 
 Message 386:
-{FACE_01001A}Pwetty...♥{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001A}Pwetty...♥
 
 Message 387:
-{FACE_01001E}{S_3401A3}Eee hee hee!
-Wough!{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A3}Eee hee hee!
+Wough
 
 Message 388:
-{FACE_01001E}Scratchy scratchy. {PAUSE}{EOM}{EOM}{EOM}
+!{PAUSE}{EOM}{FACE_01001E}Scratchy scratchy. 
 
 Message 389:
-{FACE_01000C}Wough wough... {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}Wough wough... 
 
 Message 390:
-{FACE_010003}Mr. Fwower is
-pwetty♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Mr. Fwower is
+pwetty♪{PAUSE}
 
 Message 391:
-{FACE_010003}{S_3401A6}Shiny shiny! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A6}Shiny shiny! {PAUSE}
 
 Message 392:
-{FACE_010003}Shiny shiny♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Shiny shiny♪{PAUSE}
 
 Message 393:
-{FACE_010003}{S_3401A6}Dat Sister's
-neckwace! {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A6}Dat Sister's
+neckwaceV
 
 Message 394:
-{FACE_010003}Sister's pwetty
-neckwace♪{PAUSE}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010003}Sister's pwetty
+neckwace♪
 
 Message 395:
-{FACE_010008}Mommy not happy... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010008}Mommy not happy... {PAUSE}
 
 Message 396:
-{FACE_010008}Mommy scawy... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010008}Mommy scawy... 
 
 Message 397:
-{FACE_010003}{S_3401A3}Twow twow♪{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}{S_3401A3}Twow twow
 
 Message 398:
-{FACE_010003}Twow twow is fun♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_010003}Twow twow is fun♥{PAUSE}
 
 Message 399:
-{FACE_010003}Twow twow♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Twow twow♪{PAUSE}
 
 Message 400:
-{FACE_010003}Eee hee hee♪{PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Eee hee hee
 
 Message 401:
-{FACE_010003}I love Daddy♥{PAUSE}{EOM}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_010003}I love Mommy♥
 
 Message 402:
-{FACE_01001E}{S_3401A6}Big face! {PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A6}Big face!
 
 Message 403:
-{FACE_01001A}.........♪{PAUSE}{EOM}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_01001A}.........♪
 
 Message 404:
-{FACE_01001A}I wike Daddy...♪{PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001A}I wike Mommy...
 
 Message 405:
-{FACE_010003}Daddy is warm♪{PAUSE}{EOM}
+♪{PAUSE}{EOM}{FACE_010003}Mommy is warm
 
 Message 406:
-{FACE_010003}Cawwy me♪
-Snuggle snuggle♪{PAUSE}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_010003}Cawwy me♪
+Snuggle snuggleへ
 
 Message 407:
-{FACE_010004}Down! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_010004}Down! {PAUSE}
 
 Message 408:
-{S_3401A2}{FACE_010008}Nooooo! {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{S_3401A2}{FACE_010008}NoooooW
 
 Message 409:
-{FACE_010004}No!
-Don't wike Daddy! {PAUSE}{EOM}{EOM}{EOM}
+{CB} {PAUSE}{EOM}{FACE_010004}No!
+Don't wike Mommy! 
 
 Message 410:
-{FACE_010004}Want down! {PAUSE}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010004}Want down! 
 
 Message 411:
-{S_3401A2}{FACE_010007}No... {PAUSE}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A2}{FACE_010007}No..o
 
 Message 412:
-{FACE_010008}Smewwy... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010008}Smewwy... {PAUSE}
 
 Message 413:
-{FACE_010008}Twowing me away...?{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010008}Twowing me away...?
 
 Message 414:
-{S_3401A3}{FACE_01001E}Fishy fishy,
-jumping♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{S_3401A3}{FACE_01001E}Fishy fishy,
+jumping♪{PAUSE}
 
 Message 415:
-{FACE_01001E}{S_3401A6}Moo cow fat. {PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001E}{S_3401A6}Moo cow fatぺ
 
 Message 416:
-{FACE_010001}{S_3401A3}Fat moo cow.
-Big eyes♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{FACE_010001}{S_3401A3}Fat moo cow.
+Big eyes♪{PAUSE}
 
 Message 417:
-{FACE_010003}Kissy kissy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Kissy kissy.{PAUSE}
 
 Message 418:
-{FACE_01001A}Cute♪{PAUSE}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_01001A}Cute
 
 Message 419:
-{FACE_010003}Pwetty weafs♪{PAUSE}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_010003}Pwetty weafsぽ
 
 Message 420:
-{FACE_01001E}{S_3401A3}Shmall bugs! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_01001E}{S_3401A3}Shmall bugs! {PAUSE}
 
 Message 421:
-{FACE_010003}Gwasshopper! {PAUSE}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010003}Gwasshopper!
 
 Message 422:
-{FACE_010003}{S_3401A3}Good boy! {PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_010003}{S_3401A3}Good boy!
 
 Message 423:
-{FACE_01000C}Daddy hands cold. {PAUSE}{EOM}{EOM}
+ {PAUSE}{EOM}{EOM}{FACE_01000C}Mommy hands cold.
 
 Message 424:
-{FACE_010015}Mmm... {S_32012C}
+ {PAUSE}{EOM}{EOM}{FACE_010015}Mmm... {S_32012C}
 Zzzz ZZzz ...
-{FACE_010016}{S_3203E8}{FACE_010017}...... {PAUSE}{EOM}
+{FACE_010016}{S_3203E8}{FACE_010017}.....べ
 
 Message 425:
-{FACE_01001A}With Daddy♪{PAUSE}{EOM}{EOM}
+{C8} {PAUSE}{EOM}{FACE_01001A}With Mommyむ
 
 Message 426:
-{FACE_010003}{S_3401A3}Daddy, shop♪{PAUSE}{EOM}
+{D3}{PAUSE}{EOM}{EOM}{FACE_010003}{S_3401A3}Mommy, shop
 
 Message 427:
-{FACE_010002}Go home... {PAUSE}{EOM}{EOM}{EOM}
+♪{PAUSE}{EOM}{FACE_010002}Go home... 
 
 Message 428:
-{FACE_01001A}Customer... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01001A}Customer... {PAUSE}
 
 Message 429:
-{FACE_010001}Daddy working...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}{EOM}{FACE_010001}Mommy working...{PAUSE}
 
 Message 430:
-{S_3401A3}{FACE_010001}Pwetty pwetty♪
+{EOM}{EOM}{EOM}{EOM}{S_3401A3}{FACE_010001}Pwetty pwetty♪
 Shiny shiny♪{PAUSE}{EOM}
 

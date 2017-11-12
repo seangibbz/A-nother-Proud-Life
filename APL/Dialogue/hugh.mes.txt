@@ -1207,132 +1207,132 @@ This is a great
 season for running. {PAUSE}{EOM}{EOM}
 
 Message 237:
-The north words is
+The north woods are
 strange. {PAUSE}{WIPE}
 There's some weird
 white haired thing
-in there... {PAUSE}{EOM}
+in there... 
 
 Message 238:
-Sometimes you can
+{PAUSE}{EOM}Sometimes you can
 see strange things
-around here. {PAUSE}{EOM}{EOM}{EOM}
+around here. {PAUSE}{EOM}
 
 Message 239:
-Don't talk to me
-when I'm running. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}Don't talk to me
+when I'm running. {PAUSE}{EOM}{EOM}
 
 Message 240:
-Dad may love running
+{EOM}{EOM}Dad may love running
 but everyday is just
-too much for me. {PAUSE}{EOM}
+too much for me. 
 
 Message 241:
-Do you need
-something? {PAUSE}{EOM}
+{PAUSE}{EOM}Do you need
+something? 
 
 Message 242:
-You're interfering
+{PAUSE}{EOM}You're interfering
 with my practice.
-Please go away. {PAUSE}{EOM}
+Please go away. 
 
 Message 243:
-My Dad will yell at
+{PAUSE}{EOM}My Dad will yell at
 you if you interfere
-with my practice. {PAUSE}{EOM}
+with my practice. 
 
 Message 244:
-Don't talk to me
+{PAUSE}{EOM}Don't talk to me
 when I'm trying to
-practice. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+practice. {PAUSE}{EOM}{EOM}
 
 Message 245:
-Sometimes I get to
+{EOM}{EOM}Sometimes I get to
 eat Grandma Nina's
 cooking. {PAUSE}{WIPE}
 It's really
-yummy. {PAUSE}{EOM}{EOM}{EOM}
+yummy. {PAUSE}{EOM}
 
 Message 246:
-Dr. Hardy is pretty
-cool. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}Dr. Hardy is pretty
+cool. {PAUSE}{EOM}{EOM}
 
 Message 247:
-Sometimes Dr. Hardy
+{EOM}{EOM}Sometimes Dr. Hardy
 will give me a
 check up... {PAUSE}{WIPE}
 I guess it's like
-a yearly physical? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+a yearly physical? {PAUSE}{EOM}{EOM}
 
 Message 248:
-Have you ever had
+{EOM}{EOM}Have you ever had
 Grandma Nina's
-cooking? {PAUSE}{EOM}{EOM}
+cooking? {PAUSE}
 
 Message 249:
-Dr. Hardy is a little
+{EOM}{EOM}Dr. Hardy is a little
 scary at first, but
-he's a nice guy. {PAUSE}{EOM}{EOM}
+he's a nice guy. {PAUSE}
 
 Message 250:
-It's important for
+{EOM}{EOM}It's important for
 an athlete to watch
 his health. {PAUSE}{WIPE}
 That's what
-Dr. Hardy told me. {PAUSE}{EOM}{EOM}{EOM}
+Dr. Hardy told me. {PAUSE}{EOM}
 
 Message 251:
-It's interesting to
+{EOM}{EOM}It's interesting to
 see so many weird
-things around here. {PAUSE}{EOM}
+things around here. 
 
 Message 252:
-Gustafa is really
+{PAUSE}{EOM}Gustafa is really
 good at singing. {PAUSE}{WIPE}
 He only sings
-outside though. {PAUSE}{EOM}
+outside though. 
 
 Message 253:
-Gustafa can play
+{PAUSE}{EOM}Gustafa can play
 any instrument
 that's here. {PAUSE}{WIPE}
 He's so lucky
 to be able to
-do that... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+do that... {PAUSE}{EOM}{EOM}
 
 Message 254:
-Sometimes I come
+{EOM}{EOM}Sometimes I come
 here to relax. {PAUSE}{WIPE}
 I try to stay here
 too long though or
 I get crazy. {PAUSE}{WIPE}
-{S_34014E}I'm kidding... {PAUSE}{EOM}{EOM}
+{S_34014E}I'm kidding... {PAUSE}
 
 Message 255:
-There's just lots
+{EOM}{EOM}There's just lots
 of instruments
-here... {PAUSE}{EOM}{EOM}{EOM}
+here... {PAUSE}{EOM}
 
 Message 256:
-I wish I could
-play instruments... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}I wish I could
+play instruments... {PAUSE}{EOM}
 
 Message 257:
-I suddenly got the
-strangest feeling. {PAUSE}{EOM}
+{EOM}{EOM}I suddenly got the
+strangest feeling. 
 
 Message 258:
-{FACE_0D0009}Grandma Nina went
+{PAUSE}{EOM}{FACE_0D0009}Grandma Nina went
 somewhere far away. {PAUSE}{WIPE}
 I wonder if she'll
-ever come back. {PAUSE}{EOM}{EOM}{EOM}
+ever come back. {PAUSE}{EOM}
 
 Message 259:
-I want to see
-Grandma again... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}I want to see
+Grandma again... {PAUSE}{EOM}
 
 Message 260:
-{FACE_0D0004}Sorry I'm busy now.{PAUSE}{WIPE}
+{EOM}{EOM}{FACE_0D0004}Sorry I'm busy now.{PAUSE}{WIPE}
 {KATE} is always
 picking on me. {PAUSE}{WIPE}
 How am I supposed to
@@ -1342,86 +1342,86 @@ I know!
 I need to get
 stronger! {PAUSE}{WIPE}
 Then she won't be
-able to pick on me. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+able to pick on me. {PAUSE}{EOM}{EOM}
 
 Message 261:
-{FACE_0D0004}Must get stronger...{PAUSE}{EOM}
+{EOM}{EOM}{FACE_0D0004}Must get stronger...
 
 Message 262:
-{FACE_0D0004}Sorry, I'm busy.{PAUSE}{EOM}
+{PAUSE}{EOM}{FACE_0D0004}Sorry, I'm busy.
 
 Message 263:
-Want to play a game?
+{PAUSE}{EOM}Want to play a game?
 Let's have a
 drinking race.
 {CHOICE2 DEF1}
 Bring it on.
-No thanks.{EOM}{EOM}{EOM}
+No thanks.{EOM}
 
 Message 264:
-Rock and Grant race
+{EOM}{EOM}Rock and Grant race
 too, but I'm sure
-I'm the best. {PAUSE}{EOM}{EOM}
+I'm the best. {PAUSE}
 
 Message 265:
-OK, we'll meet in
-the kitchen. {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}OK, we'll meet in
+the kitchen. {PAUSE}{EOM}
 
 Message 266:
-Okay, well I'll
+{EOM}{EOM}Okay, well I'll
 look forward to
-the next time. {PAUSE}{EOM}{EOM}
+the next time. {PAUSE}
 
 Message 267:
-The food here is
-great. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}{EOM}The food here is
+great. {PAUSE}{EOM}{EOM}
 
 Message 268:
-Thanks.
+{EOM}{EOM}Thanks.
 But I can't right
-now. {PAUSE}{EOM}{EOM}{EOM}
+now. {PAUSE}{EOM}
 
 Message 269:
-Mister... {S_3203E8}{PAUSE}
+{EOM}{EOM}Mister... {S_3203E8}{PAUSE}
 Thank you for
-everything... {PAUSE}{EOM}{EOM}{EOM}
+everything... {PAUSE}{EOM}
 
 Message 270:
-{GRIFFIN} do you
+{EOM}{EOM}{GRIFFIN} do you
 have a good song for
-times like this? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+times like this? {PAUSE}{EOM}{EOM}
 
 Message 271:
-I'm going to bed... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}I'm going to bed... {PAUSE}{EOM}
 
 Message 272:
-I'm going to go
+{EOM}{EOM}I'm going to go
 sleep now, so can
-you go home? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+you go home? {PAUSE}{EOM}{EOM}
 
 Message 273:
-Good night. {PAUSE}{EOM}
+{EOM}{EOM}Good night. 
 
 Message 274:
-I have to leave
-soon... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PAUSE}{EOM}I have to leave
+soon... {PAUSE}{EOM}{EOM}
 
 Message 275:
-I really need to
-get out of here... {PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}I really need to
+get out of here... {PAUSE}{EOM}
 
 Message 276:
-See ya... {PAUSE}{EOM}
+{EOM}{EOM}See ya... 
 
 Message 277:
-I can't believe
+{PAUSE}{EOM}I can't believe
 I lost... {S_3202BC}{PAUSE}{WIPE}
 I'll practice more,
 and then next time
-you're mine! {PAUSE}{EOM}{EOM}{EOM}
+you're mine! {PAUSE}{EOM}
 
 Message 278:
-That was fun. {S_3202BC}{PAUSE}{WIPE}
+{EOM}{EOM}That was fun. {S_3202BC}{PAUSE}{WIPE}
 I won this time,
 but I hope we can
 race again sometime. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}

@@ -260,7 +260,7 @@ Really I don't
 need to see that. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 57:
-{FACE_04000A}Go play with Daddy,
+{FACE_04000A}Go play with Mommy,
 baby. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 58:
@@ -1188,7 +1188,7 @@ Thank you! {PAUSE}{EOM}{EOM}
 
 Message 241:
 It's nice to be
-together with Daddy♪{PAUSE}{EOM}
+together with Mommy♪{PAUSE}{EOM}
 
 Message 242:
 All clean♪{PAUSE}{EOM}{EOM}{EOM}{EOM}

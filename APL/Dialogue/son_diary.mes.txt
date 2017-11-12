@@ -8,7 +8,7 @@ I've got to try
 harder! {PAUSE}{EOM}
 
 Message 1:
-Dad's hands
+Mom's hands
 were small. {PAUSE}{WIPE}
 I was really
 shocked... {PAUSE}{WIPE}
@@ -26,7 +26,7 @@ spy sent to watch
 me though. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 3:
-Dad bought me a
+Mom bought me a
 stuffed animal. {PAUSE}{WIPE}
 I'm too old for
 stuff like that... {PAUSE}{WIPE}
@@ -59,7 +59,7 @@ are cool. {PAUSE}{WIPE}
 It must be really
 neat to be an
 athlete. {PAUSE}{WIPE}
-Too bad my Dad was
+Too bad my Mom was
 never one. {PAUSE}{EOM}{EOM}
 
 Message 7:
@@ -141,7 +141,7 @@ played just for me. {PAUSE}{EOM}{EOM}
 
 Message 16:
 Grandpa {TAKAKURA}
-said Dad is
+said Mom is
 tone deaf. {PAUSE}{WIPE}
 I wonder if that's
 really true? {PAUSE}{EOM}{EOM}{EOM}
@@ -159,7 +159,7 @@ Message 18:
 These days, I want
 to hear some really
 hard rock. {PAUSE}{WIPE}
-Dad's records
+Mom's records
 just don't cut it. {PAUSE}{WIPE}
 Maybe {VAN}
 will bring something
@@ -360,7 +360,7 @@ more like a cat or
 more like a dog? {PAUSE}{WIPE}
 Cat...nope,definitely
 a dog. {PAUSE}{WIPE}
-Dad is a dog too.{PAUSE}{EOM}
+Mom is a dog too.{PAUSE}{EOM}
 
 Message 40:
 I saw something I
@@ -522,1141 +522,1141 @@ I wonder if the city
 has more books...? {PAUSE}{EOM}
 
 Message 59:
-Dad always seems
+Mom always seems
 so busy. {PAUSE}{WIPE}
-But he's always so
+But she's always so
 nice to me. {PAUSE}{WIPE}
-I love my Dad so
-very much. {PAUSE}{EOM}{EOM}
+I love my Mom so
+very much. {PAUSE}
 
 Message 60:
-Dad always seems
+{EOM}{EOM}Mom always seems
 so busy. {PAUSE}{WIPE}
-But he's always so
+But she's always so
 nice to me. {PAUSE}{WIPE}
-I love my Dad so
-very much. {PAUSE}{EOM}{EOM}
+I love my Mom so
+very much.
 
 Message 61:
-Dad always seems
+ {PAUSE}{EOM}{EOM}Mom always seems
 so busy. {PAUSE}{WIPE}
-But he's always so
+But she's always so
 nice to me. {PAUSE}{WIPE}
-I love my Dad so
-very much. {PAUSE}{EOM}{EOM}
+I love my Mom so
+very much
 
 Message 62:
-I wonder which is
+. {PAUSE}{EOM}{EOM}I wonder which is
 more important to
-Dad... {PAUSE}{WIPE}
+Mom... {PAUSE}{WIPE}
 The farm or me...{PAUSE}{WIPE}
 It's got to be the
 farm. All he thinks
-about is work. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+about is work.
 
 Message 63:
-I think I'll follow
-in Dad's footsteps.{PAUSE}{WIPE}
+ {PAUSE}{EOM}{EOM}{EOM}{EOM}I think I'll follow
+in Mom's footsteps.{PAUSE}{WIPE}
 I wonder if I'll
 ever be able to
 pull it off... {PAUSE}{WIPE}
 Nah...I'd never
 be able to do that.
-So frustrating...{PAUSE}{EOM}{EOM}
+So frustrating.シ
 
 Message 64:
-Doesn't Mom
+{C8}.{PAUSE}{EOM}{EOM}Doesn't Mom
 want to help out
-Dad's work? {PAUSE}{WIPE}
+Mom's work? {PAUSE}{WIPE}
 I wonder if they
 just don't get
-along... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+along...
 
 Message 65:
-Lately I've been
-thinking that Dad
+ {PAUSE}{EOM}{EOM}{EOM}{EOM}Lately I've been
+thinking that Mom
 is amazing. {PAUSE}{WIPE}
 I was raised on a
 farm, so it's
 normal to work here. {PAUSE}{WIPE}
-Dad threw away
+Mom threw away
 everything to work
-on the farm here. {PAUSE}{WIPE}
+on the farm shere. {PAUSE}{WIPE}
 I can't imagine how
 much pain he had to
-go through. {PAUSE}{EOM}{EOM}{EOM}
+go througし
 
 Message 66:
-I wonder if Dad wants
+{DF}. {PAUSE}{EOM}{EOM}{EOM}I wonder if Mom wants
 me to follow his
 footsteps. {PAUSE}{WIPE}
 ...Yeah, probably
-does.{PAUSE}{EOM}{EOM}
+doV
 
 Message 67:
-Lately I've been
-thinking that Dad
+{DC}s.{PAUSE}{EOM}{EOM}Lately I've been
+thinking that Mom
 is amazing. {PAUSE}{WIPE}
 I was raised on a
 farm, so it's
 normal to work here. {PAUSE}{WIPE}
-Dad threw away
+Mom threw away
 everything to work
-on the farm here. {PAUSE}{WIPE}
+on the farm shere. {PAUSE}{WIPE}
 I can't imagine how
 much pain he had to
-go through. {PAUSE}{EOM}{EOM}{EOM}
+go throuキ
 
 Message 68:
-Dad is really good
+{DE}h. {PAUSE}{EOM}{EOM}{EOM}Mom is really good
 at using a hoe. {PAUSE}{WIPE}
 It's too heavy for
-me, but Dad is really
-strong. {PAUSE}{EOM}{EOM}
+me, but Mom is really
+stro
 
 Message 69:
-Dad is really good
+ng. {PAUSE}{EOM}{EOM}Mom is really good
 at using a hoe. {PAUSE}{WIPE}
 It's too heavy for
-me, but Dad is really
-strong. {PAUSE}{EOM}{EOM}
+me, but Mom is really
+stro
 
 Message 70:
-Dad is really good
+ng. {PAUSE}{EOM}{EOM}Mom is really good
 at using a hoe. {PAUSE}{WIPE}
 It's too heavy for
-me, but Dad is really
-strong. {PAUSE}{EOM}{EOM}
+me, but Mom is really
+stro
 
 Message 71:
-I wonder what Dad
+ng. {PAUSE}{EOM}{EOM}I wonder what Mom
 thinks about {VESTA}'s
 farm? {PAUSE}{VESTA}
 Never mind, adults
 are always fakes
-anyway... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+anyway.
 
 Message 72:
-Even though Dad
+.. {PAUSE}{EOM}{EOM}{EOM}{EOM}Even though Mom
 can keep more animals
-here, whey does he{PAUSE}
+shere, whey does he{PAUSE}
 put so much effort
-into crops? {PAUSE}{EOM}{EOM}{EOM}
+into cra
 
 Message 73:
-I think Dad should
+{E6}ps? {PAUSE}{EOM}{EOM}{EOM}I think Mom should
 be working at a
-vegetable farm. {PAUSE}{EOM}{EOM}{EOM}
+vegetable fち
 
 Message 74:
-Dad's swinging
+{D8}rm. {PAUSE}{EOM}{EOM}{EOM}Mom's swinging
 speed is totally
 incomparable, {PAUSE}
-but he's getting old
-so he needs to be
+but she's getting old
+so she needs to be
 careful. {PAUSE}{WIPE}
-It looks like he'll
-hurt his back. {PAUSE}{WIPE}
+It looks like she'll
+hurt her back. {PAUSE}{WIPE}
 Mom must think so
-too... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 75:
-I think we can live
+
+too... {PAUSE}{EOM}{EOM}{EOM}I think we can live
 off of just our
-crops here. {PAUSE}{EOM}{EOM}
+croざ
 
 Message 76:
-Dad's swinging
+{E7}s here. {PAUSE}{EOM}{EOM}Mom's swinging
 speed is totally
 incomparable, {PAUSE}
-but he's getting old
-so he needs to be
+but she's getting old
+so she needs to be
 careful. {PAUSE}{WIPE}
-It looks like he'll
-hurt his back. {PAUSE}{WIPE}
-Mom must think so
-too... {PAUSE}{EOM}{EOM}{EOM}
+It looks like she'll
+hurt her back. {PAUSE}{WIPE}
+Mom must thinろ
 
 Message 77:
-Dad is really
+{E2} so
+too... {PAUSE}{EOM}{EOM}{EOM}Mom is really
 good at cooking. {PAUSE}{WIPE}
 Mom is impressed
 too. {PAUSE}{WIPE}
 I think it's cool
-to be a guy who
-can cook. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+to be someone パ
 
 Message 78:
-Dad is really
+{EE}ho
+can cook. {PAUSE}{EOM}{EOM}{EOM}{EOM}Mom is really
 good at cooking. {PAUSE}{WIPE}
 Mom is impressed
 too. {PAUSE}{WIPE}
 I think it's cool
-to be a guy who
-can cook. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+to be someoパ
 
 Message 79:
-Dad is really
+{E5}e who
+can cook. {PAUSE}{EOM}{EOM}{EOM}{EOM}Mom is really
 good at cooking. {PAUSE}{WIPE}
 Mom is impressed
 too. {PAUSE}{WIPE}
 I think it's cool
-to be a guy who
-can cook. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+to be som
 
 Message 80:
-I guess guys have to
-be able to cook
-nowadays. {PAUSE}{WIPE}
-Dad is pretty cool,
-I guess. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+eone who
+can cook. {PAUSE}{EOM}{EOM}{EOM}{EOM}I guess everyone
+has to be able to
+cook nowadays. {PAUSE}{WIPE}
+Mom is 
 
 Message 81:
-Dad is good
+pretty cool,
+I guess. {PAUSE}{EOM}{EOM}{EOM}{EOM}Mom is good
 at cooking. {PAUSE}{WIPE}
-He's definitely
+She's definitely
 better than Mom. {PAUSE}{WIPE}
-He should open up
-his own restaurant. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+She should opeパ
 
 Message 82:
-Dad is good
+{E5} up
+her own restaurant. {PAUSE}{EOM}{EOM}{EOM}{EOM}Mom is good
 at cooking. {PAUSE}{WIPE}
-He's definitely
+She's definitely
 better than Mom. {PAUSE}{WIPE}
-He should open up
-his own restaurant. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+She should oパ
 
 Message 83:
-Watching Dad cook
+{E7}en up
+her own restaurant. {PAUSE}{EOM}{EOM}{EOM}{EOM}Watching Mom cook
 makes me want to
 try cooking too... {PAUSE}{WIPE}
 I didn't do so
-good when I tried. {PAUSE}{WIPE}
-Dad is really
-amazing. {PAUSE}{EOM}
+well when I triケ
 
 Message 84:
-Dad cleaned a
+{DC}d. {PAUSE}{WIPE}
+Mom is really
+amazing. {PAUSE}{EOM}Mom cleaned a
 fish perfectly today.{PAUSE}{WIPE}
-He's just the
-coolest guy I know.{PAUSE}{WIPE}
-I could never
-ever do that. {PAUSE}{EOM}{EOM}
+She's just the
+coolest gal I know.{PAUSE}
 
 Message 85:
-Watching Dad cook
+{WIPE}
+I could never
+ever do that. {PAUSE}{EOM}{EOM}Watching Mom cook
 makes me want to
 try cooking too... {PAUSE}{WIPE}
 I didn't do so
-good when I tried. {PAUSE}{WIPE}
-Dad is really
-amazing. {PAUSE}{EOM}
+good when I trぞ
 
 Message 86:
-I think Dad is
+{E0}ed. {PAUSE}{WIPE}
+Mom is really
+amazing. {PAUSE}{EOM}I think Mom is
 rich. {PAUSE}{WIPE}
 {VAN} thinks
 so too. {PAUSE}{WIPE}
 But then why does
-he always wear the
+she always wear the
 same clothes? {PAUSE}{WIPE}
 I think it would be
-okay to change
-clothes sometimes.{PAUSE}{EOM}{EOM}
+okay
 
 Message 87:
-I think Dad is
+ to change
+clothes sometimes.{PAUSE}{EOM}{EOM}I think Mom is
 rich. {PAUSE}{WIPE}
 {VAN} thinks
 so too. {PAUSE}{WIPE}
 But then why does
-he always wear the
+she always wear the
 same clothes? {PAUSE}{WIPE}
 I think it would be
-okay to change
-clothes sometimes.{PAUSE}{EOM}{EOM}
+oka
 
 Message 88:
-I think Dad is
+y to change
+clothes sometimes.{PAUSE}{EOM}{EOM}I think Mom is
 rich. {PAUSE}{WIPE}
 {VAN} thinks
 so too. {PAUSE}{WIPE}
 But then why does
-he always wear the
+she always wear the
 same clothes? {PAUSE}{WIPE}
 I think it would be
-okay to change
-clothes sometimes.{PAUSE}{EOM}{EOM}
+ok
 
 Message 89:
-I think Dad is
+ay to change
+clothes sometimes.{PAUSE}{EOM}{EOM}I think Mom is
 greedy. {PAUSE}{WIPE}
-Do we really need
-that much money
-here? {PAUSE}{EOM}{EOM}{EOM}
+Do we reス
 
 Message 90:
-Money is important,
+{D8}lly need
+that much money
+here? {PAUSE}{EOM}{EOM}{EOM}Money is important,
 even out here in
-the country...? {PAUSE}{WIPE}
-I don't know... {PAUSE}{EOM}{EOM}
+th
 
 Message 91:
-I think Dad is
+e country...? {PAUSE}{WIPE}
+I don't know... {PAUSE}{EOM}{EOM}I think Mom is
 greedy. {PAUSE}{WIPE}
-Do we really need
-that much money
-here? {PAUSE}{EOM}{EOM}{EOM}
+Do we reス
 
 Message 92:
-Dad has so much
+{D8}lly need
+that much money
+here? {PAUSE}{EOM}{EOM}{EOM}Mom has so much
 money saved, so
-he could just go {PAUSE}
+she could just go {PAUSE}
 on a trip with Mom
 or something... {PAUSE}{WIPE}
-I don't know why
-he doesn't go
-on vacation... {PAUSE}{EOM}
+I don't know
 
 Message 93:
-Dad! You can't take
+ why
+she doesn't go
+on vacation... {PAUSE}{EOM}Mom! You can't take
 money with you when
 you die! {PAUSE}{WIPE}
-I feel like yelling
-at him nowadays.{PAUSE}{EOM}{EOM}
+I び
 
 Message 94:
-I thought that we
-have enough money
-for a farm, but {PAUSE}
-am I wrong...? {PAUSE}{EOM}
+{DD}eel like yelling
+at him nowadays.{PAUSE}{EOM}{EOM}I thought that we
+have enough moと
 
 Message 95:
-Dad doesn't talk
+{E5}ey
+for a farm, but {PAUSE}
+am I wrong...? {PAUSE}{EOM}Mom doesn't talk
 a lot. {PAUSE}{WIPE}
-Sometimes he does
-talk a lot though. {PAUSE}{WIPE}
-I wish he would
-talk more... {PAUSE}{EOM}{EOM}{EOM}
+Sometimes she does
+talk a lot thoべ
 
 Message 96:
-Dad doesn't talk
+{EC}gh. {PAUSE}{WIPE}
+I wish she would
+talk more... {PAUSE}{EOM}{EOM}{EOM}Mom doesn't talk
 a lot. {PAUSE}{WIPE}
-Sometimes he does
-talk a lot though. {PAUSE}{WIPE}
-I wish he would
-talk more... {PAUSE}{EOM}{EOM}{EOM}
+Sometimes she does
+talk a lot tし
 
 Message 97:
-Dad doesn't talk
+{DF}ough. {PAUSE}{WIPE}
+I wish she would
+talk more... {PAUSE}{EOM}{EOM}{EOM}Mom doesn't talk
 a lot. {PAUSE}{WIPE}
-Sometimes he does
-talk a lot though. {PAUSE}{WIPE}
-I wish he would
-talk more... {PAUSE}{EOM}{EOM}{EOM}
+Sometimes she does
+talk a lot
 
 Message 98:
-I wonder why Mom
-got married to Dad? {PAUSE}{WIPE}
-She's not the type
-to want to be
-married so much. {PAUSE}{EOM}
+ though. {PAUSE}{WIPE}
+I wish she would
+talk more... {PAUSE}{EOM}{EOM}{EOM}I wonder why Mom
+got married to Mom? {PAUSE}{WIPE}
+She's nる
 
 Message 99:
-Mom looks pretty
+{E6}t the type
+to want to be
+married so much. {PAUSE}{EOM}Mom looks pretty
 young for her age. {PAUSE}{WIPE}
 Now that I think of
 it, not many women
-here look very old. {PAUSE}{WIPE}
-Maybe it's not
-just Mom... {PAUSE}{EOM}{EOM}
+here loべ
 
 Message 100:
-I wonder why Mom
-got married to Dad? {PAUSE}{WIPE}
-She's not the type
-to want to be
-married so much. {PAUSE}{EOM}
+{E6}k very old. {PAUSE}{WIPE}
+Maybe it's not
+just Mom... {PAUSE}{EOM}{EOM}I wonder why Mom
+got married to Mom? {PAUSE}{WIPE}
+She's nC
 
 Message 101:
-I like {LUMINA}
+{E6}t the type
+to want to be
+married so much. {PAUSE}{EOM}I like {LUMINA}
 because of her
 attitude. {PAUSE}{WIPE}
 He attitude reminds
 me of Mom's. {PAUSE}{WIPE}
-I don't think it's
-normal to like a
-girl older than you. {PAUSE}{EOM}{EOM}
+I don't think i0
 
 Message 102:
-I like {LUMINA}
+{EB}'s
+normal to like a
+girl older than you. {PAUSE}{EOM}{EOM}I like {LUMINA}
 because of her
 attitude. {PAUSE}{WIPE}
 He attitude reminds
 me of Mom's. {PAUSE}{WIPE}
-I don't think it's
-normal to like a
-girl older than you. {PAUSE}{EOM}{EOM}
+I don't think iキ
 
 Message 103:
-I like {LUMINA}
+{EB}'s
+normal to like a
+girl older than you. {PAUSE}{EOM}{EOM}I like {LUMINA}
 because of her
 attitude. {PAUSE}{WIPE}
 He attitude reminds
 me of Mom's. {PAUSE}{WIPE}
-I don't think it's
-normal to like a
-girl older than you. {PAUSE}{EOM}{EOM}
+I don't think iる
 
 Message 104:
-Mom is always
+{EB}'s
+normal to like a
+girl older than you. {PAUSE}{EOM}{EOM}Mom is always
 smiling, but
 sometimes she looks{PAUSE}
-very tired.
-I get worried when
-she says she's dizzy.{PAUSE}{EOM}
+very tiredパ
 
 Message 105:
-Mom is always
+{C8}
+I get worried when
+she says she's dizzy.{PAUSE}{EOM}Mom is always
 smiling, but
 sometimes she looks{PAUSE}
-very tired.
-I get worried when
-she says she's dizzy.{PAUSE}{EOM}
+very tiredパ
 
 Message 106:
-Mom is always
+{C8}
+I get worried when
+she says she's dizzy.{PAUSE}{EOM}Mom is always
 smiling, but
 sometimes she looks{PAUSE}
-very tired.
-I get worried when
-she says she's dizzy.{PAUSE}{EOM}
+very tiredパ
 
 Message 107:
-Mom isn't that
+{C8}
+I get worried when
+she says she's dizzy.{PAUSE}{EOM}Mom isn't that
 strong, but why
-doesn't Dad {PAUSE}
-do anything to
-help out? {PAUSE}{WIPE}
-That really makes
-me mad. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+doesn't Mom {PAUSE}
+do anything e
 
 Message 108:
-Mom isn't that
-strong, but why
-doesn't Dad {PAUSE}
-do anything to
+{EB}o
 help out? {PAUSE}{WIPE}
 That really makes
-me mad. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+me mad. {PAUSE}{EOM}{EOM}{EOM}{EOM}Mom isn't that
+strong, but why
+doesn't Mom {PAUSE}
+do anything e
 
 Message 109:
-Mom isn't that
-strong, but why
-doesn't Dad {PAUSE}
-do anything to
+{EB}o
 help out? {PAUSE}{WIPE}
 That really makes
-me mad. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+me mad. {PAUSE}{EOM}{EOM}{EOM}{EOM}Mom isn't that
+strong, but why
+doesn't Mom {PAUSE}
+do anything e
 
 Message 110:
-I think Mom
+{EB}o
+help out? {PAUSE}{WIPE}
+That really makes
+me mad. {PAUSE}{EOM}{EOM}{EOM}{EOM}I think Mom
 will make a good
 grandma... {PAUSE}{WIPE}
-I've got to make
-sure I have lots
-of children... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+I've got 
 
 Message 111:
-I like {KATE}. {PAUSE}
+to make
+sure I have lots
+of children... {PAUSE}{EOM}{EOM}{EOM}{EOM}I like {KATE}. {PAUSE}
 Do I like her because
 she's similar to Mom,
 or she's completely{PAUSE}
 opposite? It's
 later, I think.{PAUSE}{WIPE}
-It's kind of funny
-when I think
-about it. {PAUSE}{EOM}
+
 
 Message 112:
-I wonder what it
+It's kind of funny
+when I think
+about it. {PAUSE}{EOM}I wonder what it
 would be like
 married to {KATE}? {PAUSE}{WIPE}
 What the heck am
 I thinking... {PAUSE}{WIPE}
-I don't even know
-is she likes me
-or not... {PAUSE}{EOM}{EOM}{EOM}
+I d
 
 Message 113:
-Mom is always
+on't even know
+is she likes me
+or not... {PAUSE}{EOM}{EOM}{EOM}Mom is always
 telling me to
 study, {PAUSE}
 but she doesn't
-teach me anything. {PAUSE}{WIPE}
-I wish she would
-teach me... {PAUSE}{EOM}{EOM}{EOM}
+teach me i
 
 Message 114:
-Mom is always
+{D8}nything. {PAUSE}{WIPE}
+I wish she would
+teach me... {PAUSE}{EOM}{EOM}{EOM}Mom is always
 telling me to
 study, {PAUSE}
 but she doesn't
-teach me anything. {PAUSE}{WIPE}
-I wish she would
-teach me... {PAUSE}{EOM}{EOM}{EOM}
+teach me i
 
 Message 115:
-Mom is always
+{D8}nything. {PAUSE}{WIPE}
+I wish she would
+teach me... {PAUSE}{EOM}{EOM}{EOM}Mom is always
 telling me to
 study, {PAUSE}
 but she doesn't
-teach me anything. {PAUSE}{WIPE}
-I wish she would
-teach me... {PAUSE}{EOM}{EOM}{EOM}
+teach me が
 
 Message 116:
-Mom isn't that good
+{D8}nything. {PAUSE}{WIPE}
+I wish she would
+teach me... {PAUSE}{EOM}{EOM}{EOM}Mom isn't that good
 at cooking. {PAUSE}{WIPE}
-Dad must have
+Mom must have
 married her because
-he just likes how{PAUSE}
-she looks. {PAUSE}{WIPE}
-Lately that's what
-I really think. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+she just likes how{PAUSE}
+she loo
 
 Message 117:
-Mom is always
+ks. {PAUSE}{WIPE}
+Lately that's what
+I really think. {PAUSE}{EOM}{EOM}{EOM}{EOM}Mom is always
 nagging me. {PAUSE}{WIPE}
 I'm sure it's her
 way of showing she
-cares, but there's {PAUSE}
-got to me some other
-way to do it. {PAUSE}{EOM}
+cares, but j
 
 Message 118:
-I wonder if Dad
+{EB}here's {PAUSE}
+got to me some other
+way to do it. {PAUSE}{EOM}I wonder if Mom
 ever saw Mom
 without makeup... {PAUSE}{WIPE}
-If he did, he
+If she did, she
 probably wouldn't
 have married her. {PAUSE}{WIPE}
-Hmm, then I guess
-I never would have
-existed either?{PAUSE}{EOM}{EOM}
+Hmm, the
 
 Message 119:
-{KATE} is a lot
+n I guess
+I never would have
+existed either?{PAUSE}{EOM}{EOM}{KATE} is a lot
 like Mom. {PAUSE}{WIPE}
 Is that what I'm
 attracted to...? {PAUSE}{WIPE}
 I wonder what she
-thinks of me? {PAUSE}{WIPE}
-I get butterflies
-thinking of that. {PAUSE}{EOM}
+thinks 
 
 Message 120:
-Dad tells me I'm
+of me? {PAUSE}{WIPE}
+I get butterflies
+thinking of that. {PAUSE}{EOM}Mom tells me I'm
 good looking a lot,
 so today I sat{PAUSE}
 in the bathroom
 and looked in the
-mirror thoroughly. {PAUSE}{WIPE}
-I like just like you,
-don't I, Dad... {PAUSE}{EOM}{EOM}
+mirror thoroug
 
 Message 121:
-Doesn't matter how
+hly. {PAUSE}{WIPE}
+I look just like you,
+don't I, Mom... {PAUSE}{EOM}{EOM}Doesn't matter how
 old Mom gets, she's
 still absent-minded.{PAUSE}{WIPE}
 She always misplaces
-something.{PAUSE}{WIPE}
-Some things never
-change I guess...{PAUSE}{EOM}{EOM}{EOM}
+some0
 
 Message 122:
-Adults tell me not
-to go to the Blue
-Bar.{PAUSE}{WIPE}
-I want to become an
-adult quickly. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EB}hing.{PAUSE}{WIPE}
+Some things never
+change I guess...{PAUSE}{EOM}{EOM}{EOM}Adults tell me not
+to go to the Blと
 
 Message 123:
-I was told today I
+{EC}e
+Bar.{PAUSE}{WIPE}
+I want to become an
+adult quickly. {PAUSE}{EOM}{EOM}{EOM}{EOM}I was told today I
 look like my Mom. {PAUSE}{WIPE}
-How can that be?
-I'm a boy, and she's
-a girl. {PAUSE}{EOM}{EOM}
+ヲ
 
 Message 124:
-Now and then Dad
+{C12}ow can that be?
+I'm a boy, and she's
+a girl. {PAUSE}{EOM}{EOM}Now and then Mom
 goes to the forest,
 eats a mushroom and {PAUSE}
 then vanishes into
 thin air! {PAUSE}{WIPE}
-I want to try that
-too, but I'd probably
-get in trouble. {PAUSE}{EOM}
+I want to tr
 
 Message 125:
-I was worried
+y that
+too, but I'd probably
+get in trouble. {PAUSE}{EOM}I was worried
 because Mom seemed
 to have a terrible {PAUSE}
 nightmare the night
-before. {PAUSE}{WIPE}
-I wonder what kind
-of dream it was? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+be
 
 Message 126:
-Today I asked Mom
-how she met Dad. {PAUSE}{WIPE}
+fore. {PAUSE}{WIPE}
+I wonder what kind
+of dream it was? {PAUSE}{EOM}{EOM}{EOM}{EOM}Today I asked Mom
+how she met Mom. {PAUSE}{WIPE}
 Mom blushed and
-wouldn't tell me. {PAUSE}{WIPE}
-I can't believe she
-wouldn't tell me. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+wouldn't tell ぺ
 
 Message 127:
-Lately I've been
+{E4}e. {PAUSE}{WIPE}
+I can't believe she
+wouldn't tell me. {PAUSE}{EOM}{EOM}{EOM}{EOM}Lately I've been
 very impudent to
 Mom lately. {PAUSE}{WIPE}
 I hate to say it,
-but just looking
-at Mom can get me {PAUSE}
-really riled up. {PAUSE}{EOM}{EOM}
+but just
 
 Message 128:
-Dad has been really
+ looking
+at Mom can get me {PAUSE}
+really riled up. {PAUSE}{EOM}{EOM}Mom has been really
 hard on me. {PAUSE}
-I'm sure he must
+I'm sure she must
 think it would've
-been better if I was{PAUSE}
-never born at all.
-(sigh)... {PAUSE}{EOM}{EOM}
+been 
 
 Message 129:
-I want to become an
-adult quickly. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+better if I was{PAUSE}
+never born at all.
+(sと
 
 Message 130:
-Lately I've been
+{E0}gh)... {PAUSE}{EOM}{EOM}I want to become an
+adult quickly. {PAUSE}{EOM}{EOM}{EOM}{EOM}Lately I've been
 very impudent to
-Dad lately.{PAUSE}
+Mom lately.{PAUSE}
 I hate to say it,
-but just looking
-at him can get me{PAUSE}
-really riled up.{PAUSE}{EOM}{EOM}
+but ju
 
 Message 131:
-Dad has been really
+st looking
+at her can get me{PAUSE}
+really riled up.{PAUSE}{EOM}{EOM}Mom has been really
 hard on me lately. {PAUSE}
-I'm sure he must
+I'm sure she must
 think it would've
-been better if I was{PAUSE}
-never born at all.
-(sigh)... {PAUSE}{EOM}
+bee
 
 Message 132:
-I'm getting to the
+n better if I was{PAUSE}
+never born at all.
+(sigh)... {PAUSE}{EOM}I'm getting to the
 age where I should
 be married soon... {PAUSE}
-I don't even have
-a girlfriend. {PAUSE}
-I'm really in a
-mess now... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+I don't even haろ
 
 Message 133:
-I can't stop
+{ED}e
+a girlfriend. {PAUSE}
+I'm really in a
+mess now... {PAUSE}{EOM}{EOM}{EOM}{EOM}I can't stop
 drinking. {PAUSE}
 I get so drunk
 easily now. {PAUSE}
-I'm worried I'll
-go and do something
-stupid while drunk. {PAUSE}{EOM}
+I'm worrie
 
 Message 134:
-I feel there is a
+d I'll
+go and do something
+stupid while drunk. {PAUSE}{EOM}I feel there is a
 world filled with
 obstacles I'm {PAUSE}
 not yet aware even
 exist. {PAUSE}
-I think things are
-fine the way they
-are though. {PAUSE}{EOM}{EOM}
+I 0
 
 Message 135:
-I can't stop
+{EB}hink things are
+fine the way they
+are though. {PAUSE}{EOM}{EOM}I can't stop
 drinking. {PAUSE}
 I get so drunk
 easily now. {PAUSE}
-I'm worried I'll
-go and do something
-stupid while drunk. {PAUSE}{EOM}
+I'm worrie
 
 Message 136:
-I feel there is a
+d I'll
+go and do something
+stupid while drunk. {PAUSE}{EOM}I feel there is a
 world filled with
 obstacles I'm {PAUSE}
 not yet aware even
 exist. {PAUSE}
-I think things are
-fine the way they
-are though. {PAUSE}{EOM}{EOM}
+I a
 
 Message 137:
-I think maybe I
-should become an
-athlete because my {PAUSE}
-legs are very
-fast. {PAUSE}{EOM}{EOM}{EOM}
+{EB}hink things are
+fine the way they
+are though. {PAUSE}{EOM}{EOM}I think maybe I
+should beco
 
 Message 138:
-I think maybe I
-should become an
-athlete because{PAUSE}
-I'm very fast. {PAUSE}{EOM}{EOM}
+me an
+athlete because my {PAUSE}
+legs are very
+fast. {PAUSE}{EOM}{EOM}{EOM}I think maybe I
+shス
 
 Message 139:
-I think maybe I
-should become an
+{E6}uld become an
 athlete because{PAUSE}
-I'm very fast. {PAUSE}{EOM}{EOM}
+I'm very fast. {PAUSE}{EOM}{EOM}I think maybe I
+shス
 
 Message 140:
-I can feel it.
-I can become faster
-than {HUGH}... {PAUSE}{EOM}{EOM}{EOM}
+{E6}uld become an
+athlete because{PAUSE}
+I'm very fast. 
 
 Message 141:
-I can feel it.
+{PAUSE}{EOM}{EOM}I can feel it.
 I can become faster
-than {HUGH}... {PAUSE}{EOM}{EOM}{EOM}
+than {HUGH}... {PAUSE}
 
 Message 142:
-I can feel it.
+{EOM}{EOM}{EOM}I can feel it.
 I can become faster
-than {HUGH}... {PAUSE}{EOM}{EOM}{EOM}
+than {HUGH}... {PAUSE}
 
 Message 143:
-I know exactly what
+{EOM}{EOM}{EOM}I can feel it.
+I can become faster
+than {HUGH}... {PAUSE}{EOM}{EOM}{EOM}I know exactly what
 I want now. {PAUSE}{WIPE}
 I want to try and
 become a pro-
-athlete. {PAUSE}{WIPE}
-That is, as long
-as I don't change
-my mind... {PAUSE}{EOM}
+athlete. 
 
 Message 144:
-I know exactly what
+{PAUSE}{WIPE}
+That is, as long
+as I don't change
+my mind... {PAUSE}{EOM}I know exactly what
 I want now. {PAUSE}{WIPE}
 I want to try and
 become a pro-
-athlete. {PAUSE}{WIPE}
-That is, as long
-as I don't change
-my mind... {PAUSE}{EOM}
+athlete. 
 
 Message 145:
-I know exactly what
+{PAUSE}{WIPE}
+That is, as long
+as I don't change
+my mind... {PAUSE}{EOM}I know exactly what
 I want now. {PAUSE}{WIPE}
 I want to try and
 become a pro-
-athlete. {PAUSE}{WIPE}
-That is, as long
-as I don't change
-my mind... {PAUSE}{EOM}
+athlete. 
 
 Message 146:
-Mom said I'm
+{PAUSE}{WIPE}
+That is, as long
+as I don't change
+my mind... {PAUSE}{EOM}Mom said I'm
 really good at
-singing. {PAUSE}{WIPE}
-Maybe I'll become
-a singer someday. {PAUSE}{EOM}{EOM}{EOM}
+sV
 
 Message 147:
-Mom said I was
-really good at
-singing. {PAUSE}{WIPE}
+{E0}nging. {PAUSE}{WIPE}
 Maybe I'll become
-a singer someday. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+a singer someday. {PAUSE}{EOM}{EOM}{EOM}Mom said I was
+really good at
+si
 
 Message 148:
-Mom said I was
-really good at
-singing. {PAUSE}{WIPE}
+nging. {PAUSE}{WIPE}
 Maybe I'll become
-a singer someday. {PAUSE}{EOM}{EOM}{EOM}{EOM}
+a singer someday. {PAUSE}{EOM}{EOM}{EOM}{EOM}Mom said I was
+really good at
+si
 
 Message 149:
-I've become aware of
+nging. {PAUSE}{WIPE}
+Maybe I'll become
+a singer someday. {PAUSE}{EOM}{EOM}{EOM}{EOM}I've become aware of
 my own talents! {PAUSE}{WIPE}
 I'm musically
-inclined! {PAUSE}{WIPE}
-I don't know who I
-get that from
-though... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+inclinedぼ
 
 Message 150:
-I've become aware of
-my own talents! {PAUSE}{WIPE}
-Turns out I'm
-musically inclined! {PAUSE}{WIPE}
+{CB} {PAUSE}{WIPE}
 I don't know who I
 get that from
-though... {PAUSE}{EOM}{EOM}
+though... {PAUSE}{EOM}{EOM}{EOM}{EOM}I've become aware of
+my own talents! {PAUSE}{WIPE}
+Turns out I'm
+musically inclinej
 
 Message 151:
-I've become aware of
-my own talents! {PAUSE}{WIPE}
-Turns out I'm
-musically inclined! {PAUSE}{WIPE}
+{DB}! {PAUSE}{WIPE}
 I don't know who I
 get that from
-though... {PAUSE}{EOM}{EOM}
+though... {PAUSE}{EOM}{EOM}I've become aware of
+my own talents! {PAUSE}{WIPE}
+Turns out I'm
+musically inclinej
 
 Message 152:
-I definitely want
+{DB}! {PAUSE}{WIPE}
+I don't know who I
+get that from
+though... {PAUSE}{EOM}{EOM}I definitely want
 to become a singer. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 153:
-I definitely want
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I definitely want
 to become a singer. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 154:
-I definitely want
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I definitely want
 to become a singer. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 155:
-{CODY} said
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}{CODY} said
 I had "promise". {PAUSE}{WIPE}
 when I showed him
 the picture that
-I drew before. {PAUSE}{WIPE}
-Isn't "promise"
-that butter?
-Hmm... {PAUSE}{EOM}
+I drew 
 
 Message 156:
-{CODY} said
+before. {PAUSE}{WIPE}
+Isn't "promise"
+that butter?
+Hmm... {PAUSE}{EOM}{CODY} said
 I had "promise". {PAUSE}{WIPE}
 when I showed him
 the picture that
-I drew before. {PAUSE}{WIPE}
-Isn't "promise"
-that butter?
-Hmm... {PAUSE}{EOM}
+I drew 
 
 Message 157:
-{CODY} said
+before. {PAUSE}{WIPE}
+Isn't "promise"
+that butter?
+Hmm... {PAUSE}{EOM}{CODY} said
 I had "promise". {PAUSE}{WIPE}
 when I showed him
 the picture that
-I drew before. {PAUSE}{WIPE}
-Isn't "promise"
-that butter?
-Hmm... {PAUSE}{EOM}
+I drew 
 
 Message 158:
-I've become aware of
+before. {PAUSE}{WIPE}
+Isn't "promise"
+that butter?
+Hmm... {PAUSE}{EOM}I've become aware of
 my own talents! {PAUSE}{WIPE}
 Turns out I'm
 artistically
-inclined! {PAUSE}{WIPE}
-I don't know who I
-get that from
-though... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+inclinedむ
 
 Message 159:
-I've become aware of
+{CB} {PAUSE}{WIPE}
+I don't know who I
+get that from
+though... {PAUSE}{EOM}{EOM}{EOM}{EOM}I've become aware of
 my own talents! {PAUSE}{WIPE}
 Turns out I'm
 artistically
-inclined! {PAUSE}{WIPE}
-I don't know who I
-get that from
-though... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+inclined0
 
 Message 160:
-I've become aware of
+{CB} {PAUSE}{WIPE}
+I don't know who I
+get that from
+though... {PAUSE}{EOM}{EOM}{EOM}{EOM}I've become aware of
 my own talents! {PAUSE}{WIPE}
 Turns out I'm
 artistically
-inclined! {PAUSE}{WIPE}
-I don't know who I
-get that from
-though... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+inclined1
 
 Message 161:
-I definitely want
+{CB} {PAUSE}{WIPE}
+I don't know who I
+get that from
+though... {PAUSE}{EOM}{EOM}{EOM}{EOM}I definitely want
 to become a artist. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 162:
-I definitely want
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I definitely want
 to become a artist. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 163:
-I definitely want
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I definitely want
 to become a artist. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 164:
-I was born and
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I was born and
 raised on a farm,
-so I think I can {PAUSE}
-become the king of
-all the farms! {PAUSE}{EOM}
+so I
 
 Message 165:
-I was born and
-raised on a farm,
-so I think I can {PAUSE}
+ think I can {PAUSE}
 become the king of
-all the farms! {PAUSE}{EOM}
+all the farms! {PAUSE}{EOM}I was born and
+raised on a farm,
+so I
 
 Message 166:
-I was born and
-raised on a farm,
-so I think I can {PAUSE}
+ think I can {PAUSE}
 become the king of
-all the farms! {PAUSE}{EOM}
+all the farms! {PAUSE}{EOM}I was born and
+raised on a farm,
+so I
 
 Message 167:
-I have a much better
-sense for dairy
-farming than Dad!{PAUSE}{EOM}
+ think I can {PAUSE}
+become the king of
+all the farms! {PAUSE}{EOM}I have そ
 
 Message 168:
-I have a much better
+{D8} much better
 sense for dairy
-farming than Dad!{PAUSE}{EOM}
+farming than Mom!{PAUSE}{EOM}I have Z
 
 Message 169:
-I have a much better
+{D8} much better
 sense for dairy
-farming than Dad!{PAUSE}{EOM}
+farming than Mom!{PAUSE}{EOM}I have す
 
 Message 170:
-I think I want to
-follow in Dad's
+{D8} much better
+sense for dairy
+farming than Mom!{PAUSE}{EOM}I think I want to
+follow in Mom's
 footsteps and run {PAUSE}
 a farm... {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 171:
-I think I want to
-follow in Dad's
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I think I want to
+follow in Mom's
 footsteps and run {PAUSE}
 a farm... {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 172:
-I think I want to
-follow in Dad's
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I think I want to
+follow in Mom's
 footsteps and run {PAUSE}
 a farm... {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 173:
-I'm very patient, so
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I'm very patient, so
 I should steer
 towards growing{PAUSE}
-crops. That's what
-{VESTA} told me. {PAUSE}{WIPE}
-I wonder if that's
-really true? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+crops. That's whaj
 
 Message 174:
-I'm very patient, so
-I should steer
-towards growing{PAUSE}
-crops. That's what
+{EB}
 {VESTA} told me. {PAUSE}{WIPE}
 I wonder if that's
-really true? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+really true? {PAUSE}{EOM}{EOM}{EOM}{EOM}I'm very patient, so
+I should steer
+towards growing{PAUSE}
+crops. That's whaj
 
 Message 175:
-I'm very patient, so
-I should steer
-towards growing{PAUSE}
-crops. That's what
+{EB}
 {VESTA} told me. {PAUSE}{WIPE}
 I wonder if that's
-really true? {PAUSE}{EOM}{EOM}{EOM}{EOM}
+really true? {PAUSE}{EOM}{EOM}{EOM}{EOM}I'm very patient, so
+I should steer
+towards growing{PAUSE}
+crops. That's whaj
 
 Message 176:
-I wonder if I really
+{EB}
+{VESTA} told me. {PAUSE}{WIPE}
+I wonder if that's
+really true? {PAUSE}{EOM}{EOM}{EOM}{EOM}I wonder if I really
 have a "green
-thumb"? {PAUSE}{WIPE}
-I'll try growing
-a flower secretly
-and see. {PAUSE}{EOM}{EOM}{EOM}
+thumb"? 
 
 Message 177:
-I wonder if I really
-have a "green
-thumb"? {PAUSE}{WIPE}
+{PAUSE}{WIPE}
 I'll try growing
 a flower secretly
-and see. {PAUSE}{EOM}{EOM}{EOM}
+and see. {PAUSE}{EOM}{EOM}{EOM}I wonder if I really
+have a "green
+thumb"? 
 
 Message 178:
-I wonder if I really
-have a "green
-thumb"? {PAUSE}{WIPE}
+{PAUSE}{WIPE}
 I'll try growing
 a flower secretly
-and see. {PAUSE}{EOM}{EOM}{EOM}
+and see. {PAUSE}{EOM}{EOM}{EOM}I wonder if I really
+have a "green
+thumb"? 
 
 Message 179:
-I definitely want
+{PAUSE}{WIPE}
+I'll try growing
+a flower secretly
+and see. {PAUSE}{EOM}{EOM}{EOM}I definitely want
 to become someone
 who grows crops. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 180:
-I definitely want
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I definitely want
 to become someone
 who grows crops. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 181:
-I definitely want
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I definitely want
 to become someone
 who grows crops. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 182:
-I think I could
-become a famous
-scientist. {PAUSE}{EOM}
+
+As long as I don't
+change my mind,
+that is..
 
 Message 183:
-I think I could
+. {PAUSE}{EOM}{EOM}{EOM}I think I could
 become a famous
-scientist. {PAUSE}{EOM}
+scientis
 
 Message 184:
-I think I could
+t. {PAUSE}{EOM}I think I could
 become a famous
-scientist. {PAUSE}{EOM}
+scientis
 
 Message 185:
-I might be a genius.{PAUSE}{WIPE}
+t. {PAUSE}{EOM}I think I could
+become a famous
+scientist. {PAUSE}{EOM}I might be a genius.{PAUSE}{WIPE}
 I was able to
 understand half of
 what {DARYL} said. {PAUSE}{WIPE}
-That's pretty
-amazing when you
-think about it! {PAUSE}{EOM}
+h
 
 Message 186:
-I might be a genius.{PAUSE}{WIPE}
+{1E}hat's pretty
+amazing when you
+think about it! {PAUSE}{EOM}I might be a genius.{PAUSE}{WIPE}
 I was able to
 understand half of
 what {DARYL} said. {PAUSE}{WIPE}
-That's pretty
-amazing when you
-think about it! {PAUSE}{EOM}
+h
 
 Message 187:
-I might be a genius.{PAUSE}{WIPE}
+{1E}hat's pretty
+amazing when you
+think about it! {PAUSE}{EOM}I might be a genius.{PAUSE}{WIPE}
 I was able to
 understand half of
 what {DARYL} said. {PAUSE}{WIPE}
-That's pretty
-amazing when you
-think about it! {PAUSE}{EOM}
+h
 
 Message 188:
-I definitely want
+{1E}hat's pretty
+amazing when you
+think about it! {PAUSE}{EOM}I definitely want
 to become a
 researcher. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 189:
-I definitely want
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I definitely want
 to become a
 researcher. {PAUSE}{WIPE}
 I know it's vague,
 but that's what
 I want to do... {PAUSE}{WIPE}
-As long as I don't
-change my mind,
-that is... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 190:
-I definitely want
+
+As long as I don't
+change my mind,
+that is... {PAUSE}{EOM}{EOM}{EOM}I definitely want
 to become a
 researcher. {PAUSE}{WIPE}
 I know it's vague,
