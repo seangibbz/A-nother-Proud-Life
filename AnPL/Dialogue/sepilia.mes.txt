@@ -270,7 +270,7 @@ Message 65:
 
 Message 66:
 {S_340193}My, {TATSUYA}.
-Are you on a walk with your Mommy?
+Are you on a walk with your Daddy?
 How nice.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 67:
@@ -280,7 +280,7 @@ Does he go home at night?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 68:
 {S_340193}My, {TATSUYA}.
-Are you on a walk with your Mommy?
+Are you on a walk with your Daddy?
 How nice.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 69:

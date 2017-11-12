@@ -1644,271 +1644,272 @@ When children get older, they need
 a room of their own. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 394:
-Your daughter is really starting to
-act like a mother.{PAUSE}{WIPE}
+Your son is really starting to
+act like a father.{PAUSE}{WIPE}
 It makes me feel old
-though.{PAUSE}{EOM}{EOM}
+though.{PAUSE}{EOM}{EOM}{TATSUYA} gr
 
 Message 395:
-{TATSUYA} grows bigger all the
+ows bigger all the
 time. Reminds me of you when you were
-that age.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+that age.{PAUSE}{EOM}{EOM}{EOM}{EOM}Child
 
 Message 396:
-Children may not always
-turn out how their parents hope.{PAUSE}{EOM}{EOM}{EOM}
+ren may not always
+turn out how their parents hope.{PAUSE}{EOM}{EOM}{EOM}{DRAW_02}But
 
 Message 397:
-{DRAW_02}But {TATSUYA} looks quite
+ {TATSUYA} looks quite
 healthy.
-That's the important thing.{S_320BB8}{EOM}{EOM}{EOM}{EOM}
+That's the important thing.{S_320BB8}{EOM}{EOM}{EOM}{EOM}Who's
 
 Message 398:
-Who's that, you
+ that, you
 ask?{S_3203E8} It's that young scoundrel...{S_3203E8} {TATSUYA}.
-{PETE}'s child.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PETE}'s child.{PAUSE}{EOM}{EOM}{EOM}{EOM}{TATSUYA} is
 
 Message 399:
-{TATSUYA} is at a difficult stage
+ at a difficult stage
 when one rebels against everything.
-Don't you remember feeling that way?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Don't you remember feeling that way?{PAUSE}{EOM}{EOM}{EOM}{EOM}Who's
 
 Message 400:
-Who's that, you ask?{S_3203E8}
+ that, you ask?{S_3203E8}
 Why, it's...{S_3203E8} {TATSUYA}.{PAUSE}{WIPE}
-{PETE}'s kid.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PETE}'s kid.{PAUSE}{EOM}{EOM}{EOM}{EOM}{TATSUYA} is
 
 Message 401:
-{TATSUYA} is at a difficult stage.
+ at a difficult stage.
 Adolescence...
-Don't you remember that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Don't you remember that?{PAUSE}{EOM}{EOM}{EOM}{EOM}Oh, a
 
 Message 402:
-Oh, and look closely.{FACER_000000}
+nd look closely.{FACER_000000}
 {?_39}
 Your daughter's house is larger
-now.{PAUSE}{EOM}{EOM}{EOM}
+now.{PAUSE}{EOM}{EOM}{EOM}The c
 
 Message 403:
-The child doesn't need as much care now
+hild doesn't need as much care now
 so they made a room for the two of them.{PAUSE}{WIPE}
 When the neighbors saw {PETE}
 working hard to build it, they joined in
-and helped.{PAUSE}{EOM}{EOM}
+and helped.{PAUSE}{EOM}{EOM}I'm s
 
 Message 404:
-I'm sure she'll keep working hard
+ure she'll keep working hard
 on the farm.
-I'll have to do my best, too.{PAUSE}{EOM}{EOM}{EOM}
+I'll have to do my best, too.{PAUSE}{EOM}{EOM}{EOM}{PETE} ce
 
 Message 405:
-{PETE} certainly is a hard worker.{S_3203E8}
+rtainly is a hard worker.{S_3203E8}
 Now that the child doesn't need as much
 attention, she decided to make a nice
-bedroom for her spouse.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+bedroom for her spouse.{PAUSE}{EOM}{EOM}{EOM}{EOM}Your 
 
 Message 406:
-Your daughter is a fine
+daughter is a fine
 farmer.{PAUSE}
 You'd think I might be retiring soon, but
-I still got some good years in me.{PAUSE}{EOM}{EOM}
+I still got some good years in me.{PAUSE}{EOM}{EOM}{DRAW_02}The
 
 Message 407:
-{DRAW_02}They sure grow up fast, don't they?{S_3203E8}{EOM}{EOM}{EOM}{EOM}
+y sure grow up fast, don't they?{S_3203E8}{EOM}{EOM}{EOM}{EOM}{DRAW_02}I w
 
 Message 408:
-{DRAW_02}I wonder what it would be like
+onder what it would be like
 to watch your grandchildren grow up...{S_3203E8}
 Anyway, {TATSUYA} is just like
 {PETE}. Everything from looks
 to how they walk are just the same.{S_3203E8}{PAUSE}{WIPE}
 Which means that they look like you
-too, I guess.{S_3203E8}{PAUSE}{EOM}
+too, I guess.{S_3203E8}{PAUSE}{EOM}{TATSUYA} is
 
 Message 409:
-{TATSUYA} is grown up now.
+ grown up now.
 It's amazing how kids get lives
-of their own after a while.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+of their own after a while.{PAUSE}{EOM}{EOM}{EOM}{EOM}It mu
 
 Message 410:
-It must be nice to watch your children
+st be nice to watch your children
 grow, but I bet it's a little sad when
-they no longer need you.{PAUSE}{EOM}
+they no longer need you.{PAUSE}{EOM}Oh, a
 
 Message 411:
-Oh, about the farm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+bout the farm.{PAUSE}{EOM}{EOM}{EOM}{EOM}Your 
 
 Message 412:
-Your daughter certainly is a
+daughter certainly is a
 hard worker.{S_3207D0}{PAUSE}{WIPE}
 At first I thought we'd be doing
 well just to make ends meet.
 But we exceeded expectations.{PAUSE}{WIPE}
 Of course, that makes me busier too.
-Well, I'll keep at it as long as I can.{PAUSE}{EOM}{EOM}
+Well, I'll keep at it as long as I can.{PAUSE}{EOM}{EOM}We're
 
 Message 413:
-We're doing well at the moment.
+ doing well at the moment.
 Your daughter works hard,
 I'm glad to say.{PAUSE}{WIPE}
 Her family is just fine and
-there's nothing to worry about.{PAUSE}{EOM}{EOM}{EOM}
+there's nothing to worry about.{PAUSE}{EOM}{EOM}{EOM}I'm a
 
 Message 414:
-I'm afraid the farm isn't doing
+fraid the farm isn't doing
 all that well.{S_3207D0}{PAUSE}{WIPE}
 Your daughter seems to enjoy herself
 more in places far from our fields.{PAUSE}{WIPE}
 But that's just fine.
 Don't you think?
-If she enjoys life, that's what matters.{PAUSE}{EOM}
+If she enjoys life, that's what matters.{PAUSE}{EOM}Your 
 
 Message 415:
-Your daughter is quite a bit older.{S_3207D0}
-So have I, but I'm hanging in there.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+daughter is quite a bit older.{S_3207D0}
+So have I, but I'm hanging in there.{PAUSE}{EOM}{EOM}{EOM}{EOM}{CHAR_49} is
 
 Message 416:
-{CHAR_49} is young and handsome as ever.
-You'd never guess his son to be so old.{PAUSE}{EOM}{EOM}
+ young and handsome as ever.
+You'd never guess his son to be so old.{PAUSE}{EOM}{EOM}That 
 
 Message 417:
-That {TATSUYA} is a
-lot more mature.{PAUSE}{EOM}{EOM}
+{TATSUYA} is a
+lot more mature.{PAUSE}{EOM}{EOM}I thi
 
 Message 418:
-I think {TATSUYA} has succeeded
+nk {TATSUYA} has succeeded
 {PETE}...
-Maybe I should think about retiring.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Maybe I should think about retiring.{PAUSE}{EOM}{EOM}{EOM}{EOM}{CHOICE2 DEF0}
+Ch
 
 Message 419:
-{CHOICE2 DEF0}
-Chase.
-Don't chase.{EOM}{EOM}
+ase.
+Don't chase.{EOM}{EOM}I gue
 
 Message 420:
-I guess your daughter just wasn't cut out
+ss your daughter just wasn't cut out
 for life on the farm.{PAUSE}{WIPE}
 But she has to live her own life,
 so I guess there's nothing that can
-be done about it.{PAUSE}{EOM}{EOM}
+be done about it.{PAUSE}{EOM}{EOM}Hey!{S_329F99}
 
 Message 421:
-Hey!{S_3202BC}{EOM}
+ _{EOM}Over 
 
 Message 422:
-Over here!{S_3202BC}{EOM}{EOM}{EOM}
+here!{S_3202BC}{EOM}{EOM}{EOM}Crops
 
 Message 423:
-Crops won't grow if you plant
+ won't grow if you plant
 them next to fruit trees!{PAUSE}{WIPE}
 Fruit trees are taller than other
 plants, so they overshadow them!
-Plan carefully next time!{PAUSE}{EOM}
+Plan carefully next time!{PAUSE}{EOM}There
 
 Message 424:
-There is a note from Takakura:{PAUSE}{WIPE}
+ is a note from Takakura:{PAUSE}{WIPE}
 “Hey, there was somebody who really
 wanted to buy that weird crop.{PAUSE}{WIPE}
 They said they want to buy some seeds too.
 If you grow any more of those, put them in
-this bin. I'll sell them for you.”{PAUSE}{EOM}
+this bin. I'll sell them for you.”{PAUSE}{EOM}Isola
 
 Message 425:
-Isolate the cow?
+te the cow?
 {CHOICE2 DEF0}
 Yes.
-No.{EOM}{EOM}{EOM}{EOM}
+No.{EOM}{EOM}{EOM}{EOM}Sever
 
 Message 426:
-Several days later...{PAUSE}{EOM}{EOM}
+al days later...{PAUSE}{EOM}{EOM}It ha
 
 Message 427:
-It happened so suddenly.
+ppened so suddenly.
 We don't know the cause,
 but I'm afraid your child passed away.{PAUSE}{WIPE}
 You didn't come and get her, did you?
 If so, your priorities were not in order.
-I should have gone first...{PAUSE}{EOM}
+I should have gone first...{PAUSE}{EOM}Your 
 
 Message 428:
-Your child lived a good life.
+child lived a good life.
 She did everything she had to.{PAUSE}{WIPE}
 The farm is successful, her spouse is
 well and {TATSUYA}...{PAUSE}
 Yes, I think your grandchild
-has chosen a path in life.{PAUSE}{EOM}{EOM}{EOM}
+has chosen a path in life.{PAUSE}{EOM}{EOM}{EOM}Forge
 
 Message 429:
-Forget-Me-Not Valley is a little
-lonelier, but we're carrying on.{PAUSE}{EOM}{EOM}
+t-Me-Not Valley is a little
+lonelier, but we're carrying on.{PAUSE}{EOM}{EOM}Do yo
 
 Message 430:
-Do you remember when you first came
+u remember when you first came
 here?{S_3207D0}
 And when was it that I arrived here
-with your daughter?{PAUSE}{EOM}{EOM}{EOM}
+with your daughter?{PAUSE}{EOM}{EOM}{EOM}Your 
 
 Message 431:
-Your child followed in your
+child followed in your
 footsteps. Surely that makes you
-happy, right?{PAUSE}{EOM}
+happy, right?{PAUSE}{EOM}I'm s
 
 Message 432:
-I'm sure I'll be there to see you soon
-enough. Maybe we three can begin a farm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+ure I'll be there to see you soon
+enough. Maybe we three can begin a farm.{PAUSE}{EOM}{EOM}{EOM}{EOM}Your 
 
 Message 433:
-Your grandchild...{S_3203E8} decided
+grandchild...{S_3203E8} decided
 to follow in {PETE}'s footsteps.{S_3203E8}
 {TATSUYA} is working very hard to{PAUSE}{WIPE}
 learn how to be a farmer.{S_3203E8}
 He reminds me of {PETE} when
 I first brought her here.{S_3201F4}{PAUSE}{WIPE}
 The spitting image.{S_3203E8}
-It's almost funny.{S_3207D0}{PAUSE}{EOM}{EOM}{EOM}
+It's almost funny.{S_3207D0}{PAUSE}{EOM}{EOM}{EOM}But {CHAR_2E}
 
 Message 434:
-But {TATSUYA} was born into
+
+ was born into
 farm life.{S_3201F4}
 A farming thoroughbred of sorts.{S_3203E8}
 {TATSUYA} may do better than your son.{S_3201F4}
-Or at least I think so sometimes.{S_3207D0}{EOM}{EOM}
+Or at least I think so sometimes.{S_3207D0}{EOM}{EOM}She m
 
 Message 435:
-She might not like me to say that.{S_3201F4}
+ight not like me to say that.{S_3201F4}
 Maybe she'll come back and haunt me...{S_3201F4}
 That'd be scary...{S_3203E8}
 I'm sorry, {PETE}.
-You did a good job too.{S_3205DC} ...OK?{S_3207D0}{EOM}{EOM}{EOM}
+You did a good job too.{S_3205DC} ...OK?{S_3207D0}{EOM}{EOM}{EOM}It lo
 
 Message 436:
-It looks like your grandchild decided
+oks like your grandchild decided
 to take over the farm.{S_3203E8}
 I think {TATSUYA} wants to
-concentrate on growing crops.{S_3207D0}{EOM}{EOM}{EOM}{EOM}
+concentrate on growing crops.{S_3207D0}{EOM}{EOM}{EOM}{EOM}{TATSUYA} wi
 
 Message 437:
-{TATSUYA} will get along with {TARTAN}.{S_3203E8}
+ll get along with {TARTAN}.{S_3203E8}
 {TARTAN} complimented {TATSUYA}
 just the other day.{S_3201F4}
 {TATSUYA} might come up with some
-crops even {PETE} never grew.{S_3207D0}{EOM}
+crops even {PETE} never grew.{S_3207D0}{EOM}I hav
 
 Message 438:
-I have this strange visitor here.{S_3203E8}
+e this strange visitor here.{S_3203E8}
 His name is {TARTAN} and if you
 feed him seeds or crops he can turn them
 into new varieties.{S_3203E8}
 {TATSUYA} started right off
-making all kinds of new crops.{S_3207D0}{EOM}{EOM}{EOM}
+making all kinds of new crops.{S_3207D0}{EOM}{EOM}{EOM}I can
 
 Message 439:
-I can't help but wish {TATSUYA}
+'t help but wish {TATSUYA}
 would spend more time on the animals.{S_3203E8}
-But...{S_3203E8} I guess it's OK.{S_3207D0}{EOM}
+But...{S_3203E8} I guess it's OK.{S_3207D0}{EOM}I won
 
 Message 440:
-I wonder where {TATSUYA} got it from,
+der where {TATSUYA} got it from,
 but your grandchild has a musical talent.{S_320FA0}
 I've never even heard {PETE}
 sing a song...{S_3207D0}
@@ -1917,65 +1918,65 @@ Your were quite tone deaf, I recall.{S_3203E8}{PAUSE}{WIPE}
 I can still hear the shrill racket.{S_3203E8}
 Your voice sounded like an alley cat.{S_3207D0}
 I bet {TATSUYA} got it from {CHAR_49}.{S_3207D0}{PAUSE}{WIPE}
-Even {ROMANA} was surprised.{S_320FA0}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Even {ROMANA} was surprised.{S_320FA0}{PAUSE}{EOM}{EOM}{EOM}{EOM}Anywa
 
 Message 441:
-Anyway, {TATSUYA} and {GUSTAFA}
+y, {TATSUYA} and {GUSTAFA}
 are good friends.{PAUSE}{WIPE}
 They said something about starting a group
 and playing “gigs” -- whatever they are.
-These kids today...{PAUSE}{EOM}{EOM}
+These kids today...{PAUSE}{EOM}{EOM}The t
 
 Message 442:
-The two of them said they wanted
+wo of them said they wanted
 as many people as possible to hear their
 music, so they went on tour.{PAUSE}{WIPE}
 Since {TATSUYA}'s with {GUSTAFA}...
 You have to wonder if we'll see your
-grandchild again...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+grandchild again...{PAUSE}{EOM}{EOM}{EOM}{EOM}Your 
 
 Message 443:
-Your grandchild was always interested in
+grandchild was always interested in
 art, you know.
-{TATSUYA} often talked with {CODY}.{PAUSE}{EOM}{EOM}{EOM}
+{TATSUYA} often talked with {CODY}.{PAUSE}{EOM}{EOM}{EOM}I don
 
 Message 444:
-I don't know what {TATSUYA} and {CODY}
+'t know what {TATSUYA} and {CODY}
 talk about, but I guess {TATSUYA} has
-all kinds of plans.{PAUSE}{EOM}
+all kinds of plans.{PAUSE}{EOM}{TATSUYA} le
 
 Message 445:
-{TATSUYA} left a note and disappeared
+ft a note and disappeared
 one day. {CHAR_49} was terribly
 shocked. Well, maybe it's a phase.{S_3207D0}
 It's not as if I can't understand
-{TATSUYA}'s feelings...{PAUSE}{EOM}{EOM}{EOM}
+{TATSUYA}'s feelings...{PAUSE}{EOM}{EOM}{EOM}After
 
 Message 446:
-After a while, {CHAR_49} received
+ a while, {CHAR_49} received
 a letter from {TATSUYA}.
 I guess it's one of those things where you{S_3207D0}
 “find yourself” or something. I don't
 know.{S_3207D0}{PAUSE}{WIPE}
 I'm certainly no artist.
 ..............................
-But I guess we have to trust {TATSUYA}.{PAUSE}{EOM}{EOM}{EOM}
+But I guess we have to trust {TATSUYA}.{PAUSE}{EOM}{EOM}{EOM}Your 
 
 Message 447:
-Your grandchild decided to work on
-developing his athletic skills.{PAUSE}{EOM}
+grandchild decided to work on
+developing his athletic skills.{PAUSE}{EOM}{WALLY} ad
 
 Message 448:
-{WALLY} advised {TATSUYA} to join
+vised {TATSUYA} to join
 a sports team in the city.{S_3207D0}
 I heard this from {CHRIS} later,
 but it seems {TATSUYA} and {HUGH}
 aren't quite at the same athletic level,
 and {WALLY} had to ask the coach to
-help out.{PAUSE}{EOM}{EOM}{EOM}
+help out.{PAUSE}{EOM}{EOM}{EOM}They 
 
 Message 449:
-They played their first match on
+played their first match on
 TV the other day.{S_3203E8}
 What was the name of that sport?{PAUSE}{WIPE}
 It's kind of like baseball, but sort of
@@ -1989,79 +1990,79 @@ I think.{S_3203E8}
 They ended up losing that match, but{PAUSE}{WIPE}
 with your grandchild on the team I'm
 sure they'll finish strong this season.{S_3207D0}
-Perhaps I'm slightly biased.{PAUSE}{EOM}
+Perhaps I'm slightly biased.{PAUSE}{EOM}That 
 
 Message 450:
-That grandchild of yours certainly does
+grandchild of yours certainly does
 like to study. “Books, books, books.”
-That's what {CHAR_49} always says.{PAUSE}{EOM}{EOM}
+That's what {CHAR_49} always says.{PAUSE}{EOM}{EOM}Somet
 
 Message 451:
-Sometimes {TATSUYA} goes to {DARYL}'s
+imes {TATSUYA} goes to {DARYL}'s
 lab and helps out with his experiments.{S_3203E8}
 Or maybe {TATSUYA} was being
-experimented on. It's hard to tell.{PAUSE}{EOM}
+experimented on. It's hard to tell.{PAUSE}{EOM}Anywa
 
 Message 452:
-Anyway, now {TATSUYA}
+y, now {TATSUYA}
 wants to go to college in the city.{S_3205DC}{PAUSE}
 {CHAR_49}worried about money,
 but your grandkid got a scholarship!
 Money is no longer a problem.{S_3205DC}
-Things turned out rather nicely.{PAUSE}{EOM}{EOM}{EOM}
+Things turned out rather nicely.{PAUSE}{EOM}{EOM}{EOM}Oh ye
 
 Message 453:
-Oh yes, I received a letter from
+s, I received a letter from
 {TATSUYA} the other day.{S_3203E8}
 {TATSUYA}'s doing robotics.{S_3207D0}
 Sometimes I think {DARYL} influenced{S_3201F4}
 {TATSUYA} with his experiments.{S_3201F4}{PAUSE}{WIPE}
 I'm always a little worried that we'll
-have another mad scientist on our hands.{PAUSE}{EOM}
+have another mad scientist on our hands.{PAUSE}{EOM}To te
 
 Message 454:
-To tell you the truth, I always thought I
+ll you the truth, I always thought I
 would see you first and we could watch
-over the farm together. But no...{PAUSE}{EOM}
+over the farm together. But no...{PAUSE}{EOM}Now t
 
 Message 455:
-Now that your grandchild has taken
+hat your grandchild has taken
 over the farm, I can finally retire
-in peace.{PAUSE}{EOM}{EOM}{EOM}
+in peace.{PAUSE}{EOM}{EOM}{EOM}{CHAR_49} is
 
 Message 456:
-{CHAR_49} is still doing
-well, after all.{PAUSE}{EOM}
+ still doing
+well, after all.{PAUSE}{EOM}{DRAW_02}I'm
 
 Message 457:
-{DRAW_02}I'm sure they will keep the farm
+ sure they will keep the farm
 going as father and son.{S_3203E8}{PAUSE}{WIPE}
 You and your daughter better keep an
-eye on them from up there.{S_320BB8}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+eye on them from up there.{S_320BB8}{PAUSE}{EOM}{EOM}{EOM}{EOM}To te
 
 Message 458:
-To tell you the truth, I always thought I
+ll you the truth, I always thought I
 would see you first and we could watch
-over the farm together. But no...{PAUSE}{EOM}
+over the farm together. But no...{PAUSE}{EOM}{CHAR_49} sa
 
 Message 459:
-{CHAR_49} says he will continue the
-farm in your son's memory.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+ys he will continue the
+farm in your son's memory.{PAUSE}{EOM}{EOM}{EOM}{EOM}I tho
 
 Message 460:
-I thought I might be able to retire soon,
+ught I might be able to retire soon,
 but I guess I still have some work to do.{S_3203E8}
 I can't let {CHAR_49} work the farm all
-by himself, after all.{PAUSE}{EOM}
+by himself, after all.{PAUSE}{EOM}    .
 
 Message 461:
 
 
 Message 462:
-    ...Several days later...   {S_3203E8}{PAUSE}{EOM}
+..Several days later...   {S_3203E8}{PAUSE}{EOM}{DRAW_02}It 
 
 Message 463:
-{DRAW_02}It all started with a letter...{PAUSE}{WIPE}
+all started with a letter...{PAUSE}{WIPE}
 I hadn't gotten a letter in a
 long time...{PAUSE}{WIPE}
 {DRAW_02}It was in a bright red envelope {S_3203E8}
@@ -2074,420 +2075,421 @@ On the last line,{S_32012C}
 she said this...{PAUSE}{WIPE}
 {DRAW_02}{S_3201F4}“I want to {S_3201F4}try working on the farm.”{PAUSE}{WIPE}
 {DRAW_02}{S_32012C}To a city girl,{S_32012C} a place like Forget-Me-Not
-Valley must be interesting, I guess.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+Valley must be interesting, I guess.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}{DRAW_02}{S_32012C}
 
 Message 464:
-{DRAW_02}{S_32012C}While I was thinking that,{S_3201F4}
+While I was thinking that,{S_3201F4}
 I was reminded{S_3202BC} of my old friend. {S_32012C}
-Of his face.{S_320064}.{S_320064}.{S_320064}.{S_320064}{PAUSE}{EOM}
+Of his face.{S_320064}.{S_320064}.{S_320064}.{S_320064}{PAUSE}{EOM}{DRAW_02}   
 
 Message 465:
-{DRAW_02}      ...Several days later...      {PAUSE}{WIPE}
+   ...Several days later...      {PAUSE}{WIPE}
 {DRAW_02}...So that's how
 her life on the farm began.{PAUSE}{WIPE}
 {DRAW_02}I figured she would either get tired
 or like it and stay.{PAUSE}{WIPE}
-{DRAW_02}In the end, the choice was hers to make{S_3200C8}.{S_320190}.{S_3202BC}.{S_3202BC}{DRAW_00}{PAUSE}{EOM}
+{DRAW_02}In the end, the choice was hers to make{S_3200C8}.{S_320190}.{S_3202BC}.{S_3202BC}{DRAW_00}{PAUSE}{EOM}Cut i
 
 Message 466:
-Cut it?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
+t?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}...?!
 
 Message 467:
-...?!{S_320320}{EOM}{EOM}{EOM}{EOM}
+{S_320320}{EOM}{EOM}{EOM}{EOM}{SKIP}
+   
 
 Message 468:
-{SKIP}
-               {Title_4}{S_320BB8}{EOM}
+            {Title_4}{S_320BB8}{EOM}{SKIP}
+   
 
 Message 469:
-{SKIP}
-                  {Title_5}{S_320BB8}{EOM}{EOM}
+               {Title_5}{S_320BB8}{EOM}{EOM}{SKIP}
+   
 
 Message 470:
-{SKIP}
-                {Title_6}{S_320BB8}{EOM}{EOM}{EOM}{EOM}
+             {Title_6}{S_320BB8}{EOM}{EOM}{EOM}{EOM}{SKIP}
+   
 
 Message 471:
-{SKIP}
-                 {Title_7}{S_320BB8}{EOM}{EOM}{EOM}
+              {Title_7}{S_320BB8}{EOM}{EOM}{EOM}{SKIP}
+   
 
 Message 472:
-{SKIP}
-                 {Title_8}{S_320BB8}{EOM}{EOM}{EOM}
+              {Title_8}{S_320BB8}{EOM}{EOM}{EOM}{SKIP}
+   
 
 Message 473:
-{SKIP}
-                 {Title_9}{S_320BB8}{EOM}{EOM}{EOM}
+              {Title_9}{S_320BB8}{EOM}{EOM}{EOM}{SKIP}
+   
 
 Message 474:
-{SKIP}
-                  {Title_10}{S_320BB8}{EOM}{EOM}
+               {Title_10}{S_320BB8}{EOM}{EOM}You c
 
 Message 475:
-You can't enter while holding an item.{PAUSE}{EOM}
+an't enter while holding an item.{PAUSE}{EOM}{CHOICE2 DEF0}
+Fo
 
 Message 476:
-{CHOICE2 DEF0}
-Follow.
-Don't follow.{EOM}{EOM}{EOM}{EOM}
+llow.
+Don't follow.{EOM}{EOM}{EOM}{EOM}It lo
 
 Message 477:
-It looks like there is something
+oks like there is something
 else that she wants to do with her life.{PAUSE}{WIPE}
 But she has to live her own life,
 so I guess there's nothing that can
-be done about it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+be done about it.{PAUSE}{EOM}{EOM}{EOM}{EOM}What?
 
 Message 478:
-What?{S_3207D0} Am I worried about her?{S_3203E8}
+{S_3207D0} Am I worried about her?{S_3203E8}
 She'll be fine...
 After all, she's your daughter.{S_320BB8}{WIPE}
 I'm sure she'll find her own path
 eventually.{S_3203E8}
 Just like you found farming for
-yourself.{S_320BB8}{WIPE}{EOM}{EOM}{EOM}{EOM}
+yourself.{S_320BB8}{WIPE}{EOM}{EOM}{EOM}{EOM}     
 
 Message 479:
-     ...A few years later...   {S_3207D0}{PAUSE}{EOM}
+...A few years later...   {S_3207D0}{PAUSE}{EOM}How a
 
 Message 480:
-How are you doing, old friend?{PAUSE}{EOM}
+re you doing, old friend?{PAUSE}{EOM}Well,
 
 Message 481:
-Well, I guess you don't have to worry
-about as many things where you are.{PAUSE}{EOM}{EOM}
+ I guess you don't have to worry
+about as many things where you are.{PAUSE}{EOM}{EOM}When 
 
 Message 482:
-When {CHAR_49} married your
+{CHAR_49} married your
 daughter,{S_3203E8}
 the farm wasn't in the best of shape,
-to say the least...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+to say the least...{PAUSE}{EOM}{EOM}{EOM}{EOM}But {SEBASTIAN}
 
 Message 483:
-But {CODY} and the others
+{C15} and the others
 helped build a nice kitchen.{PAUSE}{WIPE}
 I guess they didn't have enough time
-to worry about decorating it, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+to worry about decorating it, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}But {CHAR_30}
 
 Message 484:
-But {VESTA} helped build a nice
+{1D} helped build a nice
 kitchen for her sister-in-law.{PAUSE}{WIPE}
 I guess she didn't have enough time
-to worry about decorating it, though.{PAUSE}{EOM}{EOM}
+to worry about decorating it, though.{PAUSE}{EOM}{EOM}But {CHAR_32}
 
 Message 485:
-But {TIM} and the others
+{?_1897}and the others
 helped build a nice kitchen.{PAUSE}{WIPE}
 I guess they didn't have enough time
-to worry about decorating it, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+to worry about decorating it, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}Your 
 
 Message 486:
-Your daughter's working hard.
-The farm's doing fine.{PAUSE}{EOM}{EOM}{EOM}
+daughter's working hard.
+The farm's doing fine.{PAUSE}{EOM}{EOM}{EOM}They 
 
 Message 487:
-They built a nice kitchen.
+built a nice kitchen.
 And {GUSTAFA} seems very happy
-enjoying your daughter's cooking.{PAUSE}{EOM}{EOM}{EOM}
+enjoying your daughter's cooking.{PAUSE}{EOM}{EOM}{EOM}They 
 
 Message 488:
-They built a nice kitchen.
+built a nice kitchen.
 And {MARLIN} seems very happy
-enjoying your daughter's cooking.{PAUSE}{EOM}{EOM}{EOM}
+enjoying your daughter's cooking.{PAUSE}{EOM}{EOM}{EOM}They 
 
 Message 489:
-They built a nice kitchen.
+built a nice kitchen.
 And {ROCK} seems very happy
-enjoying your daughter's cooking.{PAUSE}{EOM}{EOM}{EOM}
+enjoying your daughter's cooking.{PAUSE}{EOM}{EOM}{EOM}Your 
 
 Message 490:
-Your grandchild is starting to talk now.
+grandchild is starting to talk now.
 They're very cute at this age.
-What was that name they chose...?{PAUSE}{EOM}{EOM}
+What was that name they chose...?{PAUSE}{EOM}{EOM}{TATSUYA}...
 
 Message 491:
-{TATSUYA}...{S_3203E8}
+{S_3203E8}
 {DRAW_01}Oh yes, the name was {TATSUYA}.{DRAW_00}
-The spitting image of {CHAR_49}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+The spitting image of {CHAR_49}.{PAUSE}{EOM}{EOM}{EOM}{EOM}All p
 
 Message 492:
-All parents have hopes for their children.
+arents have hopes for their children.
 I wonder what they have in mind
-for their child?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+for their child?{PAUSE}{EOM}{EOM}{EOM}{EOM}Your 
 
 Message 493:
-Your grandchild is a lot bigger.{PAUSE}{EOM}{EOM}{EOM}
+grandchild is a lot bigger.{PAUSE}{EOM}{EOM}{EOM}Oh, a
 
 Message 494:
-Oh, and {FACER_000000}
-{?_39}{PETE} expanded the house.{PAUSE}{EOM}{EOM}{EOM}
+nd {FACER_000000}
+{?_39}{PETE} expanded the house.{PAUSE}{EOM}{EOM}{EOM}The b
 
 Message 495:
-The boy helps around the house.
-Well, sometimes anyway...{PAUSE}{EOM}{EOM}
+oy helps around the house.
+Well, sometimes anyway...{PAUSE}{EOM}{EOM}Anywa
 
 Message 496:
-Anyway, I look forward to the future.{PAUSE}{EOM}{EOM}
+y, I look forward to the future.{PAUSE}{EOM}{EOM}{DRAW_02}{TATSUYA} 
 
 Message 497:
-{DRAW_02}{TATSUYA} is quite mischievous
+is quite mischievous
 right now. You were probably just the
-same at that age.{S_322710}{EOM}{EOM}{EOM}{EOM}
+same at that age.{S_322710}{EOM}{EOM}{EOM}{EOM}{TATSUYA} se
 
 Message 498:
-{TATSUYA} seems to want to
-imitate everything {PETE} does.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+ems to want to
+imitate everything {PETE} does.{PAUSE}{EOM}{EOM}{EOM}{EOM}{TATSUYA}'s 
 
 Message 499:
-{TATSUYA}'s a quiet, gentle child.
-Like {PETE}...{PAUSE}{EOM}
+a quiet, gentle child.
+Like {PETE}...{PAUSE}{EOM}{TATSUYA} se
 
 Message 500:
-{TATSUYA} seems to want to
-imitate everything {PETE} does.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+ems to want to
+imitate everything {PETE} does.{PAUSE}{EOM}{EOM}{EOM}{EOM}She m
 
 Message 501:
-She must really love that kid.
+ust really love that kid.
 She worked for years to make a nice
-children's bedroom.{PAUSE}{EOM}
+children's bedroom.{PAUSE}{EOM}I'm s
 
 Message 502:
-I'm sure they'll work hard at
+ure they'll work hard at
 the farm from now on.
-I'll have to do my best, too.{PAUSE}{EOM}{EOM}
+I'll have to do my best, too.{PAUSE}{EOM}{EOM}Work 
 
 Message 503:
-Work on the farm seems to be going well
+on the farm seems to be going well
 and they've even added on a child's room.{PAUSE}{WIPE}
 When children get older, they need
-a room of their own, after all...{PAUSE}{EOM}{EOM}{EOM}
+a room of their own, after all...{PAUSE}{EOM}{EOM}{EOM}Your 
 
 Message 504:
-Your daughter's really starting to
+son is really starting to
 act like a mother.{PAUSE}{WIPE}
 It makes me feel old
-though.{PAUSE}{EOM}{EOM}{EOM}
+though.{PAUSE}{EOM}{EOM}{EOM}{TATSUYA} grows 
 
 Message 505:
-{TATSUYA} grows taller all the time.
+taller all the time.
 Reminds me of you when
-you were that age.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+you were that age.{PAUSE}{EOM}{EOM}{EOM}{EOM}Children 
 
 Message 506:
-Children may not always
-turn out as their parents hope.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+may not always
+turn out as their parents hope.{PAUSE}{EOM}{EOM}{EOM}{EOM}{DRAW_02}But {TATSUYA} 
 
 Message 507:
-{DRAW_02}But {TATSUYA} looks quite
+looks quite
 healthy.
-That's the important thing.{S_320BB8}{EOM}{EOM}{EOM}{EOM}
+That's the important thing.{S_320BB8}{EOM}{EOM}{EOM}{EOM}Who's tha
 
 Message 508:
-Who's that, you ask?{S_3203E8}
+t, you ask?{S_3203E8}
 It's that young scoundrel...{S_3203E8}
 {TATSUYA}.
-{PETE}'s kid.{PAUSE}{EOM}{EOM}
+{PETE}'s kid.{PAUSE}{EOM}{EOM}{TATSUYA} is at 
 
 Message 509:
-{TATSUYA} is at a difficult stage. You
+a difficult stage. You
 know, when one rebels against everything.
-Don't you remember feeling that way?{PAUSE}{EOM}
+Don't you remember feeling that way?{PAUSE}{EOM}Who's tha
 
 Message 510:
-Who's that, you ask?{S_3203E8}
+t, you ask?{S_3203E8}
 Why, it's...{S_3203E8}
 {TATSUYA}.
-{PETE}'s kid.{PAUSE}{EOM}{EOM}
+{PETE}'s kid.{PAUSE}{EOM}{EOM}{TATSUYA} is at 
 
 Message 511:
-{TATSUYA} is at a difficult stage.
+a difficult stage.
 Adolescence. Between boy and man.
-Do you remember that?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Do you remember that?{PAUSE}{EOM}{EOM}{EOM}{EOM}Oh, and l
 
 Message 512:
-Oh, and look closely.{FACER_000000}
+ook closely.{FACER_000000}
 {?_39}
 Your daughter's house is larger
-now.{PAUSE}{EOM}{EOM}{EOM}
+now.{PAUSE}{EOM}{EOM}{EOM}The boy d
 
 Message 513:
-The boy doesn't need as much attention now
+oesn't need as much attention now
 so they made a room for the two of them.{PAUSE}{WIPE}
 When the neighbors saw {PETE}
 working hard to build it, they joined in
-and helped.{PAUSE}{EOM}{EOM}{EOM}
+and helped.{PAUSE}{EOM}{EOM}{EOM}I'm sure 
 
 Message 514:
-I'm sure she'll keep working hard
+she'll keep working hard
 on the farm.
-I'll have to do my best, too.{PAUSE}{EOM}{EOM}{EOM}
+I'll have to do my best, too.{PAUSE}{EOM}{EOM}{EOM}{PETE} certai
 
 Message 515:
-{PETE} certainly is a hard worker.{S_3203E8}
+nly is a hard worker.{S_3203E8}
 Now that the child doesn't need as much
 attention, she decided to make a nice
-bedroom for her and her husband.{PAUSE}{EOM}{EOM}{EOM}
+bedroom for her and her husband.{PAUSE}{EOM}{EOM}{EOM}Your daug
 
 Message 516:
-Your daughter has become a fine farmer.
+hter has become a fine farmer.
 You'd think I might be retiring soon,
-but I won't just yet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+but I won't just yet.{PAUSE}{EOM}{EOM}{EOM}{EOM}{DRAW_02}They su
 
 Message 517:
-{DRAW_02}They sure grow up fast, don't they?{S_3203E8}{EOM}{EOM}{EOM}{EOM}
+re grow up fast, don't they?{S_3203E8}{EOM}{EOM}{EOM}{EOM}{DRAW_02}I wonde
 
 Message 518:
-{DRAW_02}I wonder what it would be like
+r what it would be like
 to watch your grandchildren grow up.{S_3203E8}{PAUSE}{WIPE}
 Anyway, {TATSUYA} is just like
 {PETE}. Everything from the looks
 to how they walk are just the same.{S_3203E8}{PAUSE}{WIPE}
 Which means that they look like you
-too, I guess.{S_3203E8}{PAUSE}{EOM}
+too, I guess.{S_3203E8}{PAUSE}{EOM}{TATSUYA}'s grow
 
 Message 519:
-{TATSUYA}'s grown up
+n up
 now. It's amazing how kids get lives
-of their own after a while...{PAUSE}{EOM}{EOM}{EOM}
+of their own after a while...{PAUSE}{EOM}{EOM}{EOM}It must b
 
 Message 520:
-It must be nice to watch your children
+e nice to watch your children
 grow, but I bet it's a little sad when
-they no longer need you.{PAUSE}{EOM}
+they no longer need you.{PAUSE}{EOM}Oh, about
 
 Message 521:
-Oh, about the farm...{PAUSE}{EOM}{EOM}
+ the farm...{PAUSE}{EOM}{EOM}Your daug
 
 Message 522:
-Your daughter is certainly a
+hter is certainly a
 hard worker.{S_3207D0}
 At first I thought we'd be doing
 well just to make ends meet,
 but we're doing very well.{PAUSE}{WIPE}
 Of course, that makes me busier too...
-Well, I'll keep at it as long as I can.{PAUSE}{EOM}
+Well, I'll keep at it as long as I can.{PAUSE}{EOM}We're doi
 
 Message 523:
-We're doing well at the moment.
+ng well at the moment.
 Your daughter is working hard,
 I'm glad to say.{PAUSE}{WIPE}
 Her family is just fine and
-there's nothing to worry about.{PAUSE}{EOM}{EOM}
+there's nothing to worry about.{PAUSE}{EOM}{EOM}I'm afrai
 
 Message 524:
-I'm afraid the farm isn't doing
+d the farm isn't doing
 all that well...{S_3207D0}
 Your daughter seems to enjoy
 herself more far away from the fields.{PAUSE}{WIPE}
 But that's just fine.
 Don't you think?
-If she enjoys life, that matters most.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+If she enjoys life, that matters most.{PAUSE}{EOM}{EOM}{EOM}{EOM}Your daug
 
 Message 525:
-Your daughter is quite a bit older.{S_3207D0}
-So am I, but I'm hanging in there.{PAUSE}{EOM}{EOM}
+hter is quite a bit older.{S_3207D0}
+So am I, but I'm hanging in there.{PAUSE}{EOM}{EOM}{CHAR_49} is as 
 
 Message 526:
-{CHAR_49} is as young looking as ever.
-You'd never guess his child is that old.{PAUSE}{EOM}{EOM}{EOM}
+young looking as ever.
+You'd never guess his child is that old.{PAUSE}{EOM}{EOM}{EOM}That {TATSUYA} i
 
 Message 527:
-That {TATSUYA} is more mature.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+s more mature.{PAUSE}{EOM}{EOM}{EOM}{EOM}I think {CHAR_53}
 
 Message 528:
-I think {TATSUYA} finally
+
+ finally
 succeeded {PETE} as a farmer.
-Maybe I should think about retiring.{PAUSE}{EOM}{EOM}
+Maybe I should think about retiring.{PAUSE}{EOM}{EOM}Several d
 
 Message 529:
-Several days later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+ays later.{PAUSE}{EOM}{EOM}{EOM}{EOM}It happen
 
 Message 530:
-It happened so suddenly.
+ed so suddenly.
 We still don't know the cause.
 I'm afraid your daughter passed away.{PAUSE}{WIPE}
 You didn't come and get her did you?
 If so, you were confused.
-I should have gone first.{PAUSE}{EOM}{EOM}{EOM}
+I should have gone first.{PAUSE}{EOM}{EOM}{EOM}But your 
 
 Message 531:
-But your daughter lived a good life.
+daughter lived a good life.
 She did everything successfully.{PAUSE}{WIPE}
 The farm is still going and her husband
 is well. And your grandchild seems to
-have chosen what to do in life.{PAUSE}{EOM}{EOM}
+have chosen what to do in life.{PAUSE}{EOM}{EOM}Forget-Me
 
 Message 532:
-Forget-Me-Not Valley is a little
-lonelier, but we're carrying on.{PAUSE}{EOM}{EOM}
+-Not Valley is a little
+lonelier, but we're carrying on.{PAUSE}{EOM}{EOM}Do you re
 
 Message 533:
-Do you remember when you first came
+member when you first came
 here?{S_3207D0}
 And when was it that I arrived here
-with your daughter?{PAUSE}{EOM}{EOM}{EOM}
+with your daughter?{PAUSE}{EOM}{EOM}{EOM}Your chil
 
 Message 534:
-Your child followed in your
+d followed in your
 footsteps. Surely that makes you
-happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}I'm sure 
 
 Message 535:
-I'm sure I'll be there to see you soon
-enough. Perhaps we will all start a farm.{PAUSE}{EOM}{EOM}{EOM}
+I'll be there to see you soon
+enough. Perhaps we will all start a farm.{PAUSE}{EOM}{EOM}{EOM}Your gran
 
 Message 536:
-Your grandchild {S_3203E8} decided
+dchild {S_3203E8} decided
 to follow in {PETE}'s footsteps.{S_3203E8}
 {TATSUYA} is working very hard to{PAUSE}{WIPE}
 learn how to be a farmer.{S_3203E8}
 Reminds me of {PETE} when
 I first brought her here.{S_3201F4}{PAUSE}{WIPE}
 The spitting image.{S_3203E8}
-It's almost funny.{S_3207D0}{PAUSE}{EOM}{EOM}{EOM}{EOM}
+It's almost funny.{S_3207D0}{PAUSE}{EOM}{EOM}{EOM}{EOM}But {TATSUYA} wa
 
 Message 537:
-But {TATSUYA} was born into
+s born into
 farm life.{S_3201F4}
 A farming thoroughbred of sorts.{S_3203E8}{PAUSE}{WIPE}
 {TATSUYA} may outdo your daughter.{S_3201F4}
-Or at least I think so sometimes.{S_3207D0}{PAUSE}{EOM}{EOM}{EOM}
+Or at least I think so sometimes.{S_3207D0}{PAUSE}{EOM}{EOM}{EOM}She might
 
 Message 538:
-She might not like me to say that.{S_3201F4}
+ not like me to say that.{S_3201F4}
 Maybe she'll come back and haunt me...{S_3201F4}
 That'd be scary.{S_3203E8}{PAUSE}{WIPE}
 I'm sorry, {PETE}.
-You did a good job too.{S_3205DC} OK?{S_3207D0}{PAUSE}{EOM}
+You did a good job too.{S_3205DC} OK?{S_3207D0}{PAUSE}{EOM}It looks 
 
 Message 539:
-It looks like your grandchild decided
+like your grandchild decided
 to take over the farm.{S_3203E8}{PAUSE}{WIPE}
 I think {TATSUYA} wants to
-concentrate on growing crops.{S_3207D0}{PAUSE}{EOM}
+concentrate on growing crops.{S_3207D0}{PAUSE}{EOM}{TATSUYA}'ll get
 
 Message 540:
-{TATSUYA}'ll get along with {TARTAN}.{S_3203E8}
+ along with {TARTAN}.{S_3203E8}
 {TARTAN} complimented {TATSUYA}
 just the other day.{S_3201F4}
 {TATSUYA} should come up with some
-crops that even {PETE} never grew.{S_3207D0}{EOM}
+crops that even {PETE} never grew.{S_3207D0}{EOM}I have th
 
 Message 541:
-I have this strange visitor.{S_3203E8}
+is strange visitor.{S_3203E8}
 His name is {TARTAN} and if you
 feed him seeds or crops he can turn them{PAUSE}{WIPE}
 into new varieties.{S_3203E8}
 {TATSUYA} started right off
-making all kinds of new crops.{S_3207D0}{PAUSE}{EOM}
+making all kinds of new crops.{S_3207D0}{PAUSE}{EOM}I can't h
 
 Message 542:
-I can't help but wish {TATSUYA}'d
+elp but wish {TATSUYA}'d
 spend a little more time on the animals.{S_3203E8}
-But...{S_3203E8} I guess it's OK...{S_3207D0}{EOM}{EOM}
+But...{S_3203E8} I guess it's OK...{S_3207D0}{EOM}{EOM}I wonder 
 
 Message 543:
-I wonder where {TATSUYA} got it from,
+where {TATSUYA} got it from,
 but your grandchild has musical talent.{S_320FA0}{PAUSE}{WIPE}
 I've never even heard {PETE}
 sing a song.{S_3207D0}{PAUSE}{WIPE}
@@ -2496,25 +2498,26 @@ Your were quite tone deaf, weren't you?{S_3203E8}
 I can still hear your din.{S_3203E8}{PAUSE}{WIPE}
 Your voice sounded like an alley cat.{S_3207D0}
 I bet {TATSUYA} got it from {CHAR_49}.
-Even {ROMANA} was surprised.{S_320FA0}{PAUSE}{EOM}{EOM}{EOM}
+Even {ROMANA} was surprised.{S_320FA0}{PAUSE}{EOM}{EOM}{EOM}Anyway, {CHAR_68}
 
 Message 544:
-Anyway, {TATSUYA} and {GUSTAFA}
+
+ and {GUSTAFA}
 have become fast friends.
 They said something about starting a group
 and playing “gigs” -- whatever that is.
-Kids today...{PAUSE}{EOM}{EOM}{EOM}
+Kids today...{PAUSE}{EOM}{EOM}{EOM}The two o
 
 Message 545:
-The two of them said they wanted
+f them said they wanted
 as many people as possible to hear their
 music, so they went off on tour.
 Since {TATSUYA}'s with {GUSTAFA}...
 You have to wonder if we'll see your
-grandchild again...{PAUSE}{EOM}{EOM}
+grandchild again...{PAUSE}{EOM}{EOM}{TATSUYA} takes 
 
 Message 546:
-{TATSUYA} takes after {GUSTAFA}.
+after {GUSTAFA}.
 {TATSUYA} does have a musical talent.{S_320FA0}
 I've never even heard {PETE} sing
 a song.{S_3207D0}{PAUSE}{WIPE}
@@ -2523,62 +2526,62 @@ Your were quite tone deaf, weren't you?{S_3203E8}
 I can still hear the din.{S_3203E8}{PAUSE}{WIPE}
 Your voice sounded like an alley cat.{S_3207D0}
 {TATSUYA}'s singing voice surprised
-even {ROMANA}.{S_320FA0}{PAUSE}{EOM}
+even {ROMANA}.{S_320FA0}{PAUSE}{EOM}{TATSUYA} often 
 
 Message 547:
-{TATSUYA} often sang
+sang
 with {GUSTAFA}...
-They even had a concert together.{PAUSE}{EOM}
+They even had a concert together.{PAUSE}{EOM}{TATSUYA} said h
 
 Message 548:
-{TATSUYA} said he wanted to bring
+e wanted to bring
 music to as many as people as possible
 and so went on tour.
 You have to wonder if we'll see your
-grandchild again.{PAUSE}{EOM}{EOM}
+grandchild again.{PAUSE}{EOM}{EOM}Your gran
 
 Message 549:
-Your grandchild was always interested in
+dchild was always interested in
 art, you know.
-{TATSUYA} often talked with {CODY}.{PAUSE}{EOM}{EOM}{EOM}
+{TATSUYA} often talked with {CODY}.{PAUSE}{EOM}{EOM}{EOM}I don't k
 
 Message 550:
-I don't know what {TATSUYA} and {CODY}
+now what {TATSUYA} and {CODY}
 talk about, but I guess {TATSUYA} has
-all kinds of plans.{PAUSE}{EOM}
+all kinds of plans.{PAUSE}{EOM}{TATSUYA} left a
 
 Message 551:
-{TATSUYA} left a note and
+ note and
 disappeared one day. {CHAR_49} was terribly
 shocked. Maybe it's a phase.{S_3207D0}{PAUSE}{WIPE}
 It's not as if I can't understand
-{TATSUYA}'s feelings.{PAUSE}{EOM}
+{TATSUYA}'s feelings.{PAUSE}{EOM}After a w
 
 Message 552:
-After a while, {CHAR_49} received
+hile, {CHAR_49} received
 a letter from {TATSUYA}.
 I guess it's one of those things where you{S_3207D0}
 “find yourself” or something. I don't
 know...{S_3207D0}
 I'm no artist.
 ..............................
-I guess we have to trust {TATSUYA}.{PAUSE}{EOM}
+I guess we have to trust {TATSUYA}.{PAUSE}{EOM}Your gran
 
 Message 553:
-Your grandchild has decided to work on
-developing athletic skills.{PAUSE}{EOM}
+dchild has decided to work on
+developing athletic skills.{PAUSE}{EOM}{WALLY} advise
 
 Message 554:
-{WALLY} advised {TATSUYA} to join
+d {TATSUYA} to join
 a sports team in the city.{S_3207D0}{PAUSE}{WIPE}
 I heard this from {CHRIS} later,
 but it seems {TATSUYA} and {HUGH}
 aren't quite at the same athletic level,{PAUSE}{WIPE}
 and {WALLY} had to ask the coach to
-help out.{PAUSE}{EOM}{EOM}{EOM}
+help out.{PAUSE}{EOM}{EOM}{EOM}They play
 
 Message 555:
-They played their first match on
+ed their first match on
 television the other day.{S_3203E8}
 What was the name of that sport.{PAUSE}{WIPE}
 It's kind of like baseball, but sort of
@@ -2592,106 +2595,107 @@ I think.{S_3203E8}
 They ended up losing that match, but{PAUSE}{WIPE}
 with your grandchild on the team, I'm
 sure they'll end up being very strong.{S_3207D0}
-Or maybe I'm just biased.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Or maybe I'm just biased.{PAUSE}{EOM}{EOM}{EOM}{EOM}That gran
 
 Message 556:
-That grandchild of yours certainly does
+dchild of yours certainly does
 like to study. “Books, books, books.”
-That's what {CHAR_49} always says.{PAUSE}{EOM}{EOM}
+That's what {CHAR_49} always says.{PAUSE}{EOM}{EOM}Sometimes
 
 Message 557:
-Sometimes {TATSUYA} goes to {DARYL}'s
+ {TATSUYA} goes to {DARYL}'s
 lab and helps out with his experiments.{S_3203E8}
 Or maybe {TATSUYA} was being experimented
-on. It's hard to tell.{PAUSE}{EOM}
+on. It's hard to tell.{PAUSE}{EOM}Anyway, {NAK}
 
 Message 558:
-Anyway, {TATSUYA} wante
+
+ wante
 to go to college in the city.{S_3205DC}
 {CHAR_49} worried about the money,{PAUSE}{WIPE}
 but {TATSUYA} received
 a special scholarship! No money needed.{S_3205DC}
-That's pretty impressive.{PAUSE}{EOM}{EOM}{EOM}
+That's pretty impressive.{PAUSE}{EOM}{EOM}{EOM}Oh yes, I
 
 Message 559:
-Oh yes, I received a letter from
+ received a letter from
 {TATSUYA} the other day.{S_3203E8}
 {TATSUYA} studies robotics.{S_3207D0}
 Sometimes I think {DARYL} influenced{S_3201F4}
 {TATSUYA} with his experiments.{S_3201F4}{PAUSE}{WIPE}
 I'm always a little worried that we'll
-have another mad scientist on our hands.{PAUSE}{EOM}
+have another mad scientist on our hands.{PAUSE}{EOM}To tell y
 
 Message 560:
-To tell you the truth, I always thought I
+ou the truth, I always thought I
 would see you first and we could watch
-over the farm together. But no.{PAUSE}{EOM}{EOM}{EOM}
+over the farm together. But no.{PAUSE}{EOM}{EOM}{EOM}Now that 
 
 Message 561:
-Now that your grandchild has taken
+your grandchild has taken
 over the farm, I can finally retire
-in peace.{PAUSE}{EOM}{EOM}{EOM}
+in peace.{PAUSE}{EOM}{EOM}{EOM}{CHAR_49} is sti
 
 Message 562:
-{CHAR_49} is still doing
-well, after all...{PAUSE}{EOM}{EOM}{EOM}
+ll doing
+well, after all...{PAUSE}{EOM}{EOM}{EOM}{DRAW_02}I'm sur
 
 Message 563:
-{DRAW_02}I'm sure they will keep the farm
+e they will keep the farm
 going as father and child.{S_3203E8}
 You and your daughter had better keep an
-eye on them from up there.{S_320BB8}{EOM}
+eye on them from up there.{S_320BB8}{EOM}To tell y
 
 Message 564:
-To tell you the truth, I always thought I
+ou the truth, I always thought I
 would see you first and we could watch
-over the farm together. But no...{PAUSE}{EOM}
+over the farm together. But no...{PAUSE}{EOM}{CHAR_49} says h
 
 Message 565:
-{CHAR_49} says he will continue the
-farm in your daughter's memory.{PAUSE}{EOM}{EOM}{EOM}
+e will continue the
+farm in your daughter's memory.{PAUSE}{EOM}{EOM}{EOM}I thought
 
 Message 566:
-I thought I might be able to retire soon,
+ I might be able to retire soon,
 but I guess I still have some work to do.{S_3203E8}
 I can't let {CHAR_49} work the farm all
-by himself, after all.{PAUSE}{EOM}
+by himself, after all.{PAUSE}{EOM}ERROR
+ERR
 
 Message 567:
+OR
 ERROR
-ERROR
-ERROR
-ERROR{EOM}
+ERROR{EOM}ERROR
+ERR
 
 Message 568:
-ERROR
-ERROR
-ERROR{EOM}{EOM}{EOM}
+OR
+ERROR{EOM}{EOM}{EOM}ERROR
+ERR
 
 Message 569:
-ERROR
-ERROR
-ERROR{EOM}{EOM}{EOM}
+OR
+ERROR{EOM}{EOM}{EOM}ERROR
+ERR
 
 Message 570:
+OR
 ERROR
 ERROR
 ERROR
 ERROR
-ERROR
-ERROR
-ERROR{EOM}{EOM}{EOM}
+ERROR{EOM}{EOM}{EOM}“Da-dada-
 
 Message 571:
-“Da-dada-dum!”{PAUSE}{EOM}
+dum!”{PAUSE}{EOM}“My, my, 
 
 Message 572:
-“My, my, you've certainly
+you've certainly
 collected a lot of 'nices' for me.
-Thank you.”{PAUSE}{EOM}{EOM}{EOM}
+Thank you.”{PAUSE}{EOM}{EOM}{EOM}“But I'm 
 
 Message 573:
-“But I'm a Harvest Goddess in many
+a Harvest Goddess in many
 places, so I may not be able to come
 here much...”{PAUSE}{WIPE}
 “I'm sorry.”{PAUSE}{WIPE}
@@ -2700,30 +2704,30 @@ sure the people in this valley will
 live happily ever after.{PAUSE}{WIPE}
 “Well then, keep working
 hard for the people here...”
-Shimmer-shimmer-shimmer...{PAUSE}{EOM}
+Shimmer-shimmer-shimmer...{PAUSE}{EOM}“Da-dada-
 
 Message 574:
-“Da-dada-d--!”{PAUSE}{EOM}
+d--!”{PAUSE}{EOM}“Oww...”{PAUSE}
 
 Message 575:
-“Oww...”{PAUSE}{EOM}{EOM}{EOM}
+{EOM}{EOM}{EOM}“Y-yes, b
 
 Message 576:
-“Y-yes, but... It looks like
+ut... It looks like
 there aren't enough nices here. I can't
 get out of the spring. I hit my head!”{PAUSE}{WIPE}
 “Ouch... That smarts.”{PAUSE}{WIPE}
 “Find some more nices, OK?”
-Shimmer-shimmer-shimmer...{PAUSE}{EOM}{EOM}
+Shimmer-shimmer-shimmer...{PAUSE}{EOM}{EOM}ERROR
+ERR
 
 Message 577:
+OR
 ERROR
-ERROR
-ERROR
-ERROR{EOM}
+ERROR{EOM}ERROR
+ERR
 
 Message 578:
-ERROR
-ERROR
+OR
 ERROR{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
 

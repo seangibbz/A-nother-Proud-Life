@@ -24,13 +24,13 @@ ERROR{EOM}{EOM}{EOM}
 
 Message 4:
 {FACE_010001}{S_3401A3}Happy Yoo Near
-Mommy!{PAUSE}{EOM}{EOM}{EOM}
+Daddy!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 5:
-Mornin' Mommy!{PAUSE}{EOM}
+Mornin' Daddy!{PAUSE}{EOM}
 
 Message 6:
-Mommy.{PAUSE}{EOM}
+Daddy.{PAUSE}{EOM}
 
 Message 7:
 {FACE_010003}{S_3401A3}Oooh.
@@ -90,7 +90,7 @@ Message 20:
 Shop{PAUSE}{EOM}{EOM}{EOM}
 
 Message 21:
-Mommy,
+Daddy,
 you wuv Daddy?
 {CHOICE2 DEF0}
 Of course I do.
@@ -403,7 +403,7 @@ Message 121:
 {FACE_010009}I was bein' good.{PAUSE}{EOM}{EOM}
 
 Message 122:
-{FACE_010009}Mommy workin'{PAUSE}{EOM}{EOM}
+{FACE_010009}Daddy workin'{PAUSE}{EOM}{EOM}
 
 Message 123:
 {S_3401A3}{FACE_01000A}Googoo!♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
@@ -433,10 +433,10 @@ Message 131:
 {FACE_010008}No...{PAUSE}{EOM}{EOM}
 
 Message 132:
-{FACE_010001}Mommy workin'?{PAUSE}{EOM}
+{FACE_010001}Daddy workin'?{PAUSE}{EOM}
 
 Message 133:
-{FACE_010001}Mommy workin!{PAUSE}{EOM}{EOM}
+{FACE_010001}Daddy workin!{PAUSE}{EOM}{EOM}
 
 Message 134:
 {FACE_010001}Daddy workin'!{PAUSE}{EOM}
@@ -448,7 +448,7 @@ Message 136:
 {FACE_01001A}...Daddy workin'....{PAUSE}{EOM}{EOM}{EOM}
 
 Message 137:
-{FACE_010001}Mommy!{PAUSE}{EOM}
+{FACE_010001}Daddy!{PAUSE}{EOM}
 
 Message 138:
 {FACE_010001}Moi! Moimoimoimoimoi!♪{PAUSE}{EOM}
@@ -484,7 +484,7 @@ Message 148:
 {FACE_010009}Daddy workin'.{PAUSE}{EOM}
 
 Message 149:
-{FACE_010003}Daddy, Mommy, byebye!♪{PAUSE}{EOM}
+{FACE_010003}Daddy, Daddy, byebye!♪{PAUSE}{EOM}
 
 Message 150:
 {S_3401A3}Did it!{PAUSE}{EOM}
@@ -558,7 +558,7 @@ Message 172:
 {FACE_010003}Weady... Set... Go!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 173:
-{FACE_01001E}Mommy, you wike aminals?
+{FACE_01001E}Daddy, you wike aminals?
 {CHOICE3 DEF0}
 Sure I do.
 I like you better.
@@ -569,11 +569,11 @@ Message 174:
 They cute!♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 175:
-{FACE_01001E}{S_3401A3}Heehee!♪ I wike you too, Mommy!
+{FACE_01001E}{S_3401A3}Heehee!♪ I wike you too, Daddy!
 And Daddy, too!♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 176:
-{FACE_010009}Mommy, you don't wike aminals?
+{FACE_010009}Daddy, you don't wike aminals?
 {FACE_010003}I wike 'em. They cute!♥{PAUSE}{EOM}
 
 Message 177:
@@ -627,7 +627,7 @@ Message 191:
 Fwowers smell nice...♥{PAUSE}{EOM}
 
 Message 192:
-{FACE_010003}Mommy! You sing good?
+{FACE_010003}Daddy! You sing good?
 {CHOICE2 DEF0}
 I sure do.
 Not really.{EOM}
@@ -644,13 +644,13 @@ Message 195:
 {FACE_010003}I wike singin'!♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 196:
-{FACE_01000C}Mommy, you square?
+{FACE_01000C}Daddy, you square?
 {CHOICE2 DEF0}
 Sure I am.
 No I'm not.{EOM}{EOM}{EOM}{EOM}
 
 Message 197:
-{FACE_010003}{S_3401A3}Heehee! Mommy square!♪
+{FACE_010003}{S_3401A3}Heehee! Daddy square!♪
 I'm wound!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 198:
@@ -671,7 +671,7 @@ Message 202:
 {FACE_01001E}{S_3401A6}Legs long!{PAUSE}{EOM}{EOM}
 
 Message 203:
-{FACE_010003}{S_3401A6}Mommy's hands big!{PAUSE}{EOM}{EOM}
+{FACE_010003}{S_3401A6}Daddy's hands big!{PAUSE}{EOM}{EOM}
 
 Message 204:
 {FACE_01001A}Belly belly!{PAUSE}{EOM}{EOM}{EOM}
@@ -693,7 +693,7 @@ Message 209:
 
 Message 210:
 {S_3401A4}No!
-Go 'way, Mommy!{PAUSE}{EOM}
+Go 'way, Daddy!{PAUSE}{EOM}
 
 Message 211:
 {S_3401A4}Pththbtt!{PAUSE}{EOM}{EOM}{EOM}
@@ -810,7 +810,7 @@ Message 246:
 {S_3401A2}{FACE_010004}Noooo!{PAUSE}{EOM}{EOM}
 
 Message 247:
-{S_3401A4}{FACE_010004}I hate Mommy!{PAUSE}{EOM}{EOM}{EOM}
+{S_3401A4}{FACE_010004}I hate Daddy!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 248:
 {S_3401A4}{FACE_010004}Grrrrr!{PAUSE}{EOM}
@@ -915,10 +915,10 @@ Message 281:
 {FACE_010003}{S_3401A3}Milk!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 282:
-{FACE_010003}Mommy.......?{PAUSE}{EOM}{EOM}
+{FACE_010003}Daddy.......?{PAUSE}{EOM}{EOM}
 
 Message 283:
-{FACE_010003}Mommy.......{PAUSE}{EOM}{EOM}{EOM}
+{FACE_010003}Daddy.......{PAUSE}{EOM}{EOM}{EOM}
 
 Message 284:
 {FACE_01000C}Dat dinner?{PAUSE}{EOM}{EOM}{EOM}{EOM}
@@ -1023,7 +1023,7 @@ Message 314:
 {FACE_010003}Eggy.♪{PAUSE}{EOM}
 
 Message 315:
-{FACE_010003}Oooh! You catch, Mommy?
+{FACE_010003}Oooh! You catch, Daddy?
 {CHOICE2 DEF0}
 That's right.
 Nope.{EOM}{EOM}
@@ -1065,24 +1065,24 @@ Message 325:
 That bitter!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 326:
-{FACE_010003}You makey, Mommy?
+{FACE_010003}You makey, Daddy?
 {CHOICE2 DEF0}
 I sure did!♪
-Mommy made it.{EOM}{EOM}{EOM}{EOM}
+Daddy made it.{EOM}{EOM}{EOM}{EOM}
 
 Message 327:
 {FACE_010003}{S_3401A3}Ooh! Look yummy!♪
-Mommy good cook!♥{PAUSE}{EOM}
+Daddy good cook!♥{PAUSE}{EOM}
 
 Message 328:
-{FACE_010003}{S_3401A3}Mommy good cook!♪{PAUSE}{EOM}{EOM}{EOM}
+{FACE_010003}{S_3401A3}Daddy good cook!♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 329:
 {FACE_010003}{S_3401A3}Oooooh! Look yummy!♪{EOM}
 
 Message 330:
 {FACE_01000C}....?
-You makey, Mommy?
+You makey, Daddy?
 {CHOICE2 DEF0}
 I sure did!♪
 Daddy made it.{EOM}{EOM}
@@ -1240,7 +1240,7 @@ Message 377:
 {FACE_010003}{S_3401A3}I dwawed a fwower!{PAUSE}{EOM}{EOM}
 
 Message 378:
-{FACE_010003}{S_3401A3}I dwawed Mommy!{PAUSE}{EOM}
+{FACE_010003}{S_3401A3}I dwawed Daddy!{PAUSE}{EOM}
 
 Message 379:
 {FACE_010003}{S_3401A3}I dwawed Daddy!{PAUSE}{EOM}
@@ -1249,10 +1249,10 @@ Message 380:
 {FACE_010003}{S_3401A3}I dwawed a fwower...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 381:
-{FACE_010003}{S_3401A3}I dwawed Mommy...{PAUSE}{EOM}{EOM}{EOM}
+{FACE_010003}{S_3401A3}I dwawed Daddy...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 382:
-{FACE_010003}{S_3401A3}I dwawed Mommy...{PAUSE}{EOM}{EOM}{EOM}
+{FACE_010003}{S_3401A3}I dwawed Daddy...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 383:
 {FACE_010003}{S_3401A3}Pwetty!♪ Vewy Shiny!☆{PAUSE}{EOM}{EOM}{EOM}
@@ -1291,7 +1291,7 @@ Message 394:
 {FACE_010003}Pwetty. ♥ That Fwowa's.♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 395:
-{S_3401A4}{FACE_010008}Mommy sad...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{S_3401A4}{FACE_010008}Daddy sad...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 396:
 {S_3401A4}{FACE_010008}Daddy scawy...{PAUSE}{EOM}{EOM}
@@ -1309,7 +1309,7 @@ Message 400:
 {FACE_010003}Heehee!♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 401:
-{FACE_010003}I wuv you Mommy.♥{PAUSE}{EOM}{EOM}
+{FACE_010003}I wuv you Daddy.♥{PAUSE}{EOM}{EOM}
 
 Message 402:
 {FACE_01001E}{S_3401A6}You face big!{PAUSE}{EOM}{EOM}{EOM}
@@ -1318,10 +1318,10 @@ Message 403:
 {FACE_01001A}...............♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 404:
-{FACE_01001A}I wuv you Mommy...{PAUSE}{EOM}
+{FACE_01001A}I wuv you Daddy...{PAUSE}{EOM}
 
 Message 405:
-{FACE_010003}Mommy warm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{FACE_010003}Daddy warm.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 406:
 {FACE_010003}Snuggle...♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
@@ -1333,7 +1333,7 @@ Message 408:
 {S_3401A2}{FACE_010008}No...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 409:
-{S_3401A4}{FACE_010004}No! I hate Mommy!{PAUSE}{EOM}{EOM}{EOM}
+{S_3401A4}{FACE_010004}No! I hate Daddy!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 410:
 {S_3401A4}{FACE_010004}Down!{PAUSE}{EOM}{EOM}{EOM}
@@ -1375,16 +1375,16 @@ Message 422:
 {FACE_010003}{S_3401A3}I'm good!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 423:
-{FACE_01000C}Mommy's hands cold.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{FACE_01000C}Daddy's hands cold.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 424:
 {FACE_010015}Mmmm. {S_32012C}Yaaaaawn. {FACE_010016}{S_3203E8}{FACE_010017}Zzzzzz......{PAUSE}{EOM}
 
 Message 425:
-{FACE_01001A}I'm wif Mommy!{PAUSE}{EOM}
+{FACE_01001A}I'm wif Daddy!{PAUSE}{EOM}
 
 Message 426:
-{FACE_010003}{S_3401A3}Mommy shop!{PAUSE}{EOM}
+{FACE_010003}{S_3401A3}Daddy shop!{PAUSE}{EOM}
 
 Message 427:
 {FACE_010002}Wanna go home.{PAUSE}{EOM}
@@ -1393,7 +1393,7 @@ Message 428:
 {FACE_01001A}Customamamer{PAUSE}{EOM}{EOM}{EOM}
 
 Message 429:
-{FACE_010001}Mommy wookin'.{PAUSE}{EOM}
+{FACE_010001}Daddy wookin'.{PAUSE}{EOM}
 
 Message 430:
 {S_3401A3}{FACE_010001}Spawkwy!♪{PAUSE}{EOM}{EOM}{EOM}

@@ -1,6 +1,6 @@
 Message 0:
 {FACE_1E0003}{TATSUYA},
-isn't it nice to have Mommy play with you?{PAUSE}{EOM}
+isn't it nice to have Daddy play with you?{PAUSE}{EOM}
 
 Message 1:
 Hey, {NICKNAME}.{PAUSE}{WIPE}
@@ -77,7 +77,7 @@ just wait a sec, OK?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 16:
 That's pretty good, {TATSUYA}.
-You want to sing that for Mommy?{PAUSE}{EOM}{EOM}{EOM}
+You want to sing that for Daddy?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 17:
 {NICKNAME},
@@ -103,7 +103,7 @@ Message 20:
 {FACE_1E0003}What are you drawing?{PAUSE}{EOM}{EOM}
 
 Message 21:
-{FACE_1E0009}Mommy???{PAUSE}{WIPE}
+{FACE_1E0009}Daddy???{PAUSE}{WIPE}
 {FACE_1E0019}Uh, that's real good...{PAUSE}{EOM}
 
 Message 22:
@@ -129,7 +129,7 @@ is some sort of creative genius, do you?{PAUSE}{EOM}{EOM}
 Message 25:
 Hmmm.
 It looks like flowers to me.
-But {TATSUYA} says it's “Mommy.”{PAUSE}{EOM}{EOM}{EOM}
+But {TATSUYA} says it's “Daddy.”{PAUSE}{EOM}{EOM}{EOM}
 
 Message 26:
 But depending on how you think about it,
@@ -446,7 +446,7 @@ Why are you so serious?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 88:
 Then why don't you just ask
-your mother?
+your fat•e{0A}?
 I'm sure she'd be happy to show you.{PAUSE}{EOM}{EOM}
 
 Message 89:
@@ -530,19 +530,19 @@ day.{PAUSE}{EOM}
 
 Message 101:
 Music is nice, but you should help your
-mother out sometimes, too.{PAUSE}{EOM}
+father out sometimes, too.{PAUSE}{EOM}
 
 Message 102:
 Art is nice, but you should help your
-mother out sometimes, too.{PAUSE}{EOM}{EOM}{EOM}
+father out sometimes, too.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 103:
 Sports are awesome, but you should help
-your mother out sometimes, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+your father out sometimes, too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 104:
 Studying is great, but you should help your
-mother out sometimes, too.{PAUSE}{EOM}
+father out sometimes, too.{PAUSE}{EOM}
 
 Message 105:
 I know you like the farm, but you're
@@ -720,14 +720,14 @@ Why?{PAUSE}{WIPE}
 I don't know the details, but it was
 before you were born...
 I think it was in the spring.{PAUSE}{WIPE}
-{TAKAKURA} and your mother came
+{TAKAKURA} and your fat•er came
 here.{PAUSE}{WIPE}
 But {TAKAKURA} had been here before, with
 some guy...{PAUSE}{EOM}{EOM}
 
 Message 145:
 I only asked {TAKAKURA} about it once.
-But that person was your mother's father.
+But that person was your father's father.
 That makes him your grandfather.{PAUSE}{EOM}{EOM}
 
 Message 146:
@@ -743,7 +743,7 @@ in honor of your grandfather's memory.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 148:
 Really?
-I'm sure your mother would be happy.{PAUSE}{EOM}{EOM}{EOM}
+I'm sure your father would be happy.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 149:
 What're you looking at?{PAUSE}{EOM}{EOM}{EOM}{EOM}

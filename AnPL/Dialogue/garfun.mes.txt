@@ -1,35 +1,35 @@
 Message 0:
 There's no point staying in a place
-like this if you have a wife waiting
-at home...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+like this if you have someone waiting
+at home...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 1:
-ERROR{EOM}{EOM}{EOM}
+{EOM}ERROR{EOM}{EOM}
 
 Message 2:
-It doesn't really matter what you drink
+{EOM}It doesn't really matter what you drink
 but Muffy seems to think that she
-knows what you like.{PAUSE}{EOM}
+knows what you like.{PAUSE}
 
 Message 3:
-Muffy's certainly become a beautiful girl,
+{EOM}Muffy's certainly become a beautiful girl,
 hasn't she? I mean, she's always been
-pretty, but now she's even prettier.{PAUSE}{EOM}{EOM}
+pretty, but now she's even prettier.{PAUSE}{EOM}
 
 Message 4:
-She might not make a good wife though...{PAUSE}{EOM}{EOM}{EOM}
+{EOM}She might not make a good wife though...{PAUSE}{EOM}{EOM}
 
 Message 5:
-But there's no better woman to have by
+{EOM}But there's no better woman to have by
 your side when you're drinking. She's
-so cheerful and happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+so cheerful and happy.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 6:
-We were just talking about you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EOM}We were just talking about you.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 7:
-Ha, ha, ha, ha. {PETE} said
-she'd drink anything.{PAUSE}{EOM}{EOM}
+{EOM}Ha, ha, ha, ha. {PETE} said
+he'd drink anything.{PAUSE}{EOM}{EOM}
 
 Message 8:
 I have to prepare for work tomorrow, so

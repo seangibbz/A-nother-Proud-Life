@@ -1,5 +1,5 @@
 Message 0:
-{FACE_010004}{S_3401A4}Mommy! Hurts!{PAUSE}{EOM}{EOM}{EOM}
+{FACE_010004}{S_3401A4}Daddy! Hurts!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 1:
 {FACE_010004}{S_3401A4}No!!!{PAUSE}{EOM}{EOM}{EOM}
@@ -8,16 +8,16 @@ Message 2:
 {FACE_010004}{S_3401A4}Grr...{PAUSE}{EOM}{EOM}
 
 Message 3:
-{FACE_010004}{S_3401A4}I don't wanna, Mommy!{PAUSE}{EOM}{EOM}{EOM}
+{FACE_010004}{S_3401A4}I don't wanna, Daddy!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 4:
 {FACE_010009}{S_3401A4}Enough!{PAUSE}{EOM}
 
 Message 5:
-{FACE_010009}{S_3401A4}No more Mommy!{PAUSE}{EOM}{EOM}
+{FACE_010009}{S_3401A4}No more Daddy!{PAUSE}{EOM}{EOM}
 
 Message 6:
-{FACE_010009}{S_3401A4}Mommy! No more!{PAUSE}{EOM}
+{FACE_010009}{S_3401A4}Daddy! No more!{PAUSE}{EOM}
 
 Message 7:
 {FACE_010009}{S_3401A4}Owie...{PAUSE}{EOM}
@@ -26,10 +26,10 @@ Message 8:
 {FACE_010004}{S_3401A4}Owww!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 9:
-{FACE_010004}{S_3401A4}Lemme down, Mommy!{PAUSE}{EOM}{EOM}
+{FACE_010004}{S_3401A4}Lemme down, Daddy!{PAUSE}{EOM}{EOM}
 
 Message 10:
-{FACE_010004}{S_3401A4}Mommy! No!!{PAUSE}{EOM}
+{FACE_010004}{S_3401A4}Daddy! No!!{PAUSE}{EOM}
 
 Message 11:
 {FACE_010004}{S_3401A4}No more!!{PAUSE}{EOM}{EOM}{EOM}
@@ -71,22 +71,22 @@ Message 23:
 {FACE_010009}{S_3401A4}No! No throw!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 24:
-{FACE_01000C}Time for beddy, Mommy?{PAUSE}{EOM}
+{FACE_01000C}Time for beddy, Daddy?{PAUSE}{EOM}
 
 Message 25:
 {FACE_010003}Heeeheeeeheee!{PAUSE}{EOM}
 
 Message 26:
-{FACE_010003}{S_3401A3}You yawned Mommy!{PAUSE}{EOM}{EOM}{EOM}
+{FACE_010003}{S_3401A3}You yawned Daddy!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 27:
-{FACE_01000C}Beddybye time, Mommy?{PAUSE}{EOM}{EOM}
+{FACE_01000C}Beddybye time, Daddy?{PAUSE}{EOM}{EOM}
 
 Message 28:
 {FACE_01000C}Yaaawn?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 29:
-{FACE_010001}Nighty night, Mommy?{PAUSE}{EOM}{EOM}{EOM}
+{FACE_010001}Nighty night, Daddy?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 30:
 {FACE_010004}{S_3401A4}No.
@@ -166,25 +166,25 @@ Message 53:
 
 Message 54:
 Awen't you wookin' now
-Mommy?{PAUSE}{EOM}{EOM}
+Daddy?{PAUSE}{EOM}{EOM}
 
 Message 55:
 Awen't you wookin' now
-Mommy?{PAUSE}{EOM}{EOM}
+Daddy?{PAUSE}{EOM}{EOM}
 
 Message 56:
 Awen't you wookin' now
-Mommy?{PAUSE}{EOM}{EOM}
+Daddy?{PAUSE}{EOM}{EOM}
 
 Message 57:
 Awen't you wookin' now
-Mommy?{PAUSE}{EOM}{EOM}
+Daddy?{PAUSE}{EOM}{EOM}
 
 Message 58:
-How's wook, Mommy?{PAUSE}{EOM}
+How's wook, Daddy?{PAUSE}{EOM}
 
 Message 59:
-How's wook, Mommy?{PAUSE}{EOM}
+How's wook, Daddy?{PAUSE}{EOM}
 
 Message 60:
 {FACE_010004}{S_3401A4}No! No!{PAUSE}{EOM}
@@ -193,11 +193,11 @@ Message 61:
 {FACE_010004}{S_3401A4}Noooooo!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 62:
-{S_3401A3}Mommy!
+{S_3401A3}Daddy!
 Pick me up!!{PAUSE}{EOM}
 
 Message 63:
-{S_3401A3}Mommy! Pick me up!{PAUSE}{EOM}{EOM}
+{S_3401A3}Daddy! Pick me up!{PAUSE}{EOM}{EOM}
 
 Message 64:
 {S_3401A3}Pick me up! Pick me up!{PAUSE}{EOM}
@@ -206,7 +206,7 @@ Message 65:
 Pick me up...{PAUSE}{EOM}{EOM}
 
 Message 66:
-Mommy... Pick me up...{PAUSE}{EOM}
+Daddy... Pick me up...{PAUSE}{EOM}
 
 Message 67:
 Pick me uuuuup....{PAUSE}{EOM}

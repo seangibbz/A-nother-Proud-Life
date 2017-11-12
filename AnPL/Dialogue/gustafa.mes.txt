@@ -1402,7 +1402,7 @@ Now close your eyes...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 325:
 That's right. Good.
-Say “good night” to Mommy.{PAUSE}{EOM}
+Say “good night” to Daddy.{PAUSE}{EOM}
 
 Message 326:
 Whenever I get emotionally moved

@@ -1,6 +1,6 @@
 Message 0:
 {FACE_140003}{TATSUYA},
-Mommy's playing with you, huh?{PAUSE}{EOM}
+Daddy's playing with you, huh?{PAUSE}{EOM}
 
 Message 1:
 {NICKNAME}...{PAUSE}{WIPE}
@@ -73,12 +73,12 @@ Message 14:
 ♪from you...♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 15:
-{TATSUYA}, Mommy'll be back
+{TATSUYA}, Daddy'll be back
 soon, OK?{PAUSE}{EOM}
 
 Message 16:
 {TATSUYA}, that was great!
-You want to sing that for Mommy?{PAUSE}{EOM}{EOM}{EOM}
+You want to sing that for Daddy?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 17:
 {NICKNAME}!
@@ -105,7 +105,7 @@ Message 20:
 {FACE_140003}What're you drawing?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 21:
-{FACE_140009}......Mommy???{PAUSE}{WIPE}
+{FACE_140009}......Daddy???{PAUSE}{WIPE}
 {FACE_140019}....That's very good...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 22:
@@ -131,7 +131,7 @@ could be some kind of genius?{PAUSE}{EOM}{EOM}{EOM}
 Message 25:
 Hmmm.
 It looks like flowers to me.
-But {TATSUYA} says it's “Mommy.”{PAUSE}{EOM}{EOM}{EOM}
+But {TATSUYA} says it's “Daddy.”{PAUSE}{EOM}{EOM}{EOM}
 
 Message 26:
 But depending on how you think about it,
@@ -945,7 +945,7 @@ some songs together.{PAUSE}{EOM}
 Message 200:
 Hey {TATSUYA},
 you seem to be in a good mood now
-that Mommy carrying you.{PAUSE}{EOM}
+that Daddy carrying you.{PAUSE}{EOM}
 
 Message 201:
 Hi there, {DOG}.{PAUSE}{EOM}{EOM}{EOM}

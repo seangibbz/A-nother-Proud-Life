@@ -1,14 +1,14 @@
 Message 0:
-Mommy carry me! Carry me!{PAUSE}{EOM}{EOM}
+Daddy carry me! Carry me!{PAUSE}{EOM}{EOM}
 
 Message 1:
-Mommy, carry me.{PAUSE}{EOM}{EOM}{EOM}
+Daddy, carry me.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 2:
 Carry me!!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 3:
-Mommy more!!{PAUSE}{EOM}{EOM}{EOM}
+Daddy more!!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 4:
 Heehee...{PAUSE}{EOM}{EOM}
@@ -26,7 +26,7 @@ Message 8:
 Go beddy!{PAUSE}{EOM}{EOM}
 
 Message 9:
-Nighty-night, Mommy!{PAUSE}{EOM}{EOM}{EOM}
+Nighty-night, Daddy!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 10:
 Night, night...{PAUSE}{EOM}{EOM}{EOM}{EOM}
@@ -44,7 +44,7 @@ Message 14:
 Yay!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 15:
-Nitey-nite Mommy!{PAUSE}{EOM}{EOM}
+Nitey-nite Daddy!{PAUSE}{EOM}{EOM}
 
 Message 16:
 No sleepy! No sleepy yet!{PAUSE}{EOM}{EOM}
@@ -80,7 +80,7 @@ Message 26:
 Yay!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 27:
-Nighty-night Mommy!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+Nighty-night Daddy!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 28:
 No! I wanna play!!{PAUSE}{EOM}
@@ -162,7 +162,7 @@ Message 51:
 ♪Of white flowers...♪{PAUSE}{EOM}{EOM}
 
 Message 52:
-Mommy...{PAUSE}{EOM}{EOM}{EOM}
+Daddy...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 53:
 I'm pwacticin' runnin'...{PAUSE}{EOM}{EOM}
@@ -866,7 +866,7 @@ Mom, I gotta go potty.
 Don't touch anything in my room.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 219:
-{FACE_010003}Mommy!{PAUSE}{EOM}
+{FACE_010003}Daddy!{PAUSE}{EOM}
 
 Message 220:
 {FACE_010003}Bath!
@@ -895,7 +895,7 @@ Message 226:
 Mmmm...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 227:
-{FACE_010001}Mommy.{PAUSE}{EOM}
+{FACE_010001}Daddy.{PAUSE}{EOM}
 
 Message 228:
 {FACE_01001A}Can I take a bath...?{PAUSE}{EOM}{EOM}
@@ -907,7 +907,7 @@ Message 230:
 Heehee.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 231:
-{DRAW_02}Heehee. That tickles, Mommy.
+{DRAW_02}Heehee. That tickles, Daddy.
 Mmmmm.....
 Heehee.{S_3203E8}{DRAW_00}{PAUSE}{EOM}
 
