@@ -2240,10 +2240,10 @@ the animals.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 424:
 There are some coins
-in the fountain...{PAUSE}{EOM}{EOM}{EOM}This し
+in the fountain...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 425:
-{E0}s where they
+This is where they
 ignite the fireworks.{PAUSE}{EOM}
 
 Message 426:

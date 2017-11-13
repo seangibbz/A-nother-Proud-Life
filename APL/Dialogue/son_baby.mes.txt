@@ -409,10 +409,10 @@ Message 119:
 
 Message 120:
 {FACE_010003}Good boys go
-seepy early! {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010009}
+seepy early! {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 121:
-I was a good boy... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{FACE_010009}I was a good boy... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 122:
 {FACE_010009}Mommy, work... {PAUSE}{EOM}{EOM}{EOM}
