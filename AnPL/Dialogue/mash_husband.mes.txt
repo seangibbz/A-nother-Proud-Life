@@ -446,7 +446,7 @@ Why are you so serious?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 88:
 Then why don't you just ask
-your fat•e{0A}?
+your fathe{0A}?
 I'm sure she'd be happy to show you.{PAUSE}{EOM}{EOM}
 
 Message 89:

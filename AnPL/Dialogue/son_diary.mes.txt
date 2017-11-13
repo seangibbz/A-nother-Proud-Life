@@ -676,471 +676,471 @@ Message 111:
 Do I love {KATE} because she's like me,
 or because she's totally different?
 I bet it's because she's different.{PAUSE}
-Kind of funny, isn't it?{PAUSE}{EOM}L
+Kind of funny, isn't it?{PAUSE}{EOM}
 
 Message 112:
-et's say I marry {KATE}.
+Let's say I marry {KATE}.
 Dad would probably have trouble
 getting along with her.{PAUSE}
 Gee, what am I thinking?
-I don't even know if she likes me.{PAUSE}{EOM}D
+I don't even know if she likes me.{PAUSE}{EOM}
 
 Message 113:
-ad keeps telling me
+Dad keeps telling me
 to study hard.
 But he never really teaches me{PAUSE}
 how or what to study.
-I wish he did.{PAUSE}{EOM}Dad
+I wish he did.{PAUSE}{EOM}
 
 Message 114:
- keeps telling me
+Dad keeps telling me
 to study hard.
 But he never really teaches me{PAUSE}
 how or what to study.
-I wish he did.{PAUSE}{EOM}Dad k
+I wish he did.{PAUSE}{EOM}
 
 Message 115:
-eeps telling me
+Dad keeps telling me
 to study hard.
 But he never really teaches me{PAUSE}
 how or what to study.
-I wish he did.{PAUSE}{EOM}Dad isn
+I wish he did.{PAUSE}{EOM}
 
 Message 116:
-'t much of a cook.
+Dad isn't much of a cook.
 I'm starting to think that Dad
 fell for his looks alone{PAUSE}
-when he decided to marry him.{PAUSE}{EOM}{EOM}Dad scol
+when he decided to marry him.{PAUSE}{EOM}{EOM}
 
 Message 117:
-ds me a little too much. I guess
+Dad scolds me a little too much. I guess
 he's just trying to be a good father, but
-he's overdoing it. Gosh, gimme a break!{PAUSE}{EOM}When Dad
+he's overdoing it. Gosh, gimme a break!{PAUSE}{EOM}
 
 Message 118:
- doesn't shdve
+When Dad doesn't shave
 he looks... different.
 I wonder if Dad knows this?{PAUSE}
 If he did, would he have married him?
-But if he hadn't, I wouldn't even be here.{PAUSE}{EOM}{EOM}{KATE} kinda reminds me of
+But if he hadn't, I wouldn't even be here.{PAUSE}{EOM}{EOM}
 
 Message 119:
- myself.
+{KATE} kinda reminds me of myself.
 Is that why I'm attracted to her?
 I wonder what she thinks of me?{PAUSE}
 I don't really want to think
-about it...{PAUSE}{EOM}{EOM}{EOM}{EOM}Dad kept calling me
+about it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 120:
-
+Dad kept calling me
 a “handsome boy”, so I
 spent some time looking in the mirror.{PAUSE}
 Now I know why he says that.
 I really look like him.
-I have a narcissist for a father.{PAUSE}{EOM}Dad still doesn't it
+I have a narcissist for a father.{PAUSE}{EOM}
 
 Message 121:
- have it together.
+Dad still doesn't it have it together.
 He made a fuss again over a lost pendant.
-I guess people never really change.{PAUSE}{EOM}{EOM}Grown-ups say I shoul
+I guess people never really change.{PAUSE}{EOM}{EOM}
 
 Message 122:
-dn't
+Grown-ups say I shouldn't
 go to the Blue Bar alone at night.
-I want to grow up soon.{PAUSE}{EOM}{EOM}{EOM}Somebody said I looke
+I want to grow up soon.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 123:
-d a lot like
+Somebody said I looked a lot like
 Dad.
-Well duh! He's my father!{PAUSE}{EOM}{EOM}Dad sometimes goes inv
+Well duh! He's my father!{PAUSE}{EOM}{EOM}
 
 Message 124:
-isible
+Dad sometimes goes invisible
 after eating mushrooms in the woods!
 I want to try too, but Dad would{PAUSE}
 yell at me for eating something
-I found on the ground.{PAUSE}{EOM}The other night, Dad s
+I found on the ground.{PAUSE}{EOM}
 
 Message 125:
-ounded
+The other night, Dad sounded
 like he was having nightmares.
 I was worried.{PAUSE}
-I wonder what it was?{PAUSE}{EOM}Today I asked Dad
-how h
+I wonder what it was?{PAUSE}{EOM}
 
 Message 126:
-e got together with Dad
+Today I asked Dad
+how he got together with Dad
 but he started blushing {PAUSE}
 and wouldn't say anything.
-Why won't he tell?{PAUSE}{EOM}I often talk back to Da
+Why won't he tell?{PAUSE}{EOM}
 
 Message 127:
-d these days.
+I often talk back to Dad these days.
 It's not like I don't feel bad about it,
 but just looking at Dad annoys me.{PAUSE}
-I wonder why...{PAUSE}{EOM}{EOM}I bet Dad thinks I'm an
+I wonder why...{PAUSE}{EOM}{EOM}
 
 Message 128:
-noying.
+I bet Dad thinks I'm annoying.
 I bet he wihes I'd never been born.
 I could almost swear she does.{PAUSE}
 ✽SIGH✽
-Gee, this is depressing.{PAUSE}{EOM}{EOM}{EOM}I want to grow up and be
-
+Gee, this is depressing.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 129:
-a real man soon...{PAUSE}{EOM}{EOM}{EOM}{EOM}I often talk back to Mom 
+I want to grow up and be
+a real man soon...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 130:
-these days.
+I often talk back to Mom these days.
 It's not like I don't feel bad about it,
 but just looking at Mom annoys me.{PAUSE}
-I wonder why...{PAUSE}{EOM}{EOM}I bet Mom thinks I'm anno
+I wonder why...{PAUSE}{EOM}{EOM}
 
 Message 131:
-ying.
+I bet Mom thinks I'm annoying.
 I bet she wishes I'd never been born.
 I could almost swear she does.{PAUSE}
 ✽SIGH✽
-Gee, this is depressing.{PAUSE}{EOM}{EOM}{EOM}I think I'm just about ol
+Gee, this is depressing.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 132:
-d enough
+I think I'm just about old enough
 to get married.
 But I don't even have a girlfriend.{PAUSE}
-I've gotta find myself a good girl, fast.{PAUSE}{EOM}{EOM}{EOM}My stomach is killing me.
+I've gotta find myself a good girl, fast.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 133:
-
+My stomach is killing me.
 I ate way too much last night.
 I hope I didn't offend anyone.{PAUSE}
-I'm not sure if I did or not.{PAUSE}{EOM}There's an unknown world 
+I'm not sure if I did or not.{PAUSE}{EOM}
 
 Message 134:
-outside this
+There's an unknown world outside this
 valley. I could live without seeing it,
 but I think it might be better{PAUSE}
-if I did.{PAUSE}{EOM}{EOM}{EOM}{EOM}My stomach is killing me.
+if I did.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 135:
-
+My stomach is killing me.
 I ate way too much last night.
 I hope I didn't offend anyone.{PAUSE}
-I'm not sure if I did or not.{PAUSE}{EOM}There's an unknown world 
+I'm not sure if I did or not.{PAUSE}{EOM}
 
 Message 136:
-outside this
+There's an unknown world outside this
 valley. I could live without seeing it,
 but I think it might be better{PAUSE}
-if I did.{PAUSE}{EOM}{EOM}{EOM}{EOM}I can run pretty fast,
-so
+if I did.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 137:
- I think someday
-I'll be an athlete.{PAUSE}{EOM}{EOM}{HUGH}'s father told me
-that 
+I can run pretty fast,
+so I think someday
+I'll be an athlete.{PAUSE}{EOM}{EOM}
 
 Message 138:
-I should become an athlete
-because I can run so fast.{PAUSE}{EOM}I can run pretty fast,
-so
+{HUGH}'s father told me
+that I should become an athlete
+because I can run so fast.{PAUSE}{EOM}
 
 Message 139:
- I think someday
-I'll be an athlete.{PAUSE}{EOM}{EOM}I'm pretty sure.
-One day,
+I can run pretty fast,
+so I think someday
+I'll be an athlete.{PAUSE}{EOM}{EOM}
 
 Message 140:
- I'll be running faster than {HUGH}...{EOM}I'm pretty sure.
-One day,
+I'm pretty sure.
+One day, I'll be running faster than {HUGH}...{EOM}
 
 Message 141:
- I'll be running faster than {HUGH}...{EOM}I'm pretty sure.
-One day,
+I'm pretty sure.
+One day, I'll be running faster than {HUGH}...{EOM}
 
 Message 142:
- I'll be running faster than {HUGH}...{EOM}I think I'm beginning to 
+I'm pretty sure.
+One day, I'll be running faster than {HUGH}...{EOM}
 
 Message 143:
-see my goal.
+I think I'm beginning to see my goal.
 I want to see how far I can get
 in the world of professional sports.{PAUSE}
-Unless I change my mind, of course.{PAUSE}{EOM}{EOM}{EOM}{EOM}To be a real professional
+Unless I change my mind, of course.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 144:
- athlete,
+To be a real professional athlete,
 I need to find a sponsor.
 If I'm good enough,{PAUSE}
 a sponsor will appear sooner or later.
 I wonder how good I am?
-Am I competitive enough?{PAUSE}{EOM}{EOM}I think I'm beginning to 
+Am I competitive enough?{PAUSE}{EOM}{EOM}
 
 Message 145:
-see my goal.
+I think I'm beginning to see my goal.
 I want to see how far I can get
 in the world of professional sports.{PAUSE}
-Unless I change my mind, of course.{PAUSE}{EOM}{EOM}{EOM}{EOM}Mom told me
-I sing pretty
+Unless I change my mind, of course.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 146:
- well.
-Maybe I should be a singer someday.{PAUSE}{EOM}{EOM}{EOM}{EOM}When I sing, animals come
+Mom told me
+I sing pretty well.
+Maybe I should be a singer someday.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 147:
-
+When I sing, animals come
 and gather around me.
 Maybe my voice{PAUSE}
-is something magical.{PAUSE}{EOM}{EOM}When the birds sing, I he
+is something magical.{PAUSE}{EOM}{EOM}
 
 Message 148:
-ar musical notes.
+When the birds sing, I hear musical notes.
 When the cows moo, I hear notes, too.
-I think all sounds are notes.{PAUSE}{EOM}My falsetto is getting be
+I think all sounds are notes.{PAUSE}{EOM}
 
 Message 149:
-tter.
+My falsetto is getting better.
 If I continue practicing,
-I could sing 4 octaves easily.{PAUSE}{EOM}{EOM}{EOM}{EOM}I've discovered my talent
+I could sing 4 octaves easily.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 150:
-.
+I've discovered my talent.
 It's music.
 I don't even think about it, but...{PAUSE}
-I always have melodies in my head.{PAUSE}{EOM}When I pull my chin in, i
+I always have melodies in my head.{PAUSE}{EOM}
 
 Message 151:
-t's easier
+When I pull my chin in, it's easier
 to sing higher. It's really something.
-I can sing a wider range of songs now.{PAUSE}{EOM}{EOM}I think I'm beginning to 
+I can sing a wider range of songs now.{PAUSE}{EOM}{EOM}
 
 Message 152:
-see my goal.
+I think I'm beginning to see my goal.
 I'm not totally sure yet,
 but a career in music sounds interesting.{PAUSE}
 Unless I change my mind, of course.
-{PAUSE}{EOM}{EOM}{EOM}{EOM}I saw a TV special on G. 
+{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 153:
-McCoy's music.
+I saw a TV special on G. McCoy's music.
 I hope to move people with my songs, but
 he does that with a single instrument.{PAUSE}
 I was totally impressed and now want to
-play an instrument of some sort.{PAUSE}{EOM}{EOM}I think I'm beginning to 
+play an instrument of some sort.{PAUSE}{EOM}{EOM}
 
 Message 154:
-see my goal.
+I think I'm beginning to see my goal.
 I'm not totally sure yet,
 but a career in music sounds interesting.{PAUSE}
 Unless I change my mind, of course.
-{PAUSE}{EOM}{EOM}{EOM}{EOM}I let {PATRICK} see my drawing.
-
+{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 155:
+I let {PATRICK} see my drawing.
 He said I was good at using colors.
-It made me kind of happy.{PAUSE}{EOM}I let {CODY} see my drawing.
-
+It made me kind of happy.{PAUSE}{EOM}
 
 Message 156:
+I let {CODY} see my drawing.
 He said I had “potential.”
-What's “potential”? Does it taste good?{PAUSE}{EOM}{EOM}{EOM}{EOM}I can draw circles pretty
+What's “potential”? Does it taste good?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 157:
- well now,
+I can draw circles pretty well now,
 so I drew Dad just by using circles.
 But it didn't look like him.{PAUSE}
-It's not easy.{PAUSE}{EOM}{EOM}I've discovered my talent
+It's not easy.{PAUSE}{EOM}{EOM}
 
 Message 158:
-.
+I've discovered my talent.
 It's art.
-I wonder where or who it came from...{PAUSE}{EOM}It's hard to draw things 
+I wonder where or who it came from...{PAUSE}{EOM}
 
 Message 159:
-lifelike, but
+It's hard to draw things lifelike, but
 it's also hard to draw things abstractly.
 I've gotten bored with lifelike drawings.{PAUSE}
 I tried doing it a little, but they
 didn't look good and I threw them away.
-Next time, maybe. Next time.{PAUSE}{EOM}{EOM}{EOM}I feel I'm good at drawin
+Next time, maybe. Next time.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 160:
-g,
+I feel I'm good at drawing,
 but I'll need tons of practice
 to be able to draw like I want to.{PAUSE}
 My drawing skills need improvement,
 and I need work on using colors.
 The hardest part is that{PAUSE}
 I can't decide what I want to express.
-I need to give it some thought.{PAUSE}{EOM}{EOM}{EOM}I think I know what I wan
+I need to give it some thought.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 161:
-t to do with
+I think I know what I want to do with
 my life. I want to do something creative.
 I'm not entirely sure, but...{PAUSE}
 I think that's what I should do...
-...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}{EOM}Someone said creating was
+...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 162:
-
+Someone said creating was
 talking with one's inner soul,
 and I totally agree.{PAUSE}
 To make something good, you need to be
 honest about your feelings,
 and not be swayed by others' opinions.{PAUSE}
 I must remember this, even if
-I become a professional artist.{PAUSE}{EOM}{EOM}{EOM}{EOM}Let's face it, being an a
+I become a professional artist.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 163:
-rtist
+Let's face it, being an artist
 isn't going to earn you much money.
 But I'd still like to earn a living{PAUSE}
 with my own work. And I can't
 keep relying on my parents forever.
-It's a real dilemma, I tell you.{PAUSE}{EOM}I was born on a farm, so 
+It's a real dilemma, I tell you.{PAUSE}{EOM}
 
 Message 164:
-I'll be a
+I was born on a farm, so I'll be a
 great farmer someday!
-I think.{PAUSE}{EOM}{EOM}I saw a lizard in the woo
+I think.{PAUSE}{EOM}{EOM}
 
 Message 165:
-ds.
+I saw a lizard in the woods.
 It saw me but didn't run away.
 But it went and hid in the grass{PAUSE}
-when somebody else came along.{PAUSE}{EOM}{EOM}{EOM}I was born on a farm,
-so 
+when somebody else came along.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 166:
-I think I can make friends with animals
-faster than other people.{PAUSE}{EOM}I'm better at farming tha
+I was born on a farm,
+so I think I can make friends with animals
+faster than other people.{PAUSE}{EOM}
 
 Message 167:
-t Mom is!
-For sure!{PAUSE}{EOM}{EOM}{EOM}I'm better at farming tha
+I'm better at farming that Mom is!
+For sure!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 168:
-t Mom is!
-For sure!{PAUSE}{EOM}{EOM}{EOM}I'm better at farming tha
+I'm better at farming that Mom is!
+For sure!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 169:
-t Mom is!
-For sure!{PAUSE}{EOM}{EOM}{EOM}I think I'll be taking ov
+I'm better at farming that Mom is!
+For sure!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 170:
-er the farm
+I think I'll be taking over the farm
 someday. I'm not totally sure yet, but
 I think it would only make sense for me.{PAUSE}
-Unless I change my mind, of course.{PAUSE}{EOM}{EOM}I think I'll be taking ov
+Unless I change my mind, of course.{PAUSE}{EOM}{EOM}
 
 Message 171:
-er the farm
+I think I'll be taking over the farm
 someday. I'm not totally sure yet, but
 I think it would only make sense for me.{PAUSE}
-Unless I change my mind, of course.{PAUSE}{EOM}{EOM}I think I'll be taking ov
+Unless I change my mind, of course.{PAUSE}{EOM}{EOM}
 
 Message 172:
-er the farm
+I think I'll be taking over the farm
 someday. I'm not totally sure yet, but
 I think it would only make sense for me.{PAUSE}
-Unless I change my mind, of course.{PAUSE}{EOM}{EOM}{VESTA} told me that
-I'm good 
+Unless I change my mind, of course.{PAUSE}{EOM}{EOM}
 
 Message 173:
-at growing crops
+{VESTA} told me that
+I'm good at growing crops
 because I'm pretty patient.{PAUSE}
-Am I patient? I don't know for sure.{PAUSE}{EOM}{EOM}{EOM}{EOM}{VESTA} told me that
-I'm good 
+Am I patient? I don't know for sure.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 174:
-at growing crops
+{VESTA} told me that
+I'm good at growing crops
 because I'm pretty patient.{PAUSE}
-Am I patient? I don't know for sure.{PAUSE}{EOM}{EOM}{EOM}{EOM}{VESTA} told me that
-I'm good 
+Am I patient? I don't know for sure.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 175:
-at growing crops
+{VESTA} told me that
+I'm good at growing crops
 because I'm pretty patient.{PAUSE}
-Am I patient? I don't know for sure.{PAUSE}{EOM}{EOM}{EOM}{EOM}Do I really have the prov
+Am I patient? I don't know for sure.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 176:
-erbial
+Do I really have the proverbial
 “green thumb”? I should try
-growing flowers or something in secret.{PAUSE}{EOM}{EOM}{EOM}{EOM}Do I really have the prov
+growing flowers or something in secret.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 177:
-erbial
+Do I really have the proverbial
 “green thumb”? I should try
-growing flowers or something in secret.{PAUSE}{EOM}{EOM}{EOM}{EOM}Do I really have the prov
+growing flowers or something in secret.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 178:
-erbial
+Do I really have the proverbial
 “green thumb”? I should try
-growing flowers or something in secret.{PAUSE}{EOM}{EOM}{EOM}{EOM}I think I'm beginning to 
+growing flowers or something in secret.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 179:
-see my goal.
+I think I'm beginning to see my goal.
 I want to grow crops.
 I'm not totally sure yet, but I feel{PAUSE}
 this is the career I want...
-...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}I think I'm beginning to 
+...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}
 
 Message 180:
-see my goal.
+I think I'm beginning to see my goal.
 I want to grow crops.
 I'm not totally sure yet, but I feel{PAUSE}
 this is the career I want...
-...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}I think I'm beginning to 
+...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}
 
 Message 181:
-see my goal.
+I think I'm beginning to see my goal.
 I want to grow crops.
 I'm not totally sure yet, but I feel{PAUSE}
 this is the career I want...
-...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}I have the feeling I'll c
+...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}
 
 Message 182:
-ome up with
-a wonderful invention and become famous.{PAUSE}{EOM}{EOM}I have the feeling I'll c
+I have the feeling I'll come up with
+a wonderful invention and become famous.{PAUSE}{EOM}{EOM}
 
 Message 183:
-ome up with
-a wonderful invention and become famous.{PAUSE}{EOM}{EOM}I have the feeling I'll c
+I have the feeling I'll come up with
+a wonderful invention and become famous.{PAUSE}{EOM}{EOM}
 
 Message 184:
-ome up with
-a wonderful invention and become famous.{PAUSE}{EOM}{EOM}I might be a genius. I un
+I have the feeling I'll come up with
+a wonderful invention and become famous.{PAUSE}{EOM}{EOM}
 
 Message 185:
-derstood more
+I might be a genius. I understood more
 than half of what {DARYL} told me.
-Isn't that something?{PAUSE}{EOM}I might be a genius. I un
+Isn't that something?{PAUSE}{EOM}
 
 Message 186:
-derstood more
+I might be a genius. I understood more
 than half of what {DARYL} told me.
-Isn't that something?{PAUSE}{EOM}I might be a genius. I un
+Isn't that something?{PAUSE}{EOM}
 
 Message 187:
-derstood more
+I might be a genius. I understood more
 than half of what {DARYL} told me.
-Isn't that something!?{PAUSE}{EOM}{EOM}{EOM}{EOM}I think I'm beginning to 
+Isn't that something!?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 188:
-see my goal.
+I think I'm beginning to see my goal.
 I want to research something.
 I'm not totally sure yet, but I feel{PAUSE}
 this is the career I want...
-...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}I think I'm beginning to 
+...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}
 
 Message 189:
-see my goal.
+I think I'm beginning to see my goal.
 I want to research something.
 I'm not totally sure yet, but I feel{PAUSE}
 this is the career I want...
-...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}I think I'm beginning to 
+...Unless I change my mind, of course.{PAUSE}{EOM}{EOM}
 
 Message 190:
-see my goal.
+I think I'm beginning to see my goal.
 I want to research something.
 I'm not totally sure yet, but I feel{PAUSE}
 this is the career I want...

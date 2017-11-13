@@ -1,6 +1,6 @@
 Message 0:
 Welcome.♪
-I'm so happy you came.
+I'm sp happy you came.
 Make yourself at home.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 1:
@@ -263,28 +263,28 @@ That looks good.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 68:
 That looks good.{PAUSE}
-Being a househusband must be hard.
+Being a househusband must be hard.{PAUSE}{EOM}{EOM}
 
 Message 69:
-{PAUSE}{EOM}{EOM}{FACE_030003}How nice!♥
+{FACE_030003}How nice!♥
 I love that type of thing.{PAUSE}{WIPE}
 But I'd really rather get something like
 that from a potential suitor...
 {CHOICE2 DEF0}
 Go on and take it.
-You're pretty selfish.
+You're pretty selfish.{EOM}
 
 Message 70:
-{EOM}{FACE_030003}How nice!♥
+{FACE_030003}How nice!♥
 I love that type of thing.{PAUSE}{WIPE}
 Is that a present from your husband?
 I wish someone would treat me that way!
 {CHOICE2 DEF0}
 It's for you.
-Nice, huh?{EOM}{EOM}{EOM}
+Nice, huh?{EOM}{EOM}{EOM}{EOM}
 
 Message 71:
-{EOM}{FACE_030009}Really?!{PAUSE}{WIPE}
+{FACE_030009}Really?!{PAUSE}{WIPE}
 {FACE_030003}I've never gotten a present like this
 from a guy, so I'm speechless.
 {S_340185}I'll treasure it.♥{PAUSE}{EOM}
@@ -296,1256 +296,1256 @@ ERROR{EOM}
 Message 73:
 {FACE_030009}.....................{FACE_03001A}Maybe so.
 I guess all people feel like that,
-deep down in their hearts.{PAUSE}{EOM}{EOM}{EOM}
+deep down in their hearts.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 74:
-{EOM}{S_340184}How nice.{PAUSE}{EOM}{EOM}
+{S_340184}How nice.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 75:
-{EOM}Very nice.
+Very nice.
 A present from your husband?
-I wish someone would treat me like that.{PAUSE}{EOM}{EOM}
+I wish someone would treat me like that.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 76:
-{EOM}{FACE_030009}Ewww! What is that?
+{FACE_030009}Ewww! What is that?
 {FACE_030007}I'm sorry, I..............
-I just can't stand that.{PAUSE}{EOM}{EOM}{EOM}
+I just can't stand that.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 77:
-{EOM}{FACE_030007}I really mean it!
-Stop it!!{PAUSE}{EOM}{EOM}{EOM}
+{FACE_030007}I really mean it!
+Stop it!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 78:
-{EOM}{FACE_030009}...........What is that, anyway?{PAUSE}{EOM}{EOM}
+{FACE_030009}...........What is that, anyway?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 79:
-{EOM}{FACE_030009}..............Get that away from me...{PAUSE}
+{FACE_030009}..............Get that away from me...{PAUSE}{EOM}
 
 Message 80:
-{EOM}{FACE_030003}{S_340184}How cute!
-Hello! It's {MUFFY}!♥{PAUSE}{EOM}
+{FACE_030003}{S_340184}How cute!
+Hello! It's {MUFFY}!♥{PAUSE}{EOM}{EOM}
 
 Message 81:
-{EOM}You must have looked this cute when
-you were young.{PAUSE}{EOM}{EOM}{EOM}
+You must have looked this cute when
+you were young.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 82:
-{EOM}{FACE_03001A}Such a cute child. It's hard to believe
+{FACE_03001A}Such a cute child. It's hard to believe
 it's {MARLIN}'s.
-{FACE_030003}It's good your child takes after you.{PAUSE}{EOM}{EOM}
+{FACE_030003}It's good your child takes after you.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 83:
-{EOM}{S_340184}How cute!
-Hello! It's {MUFFY}!♥{PAUSE}{EOM}
+{S_340184}How cute!
+Hello! It's {MUFFY}!♥{PAUSE}{EOM}{EOM}
 
 Message 84:
-{EOM}You must have looked this adorable when
-you were young.{PAUSE}{EOM}{EOM}{EOM}
+You must have looked this adorable when
+you were young.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 85:
-{EOM}Who does your child look like?
+Who does your child look like?
 Your husband's always wearing sunglasses
-so I can't really tell.{PAUSE}{EOM}{EOM}{EOM}
+so I can't really tell.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 86:
-{EOM}{S_340184}How cute!
-Hello! It's {MUFFY}!♥{PAUSE}{EOM}
+{S_340184}How cute!
+Hello! It's {MUFFY}!♥{PAUSE}{EOM}{EOM}
 
 Message 87:
-{EOM}You must have looked just like this when
-you were young.{PAUSE}{EOM}{EOM}
+You must have looked just like this when
+you were young.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 88:
-{EOM}It's nice to have a lot of kids around.
+It's nice to have a lot of kids around.
 Hm?
-Well, Rock's kind of like a kid, right?{PAUSE}{EOM}{EOM}{EOM}
+Well, Rock's kind of like a kid, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 89:
-{EOM}Eeek!{PAUSE}{WIPE}
+Eeek!{PAUSE}{WIPE}
 You startled me.
 That's your dog,
-isn't it?{PAUSE}{EOM}{EOM}{EOM}
+isn't it?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 90:
-{EOM}{FACE_030009}{S_340184}Hee hee.
-He's pretty cute.{PAUSE}{EOM}
+{FACE_030009}{S_340184}Hee hee.
+He's pretty cute.{PAUSE}{EOM}{EOM}
 
 Message 91:
-{EOM}{FACE_030003}{S_340184}Aww, a kitty cat!♥
+{FACE_030003}{S_340184}Aww, a kitty cat!♥
 He's purring.
-How cute!{PAUSE}{EOM}
+How cute!{PAUSE}{EOM}{EOM}
 
 Message 92:
-{EOM}His fur and tail are both
-so cuuuuute.♥{PAUSE}{EOM}{EOM}{EOM}
+His fur and tail are both
+so cuuuuute.♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 93:
-{EOM}Oh!
-You startled me. A chicken, huh?{PAUSE}{EOM}{EOM}
+Oh!
+You startled me. A chicken, huh?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 94:
-{EOM}Chickens are handy because they
+Chickens are handy because they
 lay eggs.
-.............Is that a........female?{PAUSE}{EOM}{EOM}{EOM}
+.............Is that a........female?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 95:
-{EOM}Do any of the chickens at {FARM} Farm
+Do any of the chickens at {FARM} Farm
 lay golden eggs?
-I guess that's pretty rare, huh?{PAUSE}
+I guess that's pretty rare, huh?{PAUSE}{EOM}
 
 Message 96:
-{EOM}How cute!
+How cute!
 A baby chick.
-When did it hatch?{PAUSE}
+When did it hatch?{PAUSE}{EOM}
 
 Message 97:
-{EOM}It's so soft and fluffy.{PAUSE}{EOM}{EOM}
+It's so soft and fluffy.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 98:
-{EOM}It's chirping.
-Could it be hungry?{PAUSE}
+It's chirping.
+Could it be hungry?{PAUSE}{EOM}
 
 Message 99:
-{EOM}Oh, a duck.
-Is it one of yours?{PAUSE}{EOM}{EOM}{EOM}
+Oh, a duck.
+Is it one of yours?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 100:
-{EOM}He has an adorable face.{PAUSE}{EOM}{EOM}
+He has an adorable face.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 101:
-{EOM}Aw, how cute. It's still a baby?
-I guess that's why it's so small.{PAUSE}
+Aw, how cute. It's still a baby?
+I guess that's why it's so small.{PAUSE}{EOM}
 
 Message 102:
-{EOM}What pretty feathers.
-So shiny.{PAUSE}{EOM}{EOM}{EOM}
+What pretty feathers.
+So shiny.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 103:
-{EOM}You don't suppose this one would turn
+You don't suppose this one would turn
 into a swan when it grows up?{PAUSE}{WIPE}
 I remember my mother reading
 me that story when I was a
-little girl.{PAUSE}
+little girl.{PAUSE}{EOM}
 
 Message 104:
-{EOM}What's that?
-Flower seeds or something?{PAUSE}{EOM}{EOM}{EOM}
+What's that?
+Flower seeds or something?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 105:
-{EOM}Come to think of it, we share a field with
+Come to think of it, we share a field with
 the {C14}{STRUC_35}{C17}...
-But I haven't been there in a long time.{PAUSE}{EOM}{EOM}{EOM}
+But I haven't been there in a long time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 106:
-{EOM}I always seem to forget to water
+I always seem to forget to water
 my plants.
-You're amazing.{PAUSE}{EOM}{EOM}{EOM}
+You're amazing.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 107:
-{EOM}What a nice vegetable.{PAUSE}
+What a nice vegetable.{PAUSE}{EOM}
 
 Message 108:
-{EOM}The one vegetable dish I make is
+The one vegetable dish I make is
 salad. I just cut it up and use dressing
-from the {C14}{STRUC_31}{C17}.{PAUSE}{EOM}{EOM}
+from the {C14}{STRUC_31}{C17}.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 109:
-{EOM}Oh!
+Oh!
 That milk looks delicious!♥
 {CHOICE2 DEF0}
 Try it.
-It sure does.{EOM}{EOM}{EOM}
+It sure does.{EOM}{EOM}{EOM}{EOM}
 
 Message 110:
-{EOM}Really?
-It's nice having a farm so close.♥{PAUSE}
+Really?
+It's nice having a farm so close.♥{PAUSE}{EOM}
 
 Message 111:
-{EOM}I love sweet and rich milk!♪{PAUSE}{EOM}{EOM}
+I love sweet and rich milk!♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 112:
-{EOM}Fresh milk sure is great!{PAUSE}{EOM}
+Fresh milk sure is great!{PAUSE}{EOM}{EOM}
 
 Message 113:
-{EOM}That cheese looks good.
+That cheese looks good.
+Did you make it on your farm?
+{CHOICE2 DEF0}
+Try some.
+Looks good, doesn't it?{EOM}{EOM}
+
+Message 114:
+Really?
+It's nice having a farm so close.♥{PAUSE}{EOM}
+
+Message 115:
+I love all kinds of cheese.
+I like to put it in salad.{PAUSE}{EOM}
+
+Message 116:
+It must be nice to be able to make cheese.{PAUSE}{EOM}
+
+Message 117:
+That butter looks tasty.
 Did you make it on your farm?
 {CHOICE2 DEF0}
 Try some.
 Looks good, doesn't it?{EOM}
 
-Message 114:
-{EOM}Really?
-It's nice having a farm so close.♥{PAUSE}
-
-Message 115:
-{EOM}I love all kinds of cheese.
-I like to put it in salad.{PAUSE}
-
-Message 116:
-{EOM}It must be nice to be able to make cheese.{PAUSE}
-
-Message 117:
-{EOM}That butter looks tasty.
-Did you make it on your farm?
-{CHOICE2 DEF0}
-Try some.
-Looks good, doesn't it?
-
 Message 118:
-{EOM}Really?
-It's nice having a farm so close.♥{PAUSE}
+Really?
+It's nice having a farm so close.♥{PAUSE}{EOM}
 
 Message 119:
-{EOM}I put butter on everything.
-I use a package a week.{PAUSE}{EOM}{EOM}{EOM}
+I put butter on everything.
+I use a package a week.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 120:
-{EOM}I bet butter made with fresh
-milk sure is delicious...{PAUSE}
+I bet butter made with fresh
+milk sure is delicious...{PAUSE}{EOM}
 
 Message 121:
-{EOM}Is that going to be a chicken?{PAUSE}
+Is that going to be a chicken?{PAUSE}{EOM}
 
 Message 122:
-{EOM}I like my eggs runny.
-I can't stand it when they're hardboiled.{PAUSE}{EOM}{EOM}{EOM}
+I like my eggs runny.
+I can't stand it when they're hardboiled.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 123:
-{EOM}Eggs are great, aren't they?
+Eggs are great, aren't they?
 You can make so many things with them.
-Or so I hear.{PAUSE}{EOM}
+Or so I hear.{PAUSE}{EOM}{EOM}
 
 Message 124:
-{EOM}I have strong preferences about fish.
+I have strong preferences about fish.
 I love {ITEM_0474}, but I can't
-stand {ITEM_048E}...{PAUSE}
+stand {ITEM_048E}...{PAUSE}{EOM}
 
 Message 125:
-{EOM}I can't believe it...
-That fish looked at me!!{PAUSE}
+I can't believe it...
+That fish looked at me!!{PAUSE}{EOM}
 
 Message 126:
-{EOM}Eww...
-Now I'm gonna have bad dreams...{PAUSE}{EOM}{EOM}{EOM}
+Eww...
+Now I'm gonna have bad dreams...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 127:
-{EOM}What is that, grass?
-Oh, one of those wild plants, huh?{PAUSE}{EOM}{EOM}{EOM}
+What is that, grass?
+Oh, one of those wild plants, huh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 128:
-{EOM}Are those in season?
-What do you know...{PAUSE}{EOM}{EOM}
+Are those in season?
+What do you know...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 129:
-{EOM}Did you make that yourself?
+Did you make that yourself?
 Wow!♥
 {CHOICE2 DEF0}
 Have her eat it.
-Just show her.{EOM}{EOM}{EOM}
+Just show her.{EOM}{EOM}{EOM}{EOM}
 
 Message 130:
-{EOM}Well, I don't know if I should...
+Well, I don't know if I should...
 OK, I'll have it later.
-{S_340184}Thank you.{PAUSE}{EOM}{EOM}{EOM}
+{S_340184}Thank you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 131:
-{EOM}It looks quite good.
-Make some for me next time.{PAUSE}{EOM}{EOM}
+It looks quite good.
+Make some for me next time.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 132:
-{EOM}I love great cooks! ♥{PAUSE}{EOM}
+I love great cooks! ♥{PAUSE}{EOM}{EOM}
 
 Message 133:
-{EOM}What is that?{PAUSE}{WIPE}
+What is that?{PAUSE}{WIPE}
 Oh, it's a “Hoe.” I see.
-You use that on the farm?{PAUSE}
+You use that on the farm?{PAUSE}{EOM}
 
 Message 134:
-{EOM}That looks a little strange.{PAUSE}{EOM}{EOM}
+That looks a little strange.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 135:
-{EOM}What is that?{PAUSE}{WIPE}
+What is that?{PAUSE}{WIPE}
 Oh, it's a “hoe.” I see.
-You use that on the farm?{PAUSE}
+You use that on the farm?{PAUSE}{EOM}
 
 Message 136:
-{EOM}That hoe looks worn and old.{PAUSE}{EOM}{EOM}
+That hoe looks worn and old.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 137:
-{EOM}What is that?{PAUSE}{WIPE}
+What is that?{PAUSE}{WIPE}
 Oh, it's a “hoe.” I see.
-You use that on the farm?{PAUSE}
+You use that on the farm?{PAUSE}{EOM}
 
 Message 138:
-{EOM}That hoe's still new.{PAUSE}{EOM}
+That hoe's still new.{PAUSE}{EOM}{EOM}
 
 Message 139:
-{EOM}What is that?{PAUSE}{WIPE}
+What is that?{PAUSE}{WIPE}
 Oh, it's a “hoe.” I see.
-You use that on the farm?{PAUSE}
+You use that on the farm?{PAUSE}{EOM}
 
 Message 140:
-{EOM}Good luck at your work.{PAUSE}{EOM}{EOM}{EOM}
+Good luck at your work.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 141:
-{EOM}What is that?{PAUSE}{WIPE}
+What is that?{PAUSE}{WIPE}
 Oh, it's a “hoe.” I see.
-You use that on the farm?{PAUSE}
+You use that on the farm?{PAUSE}{EOM}
 
 Message 142:
-{EOM}That's pretty old, isn't it?{PAUSE}{EOM}{EOM}
+That's pretty old, isn't it?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 143:
-{EOM}What's that?{PAUSE}{WIPE}
+What's that?{PAUSE}{WIPE}
 A sickle?
-You use that on the farm?{PAUSE}
+You use that on the farm?{PAUSE}{EOM}
 
 Message 144:
-{EOM}That's a weird looking sickle.{PAUSE}
+That's a weird looking sickle.{PAUSE}{EOM}
 
 Message 145:
-{EOM}What's that?{PAUSE}{WIPE}
+What's that?{PAUSE}{WIPE}
 A sickle?
-You swing that around on the farm?{PAUSE}{EOM}{EOM}{EOM}
+You swing that around on the farm?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 146:
-{EOM}What a strange sickle.{PAUSE}
+What a strange sickle.{PAUSE}{EOM}
 
 Message 147:
-{EOM}What's that?{PAUSE}{WIPE}
+What's that?{PAUSE}{WIPE}
 A sickle?
-Did you just buy it? It looks new.{PAUSE}{EOM}{EOM}{EOM}
+Did you just buy it? It looks new.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 148:
-{EOM}That's still pretty shiny.{PAUSE}
+That's still pretty shiny.{PAUSE}{EOM}
 
 Message 149:
-{EOM}What's that?{PAUSE}{WIPE}
+What's that?{PAUSE}{WIPE}
 A sickle?
 I don't see them around here much.
-{PAUSE}{EOM}{EOM}
+{PAUSE}{EOM}{EOM}{EOM}
 
 Message 150:
-{EOM}That's kind of scary looking.{PAUSE}
-{?_387E}TBD{PAUSE}{EOM}{EOM}
+That's kind of scary looking.{PAUSE}
+{?_387E}TBD{PAUSE}{EOM}{EOM}{EOM}
 
 Message 151:
-{EOM}What's that?{PAUSE}{WIPE}
+What's that?{PAUSE}{WIPE}
 A sickle?
-That would look charming on a den wall.{PAUSE}{EOM}{EOM}
+That would look charming on a den wall.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 152:
-{EOM}You use that to cut things, right?
-Does it really work?{PAUSE}{EOM}{EOM}{EOM}
+You use that to cut things, right?
+Does it really work?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 153:
-{EOM}My, what is that?
-You use that to water plants?{PAUSE}{EOM}{EOM}{EOM}
+My, what is that?
+You use that to water plants?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 154:
-{EOM}Leave it to a pro to
-know about these things.{PAUSE}{EOM}
+Leave it to a pro to
+know about these things.{PAUSE}{EOM}{EOM}
 
 Message 155:
-{EOM}Oh, that's a watering can.
-Are you growing some flowers?{PAUSE}{EOM}{EOM}
+Oh, that's a watering can.
+Are you growing some flowers?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 156:
-{EOM}I'm sorry, you use that
-on your farm, don't you?{PAUSE}{EOM}{EOM}
+I'm sorry, you use that
+on your farm, don't you?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 157:
-{EOM}Oh, a watering can.
-It must be hard to water every day!{PAUSE}{EOM}{EOM}{EOM}
+Oh, a watering can.
+It must be hard to water every day!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 158:
-{EOM}I like getting flowers, but I
+I like getting flowers, but I
 don't like growing them{PAUSE}{WIPE}
 They'll be fine one day and
 wilted the next...
-I always feel so betrayed...{PAUSE}{EOM}{EOM}{EOM}
+I always feel so betrayed...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 159:
-{EOM}What an old watering can.{PAUSE}{EOM}
+What an old watering can.{PAUSE}{EOM}{EOM}
 
 Message 160:
-{EOM}{FACE_030003}Are you sure there aren't any
-extra holes in that?{PAUSE}
+{FACE_030003}Are you sure there aren't any
+extra holes in that?{PAUSE}{EOM}
 
 Message 161:
-{EOM}That's an unusual machine.
-What is it again?{PAUSE}{EOM}{EOM}
+That's an unusual machine.
+What is it again?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 162:
-{EOM}Oh, so you use that to get milk, huh?
-{FACE_030003}That's kind of funny.{PAUSE}{EOM}{EOM}{EOM}
+Oh, so you use that to get milk, huh?
+{FACE_030003}That's kind of funny.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 163:
-{EOM}That's an unusual machine.
-What is it again?{PAUSE}{EOM}{EOM}
+That's an unusual machine.
+What is it again?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 164:
-{EOM}Oh, so you use that to get milk, huh?
-{FACE_030003}That's kind of funny.{PAUSE}{EOM}{EOM}{EOM}
+Oh, so you use that to get milk, huh?
+{FACE_030003}That's kind of funny.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 165:
-{EOM}That's an unusual machine.
-What is it again?{PAUSE}{EOM}{EOM}
+That's an unusual machine.
+What is it again?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 166:
-{EOM}Oh, so you use that to get milk, huh?
+Oh, so you use that to get milk, huh?
 {FACE_030009}I don't think I want to drink
-your milk unless you clean that thing...{PAUSE}{EOM}{EOM}
+your milk unless you clean that thing...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 167:
-{EOM}You use that to shear sheep?
+You use that to shear sheep?
 Yes, I've seen people do that.
-It's what they use on poodles, right?{PAUSE}{EOM}
+It's what they use on poodles, right?{PAUSE}{EOM}{EOM}
 
 Message 168:
-{EOM}It must be hard to shear a
-sheep.{PAUSE}{EOM}
+It must be hard to shear a
+sheep.{PAUSE}{EOM}{EOM}
 
 Message 169:
-{EOM}Those are nice and new.
-Are those clippers for shearing sheep?{PAUSE}
+Those are nice and new.
+Are those clippers for shearing sheep?{PAUSE}{EOM}
 
 Message 170:
-{EOM}But they're so cute with their
-fluffy coats...{PAUSE}
+But they're so cute with their
+fluffy coats...{PAUSE}{EOM}
 
 Message 171:
-{EOM}Are you going to shear some sheep?{PAUSE}
+Are you going to shear some sheep?{PAUSE}{EOM}
 
 Message 172:
-{EOM}But they're so cute with their
-fluffy coats...{PAUSE}
+But they're so cute with their
+fluffy coats...{PAUSE}{EOM}
 
 Message 173:
-{EOM}Are those clippers?
-Do they still work?{PAUSE}{EOM}{EOM}{EOM}
+Are those clippers?
+Do they still work?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 174:
-{EOM}It can hurt when your hair gets tangled.
-Be careful when you use those.{PAUSE}{EOM}{EOM}{EOM}
+It can hurt when your hair gets tangled.
+Be careful when you use those.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 175:
-{EOM}{FACE_030009}Is that new?
+{FACE_030009}Is that new?
 How nice.
-Good luck with your work.{PAUSE}{EOM}{EOM}
+Good luck with your work.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 176:
-{EOM}Good luck.{PAUSE}
+Good luck.{PAUSE}{EOM}
 
 Message 177:
-{EOM}{FACE_030009}Going to work?
-You're a hard worker, aren't you?{PAUSE}{EOM}{EOM}
+{FACE_030009}Going to work?
+You're a hard worker, aren't you?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 178:
-{EOM}Keep up the good work.{PAUSE}
+Keep up the good work.{PAUSE}{EOM}
 
 Message 179:
-{EOM}{FACE_030009}That tool's seen a lot of use.
-Does it still work?{PAUSE}
+{FACE_030009}That tool's seen a lot of use.
+Does it still work?{PAUSE}{EOM}
 
 Message 180:
-{EOM}{FACE_030009}I guess I shouldn't focus on appearances.{PAUSE}{EOM}
+{FACE_030009}I guess I shouldn't focus on appearances.{PAUSE}{EOM}{EOM}
 
 Message 181:
-{EOM}What a lovely stone.
-Did you dig that up yourself?{PAUSE}
+What a lovely stone.
+Did you dig that up yourself?{PAUSE}{EOM}
 
 Message 182:
-{EOM}I think {CARTER} gave me one like
-it once.{PAUSE}{EOM}{EOM}
+I think {CARTER} gave me one like
+it once.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 183:
-{EOM}{FACE_030002}Go throw that away.{PAUSE}{EOM}{EOM}{EOM}
+{FACE_030002}Go throw that away.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 184:
-{EOM}{FACE_030009}You really like that?
-You're a little strange, honey.{PAUSE}{EOM}
+{FACE_030009}You really like that?
+You're a little strange, honey.{PAUSE}{EOM}{EOM}
 
 Message 185:
-{EOM}What a pretty flower.
+What a pretty flower.
 What, a present for me?
 {CHOICE3 DEF1}
 That's right.
 If you like it, feel free.
-No.{EOM}{EOM}
+No.{EOM}{EOM}{EOM}
 
 Message 186:
-{EOM}{S_340184}Well, how nice of you!
-Thanks. I'll put it in my room.{PAUSE}{EOM}
+{S_340184}Well, how nice of you!
+Thanks. I'll put it in my room.{PAUSE}{EOM}{EOM}
 
 Message 187:
-{EOM}Really?
+Really?
 {S_340184}Thanks.
-I love flowers.{PAUSE}
+I love flowers.{PAUSE}{EOM}
 
 Message 188:
-{EOM}I see.{PAUSE}
+I see.{PAUSE}{EOM}
 
 Message 189:
-{EOM}What a pretty flower.
+What a pretty flower.
 Are you going decorate your room?
-............How nice..........{PAUSE}
+............How nice..........{PAUSE}{EOM}
 
 Message 190:
-{EOM}What a pretty flower.{PAUSE}{EOM}
+What a pretty flower.{PAUSE}{EOM}{EOM}
 
 Message 191:
-{EOM}Wow, I used to listen to those
-all the time when I was younger.{PAUSE}{EOM}{EOM}{EOM}
+Wow, I used to listen to those
+all the time when I was younger.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 192:
-{EOM}There was a cafe near my house
+There was a cafe near my house
 that always had the best records for
-listening and dancing. I went there a lot.{PAUSE}
+listening and dancing. I went there a lot.{PAUSE}{EOM}
 
 Message 193:
-{EOM}Did {RUBY} give you that?
-She's a good cook.{PAUSE}{EOM}{EOM}
+Did {RUBY} give you that?
+She's a good cook.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 194:
-{EOM}Food is tastier if it has some
-spices in it, don't you think?{PAUSE}{EOM}
+Food is tastier if it has some
+spices in it, don't you think?{PAUSE}{EOM}{EOM}
 
 Message 195:
-{EOM}{S_3400DA}{S_3205DC}What an odd sound.{PAUSE}{EOM}{EOM}
+{S_3400DA}{S_3205DC}What an odd sound.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 196:
-{EOM}{S_3400DA}{S_3205DC}That's a strange drum.{PAUSE}{EOM}{EOM}
+{S_3400DA}{S_3205DC}That's a strange drum.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 197:
-{EOM}Oh, did you come in first place
-at something?{PAUSE}{EOM}
+Oh, did you come in first place
+at something?{PAUSE}{EOM}{EOM}
 
 Message 198:
-{EOM}That's a pretty medal.{PAUSE}
+That's a pretty medal.{PAUSE}{EOM}
 
 Message 199:
-{EOM}That's nice but it's a little scary.{PAUSE}{EOM}{EOM}
+That's nice but it's a little scary.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 200:
-{EOM}That's not my style.
-When would you wear something like that?{PAUSE}{EOM}
+That's not my style.
+When would you wear something like that?{PAUSE}{EOM}{EOM}
 
 Message 201:
-{EOM}Sheet music?
-It looks difficult.{PAUSE}{EOM}{EOM}
+Sheet music?
+It looks difficult.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 202:
-{EOM}I may not look it, but I've taken voice
-lessons and I can read music.{PAUSE}{EOM}
+I may not look it, but I've taken voice
+lessons and I can read music.{PAUSE}{EOM}{EOM}
 
 Message 203:
-{EOM}Did you know that smoke from fireworks
-can make your skin look old?{PAUSE}{EOM}{EOM}{EOM}
+Did you know that smoke from fireworks
+can make your skin look old?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 204:
-{EOM}He tried to give me one, too, but
+He tried to give me one, too, but
 I refused.
-I told him to light one for me instead.{PAUSE}{EOM}{EOM}
+I told him to light one for me instead.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 205:
-{EOM}Oh, how nice.{PAUSE}{EOM}
+Oh, how nice.{PAUSE}{EOM}{EOM}
 
 Message 206:
-{EOM}Yes, that's nice.
-As long as you like it...{PAUSE}{EOM}{EOM}{EOM}
+Yes, that's nice.
+As long as you like it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 207:
-{EOM}At first I was a little skeptical about a
+At first I was a little skeptical about a
 woman running a farm, but when you think
-about it, that's just a stereotype.{PAUSE}
+about it, that's just a stereotype.{PAUSE}{EOM}
 
 Message 208:
-{EOM}Nowadays they say career women are
+Nowadays they say career women are
 attractive.
-I don't think I could ever be one, though.{PAUSE}{EOM}
+I don't think I could ever be one, though.{PAUSE}{EOM}{EOM}
 
 Message 209:
-{EOM}I like it in {C14}{STRUC_30}{C17},
-but I sure miss cherry pies and bowling.{PAUSE}{EOM}{EOM}{EOM}
+I like it in {C14}{STRUC_30}{C17},
+but I sure miss cherry pies and bowling.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 210:
-{EOM}I wasn't very good at bowling, but
+I wasn't very good at bowling, but
 I used to have fun betting with my
-friends over the results.{PAUSE}{EOM}{EOM}{EOM}
+friends over the results.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 211:
-{EOM}Up until now, I've gone out with
+Up until now, I've gone out with
 a lot of selfish men.
-I'm attracted to them for some reason.{PAUSE}{EOM}
+I'm attracted to them for some reason.{PAUSE}{EOM}{EOM}
 
 Message 212:
-{EOM}Oh, I know.
+Oh, I know.
 A nice quiet man would be much better
-for me, but...{PAUSE}{EOM}{EOM}
+for me, but...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 213:
-{EOM}{PETE}, the {VAR_00} you
+{PETE}, the {VAR_00} you
 gave me a while ago was very
-tasty.♥{PAUSE}{EOM}{EOM}{EOM}
+tasty.♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 214:
-{EOM}{FACE_030009}This is hard to say...
+{FACE_030009}This is hard to say...
 But I don't really like {VAR_00}.
-But it was nice of you to give it to me.{PAUSE}{EOM}{EOM}{EOM}
+But it was nice of you to give it to me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 215:
-{EOM}{FACE_03000A}That cheese was delicious.♥
+{FACE_03000A}That cheese was delicious.♥
+I didn't give any to
+{GRIFFIN}.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 216:
+That cheese smelled a little funny.
+I only need a bit of that kind of thing.{PAUSE}{EOM}{EOM}{EOM}
+
+Message 217:
+That cheese was delicious.♥{PAUSE}{WIPE}
+It's pretty rare, so of course
 I didn't give any to
 {GRIFFIN}.{PAUSE}{EOM}{EOM}
 
-Message 216:
-{EOM}That cheese smelled a little funny.
-I only need a bit of that kind of thing.{PAUSE}{EOM}{EOM}
-
-Message 217:
-{EOM}That cheese was delicious.♥{PAUSE}{WIPE}
-It's pretty rare, so of course
-I didn't give any to
-{GRIFFIN}.{PAUSE}{EOM}
-
 Message 218:
-{EOM}{FACE_03000A}Thanks for that cheese.
+{FACE_03000A}Thanks for that cheese.
 {GRIFFIN} thought it was
-good too.{PAUSE}{EOM}{EOM}{EOM}
+good too.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 219:
-{EOM}{FACE_03000A}That butter was rich
+{FACE_03000A}That butter was rich
 and very tasty.
-I'd love some more.♥{PAUSE}{EOM}
+I'd love some more.♥{PAUSE}{EOM}{EOM}
 
 Message 220:
-{EOM}{FACE_030009}That butter had a kind of... odor.
+{FACE_030009}That butter had a kind of... odor.
 It was too strong for everything I
-tried with it. I'm sorry.{PAUSE}{EOM}{EOM}{EOM}
+tried with it. I'm sorry.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 221:
-{EOM}{FACE_03000A}That butter was good.
+{FACE_03000A}That butter was good.
 You can't make much of that, can you?
-It was very nice of you to share it.♥{PAUSE}{EOM}
+It was very nice of you to share it.♥{PAUSE}{EOM}{EOM}
 
 Message 222:
-{EOM}{FACE_03000A}Thanks for the butter.
-It was good.{PAUSE}{EOM}{EOM}{EOM}
+{FACE_03000A}Thanks for the butter.
+It was good.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 223:
-{EOM}{FACE_03000A}The {VAR_00} you made
-was delicious.♥{PAUSE}{WIPE}{EOM}{EOM}
+{FACE_03000A}The {VAR_00} you made
+was delicious.♥{PAUSE}{WIPE}{EOM}{EOM}{EOM}
 
 Message 224:
-{EOM}{FACE_03000A}Thanks for the {VAR_00}.
-You seem to like cooking.{PAUSE}{EOM}{EOM}
+{FACE_03000A}Thanks for the {VAR_00}.
+You seem to like cooking.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 225:
-{EOM}You must like your farm.
-It's amazing how much you put into it.{PAUSE}{EOM}{EOM}{EOM}
+You must like your farm.
+It's amazing how much you put into it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 226:
-{EOM}Everyone says your cooking
+Everyone says your cooking
 is so good. Maybe one day
-you can teach me?{PAUSE}
+you can teach me?{PAUSE}{EOM}
 
 Message 227:
-{EOM}Oh...
-What are you doing here?{PAUSE}
+Oh...
+What are you doing here?{PAUSE}{EOM}
 
 Message 228:
-{EOM}{FACE_030003}Did you need something?
+{FACE_030003}Did you need something?
 What is it?
 {CHOICE3 DEF0}
 Let's talk about fashion.
 I want to ask about men...
-I want to talk about the farm.{EOM}
+I want to talk about the farm.{EOM}{EOM}
 
 Message 229:
-{EOM}Yes.
+Yes.
 We girls do like that kind of thing.♥
-Tell me if you find some nice clothes.♥{PAUSE}
+Tell me if you find some nice clothes.♥{PAUSE}{EOM}
 
 Message 230:
-{EOM}{FACE_03001A}About men?
+{FACE_03001A}About men?
 I'm afraid I don't understand men well.
-They seem like a whole different race.{PAUSE}{EOM}
+They seem like a whole different race.{PAUSE}{EOM}{EOM}
 
 Message 231:
-{EOM}Farm work must be hard.
+Farm work must be hard.
 Well, I guess nothing worth doing
-is easy, huh?{PAUSE}{EOM}{EOM}{EOM}
+is easy, huh?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 232:
-{EOM}Thanks for coming.{PAUSE}
+Thanks for coming.{PAUSE}{EOM}
 
 Message 233:
-{EOM}Welcome.
-Make yourself comfortable.{PAUSE}{EOM}{EOM}{EOM}
+Welcome.
+Make yourself comfortable.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 234:
-{EOM}{FACE_03000A}Yes?
+{FACE_03000A}Yes?
 Did you need me for something?
 {CHOICE3 DEF0}
 I'm here for a rest.
 How do you stay so attractive?
-How've you been lately?{EOM}
+How've you been lately?{EOM}{EOM}
 
 Message 235:
-{EOM}{FACE_03001A}You must be working hard.
-Maybe I'll take a rest, too.{PAUSE}
+{FACE_03001A}You must be working hard.
+Maybe I'll take a rest, too.{PAUSE}{EOM}
 
 Message 236:
-{EOM}{FACE_03001F}Me?
+{FACE_03001F}Me?
 {FACE_03001A}Well, I don't know...
-Maybe it's the drinks we serve here.{PAUSE}
+Maybe it's the drinks we serve here.{PAUSE}{EOM}
 
 Message 237:
-{EOM}{FACE_03001A}Lately?
+{FACE_03001A}Lately?
 Oh, nothing much has happened.
-But I guess that's good, in a way.{PAUSE}{EOM}
+But I guess that's good, in a way.{PAUSE}{EOM}{EOM}
 
 Message 238:
-{EOM}It's important to work hard, but taking
+It's important to work hard, but taking
 breaks is just as important.
-Drink up.{PAUSE}
+Drink up.{PAUSE}{EOM}
 
 Message 239:
-{EOM}It's important just to rest sometimes.{PAUSE}
+It's important just to rest sometimes.{PAUSE}{EOM}
 
 Message 240:
-{EOM}{S_340186}Oh, hello.
+{S_340186}Oh, hello.
 Did you need me for something?
-Would you like to talk?{PAUSE}{EOM}{EOM}
+Would you like to talk?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 241:
-{EOM}Is it something you can only tell me?
+Is it something you can only tell me?
 Go on, say it.
 {CHOICE3 DEF0}
 I want to be prettier.
 I want to have more fun.
-Nothing.{EOM}{EOM}{EOM}
+Nothing.{EOM}{EOM}{EOM}{EOM}
 
 Message 242:
-{EOM}{S_340185}Well, that's nice.{PAUSE}
+{S_340185}Well, that's nice.{PAUSE}
 They say women in love are more attractive
 but it can be hard to maintain that
-feeling for a long time, I guess...{PAUSE}{EOM}
+feeling for a long time, I guess...{PAUSE}{EOM}{EOM}
 
 Message 243:
-{EOM}{S_340186}Are you working too hard on the farm?
+{S_340186}Are you working too hard on the farm?
 I think you should do what you want.
-After all, you only live once.{PAUSE}{EOM}{EOM}
+After all, you only live once.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 244:
-{EOM}{S_340186}Are you sure?
+{S_340186}Are you sure?
 You can talk about anything with me.
-Come back if you change your mind.{PAUSE}{EOM}{EOM}
+Come back if you change your mind.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 245:
-{EOM}{S_340184}Hi there.{PAUSE}{EOM}{EOM}
+{S_340184}Hi there.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 246:
-{EOM}How have you been lately?
+How have you been lately?
 Has anything interesting happened?
 {CHOICE3 DEF0}
 My shoulders are so stiff.
 The farm is such a pain.
-I'm having so much fun.
+I'm having so much fun.{EOM}
 
 Message 247:
-{EOM}{S_340186}{FACE_03001A}You too?
+{S_340186}{FACE_03001A}You too?
 My shoulders are stiff, too!{PAUSE}
 I've heard they have special necklaces
 that are supposed to help, but they can
-be so ugly...{PAUSE}
+be so ugly...{PAUSE}{EOM}
 
 Message 248:
-{EOM}{FACE_03001A}I see.{PAUSE}
+{FACE_03001A}I see.{PAUSE}
 But doesn't it help to talk like this?
 Working women have it so tough, it's
-easy to get burnt out.{PAUSE}
+easy to get burnt out.{PAUSE}{EOM}
 
 Message 249:
-{EOM}{S_340184}That's great.
+{S_340184}That's great.
 I think I'd have more fun if I had a
-boyfriend, though...{PAUSE}
+boyfriend, though...{PAUSE}{EOM}
 
 Message 250:
-{EOM}If you need a sympathetic ear, feel free
-to come back any time.{PAUSE}{EOM}{EOM}{EOM}
+If you need a sympathetic ear, feel free
+to come back any time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 251:
-{EOM}{S_340184}It sure is warm.
-It's nice and refreshing.{PAUSE}{EOM}
+{S_340184}It sure is warm.
+It's nice and refreshing.{PAUSE}{EOM}{EOM}
 
 Message 252:
-{EOM}{S_340185}It's the season of love, isn't it?
-It's so exciting.{PAUSE}{EOM}{EOM}{EOM}
+{S_340185}It's the season of love, isn't it?
+It's so exciting.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 253:
-{EOM}The flowers blooming around here sure
-are pretty. I'm getting all emotional...{PAUSE}
+The flowers blooming around here sure
+are pretty. I'm getting all emotional...{PAUSE}{EOM}
 
 Message 254:
-{EOM}Did you know that ultraviolet rays are
+Did you know that ultraviolet rays are
 strongest at this time of year?
-Do you wear sunscreen?{PAUSE}{EOM}
+Do you wear sunscreen?{PAUSE}{EOM}{EOM}
 
 Message 255:
-{EOM}Maybe I should take some lessons or something..{PAUSE}{EOM}{EOM}{EOM}
+Maybe I should take some lessons or something..{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 256:
-{EOM}I want to lose weight by summer!{PAUSE}{EOM}{EOM}
+I want to lose weight by summer!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 257:
-{EOM}{S_340185}It's so hot.
-I feel faint.{PAUSE}{EOM}
+{S_340185}It's so hot.
+I feel faint.{PAUSE}{EOM}{EOM}
 
 Message 258:
-{EOM}I guess it's more comfortable here
-than in other places.{PAUSE}{EOM}{EOM}
+I guess it's more comfortable here
+than in other places.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 259:
-{EOM}{S_340185}I always get romantic ideas on hot
-summer nights.♥{PAUSE}{EOM}
+{S_340185}I always get romantic ideas on hot
+summer nights.♥{PAUSE}{EOM}{EOM}
 
 Message 260:
-{EOM}{S_340185}I don't suppose you're seeking
-a passionate romance?{PAUSE}{EOM}{EOM}{EOM}
+{S_340185}I don't suppose you're seeking
+a passionate romance?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 261:
-{EOM}The beach is great at this time of year!{PAUSE}{EOM}{EOM}
+The beach is great at this time of year!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 262:
-{EOM}It's not bad here, but I always feel
+It's not bad here, but I always feel
 on my guard when I go to other towns..
-Especially at night.{PAUSE}{EOM}{EOM}
+Especially at night.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 263:
-{EOM}It's gotten cooler, hasn't it?{PAUSE}
+It's gotten cooler, hasn't it?{PAUSE}{EOM}
 
 Message 264:
-{EOM}{S_340184}There are lots of good foods at this
-time of year. I hope I don't get fat!{PAUSE}{EOM}
+{S_340184}There are lots of good foods at this
+time of year. I hope I don't get fat!{PAUSE}{EOM}{EOM}
 
 Message 265:
-{EOM}I feel like taking a nap.{PAUSE}{EOM}
+I feel like taking a nap.{PAUSE}{EOM}{EOM}
 
 Message 266:
-{EOM}I never know what to wear at
-this time of year.{PAUSE}{EOM}{EOM}{EOM}
+I never know what to wear at
+this time of year.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 267:
-{EOM}{S_340184}If you make something good on your farm,
-be sure to give me some!♥{PAUSE}{EOM}
+{S_340184}If you make something good on your farm,
+be sure to give me some!♥{PAUSE}{EOM}{EOM}
 
 Message 268:
-{EOM}{S_340184}I can't seem to concentrate.
-Maybe I'll go shopping or something.{PAUSE}{EOM}{EOM}
+{S_340184}I can't seem to concentrate.
+Maybe I'll go shopping or something.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 269:
-{EOM}It sure is cold.
-I'd like to eat something hot.{PAUSE}{EOM}{EOM}{EOM}
+It sure is cold.
+I'd like to eat something hot.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 270:
-{EOM}{S_340184}I may dress skimpily, but I actually
-have poor circulation. I'm freezing!{PAUSE}{EOM}{EOM}
+{S_340184}I may dress skimpily, but I actually
+have poor circulation. I'm freezing!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 271:
-{EOM}I hate wearing thick winter clothes.
-They're just not stylish.{PAUSE}
+I hate wearing thick winter clothes.
+They're just not stylish.{PAUSE}{EOM}
 
 Message 272:
-{EOM}I feel so alone at this time of year.{PAUSE}{EOM}
+I feel so alone at this time of year.{PAUSE}{EOM}{EOM}
 
 Message 273:
-{EOM}{S_340185}It's chilly at this time of year.{PAUSE}{EOM}{EOM}
+{S_340185}It's chilly at this time of year.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 274:
-{EOM}Maybe I'll make something hot.{PAUSE}
+Maybe I'll make something hot.{PAUSE}{EOM}
 
 Message 275:
-{EOM}If you get tired from your work,
+If you get tired from your work,
 stop here for a visit.
-You can forget all your troubles!{PAUSE}{EOM}
+You can forget all your troubles!{PAUSE}{EOM}{EOM}
 
 Message 276:
-{EOM}Griffin's cocktails are the
+Griffin's cocktails are the
 best!
-He created the recipes himself.{PAUSE}{EOM}
+He created the recipes himself.{PAUSE}{EOM}{EOM}
 
 Message 277:
-{EOM}You can sometimes hear Griffin play
+You can sometimes hear Griffin play
 his guitar. Well, just sometimes...
-You might hear it if you stop by often.{PAUSE}{EOM}{EOM}{EOM}
+You might hear it if you stop by often.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 278:
-{EOM}{S_340184}Don't be shy.
+{S_340184}Don't be shy.
 Drink up. But not too much,
-OK?♥{PAUSE}{EOM}
+OK?♥{PAUSE}{EOM}{EOM}
 
 Message 279:
-{EOM}I try not to worry about tomorrow.
+I try not to worry about tomorrow.
 After all, you never know what's going
-to happen, right?{PAUSE}{EOM}{EOM}{EOM}
+to happen, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 280:
-{EOM}Sigh...{PAUSE}{EOM}{EOM}{EOM}
+Sigh...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 281:
-{EOM}It's so relaxing here.{PAUSE}
+It's so relaxing here.{PAUSE}{EOM}
 
 Message 282:
-{EOM}Sometimes I feel less alone when I'm here
-than when I'm surrounded by people.{PAUSE}{EOM}
+Sometimes I feel less alone when I'm here
+than when I'm surrounded by people.{PAUSE}{EOM}{EOM}
 
 Message 283:
-{EOM}{S_340184}Heehee.
-I felt that way today.{PAUSE}{EOM}
+{S_340184}Heehee.
+I felt that way today.{PAUSE}{EOM}{EOM}
 
 Message 284:
-{EOM}When you walk around here, your
-shoes get all muddy...{PAUSE}
+When you walk around here, your
+shoes get all muddy...{PAUSE}{EOM}
 
 Message 285:
-{EOM}{S_340184}Fashion can be inconvenient
+{S_340184}Fashion can be inconvenient
 at times.
-But you've got to stick with it.{PAUSE}{EOM}
+But you've got to stick with it.{PAUSE}{EOM}{EOM}
 
 Message 286:
-{EOM}Women need to be pretty and feminine.{PAUSE}{EOM}
+Women need to be pretty and feminine.{PAUSE}{EOM}{EOM}
 
 Message 287:
-{EOM}There's so much natural beauty around here
-that you can find relaxing spots all over.{PAUSE}{EOM}
+There's so much natural beauty around here
+that you can find relaxing spots all over.{PAUSE}{EOM}{EOM}
 
 Message 288:
-{EOM}This is one of them.
-I always feel better when I'm out here.{PAUSE}{EOM}{EOM}
+This is one of them.
+I always feel better when I'm out here.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 289:
-{EOM}Isn't nature great?{PAUSE}{EOM}{EOM}{EOM}
+Isn't nature great?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 290:
-{EOM}{FACE_030005}I'm sorry, but I don't want to
+{FACE_030005}I'm sorry, but I don't want to
 talk with you. If you keep talking to me
-I might just explode.{PAUSE}{EOM}
+I might just explode.{PAUSE}{EOM}{EOM}
 
 Message 291:
-{EOM}{FACE_030005}What!!!
+{FACE_030005}What!!!
 This is the first time something like
-this has happened to me!!{PAUSE}{EOM}{EOM}{EOM}
+this has happened to me!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 292:
-{EOM}{FACE_030006}You monster!
-Go away!{PAUSE}{EOM}
+{FACE_030006}You monster!
+Go away!{PAUSE}{EOM}{EOM}
 
 Message 293:
-{EOM}{FACE_030003}{S_340184}Hi.♥
-{PETE}...{PAUSE}{EOM}
+{FACE_030003}{S_340184}Hi.♥
+{PETE}...{PAUSE}{EOM}{EOM}
 
 Message 294:
-{EOM}{FACE_03000A}Are we going to buy a queen-sized bed when
+{FACE_03000A}Are we going to buy a queen-sized bed when
 we get married? Oh, I want silk sheets!
-{S_340185}Aren't they great?{PAUSE}{EOM}{EOM}
+{S_340185}Aren't they great?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 295:
-{EOM}To tell you the truth, I'd like to
+To tell you the truth, I'd like to
 stay with you right now.
-It's so lonely sleeping alone.{PAUSE}
+It's so lonely sleeping alone.{PAUSE}{EOM}
 
 Message 296:
-{EOM}{S_340184}We have to have kids.
-I think it'll help our marriage.{PAUSE}{EOM}
+{S_340184}We have to have kids.
+I think it'll help our marriage.{PAUSE}{EOM}{EOM}
 
 Message 297:
-{EOM}Oh, you surprised me.
+Oh, you surprised me.
 A date?
-You must be kidding.{PAUSE}
+You must be kidding.{PAUSE}{EOM}
 
 Message 298:
-{EOM}I'm so bored. Let's talk
-about something interesting.{PAUSE}{EOM}
+I'm so bored. Let's talk
+about something interesting.{PAUSE}{EOM}{EOM}
 
 Message 299:
-{EOM}{FACE_030003}{S_340184}Hi.♥
-Darling...{PAUSE}
+{FACE_030003}{S_340184}Hi.♥
+Darling...{PAUSE}{EOM}
 
 Message 300:
-{EOM}Don't make me worry.
-Not even once...{PAUSE}{EOM}
+Don't make me worry.
+Not even once...{PAUSE}{EOM}{EOM}
 
 Message 301:
-{EOM}Most of the people around here don't
+Most of the people around here don't
 seem to know about us yet.{PAUSE}{WIPE}
 ...I still get asked out on a lot
-of dates.{PAUSE}{EOM}
+of dates.{PAUSE}{EOM}{EOM}
 
 Message 302:
-{EOM}{FACE_03000A}{S_340184}Let's go out again.
+{FACE_03000A}{S_340184}Let's go out again.
 No matter where we go around here
-we end up meeting someone we know, though.{PAUSE}{EOM}{EOM}{EOM}
+we end up meeting someone we know, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 303:
-{EOM}{FACE_030002}I can't believe you!
+{FACE_030002}I can't believe you!
 How can you come and talk to me like
-there's nothing wrong?{PAUSE}{EOM}{EOM}
+there's nothing wrong?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 304:
-{EOM}{FACE_030002}It's too late now.
+{FACE_030002}It's too late now.
 I never give men a
-second chance.{PAUSE}{EOM}{EOM}
+second chance.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 305:
-{EOM}I don't want to talk now....{PAUSE}{EOM}{EOM}
+I don't want to talk now....{PAUSE}{EOM}{EOM}{EOM}
 
 Message 306:
-{EOM}It raining...
-I feel so depressed...{PAUSE}{EOM}{EOM}
+It raining...
+I feel so depressed...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 307:
-{EOM}I need a drink...{PAUSE}{EOM}
+I need a drink...{PAUSE}{EOM}{EOM}
 
 Message 308:
-{EOM}I wish it would stop raining.{PAUSE}{EOM}
+I wish it would stop raining.{PAUSE}{EOM}{EOM}
 
 Message 309:
-{EOM}I heard that the farmer in Mineral
+I heard that the farmer in Mineral
 Town has a dog that won
 lots of disk catching contests.{PAUSE}
-Aren't dogs cute?{PAUSE}{EOM}
+Aren't dogs cute?{PAUSE}{EOM}{EOM}
 
 Message 310:
-{EOM}I heard that the farmer in Mineral
+I heard that the farmer in Mineral
 Town has a horse that's won
 lots of races.{PAUSE}
-I love to see flowing manes on horses.{PAUSE}{EOM}
+I love to see flowing manes on horses.{PAUSE}{EOM}{EOM}
 
 Message 311:
-{EOM}I heard that the farmer in Mineral
+I heard that the farmer in Mineral
 Town has won lots of chicken
-festivals.{PAUSE}
+festivals.{PAUSE}{EOM}
 
 Message 312:
-{EOM}I heard that the farmer in Mineral
+I heard that the farmer in Mineral
 Town has won lots of cow
-festivals.{PAUSE}
+festivals.{PAUSE}{EOM}
 
 Message 313:
-{EOM}I heard that the farmer in Mineral
+I heard that the farmer in Mineral
 Town has won lots of sheep
-festivals.{PAUSE}{EOM}{EOM}
+festivals.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 314:
-{EOM}That's so nice of you!
+That's so nice of you!
 But I'm a little busy right now.
-I'm sorry.{PAUSE}
+I'm sorry.{PAUSE}{EOM}
 
 Message 315:
-{EOM}Maybe later, OK?{PAUSE}{EOM}{EOM}
+Maybe later, OK?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 316:
-{EOM}I guess I'll go to bed soon...{PAUSE}
+I guess I'll go to bed soon...{PAUSE}{EOM}
 
 Message 317:
-{EOM}It's my bed time now, so
-could you be going?{PAUSE}{EOM}{EOM}
+It's my bed time now, so
+could you be going?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 318:
-{EOM}Good night.{PAUSE}{EOM}{EOM}{EOM}
+Good night.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 319:
-{EOM}I have to be leaving soon...{PAUSE}{EOM}{EOM}
+I have to be leaving soon...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 320:
-{EOM}I'm going out now, so if you don't
-mind....{PAUSE}{EOM}{EOM}{EOM}
+I'm going out now, so if you don't
+mind....{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 321:
-{EOM}See you later.{PAUSE}
+See you later.{PAUSE}{EOM}
 
 Message 322:
-{EOM}{FACE_03000A}{TATSUYA}♪
+{FACE_03000A}{TATSUYA}♪
 Have your Dad wash you
-real well!{PAUSE}{EOM}
+real well!{PAUSE}{EOM}{EOM}
 
 Message 323:
-{EOM}{FACE_03000A}You're all clean!♥{PAUSE}
+{FACE_03000A}You're all clean!♥{PAUSE}{EOM}
 
 Message 324:
-{EOM}{FACE_030005}Oh just give him a bath!
-Honestly!!{PAUSE}{EOM}{EOM}{EOM}
+{FACE_030005}Oh just give him a bath!
+Honestly!!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 325:
-{EOM}Well, I guess I should go.{PAUSE}
+Well, I guess I should go.{PAUSE}{EOM}
 
 Message 326:
-{EOM}What will you do?{PAUSE}
+What will you do?{PAUSE}
 {CHOICE2 DEF0}
 Go.
-Don't go.{PAUSE}{EOM}{EOM}{EOM}
+Don't go.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 327:
-{EOM}OK then.{PAUSE}{EOM}{EOM}
+OK then.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 328:
-{EOM}Oh, Griffin.{PAUSE}
-What are we doing after this?{PAUSE}{EOM}{EOM}{EOM}
+Oh, Griffin.{PAUSE}
+What are we doing after this?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 329:
-{EOM}{FACE_03000A}Well, that's true.
-Hee hee.{PAUSE}{EOM}{EOM}{EOM}
+{FACE_03000A}Well, that's true.
+Hee hee.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 330:
-{EOM}Oh, it's you, {PETE}.
+Oh, it's you, {PETE}.
 Would you mind listening to me
-for a bit?{PAUSE}{EOM}{EOM}{EOM}
+for a bit?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 331:
-{EOM}I got dumped.{PAUSE}{EOM}
+I got dumped.{PAUSE}{EOM}{EOM}
 
 Message 332:
-{EOM}He was from the city, but...{S_3203E8}
-{FACE_030007}He was cheating on me.{PAUSE}
+He was from the city, but...{S_3203E8}
+{FACE_030007}He was cheating on me.{PAUSE}{EOM}
 
 Message 333:
-{EOM}This always happens to me.{PAUSE}
+This always happens to me.{PAUSE}
 Everybody thinks of me like some kind of
-pushover. Nobody's ever serious.{PAUSE}{EOM}
+pushover. Nobody's ever serious.{PAUSE}{EOM}{EOM}
 
 Message 334:
-{EOM}Oh where is my Mr. Right?{PAUSE}{EOM}
+Oh where is my Mr. Right?{PAUSE}{EOM}{EOM}
 
 Message 335:
-{EOM}{FACE_03000A}Oh well.{PAUSE}
+{FACE_03000A}Oh well.{PAUSE}
 There are plenty more fish in the sea.
-I can't give up.{PAUSE}{EOM}
+I can't give up.{PAUSE}{EOM}{EOM}
 
 Message 336:
-{EOM}{FACE_03000A}Thank you. I feel better
-now that I've talked about it.{PAUSE}{EOM}{EOM}{EOM}
+{FACE_03000A}Thank you. I feel better
+now that I've talked about it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 337:
-{EOM}{FACE_03000A}There aren't many women I can say these
+{FACE_03000A}There aren't many women I can say these
 kinds of things to here.{PAUSE}
-I hope you'll let me do this again.{PAUSE}{EOM}
+I hope you'll let me do this again.{PAUSE}{EOM}{EOM}
 
 Message 338:
-{EOM}He said that he loved the other girl more
+He said that he loved the other girl more
 than me.
-He didn't even hesitate.{PAUSE}{EOM}{EOM}{EOM}
+He didn't even hesitate.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 339:
-{EOM}I got dumped again.{PAUSE}{EOM}{EOM}{EOM}
+I got dumped again.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 340:
-{EOM}He was from the city, but...{S_3203E8}
-{FACE_030007}He was married....{PAUSE}
+He was from the city, but...{S_3203E8}
+{FACE_030007}He was married....{PAUSE}{EOM}
 
 Message 341:
-{EOM}After talking with him for a while, I
+After talking with him for a while, I
 realized that he even had kids.
-I was so shocked I couldn't talk.{PAUSE}{EOM}{EOM}{EOM}
+I was so shocked I couldn't talk.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 342:
-{EOM}Why do men do things like that? Why can't
-they be satisfied with one woman?{PAUSE}{EOM}{EOM}{EOM}
+Why do men do things like that? Why can't
+they be satisfied with one woman?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 343:
-{EOM}Isn't there someone out there for me?{PAUSE}
+Isn't there someone out there for me?{PAUSE}
 I just want someone to love me. Only me.
 Is it that difficult for a man to love
-just one woman?{PAUSE}
+just one woman?{PAUSE}{EOM}
 
 Message 344:
-{EOM}I've got to find somebody nice like
+I've got to find somebody nice like
 you did.
-Let's talk again sometime.{PAUSE}{EOM}{EOM}{EOM}
+Let's talk again sometime.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 345:
-{EOM}Well, I've got to find someone else now...{PAUSE}
+Well, I've got to find someone else now...{PAUSE}{EOM}
 
 Message 346:
-{EOM}He was from the city and he was younger
+He was from the city and he was younger
 than me. It was going so well.
-But...{PAUSE}{EOM}
+But...{PAUSE}{EOM}{EOM}
 
 Message 347:
-{EOM}As soon as I told him how old I was,
-I never heard from him again...{PAUSE}{EOM}{EOM}
+As soon as I told him how old I was,
+I never heard from him again...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 348:
-{EOM}He must have thought that we were
-the same age.{PAUSE}{EOM}{EOM}{EOM}
+He must have thought that we were
+the same age.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 349:
-{EOM}A lot of men like younger women.{PAUSE}
+A lot of men like younger women.{PAUSE}
 I wish they wouldn't worry about that and
-look at me for who I am.{PAUSE}{EOM}{EOM}
+look at me for who I am.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 350:
-{EOM}What should I do?
+What should I do?
 Men are so selfish.{PAUSE}
 They have women on the side, but get all
 jealous of our male friends...{PAUSE}
-They won't look at you if you're over 30.{PAUSE}{EOM}
+They won't look at you if you're over 30.{PAUSE}{EOM}{EOM}
 
 Message 351:
-{EOM}Let's talk again sometime.{PAUSE}
+Let's talk again sometime.{PAUSE}{EOM}
 
 Message 352:
-{EOM}This time he was an older man,
+This time he was an older man,
 and very dependable.
-He was so nice.{PAUSE}{EOM}{EOM}{EOM}
+He was so nice.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 353:
-{EOM}I started thinking about getting
-married.{PAUSE}{EOM}
+I started thinking about getting
+married.{PAUSE}{EOM}{EOM}
 
 Message 354:
-{EOM}So I casually brought up the subject
+So I casually brought up the subject
 of marriage.{PAUSE}
 But he said he liked things as they were.
 I thought maybe things would be OK if we
-let them stay as they were, but...{PAUSE}{EOM}{EOM}
+let them stay as they were, but...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 355:
-{EOM}One day when I was with him, we happened
+One day when I was with him, we happened
 to run into one of his friends.{PAUSE}
 He introduced me to him as his friend.{PAUSE}
 Not his girlfriend.{PAUSE}
 What about all the meals we ate together,
 or the movies we went to see?
-Didn't that mean anything?{PAUSE}{EOM}
+Didn't that mean anything?{PAUSE}{EOM}{EOM}
 
 Message 356:
-{EOM}I guess I wasn't really dumped.{PAUSE}
+I guess I wasn't really dumped.{PAUSE}
 I was never his girlfriend at all.
-Just someone to have fun with.{PAUSE}
+Just someone to have fun with.{PAUSE}{EOM}
 
 Message 357:
-{EOM}I'm so tired.
-I'm sick of men.{PAUSE}
+I'm so tired.
+I'm sick of men.{PAUSE}{EOM}
 
 Message 358:
-{EOM}Griffin, what is it?{PAUSE}{EOM}{EOM}
+Griffin, what is it?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 359:
-{EOM}{FACE_030000}I'm fine.{PAUSE}{EOM}
+{FACE_030000}I'm fine.{PAUSE}{EOM}{EOM}
 
 Message 360:
-{EOM}{FACE_03000A}Yes.
+{FACE_03000A}Yes.
 Somehow, looking at Griffin's face
-cheered me up.{PAUSE}
+cheered me up.{PAUSE}{EOM}
 
 Message 361:
-{EOM}{FACE_03000A}It doesn't mean anything.
-Come on, let's go home.{PAUSE}{EOM}
+{FACE_03000A}It doesn't mean anything.
+Come on, let's go home.{PAUSE}{EOM}{EOM}
 
 Message 362:
-{EOM}{FACE_03000A}{PETE},
+{FACE_03000A}{PETE},
 thanks for everything.
 Bye.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
 
