@@ -1321,19 +1321,19 @@ the Paleozoic...{PAUSE}{EOM}{EOM}{EOM}
 Message 267:
 ...A magazine full of
 pop stars and teenage
-discussions...{PAUSE}{EOM}{EOM}Sc0
+discussions...{PAUSE}{EOM}{EOM}
 
 Message 268:
-{DF}ool uniforms from
-all over the country.{PAUSE}{EOM}..む
+School uniforms from
+all over the country.{PAUSE}{EOM}
 
 Message 269:
-{C8}Is this all
+...Is this all
 teenage boys think
-about...?{PAUSE}{EOM}{EOM}{EOM}..ろ
+about...?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 270:
-{C8}Interview after
+...Interview after
 the game...
 Nathan: Well, I{PAUSE}
 didn't have my 'A'
@@ -1347,10 +1347,10 @@ relax.
 Man: What did he{PAUSE}
 prepare?
 Nathan: That's a
-secret...{PAUSE}{EOM}{EOM}{EOM}{EOM}Seケ
+secret...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 271:
-{ED}eral years ago, a
+Several years ago, a
 marathon runner, "W"
 became very famous in{PAUSE}
 a blink of an eye...
@@ -1360,10 +1360,10 @@ training his son in
 some rural town now.
 His son's mother is{PAUSE}
 a former reporter for
-a TV station. {PAUSE}{EOM}{EOM}{EOM}..ケ
+a TV station. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 272:
-{C8}When stretching
+...When stretching
 your legs, make sure
 you are aware of all{PAUSE}
 the muscles in your
@@ -1372,10 +1372,10 @@ supported by major{PAUSE}
 muscles and tendons,
 so it's important to
 take good care of{PAUSE}
-them...{PAUSE}{EOM}..ぞ
+them...{PAUSE}{EOM}
 
 Message 273:
-{C8}At the church
+...At the church
 in Mineral Town...
 This is it... I felt{PAUSE}
 better as soon as the
@@ -1383,10 +1383,10 @@ intro of my song
 started. OK, now...{PAUSE}
 Huh? ...Ah...my voice
 was different than
-usual...{PAUSE}{EOM}{EOM}{EOM}{EOM}1. 
+usual...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 274:
-I ♥ Mineral
+1. I ♥ Mineral
 2. Good Job!
 3. Flowers{PAUSE}
 4. Ho-nesty
@@ -1395,31 +1395,31 @@ I ♥ Mineral
 7. That Guy
 8. Bye-bye
 9. Mistake03{PAUSE}
-10. Flex-time{PAUSE}{EOM}{EOM}{EOM}..h
+10. Flex-time{PAUSE}{EOM}{EOM}{EOM}
 
 Message 275:
-{C8}A music sheet for
+...A music sheet for
 the piano...?
-Seems hard to play...{PAUSE}{EOM}{EOM}{EOM}{EOM}..V
+Seems hard to play...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 276:
-{C8}Materials for
+...Materials for
 Statues...
 Pine: For beginners.{PAUSE}
 Cypress: Requires
 some good tools.
-Sandalwood: Expensive{PAUSE}{EOM}{EOM}{EOM}{EOM}★Aる
+Sandalwood: Expensive{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 277:
-{E9}tist Now★
+★Artist Now★
 An artist from
 San Miracle Island,{PAUSE}
 H. Osman will hold
 a show in San Pote
-Beach!{PAUSE}{EOM}{EOM}{EOM}Heケ
+Beach!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 278:
-{E9}man Grid Illusion
+Herman Grid Illusion
 -Draw thick white
 grids on a black{PAUSE}
 paper. You'll start
@@ -1430,19 +1430,19 @@ eyes have the ability
 to see edges of{PAUSE}
 objects, but they
 fail to adjust to the
-distance between...{PAUSE}{EOM}{EOM}●E.
+distance between...{PAUSE}{EOM}{EOM}
 
 Message 279:
-{E3}ectric Seed Sower
+●Electric Seed Sower
 Very easy to handle!
 Call: xxx-xxxx{PAUSE}
 ●Mobil Chair Relax-or
 Relieves you from
 backaches!{PAUSE}
-Call: xxx-xxxx{PAUSE}{EOM}{EOM}Reゆ
+Call: xxx-xxxx{PAUSE}{EOM}{EOM}
 
 Message 280:
-{DA}ombining Genes
+Recombining Genes
 -Separate DNA by
 using the{PAUSE}
 Isoschizomer while
@@ -1452,60 +1452,60 @@ organisms...
 blah, blah, blah...
 ...changes the{PAUSE}
 original properties
-of plants...{PAUSE}{EOM}{EOM}{EOM}{EOM}..0
+of plants...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 281:
-{C8}Advertisement...
+...Advertisement...
 Powerful yet safe for
 your crops, Sunny 67!{PAUSE}
 Choose the one from
 our selection that
 fits your specific{PAUSE}
-needs!{PAUSE}{EOM}{EOM}{EOM}{EOM}Fr0
+needs!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 282:
-{E0}sbee Dog
+Frisbee Dog
 Championship 14
 1st 57pts. Antonio{PAUSE}
 (Boarder Collie)
 2nd 54pts. Rune
 (Boarder Collie){PAUSE}
 3rd 51pts. Boss
-(Welsh Corgi) {PAUSE}{EOM}{EOM}..F
+(Welsh Corgi) {PAUSE}{EOM}{EOM}
 
 Message 283:
-{C8}Many pictures of
-horses...{PAUSE}{EOM}{EOM}{EOM}{EOM}Maせ
+...Many pictures of
+horses...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 284:
-{DB} Cow Disease (BSE)
+Mad Cow Disease (BSE)
 The incubation period
 is over 2 years.{PAUSE}
 When symptoms appear,
 it takes anywhere
 from 2 weeks to 6{PAUSE}
-months until death.{PAUSE}{EOM}..d
+months until death.{PAUSE}{EOM}
 
 Message 285:
-{C8}Fractal and Chaos
+...Fractal and Chaos
 are...Paradox...
 ...The mechanism for{PAUSE}
-Chaos to...{PAUSE}{EOM}{EOM}..な
+Chaos to...{PAUSE}{EOM}{EOM}
 
 Message 286:
-{C8}Too difficult
-and boring...{PAUSE}{EOM}{EOM}Thせ
+...Too difficult
+and boring...{PAUSE}{EOM}{EOM}
 
 Message 287:
-{DC} first robot
+The first robot
 made in Japan was
 created by Dr. {PAUSE}
 Nishimura who
 invented...blah,
-blah, blah...{PAUSE}{EOM}Spる
+blah, blah...{PAUSE}{EOM}
 
 Message 288:
-{DC}cial Wedding
+Special Wedding
 Anniversary Names
 Year 1: Paper{PAUSE}
 Year 5: Wood
@@ -1514,57 +1514,57 @@ Year 10: Aluminum{PAUSE}
 Year 15: Crystal
 Year 25: Silver
 Year 50: Gold{PAUSE}
-Year 75: Diamond{PAUSE}{EOM}I h
+Year 75: Diamond{PAUSE}{EOM}
 
 Message 289:
-ad to spend a
+I had to spend a
 night on the bench
 in Amethyst Park.{PAUSE}
 It was quite scary
 having to sleep
-outside...{PAUSE}{EOM}{EOM}{EOM}..パ
+outside...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 290:
-{C8}Snow Country...
+...Snow Country...
 Vodka 1/2, White
 Curacao 1/4, Lime 1/4{PAUSE}
 Green Cherry 1,
-Sugar{PAUSE}{EOM}{EOM}{EOM}{EOM}Puヲ
+Sugar{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 291:
-{DA}ci the cow: Normal
-Don the sheep: Normal{PAUSE}{EOM}{EOM}{EOM}{EOM}{PREV_80}:
-
+Pucci the cow: Normal
+Don the sheep: Normal{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 292:
-{VAR_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}{PREV_80}:
-
+{PREV_80}:
+{VAR_00}{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 293:
+{PREV_80}:
 {VAR_00}{PAUSE}{WIPE}
 {PREV_81}:
-{VAR_01}{PAUSE}{EOM}{EOM}{PREV_80}:
-
+{VAR_01}{PAUSE}{EOM}{EOM}
 
 Message 294:
+{PREV_80}:
 {VAR_00}{PAUSE}{WIPE}
 {PREV_81}:
 {VAR_01}{PAUSE}{WIPE}
 {PREV_82}:
-{VAR_02}{PAUSE}{EOM}{EOM}{EOM}{EOM}{PREV_80}:
-
+{VAR_02}{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 295:
+{PREV_80}:
 {VAR_00}{PAUSE}{WIPE}
 {PREV_81}:
 {VAR_01}{PAUSE}{WIPE}
 {PREV_82}:
 {VAR_02}{PAUSE}{WIPE}
 {PREV_83}:
-{VAR_03}{PAUSE}{EOM}{EOM}{PREV_80}:
-
+{VAR_03}{PAUSE}{EOM}{EOM}
 
 Message 296:
+{PREV_80}:
 {VAR_00}{PAUSE}{WIPE}
 {PREV_81}:
 {VAR_01}{PAUSE}{WIPE}
@@ -1573,10 +1573,10 @@ Message 296:
 {PREV_83}:
 {VAR_03}{PAUSE}{WIPE}
 {PREV_84}:
-{VAR_04}{PAUSE}{EOM}{EOM}{EOM}{EOM}{PREV_80}:
-
+{VAR_04}{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 297:
+{PREV_80}:
 {VAR_00}{PAUSE}{WIPE}
 {PREV_81}:
 {VAR_01}{PAUSE}{WIPE}
@@ -1587,10 +1587,10 @@ Message 297:
 {PREV_84}:
 {VAR_04}{PAUSE}{WIPE}
 {PREV_85}:
-{VAR_05}{PAUSE}{EOM}{EOM}{PREV_80}:
-
+{VAR_05}{PAUSE}{EOM}{EOM}
 
 Message 298:
+{PREV_80}:
 {VAR_00}{PAUSE}{WIPE}
 {PREV_81}:
 {VAR_01}{PAUSE}{WIPE}
@@ -1603,10 +1603,10 @@ Message 298:
 {PREV_85}:
 {VAR_05}{PAUSE}{WIPE}
 {PREV_86}:
-{VAR_06}{PAUSE}{EOM}{EOM}{EOM}{EOM}{PREV_80}:
-
+{VAR_06}{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 299:
+{PREV_80}:
 {VAR_00}{PAUSE}{WIPE}
 {PREV_81}:
 {VAR_01}{PAUSE}{WIPE}
@@ -1621,130 +1621,130 @@ Message 299:
 {PREV_86}:
 {VAR_06}{PAUSE}{WIPE}
 {PREV_87}:
-{VAR_07}{PAUSE}{EOM}{EOM}Bl0
+{VAR_07}{PAUSE}{EOM}{EOM}
 
 Message 300:
-{D8}ck Board
+Black Board
 Health conditions of
-your animals.{PAUSE}{EOM}Ceざ
+your animals.{PAUSE}{EOM}
 
 Message 301:
-{E3}ia's Love Meter{EOM}{EOM}Muだ
+Celia's Love Meter{EOM}{EOM}
 
 Message 302:
-{DD}fy's Love Meter{EOM}{EOM}Naだ
+Muffy's Love Meter{EOM}{EOM}
 
 Message 303:
-{E4}i's Love Meter{EOM}{EOM}{EOM}{EOM}"Hぞ
+Nami's Love Meter{EOM}{EOM}{EOM}{EOM}
 
 Message 304:
-{DC} is
-{C12}♥♥♥♥{C17}!"{PAUSE}{EOM}"Hだ
+"He is
+{C12}♥♥♥♥{C17}!"{PAUSE}{EOM}
 
 Message 305:
-{DC} is
-{C12}♥♥♥{C17}...♪"{PAUSE}{EOM}"Hぺ
+"He is
+{C12}♥♥♥{C17}...♪"{PAUSE}{EOM}
 
 Message 306:
-{DC} is
-{C12}♥♥{C17}...♪"{PAUSE}{EOM}{EOM}{EOM}"Hぺ
+"He is
+{C12}♥♥{C17}...♪"{PAUSE}{EOM}{EOM}{EOM}
 
 Message 307:
-{DC} is
-{C12}♥{C17}...♪"{PAUSE}{EOM}"Hざ
+"He is
+{C12}♥{C17}...♪"{PAUSE}{EOM}
 
 Message 308:
-{DC} is
-{C13}♥{C17}..."{PAUSE}{EOM}{EOM}{EOM}Seざ
+"He is
+{C13}♥{C17}..."{PAUSE}{EOM}{EOM}{EOM}
 
 Message 309:
-{E3}l Items? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}{VAN} i
+Sell Items? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
 
 Message 310:
-s here right
+{VAN} is here right
 now. Better do it
-some other time.{PAUSE}{EOM}Noo
+some other time.{PAUSE}{EOM}
 
 Message 311:
-{EB}hing to sell.{PAUSE}{EOM}Clで
+Nothing to sell.{PAUSE}{EOM}
 
 Message 312:
-{E6}se the stand? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}Thだ
+Close the stand? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
 
 Message 313:
-{DC} kitchen is kept
+The kitchen is kept
 clean. There's a
 note...{PAUSE}{WIPE}
 "2 Kinds of Fruit
 and Milk will make
-a sweet dessert."{PAUSE}{EOM}It 
+a sweet dessert."{PAUSE}{EOM}
 
 Message 314:
-looks real, but
+It looks real, but
 it's actually a fake.
 There's a note...{PAUSE}{WIPE}
 "Grill a Fish with
-Butter..."{PAUSE}{EOM}{EOM}{EOM}{EOM}Smシ
+Butter..."{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 315:
-{DC}lls like
-perfume...{PAUSE}{EOM}An 
+Smells like
+perfume...{PAUSE}{EOM}
 
 Message 316:
-exotic looking
+An exotic looking
 table...
 There's a note...{PAUSE}{WIPE}
 "A Turnip, a Bashota
 and a Fish make a
-good soup."{PAUSE}{EOM}{EOM}{EOM}{EOM}ThI
+good soup."{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 317:
-{DC} boy between the
+The boy between the
 couple is not
-Rock...{PAUSE}{EOM}{EOM}{EOM}{EOM}A n
+Rock...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 318:
-ice and big
-sink.{PAUSE}{EOM}{EOM}{EOM}Thぷ
+A nice and big
+sink.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 319:
-{DC}ir kitchen
+Their kitchen
 utensils are used
-heavily.{PAUSE}{EOM}{EOM}{EOM}{EOM}A b
+heavily.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 320:
-ig refrigerator.
+A big refrigerator.
 There's a note...{PAUSE}{WIPE}
 "Easy-to-make Soup...
 {C13}Sweet Potato Soup{C17}
 needs a Sweet Potato.{PAUSE}
 {C13}Tomato Soup{C17}
 needs a Tomato and a
-Carrot."{PAUSE}{EOM}{EOM}{EOM}{EOM}It 
+Carrot."{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 321:
-smells very good.
+It smells very good.
 It must be their
-secret spice.{PAUSE}{EOM}{EOM}Diそ
+secret spice.{PAUSE}{EOM}{EOM}
 
 Message 322:
-{E5}nerware.
+Dinnerware.
 Is this {TIM} and
 {RUBY}'s collection?{PAUSE}{WIPE}
 There's a note...{PAUSE}
 "Easy-to-make Salad:
 {C13}Light Pickles{C17}
-needs Turnips."{PAUSE}{EOM}Bo0
+needs Turnips."{PAUSE}{EOM}
 
 Message 323:
-{EB}tles of wine all
+Bottles of wine all
 made in the same
 year. It may be when{PAUSE}
 {TIM} and {RUBY}
-got married?{PAUSE}{EOM}{EOM}{EOM}Thと
+got married?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 324:
-{DC} barrels smell
+The barrels smell
 like wine.
 There's a note...{PAUSE}{WIPE}
 "Easy-to-make Salad:
@@ -1752,742 +1752,742 @@ There's a note...{PAUSE}{WIPE}
 a Tomato and a Melon.{PAUSE}
 {C13}Tomacarro Salad{C17} needs
 a Tomato and a
-Carrot."{PAUSE}{EOM}Thし
+Carrot."{PAUSE}{EOM}
 
 Message 325:
-{DC}re are fresh crops
+There are fresh crops
 in the wooden box:
-"Grown by {VESTA}"{PAUSE}{EOM}{EOM}{EOM}Itせ
+"Grown by {VESTA}"{PAUSE}{EOM}{EOM}{EOM}
 
 Message 326:
-{F2}s locked.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thへ
+It's locked.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 327:
-{E0}s radio seems
+This radio seems
 pretty old... Does
-it still work...?{PAUSE}{EOM}A b
+it still work...?{PAUSE}{EOM}
 
 Message 328:
-ig bag.
-Is this {NAMI}'s?{PAUSE}{EOM}{EOM}An 
+A big bag.
+Is this {NAMI}'s?{PAUSE}{EOM}{EOM}
 
 Message 329:
-interesting
+An interesting
 decoration... Is it
-an instrument?{PAUSE}{EOM}{EOM}{EOM}A p
+an instrument?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 330:
-iece of fabric
-is under the door...{PAUSE}{EOM}{EOM}A w
+A piece of fabric
+is under the door...{PAUSE}{EOM}{EOM}
 
 Message 331:
-ooden decoration.
+A wooden decoration.
 It smells like
-medicine.{PAUSE}{EOM}{EOM}{EOM}"Sざ
+medicine.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 332:
-{E7}rites and Fire"
-by Jeff{PAUSE}{EOM}{EOM}{EOM}Is 
+"Sprites and Fire"
+by Jeff{PAUSE}{EOM}{EOM}{EOM}
 
 Message 333:
-the left one a
+Is the left one a
 male and the right
 one a female...?{PAUSE}{WIPE}
 "You can make an
 appetizer only with
-a Fish," it says...{PAUSE}{EOM}{EOM}{EOM}It 
+a Fish," it says...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 334:
-says,
+It says,
 "Welcome to
-Ten-chu-kaku".{PAUSE}{EOM}{NINA} m
+Ten-chu-kaku".{PAUSE}{EOM}
 
 Message 335:
-ust have
+{NINA} must have
 knitted this for
-{GALEN}.{PAUSE}{EOM}{EOM}{EOM}{NINA} i
+{GALEN}.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 336:
-s smiling
+{NINA} is smiling
 in the picture.
 There's a note...{PAUSE}{WIPE}
 "A Tomato, Milk and
 an Egg make a good
-dessert."{PAUSE}{EOM}Thむ
+dessert."{PAUSE}{EOM}
 
 Message 337:
-{E0}s plant is well
+This plant is well
 taken care of like
-{HARDY}'s.{PAUSE}{EOM}{EOM}{EOM}Itれ
+{HARDY}'s.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 338:
-{F2}s an old
+It's an old
 dresser. It must
-be expensive...{PAUSE}{EOM}{EOM}{ROMANA} i
+be expensive...{PAUSE}{EOM}{EOM}
 
 Message 339:
-s smiling
+{ROMANA} is smiling
 in front of a big
-cruise ship.{PAUSE}{EOM}{EOM}A p
+cruise ship.{PAUSE}{EOM}{EOM}
 
 Message 340:
-ainting by
-Gauguin...{PAUSE}{EOM}{EOM}A p
+A painting by
+Gauguin...{PAUSE}{EOM}{EOM}
 
 Message 341:
-icture of a nice
+A picture of a nice
 building, but there's
 something behind it.{PAUSE}
 There's a note...
 "A Potato and a
 Carrot make some{PAUSE}
 delicious and
-nutritious soup."{PAUSE}{EOM}{EOM}{EOM}"A 
+nutritious soup."{PAUSE}{EOM}{EOM}{EOM}
 
 Message 342:
-Good Butler"
-by {SEBASTIAN}{PAUSE}{EOM}{EOM}{EOM}Thぺ
+"A Good Butler"
+by {SEBASTIAN}{PAUSE}{EOM}{EOM}{EOM}
 
 Message 343:
-{DC} kitchen is old,
+The kitchen is old,
 but very well
-maintained.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thざ
+maintained.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 344:
-{DC} food is not
-ready yet.{PAUSE}{EOM}{EOM}{EOM}{EOM}ThV
+The food is not
+ready yet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 345:
-{DC}ir dinnerware
-looks expensive...{PAUSE}{EOM}{EOM}{EOM}{EOM}Hoシ
+Their dinnerware
+looks expensive...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 346:
-{EE} to make
+How to make
 {ITEM_0487}:
 A Fish,{PAUSE}
 a {ITEM_0433},
 a {CROP_0001} or
-a {CROP_0020}.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thシ
+a {CROP_0020}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 347:
-{DC} little girl in
+The little girl in
 the picture must be
-{LUMINA}.{PAUSE}{EOM}An 
+{LUMINA}.{PAUSE}{EOM}
 
 Message 348:
-antique jewelry
-box.{PAUSE}{EOM}{EOM}{EOM}{EOM}A l
+An antique jewelry
+box.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 349:
-adybug is on
-the leaf.{PAUSE}{EOM}{EOM}Thぅ
+A ladybug is on
+the leaf.{PAUSE}{EOM}{EOM}
 
 Message 350:
-{DC} keyboards are
+The keyboards are
 yellowish. This piano
-must be old.{PAUSE}{EOM}{EOM}{EOM}Whと
+must be old.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 351:
-{D8}t a nice painting.
+What a nice painting.
 There's a note...{PAUSE}{WIPE}
 "3 Fruits make a
-dessert."{PAUSE}{EOM}{EOM}{EOM}{EOM}"LV
+dessert."{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 352:
-{E6}nely Street"
-by Teppei{PAUSE}{EOM}{EOM}{EOM}{EOM}Paぞ
+"Lonely Street"
+by Teppei{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 353:
-{E0}ntings by Joe
-and Ravel...{PAUSE}{EOM}Paへ
+Paintings by Joe
+and Ravel...{PAUSE}{EOM}
 
 Message 354:
-{E0}ntings by Michael
-and Wadanicholas...{PAUSE}{EOM}{EOM}{EOM}YaV
+Paintings by Michael
+and Wadanicholas...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 355:
-{E9}n is tied onto
+Yarn is tied onto
 the stem... Did
-{ROMANA} do it...?{PAUSE}{EOM}{EOM}We0
+{ROMANA} do it...?{PAUSE}{EOM}{EOM}
 
 Message 356:
-{E3}l-maintained.
+Well-maintained.
 There's a note...{PAUSE}{WIPE}
 "2 Vegetables and
 Butter make a good
-appetizer."{PAUSE}{EOM}{EOM}A m
+appetizer."{PAUSE}{EOM}{EOM}
 
 Message 357:
-odern kitchen.
+A modern kitchen.
 It must be
-{CHRIS}'s taste.{PAUSE}{EOM}{EOM}{EOM}{EOM}A r
+{CHRIS}'s taste.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 358:
-efrigerator with
+A refrigerator with
 an ice maker.
 There's a note...{PAUSE}{WIPE}
 "Delicious Salad...
 An Egg, a Tomato and
-a Gretoma."{PAUSE}{EOM}{EOM}Thぞ
+a Gretoma."{PAUSE}{EOM}{EOM}
 
 Message 359:
-{DC}ir collections of
+Their collections of
 trophies and
-records...{PAUSE}{EOM}{EOM}{EOM}{EOM}Thざ
+records...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 360:
-{DC} counter is set at
-"26 miles".{PAUSE}{EOM}{EOM}{EOM}Itぽ
+The counter is set at
+"26 miles".{PAUSE}{EOM}{EOM}{EOM}
 
 Message 361:
-{F2}s been used a lot.
+It's been used a lot.
 The seat is worn
-out.{PAUSE}{EOM}{EOM}"D0
+out.{PAUSE}{EOM}{EOM}
 
 Message 362:
-{D8}d"
+"Dad"
 "Mom"
-"{HUGH}"{PAUSE}{EOM}{EOM}{EOM}"5べ
+"{HUGH}"{PAUSE}{EOM}{EOM}{EOM}
 
 Message 363:
-{C8}0kg"{PAUSE}{EOM}A p
+"5.0kg"{PAUSE}{EOM}
 
 Message 364:
-edal is missing.{PAUSE}{EOM}{EOM}{EOM}{EOM}A n
+A pedal is missing.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 365:
-ice kitchen mat.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thキ
+A nice kitchen mat.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 366:
-{DC} luncheon mat is
+The luncheon mat is
 made of linen.
 There's a note...{PAUSE}{WIPE}
 "Butter, Milk and
 an Egg make a
-delicious dessert."{PAUSE}{EOM}{EOM}{EOM}{SAMANTHA} m
+delicious dessert."{PAUSE}{EOM}{EOM}{EOM}
 
 Message 367:
-ight
+{SAMANTHA} might
 get mad if it is
-opened.{PAUSE}{EOM}{EOM}"A 
+opened.{PAUSE}{EOM}{EOM}
 
 Message 368:
-Business Man"
+"A Business Man"
 "Our Economy"{PAUSE}
 Are these {GRANT}'s
-books?{PAUSE}{EOM}{EOM}{EOM}{EOM}Itせ
+books?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 369:
-{F2}s a nice
-closet.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thぺ
+It's a nice
+closet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 370:
-{DC}re's a note
+There's a note
 on the desk...{PAUSE}{WIPE}
 "Strawberries,
 Butter and an Egg
-make something good."{PAUSE}{EOM}{EOM}Maむ
+make something good."{PAUSE}{EOM}{EOM}
 
 Message 371:
-{E5}y novels and
+Many novels and
 comic books.
 There's a note...{PAUSE}{WIPE}
 "Cake with a Carrot,
 Milk and an Egg
-is very good."{PAUSE}{EOM}{EOM}{EOM}A f
+is very good."{PAUSE}{EOM}{EOM}{EOM}
 
 Message 372:
-luffy stuffed
-animal.{PAUSE}{EOM}{EOM}Thじ
+A fluffy stuffed
+animal.{PAUSE}{EOM}{EOM}
 
 Message 373:
-{DC} flowers are
-made of fabric...{PAUSE}{EOM}{EOM}An 
+The flowers are
+made of fabric...{PAUSE}{EOM}{EOM}
 
 Message 374:
-old dresser.{PAUSE}{EOM}{EOM}{EOM}Soウ
+An old dresser.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 375:
-{E4}e vegetables.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thキ
+Some vegetables.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 376:
-{DC} kitchen seems to
-be used quite a bit.{PAUSE}{EOM}A w
+The kitchen seems to
+be used quite a bit.{PAUSE}{EOM}
 
 Message 377:
-ell maintained
-plant.{PAUSE}{EOM}{EOM}A s
+A well maintained
+plant.{PAUSE}{EOM}{EOM}
 
 Message 378:
-imple bed...
+A simple bed...
 Was it used in a
-hospital...?{PAUSE}{EOM}Itと
+hospital...?{PAUSE}{EOM}
 
 Message 379:
-{F2}s a medicine
-cabinet.{PAUSE}{EOM}{EOM}Maぜ
+It's a medicine
+cabinet.{PAUSE}{EOM}{EOM}
 
 Message 380:
-{E5}y books of
+Many books of
 medicine.
 There's a note...{PAUSE}{WIPE}
 "An Egg and Butter
-make an Omelet."{PAUSE}{EOM}{EOM}{EOM}{EOM}Soし
+make an Omelet."{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 381:
-{E4}e medical tools
+Some medical tools
 are in his utensil
-cabinet...{PAUSE}{EOM}{EOM}Beぞ
+cabinet...{PAUSE}{EOM}{EOM}
 
 Message 382:
-{D8}kers and flasks
-are laying about.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thむ
+Beakers and flasks
+are laying about.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 383:
-{DC}re is a picture of
+There is a picture of
 the human organs on
-the desk.{PAUSE}{EOM}{EOM}{EOM}A p
+the desk.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 384:
-lant well-
+A plant well-
 maintained like
-{GALEN}'s.{PAUSE}{EOM}{EOM}{EOM}{EOM}{STRUC_35}:
-
+{GALEN}'s.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 385:
+{STRUC_35}:
 {CROP_0001}
 -2 boxes.{PAUSE}{WIPE}
 {STRUC_33}: 
 {CROP_0021}
 -1 box.{PAUSE}
-It's an order sheet.{PAUSE}{EOM}{EOM}{EOM}{EOM}Tha
+It's an order sheet.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 386:
-{DC} box is going to
-Flower Bud Town.{PAUSE}{EOM}{EOM}Thと
+The box is going to
+Flower Bud Town.{PAUSE}{EOM}{EOM}
 
 Message 387:
-{DC} box will be
+The box will be
 returned to Mineral
-Town.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thリ
+Town.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 388:
-{DC}se crops are ready
-to be shipped.{PAUSE}{EOM}Thと
+These crops are ready
+to be shipped.{PAUSE}{EOM}
 
 Message 389:
-{DC}se are irregular
-crops.{PAUSE}{EOM}{EOM}Itぞ
+These are irregular
+crops.{PAUSE}{EOM}{EOM}
 
 Message 390:
-{F2}s a deep sink.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thだ
+It's a deep sink.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 391:
-{E0}s dresser seems
-to be made by hand.{PAUSE}{EOM}{EOM}Boケ
+This dresser seems
+to be made by hand.{PAUSE}{EOM}{EOM}
 
 Message 392:
-{E6}ks about fruits
+Books about fruits
 and vegetables.
 There's a note...{PAUSE}{WIPE}
 "A Potato, a Carrot
 and Ruby's Spice make
-curry..."{PAUSE}{EOM}A p
+curry..."{PAUSE}{EOM}
 
 Message 393:
-lant with small
-fruits.{PAUSE}{EOM}{EOM}{EOM}Itぞ
+A plant with small
+fruits.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 394:
-{F2}s a pretty nice
-dresser...{PAUSE}{EOM}A p
+It's a pretty nice
+dresser...{PAUSE}{EOM}
 
 Message 395:
-otted plant well
-taken care of.{PAUSE}{EOM}Thぽ
+A potted plant well
+taken care of.{PAUSE}{EOM}
 
 Message 396:
-{DC}se are almost
-done.{PAUSE}{EOM}{EOM}Th-
+These are almost
+done.{PAUSE}{EOM}{EOM}
 
 Message 397:
-{DC}se are new ones
+These are new ones
 they just started
-making.{PAUSE}{EOM}{EOM}Thせ
+making.{PAUSE}{EOM}{EOM}
 
 Message 398:
-{DC}se must be the
+These must be the
 materials used to
-make fireworks.{PAUSE}{EOM}Onシ
+make fireworks.{PAUSE}{EOM}
 
 Message 399:
-{DC} of the legs is
+One of the legs is
 not stable. {CODY}
-must be heavy...{PAUSE}{EOM}{EOM}{EOM}Thぞ
+must be heavy...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 400:
-{DC}re is a note
+There is a note
 on the desk...{PAUSE}{WIPE}
 "Flashing crops and
 a Fish make some
-interesting dish..."{PAUSE}{EOM}{EOM}{EOM}{EOM}Thへ
+interesting dish..."{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 401:
-{DC} tools don't
+The tools don't
 seem to be used
-very often...{PAUSE}{EOM}Th0
+very often...{PAUSE}{EOM}
 
 Message 402:
-{DC}re's water in it.
+There's water in it.
 To cool down the
-heated iron...?{PAUSE}{EOM}{EOM}Thた
+heated iron...?{PAUSE}{EOM}{EOM}
 
 Message 403:
-{E0}s will become
+This will become
 one of {CODY}'s
-masterpieces...{PAUSE}{EOM}{EOM}{EOM}It 
+masterpieces...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 404:
-looks like some
-kind of a machine...{PAUSE}{EOM}{EOM}{EOM}{EOM}Th0
+It looks like some
+kind of a machine...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 405:
-{DC} sofa smells like
-chemicals.{PAUSE}{EOM}Thた
+The sofa smells like
+chemicals.{PAUSE}{EOM}
 
 Message 406:
-{DC}re are many
-thick books.{PAUSE}{EOM}"Cず
+There are many
+thick books.{PAUSE}{EOM}
 
 Message 407:
-{C12}3CHO"
+"CH3CHO"
 "CH3COOCH2CH(CH3)2"
 "C9H20"{PAUSE}{WIPE}
 "Magenge Jam"
-"Phurum Jam"{PAUSE}{EOM}CHみ
+"Phurum Jam"{PAUSE}{EOM}
 
 Message 408:
- 0CHC(O)NHC(CH3)2
+CH20CHC(O)NHC(CH3)2
     CH2C(O)CH3
 ...What is it?{PAUSE}{WIPE}
 ...It says {FLORA}
-at the bottom...?{PAUSE}{EOM}{EOM}{EOM}Thヲ
+at the bottom...?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 409:
-{DC}re is a stain.{PAUSE}{EOM}{EOM}{EOM}{EOM}..ま
+There is a stain.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 410:
-{C8}There's a door.
+...There's a door.
 Is there a secret
-room or something...?{PAUSE}{EOM}{EOM}{EOM}{EOM}It 
+room or something...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 411:
-looks very
-dangerous...{PAUSE}{EOM}{EOM}Itず
+It looks very
+dangerous...{PAUSE}{EOM}{EOM}
 
 Message 412:
-{F2}s a pipe.{PAUSE}{EOM}CuW
+It's a pipe.{PAUSE}{EOM}
 
 Message 413:
-{EB}e miniature
-instruments.{PAUSE}{EOM}{EOM}{EOM}Thへ
+Cute miniature
+instruments.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 414:
-{DC}se drums are
-called Tabla.{PAUSE}{EOM}{GUSTAFA}'へ
+These drums are
+called Tabla.{PAUSE}{EOM}
 
 Message 415:
-{EA} favorite
+{GUSTAFA}'s favorite
 guitar. There's a
 note on the back...{PAUSE}{WIPE}
 "Use 2 Fruits and a
 Tomato to make
-a salad."{PAUSE}{EOM}Wh.
+a salad."{PAUSE}{EOM}
 
 Message 416:
-{E0}ch country is this
-instrument from?{PAUSE}{EOM}{EOM}{EOM}{EOM}{GRIFFIN}'キ
+Which country is this
+instrument from?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 417:
-{EA} old
-business tool...{PAUSE}{EOM}{EOM}Thづ
+{GRIFFIN}'s old
+business tool...{PAUSE}{EOM}{EOM}
 
 Message 418:
-{DC}se are items that
-have been excavated.{PAUSE}{EOM}{EOM}{EOM}ThV
+These are items that
+have been excavated.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 419:
-{DC} details of their
+The details of their
 studies are written
-in it.{PAUSE}{EOM}Trざ
+in it.{PAUSE}{EOM}
 
 Message 420:
-{D8}sh Can
+Trash Can
 Push the {C13}A Button{C17}
 while holding an item{PAUSE}
-to throw it away.{PAUSE}{EOM}{EOM}{EOM}{DOG}'s
+to throw it away.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 421:
- House{PAUSE}{EOM}{EOM}{EOM}DuC
+{DOG}'s House{PAUSE}{EOM}{EOM}{EOM}
 
 Message 422:
-{DA}ks can swim here.{PAUSE}{EOM}{EOM}Usぺ
+Ducks can swim here.{PAUSE}{EOM}{EOM}
 
 Message 423:
-{DC} the {C13}{ITEM_04FE}{C17} in
+Use the {C13}{ITEM_04FE}{C17} in
 front of this to wash
-the animals.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thぞ
+the animals.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 424:
-{DC}re are some coins
-in the fountain...{PAUSE}{EOM}{EOM}{EOM}Th0
+There are some coins
+in the fountain...{PAUSE}{EOM}{EOM}{EOM}This し
 
 Message 425:
-{E0}s is where they
-ignite the fireworks.{PAUSE}{EOM}It 
+{E0}s where they
+ignite the fireworks.{PAUSE}{EOM}
 
 Message 426:
-has some black
-stains.{PAUSE}{EOM}Thで
+It has some black
+stains.{PAUSE}{EOM}
 
 Message 427:
-{DC}se experiment
+These experiment
 tools don't fit in
-his house.{PAUSE}{EOM}{EOM}Whざ
+his house.{PAUSE}{EOM}{EOM}
 
 Message 428:
-{D8}t kind of liquid
-is this...?{PAUSE}{EOM}{EOM}Thた
+What kind of liquid
+is this...?{PAUSE}{EOM}{EOM}
 
 Message 429:
-{DC}se plants are for
-his experiments.{PAUSE}{EOM}{EOM}It 
+These plants are for
+his experiments.{PAUSE}{EOM}{EOM}
 
 Message 430:
-seems to be a
-very deep well.{PAUSE}{EOM}{EOM}Thた
+It seems to be a
+very deep well.{PAUSE}{EOM}{EOM}
 
 Message 431:
-{DC}se barrels are old
+These barrels are old
 and have spider webs
-on them.{PAUSE}{EOM}{EOM}{NINA} i
+on them.{PAUSE}{EOM}{EOM}
 
 Message 432:
-s resting
-peacefully here.{PAUSE}{EOM}Waへ
+{NINA} is resting
+peacefully here.{PAUSE}{EOM}
 
 Message 433:
-{E9}m air is coming
-out of it.{PAUSE}{EOM}{EOM}{EOM}It 
+Warm air is coming
+out of it.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 434:
-must have been
+It must have been
 here for a long
-time.{PAUSE}{EOM}Whぉ
+time.{PAUSE}{EOM}
 
 Message 435:
-{D8}t did they used
+What did they used
 to make with this
-kiln...?{PAUSE}{EOM}It 
+kiln...?{PAUSE}{EOM}
 
 Message 436:
-smells somewhat
+It smells somewhat
 like wine.{PAUSE}{WIPE}
 "A Gretoma and a
-Carrot make sweet..."{PAUSE}{EOM}{EOM}{EOM}{EOM}Yoと
+Carrot make sweet..."{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 437:
-{EC} can open your own
+You can open your own
 stand if you push the
 {C13}A Button{C17} when{PAUSE}
 "Sell Items" is
-displayed.{PAUSE}{EOM}{EOM}{EOM}{EOM}..づ
+displayed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 438:
-{C8}Who's boat is
-this?{PAUSE}{EOM}{EOM}{DARYL} m
+...Who's boat is
+this?{PAUSE}{EOM}{EOM}
 
 Message 439:
-ay be
+{DARYL} may be
 using it for his
-experiments.{PAUSE}{EOM}{EOM}Neる
+experiments.{PAUSE}{EOM}{EOM}
 
 Message 440:
-{EE}ly painted...
-Not really...{PAUSE}{EOM}{EOM}A c
+Newly painted...
+Not really...{PAUSE}{EOM}{EOM}
 
 Message 441:
-ute table.{PAUSE}{EOM}{EOM}{EOM}A c
+A cute table.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 442:
-ute shelf.{PAUSE}{EOM}{EOM}{EOM}Soぽ
+A cute shelf.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 443:
-{E4}ething's in it.{PAUSE}{EOM}Whへ
+Something's in it.{PAUSE}{EOM}
 
 Message 444:
-{D8}t makes them
-glow like this...?{PAUSE}{EOM}{EOM}{EOM}{EOM}A s
+What makes them
+glow like this...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 445:
-imple table.
+A simple table.
 Takakura gave it to
-you.{PAUSE}{EOM}{EOM}A s
+you.{PAUSE}{EOM}{EOM}
 
 Message 446:
-mall cabinet.{PAUSE}{EOM}{CHAR_49} b
+A small cabinet.{PAUSE}{EOM}
 
 Message 447:
-rought
-it from home.{PAUSE}{EOM}A n
+{CHAR_49} brought
+it from home.{PAUSE}{EOM}
 
 Message 448:
-ice and fluffy
-bed.{PAUSE}{EOM}{EOM}{EOM}Thこ
+A nice and fluffy
+bed.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 449:
-{E0}s bed was
-{PETE}'s.{PAUSE}{EOM}{EOM}{EOM}{EOM}A s
+This bed was
+{PETE}'s.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 450:
-mall kitchen.
-You can cook here.{PAUSE}{EOM}{EOM}{EOM}Thと
+A small kitchen.
+You can cook here.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 451:
-{DC} tablecloth is
-{CHAR_49}'s taste...{PAUSE}{EOM}{EOM}{EOM}A c
+The tablecloth is
+{CHAR_49}'s taste...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 452:
-upboard with
+A cupboard with
 dinnerware for 3
-people.{PAUSE}{EOM}A g
+people.{PAUSE}{EOM}
 
 Message 453:
-reat kitchen.
+A great kitchen.
 You can cook anything
-here... Can you...?{PAUSE}{EOM}{EOM}{EOM}{EOM}Thす
+here... Can you...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 454:
-{DC}re are some
-markings...{PAUSE}{EOM}{EOM}{CHAR_49} h
+There are some
+markings...{PAUSE}{EOM}{EOM}
 
 Message 455:
-as more
-clothes than before.{PAUSE}{EOM}{EOM}An 
+{CHAR_49} has more
+clothes than before.{PAUSE}{EOM}{EOM}
 
 Message 456:
-expensive pot you
+An expensive pot you
 bought from Van. A
 piece of paper is{PAUSE}
 in it...
 "I used an Orahge to
-make a dessert."{PAUSE}{EOM}{EOM}{EOM}A d
+make a dessert."{PAUSE}{EOM}{EOM}{EOM}
 
 Message 457:
-ecorative item
-Cody gave me.{PAUSE}{EOM}{EOM}A w
+A decorative item
+Cody gave me.{PAUSE}{EOM}{EOM}
 
 Message 458:
-atering place for
-the animals.{PAUSE}{EOM}{EOM}A s
+A watering place for
+the animals.{PAUSE}{EOM}{EOM}
 
 Message 459:
-hallow watering
-place for the birds.{PAUSE}{EOM}{EOM}{EOM}A r
+A shallow watering
+place for the birds.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 460:
-ecord player from
+A record player from
 {TAKAKURA}. Used to
-listen to music.{PAUSE}{EOM}{EOM}{EOM}{EOM}{STRUC_11}
-P
+listen to music.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 461:
-ut {C13}Milk{C17} in
-it to make {C13}Cheese{C17}.{PAUSE}{EOM}{EOM}{STRUC_10}
-P
+{STRUC_11}
+Put {C13}Milk{C17} in
+it to make {C13}Cheese{C17}.{PAUSE}{EOM}{EOM}
 
 Message 462:
-ut {C13}Milk{C17} in
-it to make {C13}Butter{C17}.{PAUSE}{EOM}{EOM}Thぽ
+{STRUC_10}
+Put {C13}Milk{C17} in
+it to make {C13}Butter{C17}.{PAUSE}{EOM}{EOM}
 
 Message 463:
-{E0}s device provides
+This device provides
 the electricity
-safely.{PAUSE}{EOM}{EOM}{EOM}{EOM}Auざ
+safely.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 464:
-{EB}o-Milker
+Auto-Milker
 Milking is easy
-with this.{PAUSE}{EOM}{EOM}{EOM}{EOM}Miシ
+with this.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 465:
-{E3}k from the Auto-
+Milk from the Auto-
 Milker will be stored
-here cold.{PAUSE}{EOM}{EOM}{EOM}{EOM}Miと
+here cold.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 466:
-{E3}k stored in the
+Milk stored in the
 tank gets canned
-here.{PAUSE}{EOM}{EOM}{EOM}{EOM}Ch0
+here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 467:
-{DC}ck if you can milk
-a cow here.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thぽ
+Check if you can milk
+a cow here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 468:
-{DC} {C13}{ITEM_8000}{C17}
-is blooming.{PAUSE}{EOM}{EOM}{EOM}A {C13}{ITEM_6E20}
+The {C13}{ITEM_8000}{C17}
+is blooming.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 469:
-0{C17}.{PAUSE}{EOM}{C13}{ITEM_8000}{C17}
+A {C13}{ITEM_8000}{C17}.{PAUSE}{EOM}
 
 Message 470:
-...{PAUSE}{EOM}{EOM}{EOM}{EOM}YoD
+{C13}{ITEM_8000}{C17}...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 471:
-{EC} can't get off
-here.{PAUSE}{EOM}Taへ
+You can't get off
+here.{PAUSE}{EOM}
 
 Message 472:
-{E2}akura's Notes
-Configure{EOM}{EOM}AnV
+Takakura's Notes
+Configure{EOM}{EOM}
 
 Message 473:
-{E0}mals
+Animals
 Crops
-Business{EOM}{EOM}Caづ
+Business{EOM}{EOM}
 
 Message 474:
-{EB}tle
+Cattle
 Sheep
-Chickens{EOM}{EOM}{EOM}{EOM}Hoづ
+Chickens{EOM}{EOM}{EOM}{EOM}
 
 Message 475:
-{EE} to Take Care
+How to Take Care
 How to Milk
-Variety{EOM}{EOM}{EOM}Hoと
+Variety{EOM}{EOM}{EOM}
 
 Message 476:
-{EE} to Take Care
-How to Shear{EOM}{EOM}{EOM}{EOM}Hoへ
+How to Take Care
+How to Shear{EOM}{EOM}{EOM}{EOM}
 
 Message 477:
-{EE} to Take Care
+How to Take Care
 Eggs
-Variety{EOM}{EOM}{EOM}Hoへ
+Variety{EOM}{EOM}{EOM}
 
 Message 478:
-{EE} to Plant
+How to Plant
 How to Take Care
-How to Harvest{EOM}Hoや
+How to Harvest{EOM}
 
 Message 479:
-{EE} to Ship
+How to Ship
 How to Order
-How to Sell{EOM}{EOM}{EOM}{EOM}(Fと
+How to Sell{EOM}{EOM}{EOM}{EOM}
 
 Message 480:
-{E6}dder)
+(Fodder)
 The cattle eat
 {C13}{ITEM_0003}{C17}.{PAUSE}
 Place it in the feed
@@ -2554,10 +2554,10 @@ snuggle against their
 forehead too. {PAUSE}
 Don't wake them
 up when they are
-sleeping.{PAUSE}{WIPE}{EOM}{EOM}{EOM}CoV
+sleeping.{PAUSE}{WIPE}{EOM}{EOM}{EOM}
 
 Message 481:
-{EE}s produce milk for
+Cows produce milk for
 40 days after giving
 birth. You cannot{PAUSE}
 milk cows when they
@@ -2568,19 +2568,19 @@ hand or with the
 The quality and the{PAUSE}
 quantity of milk
 depends on the breed
-and condition.{PAUSE}{EOM}Yo0
+and condition.{PAUSE}{EOM}
 
 Message 482:
-{EC} can raise
+You can raise
 Normal Cows,
 Star Cows,{PAUSE}
 Brown Cows and
 Marble Cows.
 Each breed produce{PAUSE}
-unique milk.{PAUSE}{EOM}{EOM}{EOM}(Fパ
+unique milk.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 483:
-{E6}dder)
+(Fodder)
 The sheep eat
 {C13}{ITEM_0003}{C17}.{PAUSE}
 Place it in the feed
@@ -2633,10 +2633,10 @@ snuggle against their
 forehead too. {PAUSE}
 Don't wake them
 up when they are
-sleeping.{PAUSE}{WIPE}{EOM}{EOM}If 
+sleeping.{PAUSE}{WIPE}{EOM}{EOM}
 
 Message 484:
-you have the
+If you have the
 {C13}{ITEM_04FA}{C17},
 you can shear {C13}{ITEM_0019}{C17}{PAUSE}
 from the sheep.
@@ -2644,10 +2644,10 @@ It takes 10 days to
 grow back. The{PAUSE}
 quality of {C13}{ITEM_0019}{C17}
 depends on the
-sheep's condition.{PAUSE}{WIPE}{EOM}{EOM}(Fひ
+sheep's condition.{PAUSE}{WIPE}{EOM}{EOM}
 
 Message 485:
-{DC}ed)
+(Feed)
 The chickens eat the
 {C13}{ITEM_0002}{C17}.{PAUSE}
 Always keep it in the
@@ -2684,24 +2684,24 @@ them alone when they
 get sick. Make sure
 the chickens are{PAUSE}
 happy and healthy
-everyday.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}A h
+everyday.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
 
 Message 486:
-ealthy hen lays
+A healthy hen lays
 an {C13}{ITEM_001C}{C17} everyday.
 If you have a{PAUSE}
 rooster, you might
 get a {C13}{ITEM_001E}{C17}.
 Place it in the{PAUSE}
 {C14}{STRUC_25}{C17} to
-hatch it.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}Yoシ
+hatch it.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
 
 Message 487:
-{EC} can keep hens and
-roosters.{PAUSE}{EOM}{EOM}(Sた
+You can keep hens and
+roosters.{PAUSE}{EOM}{EOM}
 
 Message 488:
-{DC}eds)
+(Seeds)
 There are a variety
 of seeds that you can{PAUSE}
 plant. Be sure to
@@ -2723,10 +2723,10 @@ They die when the{PAUSE}
 seasons are over.{PAUSE}{WIPE}
 (Caution)
 Crops don't grow
-near trees.{PAUSE}{WIPE}{EOM}Wa0
+near trees.{PAUSE}{WIPE}{EOM}
 
 Message 489:
-{EB}er the field once
+Water the field once
 you plant the seeds.
 Be sure to water the{PAUSE}
 crops when the soil
@@ -2736,10 +2736,10 @@ the crops have
 matured. Trees don't
 need to be watered.{PAUSE}
 Overusing fertilizer
-is a waste.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}Sou
+is a waste.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
 
 Message 490:
-{E6}n after the
+Soon after the
 flowers bloom, the
 fruits and vegetables{PAUSE}
 start growing. Root
@@ -2751,18 +2751,18 @@ from trees during{PAUSE}
 their season. Shake
 the trees to make the
 fruit fall and then{PAUSE}
-pick it up.{PAUSE}{WIPE}{EOM}{EOM}Riシ
+pick it up.{PAUSE}{WIPE}{EOM}{EOM}
 
 Message 491:
-{DE}ht now you can
+Right now you can
 only ship {C13}Milk{C17} and
 {C13}Eggs{C17}. Put what{PAUSE}
 you want to sell in
 the {C14}{STRUC_24}{C17}'s
-{C14}{STRUC_5}{C17}.{PAUSE}{EOM}{EOM}{EOM}{EOM}Whろ
+{C14}{STRUC_5}{C17}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 492:
-{DC}n you want to
+When you want to
 order something from
 town, use the{PAUSE}
 ledger in the
@@ -2770,10 +2770,10 @@ ledger in the
 items like buildings{PAUSE}
 take a while to get,
 so keep that in mind
-when ordering.{PAUSE}{EOM}{EOM}If 
+when ordering.{PAUSE}{EOM}{EOM}
 
 Message 493:
-you want to sell
+If you want to sell
 other items, carry
 them in your Rucksack{PAUSE}
 and open a stand. If
@@ -2782,46 +2782,46 @@ to the {C14}{STRUC_35}{C17}{PAUSE}
 when people are{PAUSE}
 around, they'll come
 to buy some items
-from you.{PAUSE}{EOM}{EOM}{EOM}{EOM}Taへ
+from you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 494:
-{E2}e out the
-{ITEM_8000}?{CHOICE Y/N DEF0}{EOM}{EOM}Thぺ
+Take out the
+{ITEM_8000}?{CHOICE Y/N DEF0}{EOM}{EOM}
 
 Message 495:
-{D8}t doesn't fit.{PAUSE}{EOM}{EOM}{EOM}Thだ
+That doesn't fit.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 496:
-{DC} Rucksack is full.{PAUSE}{EOM}{EOM}{EOM}{EOM}Hoほ
+The Rucksack is full.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 497:
-{EE} many do you
-want to take out?{PAUSE}{EOM}{EOM}{EOM}{EOM}Puぽ
+How many do you
+want to take out?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 498:
-{EB} the
+Put the
 {ITEM_8000}
-in the Rucksack.{PAUSE}{EOM}{EOM}{EOM}Baば
+in the Rucksack.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 499:
-{E9}n Button
+Barn Button
 Moves all animals
-into the barn.{PAUSE}{EOM}{EOM}Mol
+into the barn.{PAUSE}{EOM}{EOM}
 
 Message 500:
-{ED}e all animals into
-the barn? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}Paぽ
+Move all animals into
+the barn? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
 
 Message 501:
-{EA}ture Button
+Pasture Button
 Moves all animals
-outside.{PAUSE}{EOM}{EOM}MoM
+outside.{PAUSE}{EOM}{EOM}
 
 Message 502:
-{ED}e all animals
-outside?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}A d
+Move all animals
+outside?{CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
 
 Message 503:
-oll I got from
+A doll I got from
 Van.{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
 

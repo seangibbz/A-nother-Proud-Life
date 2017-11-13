@@ -205,10 +205,10 @@ I think you'll make
 a great wife for{PAUSE}
 her. The second is
 that she is also
-interested in you! {PAUSE}{EOM}{EOM}{EOM}{EOM}It'
+interested in you! {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 39:
-d be nice if she
+It'd be nice if she
 stayed with me, but
 her happiness is the{PAUSE}
 most important thing.
@@ -218,56 +218,56 @@ What do you say?
 Would you marry her?
 {CHOICE2 DEF0}
 Propose.
-Stay single.{EOM}{EOM}{FACE_1B0003}T
+Stay single.{EOM}{EOM}
 
 Message 40:
-hat's the spirit!{PAUSE}{EOM}Com
+{FACE_1B0003}That's the spirit!{PAUSE}{EOM}
 
 Message 41:
-e here, {MUFFY}. {PAUSE}{EOM}{EOM}{PETE}!
-ぺ
+Come here, {MUFFY}. {PAUSE}{EOM}{EOM}
 
 Message 42:
-{0E}o it now! {PAUSE}{EOM}{EOM}{EOM}I t0
+{PETE}!
+Do it now! {PAUSE}{EOM}{EOM}{EOM}
 
 Message 43:
-{DF}ought you had a
+I thought you had a
 blue feather on you.{PAUSE}{WIPE}
 Isn't hat right,
-{MUFFY}? {PAUSE}{EOM}{EOM}{EOM}{EOM}Thi
+{MUFFY}? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 44:
-s is a very
+This is a very
 awkward moment... {PAUSE}{WIPE}
 Go ahead {MUFFY},
-take it from him. {PAUSE}{EOM}{EOM}{EOM}It'
+take it from him. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 45:
-s {PETE}'s{C17}
-feelings. {PAUSE}{EOM}{EOM}{EOM}{FACE_1B0003}H
+It's {PETE}'s{C17}
+feelings. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 46:
-a ha ha... {PAUSE}
+{FACE_1B0003}Ha ha ha... {PAUSE}
 {FACE_1B0000}Let's go home,
-{MUFFY}. {PAUSE}{EOM}{EOM}{EOM}{EOM}You
+{MUFFY}. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 47:
-'ll live together
+You'll live together
 when you marry. {PAUSE}{WIPE}
 You two are still
-only engaged. {PAUSE}{EOM}{EOM}I'm
+only engaged. {PAUSE}{EOM}{EOM}
 
 Message 48:
- looking forward
-to that day. {PAUSE}{EOM}{EOM}{EOM}Com
+I'm looking forward
+to that day. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 49:
-e for her on the
+Come for her on the
 day of the wedding.
-Got it? {PAUSE}{EOM}{EOM}{FACE_1B0009}S
+Got it? {PAUSE}{EOM}{EOM}
 
 Message 50:
-ingle...?
+{FACE_1B0009}Single...?
 ...... {PAUSE}
 I didn't realize you
 were so traumatized
@@ -275,29 +275,29 @@ by {MUFFY}. {PAUSE}{WIPE}
 So now you'll never
 get married ever... {PAUSE}{WIPE}
 {FACE_1B0000}Poor boy...
-Leave her to me. {PAUSE}{EOM}{EOM}{EOM}You
+Leave her to me. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 51:
-'ve done a very
+You've done a very
 terrible thing. {PAUSE}{WIPE}
 I should have said
-something earlier. {PAUSE}{EOM}{EOM}{FACE_1B000A}S
+something earlier. {PAUSE}{EOM}{EOM}
 
 Message 52:
-till, the single
-life isn't all bad. {PAUSE}{EOM}{EOM}You
+{FACE_1B000A}Still, the single
+life isn't all bad. {PAUSE}{EOM}{EOM}
 
 Message 53:
- know my daughter
+You know my daughter
 {MUFFY}, right? {PAUSE}{WIPE}
 She's quite cute
 and... {PAUSE}{WIPE}
 Well, she isn't
 really my daughter,
-but all the same...{PAUSE}{EOM}{EOM}{EOM}{EOM}She
+but all the same...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 54:
- says she likes
+She says she likes
 you. {PAUSE}{WIPE}
 She's too shy to
 come see you by
@@ -305,10 +305,10 @@ herself, so she {PAUSE}
 asked me to come
 together. {PAUSE}{WIPE}
 It's a touching
-story. {PAUSE}{EOM}{EOM}In ケ
+story. {PAUSE}{EOM}{EOM}
 
 Message 55:
-{D8}ny case, it seems
+In any case, it seems
 she'd like to marry
 you. {PAUSE}{WIPE}
 You're a lucky
@@ -317,17 +317,17 @@ I wish I was in
 your position...
 {CHOICE2 DEF0}
 Get married.
-Stay single.{EOM}{EOM}{EOM}{EOM}You
+Stay single.{EOM}{EOM}{EOM}{EOM}
 
 Message 56:
- look fine with
+You look fine with
 it, {PETE}! {PAUSE}{WIPE}
 {FACE_1B0003}I told {MUFFY}
 you'll like her
-too.{PAUSE}{EOM}{EOM}{FACE_1B000A}S
+too.{PAUSE}{EOM}{EOM}
 
 Message 57:
-ingle...?
+{FACE_1B000A}Single...?
 You could marry
 {MUFFY} and yet{PAUSE}
 still you choose to
@@ -335,471 +335,470 @@ be single. {PAUSE}{WIPE}
 That's an action
 worthy of praise. {PAUSE}{WIPE}
 Hey, it's your
-choice. {PAUSE}{EOM}{EOM}{EOM}{FACE_1B000A}H
+choice. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 58:
-e's a good person
+{FACE_1B000A}He's a good person
 and a hard worker,
-but way to serious.{PAUSE}{EOM}{EOM}{EOM}{EOM}Hey
+but way to serious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 59:
-.
+Hey.
 What do you mean
-by that? {PAUSE}{EOM}{EOM}{EOM}{EOM}Wel
+by that? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 60:
-come... {PAUSE}{EOM}{EOM}Are
+Welcome... {PAUSE}{EOM}{EOM}
 
 Message 61:
-n't you going? {PAUSE}{EOM}{EOM}I sだ
+Aren't you going? {PAUSE}{EOM}{EOM}
 
 Message 62:
-{DC}e... {PAUSE}{EOM}{EOM}{EOM}I wシ
+I see... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 63:
-{E6}nder if there's
+I wonder if there's
 anyone who likes
-archeology... {PAUSE}{EOM}{CARTER}, {CHAR_36}
+archeology... {PAUSE}{EOM}
 
 Message 64:
-
-
+{CARTER}, {TATSUYA}
 is still a child. {PAUSE}{WIPE}
 He can't help
 you yet. {PAUSE}
-Right, {PETE}? {PAUSE}{EOM}{EOM}{EOM}I'v
+Right, {PETE}? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 65:
-e held you
-back for too long...{PAUSE}{EOM}I'm
+I've held you
+back for too long...{PAUSE}{EOM}
 
 Message 66:
- feeling pretty
+I'm feeling pretty
 good so I asked him
-to sing together. {PAUSE}{EOM}{EOM}{EOM}{EOM}Com
+to sing together. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 67:
-e back anytime.
+Come back anytime.
 Let's sing together
-again. {PAUSE}{EOM}{EOM}Hey
+again. {PAUSE}{EOM}{EOM}
 
 Message 68:
-, it's not
+Hey, it's not
 like it's a huge
-performance. {PAUSE}{EOM}{EOM}{EOM}Hey
+performance. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 69:
-, {S_3201F4}I was just
+Hey, {S_3201F4}I was just
 about to play a song.{PAUSE}{WIPE}
 Sit down and listen
-if you have time. {PAUSE}{EOM}{EOM}{EOM}But
+if you have time. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 70:
- first, pay
-your bill. {PAUSE}{EOM}{EOM}{EOM}{EOM}...
+But first, pay
+your bill. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 71:
-... {PAUSE}{EOM}{EOM}Alr
+...... {PAUSE}{EOM}{EOM}
 
 Message 72:
-ight.{S_3201F4}
+Alright.{S_3201F4}
 Let's get it
-started... {PAUSE}{EOM}{EOM}{EOM}{FACE_1B0003}T
+started... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 73:
-hank you... {PAUSE}{EOM}{EOM}{EOM}Yea
+{FACE_1B0003}Thank you... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 74:
-h, hold on... {PAUSE}{EOM}{EOM}{EOM}{EOM}I'm
+Yeah, hold on... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 75:
- about to go
-to bed... {PAUSE}{EOM}Tim
+I'm about to go
+to bed... {PAUSE}{EOM}
 
 Message 76:
-e for bed.
+Time for bed.
 Would you please
-go home now? {PAUSE}{EOM}{EOM}{EOM}{EOM}Goo
+go home now? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 77:
-d night... {PAUSE}{EOM}I'm
+Good night... {PAUSE}{EOM}
 
 Message 78:
- on my way
-out the door... {PAUSE}{EOM}{EOM}I rへ
+I'm on my way
+out the door... {PAUSE}{EOM}{EOM}
 
 Message 79:
-{DC}ally have to
-be going so... {PAUSE}{EOM}{EOM}See
+I really have to
+be going so... {PAUSE}{EOM}{EOM}
 
 Message 80:
- you later... {PAUSE}{EOM}{EOM}{EOM}{EOM}Don
+See you later... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 81:
-'t open your
+Don't open your
 shop if you don't
-have stuff to sell. {PAUSE}{EOM}{EOM}Oh V
+have stuff to sell. {PAUSE}{EOM}{EOM}
 
 Message 82:
-{F0}ou're totally
+Oh you're totally
 sold out? {PAUSE}{WIPE}
 Can't really be
-helped... {PAUSE}{EOM}I lO
+helped... {PAUSE}{EOM}
 
 Message 83:
-{E0}ke that
+I like that
 {VAR_00},
 but how much is it?
 {CHOICE3 DEF2}
 Yours for {GOLD_0105}G.
 It's {GOLD_0205}G.
-Not for sale.{EOM}Tha
+Not for sale.{EOM}
 
 Message 84:
-t's cheap.
-I'll take it. {PAUSE}{EOM}{EOM}{EOM}{EOM}I'l
+That's cheap.
+I'll take it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 85:
-l guess I'll
-take it then... {PAUSE}{EOM}Oh,
+I'll guess I'll
+take it then... {PAUSE}{EOM}
 
 Message 86:
- well that's
-too bad. {PAUSE}{EOM}{EOM}I'd
+Oh, well that's
+too bad. {PAUSE}{EOM}{EOM}
 
 Message 87:
- like that
+I'd like that
 {VAR_00}...
 How much?
 {CHOICE3 DEF2}
 Yours for {GOLD_0105}G.
 It's {GOLD_0205}G.
-Not for sale.{EOM}{EOM}I'm
+Not for sale.{EOM}{EOM}
 
 Message 88:
- done for today. {PAUSE}{EOM}{EOM}{EOM}I'm
+I'm done for today. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 89:
- the owner of
+I'm the owner of
 the "Blue Bar". {PAUSE}{WIPE}
 Come by anytime
 you want to relax
-after work. {PAUSE}{EOM}{EOM}{FACE_1B0002}I
+after work. {PAUSE}{EOM}{EOM}
 
 Message 90:
-'m tired...{PAUSE}{EOM}{EOM}{EOM}{EOM}How
+{FACE_1B0002}I'm tired...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 91:
-'s it going,man?{PAUSE}{EOM}{EOM}{EOM}Wha
+How's it going,man?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 92:
-t are you up to
+What are you up to
 in the middle
-of the night? {PAUSE}{EOM}{EOM}{EOM}{EOM}Mak
+of the night? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 93:
-e yourself at
-home.. {PAUSE}{EOM}{EOM}{EOM}{FACE_1B000A}T
+Make yourself at
+home.. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 94:
-hat's my favorite.
-Can I have it? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{FACE_1B0003}O
+{FACE_1B000A}That's my favorite.
+Can I have it? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}
 
 Message 95:
-h, really?
-Thanks a lot.{PAUSE}{EOM}{S_340182}Oイ
+{FACE_1B0003}Oh, really?
+Thanks a lot.{PAUSE}{EOM}
 
 Message 96:
-{DF}...I see... {PAUSE}{EOM}{EOM}{FACE_1B000A}Y
+{S_340182}Oh...I see... {PAUSE}{EOM}{EOM}
 
 Message 97:
-ou've got something
+{FACE_1B000A}You've got something
 really good there.
-Can I have that? {CHOICE Y/N DEF0}{EOM}{EOM}{FACE_1B0005}B
+Can I have that? {CHOICE Y/N DEF0}{EOM}{EOM}
 
 Message 98:
-largh...
-Please take it away.{PAUSE}{EOM}{EOM}{EOM}Wha
+{FACE_1B0005}Blargh...
+Please take it away.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 99:
-t happened to
-that...? {PAUSE}{EOM}{EOM}{EOM}...
+What happened to
+that...? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 100:
-... {PAUSE}{EOM}{EOM}{FACE_1B0003}H
+...... {PAUSE}{EOM}{EOM}
 
 Message 101:
-e's so cute and
+{FACE_1B0003}He's so cute and
 looks just like
-Celia... {PAUSE}{EOM}{EOM}{EOM}He'
+Celia... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 102:
-s got such a
-nice face... {PAUSE}{EOM}{EOM}{EOM}{FACE_1B0003}H
+He's got such a
+nice face... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 103:
-e's so cute and
+{FACE_1B0003}He's so cute and
 looks just like
-Muffy. {PAUSE}{EOM}{EOM}{EOM}{FACE_1B0003}H
+Muffy. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 104:
-e's so cute and
+{FACE_1B0003}He's so cute and
 looks just like
-Nami... {PAUSE}{EOM}Hey
+Nami... {PAUSE}{EOM}
 
 Message 105:
-! Hey!
+Hey! Hey!
 Just where are you
-going with that dog? {PAUSE}{EOM}Tha
+going with that dog? {PAUSE}{EOM}
 
 Message 106:
-t's a cute dog...{PAUSE}{EOM}{EOM}Cat
+That's a cute dog...{PAUSE}{EOM}{EOM}
 
 Message 107:
-s like to do
+Cats like to do
 their own thing. {PAUSE}{WIPE}
 If you hold them
 too much they might
-get upset at you. {PAUSE}{EOM}{EOM}{EOM}Wha
+get upset at you. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 108:
-t a cute cat. {PAUSE}{EOM}Are
+What a cute cat. {PAUSE}{EOM}
 
 Message 109:
- you raising
+Are you raising
 chickens on your
-farm? {PAUSE}{EOM}{EOM}{EOM}{EOM}Tha
+farm? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 110:
-t's a cute little
-chick. {PAUSE}{EOM}{EOM}{EOM}{EOM}How
+That's a cute little
+chick. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 111:
- cute. {PAUSE}{EOM}If シ
+How cute. {PAUSE}{EOM}
 
 Message 112:
-{EB}ake care in
+If take care in
 raising your
 chickens, someday {PAUSE}
 they may lay some
 golden eggs. {PAUSE}{WIPE}
 If you get a gold
-one, bring it by. {PAUSE}{EOM}Are
+one, bring it by. {PAUSE}{EOM}
 
 Message 113:
- you raising
-ducks on your farm? {PAUSE}{EOM}{EOM}Wha
+Are you raising
+ducks on your farm? {PAUSE}{EOM}{EOM}
 
 Message 114:
-t a cute duck. {PAUSE}{EOM}{EOM}{EOM}If ぽ
+What a cute duck. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 115:
-{F0}ou look closely
-ducks are cute. {PAUSE}{EOM}{EOM}Wha
+If you look closely
+ducks are cute. {PAUSE}{EOM}{EOM}
 
 Message 116:
-t is that...? {PAUSE}{EOM}{EOM}{EOM}{EOM}Wha
+What is that...? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 117:
-t kind of
-seed is that? {PAUSE}{EOM}{EOM}{EOM}You
+What kind of
+seed is that? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 118:
- brought those
+You brought those
 crops from the farm? {PAUSE}{WIPE}
 Wow, you're really
-working hard. {PAUSE}{EOM}{EOM}{EOM}{EOM}I tV
+working hard. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 119:
-{DF}ink there must
+I think there must
 be many types of
-crops out there. {PAUSE}{EOM}{EOM}{EOM}{EOM}You
+crops out there. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 120:
- brought that
+You brought that
 milk from your
 farm? {PAUSE}{WIPE}
 It's must be
-very fresh. {PAUSE}{EOM}{EOM}I'v
+very fresh. {PAUSE}{EOM}{EOM}
 
 Message 121:
-e got {C13}Moomoo Milk{C17}
+I've got {C13}Moomoo Milk{C17}
 on my menu, and the
 idea of it was...{PAUSE}{WIPE}
-{FACE_1B0009}Not interested...?{PAUSE}{EOM}{EOM}{EOM}We ヲ
+{FACE_1B0009}Not interested...?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 122:
-{DB}on't serve milk
-at my place. {PAUSE}{EOM}{EOM}{EOM}{EOM}You
+We don't serve milk
+at my place. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 123:
- made that cheese
+You made that cheese
 on your farm? {PAUSE}{WIPE}
 Wow, you're really
-working hard. {PAUSE}{EOM}{EOM}{EOM}{EOM}It し
+working hard. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 124:
-{E3}ooks good... {PAUSE}{EOM}{EOM}{EOM}{EOM}You
+It looks good... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 125:
- made that butter
+You made that butter
 on your farm? {PAUSE}{WIPE}
 Wow, you're really
-working hard. {PAUSE}{EOM}{EOM}{EOM}{EOM}If し
+working hard. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 126:
-{F0}ou just go
+If you just go
 wandering around
 with an egg,{PAUSE}
 you'll drop and
-break it. {PAUSE}{EOM}{EOM}Be と
+break it. {PAUSE}{EOM}{EOM}
 
 Message 127:
-{DA}areful not to
-drop it. {PAUSE}{EOM}{EOM}{EOM}You
+Be careful not to
+drop it. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 128:
- caught that
+You caught that
 fish, man? {PAUSE}{WIPE}
 Not bad.
-Not bad at all. {PAUSE}{EOM}{EOM}{EOM}Tha
+Not bad at all. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 129:
-t's a beautiful
-looking fish. {PAUSE}{EOM}{EOM}Wil
+That's a beautiful
+looking fish. {PAUSE}{EOM}{EOM}
 
 Message 130:
-d plants that
+Wild plants that
 grow around here? {PAUSE}{WIPE}
 They're probably
 good if you use them
-in cooking. {PAUSE}{EOM}Unu
+in cooking. {PAUSE}{EOM}
 
 Message 131:
-sual plants grow
+Unusual plants grow
 in this valley. {PAUSE}{WIPE}
 That's just one
-of them. {PAUSE}{EOM}Hey
+of them. {PAUSE}{EOM}
 
 Message 132:
-, did you make
+Hey, did you make
 that dish?
-It looks good. {PAUSE}{EOM}{EOM}{EOM}{EOM}Can
+It looks good. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 133:
- I have it? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}Tha
+Can I have it? {CHOICE Y/N DEF0}{EOM}{EOM}{EOM}{EOM}
 
 Message 134:
-t's delicious
-looking food. {PAUSE}{EOM}Wha
+That's delicious
+looking food. {PAUSE}{EOM}
 
 Message 135:
-t are you going
-to do with that? {PAUSE}{EOM}{EOM}{EOM}You
+What are you going
+to do with that? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 136:
- didn't have
-to show it to me... {PAUSE}{EOM}{EOM}{EOM}Tha
+You didn't have
+to show it to me... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 137:
-t's a very rare
+That's a very rare
 looking stone. {PAUSE}{WIPE}
 You can probably
 sell it for a lot
-of money... {PAUSE}{EOM}{EOM}Tha
+of money... {PAUSE}{EOM}{EOM}
 
 Message 138:
-t's a pretty
-stone... {PAUSE}{EOM}Wha
+That's a pretty
+stone... {PAUSE}{EOM}
 
 Message 139:
-t the...?
+What the...?
 Where did you get
-that? {PAUSE}{EOM}{EOM}{EOM}{EOM}Tha
+that? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 140:
-t's creepy. {PAUSE}{EOM}{EOM}{EOM}Tha
+That's creepy. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 141:
-t's a flower
-from around here. {PAUSE}{EOM}{S_340181}Tぽ
+That's a flower
+from around here. {PAUSE}{EOM}
 
 Message 142:
-{DF}at's a pretty
-flower... {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_1B000A}I
+{S_340181}That's a pretty
+flower... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 143:
- believe that's
+{FACE_1B000A}I believe that's
 a record...{PAUSE}{WIPE}
 You don't see too
 many of them around
-here. {PAUSE}{EOM}{FACE_1B000A}I
+here. {PAUSE}{EOM}
 
 Message 144:
-f you get something
+{FACE_1B000A}If you get something
 else like it, show
-it to me again. {PAUSE}{EOM}{EOM}{EOM}Wha
+it to me again. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 145:
-t kind of
+What kind of
 ingredient is that?
-{S_340181}It smells nice...{PAUSE}{EOM}{EOM}{EOM}{EOM}If シ
+{S_340181}It smells nice...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 146:
-{F0}ou use that,
+If you use that,
 could I try some
-of the food? {PAUSE}{EOM}{EOM}{EOM}{EOM}{S_3400DA}{S_3205DC}
+of the food? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 147:
-{S_340181}It has a nice sound
-to it... {PAUSE}{EOM}{EOM}{EOM}{S_3400DA}{S_3205DC}
+{S_3400DA}{S_3205DC}{S_340181}It has a nice sound
+to it... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 148:
-That's a mysterious
-drum... {PAUSE}{EOM}Tha
+{S_3400DA}{S_3205DC}That's a mysterious
+drum... {PAUSE}{EOM}
 
 Message 149:
-t's a nice
+That's a nice
 necklace... {PAUSE}{WIPE}
 Although it is a
-little strange... {PAUSE}{EOM}{EOM}{EOM}{EOM}Tha
+little strange... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 150:
-t's a pretty
-necklace. {PAUSE}{EOM}{EOM}{EOM}Tha
+That's a pretty
+necklace. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 151:
-t's not music
+That's not music
 for a guitar is it?{PAUSE}{WIPE}
 It looks very
-difficult to play. {PAUSE}{EOM}{EOM}{EOM}{FACE_1B0009}{S_340144}
+difficult to play. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 152:
-呼{0F}ven I'm unable
-to play it...{PAUSE}{EOM}{EOM}{EOM}Is ぽ
+{FACE_1B0009}{S_340181}Even I'm unable
+to play it...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 153:
-{EB}hat a firework?
+Is that a firework?
 Kassey must have
 made it right? {PAUSE}{WIPE}
 Or may be it was
-Patrick...? {PAUSE}{EOM}{EOM}Tha
+Patrick...? {PAUSE}{EOM}{EOM}
 
 Message 154:
-t's a huge
-firework. {PAUSE}{EOM}{EOM}{EOM}Why
+That's a huge
+firework. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 155:
- don't you give
+Why don't you give
 that to someone as
-a present...? {PAUSE}{EOM}Sho
+a present...? {PAUSE}{EOM}
 
 Message 156:
-wing it to me
-means nothing... {PAUSE}{EOM}I wぽ
+Showing it to me
+means nothing... {PAUSE}{EOM}
 
 Message 157:
-{D8}s never really a
+I was never really a
 man who was good
 with people... {PAUSE}{WIPE}
 You want to know
@@ -807,267 +806,267 @@ why I run a bar
 like this? {PAUSE}{WIPE}
 Now and then,
 even I don't really
-know. {PAUSE}{EOM}I pぽ
+know. {PAUSE}{EOM}
 
 Message 158:
-{E3}ay guitar when
+I play guitar when
 I feel like it. {PAUSE}{WIPE}
 If you're lucky,
 you may get to hear
-it. {PAUSE}{EOM}I uV
+it. {PAUSE}{EOM}
 
 Message 159:
-{EA}ed to just drift
+I used to just drift
 around town at night
 with my guitar...{PAUSE}{WIPE}
 My parents never
 liked that so
 I came here... {PAUSE}{WIPE}
 Just going with
-the flow... {PAUSE}{EOM}{EOM}{EOM}{EOM}...
+the flow... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 160:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}...
+... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 161:
-... {PAUSE}{EOM}{EOM}I hシ
+...... {PAUSE}{EOM}{EOM}
 
 Message 162:
-{DC}ard a story
+I heard a story
 that the farmer
 in Mineral Town {PAUSE}{WIPE}
 has a lot of
-wealth. {PAUSE}{EOM}See
+wealth. {PAUSE}{EOM}
 
 Message 163:
-ms the farmer
+Seems the farmer
 in Mineral Town
 is very popular. {PAUSE}{WIPE}
 I wonder if that's
-true or not? {PAUSE}{EOM}{EOM}{EOM}{EOM}It'
+true or not? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 164:
-s amazing...
+It's amazing...
 To be able to grow
 every kind of crop. {PAUSE}{WIPE}
 I'm talking about
 the farmer in
-Mineral Town. {PAUSE}{EOM}It ぷ
+Mineral Town. {PAUSE}{EOM}
 
 Message 165:
-{EA}eems the farmer
+It seems the farmer
 over in Mineral Town
-is kind to animals. {PAUSE}{EOM}The
+is kind to animals. {PAUSE}{EOM}
 
 Message 166:
- farmer in
+The farmer in
 Mineral Town is
-always mining. {PAUSE}{EOM}{VAR_00} oc
+always mining. {PAUSE}{EOM}
 
 Message 167:
-{DD}
+{VAR_00} of
 Mineral Town has
 caught many fish,{PAUSE}
 but he's never
 got any of ours
-before. {PAUSE}{EOM}{EOM}{EOM}{EOM}I hし
+before. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 168:
-{DC}ard a story
+I heard a story
 about how
 {VAR_00} of {PAUSE}
 Mineral Town has
 walked over
 1,000,000 steps. {PAUSE}{WIPE}
 So what is that
-supposed to mean? {PAUSE}{EOM}{EOM}{VAR_00} oぞ
+supposed to mean? {PAUSE}{EOM}{EOM}
 
 Message 169:
-{DD}
+{VAR_00} of
 Mineral Town has
 worked over 50 years.{PAUSE}{WIPE}
-Can you do that?{PAUSE}{EOM}I'v
+Can you do that?{PAUSE}{EOM}
 
 Message 170:
-e heard a rumor
+I've heard a rumor
 that the farmer
 in Mineral Town {PAUSE}
 has really good
 luck when he
-goes fishing. {PAUSE}{EOM}{EOM}{EOM}I h.
+goes fishing. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 171:
-{DC}ard a rumor that
+I heard a rumor that
 the farmer in
 Mineral Town {PAUSE}
 has really bad
-taste. {PAUSE}{EOM}{EOM}{EOM}I hみ
+taste. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 172:
-{DC}ard the farmer
+I heard the farmer
 in Mineral Town
 has 3 vacation {PAUSE}
-houses.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}{VAR_00} oす
+houses.{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
 
 Message 173:
-{DD}
+{VAR_00} of
 Mineral Town has
-amazing tools. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_1B0003}T
+amazing tools. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 174:
-he food I got last
+{FACE_1B0003}The food I got last
 time was very tasty. {PAUSE}{WIPE}
 Did you know that
-it was my favorite?{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_1B0009}T
+it was my favorite?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 175:
-he food I got last
-time was really bad.{PAUSE}{EOM}{EOM}{EOM}The
+{FACE_1B0009}The food I got last
+time was really bad.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 176:
- {VAR_00}
+The {VAR_00}
 you gave me was
-alright. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_1B0003}T
+alright. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 177:
-he {VAR_00} you
+{FACE_1B0003}The {VAR_00} you
 gave me really good.{PAUSE}{WIPE}
 I'll take any more
-you can give me.{PAUSE}{EOM}{EOM}{EOM}{FACE_1B0003}T
+you can give me.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 178:
-he {VAR_00} was
+{FACE_1B0003}The {VAR_00} was
 really good.
-I mean, really.{PAUSE}{EOM}{EOM}{FACE_1B0003}T
+I mean, really.{PAUSE}{EOM}{EOM}
 
 Message 179:
-he {VAR_00} is
+{FACE_1B0003}The {VAR_00} is
 the kind of food I
-love to eat. {PAUSE}{EOM}{EOM}{EOM}{EOM}The
+love to eat. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 180:
- milk I got last
-time was delicious. {PAUSE}{EOM}{EOM}{EOM}The
+The milk I got last
+time was delicious. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 181:
- cheese I got
+The cheese I got
 last time smelled
 a little, but {PAUSE}
 I could see myself
 getting addicted
-to it. {PAUSE}{EOM}{EOM}{EOM}You
+to it. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 182:
- made the cheese
+You made the cheese
 I had last time,
 right? {PAUSE}{WIPE}
-It was delicious. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_1B0003}T
+It was delicious. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 183:
-he butter I got
+{FACE_1B0003}The butter I got
 was very rich
 and tasty. {PAUSE}{WIPE}
 I hope you can bring
-me more sometime... {PAUSE}{EOM}{EOM}{EOM}The
+me more sometime... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 184:
- butter I had
+The butter I had
 last time smelled
 a little, but I{PAUSE}
 could see myself
 getting addicted
-to it... {PAUSE}{EOM}{EOM}{EOM}{EOM}You
+to it... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 185:
- made the butter
+You made the butter
 I had last time,
 right? {PAUSE}{WIPE}
-It was delicious. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_1B0003}T
+It was delicious. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 186:
-he {VAR_00} you
+{FACE_1B0003}The {VAR_00} you
 made last time
 was great. {PAUSE}{WIPE}
 It was just so
-delicious. {PAUSE}{EOM}The
+delicious. {PAUSE}{EOM}
 
 Message 187:
- dish I had last
-time was quite good. {PAUSE}{EOM}{EOM}{FACE_1B0003}T
+The dish I had last
+time was quite good. {PAUSE}{EOM}{EOM}
 
 Message 188:
-he fish you brought
+{FACE_1B0003}The fish you brought
 me last time was
-the best. {PAUSE}{EOM}The
+the best. {PAUSE}{EOM}
 
 Message 189:
- fish you caught
-last time was great. {PAUSE}{EOM}{FACE_1B0003}T
+The fish you caught
+last time was great. {PAUSE}{EOM}
 
 Message 190:
-he wild grasses
+{FACE_1B0003}The wild grasses
 you gave me last
-time were great. {PAUSE}{EOM}{EOM}{EOM}The
+time were great. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 191:
- wild grasses
+The wild grasses
 you brought me
 last time had a {PAUSE}
 very good taste
-to them. {PAUSE}{EOM}{EOM}The
+to them. {PAUSE}{EOM}{EOM}
 
 Message 192:
- food I had
+The food I had
 last time... {PAUSE}{WIPE}
 It had some taste
-to it... {PAUSE}{EOM}{EOM}It ぽ
+to it... {PAUSE}{EOM}{EOM}
 
 Message 193:
-{EE}ould seem you've
+It would seem you've
 gotten quite skilled
 at your work. {PAUSE}{WIPE}
 You've become a
-great farmer. {PAUSE}{EOM}{EOM}{EOM}You
+great farmer. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 194:
-'re really trying
+You're really trying
 so hard. {PAUSE}{WIPE}
 You can tell the
 difference from
-when you started. {PAUSE}{EOM}{EOM}{EOM}{EOM}It t
+when you started. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 195:
-{E3}ooks like you're
+It looks like you're
 getting used to
-farm life. {PAUSE}{EOM}{EOM}{EOM}{EOM}It'
+farm life. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 196:
-s funny but my
+It's funny but my
 heart finds peace
 here in such a {PAUSE}
 small place as
-this one. {PAUSE}{EOM}Are
+this one. {PAUSE}{EOM}
 
 Message 197:
- you enjoying
+Are you enjoying
 your life?
 {CHOICE3 DEF1}
 Lots.
 Not at all.
-Who knows?{EOM}{EOM}{EOM}{FACE_1B000A}I
+Who knows?{EOM}{EOM}{EOM}
 
 Message 198:
-f you're enjoying
+{FACE_1B000A}If you're enjoying
 the moment, then
 that's all that{PAUSE}
 really matters,
 isn't it?{PAUSE}{WIPE}
 Don't forget to
 always look forward
-to tomorrow as well.{PAUSE}{EOM}{EOM}I sむ
+to tomorrow as well.{PAUSE}{EOM}{EOM}
 
 Message 199:
-{DC}e...
+I see...
 Well you should do
 what you enjoy. {PAUSE}{WIPE}
 If you're not having
@@ -1076,193 +1075,193 @@ you'd rather do. {PAUSE}{WIPE}
 Then do what you
 want to do. {PAUSE}{WIPE}
 It's really not
-that hard. {PAUSE}{EOM}{EOM}{EOM}{EOM}You
+that hard. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 200:
- don't know? {PAUSE}{WIPE}
+You don't know? {PAUSE}{WIPE}
 Well, if you don't
 feel bad, then you
 must be having fun! {PAUSE}{WIPE}
 Yeah, that's the
-ticket. {PAUSE}{EOM}{EOM}You
+ticket. {PAUSE}{EOM}{EOM}
 
 Message 201:
-'re probably
+You're probably
 bored of hearing me
 ramble on... {PAUSE}{WIPE}
 Are you sure there's
 nothing you'd
-rather be doing? {PAUSE}{EOM}{EOM}{EOM}Ord
+rather be doing? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 202:
-er your drinks
+Order your drinks
 when I'm behind
-the counter please. {PAUSE}{EOM}{EOM}{EOM}{EOM}Tak
+the counter please. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 203:
-e it easy. {PAUSE}{EOM}{EOM}Wha
+Take it easy. {PAUSE}{EOM}{EOM}
 
 Message 204:
-t's up?
-Need something? {PAUSE}{EOM}If V
+What's up?
+Need something? {PAUSE}{EOM}
 
 Message 205:
-{F0}ou're looking
+If you're looking
 for a good time,
-my place is tops! {PAUSE}{EOM}{EOM}{EOM}{EOM}It'
+my place is tops! {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 206:
-s okay to work,
+It's okay to work,
 but you should have
-a drink too. {PAUSE}{EOM}{EOM}The
+a drink too. {PAUSE}{EOM}{EOM}
 
 Message 207:
- warm air feels
-nice. {PAUSE}{EOM}{EOM}Bei
+The warm air feels
+nice. {PAUSE}{EOM}{EOM}
 
 Message 208:
-ng in the shop
+Being in the shop
 all the time makes
-me want to go out. {PAUSE}{EOM}{EOM}{EOM}{EOM}You
+me want to go out. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 209:
- should have
+You should have
 a cold drink at
 the Blue Bar {PAUSE}
 when it gets
-this hot outside. {PAUSE}{EOM}I cV
+this hot outside. {PAUSE}{EOM}
 
 Message 210:
-{D8}n't stand
-the heat... {PAUSE}{EOM}{EOM}{EOM}{EOM}You
+I can't stand
+the heat... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 211:
-'d never think
+You'd never think
 that with nature
 being so beautiful {PAUSE}
 that I'd ever
 feel sad this time
-of year... {PAUSE}{EOM}{EOM}{EOM}It'
+of year... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 212:
-s a nice season,
+It's a nice season,
 but it fills me with
 loneliness... {PAUSE}{WIPE}
 The way the moon
 looks in the
-twilight... {PAUSE}{EOM}{EOM}{EOM}{EOM}Whe
+twilight... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 213:
-re are you
-going? {PAUSE}{EOM}Are
+Where are you
+going? {PAUSE}{EOM}
 
 Message 214:
- you cold?
+Are you cold?
 I love this kind
-of weather. {PAUSE}{EOM}{EOM}Thi
+of weather. {PAUSE}{EOM}{EOM}
 
 Message 215:
-s is when the
+This is when the
 stars are at their
 most beautiful. {PAUSE}{WIPE}
 Look up towards
 the heavens and
 just totally lose {PAUSE}
 yourself in the
-night sky. {PAUSE}{EOM}{EOM}{EOM}{EOM}Now
+night sky. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 216:
- that I think
+Now that I think
 about it, Grant had
 off today. {PAUSE}{WIPE}
 Or did he become
-out of his mind...?{PAUSE}{EOM}Do る
+out of his mind...?{PAUSE}{EOM}
 
 Message 217:
-{F0}ou want a
+Do you want a
 drink, or...
 {CHOICE2 DEF1}
 A drink please.
-Came to chat.{EOM}{EOM}{EOM}{EOM}So,
+Came to chat.{EOM}{EOM}{EOM}{EOM}
 
 Message 218:
- what'll
-ya have? {PAUSE}{EOM}A {VAR_00}ぽ
+So, what'll
+ya have? {PAUSE}{EOM}
 
 Message 219:
-{CA}
+A {VAR_00}?
 Give me a second...
 ............{PAUSE}{WIPE}
 It's done!
-There you go. {S_3203E8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{S_340181}I 
+There you go. {S_3203E8}{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 220:
-hate to do this,
+{S_340181}I hate to do this,
 but you don't have
-enough money. {PAUSE}{EOM}{EOM}{EOM}Eve
+enough money. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 221:
-ryone lives so
+Everyone lives so
 freely here in
 this valley. {PAUSE}{WIPE}
 Just live the way
 you want to and
-be happy. {PAUSE}{EOM}{EOM}All
+be happy. {PAUSE}{EOM}{EOM}
 
 Message 222:
- our drinks here
+All our drinks here
 are original
 creations. {PAUSE}{WIPE}
 You'll feel great
 after you have
-one. {PAUSE}{EOM}{EOM}Goo
+one. {PAUSE}{EOM}{EOM}
 
 Message 223:
-d drinks,
+Good drinks,
 good music, and
 good talk. {PAUSE}{WIPE}
 This place has it
-all. {PAUSE}{EOM}{EOM}{S_340181}I 
+all. {PAUSE}{EOM}{EOM}
 
 Message 224:
-wouldn't drink
+{S_340181}I wouldn't drink
 anymore if I were
-you. {PAUSE}{EOM}{EOM}{EOM}{EOM}{S_340181}I 
+you. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 225:
-wonder what's
+{S_340181}I wonder what's
 with Muffy... {PAUSE}{WIPE}
 Lately she's been
-so quiet... {PAUSE}{EOM}{EOM}{EOM}{S_340181}Nス
+so quiet... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 226:
-{E6}w that I think
+{S_340181}Now that I think
 about it, she began
 acting strangely{PAUSE}
 right after you
-got married.{PAUSE}{EOM}Tal
+got married.{PAUSE}{EOM}
 
 Message 227:
-k to Muffy for
-me, would you...? {PAUSE}{EOM}{EOM}{S_340181}Yと
+Talk to Muffy for
+me, would you...? {PAUSE}{EOM}{EOM}
 
 Message 228:
-{E6}u can't drink if
+{S_340181}You can't drink if
 your hands are
-full... {PAUSE}{EOM}{EOM}{EOM}{EOM}You
+full... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 229:
- can't drink
+You can't drink
 if you don't come
-here empty handed. {PAUSE}{EOM}{EOM}{EOM}You
+here empty handed. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 230:
- can't drink
+You can't drink
 while carrying
-that. {PAUSE}{EOM}{EOM}{EOM}The
+that. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 231:
- other day {MUFFY}
+The other day {MUFFY}
 got some ingredients
 I didn't need. {PAUSE}{WIPE}
 I thought maybe
@@ -1270,53 +1269,53 @@ she was going to
 make dinner, but {PAUSE}
 when I asked her
 about it she just
-got angry at me! {PAUSE}{EOM}{EOM}You
+got angry at me! {PAUSE}{EOM}{EOM}
 
 Message 232:
- never can tell
+You never can tell
 what'll set a
 woman off. {PAUSE}{WIPE}
 Always be on
 your guard my
-friend. {PAUSE}{EOM}{EOM}{MUFFY}'s
+friend. {PAUSE}{EOM}{EOM}
 
 Message 233:
- happy
+{MUFFY}'s happy
 because she had a
-date with you. {PAUSE}{EOM}{EOM}Wel
+date with you. {PAUSE}{EOM}{EOM}
 
 Message 234:
-l, I guess you're
-going steady now. {PAUSE}{EOM}{EOM}{EOM}{EOM}{S_340182}Yシ
+Well, I guess you're
+going steady now. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 235:
-{E6}u're going to
+{S_340182}You're going to
 marry {MUFFY}? {PAUSE}{WIPE}
 Are you feeling
-okay...? {PAUSE}{EOM}{EOM}You
+okay...? {PAUSE}{EOM}{EOM}
 
 Message 236:
-'ve picked a ship
+You've picked a ship
 that's not easily
 controlled. {PAUSE}{WIPE}
 Careful you don't
 fall overboard,
-boy. {PAUSE}{EOM}{EOM}Ah.
+boy. {PAUSE}{EOM}{EOM}
 
 Message 237:
-..well...
-Never mind now. {PAUSE}{EOM}Hel
+Ah...well...
+Never mind now. {PAUSE}{EOM}
 
 Message 238:
-lo, {PETE}.
+Hello, {PETE}.
 The bar is reserve
-for today's event. {PAUSE}{EOM}{EOM}{EOM}{EOM}Why
+for today's event. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 239:
- you say?
-Today is... {S_3202BC}{PAUSE}{EOM}{EOM}{EOM}Oh,
+Why you say?
+Today is... {S_3202BC}{PAUSE}{EOM}{EOM}{EOM}
 
 Message 240:
- there they
+Oh, there they
 come. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
 

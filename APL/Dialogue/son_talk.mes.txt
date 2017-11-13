@@ -658,266 +658,266 @@ Message 145:
 {FACE_010003}Hey, Mom. {PAUSE}{WIPE}
 Did you know that
 dogs are strong
-against the co
+against the cold? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 146:
-ld? {PAUSE}{EOM}{EOM}{EOM}{FACE_010003}You can call me
-the "Dog Doctと
+{FACE_010003}You can call me
+the "Dog Doctor"!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 147:
-{E6}r"!{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}I wonder if {DOG}
+{FACE_010003}I wonder if {DOG}
 is good at digging
-holes シ
+holes too? {PAUSE}{EOM}{EOM}
 
 Message 148:
-{EB}oo? {PAUSE}{EOM}{EOM}{FACE_010003}Leave anything
+{FACE_010003}Leave anything
 involving dogs
-to 
+to me. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 149:
-me. {PAUSE}{EOM}{EOM}{EOM}{FACE_010003}This guy is
+{FACE_010003}This guy is
 near-sighted. {PAUSE}{WIPE}
 Just like a
-person-
+person... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 150:
-{C8}.. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010003}Go find out
-yourself
+{FACE_010003}Go find out
+yourself... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 151:
-... {PAUSE}{EOM}{EOM}{EOM}{FACE_010023}I wonder if I
+{FACE_010023}I wonder if I
 rank higher than
-{DOG}t
+{DOG}... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 152:
-{C8}.. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010003}It's funny. {PAUSE}{WIPE}
+{FACE_010003}It's funny. {PAUSE}{WIPE}
 If you don't train
 your dog, he thinks
 that he's the one{PAUSE}
-who runs the s
+who runs the show.{PAUSE}{EOM}{EOM}
 
 Message 153:
-how.{PAUSE}{EOM}{EOM}{FACE_010003}This guy is already
-an old ぽ
+{FACE_010003}This guy is already
+an old man. {PAUSE}{EOM}{EOM}
 
 Message 154:
-{E4}an. {PAUSE}{EOM}{EOM}{FACE_010003}I bet he wishes he
+{FACE_010003}I bet he wishes he
 could extend his
 life.{PAUSE}{WIPE}
-Righ
+Right, {DOG}? {PAUSE}{EOM}
 
 Message 155:
-t, {DOG}? {PAUSE}{EOM}{FACE_010003}Hey, {DOG}.
-How are y
+{FACE_010003}Hey, {DOG}.
+How are you? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 156:
-ou? {PAUSE}{EOM}{EOM}{EOM}{FACE_010003}He's always cぺ
+{FACE_010003}He's always cute♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 157:
-{EC}te♪{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}Yo {DOG}, how
-arだ
+{FACE_010003}Yo {DOG}, how
+are ya? {PAUSE}{EOM}
 
 Message 158:
-{DC} ya? {PAUSE}{EOM}{FACE_010003}This little guy
+{FACE_010003}This little guy
 seems to not have
-any worrieむ
+any worries... {PAUSE}{EOM}{EOM}
 
 Message 159:
-{EA}... {PAUSE}{EOM}{EOM}{FACE_010003}You're always so
-c
+{FACE_010003}You're always so
+cute♪{PAUSE}{EOM}{EOM}
 
 Message 160:
-ute♪{PAUSE}{EOM}{EOM}{FACE_010003}Ah {DOG}...
-I'm jealous of へ
+{FACE_010003}Ah {DOG}...
+I'm jealous of you.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 161:
-{F0}ou.{PAUSE}{EOM}{EOM}{EOM}{FACE_010003}I'd like to try
+{FACE_010003}I'd like to try
 raising a larger
-d
+dog.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 162:
-og.{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010024}How cute.
+{FACE_010024}How cute.
 Can I draw eyebrows
-on y
+on you? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 163:
-ou? {PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Does it eat frui
+{FACE_010001}Does it eat fruits?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 164:
-ts?{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010001}You're so cだ
+{FACE_010001}You're so cute♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 165:
-{EC}te♪{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}Is this guy cryi
+{FACE_010001}Is this guy crying? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 166:
-ng? {PAUSE}{EOM}{EOM}{EOM}{FACE_010009}You're a good one...
+{FACE_010009}You're a good one...
 Not a care in the
-worl
+world... {PAUSE}{EOM}
 
 Message 167:
-d... {PAUSE}{EOM}{FACE_01000A}You're so cぽ
+{FACE_01000A}You're so cute. {PAUSE}{EOM}{EOM}
 
 Message 168:
-{EC}te. {PAUSE}{EOM}{EOM}{FACE_010024}I want more animals
-to take carV
+{FACE_010024}I want more animals
+to take care of. {PAUSE}{EOM}
 
 Message 169:
-{DC} of. {PAUSE}{EOM}{FACE_01000C}I wonder what he's
-thinkす
+{FACE_01000C}I wonder what he's
+thinking. {PAUSE}{EOM}{EOM}
 
 Message 170:
-{E0}ng. {PAUSE}{EOM}{EOM}It's rain
+It's raining. {PAUSE}{EOM}
 
 Message 171:
-ing. {PAUSE}{EOM}Hmm...
-Rain
+Hmm...
+Rain... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 172:
-... {PAUSE}{EOM}{EOM}{EOM}I wonder how long
-it will rす
+I wonder how long
+it will rain. {PAUSE}{EOM}{EOM}
 
 Message 173:
-{D8}in. {PAUSE}{EOM}{EOM}Mom, it's
+Mom, it's
 snowing! {PAUSE}{WIPE}
 It's all fluffy
-and sざ
+and soft! {PAUSE}{EOM}{EOM}
 
 Message 174:
-{E6}ft! {PAUSE}{EOM}{EOM}Hmm...
-Snow
+Hmm...
+Snow... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 175:
-... {PAUSE}{EOM}{EOM}{EOM}Snow, huh?
+Snow, huh?
 I wonder if it'll
-stと
+stick. {PAUSE}{EOM}{EOM}
 
 Message 176:
-{E0}ck. {PAUSE}{EOM}{EOM}Nice weat
+Nice weather♪{PAUSE}{EOM}{EOM}
 
 Message 177:
-her♪{PAUSE}{EOM}{EOM}Nice weat
+Nice weather♪{PAUSE}{EOM}{EOM}
 
 Message 178:
-her♪{PAUSE}{EOM}{EOM}Days like this make
+Days like this make
 me want to just
-zone out somewhぽ
+zone out somewhere. {PAUSE}{EOM}{EOM}
 
 Message 179:
-{DC}re. {PAUSE}{EOM}{EOM}Today's h
+Today's hot! {PAUSE}{EOM}{EOM}{EOM}
 
 Message 180:
-ot! {PAUSE}{EOM}{EOM}{EOM}Wow it's hot...
-It's irritatぽ
+Wow it's hot...
+It's irritating. {PAUSE}{EOM}{EOM}
 
 Message 181:
-{E0}ng. {PAUSE}{EOM}{EOM}Today sure is
+Today sure is
 hot... {PAUSE}{WIPE}
 I feel like I might
-pass 
+pass out. {PAUSE}{EOM}
 
 Message 182:
-out. {PAUSE}{EOM}Today's warm,
+Today's warm, Mom♪{PAUSE}{EOM}
 
 Message 183:
- Mom♪{PAUSE}{EOM}Today's nice and
-toast
+Today's nice and
+toasty... {PAUSE}{EOM}
 
 Message 184:
-y... {PAUSE}{EOM}It feels like the
+It feels like the
 air is clear
-tod
+today. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 185:
-ay. {PAUSE}{EOM}{EOM}{EOM}Mom! Can you
-see the mo
+Mom! Can you
+see the moon? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 186:
-on? {PAUSE}{EOM}{EOM}{EOM}Ah, feels gooむ
+Ah, feels good... {PAUSE}{EOM}{EOM}
 
 Message 187:
-{DB}... {PAUSE}{EOM}{EOM}The nights are a
+The nights are a
 little cool. {PAUSE}{WIPE}
 I think it's just
-the right t
+the right temp. {PAUSE}{EOM}
 
 Message 188:
-emp. {PAUSE}{EOM}It's nice when it
+It's nice when it
 gets cool in
-the SumV
+the Summer♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 189:
-{E4}er♪{PAUSE}{EOM}{EOM}{EOM}It's easy to enjoy
-the Summer nig2
+It's easy to enjoy
+the Summer nights. {PAUSE}{EOM}{EOM}
 
 Message 190:
-{DF}ts. {PAUSE}{EOM}{EOM}It's gotten a
+It's gotten a
 little cooler. {PAUSE}{WIPE}
 It'd be nice
 if it stayed like
-this everydと
+this everyday. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 191:
-{D8}y. {PAUSE}{EOM}{EOM}{EOM}{EOM}The stars look
+The stars look
 beautiful this
-time of ye
+time of year♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 192:
-ar♪{PAUSE}{EOM}{EOM}{EOM}{EOM}It's so quiョ
+It's so quiet. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 193:
-{DC}t. {PAUSE}{EOM}{EOM}{EOM}{EOM}What a romantic
+What a romantic
 night. {PAUSE}{WIPE}
 {FACE_010021}Nights like these
 make me wish I had
 a girlfriend... {PAUSE}{WIPE}
 {FACE_01001A}Oops, thinking out
-loud agケ
+loud again! {PAUSE}{EOM}{EOM}
 
 Message 194:
-{D8}in! {PAUSE}{EOM}{EOM}Mom is always
+Mom is always
 so nice but can
-suddenly get an
+suddenly get angry! {PAUSE}{EOM}
 
 Message 195:
-gry! {PAUSE}{EOM}She just says the
+She just says the
 same old things
-over and over
+over and over... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 196:
-... {PAUSE}{EOM}{EOM}{EOM}I wonder if Mom
+I wonder if Mom
 and {MARLIN}
-ever had anythinシ
+ever had anything...?{PAUSE}{EOM}
 
 Message 197:
-{DE}...?{PAUSE}{EOM}I've been thinking
+I've been thinking
 Mom has gotten
-olderぼ
+older... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 198:
-{C8}.. {PAUSE}{EOM}{EOM}{EOM}{EOM}Mom always said
+Mom always said
 do your own
-thiと
+thing. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 199:
-{E5}g. {PAUSE}{EOM}{EOM}{EOM}{EOM}After all, Mom
+After all, Mom
 really doesn't care
-abouぼ
+about me. {PAUSE}{EOM}
 
 Message 200:
-{EB} me. {PAUSE}{EOM}Now I can understand
+Now I can understand
 the way Mom expresses
-her love tV
+her love to me.{PAUSE}{EOM}{EOM}
 
 Message 201:
-{E6} me.{PAUSE}{EOM}{EOM}Men tend to marry
+Men tend to marry
 someone like their
 mothers, or the {PAUSE}
 exact opposite.
 I wonder which one
-for 
+for me?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 202:
-me?{PAUSE}{EOM}{EOM}{EOM}{EOM}Sometimes I don't
+Sometimes I don't
 understand what Mom
 is thinking... {PAUSE}{WIPE}
 {FACE_010001}I thought she was
@@ -925,572 +925,572 @@ happy but... {PAUSE}{WIPE}
 {FACE_010004}Suddenly she got so
 angry. {PAUSE}{WIPE}
 {FACE_010009}I really don't
-get thaケ
+get that... {PAUSE}{EOM}{EOM}
 
 Message 203:
-{EB}... {PAUSE}{EOM}{EOM}{FACE_010002}That witch... {PAUSE}{WIPE}
+{FACE_010002}That witch... {PAUSE}{WIPE}
 How much longer is
 she going to treat
-me like a chiと
+me like a child?{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
 
 Message 204:
-{E3}d?{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}Mom said she and Mom
+Mom said she and Mom
 had a very movie-
-like romanす
+like romance. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 205:
-{DA}e. {PAUSE}{EOM}{EOM}{EOM}{EOM}Even Mom can't beat
-old a
+Even Mom can't beat
+old age. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 206:
-ge. {PAUSE}{EOM}{EOM}{EOM}Mom, you're at
-home そ
+Mom, you're at
+home today?
 
 Message 207:
-{EB}oday? {PAUSE}{EOM}{EOM}I'm h
+ {PAUSE}{EOM}{EOM}I'm hungryW
 
 Message 208:
-ungry. {PAUSE}{EOM}BoriW
+{C8} {PAUSE}{EOM}Boring... {PAUSE}
 
 Message 209:
-{E5}g... {PAUSE}{EOM}{EOM}{EOM}{EOM}....W
+{EOM}{EOM}{EOM}{EOM}......... {PAUSE}
 
 Message 210:
-{C8}.... {PAUSE}{EOM}{EOM}{EOM}{EOM}I want to just
+{EOM}{EOM}{EOM}{EOM}I want to just
 go off somewhere
-exci
+exciting. 
 
 Message 211:
-ting. {PAUSE}{EOM}{EOM}{EOM}Speaking of which,
+{PAUSE}{EOM}{EOM}{EOM}Speaking of which,
 we've never been
-on vac
+on vacation1
 
 Message 212:
-ation. {PAUSE}{EOM}I better start
+{C8} {PAUSE}{EOM}I better start
 thinking about
-mar
+marriageむ
 
 Message 213:
-riage. {PAUSE}{EOM}Our family doesn't
+{C8} {PAUSE}{EOM}Our family doesn't
 really have any
 flash or show to it. {PAUSE}{WIPE}
 I wish I had a little
-sisシ
+sister...
 
 Message 214:
-{EB}er... {PAUSE}{EOM}{EOM}I wonder if there's
+ {PAUSE}{EOM}{EOM}I wonder if there's
 anything at the
-edge of the
+edge of the ocean
 
 Message 215:
- ocean.{PAUSE}{EOM}It smells likろ
+.{PAUSE}{EOM}It smells like
+saltる
 
 Message 216:
-{DC}
-salt! {PAUSE}{EOM}Coming here reminds
+{CB} {PAUSE}{EOM}Coming here reminds
 me of when I was
-litざ
+little...
 
 Message 217:
-{EB}le... {PAUSE}{EOM}{EOM}Leave me alone,
-plea
+ {PAUSE}{EOM}{EOM}Leave me alone,
+please... 
 
 Message 218:
-se... {PAUSE}{EOM}{EOM}{EOM}I forget all my
+{PAUSE}{EOM}{EOM}{EOM}I forget all my
 weariness when I
-listen to th
+listen to the sea.
 
 Message 219:
-e sea. {PAUSE}{EOM}{EOM}{FACE_010009}My face is all
-sweゆ
+ {PAUSE}{EOM}{EOM}{FACE_010009}My face is all
+sweaty...
 
 Message 220:
-{D8}ty... {PAUSE}{EOM}{EOM}Coming here gets me
+ {PAUSE}{EOM}{EOM}Coming here gets me
 all nostalgic. {PAUSE}{WIPE}
 It's gotta be
-the s
+the sea... 
 
 Message 221:
-ea... {PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}Speaking of which,
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}Speaking of which,
 I've never seen this
-ocean ever st
+ocean ever stormy. 
 
 Message 222:
-ormy. {PAUSE}{EOM}{EOM}{EOM}It's like the
-trees are tal
+{PAUSE}{EOM}{EOM}{EOM}It's like the
+trees are talking. 
 
 Message 223:
-king. {PAUSE}{EOM}{EOM}{EOM}Oh, it's
-Mukumuて
+{PAUSE}{EOM}{EOM}{EOM}Oh, it's
+Mukumuku... {PAUSE}
 
 Message 224:
-{E2}u... {PAUSE}{EOM}{EOM}{EOM}{EOM}I like how quiet
-this pla
+{EOM}{EOM}{EOM}{EOM}I like how quiet
+this place is.
 
 Message 225:
-ce is. {PAUSE}{EOM}{EOM}....W
+ {PAUSE}{EOM}{EOM}......... {PAUSE}
 
 Message 226:
-{C8}.... {PAUSE}{EOM}{EOM}{EOM}{EOM}This place really
+{EOM}{EOM}{EOM}{EOM}This place really
 expresses both
-day and n
+day and night. 
 
 Message 227:
-ight. {PAUSE}{EOM}{EOM}{EOM}When I was a kid
+{PAUSE}{EOM}{EOM}{EOM}When I was a kid
 this place scared
 me a little. {PAUSE}{WIPE}
 All those big
-tr
+trees..み
 
 Message 228:
-ees... {PAUSE}{EOM}....................................................ス
+{C8} {PAUSE}{EOM}......................................................... 
 
 Message 229:
-{C8}.... {PAUSE}{EOM}{EOM}{EOM}Why can't I read
-thiし
+{PAUSE}{EOM}{EOM}{EOM}Why can't I read
+this bookこ
 
 Message 230:
-{EA} book? {PAUSE}{EOM}....W
+{CA} {PAUSE}{EOM}......... {PAUSE}
 
 Message 231:
-{C8}.... {PAUSE}{EOM}{EOM}{EOM}{EOM}Oh...there it is!
+{EOM}{EOM}{EOM}{EOM}Oh...there it is!
 .........No good...
-He goせ
+He got awayせ
 
 Message 232:
-{EB} away. {PAUSE}{EOM}.........?
-....
+{C8} {PAUSE}{EOM}.........?
+.........ろ
 
 Message 233:
-.....! {PAUSE}{EOM}Mom, don't
-bother me
+{CB} {PAUSE}{EOM}Mom, don't
+bother me now. {PAUSE}
 
 Message 234:
- now. {PAUSE}{EOM}{EOM}{EOM}{EOM}Oops!
+{EOM}{EOM}{EOM}{EOM}Oops!
 See, now it's all
-cro
+crooked. 
 
 Message 235:
-oked. {PAUSE}{EOM}{EOM}{EOM}I'm not in such a
-good mood 
+{PAUSE}{EOM}{EOM}{EOM}I'm not in such a
+good mood todayぽ
 
 Message 236:
-today. {PAUSE}{EOM}Get outta here.
+{C8} {PAUSE}{EOM}Get outta here.
 You're ruining my
-concentraぢ
+concentration. {PAUSE}
 
 Message 237:
-{EB}ion. {PAUSE}{EOM}{EOM}{EOM}{EOM}What the...
+{EOM}{EOM}{EOM}{EOM}What the...
 Stop peeking
-at my ぞ
+at my work. {PAUSE}
 
 Message 238:
-{EE}ork. {PAUSE}{EOM}{EOM}{EOM}{EOM}Not a chance.
+{EOM}{EOM}{EOM}{EOM}Not a chance.
 I'm not showing
-yぞ
+you nowべ
 
 Message 239:
-{E6}u now. {PAUSE}{EOM}I'm drawing a
-pi
+{C8} {PAUSE}{EOM}I'm drawing a
+pictureれ
 
 Message 240:
-cture. {PAUSE}{EOM}It's really hard
+{C8} {PAUSE}{EOM}It's really hard
 to draw a straight
-
+line. 
 
 Message 241:
-line. {PAUSE}{EOM}{EOM}{EOM}It's not easy
+{PAUSE}{EOM}{EOM}{EOM}It's not easy
 to draw something
-that I
+that I like.
 
 Message 242:
- like. {PAUSE}{EOM}{EOM}That's strange...
+ {PAUSE}{EOM}{EOM}That's strange...
 Why is that line
 going diagonal...? {PAUSE}{WIPE}
-H
+Hmmm..ス
 
 Message 243:
-mmm... {PAUSE}{EOM}You want to know
+{C8} {PAUSE}{EOM}You want to know
 what I'm drawing? {PAUSE}{WIPE}
 It's that boring
 looking thing
-over つ
+over there.
 
 Message 244:
-{EB}here. {PAUSE}{EOM}{EOM}It's hard for me to
+ {PAUSE}{EOM}{EOM}It's hard for me to
 capture the shape
 of that. {PAUSE}{WIPE}
 It takes a lot of
 patience and
-sacriシ
+sacrifice. {PAUSE}
 
 Message 245:
-{DD}ice. {PAUSE}{EOM}{EOM}{EOM}{EOM}I think my drawings
+{EOM}{EOM}{EOM}{EOM}I think my drawings
 can be called
-"artisticly シ
+"artisticly fine".
 
 Message 246:
-{DD}ine".{PAUSE}{EOM}{EOM}{EOM}What am I drawing?
-It's a sぽ
+{PAUSE}{EOM}{EOM}{EOM}What am I drawing?
+It's a secret!
 
 Message 247:
-{DC}cret! {PAUSE}{EOM}{EOM}This is my greatest
-masterぽ
+ {PAUSE}{EOM}{EOM}This is my greatest
+masterpiece!
 
 Message 248:
-{E7}iece! {PAUSE}{EOM}{EOM}Will {VAN}
-buy my painろ
+ {PAUSE}{EOM}{EOM}Will {VAN}
+buy my painting? {PAUSE}
 
 Message 249:
-{EB}ing? {PAUSE}{EOM}{EOM}{EOM}{EOM}I want to try using
-a bへ
+{EOM}{EOM}{EOM}{EOM}I want to try using
+a brush. {PAUSE}
 
 Message 250:
-{E9}ush. {PAUSE}{EOM}{EOM}{EOM}{EOM}I wonder what I'll
-paint ne
+{EOM}{EOM}{EOM}{EOM}I wonder what I'll
+paint next... 
 
 Message 251:
-xt... {PAUSE}{EOM}{EOM}{EOM}Once in a while I
+{PAUSE}{EOM}{EOM}{EOM}Once in a while I
 think it'd be nice to
 paint a picture {PAUSE}
 using a female body
 as a model... {PAUSE}{WIPE}
 I wish she could be
 my model... Oops! Did
-I say it out
+I say it out loud?
 
 Message 252:
- loud? {PAUSE}{EOM}{EOM}My choice of color
+ {PAUSE}{EOM}{EOM}My choice of color
 depends on my mood. {PAUSE}{WIPE}
 Sometimes when
 I look at my
 own work, {PAUSE}{WIPE}
 I get a little
-embarrassed abou
+embarrassed about
+it. {PAUSE}
 
 Message 253:
-t
-it. {PAUSE}{EOM}{EOM}{EOM}{EOM}I think today I'll
+{EOM}{EOM}{EOM}{EOM}I think today I'll
 be able to draw
-a great piせ
+a great picture.
 
 Message 254:
-{DA}ture. {PAUSE}{EOM}{EOM}I'm happy when I get
+ {PAUSE}{EOM}{EOM}I'm happy when I get
 a really straight
+line.
 
 Message 255:
-
-line. {PAUSE}{EOM}{EOM}Don't talk to
+ {PAUSE}{EOM}{EOM}Don't talk to
 me right now. {PAUSE}{WIPE}
 I'm at the best
-
+part! 
 
 Message 256:
-part! {PAUSE}{EOM}{EOM}{EOM}Go 
+{PAUSE}{EOM}{EOM}{EOM}Go away! 
 
 Message 257:
-away! {PAUSE}{EOM}{EOM}{EOM}Mom, don't
-bothぞ
+{PAUSE}{EOM}{EOM}{EOM}Mom, don't
+bother me. 
 
 Message 258:
-{DC}r me. {PAUSE}{EOM}{EOM}{EOM}Leave me alケ
+{PAUSE}{EOM}{EOM}{EOM}Leave me alone...
 
 Message 259:
-{E6}ne... {PAUSE}{EOM}{EOM}This book is really
-really 
+ {PAUSE}{EOM}{EOM}This book is really
+really good! 
 
 Message 260:
-good! {PAUSE}{EOM}{EOM}{EOM}I want to read all
-sorts of 
+{PAUSE}{EOM}{EOM}{EOM}I want to read all
+sorts of booksぽ
 
 Message 261:
-books. {PAUSE}{EOM}This book is
+{C8} {PAUSE}{EOM}This book is
 amazing. {PAUSE}{WIPE}
 There's not too
 many pictures, but
 I really enjoy {PAUSE}
 picturing the scene
-in mじ
+in my headで
 
 Message 262:
-{F0} head. {PAUSE}{EOM}Each time I turn
+{C8} {PAUSE}{EOM}Each time I turn
 the page, I fill
-with anticipa
+with anticipation. 
 
 Message 263:
-tion. {PAUSE}{EOM}{EOM}{EOM}I'm rea
+{PAUSE}{EOM}{EOM}{EOM}I'm reading. 
 
 Message 264:
-ding. {PAUSE}{EOM}{EOM}{EOM}This book makes me
+{PAUSE}{EOM}{EOM}{EOM}This book makes me
 think about various
-t
+thingsざ
 
 Message 265:
-hings. {PAUSE}{EOM}I lose all track of
+{C8} {PAUSE}{EOM}I lose all track of
 time when I'm
-reading a
+reading a book.
 
 Message 266:
- book. {PAUSE}{EOM}{EOM}At least I have to
+ {PAUSE}{EOM}{EOM}At least I have to
 read books to keep
 up with the world.{PAUSE}{WIPE}
 This town is small
-and not man
+and not many news
 
 Message 267:
-y news.{PAUSE}{EOM}Sorry, but don't
+.{PAUSE}{EOM}Sorry, but don't
 talk to me right
 now. {PAUSE}{WIPE}
 I'm at a really
-good
+good part.
 
 Message 268:
- part. {PAUSE}{EOM}{EOM}{FACE_010004}......わ
+ {PAUSE}{EOM}{EOM}{FACE_010004}............
 
 Message 269:
-{C8}..... {PAUSE}{EOM}{EOM}After I finish
+ {PAUSE}{EOM}{EOM}After I finish
 reading a book,
 I feel as if the {PAUSE}
 knowledge in my
 head has increased. {PAUSE}{WIPE}
 I must be absorbing
-what I re2
+what I read... {PAUSE}
 
 Message 270:
-{D8}d... {PAUSE}{EOM}{EOM}{EOM}{EOM}I really found
+{EOM}{EOM}{EOM}{EOM}I really found
 a great book. {PAUSE}{WIPE}
-I'm gratefuぞ
+I'm grateful to
+{VAN}.
 
 Message 271:
-{E3} to
-{VAN}. {PAUSE}{EOM}{EOM}Mom, do you
-read
+ {PAUSE}{EOM}{EOM}Mom, do you
+read too? {PAUSE}
 
 Message 272:
- too? {PAUSE}{EOM}{EOM}{EOM}{EOM}I've got lots of
+{EOM}{EOM}{EOM}{EOM}I've got lots of
 interesting books.
-Mom, go take 
+Mom, go take a look
 
 Message 273:
-a look.{PAUSE}{EOM}♪A necklace...♪
-♪of white flowぼ
+.{PAUSE}{EOM}♪A necklace...♪
+♪of white flowers...
 
 Message 274:
-{DC}rs...♪{PAUSE}{EOM}♪A necklace...♪
-♪of white flowV
+♪{PAUSE}{EOM}♪A necklace...♪
+♪of white flowers...
 
 Message 275:
-{DC}rs...♪{PAUSE}{EOM}♪A necklaccccce...♪
-♪of white flowぞ
+♪{PAUSE}{EOM}♪A necklaccccce...♪
+♪of white flowers...
 
 Message 276:
-{DC}rs...♪{PAUSE}{EOM}♪Love me little♪
-♪Love mせ
+♪{PAUSE}{EOM}♪Love me little♪
+♪Love me longせ
 
 Message 277:
-{DC} long♪ {PAUSE}{EOM}♪Love me little♪
-♪Love mせ
+{D3} {PAUSE}{EOM}♪Love me little♪
+♪Love me longせ
 
 Message 278:
-{DC} long♪ {PAUSE}{EOM}♪Love meeee lit♪
+{D3} {PAUSE}{EOM}♪Love meeee lit♪
 (cough)
 Too high for me. {PAUSE}{WIPE}
 Mom, were you
-laughing 
+laughing at me?
 
 Message 279:
-at me? {PAUSE}{EOM}{EOM}{FACE_010009}Mom be quiet.
+ {PAUSE}{EOM}{EOM}{FACE_010009}Mom be quiet.
 {FACE_010004}The fish is about to
+bite.
 
 Message 280:
-
-bite. {PAUSE}{EOM}{EOM}{FACE_010004}Mom, walk quietly.{PAUSE}
+ {PAUSE}{EOM}{EOM}{FACE_010004}Mom, walk quietly.{PAUSE}
 {FACE_01000D}If it gets away,
-it'll be YOUR f
+it'll be YOUR fault. 
 
 Message 281:
-ault. {PAUSE}{EOM}{EOM}{EOM}{FACE_010004}Go over there.
+{PAUSE}{EOM}{EOM}{EOM}{FACE_010004}Go over there.
 I'm about to
-catu
+catch himシ
 
 Message 282:
-{DA}h him. {PAUSE}{EOM}{FACE_01000D}If I don't catch
+{C8} {PAUSE}{EOM}{FACE_01000D}If I don't catch
 anything today,
-it's your fauV
+it's your fault... {PAUSE}
 
 Message 283:
-{E3}t... {PAUSE}{EOM}{EOM}{EOM}{EOM}Today looks like
+{EOM}{EOM}{EOM}{EOM}Today looks like
 it will be a good
 day for fishing! {PAUSE}{WIPE}
 Let's fish
-together以
+together, Mom! 
 
 Message 284:
-{05} Mom! {PAUSE}{EOM}{EOM}{EOM}Aren't you fishing,
+{PAUSE}{EOM}{EOM}{EOM}Aren't you fishing,
 Mom? {PAUSE}{WIPE}
 If you need a rod,
 you can get one
-fV
+from {VAN}. 
 
 Message 285:
-{E9}om {VAN}. {PAUSE}{EOM}{EOM}{EOM}Mom, come
+{PAUSE}{EOM}{EOM}{EOM}Mom, come
 fishing with me. {PAUSE}{WIPE}
 Today looks like
 it'll be a good
-day fし
+day for it. 
 
 Message 286:
-{E6}r it. {PAUSE}{EOM}{EOM}{EOM}Haven't caught
-anythiへ
+{PAUSE}{EOM}{EOM}{EOM}Haven't caught
+anything yetへ
 
 Message 287:
-{E5}g yet. {PAUSE}{EOM}I want to try
+{C8} {PAUSE}{EOM}I want to try
 catching one so
 big he might {PAUSE}
 crack my fishing
-pole iし
+pole in two. 
 
 Message 288:
-{E5} two. {PAUSE}{EOM}{EOM}{EOM}{FACE_01000D}Shh! Get outta here.
+{PAUSE}{EOM}{EOM}{EOM}{FACE_01000D}Shh! Get outta here.
 A big one'll come
-any mi
+any minute. 
 
 Message 289:
-nute. {PAUSE}{EOM}{EOM}{EOM}What do you want?
+{PAUSE}{EOM}{EOM}{EOM}What do you want?
 {FACE_01000D}I want to go
-fishing 
+fishing aloneざ
 
 Message 290:
-alone. {PAUSE}{EOM}Want to go fishing
-togetheぽ
+{C8} {PAUSE}{EOM}Want to go fishing
+together...? {PAUSE}
 
 Message 291:
-{E9}...? {PAUSE}{EOM}{EOM}{EOM}{EOM}Aren't you fiる
+{EOM}{EOM}{EOM}{EOM}Aren't you fishing?
 
 Message 292:
-{EA}hing? {PAUSE}{EOM}{EOM}It's fun to zone
+ {PAUSE}{EOM}{EOM}It's fun to zone
 out while you wait
-for the
+for the fish.
 
 Message 293:
- fish. {PAUSE}{EOM}{EOM}It's a treasure to
+ {PAUSE}{EOM}{EOM}It's a treasure to
 be able to focus on
-just one 
+just one thingと
 
 Message 294:
-thing. {PAUSE}{EOM}{FACE_010009}Sorry, I want to
-fish by myと
+{C8} {PAUSE}{EOM}{FACE_010009}Sorry, I want to
+fish by myself. {PAUSE}
 
 Message 295:
-{EA}elf. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010004}Hmph...
-Nothing's bitせ
+{EOM}{EOM}{EOM}{EOM}{FACE_010004}Hmph...
+Nothing's biting...
 
 Message 296:
-{E0}ng... {PAUSE}{EOM}{EOM}Oh, Mom.
+ {PAUSE}{EOM}{EOM}Oh, Mom.
 Do you want to fish
 together? {PAUSE}{WIPE}
 I don't know why,
 but I think we'll
-catch a lot
+catch a lot today
 
 Message 297:
- today!{PAUSE}{EOM}You don't want to
+!{PAUSE}{EOM}You don't want to
 fish? {PAUSE}{WIPE}
 And I was in such a
-good mood
+good mood too..
 
 Message 298:
- too...{PAUSE}{EOM}There's more to
+.{PAUSE}{EOM}There's more to
 fishing than just
 waiting for it {PAUSE}
 to come and
 take the bait. {PAUSE}{WIPE}
 It's all about the
 battle between
-fish an
+fish and man.
 
 Message 299:
-d man. {PAUSE}{EOM}{EOM}G
+ {PAUSE}{EOM}{EOM}Zzz...
 
 Message 300:
-{FARM}zz... {PAUSE}{EOM}{EOM}Zzz...び
+ {PAUSE}{EOM}{EOM}Zzz...Zzz...
 
 Message 301:
-{FARM}zz... {PAUSE}{EOM}{EOM}Zzz...zzz...ぁ
+ {PAUSE}{EOM}{EOM}Zzz...zzz...zzz...
 
 Message 302:
-{F1}zz... {PAUSE}{EOM}{EOM}Zzz...what the...
-Zケ
+ {PAUSE}{EOM}{EOM}Zzz...what the...
+Zzz... {PAUSE}
 
 Message 303:
-{F1}z... {PAUSE}{EOM}{EOM}{EOM}{EOM}Zzz... can't eat
-anymore...z
+{EOM}{EOM}{EOM}{EOM}Zzz... can't eat
+anymore...zzz... 
 
 Message 304:
-zz... {PAUSE}{EOM}{EOM}{EOM}Ahhh! I don't like
+{PAUSE}{EOM}{EOM}{EOM}Ahhh! I don't like
+cats!
 
 Message 305:
-
-cats! {PAUSE}{EOM}{EOM}I said no!
+ {PAUSE}{EOM}{EOM}I said no!
 Get it away
-frそ
+from me! 
 
 Message 306:
-{E6}m me! {PAUSE}{EOM}{EOM}{EOM}Why are you bringing
-that nea
+{PAUSE}{EOM}{EOM}{EOM}Why are you bringing
+that near me? {PAUSE}
 
 Message 307:
-r me? {PAUSE}{EOM}{EOM}{EOM}{EOM}Are you trying to
-tick me
+{EOM}{EOM}{EOM}{EOM}Are you trying to
+tick me off!?
 
 Message 308:
- off!? {PAUSE}{EOM}{EOM}Do you think it's
+ {PAUSE}{EOM}{EOM}Do you think it's
 funny to get me
-angrぷ
+angry, Momひ
 
 Message 309:
-{F0}, Mom? {PAUSE}{EOM}Ahhhh!!
+{CA} {PAUSE}{EOM}Ahhhh!!
 It's a monster
+cat!!
 
 Message 310:
-
-cat!! {PAUSE}{EOM}{EOM}I hate cats!
-I hatと
+ {PAUSE}{EOM}{EOM}I hate cats!
+I hate you!{PAUSE}
 
 Message 311:
-{DC} you!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010007}Go 
+{EOM}{EOM}{EOM}{EOM}{FACE_010007}Go away! 
 
 Message 312:
-away! {PAUSE}{EOM}{EOM}{EOM}Cats are about their
+{PAUSE}{EOM}{EOM}{EOM}Cats are about their
 own territory. {PAUSE}{WIPE}
 If they don't mark
 it out, they might
-get kiぽ
+get killed! {PAUSE}
 
 Message 313:
-{E3}led! {PAUSE}{EOM}{EOM}{EOM}{EOM}A cats world is
-very inte
+{EOM}{EOM}{EOM}{EOM}A cats world is
+very intense..そ
 
 Message 314:
-nse... {PAUSE}{EOM}The cat just comes
+{C8} {PAUSE}{EOM}The cat just comes
 and runs away as
 it pleases. {PAUSE}{WIPE}
 One minute he wants
 to play, the next
 he runs away. {PAUSE}{WIPE}
 I don't really
-understaケ
+understand himひ
 
 Message 315:
-{E5}d him. {PAUSE}{EOM}Surprisingly even
-cats get lと
+{C8} {PAUSE}{EOM}Surprisingly even
+cats get lonely.
 
 Message 316:
-{E6}nely. {PAUSE}{EOM}{EOM}Grass is important
-to caそ
+ {PAUSE}{EOM}{EOM}Grass is important
+to cats tooそ
 
 Message 317:
-{EB}s too. {PAUSE}{EOM}Cats love to keep
+{C8} {PAUSE}{EOM}Cats love to keep
 clean, so they
 lick themselves. {PAUSE}{WIPE}
 However, they may
@@ -1498,1629 +1498,1628 @@ swallow hair
 accidentally. {PAUSE}{WIPE}
 When that happens
 they eat grass
-to s.
+to spit upr
 
 Message 318:
-{E7}it up. {PAUSE}{EOM}A cat's tail says
+{C8} {PAUSE}{EOM}A cat's tail says
 what his mood is. {PAUSE}{WIPE}
 If his tail is very
 narrow and soft
-then he's 
+then he's happyむ
 
 Message 319:
-happy. {PAUSE}{EOM}If a cat's tail is
+{C8} {PAUSE}{EOM}If a cat's tail is
 whipping around,
-he's not 
+he's not happyそ
 
 Message 320:
-happy. {PAUSE}{EOM}Cats are so cute♪{PAUSE}{WIPE}
+{C8} {PAUSE}{EOM}Cats are so cute♪{PAUSE}{WIPE}
 Their pads and
-ey
+eyes... 
 
 Message 321:
-es... {PAUSE}{EOM}{EOM}{EOM}I want to live just
+{PAUSE}{EOM}{EOM}{EOM}I want to live just
 like a cat does.
 Total freedom.{PAUSE}{WIPE}
 Eee hee hee,
 not really very
-childlike
+childlike is itぎ
 
 Message 322:
- is it? {PAUSE}{EOM}It's going
+{CA} {PAUSE}{EOM}It's going
 "purrrr".
-That's so 
+That's so cute. 
 
 Message 323:
-cute. {PAUSE}{EOM}{EOM}{EOM}I wonder how it
+{PAUSE}{EOM}{EOM}{EOM}I wonder how it
 makes that noise.
-"Purr ざ
+"Purr purr".
 
 Message 324:
-{E7}urr". {PAUSE}{EOM}{EOM}Cats with lots of
+ {PAUSE}{EOM}{EOM}Cats with lots of
 whiskers are
-X
+cuter.
 
 Message 325:
-{DA}uter. {PAUSE}{EOM}{EOM}Awww! It's so small!
+ {PAUSE}{EOM}{EOM}Awww! It's so small!
 He could fit in
-your mouth
+your mouth, Mom!
 
 Message 326:
-, Mom! {PAUSE}{EOM}{EOM}Be careful, buddy.
+ {PAUSE}{EOM}{EOM}Be careful, buddy.
 You might get stepped
-on in the paす
+on in the pasture.
 
 Message 327:
-{EA}ture. {PAUSE}{EOM}{EOM}When they're small,
+ {PAUSE}{EOM}{EOM}When they're small,
 they're one thing,
 and when they grow {PAUSE}
 up bigger, there
-something
+something else.
 
 Message 328:
- else. {PAUSE}{EOM}{EOM}I wonder when their
+ {PAUSE}{EOM}{EOM}I wonder when their
 feathers will start
-to change c
+to change colorsV
 
 Message 329:
-olors. {PAUSE}{EOM}It's a chick.
-What aboへ
+{C8} {PAUSE}{EOM}It's a chick.
+What about it? 
 
 Message 330:
-{EC}t it? {PAUSE}{EOM}{EOM}{EOM}They're so cute when
-they're 
+{PAUSE}{EOM}{EOM}{EOM}They're so cute when
+they're smallと
 
 Message 331:
-small! {PAUSE}{EOM}They'll get all
+{CB} {PAUSE}{EOM}They'll get all
 cheeky when they
 get bigger... {PAUSE}{WIPE}
 You probably say
 the same thing
-about
+about me...
 
 Message 332:
- me... {PAUSE}{EOM}{EOM}This is the only
-time they're
+ {PAUSE}{EOM}{EOM}This is the only
+time they're cute.
 
 Message 333:
- cute.{PAUSE}{EOM}{EOM}{EOM}Right before they
+{PAUSE}{EOM}{EOM}{EOM}Right before they
 become full grown,
 there's a period {PAUSE}
 where they look
 kinda gross. {PAUSE}{WIPE}
 At least they're
-cute fo
+cute for now.
 
 Message 334:
-r now. {PAUSE}{EOM}{EOM}It's a chick.
-So
+ {PAUSE}{EOM}{EOM}It's a chick.
+So what?
 
 Message 335:
- what? {PAUSE}{EOM}{EOM}Oh, when did this
-little guy と
+ {PAUSE}{EOM}{EOM}Oh, when did this
+little guy hatch?
 
 Message 336:
-{DF}atch? {PAUSE}{EOM}{EOM}Humans and
+ {PAUSE}{EOM}{EOM}Humans and
 animals are very
-cute when 
+cute when smallず
 
 Message 337:
-small. {PAUSE}{EOM}Get it back to it's
+{C8} {PAUSE}{EOM}Get it back to it's
 mother, Mom.
-It's cryingシ
+It's crying. {PAUSE}{EOM}{EOM}{EOM}Tho
 
 Message 338:
-{C8} {PAUSE}{EOM}{EOM}{EOM}There, there.
+{DC}re, there.
 Hurry up
-and get bigger.
+and get bigger. {PAUSE}{EOM}{EOM}{EOM}{EOM}WhV
 
 Message 339:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}What the heck
+{D8}t the heck
 is THAT! {PAUSE}{WIPE}
 Chickens are smelly
 and violent!
-I hate themと
+I hate them! {PAUSE}{EOM}{EOM}{EOM}I s
 
 Message 340:
-{CB} {PAUSE}{EOM}{EOM}{EOM}I said I hate
+aid I hate
 chickens!
-Get out of here
+Get out of here! {PAUSE}{EOM}{EOM}AhV
 
 Message 341:
-! {PAUSE}{EOM}{EOM}Ahh!
+{DF}!
 Get that away from
-mぉ
+me! {PAUSE}{EOM}I h
 
 Message 342:
-{DC}! {PAUSE}{EOM}I hate chickens.
+ate chickens.
 It's those wiry
 thin legs that {PAUSE}
 creep me out so
-muchし
+much. {PAUSE}{EOM}{EOM}{EOM}I d
 
 Message 343:
-{C8} {PAUSE}{EOM}{EOM}{EOM}I don't like things
-I don't like
+on't like things
+I don't like. {PAUSE}{EOM}{EOM}Thぽ
 
 Message 344:
-. {PAUSE}{EOM}{EOM}There is such
+{DC}re is such
 a thing as a
 "Fighting Chicken"! {PAUSE}{WIPE}
 That's pretty
-cool
+cool! {PAUSE}{EOM}{EOM}ChV
 
 Message 345:
-! {PAUSE}{EOM}{EOM}Chickens usually
-are in foul moodと
+{E0}ckens usually
+are in foul moods! {PAUSE}{EOM}I h
 
 Message 346:
-{EA}! {PAUSE}{EOM}I heard that in
+eard that in
 foreign countries a
 groom gives that as {PAUSE}
 a present to the
-bride's mother.
+bride's mother. {PAUSE}{EOM}{EOM}{EOM}{EOM}Stぽ
 
 Message 347:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Stressed chickens
+{E9}essed chickens
 can't lay eggs. {PAUSE}{WIPE}
 You probably
 shouldn't hold
-them eitheと
+them either. {PAUSE}{EOM}Wiと
 
 Message 348:
-{E9}. {PAUSE}{EOM}Will this one ever
+{E3}l this one ever
 be able to fly in
-the air
+the air? {PAUSE}{EOM}{EOM}ItV
 
 Message 349:
-? {PAUSE}{EOM}{EOM}It's got wings so
+{F2}s got wings so
 it should be able
-to flシ
+to fly. {PAUSE}{EOM}I d
 
 Message 350:
-{F0}. {PAUSE}{EOM}I don't like
-chickens.ぢ
+on't like
+chickens... {PAUSE}{EOM}Plア
 
 Message 351:
-{C8}. {PAUSE}{EOM}Please take that
-over there..
+{DC}ase take that
+over there... {PAUSE}{EOM}{EOM}Arそ
 
 Message 352:
-. {PAUSE}{EOM}{EOM}Are you making a
-fool of me!
+{DC} you making a
+fool of me!? {PAUSE}{EOM}{EOM}Chへ
 
 Message 353:
-? {PAUSE}{EOM}{EOM}Chickens usually
-are in foul moodと
+{E0}ckens usually
+are in foul moods! {PAUSE}{EOM}A r
 
 Message 354:
-{EA}! {PAUSE}{EOM}A roosters comb
+oosters comb
 is all about
-flash
+flash. {PAUSE}{EOM}{EOM}Thと
 
 Message 355:
-. {PAUSE}{EOM}{EOM}The combs of the
+{DC} combs of the
 hens around here
 are small, but there{PAUSE}
 are some that are
 bigger than even
-a rooster's!
+a rooster's! {PAUSE}{EOM}{EOM}{EOM}{EOM}Heべ
 
 Message 356:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Hey! I said I don't
+{F0}! I said I don't
 like chickens! {PAUSE}{WIPE}
 You know that right,
-Mom
+Mom? {PAUSE}{EOM}{EOM}Ev0
 
 Message 357:
-? {PAUSE}{EOM}{EOM}Even though you know
+{DC}n though you know
 I hate them, still
-you show them to me
+you show them to me? {PAUSE}{EOM}{EOM}Evす
 
 Message 358:
-? {PAUSE}{EOM}{EOM}Even chickens have
+{DC}n chickens have
 something that
 troubles them. {PAUSE}{WIPE}
 Their tails are
-so long.
+so long. {PAUSE}{EOM}{EOM}{EOM}{EOM}Chと
 
 Message 359:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Chickens claws can
-grow longer.
+{E0}ckens claws can
+grow longer. {PAUSE}{EOM}{EOM}{EOM}{EOM}Heぽ
 
 Message 360:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Hey, chicken,
+{F0}, chicken,
 what's new?
 Hm? No clucking?{PAUSE}{WIPE}
 That's okay.
 I know you all
-cluck happily.
+cluck happily. {PAUSE}{EOM}{EOM}{EOM}{EOM}Thシ
 
 Message 361:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}This one's kind
+{E0}s one's kind
 of peculiar. {PAUSE}{WIPE}
 His neck moves
-very quickly..
+very quickly... {PAUSE}{EOM}{EOM}Ah0
 
 Message 362:
-. {PAUSE}{EOM}{EOM}Ahh! Mom!
+{DF}! Mom!
 I don't like to be
-around ducks
+around ducks! {PAUSE}{EOM}{EOM}I s
 
 Message 363:
-! {PAUSE}{EOM}{EOM}I said I don't
+aid I don't
 like ducks!
-Go awayと
+Go away! {PAUSE}{EOM}{EOM}{EOM}Ahと
 
 Message 364:
-{CB} {PAUSE}{EOM}{EOM}{EOM}Ahhhh...!
-Ducks..ろ
+{DF}hh...!
+Ducks...! {PAUSE}{EOM}Duぞ
 
 Message 365:
-{C8}! {PAUSE}{EOM}Ducks can't warm
+{DA}ks can't warm
 their own eggs.
-How terriblざ
+How terrible! {PAUSE}{EOM}Cuざ
 
 Message 366:
-{DC}! {PAUSE}{EOM}Cuckoos are
+{DA}koos are
 like ducks. {PAUSE}{WIPE}
 They can't warm
-their own eggs
+their own eggs. {PAUSE}{EOM}{EOM}DuV
 
 Message 367:
-. {PAUSE}{EOM}{EOM}Ducks are cute.
+{DA}ks are cute.
 They go
-"waddle waddle".
+"waddle waddle". {PAUSE}{EOM}{EOM}{EOM}{EOM}Itろ
 
 Message 368:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}It's cute to see
+{F2}s cute to see
 little ducks on
-their parents backろ
+their parents backs♪{PAUSE}{EOM}{EOM}I c
 
 Message 369:
-{EA}♪{PAUSE}{EOM}{EOM}I can't be around
-ducks
+an't be around
+ducks. {PAUSE}{EOM}{EOM}I w
 
 Message 370:
-. {PAUSE}{EOM}{EOM}I wonder how wild
-ducks live.そ
+onder how wild
+ducks live... {PAUSE}{EOM}Duそ
 
 Message 371:
-{C8}. {PAUSE}{EOM}Ducks are originally
+{DA}ks are originally
 from the wild and
-pretty arrogant.
+pretty arrogant. {PAUSE}{EOM}{EOM}{EOM}{EOM}ThV
 
 Message 372:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}That looks like it
+{D8}t looks like it
 would make a nice
-sound!
+sound! {PAUSE}{EOM}{EOM}{EOM}{EOM}CoV
 
 Message 373:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Coo
+{E6}l!{PAUSE}{EOM}It 
 
 Message 374:
-l!{PAUSE}{EOM}It looks like it
+looks like it
 would make a
-sweet sound
+sweet sound. {PAUSE}{EOM}{EOM}Thぽ
 
 Message 375:
-. {PAUSE}{EOM}{EOM}That's interestinV
+{D8}t's interesting. {PAUSE}{EOM}It 
 
 Message 376:
-{DE}. {PAUSE}{EOM}It looks like it
+looks like it
 might get up and
-move!
+move! {PAUSE}{EOM}{EOM}{EOM}{EOM}Waぽ
 
 Message 377:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Watching it suddenly
+{EB}ching it suddenly
 move around creeps
-me outろ
+me out. {PAUSE}{EOM}{EOM}{EOM}Thシ
 
 Message 378:
-{C8} {PAUSE}{EOM}{EOM}{EOM}That's a little
-creepy..ぉ
+{D8}t's a little
+creepy... {PAUSE}{EOM}{EOM}{EOM}A b
 
 Message 379:
-{C8} {PAUSE}{EOM}{EOM}{EOM}A bug! Is it dead?
+ug! Is it dead?
 {CHOICE3 DEF0}
 It's dead.
 It's a crop.
-You saw it before
+You saw it before.{PAUSE}{EOM}{EOM}{EOM}{FACE_010009}0
 
 Message 380:
-.{PAUSE}{EOM}{EOM}{EOM}{FACE_010009}Really? You need
+{1C}eally? You need
 to put it back in
-the ground then
+the ground then. {PAUSE}{EOM}{EOM}{FACE_01001E}と
 
 Message 381:
-. {PAUSE}{EOM}{EOM}{FACE_01001E}Really ?!
+{1C}eally ?!
 That's weird!{PAUSE}{WIPE}
 I thought it was a
-bug from the city
+bug from the city! {PAUSE}{EOM}{EOM}Oh 
 
 Message 382:
-! {PAUSE}{EOM}{EOM}Oh really?
-Was it a croし
+really?
+Was it a crop? {PAUSE}{EOM}Thぷ
 
 Message 383:
-{E7}? {PAUSE}{EOM}That's a really
+{D8}t's a really
 yucky looking
-shapeV
+shape. {PAUSE}{EOM}{EOM}{EOM}Th0
 
 Message 384:
-{C8} {PAUSE}{EOM}{EOM}{EOM}That's a yucky
-shapeづ
+{D8}t's a yucky
+shape. {PAUSE}{EOM}{EOM}{EOM}Loぼ
 
 Message 385:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Looking at that
+{E6}king at that
 gives me the
-shivers
+shivers. {PAUSE}{EOM}{EOM}Itる
 
 Message 386:
-. {PAUSE}{EOM}{EOM}It's like a light
-bulb.
+{F2}s like a light
+bulb. {PAUSE}{EOM}{EOM}{EOM}{EOM}If 
 
 Message 387:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}If I had that I'd
+I had that I'd
 never be afraid of
-the dark.
+the dark. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010003}ざ
 
 Message 388:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010003}That's such a weird
+{1E}hat's such a weird
 shape! {S_320514}
 {FACE_01000D}It's prettier than
-Mom
+Mom. {PAUSE}{EOM}{EOM}{FACE_010019}V
 
 Message 389:
-. {PAUSE}{EOM}{EOM}{FACE_010019}If people see you
+{C13}f people see you
 walking around with
 something like that, {PAUSE}{WIPE}
 they will start to
 think you're a
-pervert
+pervert! {PAUSE}{EOM}{EOM}{FACE_01001A}シ
 
 Message 390:
-! {PAUSE}{EOM}{EOM}{FACE_01001A}Mom, what are
-you carrying...
+{C17}om, what are
+you carrying... {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010009}ぽ
 
 Message 391:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010009}You're such a
-pervert.V
+{DOG}ou're such a
+pervert... {PAUSE}{EOM}Thつ
 
 Message 392:
-{C8}. {PAUSE}{EOM}That looks like the
+{D8}t looks like the
 taste will be
-differen0
+different. {PAUSE}{EOM}Goせ
 
 Message 393:
-{EB}. {PAUSE}{EOM}Good crops require
-good soil.
+{E6}d crops require
+good soil. {PAUSE}{EOM}{EOM}{EOM}{EOM}Thそ
 
 Message 394:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}The field near the
+{DC} field near the
 forest has better
 soil. {PAUSE}{WIPE}
-See. It's all black.
+See. It's all black. {PAUSE}{EOM}{EOM}{EOM}{EOM}Toし
 
 Message 395:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Too much {C13}{ITEM_0001}{C17}
+{E6} much {C13}{ITEM_0001}{C17}
 is no good for the
-cropsぼ
+crops! {PAUSE}{EOM}{EOM}{EOM}Moろ
 
 Message 396:
-{CB} {PAUSE}{EOM}{EOM}{EOM}Moderation in all
-thingsぃ
+{DB}eration in all
+things!{PAUSE}{EOM}{EOM}{EOM}{EOM}YoV
 
 Message 397:
-{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}You grew that, Mom?
+{EC} grew that, Mom?
 I'd like to try
-growing things too
+growing things too. {PAUSE}{EOM}{EOM}Woぽ
 
 Message 398:
-. {PAUSE}{EOM}{EOM}Won't anybody buy
-thatち
+{E5}'t anybody buy
+that? {PAUSE}{EOM}{EOM}{EOM}Thぞ
 
 Message 399:
-{CA} {PAUSE}{EOM}{EOM}{EOM}Those are crops
-from our farmそ
+{E6}se are crops
+from our farm. {PAUSE}{EOM}{EOM}{EOM}{FACE_010022}そ
 
 Message 400:
-{C8} {PAUSE}{EOM}{EOM}{EOM}{FACE_010022}Ugh...
+{1F}gh...
 That's one ugly
-looking thinス
+looking thing. {PAUSE}{EOM}Diキ
 
 Message 401:
-{DE}. {PAUSE}{EOM}Did you get that
-from our farm
+{DB} you get that
+from our farm? {PAUSE}{EOM}{EOM}{FACE_010021}た
 
 Message 402:
-? {PAUSE}{EOM}{EOM}{FACE_010021}...Oh...
+{C8}..Oh...
 {FACE_010022}I-I wasn't doing
-anything!
+anything! {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010021}ケ
 
 Message 403:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010021}Wow...gorgeous...
+{PREV_80}{E6}w...gorgeous...
 {FACE_010022}I-I didn't say
-anything
+anything! {PAUSE}{EOM}{EOM}{VESTA}'シ
 
 Message 404:
-! {PAUSE}{EOM}{EOM}{VESTA}'s crops
+{EA} crops
 are free of any
-chemicals.
+chemicals. {PAUSE}{EOM}{EOM}{EOM}{EOM}I d
 
 Message 405:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I don't like
+on't like
 the idea of bugs
 crawling on crops, {PAUSE}{WIPE}
 but it still beats
 crops smothered in
-chemicals..
+chemicals... {PAUSE}{EOM}{EOM}Miひ
 
 Message 406:
-. {PAUSE}{EOM}{EOM}Milk is loaded with
+{E3}k is loaded with
 calcium! {PAUSE}{WIPE}
 Mom said that
 you need calcium to
 grow big and strong! {PAUSE}{WIPE}
 {S_3401A5}That's why
-I'm drinking a lot
+I'm drinking a lot! {PAUSE}{EOM}{EOM}MiV
 
 Message 407:
-! {PAUSE}{EOM}{EOM}Milk's nutritiousぽ
+{E3}k's nutritious! {PAUSE}{EOM}{EOM}{EOM}Miぽ
 
 Message 408:
-{CB} {PAUSE}{EOM}{EOM}{EOM}Milk does a body
+{E3}k does a body
 good! {PAUSE}{WIPE}
 I'm gonna drink
-a lot
+a lot. {PAUSE}{EOM}{EOM}I h
 
 Message 409:
-. {PAUSE}{EOM}{EOM}I heard that adult
+eard that adult
 men's stomachs hurt
-if they drink milk.
+if they drink milk. {PAUSE}{EOM}{EOM}{EOM}{EOM}A m
 
 Message 410:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}A milk's taste
+ilk's taste
 depends on the
-cow.
+cow. {PAUSE}{EOM}{EOM}{EOM}{EOM}Whと
 
 Message 411:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}When I get bigger, I
+{DC}n I get bigger, I
 want to try raising
 all sorts of cows {PAUSE}
 and compare all
 different kinds
-of milパ
+of milk. {PAUSE}{EOM}Thパ
 
 Message 412:
-{E2}. {PAUSE}{EOM}That's milk from
+{D8}t's milk from
 our farm!
 Is milking cows fun?
 {CHOICE3 DEF0}
 It's okay...
 It's lots of fun!
-It's harシ
+It's hard.{EOM}{EOM}{EOM}Juシ
 
 Message 413:
-{DB}.{EOM}{EOM}{EOM}Just okay, huh?
-Work really is har
+{EA}t okay, huh?
+Work really is hard!{PAUSE}{EOM}Huと
 
 Message 414:
-d!{PAUSE}{EOM}Hurray! I'm right!
+{E9}ray! I'm right!
 When I get bigger I
-want to raise cowV
+want to raise cows! {PAUSE}{EOM}OhV
 
 Message 415:
-{EA}! {PAUSE}{EOM}Oh... {PAUSE}{WIPE}
+{C8}.. {PAUSE}{WIPE}
 I guess adult work
 has it's hard
-times too..
+times too... {PAUSE}{EOM}{EOM}Frた
 
 Message 416:
-. {PAUSE}{EOM}{EOM}Fresh milk tastes
-greaキ
+{DC}sh milk tastes
+great! {PAUSE}{EOM}"Oぢ
 
 Message 417:
-{EB}! {PAUSE}{EOM}"Okay", huh?
-Hmm..
+{E2}ay", huh?
+Hmm... {PAUSE}{EOM}{EOM}If 
 
 Message 418:
-. {PAUSE}{EOM}{EOM}If it's that fun
+it's that fun
 I want to try it
-out too.
+out too. {PAUSE}{EOM}{EOM}{EOM}{EOM}I s
 
 Message 419:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I see.
+ee.
 Well, I guess work
-is hard.と
+is hard... {PAUSE}{EOM}I w
 
 Message 420:
-{C8}. {PAUSE}{EOM}I want to try the
+ant to try the
 milk they sell in
-the city too0
+the city too. {PAUSE}{EOM}{EOM}{EOM}Stぞ
 
 Message 421:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Star cow milk is
+{D8}r cow milk is
 suitable for either
-milk or butterキ
+milk or butter. {PAUSE}{EOM}{EOM}{EOM}Faて
 
 Message 422:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Fatty milk is best
-suited for butter
+{EB}ty milk is best
+suited for butter. {PAUSE}{EOM}{EOM}Thぅ
 
 Message 423:
-. {PAUSE}{EOM}{EOM}There are all sorts
+{DC}re are all sorts
 of flavors of
-milkセ
+milk. {PAUSE}{EOM}{EOM}{EOM}I'キ
 
 Message 424:
-{C8} {PAUSE}{EOM}{EOM}{EOM}I'm able to identify
+{E4} able to identify
 the different tastes
-of milk
+of milk. {PAUSE}{EOM}{EOM}Thそ
 
 Message 425:
-. {PAUSE}{EOM}{EOM}That's milk from
-our farm
+{D8}t's milk from
+our farm. {PAUSE}{EOM}{EOM}I'だ
 
 Message 426:
-. {PAUSE}{EOM}{EOM}I've heard there are
+{ED}e heard there are
 places where you
 get drenched in {PAUSE}
 milk at the end
-of raceし
+of race. {PAUSE}{EOM}{EOM}{EOM}If 
 
 Message 427:
-{C8} {PAUSE}{EOM}{EOM}{EOM}If you let milk sit
+you let milk sit
 for too long it'll
 spoil. {PAUSE}{WIPE}
 All butter does
-is get all meltし
+is get all melty. {PAUSE}{EOM}Brし
 
 Message 428:
-{F0}. {PAUSE}{EOM}Brown cow milk is
+{E6}wn cow milk is
 better for butter. {PAUSE}{WIPE}
 Marble cow milk is
 better for making
-cheeseシ
+cheese. {PAUSE}{EOM}{EOM}{EOM}Whシ
 
 Message 429:
-{C8} {PAUSE}{EOM}{EOM}{EOM}What's up?
+{D8}t's up?
 Don't you want that
 seed?
 {CHOICE2 DEF0}
 You can have it.
-Of course, I dし
+Of course, I do.{EOM}{EOM}{EOM}Alみ
 
 Message 430:
-{E6}.{EOM}{EOM}{EOM}Alright! I'm going
+{E9}ight! I'm going
 to plant it right
 away! {PAUSE}{WIPE}
 I'm going to a
 secret spot to
-do iし
+do it! {PAUSE}{EOM}Yoし
 
 Message 431:
-{EB}! {PAUSE}{EOM}You're right.
+{EC}'re right.
 After all, it is a
-tool for your work.
+tool for your work. {PAUSE}{EOM}{EOM}{EOM}{EOM}Itち
 
 Message 432:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}It's fun growing
+{F2}s fun growing
 seeds until they
-prosper.
+prosper. {PAUSE}{EOM}{EOM}{EOM}{EOM}Th0
 
 Message 433:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Thanks. Next time
+{D8}nks. Next time
 I'll plant it. {PAUSE}
-In a secret spot.-
+In a secret spot... {PAUSE}{EOM}Yoし
 
 Message 434:
-{C8}. {PAUSE}{EOM}You plant that.
-Duる
+{EC} plant that.
+Duh. {PAUSE}{EOM}Yoで
 
 Message 435:
-{DF}. {PAUSE}{EOM}You shouldn't plant
+{EC} shouldn't plant
 fruit seeds near
-crops..
+crops... {PAUSE}{EOM}{EOM}Frざ
 
 Message 436:
-. {PAUSE}{EOM}{EOM}Fruit seeds are
+{EC}it seeds are
 stronger in life
-than crop seeds.
+than crop seeds. {PAUSE}{EOM}{EOM}{EOM}{EOM}Ocシ
 
 Message 437:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Occasionally cheese
+{DA}asionally cheese
 can breed mold! {PAUSE}{WIPE}
 If you eat that,
 your stomach will
-never forgive youぞ
+never forgive you! {PAUSE}{EOM}{EOM}{EOM}Onケ
 
 Message 438:
-{CB} {PAUSE}{EOM}{EOM}{EOM}Only adults can
+{E3}y adults can
 get any flavor out
-of moldy cheesた
+of moldy cheese! {PAUSE}{EOM}I h
 
 Message 439:
-{DC}! {PAUSE}{EOM}I heard wine goes
+eard wine goes
 good with cheese. {PAUSE}
 But I still can't
-drink wine
+drink wine. {PAUSE}{EOM}{EOM}Whし
 
 Message 440:
-. {PAUSE}{EOM}{EOM}When I grow-up I'm
+{DC}n I grow-up I'm
 going to see if
 it's true. {PAUSE}{WIPE}
 Wine and cheese
-together that is...
+together that is... {PAUSE}{EOM}{EOM}{EOM}{EOM}Itろ
 
 Message 441:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}It'd be cool if I
+{F2}d be cool if I
 could tell which
 cows'milk you use{PAUSE}
-for which cheese
+for which cheese.{PAUSE}{EOM}{EOM}{EOM}If 
 
 Message 442:
-.{PAUSE}{EOM}{EOM}{EOM}If a cow eats cheese,
+a cow eats cheese,
 does the milk taste
-cheesy too
+cheesy too? {PAUSE}{EOM}{EOM}Hoな
 
 Message 443:
-? {PAUSE}{EOM}{EOM}How did you make
+{EE} did you make
 that?
 {CHOICE3 DEF0}
 By machine.
 From milk.
-For {CHAR_2E}
+For {TATSUYA}.{EOM}{EOM}{EOM}Thシ
 
 Message 444:
-
-.{EOM}{EOM}{EOM}The person who made
+{DC} person who made
 that machine is
 amazing. {PAUSE}{WIPE}
 {DARYL} could
 have made something
-like that I thinろ
+like that I think. {PAUSE}{EOM}{FACE_010009}0
 
 Message 445:
-{E2}. {PAUSE}{EOM}{FACE_010009}I know that.{PAUSE}{WIPE}
+{C13} know that.{PAUSE}{WIPE}
 {FACE_010001}Milk can
 make either cheese
-or butterV
+or butter. {PAUSE}{EOM}{EOM}{EOM}{FACE_010009}V
 
 Message 446:
-{C8} {PAUSE}{EOM}{EOM}{EOM}{FACE_010009}Well you're in good
+{PREV_80}{DC}ll you're in good
 spirits, Mom.{PAUSE}{WIPE}
 {FACE_010003}That makes me happy
 to know!
-Thank youし
+Thank you♪{PAUSE}{EOM}{EOM}{EOM}{EOM}Miし
 
 Message 447:
-{D3}{PAUSE}{EOM}{EOM}{EOM}{EOM}Milk can make all
-sorts of things.
+{E3}k can make all
+sorts of things. {PAUSE}{EOM}{EOM}{EOM}{EOM}I w
 
 Message 448:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I wonder what goes
+onder what goes
 on inside that
 machine. {PAUSE}{WIPE}
-Does {DARYL} knowV
+Does {DARYL} know? {PAUSE}{EOM}{EOM}{EOM}I t
 
 Message 449:
-{CA} {PAUSE}{EOM}{EOM}{EOM}I think people who
+hink people who
 first ate cheese
 must have been {PAUSE}
 amazed by it's
 flavor. {PAUSE}{WIPE}
 It has such a subtle
-flavor to it..
+flavor to it... {PAUSE}{EOM}{EOM}I'ぽ
 
 Message 450:
-. {PAUSE}{EOM}{EOM}I'm sure that man
+{E4} sure that man
 thought that cheese
 had was very sour. {PAUSE}{WIPE}
 At least when he
 first put it in
-his mouthシ
+his mouth! {PAUSE}{EOM}{EOM}{EOM}I w
 
 Message 451:
-{CB} {PAUSE}{EOM}{EOM}{EOM}I want to be able to
+ant to be able to
 eat this with some
-wine
+wine. {PAUSE}{EOM}{EOM}If 
 
 Message 452:
-. {PAUSE}{EOM}{EOM}If you boil cheese
+you boil cheese
 in hot water it
 hardens. {PAUSE}{WIPE}
 If you then fry
 it, it gets all
-stringy.
+stringy. {PAUSE}{EOM}{EOM}{EOM}{EOM}Buケ
 
 Message 453:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Burnt cheese is good
-to eat too.
+{E9}nt cheese is good
+to eat too. {PAUSE}{EOM}{EOM}{EOM}{EOM}{GRIFFIN} d
 
 Message 454:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}{GRIFFIN} doesn't
+oesn't
 have any wine. {PAUSE}{WIPE}
 I wonder if it
 goes well with
-cheeseス
+cheese? {PAUSE}{EOM}{EOM}{EOM}Goス
 
 Message 455:
-{CA} {PAUSE}{EOM}{EOM}{EOM}Goat cheese has a
+{D8}t cheese has a
 huge peculiarity
 about it. {PAUSE}{WIPE}
 People either
-love it or hate iま
+love it or hate it.{PAUSE}{EOM}{EOM}Buへ
 
 Message 456:
-{EB}.{PAUSE}{EOM}{EOM}Butter is strange.
+{EB}ter is strange.
 Milk is white but
-butter is yellowシ
+butter is yellow. {PAUSE}{EOM}{EOM}{EOM}Maシ
 
 Message 457:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Maybe butter is
+{F0}be butter is
 yellow because it
-has corn inside iで
+has corn inside it? {PAUSE}{EOM}Buと
 
 Message 458:
-{EB}? {PAUSE}{EOM}Butter also tastes
+{EB}ter also tastes
 best when it's
-natural.
+natural. {PAUSE}{EOM}{EOM}{EOM}{EOM}It0
 
 Message 459:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}It's the butter
-you made, Momた
+{F2}s the butter
+you made, Mom. {PAUSE}{EOM}{EOM}{EOM}Buた
 
 Message 460:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Butter is yellow due
+{EB}ter is yellow due
 to the beta-carotene
 inside. {PAUSE}{WIPE}
 Of course you knew
-that already, rightシ
+that already, right? {PAUSE}{EOM}{EOM}{EOM}Buz
 
 Message 461:
-{CA} {PAUSE}{EOM}{EOM}{EOM}Butter has a lot
-of fat in iへ
+{EB}ter has a lot
+of fat in it. {PAUSE}{EOM}Itへ
 
 Message 462:
-{EB}. {PAUSE}{EOM}It's the butter you
+{F2}s the butter you
 made, Mom. {PAUSE}
-What about it
+What about it? {PAUSE}{EOM}{EOM}Whざ
 
 Message 463:
-? {PAUSE}{EOM}{EOM}What about it?
+{D8}t about it? {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010004}ぺ
 
 Message 464:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010004}What!
+{PREV_80}{DF}at!
 What do you want me
-to do with thatせ
+to do with that?{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010002}0
 
 Message 465:
-{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010002}What's that?
+{PREV_80}{DF}at's that?
 What do you want me
-to do with that
+to do with that?{PAUSE}{EOM}{EOM}{EOM}Whh
 
 Message 466:
-?{PAUSE}{EOM}{EOM}{EOM}What came first
+{D8}t came first
 the chicken
-or the eggb
+or the egg? {PAUSE}{EOM}{EOM}{EOM}I g
 
 Message 467:
-{CA} {PAUSE}{EOM}{EOM}{EOM}I guess that's a
+uess that's a
 egg that'll hatch... {PAUSE}
 Hmm, I can't tell
-the difference yetと
+the difference yet. {PAUSE}{EOM}{EOM}{EOM}Egと
 
 Message 468:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Eggs taste delicious
+{DE}s taste delicious
 if you cook them
-a little.
+a little. {PAUSE}{EOM}{EOM}{EOM}{EOM}Whぞ
 
 Message 469:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Whatever a baby bird
+{D8}tever a baby bird
 sees first becomes
 their parent. {PAUSE}{WIPE}
 That's called
-imprinting.
+imprinting. {PAUSE}{EOM}{EOM}{EOM}{EOM}Of 
 
 Message 470:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Of course eggs have
+course eggs have
 lots of nutrition! {PAUSE}{WIPE}
 They can become
-baby birds
+baby birds! {PAUSE}{EOM}{EOM}{HUGH}'V
 
 Message 471:
-! {PAUSE}{EOM}{EOM}{HUGH}'s dad
+{EA} dad
 can drink raw eggs.
-That's crazyu
+That's crazy. {PAUSE}{EOM}{EOM}{EOM}Wh1
 
 Message 472:
-{C8} {PAUSE}{EOM}{EOM}{EOM}When a hen lays an
+{DC}n a hen lays an
 egg, the egg drops
-straight down.
+straight down. {PAUSE}{EOM}{EOM}{EOM}{EOM}Biち
 
 Message 473:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Birds are mysterious
+{E9}ds are mysterious
 creatures... {PAUSE}{WIPE}
 They're able to
 make things inside
-their bodies..
+their bodies... {PAUSE}{EOM}{EOM}Beず
 
 Message 474:
-. {PAUSE}{EOM}{EOM}Because eggs are
+{DA}ause eggs are
 known to contain
 salmonella, it's {PAUSE}
 recommended that
 it be cooked for
-about a minute.
+about a minute. {PAUSE}{EOM}{EOM}{EOM}{EOM}Thぼ
 
 Message 475:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}The white of an egg
+{DC} white of an egg
 is called "chalaza". {PAUSE}{WIPE}
 It's said to have a
 special purpose
 inside the egg. {PAUSE}{WIPE}
 I'm sure you knew
-that alreadye
+that already. {PAUSE}{EOM}{EOM}{EOM}Hed
 
 Message 476:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Hey, Mom.{PAUSE}{WIPE}
+{F0}, Mom.{PAUSE}{WIPE}
 Can you tell which
 eggs will hatch
 by looking at them?
 {CHOICE2 DEF0}
 Not a clue.
-Of course I can
+Of course I can.{EOM}{EOM}{EOM}{EOM}Thづ
 
 Message 477:
-.{EOM}{EOM}{EOM}{EOM}That's true.
-They all look alikぽ
+{D8}t's true.
+They all look alike. {PAUSE}{EOM}Reぽ
 
 Message 478:
-{DC}. {PAUSE}{EOM}Really? Wow!
+{D8}lly? Wow!
 You're able to
 understand that? {PAUSE}{WIPE}
 Do you think I
 could learn to do
-that somedaシ
+that someday? {PAUSE}{EOM}ThT
 
 Message 479:
-{F0}? {PAUSE}{EOM}That's huge!
+{D8}t's huge!
 Did you catch that?
 {CHOICE2 DEF0}
 Of course!
-Got it from {MURREY}
+Got it from {MURREY}.{EOM}{EOM}{EOM}{EOM}Woす
 
 Message 480:
-.{EOM}{EOM}{EOM}{EOM}Wow, Mom!
+{EE}, Mom!
 Next time teach me
-how to do thatで
+how to do that. {PAUSE}{EOM}{EOM}{EOM}Huス
 
 Message 481:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Huh? You got that
+{DF}? You got that
 from {MURREY}? {PAUSE}{WIPE}
 He had to have
 caught it with his
 bare hands. {PAUSE}{WIPE}
 Well he doesn't have
-a fishing pole so.3
+a fishing pole so... {PAUSE}{EOM}Re0
 
 Message 482:
-{C8}. {PAUSE}{EOM}Really?
+{D8}lly?
 That deserves some
-congratulations.
+congratulations. {PAUSE}{EOM}{EOM}{EOM}{EOM}Thざ
 
 Message 483:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}That's big.
+{D8}t's big.
 I want to catch one
-that big toシ
+that big too. {PAUSE}{EOM}JuT
 
 Message 484:
-{E6}. {PAUSE}{EOM}Just as I thought.
+{EA}t as I thought.
 Fish makes the
-best meal
+best meal. {PAUSE}{EOM}{EOM}MoT
 
 Message 485:
-. {PAUSE}{EOM}{EOM}Mom, did
+{E4}, did
 you catch that?
 {CHOICE2 DEF0}
 That's right.
-Piece of cake
+Piece of cake.{EOM}{EOM}{EOM}{EOM}Hmシ
 
 Message 486:
-.{EOM}{EOM}{EOM}{EOM}Hmm...
+{E4}...
 That's no big deal. {PAUSE}{WIPE}
 Next time I'll
 catch a bigger one
 than you! {PAUSE}{WIPE}
 If you're lucky,
 maybe I'll tell
-you how to do it
+you how to do it. {PAUSE}{EOM}{EOM}Grむ
 
 Message 487:
-. {PAUSE}{EOM}{EOM}Grrr...
-That's no big thing
+{E9}r...
+That's no big thing. {PAUSE}{EOM}{EOM}Thへ
 
 Message 488:
-. {PAUSE}{EOM}{EOM}That's nothing
-big really.へ
+{D8}t's nothing
+big really... {PAUSE}{EOM}Thへ
 
 Message 489:
-{C8}. {PAUSE}{EOM}That's huge.
+{D8}t's huge.
 Mom did you catch
 that?
 {CHOICE2 DEF0}
 Not me.
-It was all mす
+It was all me.{EOM}{EOM}{EOM}Whす
 
 Message 490:
-{DC}.{EOM}{EOM}{EOM}What? Not you? {PAUSE}{WIPE}
+{D8}t? Not you? {PAUSE}{WIPE}
 I guess it's not
 easy to catch one
 big as that. {PAUSE}{WIPE}
 We should have a
 fish competition
-next timeぜ
+next time. {PAUSE}{EOM}{EOM}{EOM}Ooむ
 
 Message 491:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Oooh, cool.
+{E6}h, cool.
 Next time teach me
-how you did thato
+how you did that? {PAUSE}{EOM}{EOM}{EOM}Hoe
 
 Message 492:
-{CA} {PAUSE}{EOM}{EOM}{EOM}How did you ever
-catch that fish
+{EE} did you ever
+catch that fish? {PAUSE}{EOM}{EOM}Itぽ
 
 Message 493:
-? {PAUSE}{EOM}{EOM}It's really awkward
+{F2}s really awkward
 if you're sitting
 next to someone {PAUSE}
 who's been waiting
 a long time and then
-you catch a big onそ
+you catch a big one.{PAUSE}{EOM}{EOM}Thシ
 
 Message 494:
-{DC}.{PAUSE}{EOM}{EOM}That flavor is
-suited for adultぽ
+{D8}t flavor is
+suited for adults.{PAUSE}{EOM}{EOM}Diぽ
 
 Message 495:
-{EA}.{PAUSE}{EOM}{EOM}Did you make that?
+{DB} you make that?
 {CHOICE2 DEF0}
 That's right!
-Nopび
+Nope.{EOM}{EOM}{EOM}Woぃ
 
 Message 496:
-{DC}.{EOM}{EOM}{EOM}Wow, Mom!
+{EE}, Mom!
 Your cooking is
-really good!
+really good! {PAUSE}{EOM}{EOM}{EOM}{EOM}I t
 
 Message 497:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I thought that you
-cooked iへ
+hought that you
+cooked it. {PAUSE}{EOM}Moへ
 
 Message 498:
-{EB}. {PAUSE}{EOM}Mom's food is
+{E4}'s food is
 the best in the
-whole world
+whole world. {PAUSE}{EOM}{EOM}WoV
 
 Message 499:
-. {PAUSE}{EOM}{EOM}Wow, you must have
+{EE}, you must have
 some talent to
-cook like thaケ
+cook like that. {PAUSE}{EOM}Woh
 
 Message 500:
-{EB}. {PAUSE}{EOM}Wow, that's just...
+{EE}, that's just...
 You cooked...?
-Woシ
+Wow. {PAUSE}{EOM}Woス
 
 Message 501:
-{EE}. {PAUSE}{EOM}Wow, you're
-really gooオ
+{EE}, you're
+really good. {PAUSE}{EOM}Thで
 
 Message 502:
-{DB}. {PAUSE}{EOM}That looks really
-goodし
+{D8}t looks really
+good. {PAUSE}{EOM}{EOM}{EOM}{RUBY}'し
 
 Message 503:
-{C8} {PAUSE}{EOM}{EOM}{EOM}{RUBY}'s cooking
-is really good.
+{EA} cooking
+is really good. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010022}へ
 
 Message 504:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010022}Don't sound
+{0E}on't sound
 so proud of it! It's
 a mess!{PAUSE}{WIPE}
 Go ask {RUBY} to
 teach you how to
-cookむ
+cook.{PAUSE}{EOM}{EOM}{EOM}{EOM}Yoみ
 
 Message 505:
-{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}You're right.
+{EC}'re right.
 Mom's cooking is
 much better. {PAUSE}{WIPE}
 {FACE_01000C}Plus look at how
-bad that is..
+bad that is... {PAUSE}{EOM}{EOM}Caし
 
 Message 506:
-. {PAUSE}{EOM}{EOM}Can you possibly
-eat that...?
+{E5} you possibly
+eat that...? {PAUSE}{EOM}{EOM}{EOM}{EOM}My 
 
 Message 507:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}My stomach will
-die if I eat thaぽ
+stomach will
+die if I eat that. {PAUSE}{EOM}{FACE_010022}ぽ
 
 Message 508:
-{EB}. {PAUSE}{EOM}{FACE_010022}Mom, do you feel
+{C17}om, do you feel
 okay? {PAUSE}{WIPE}
 Try not to collapse
-on the floor
+on the floor. {PAUSE}{EOM}{EOM}{FACE_010003}す
 
 Message 509:
-. {PAUSE}{EOM}{EOM}{FACE_010003}Ha ha ha!!
+{C12}a ha ha!!
 You're terrible at
-cooking!
+cooking! {PAUSE}{EOM}{EOM}{EOM}{EOM}Moヅ
 
 Message 510:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Mom, you're
-so bad at cookingち
+{E4}, you're
+so bad at cooking.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thち
 
 Message 511:
-{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}That looks
-delicious
+{D8}t looks
+delicious. {PAUSE}{EOM}{EOM}WoV
 
 Message 512:
-. {PAUSE}{EOM}{EOM}Wow, you're really
-good at thatぽ
+{EE}, you're really
+good at that. {PAUSE}{EOM}{EOM}{EOM}Oh楽
 
 Message 513:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Oh, it's not
+{05} it's not? {PAUSE}{EOM}{EOM}{FACE_010003}く
 
 Message 514:
-? {PAUSE}{EOM}{EOM}{FACE_010003}That looks REALLY
-goodV
+{1E}hat looks REALLY
+good! {PAUSE}{EOM}{EOM}{EOM}Woま
 
 Message 515:
-{CB} {PAUSE}{EOM}{EOM}{EOM}Wow, that's really
-gooた
+{EE}, that's really
+good. {PAUSE}{EOM}Thろ
 
 Message 516:
-{DB}. {PAUSE}{EOM}That looks
-delicious
+{D8}t looks
+delicious. {PAUSE}{EOM}{EOM}{FACE_010002}C
 
 Message 517:
-. {PAUSE}{EOM}{EOM}{FACE_010002}Trying to show off?
+{1E}rying to show off?
 Not quite yet,
-Momぢ
+Mom. {PAUSE}{EOM}{EOM}{EOM}Oh声
 
 Message 518:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Oh, it wasn't you?
+{05} it wasn't you?
 Good, cause it's
-really terrible
+really terrible. {PAUSE}{EOM}{EOM}Wha
 
 Message 519:
-. {PAUSE}{EOM}{EOM}What's that?
+{D8}t's that?
 It smells really
-strange..ぢ
+strange... {PAUSE}{EOM}{EOM}{EOM}{FACE_010006}ろ
 
 Message 520:
-{C8} {PAUSE}{EOM}{EOM}{EOM}{FACE_010006}Don't bring that
+{0E}on't bring that
 near me! {PAUSE}{WIPE}
 It makes me feel
-sick.
+sick. {PAUSE}{EOM}{EOM}{EOM}{EOM}If 
 
 Message 521:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}If I eat that my
+I eat that my
 stomach might
-collaps.
+collapse. {PAUSE}{EOM}Gr1
 
 Message 522:
-{DC}. {PAUSE}{EOM}Great job!
+{DC}at job!
 Yours might even
-beat {RUBY}
+beat {RUBY}. {PAUSE}{EOM}{EOM}Noと
 
 Message 523:
-. {PAUSE}{EOM}{EOM}Not bad!
+{EB} bad!
 Why not open up
-a shoち
+a shop? {PAUSE}{EOM}Hmち
 
 Message 524:
-{E7}? {PAUSE}{EOM}Hmm...
+{E4}...
 That looks really
-good
+good. {PAUSE}{EOM}{EOM}{FACE_010022}ち
 
 Message 525:
-. {PAUSE}{EOM}{EOM}{FACE_010022}What do you mean
+{PREV_80}{DF}at do you mean
 "that's right!"? {PAUSE}{WIPE}
 Have you even looked
-at the color it iと
+at the color it is? {PAUSE}{EOM}Arめ
 
 Message 526:
-{EA}? {PAUSE}{EOM}Are you sure it's
+{DC} you sure it's
 food? {PAUSE}{WIPE}
 It's a weird color.
 Bugs could even
-be in it..す
+be in it... {PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}せ
 
 Message 527:
-{C8} {PAUSE}{EOM}{EOM}{EOM}{FACE_01001E}Ick! {S_3204B0}
+{C13}ck! {S_3204B0}
 It smells so bad!!
 {FACE_010022}What IS that?!
-{FACE_010007}{S_3204B0}It stinks!!
+{FACE_010007}{S_3204B0}It stinks!! {PAUSE}{EOM}{EOM}{EOM}{EOM}I d
 
 Message 528:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I don't know what
-color that is...
+on't know what
+color that is... {PAUSE}{EOM}{EOM}{EOM}{EOM}Diと
 
 Message 529:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Did {RUBY} teach
-you a good recipe?
+{DB} {RUBY} teach
+you a good recipe? {PAUSE}{EOM}{EOM}{EOM}{EOM}Yoち
 
 Message 530:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}You just bought
+{EC} just bought
 that?
 It's really clean. {PAUSE}{WIPE}
 Has it ever been
-used?
+used? {PAUSE}{EOM}{EOM}{EOM}{EOM}Thへ
 
 Message 531:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}That's gotten
+{D8}t's gotten
 really filthy. {PAUSE}{WIPE}
 I guess your hands
 have gotten used
-to iと
+to it. {PAUSE}{EOM}Yoし
 
 Message 532:
-{EB}. {PAUSE}{EOM}You've used that
+{EC}'ve used that
 a long time! {PAUSE}{WIPE}
 It's almost like
 it's a part of
-your bodし
+your body. {PAUSE}{EOM}Thせ
 
 Message 533:
-{F0}. {PAUSE}{EOM}That a oddly shaped
+{D8}t a oddly shaped
 hoe! {PAUSE}{WIPE}
 It looks like it has
-some power in it
+some power in it. {PAUSE}{EOM}{EOM}Thス
 
 Message 534:
-. {PAUSE}{EOM}{EOM}That's a heavy
+{D8}t's a heavy
 looking hoe. {PAUSE}{WIPE}
 I bet if use that
-you'll get strongし
+you'll get strong. {PAUSE}{EOM}{EOM}{EOM}I h
 
 Message 535:
-{C8} {PAUSE}{EOM}{EOM}{EOM}I heard that people
+eard that people
 could predict the
 weather by looking {PAUSE}
 at the blades of
 hoes or sickles.
-That's amazing
+That's amazing. {PAUSE}{EOM}{EOM}Thひ
 
 Message 536:
-. {PAUSE}{EOM}{EOM}That's a oddly
-shaped thing
+{D8}t's a oddly
+shaped thing. {PAUSE}{EOM}{EOM}Thへ
 
 Message 537:
-. {PAUSE}{EOM}{EOM}That's so dirty.
+{D8}t's so dirty.
 I don't want that. {PAUSE}{WIPE}
 Why not buy a
-new oneす
+new one? {PAUSE}{EOM}{EOM}{EOM}Thす
 
 Message 538:
-{CA} {PAUSE}{EOM}{EOM}{EOM}That's a hoe right?
+{D8}t's a hoe right?
 What are you going
-to do with thatぽ
+to do with that? {PAUSE}{EOM}{EOM}{EOM}Thぽ
 
 Message 539:
-{CA} {PAUSE}{EOM}{EOM}{EOM}That sickle has an
+{D8}t sickle has an
 peculiar shape. {PAUSE}{WIPE}
 I wonder what kind
 of people used it
-originallyぺ
+originally. {PAUSE}{EOM}{EOM}{EOM}Thる
 
 Message 540:
-{C8} {PAUSE}{EOM}{EOM}{EOM}That's so dirty
-and it smellsち
+{D8}t's so dirty
+and it smells. {PAUSE}{EOM}{EOM}{EOM}Thち
 
 Message 541:
-{C8} {PAUSE}{EOM}{EOM}{EOM}That's yours right?
+{D8}t's yours right?
 What are you going
-to do with that
+to do with that? {PAUSE}{EOM}{EOM}Thシ
 
 Message 542:
-? {PAUSE}{EOM}{EOM}That's seen a lot
+{D8}t's seen a lot
 of seasons. {PAUSE}{WIPE}
 Why not buy a
-new one
+new one? {PAUSE}{EOM}{EOM}Yoし
 
 Message 543:
-? {PAUSE}{EOM}{EOM}You want me to help?
-I can't do that.
+{EC} want me to help?
+I can't do that. {PAUSE}{EOM}{EOM}{EOM}{EOM}Thむ
 
 Message 544:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}That's a nasty
+{D8}t's a nasty
 looking sickle. {PAUSE}{WIPE}
 Why don't you
-buy a new one?
+buy a new one? {PAUSE}{EOM}{EOM}{EOM}{EOM}Tr0
 
 Message 545:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Try not to get
-hurt Momそ
+{F0} not to get
+hurt Mom. {PAUSE}{EOM}{EOM}{EOM}ThV
 
 Message 546:
-{C8} {PAUSE}{EOM}{EOM}{EOM}That watering can
+{D8}t watering can
 will grow trees?
 That's strange. {PAUSE}{WIPE}
 Is that really what
-it's made forむ
+it's made for? {PAUSE}{EOM}{EOM}{EOM}Woぢ
 
 Message 547:
-{CA} {PAUSE}{EOM}{EOM}{EOM}Wow, that's really
+{EE}, that's really
 been used. {PAUSE}{WIPE}
 Looks like it's got
 a hole in it. {PAUSE}{WIPE}
 Maybe you should buy
-another one?
+another one? {PAUSE}{EOM}{EOM}{EOM}{EOM}Isシ
 
 Message 548:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Isn't that your
+{E5}'t that your
 watering can? {PAUSE}{WIPE}
 What are you going
-to do with thaな
+to do with that? {PAUSE}{EOM}Thな
 
 Message 549:
-{EB}? {PAUSE}{EOM}That can grow trees?
+{D8}t can grow trees?
 I don't believe
-thaぽ
+that. {PAUSE}{EOM}Thる
 
 Message 550:
-{EB}. {PAUSE}{EOM}That watering can
+{D8}t watering can
 looks like it has
-holes in it..C
+holes in it... {PAUSE}{EOM}{EOM}{EOM}Is 
 
 Message 551:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Is it true that if
+it true that if
 you play music while
 you're milking, that {PAUSE}
 cows will give you
-a lot of milkこ
+a lot of milk? {PAUSE}{EOM}{EOM}{EOM}I w
 
 Message 552:
-{CA} {PAUSE}{EOM}{EOM}{EOM}I wonder what kind
+onder what kind
 of device makes it
 work? {PAUSE}{WIPE}
 The person who
 created it must
-be amazingキ
+be amazing. {PAUSE}{EOM}{EOM}{EOM}Goシ
 
 Message 553:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Goats are like cows. {PAUSE}{WIPE}
+{D8}ts are like cows. {PAUSE}{WIPE}
 It's important to
 have a rhythm when
-your milkinし
+your milking. {PAUSE}{EOM}Thそ
 
 Message 554:
-{DE}. {PAUSE}{EOM}That's really
+{D8}t's really
 really old. {PAUSE}{WIPE}
 Does it even
-work anymore..V
+work anymore...? {PAUSE}{EOM}YoV
 
 Message 555:
-{C8}? {PAUSE}{EOM}You can milk cows
+{EC} can milk cows
 with that?
-Even I know thatざ
+Even I know that. {PAUSE}{EOM}{EOM}{EOM}Puざ
 
 Message 556:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Pulling a cows
+{E3}ling a cows
 udders hurts it's
 blood vessels, {PAUSE}{WIPE}
 but lots of milk
-comes out
+comes out. {PAUSE}{EOM}{EOM}Goむ
 
 Message 557:
-. {PAUSE}{EOM}{EOM}Goats have two
+{D8}ts have two
 udders. {PAUSE}{WIPE}
 Of course you knew
-that already..
+that already... {PAUSE}{EOM}{EOM}Maす
 
 Message 558:
-. {PAUSE}{EOM}{EOM}Man that's old..
+{E5} that's old... {PAUSE}{EOM}{EOM}Hmぽ
 
 Message 559:
-. {PAUSE}{EOM}{EOM}Hmm?
+{E4}?
 You want me to help? {PAUSE}{WIPE}
 {FACE_010019}Oh, you mean use my
-hands to milk themV
+hands to milk them? {PAUSE}{EOM}{EOM}{EOM}YoV
 
 Message 560:
-{CA} {PAUSE}{EOM}{EOM}{EOM}You want me to
+{EC} want me to
 help? {PAUSE}{WIPE}
 I don't want to
 steal your work
-though..ス
+though... {PAUSE}{EOM}{EOM}{EOM}Hmス
 
 Message 561:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Hmm? Black hair
+{E4}? Black hair
 on the clippers? {PAUSE}{WIPE}
 Are there black
-sheep...?
+sheep...? {PAUSE}{EOM}{EOM}{EOM}{EOM}Wh0
 
 Message 562:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Why is there black
+{F0} is there black
 hair on there...? {PAUSE}{WIPE}
 I know, you must
 have been cutting
-someone's hair.
+someone's hair. {PAUSE}{EOM}{EOM}{EOM}{EOM}Thi
 
 Message 563:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}There are places
+{DC}re are places
 where shearing
-contests are helち
+contests are held. {PAUSE}{EOM}{FACE_010024}ち
 
 Message 564:
-{DB}. {PAUSE}{EOM}{FACE_010024}You could even
+{DOG}ou could even
 clear the pasture
-with that..0
+with that... {PAUSE}{EOM}{EOM}{EOM}If 
 
 Message 565:
-{C8} {PAUSE}{EOM}{EOM}{EOM}If you used that
+you used that
 to cut hair
 everyday, you'd{PAUSE}
 have an amazing
-griし
+grip. {PAUSE}{EOM}I w
 
 Message 566:
-{E7}. {PAUSE}{EOM}I wonder if you
+onder if you
 could use those
 shears for art{PAUSE}
 projects.
 Probably not,
-too biそ
+too big. {PAUSE}{EOM}{FACE_010022}し
 
 Message 567:
-{DE}. {PAUSE}{EOM}{FACE_010022}The sheep make such
+{1E}he sheep make such
 sad faces after
 they're shorn. {PAUSE}{WIPE}
 I feel so sorry
-for them.ヲ
+for them... {PAUSE}{EOM}Thヲ
 
 Message 568:
-{C8}. {PAUSE}{EOM}That's old. {PAUSE}{WIPE}
+{D8}t's old. {PAUSE}{WIPE}
 You're not going
 to cut anything
-with that
+with that. {PAUSE}{EOM}{EOM}IsV
 
 Message 569:
-. {PAUSE}{EOM}{EOM}Isn't that yours?
+{E5}'t that yours?
 What are you going
-to do with that
+to do with that? {PAUSE}{EOM}{EOM}I s
 
 Message 570:
-? {PAUSE}{EOM}{EOM}I should start
+hould start
 shaving soon... {PAUSE}{WIPE}
 Oh, I was just
-talking to myself
+talking to myself. {PAUSE}{EOM}{EOM}If 
 
 Message 571:
-. {PAUSE}{EOM}{EOM}If you used those
+you used those
 everyday you'd
 have a strong grip. {PAUSE}{WIPE}
 It would probably
 be good as a weight
-training tool.
+training tool. {PAUSE}{EOM}{EOM}{EOM}{EOM}Do9
 
 Message 572:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Don't the sheep get
+{E5}'t the sheep get
 cold after they
 get sheared? {PAUSE}{WIPE}
 I feel kind of
-bad for them.
+bad for them. {PAUSE}{EOM}{EOM}{EOM}{EOM}I d
 
 Message 573:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I don't think that
-will cut anymore.
+on't think that
+will cut anymore. {PAUSE}{EOM}{EOM}{EOM}{EOM}I g
 
 Message 574:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I get kind of
+et kind of
 excited when I
-look at thatt
+look at that. {PAUSE}{EOM}{EOM}{EOM}Af0
 
 Message 575:
-{C8} {PAUSE}{EOM}{EOM}{EOM}After seeing the
+{EB}er seeing the
 blade tool, the heart
 beat so quickly.{PAUSE}
 {FACE_01000D}...Don't care
-too muc
+too much.{PAUSE}{EOM}Itヲ
 
 Message 576:
-h.{PAUSE}{EOM}It's fun to watch
+{F2}s fun to watch
 the float go far! {PAUSE}{WIPE}
 I'd like to send it
 farther, but I'd
-need the oceaケ
+need the ocean. {PAUSE}{EOM}Thn
 
 Message 577:
-{E5}. {PAUSE}{EOM}The moment when you
+{DC} moment when you
 see the float go
 sailing across the {PAUSE}
 sky makes me
-feel gooす
+feel good. {PAUSE}{EOM}Itめ
 
 Message 578:
-{DB}. {PAUSE}{EOM}It's fun to wait
+{F2}s fun to wait
 for the fish to
-bite
+bite! {PAUSE}{EOM}{EOM}I g
 
 Message 579:
-! {PAUSE}{EOM}{EOM}I get a little
+et a little
 anxious watching
-the float sink.
+the float sink. {PAUSE}{EOM}{EOM}{EOM}{EOM}I w
 
 Message 580:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I won't be surprised
+on't be surprised
 when that rod
-breakt
+breaks. {PAUSE}{EOM}Yo0
 
 Message 581:
-{EA}. {PAUSE}{EOM}You're not going
+{EC}'re not going
 to catch a big
-fish with thaざ
+fish with that. {PAUSE}{EOM}Yoざ
 
 Message 582:
-{EB}. {PAUSE}{EOM}You've really used
+{EC}'ve really used
 that a lot. {PAUSE}{WIPE}
 I guess you know
 the right way to
-fisと
+fish. {PAUSE}{EOM}Heと
 
 Message 583:
-{DF}. {PAUSE}{EOM}Hey, that's the same
+{F0}, that's the same
 fishing pole I saw
 on Greg's TV. {PAUSE}{WIPE}
 Are you gonna go
-fishing? Are you?
+fishing? Are you? {PAUSE}{EOM}{EOM}{EOM}{EOM}I w
 
 Message 584:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I want to see a
+ant to see a
 huge fish while
 out on a boat. {PAUSE}{WIPE}
 Hanging on a
 nice fat fishing
-rodヲ
+rod. {PAUSE}{EOM}{EOM}{EOM}Evヲ
 
 Message 585:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Even small fish have
+{DC}n small fish have
 tremendous pulling
 power in water. {PAUSE}{WIPE}
 It's pretty
-amazing
+amazing. {PAUSE}{EOM}{EOM}I t
 
 Message 586:
-. {PAUSE}{EOM}{EOM}I think that
+hink that
 rod has had it. {PAUSE}{WIPE}
 Still, it does
-suit you, Momす
+suit you, Mom. {PAUSE}{EOM}{EOM}{EOM}Yoす
 
 Message 587:
-{C8} {PAUSE}{EOM}{EOM}{EOM}You won't be
+{EC} won't be
 catching anything
-big with thatざ
+big with that. {PAUSE}{EOM}{EOM}{EOM}Thざ
 
 Message 588:
-{C8} {PAUSE}{EOM}{EOM}{EOM}That rod looks like
+{D8}t rod looks like
 it must have got
-something hugeキ
+something huge! {PAUSE}{EOM}{EOM}{EOM}Juシ
 
 Message 589:
-{CB} {PAUSE}{EOM}{EOM}{EOM}Just because you
+{EA}t because you
 have a good rod
 doesn't mean {PAUSE}
 you can catch
-fish
+fish. {PAUSE}{EOM}{EOM}Neま
 
 Message 590:
-. {PAUSE}{EOM}{EOM}Next time can I
+{EF}t time can I
 borrow it? {PAUSE}{WIPE}
 I'll definitely
 catch a fish
-with thatV
+with that. {PAUSE}{EOM}{EOM}{EOM}ItV
 
 Message 591:
-{C8} {PAUSE}{EOM}{EOM}{EOM}It's fun to feed
-animals by hand
+{F2}s fun to feed
+animals by hand♪{PAUSE}{EOM}{EOM}{EOM}I l
 
 Message 592:
-♪{PAUSE}{EOM}{EOM}{EOM}I like to feed
+ike to feed
 the animals,
 but I feel bad {PAUSE}
 they have to wait
-for me to do it.
+for me to do it. {PAUSE}{EOM}{EOM}{EOM}{EOM}If 
 
 Message 593:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}If you carry that
+you carry that
 near the animals
 all can see is {PAUSE}
 the food, not you. {PAUSE}{WIPE}
 That's a little
-scarろ
+scary. {PAUSE}{EOM}{FACE_01000D}シ
 
 Message 594:
-{F0}. {PAUSE}{EOM}{FACE_01000D}I'm not an
-animal, silly...
+{C13}'m not an
+animal, silly... {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010002}ち
 
 Message 595:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010002}I'm not an animal.ぞ
+{C13}'m not an animal... {PAUSE}{EOM}Moて
 
 Message 596:
-{C8}. {PAUSE}{EOM}Mom do you
+{E4} do you
 have enough feed? {PAUSE}{WIPE}
 You should double
-check your stock
+check your stock. {PAUSE}{EOM}{EOM}Thし
 
 Message 597:
-. {PAUSE}{EOM}{EOM}There's all different
+{DC}re's all different
 kinds of compost. {PAUSE}{WIPE}
 The soil around here
 is just so-so. {PAUSE}{WIPE}
 {VESTA} said
 just one kind is
-enoug0
+enough! {PAUSE}{EOM}Coぜ
 
 Message 598:
-{DF}! {PAUSE}{EOM}Compost... {PAUSE}
+{E4}post... {PAUSE}
 {FACE_010004}"Too much and you'll
-ruin everything!"
+ruin everything!" {PAUSE}{EOM}{EOM}{EOM}{EOM}Coぽ
 
 Message 599:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Compost is something
+{E4}post is something
 made naturally.{PAUSE}{WIPE}
 That's what
 Grandpa {TAKAKURA}
-saiま
+said. {PAUSE}{EOM}Thす
 
 Message 600:
-{DB}. {PAUSE}{EOM}The main stream of
+{DC} main stream of
 the town might
 synthesize with {PAUSE}
 the fertilizer
-in some wayほ
+in some way. {PAUSE}{EOM}{EOM}{EOM}Woむ
 
 Message 601:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Wow, that stinks. {PAUSE}{WIPE}
+{EE}, that stinks. {PAUSE}{WIPE}
 But I guess I can
 endure it for
-good crop0
+good crops. {PAUSE}{EOM}Th0
 
 Message 602:
-{EA}. {PAUSE}{EOM}This compost still
+{E0}s compost still
 smells like the
-crops it came fromC
+crops it came from. {PAUSE}{EOM}{EOM}{EOM}{FACE_010007}ぽ
 
 Message 603:
-{C8} {PAUSE}{EOM}{EOM}{EOM}{FACE_010007}That smells so bad.
-I don't want thaシ
+{1E}hat smells so bad.
+I don't want that. {PAUSE}{EOM}A l
 
 Message 604:
-{EB}. {PAUSE}{EOM}A little should be
+ittle should be
 effective but too
 much could produce {PAUSE}
 the reverse effect.
-Try it and see
+Try it and see. {PAUSE}{EOM}{EOM}We 
 
 Message 605:
-. {PAUSE}{EOM}{EOM}We need to sacrifice
+need to sacrifice
 for the sake of the
 future. {PAUSE}{WIPE}
 You don't think I'm
 being too impudent
-do youろ
+do you? {PAUSE}{EOM}{EOM}{EOM}Th0
 
 Message 606:
-{CA} {PAUSE}{EOM}{EOM}{EOM}That smells.
+{D8}t smells.
 Take that over
-thereと
+there. {PAUSE}{EOM}{EOM}{EOM}Heと
 
 Message 607:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Hey, that's organic
+{F0}, that's organic
 fertilizer. {PAUSE}{WIPE}
 You should go up to
 someone and be like
@@ -3128,393 +3127,393 @@ someone and be like
 myself." {PAUSE}{WIPE}
 Hope that person has
 a sense of humor
-though..
+though... {PAUSE}{EOM}{EOM}Whぉ
 
 Message 608:
-. {PAUSE}{EOM}{EOM}What are you going
+{D8}t are you going
 to do with that
-compost?
+compost? {PAUSE}{EOM}{EOM}{EOM}{EOM}CoT
 
 Message 609:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Cows are going to
-love thatへ
+{EE}s are going to
+love that! {PAUSE}{EOM}{EOM}{EOM}Coへ
 
 Message 610:
-{CB} {PAUSE}{EOM}{EOM}{EOM}Cows will be happy
-to eat that
+{EE}s will be happy
+to eat that. {PAUSE}{EOM}{EOM}Thつ
 
 Message 611:
-. {PAUSE}{EOM}{EOM}This has got all
+{E0}s has got all
 sorts of thing
 in it. {PAUSE}{WIPE}
 It's kind of like
 fried rice in
-a way
+a way. {PAUSE}{EOM}{EOM}Coし
 
 Message 612:
-. {PAUSE}{EOM}{EOM}Cows can be gourmets
-too you know.
+{EE}s can be gourmets
+too you know. {PAUSE}{EOM}{EOM}{EOM}{EOM}Isと
 
 Message 613:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Isn't that cow food?
+{E5}'t that cow food?
 What are you going
-to do with thaぽ
+to do with that? {PAUSE}{EOM}{FACE_01000D}p
 
 Message 614:
-{EB}? {PAUSE}{EOM}{FACE_01000D}You can't feed them
+{DOG}ou can't feed them
 this all the time.
-Understand, MoV
+Understand, Mom? {PAUSE}{EOM}CaV
 
 Message 615:
-{E4}? {PAUSE}{EOM}Can birds eat that
+{E5} birds eat that
 too? {PAUSE}{WIPE}
 Let's try that
 next time.
-Just kidding!
+Just kidding! {PAUSE}{EOM}{EOM}{EOM}{EOM}I c
 
 Message 616:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I can't eat that.
-I'm not a cow.ぽ
+an't eat that.
+I'm not a cow... {PAUSE}{EOM}A b
 
 Message 617:
-{C8}. {PAUSE}{EOM}A balanced diet
+alanced diet
 mixed with treats
-equals great milk
+equals great milk. {PAUSE}{EOM}{EOM}A c
 
 Message 618:
-. {PAUSE}{EOM}{EOM}A cow that eats
+ow that eats
 that will be in
-heaven.
+heaven. {PAUSE}{EOM}{EOM}{EOM}{EOM}Hmる
 
 Message 619:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Hmm?
+{E4}?
 What are you going
-to do with that
+to do with that? {PAUSE}{EOM}{EOM}Taる
 
 Message 620:
-? {PAUSE}{EOM}{EOM}Taking medicine just
+{E2}ing medicine just
 once isn't enough! {PAUSE}{WIPE}
 You've got to
 do it once a day
 for a few days. {PAUSE}{WIPE}
 Be careful not to
-overdose
+overdose! {PAUSE}{EOM}{EOM}Mej
 
 Message 621:
-! {PAUSE}{EOM}{EOM}Medicine is just
+{DB}icine is just
 once a day. {PAUSE}{WIPE}
 That doesn't mean
 that it fixes
 everything. {PAUSE}{WIPE}
 You've got to
 watch the condition
-for a whilee
+for a while. {PAUSE}{EOM}{EOM}{EOM}I w
 
 Message 622:
-{C8} {PAUSE}{EOM}{EOM}{EOM}I wonder what that
+onder what that
 medicine does. {PAUSE}{WIPE}
 If you can only
 use it once a day,
-it must be strongケ
+it must be strong. {PAUSE}{EOM}{EOM}{EOM}Is 
 
 Message 623:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Is there a sick
+there a sick
 animal...? {PAUSE}{WIPE}
 Hope he gets
-well soon.
+well soon. {PAUSE}{EOM}{EOM}{EOM}{EOM}Thし
 
 Message 624:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}That container is
+{D8}t container is
 cutely shaped. {PAUSE}{WIPE}
 If it's cute,
 the animals won't
-mind I'd imagine.
+mind I'd imagine. {PAUSE}{EOM}{EOM}{EOM}{EOM}OnV
 
 Message 625:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}One pill,
+{DC} pill,
 once a day.
-Got it Momぽ
+Got it Mom?{PAUSE}{EOM}{EOM}{EOM}{EOM}Yoぽ
 
 Message 626:
-{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}You can't feel
+{EC} can't feel
 relieved after
 taking medicine {PAUSE}
 for only one
-time
+time. {PAUSE}{EOM}{EOM}I w
 
 Message 627:
-. {PAUSE}{EOM}{EOM}I wonder if that
+onder if that
 works on human
-pain too...
+pain too... {PAUSE}{EOM}{EOM}{EOM}{EOM}Is 
 
 Message 628:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}Is that animal
+that animal
 medicine?
-What's that for
+What's that for? {PAUSE}{EOM}{EOM}YoI
 
 Message 629:
-? {PAUSE}{EOM}{EOM}You have to keep a
+{EC} have to keep a
 close eye on the
 condition of {PAUSE}
 the animals
 on your farm. {PAUSE}{WIPE}
 Otherwise,
 they'll get
-sick
+sick. {PAUSE}{EOM}{EOM}Brキ
 
 Message 630:
-. {PAUSE}{EOM}{EOM}Brushing your
+{EC}shing your
 animals is a way
-of showing love.
+of showing love. {PAUSE}{EOM}{EOM}{EOM}{EOM}Whぞ
 
 Message 631:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}When you brush you
+{DC}n you brush you
 should put your
-heart into i0
+heart into it. {PAUSE}{EOM}Woシ
 
 Message 632:
-{EB}. {PAUSE}{EOM}Wow, that's really
+{EE}, that's really
 been used a lot.{PAUSE}{WIPE}
 It's nice to be able
 to express love to
-your animalsぞ
+your animals.{PAUSE}{EOM}{EOM}{EOM}{EOM}Thづ
 
 Message 633:
-{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}That brush is almost
-like a part of you
+{D8}t brush is almost
+like a part of you. {PAUSE}{EOM}{EOM}I'Y
 
 Message 634:
-. {PAUSE}{EOM}{EOM}I'm not a kid
+{E4} not a kid
 anymore so don't
 expect me to say {PAUSE}
 "Oh you took
-my toys!什
+my toys!"{PAUSE}{EOM}{EOM}{EOM}{EOM}Puと
 
 Message 635:
-{04}{PAUSE}{EOM}{EOM}{EOM}{EOM}Put that back in
-the toy box okaぽ
+{EB} that back in
+the toy box okay? {PAUSE}{EOM}Itぽ
 
 Message 636:
-{F0}? {PAUSE}{EOM}It's not that I'm
+{F2}s not that I'm
 mad but don't just
-take my treasures
+take my treasures. {PAUSE}{EOM}{EOM}{FACE_010004}ぽ
 
 Message 637:
-. {PAUSE}{EOM}{EOM}{FACE_010004}Don't just go and
+{0E}on't just go and
 take my stuff like
-that
+that. {PAUSE}{EOM}{EOM}..l
 
 Message 638:
-. {PAUSE}{EOM}{EOM}...Ah...
+{C8}Ah...
 I'm too old to get
-excited over that
+excited over that. {PAUSE}{EOM}{EOM}Weざ
 
 Message 639:
-. {PAUSE}{EOM}{EOM}Well, never mind
+{E3}l, never mind. {PAUSE}{EOM}{EOM}Ooぽ
 
 Message 640:
-. {PAUSE}{EOM}{EOM}Oops, can't take
-that right nowぽ
+{E7}s, can't take
+that right now. {PAUSE}{EOM}{EOM}{EOM}Neぽ
 
 Message 641:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Never mind,
-I don't want itへ
+{ED}er mind,
+I don't want it. {PAUSE}{EOM}{EOM}{EOM}Soへ
 
 Message 642:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Sorry Mom,
-maybe laterし
+{E9}ry Mom,
+maybe later. {PAUSE}{EOM}{EOM}{EOM}Ooし
 
 Message 643:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Oops, I can't take
+{E7}s, I can't take
 that.
-Sorry about thaぽ
+Sorry about that. {PAUSE}{EOM}Whケ
 
 Message 644:
-{EB}. {PAUSE}{EOM}When a ball goes
+{DC}n a ball goes
 rolling by, you
 unconsciously {PAUSE}
 want to go
-chase after itV
+chase after it. {PAUSE}{EOM}{EOM}{EOM}I'V
 
 Message 645:
-{C8} {PAUSE}{EOM}{EOM}{EOM}I'm not getting all
+{E4} not getting all
 excited over that. {PAUSE}{WIPE}
 I'm not a kid you
-knowス
+know. {PAUSE}{EOM}{EOM}{EOM}I l
 
 Message 646:
-{C8} {PAUSE}{EOM}{EOM}{EOM}I like the thrill
+ike the thrill
 from stacking
-blocks higス
+blocks high. {PAUSE}{EOM}{CODY} s
 
 Message 647:
-{DF}. {PAUSE}{EOM}{CODY} said he
+aid he
 could convert cars
-at his house
+at his house. {PAUSE}{EOM}{EOM}IsK
 
 Message 648:
-. {PAUSE}{EOM}{EOM}Isn't that yours
+{E5}'t that yours? {PAUSE}{EOM}{EOM}I g
 
 Message 649:
-? {PAUSE}{EOM}{EOM}I get the feeling
+et the feeling
 that I've seen
 the color of that{PAUSE}
 stone somewhere
-before
+before. {PAUSE}{EOM}{EOM}WiV
 
 Message 650:
-. {PAUSE}{EOM}{EOM}Will that stone
+{E3}l that stone
 shine brightly if
 you polish it?
 {CHOICE2 DEF0}
 I guess?
-Depends on how
+Depends on how.{EOM}{EOM}{EOM}{EOM}ItV
 
 Message 651:
-.{EOM}{EOM}{EOM}{EOM}It'll definitely
-shine brightlぽ
+{F2}ll definitely
+shine brightly. {PAUSE}{EOM}Thぽ
 
 Message 652:
-{F0}. {PAUSE}{EOM}There are various
+{DC}re are various
 ways to polish
-things.
+things. {PAUSE}{EOM}{EOM}{EOM}{EOM}Thぃ
 
 Message 653:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}That stone is a
-pretty coloへ
+{D8}t stone is a
+pretty color♪{PAUSE}{EOM}{EOM}Teへ
 
 Message 654:
-{E9}♪{PAUSE}{EOM}{EOM}Texture really
+{EF}ture really
 depends on the
-stoneシ
+stone. {PAUSE}{EOM}{EOM}{EOM}Is 
 
 Message 655:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Is that the hardest
+that the hardest
 stone in the world?
 {CHOICE2 DEF0}
 No, a diamond is.
-Could be
+Could be.{EOM}{EOM}{EOM}{EOM}{FACE_010022}V
 
 Message 656:
-.{EOM}{EOM}{EOM}{EOM}{FACE_010022}Really? {PAUSE}
+{1C}eally? {PAUSE}
 {FACE_010001}I'd like to try
-finding a diamondぞ
+finding a diamond. {PAUSE}{EOM}{EOM}{EOM}Reぞ
 
 Message 657:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Really?
+{D8}lly?
 Next time you find
 one let's try {PAUSE}
 smashing it on
-another stone.
+another stone. {PAUSE}{EOM}{EOM}{EOM}{EOM}I w
 
 Message 658:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}I wonder how many
+onder how many
 years it took
-to make that stone
+to make that stone. {PAUSE}{EOM}{EOM}{FACE_010001}t
 
 Message 659:
-. {PAUSE}{EOM}{EOM}{FACE_010001}Pretty stonキ
+{1A}retty stone. {PAUSE}{EOM}Thぽ
 
 Message 660:
-{DC}. {PAUSE}{EOM}That stone could
+{D8}t stone could
 make a interesting
-color.
+color. {PAUSE}{EOM}{EOM}{EOM}{EOM}Thせ
 
 Message 661:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}That stone would
+{D8}t stone would
 look better in
-some lightび
+some light. {PAUSE}{EOM}{EOM}{EOM}Ju0
 
 Message 662:
-{C8} {PAUSE}{EOM}{EOM}{EOM}Just because a stone
+{EA}t because a stone
 is really hard,
 doesn't mean that {PAUSE}
 it's hard to
-break it in half
+break it in half. {PAUSE}{EOM}{EOM}I f
 
 Message 663:
-. {PAUSE}{EOM}{EOM}I feel like there's
+eel like there's
 some kind of power
-in this stone..
+in this stone... {PAUSE}{EOM}{EOM}{FACE_010001}ぽ
 
 Message 664:
-. {PAUSE}{EOM}{EOM}{FACE_010001}That's so pretty.
+{1E}hat's so pretty.
 It's sparkles so
-nicely.
+nicely. {PAUSE}{EOM}{EOM}{EOM}{EOM}Yoざ
 
 Message 665:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}You can have the
+{EC} can have the
 same type of ore,
 but the colors {PAUSE}
 inside are what
 determine a
-stones nam-
+stones name. {PAUSE}{EOM}I i
 
 Message 666:
-{DC}. {PAUSE}{EOM}I imagine that
+magine that
 ancient people
 liked to take {PAUSE}
 ragged objects
 and polish them
-up nice.
+up nice. {PAUSE}{EOM}{EOM}{EOM}{EOM}Thろ
 
 Message 667:
- {PAUSE}{EOM}{EOM}{EOM}{EOM}There are some
+{DC}re are some
 stones that can
 carry an electricity{PAUSE}
 current if you
-heat them up男
+heat them up,. {PAUSE}{EOM}I w
 
 Message 668:
-{05}. {PAUSE}{EOM}I wonder what will
+onder what will
 happen if people
 keep taking {PAUSE}
 all the stones that
 nature created. {PAUSE}{WIPE}
 Oh, I didn't mean
 that as an attack
-on you, Mom. {PAUSE}
+on you, Mom. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010001}Pぽ
 
 Message 669:
-{EOM}{EOM}{EOM}{EOM}{FACE_010001}Polishing it will
+{E6}lishing it will
 make it shine
-brighter.
+brighter. {PAUSE}{EOM}{EOM}FosY
 
 Message 670:
- {PAUSE}{EOM}{EOM}Fossils don't always
-have to stoneと
+{EA}ils don't always
+have to stone. {PAUSE}{EOM}Mom什
 
 Message 671:
-{C8} {PAUSE}{EOM}Mom, where did
+{05} where did
 you find that?
 {CHOICE2 DEF0}
 Bought it from {VAN}.
-Found it at {STRUC_41}
+Found it at {STRUC_41}.{EOM}{EOM}Tha0
 
 Message 672:
-.{EOM}{EOM}That's nice...
+{EB}'s nice...
 Would you sell that
-to me? 
+to me? {PAUSE}{EOM}{EOM}{EOM}Reaる
 
 Message 673:
-{PAUSE}{EOM}{EOM}{EOM}Really! I wanna try
+{E3}ly! I wanna try
 digging too! {PAUSE}{WIPE}
 I wonder if {CARTER}
 would let me try
-digging too.
+digging too. {PAUSE}{EOM}{EOM}It'む
 
 Message 674:
- {PAUSE}{EOM}{EOM}It's amazing that
+{EA} amazing that
 things from the past
-endure so long. 
+endure so long. {PAUSE}{EOM}{EOM}{EOM}I'm 
 
 Message 675:
-{PAUSE}{EOM}{EOM}{EOM}I'm not crazy about
+not crazy about
 the past but I find
-myself fascinated. {PAUSE}
+myself fascinated. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010003}Tす
 
 Message 676:
-{EOM}{EOM}{EOM}{EOM}{FACE_010003}Thousands of years
+{DF}ousands of years
 from now when someone
 finds my body, I{PAUSE}
 wonder if they will
@@ -3522,254 +3521,254 @@ say, {PAUSE}{WIPE}
 {FACE_010023}"This is what humans
 used to be like". {PAUSE}{WIPE}
 {FACE_010003}It's funny if you
-visualize it.
+visualize it. {PAUSE}{EOM}{EOM}Theろ
 
 Message 677:
- {PAUSE}{EOM}{EOM}There aren't any
+{E9}e aren't any
 around here, but in
 other areas there {PAUSE}
 are lots and lots
-of poisonous plants.
+of poisonous plants. {PAUSE}{EOM}{EOM}Theる
 
 Message 678:
- {PAUSE}{EOM}{EOM}They say flowers
+{F0} say flowers
 aren't just pretty. {PAUSE}{WIPE}
 They have a special
-power to them..V
+power to them... {PAUSE}{EOM}{FACE_010007}DV
 
 Message 679:
-{C8} {PAUSE}{EOM}{FACE_010007}Don't pick those.
+{E6}n't pick those.
 {FACE_010001}The sprites will get
 angry at you. {PAUSE}{WIPE}
 That's what
-{GALEN} told me. 
+{GALEN} told me. {PAUSE}{EOM}{EOM}{EOM}You 
 
 Message 680:
-{PAUSE}{EOM}{EOM}{EOM}You picked that from
-around hereぽ
+picked that from
+around here. {PAUSE}{EOM}{FACE_010007}Tぽ
 
 Message 681:
-{C8} {PAUSE}{EOM}{FACE_010007}Those guys are
+{DF}ose guys are
 troopers... {PAUSE}{WIPE}
 They withstand
 the wind, the rain
-and everything elseも
+and everything else. {PAUSE}{EOM}Floキ
 
 Message 682:
-{C8} {PAUSE}{EOM}Flowers aren't just
-beautiful..ぽ
+{EE}ers aren't just
+beautiful... {PAUSE}{EOM}Are 
 
 Message 683:
-{C8} {PAUSE}{EOM}Are you going to
+you going to
 give that to
-anyone? 
+anyone? {PAUSE}{EOM}{EOM}{EOM}I'm 
 
 Message 684:
-{PAUSE}{EOM}{EOM}{EOM}I'm jealous of the
+jealous of the
 person who can just
-see flowers beauty. {PAUSE}
+see flowers beauty. {PAUSE}{EOM}{EOM}{EOM}{EOM}Whaす
 
 Message 685:
-{EOM}{EOM}{EOM}{EOM}What are you going
+{EB} are you going
 to do with that
-flower?
+flower? {PAUSE}{EOM}{EOM}Why 
 
 Message 686:
- {PAUSE}{EOM}{EOM}Why don't you give
-that to Mom?
+don't you give
+that to Mom? {PAUSE}{EOM}{EOM}Somつ
 
 Message 687:
- {PAUSE}{EOM}{EOM}Some flowers have
+{DC} flowers have
 something special
 inside them. {PAUSE}{WIPE}
 They're of some
 practical use to
-people in the cityろ
+people in the city. {PAUSE}{EOM}Theo
 
 Message 688:
-{C8} {PAUSE}{EOM}There aren't many
+{E9}e aren't many
 girls who don't like
-getting flowers. {PAUSE}
+getting flowers. {PAUSE}{EOM}{EOM}{EOM}{EOM}TheV
 
 Message 689:
-{EOM}{EOM}{EOM}{EOM}There are lots of
+{E9}e are lots of
 romantic names for
 flowers and such, {PAUSE}
 but every now and
 then you'll get
-just a regular name.
+just a regular name. {PAUSE}{EOM}{EOM}If y
 
 Message 690:
- {PAUSE}{EOM}{EOM}If you give that
+ou give that
 to Mom,
-she'll be happy. {PAUSE}
+she'll be happy. {PAUSE}{EOM}{EOM}{EOM}{EOM}Howぼ
 
 Message 691:
-{EOM}{EOM}{EOM}{EOM}How's business
+{F2}s business
 going, Mom?
 Selling much?
 {CHOICE2 DEF0}
 Like crazy!
-Barely.ス
+Barely...{EOM}{FACE_01000A}Aス
 
 Message 692:
-{C8}.{EOM}{FACE_01000A}Awesome job!
+{EE}esome job!
 Mom will be
-glad to hear that! {PAUSE}
+glad to hear that! {PAUSE}{EOM}{EOM}{EOM}{EOM}{S_3401A7}{FACE_010009}
 
 Message 693:
-{EOM}{EOM}{EOM}{EOM}{S_3401A7}{FACE_010009}Oh... {S_3204B0}
-{FACE_010001}Keep trying, Mom! {PAUSE}
+Oh... {S_3204B0}
+{FACE_010001}Keep trying, Mom! {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010003}Iぽ
 
 Message 694:
-{EOM}{EOM}{EOM}{EOM}{FACE_010003}It's great if you
-sell a lot♪
+{EB}'s great if you
+sell a lot♪{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}Wつ
 
 Message 695:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}Will a lot of people
+{E0}ll a lot of people
 come if I stand
-over here?
+over here? {PAUSE}{EOM}{EOM}{FACE_010019}Aシ
 
 Message 696:
- {PAUSE}{EOM}{EOM}{FACE_010019}Aren't you supposed
+{E9}en't you supposed
 to be working, Mom? {PAUSE}{WIPE}
 You shouldn't be
 playing around
-with me. {PAUSE}
+with me. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010002}Yぁ
 
 Message 697:
-{EOM}{EOM}{EOM}{EOM}{FACE_010002}Yeah, yeah.
-Work, work! 
+{DC}ah, yeah.
+Work, work! {PAUSE}{EOM}{EOM}{EOM}{FACE_010001}TV
 
 Message 698:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_010001}That's good to hear. {PAUSE}{WIPE}
+{DF}at's good to hear. {PAUSE}{WIPE}
 Mom will be
 happy to hear that
-too I'm sure.
+too I'm sure. {PAUSE}{EOM}{EOM}{FACE_010007}I 
 
 Message 699:
- {PAUSE}{EOM}{EOM}{FACE_010007}I see... {S_3204B0}
+see... {S_3204B0}
 {FACE_010001}Well, you shouldn't
 let one thing dampen
 your spirits! {PAUSE}{WIPE}
 Remember business is
-great for youシ
+great for you! {PAUSE}{EOM}{FACE_010001}Iシ
 
 Message 700:
-{CB} {PAUSE}{EOM}{FACE_010001}It'd be nice if you
-sold a lot of stuff. 
+{EB}'d be nice if you
+sold a lot of stuff. {PAUSE}{EOM}{EOM}{EOM}HeyÄ
 
 Message 701:
-{PAUSE}{EOM}{EOM}{EOM}Hey, Mom...
+{05} Mom...
 Aren't you in the
-middle of work? {PAUSE}
+middle of work? {PAUSE}{EOM}{EOM}{EOM}{EOM}Staざ
 
 Message 702:
-{EOM}{EOM}{EOM}{EOM}Stay focused on
-your work, Momて
+{F0} focused on
+your work, Mom. {PAUSE}{EOM}{FACE_010007}I 
 
 Message 703:
-{C8} {PAUSE}{EOM}{FACE_010007}I think Mom's sick.
+think Mom's sick.
 Will she be okay? {PAUSE}{WIPE}
 {S_3401A7}Maybe we should go
-call {HARDY}V
+call {HARDY}? {PAUSE}{EOM}{FACE_010007}I 
 
 Message 704:
-{CA} {PAUSE}{EOM}{FACE_010007}I get worried when
-Mom is sick...
+get worried when
+Mom is sick... {PAUSE}{EOM}{EOM}{FACE_010007}Mと
 
 Message 705:
- {PAUSE}{EOM}{EOM}{FACE_010007}Mom looks pretty
-sick..V
+{E6}m looks pretty
+sick... {PAUSE}{EOM}{FACE_010007}I 
 
 Message 706:
-{C8} {PAUSE}{EOM}{FACE_010007}I wonder if Mom
-is going to be okay.
+wonder if Mom
+is going to be okay.{PAUSE}{EOM}{EOM}{EOM}{FACE_01000D}Hk
 
 Message 707:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_01000D}Hey, Mom.
+{DC}y, Mom.
 Mom's in a
 really bad mood so {PAUSE}
 I'd avoid saying
 anything stupid
-if I were you! 
+if I were you! {PAUSE}{EOM}{EOM}{EOM}{S_3401A7}{FACE_010019}
 
 Message 708:
-{PAUSE}{EOM}{EOM}{EOM}{S_3401A7}{FACE_010019}Whenever Mom gets
+Whenever Mom gets
 irritated, she
-scolds me... 
+scolds me... {PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}{S_3401A7}
 
 Message 709:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}{S_3401A7}Hmm...
+Hmm...
 Why is Mom
-so upset...? {PAUSE}
+so upset...? {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010002}Mと
 
 Message 710:
-{EOM}{EOM}{EOM}{EOM}{FACE_010002}Mom isn't
-in a good mood..へ
+{E6}m isn't
+in a good mood... {PAUSE}{EOM}Isnへ
 
 Message 711:
-{C8} {PAUSE}{EOM}Isn't that Mom's
+{F2}t that Mom's
 record? {PAUSE}{WIPE}
 What are you going
-to do with it?
+to do with it? {PAUSE}{EOM}{EOM}It'す
 
 Message 712:
- {PAUSE}{EOM}{EOM}It's Mom's
-record. {PAUSE}
+{EA} Mom's
+record. {PAUSE}{EOM}{EOM}{EOM}{EOM}It'C
 
 Message 713:
-{EOM}{EOM}{EOM}{EOM}It's Mom's
+{EA} Mom's
 record! {PAUSE}{WIPE}
 Listen to it
-laterむ
+later! {PAUSE}{EOM}Lisむ
 
 Message 714:
-{CB} {PAUSE}{EOM}Listen to that
-later! 
+{EB}en to that
+later! {PAUSE}{EOM}{EOM}{EOM}Wonキ
 
 Message 715:
-{PAUSE}{EOM}{EOM}{EOM}Won't you sell that
+{F2}t you sell that
 record?
-{VAN}? 
+{VAN}? {PAUSE}{EOM}{EOM}{EOM}Lisて
 
 Message 716:
-{PAUSE}{EOM}{EOM}{EOM}Listen to that
-record later.
+{EB}en to that
+record later. {PAUSE}{EOM}{EOM}{FACE_010023}{S_3401A7}
 
 Message 717:
- {PAUSE}{EOM}{EOM}{FACE_010023}{S_3401A7}That smell...
+That smell...
 I've smelt it
 somewhere before... {S_3204B0}{PAUSE}{WIPE}
 {FACE_01000A}{S_3401A6}I remember!
 It's the food from
-the {C14}{STRUC_35}{C17}! {PAUSE}
+the {C14}{STRUC_35}{C17}! {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010001}{RUBY}パ
 
 Message 718:
-{EOM}{EOM}{EOM}{EOM}{FACE_010001}{RUBY}'s cooking
-is really good. {PAUSE}
+{F2}s cooking
+is really good. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010001}Hて
 
 Message 719:
-{EOM}{EOM}{EOM}{EOM}{FACE_010001}Hmm, that smells
+{E4}m, that smells
 like the food over
-at the {C14}{STRUC_35}{C17}. 
+at the {C14}{STRUC_35}{C17}. {PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}W.
 
 Message 720:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_01000C}What's in that
+{DF}at's in that
 dirty looking
-bottle...ぽ
+bottle...? {PAUSE}{EOM}{FACE_01000C}Wべ
 
 Message 721:
-{CA} {PAUSE}{EOM}{FACE_01000C}Wow, that bottle
+{E6}w, that bottle
 has a strong smell
-to it.
+to it. {PAUSE}{EOM}{EOM}{FACE_010001}I0
 
 Message 722:
- {PAUSE}{EOM}{EOM}{FACE_010001}I'm happy if I have
-a lot of records. {PAUSE}
+{F2}m happy if I have
+a lot of records. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010000}W0
 
 Message 723:
-{EOM}{EOM}{EOM}{EOM}{FACE_010000}When a record spins
+{DF}en a record spins
 around it kind of
 makes you want to {PAUSE}
 put something on
@@ -3777,36 +3776,36 @@ top to watch it
 go round and round. {PAUSE}{WIPE}
 {FACE_010004}That's how I thought
 when I was just a
-kid0
+kid. {PAUSE}{EOM}The 
 
 Message 724:
-{C8} {PAUSE}{EOM}The sound of pain
+sound of pain
 travels into
 the air so be {PAUSE}
 careful not to
 hurt peoples
-feelings. 
+feelings. {PAUSE}{EOM}{EOM}{EOM}I do
 
 Message 725:
-{PAUSE}{EOM}{EOM}{EOM}I don't think there
+n't think there
 is one person who
 doesn't like music. {PAUSE}{WIPE}
 Of course not
 everyone likes all
-genres of music. {PAUSE}
+genres of music. {PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_010009}Sぉ
 
 Message 726:
-{EOM}{EOM}{EOM}{EOM}{FACE_010009}Sometimes harmony
+{E6}metimes harmony
 can make a song
-unlistenable.
+unlistenable. {PAUSE}{EOM}{EOM}{S_3401A8}{FACE_010009}
 
 Message 727:
- {PAUSE}{EOM}{EOM}{S_3401A8}{FACE_010009}A song sounds
+A song sounds
 horrible if it's
-off even 1 Hz.
+off even 1 Hz. {PAUSE}{EOM}{EOM}{S_3401A8}{FACE_010009}
 
 Message 728:
- {PAUSE}{EOM}{EOM}{S_3401A8}{FACE_010009}If I traveled to the
+If I traveled to the
 capital I'd be able
 to get more records. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
 

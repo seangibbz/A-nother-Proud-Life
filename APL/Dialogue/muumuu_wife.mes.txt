@@ -259,925 +259,925 @@ Message 55:
 {FACE_03000A}{S_340184}Aren't you a
 lucky boy, baby? {PAUSE}{WIPE}
 Mommy's holding you,
-isn't she?{PAUSE}{EOM}
+isn't she?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 56:
-{EOM}{EOM}Mommy's always
+Mommy's always
 giving you hugs. {PAUSE}{WIPE}
 She's got no time
 to play with Mommy
-now... {PAUSE}
+now... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 57:
-{EOM}{EOM}{EOM}{EOM}Are you hungry,
-{DOG}?
+Are you hungry,
+{DOG}? {PAUSE}{EOM}{EOM}
 
 Message 58:
- {PAUSE}{EOM}{EOM}Make sure to wash
+Make sure to wash
 your hands after
-petting the dogち
+petting the dog. {PAUSE}{EOM}
 
 Message 59:
-{C8} {PAUSE}{EOM}Hello...
-... {NAME?}...ケ
+Hello...
+... {NAME?}...? {PAUSE}{EOM}
 
 Message 60:
-{CA} {PAUSE}{EOM}Make sure to wash
+Make sure to wash
 your hands after
-petting the catち
+petting the cat. {PAUSE}{EOM}
 
 Message 61:
-{C8} {PAUSE}{EOM}{FACE_030019}You surprised me.
+{FACE_030019}You surprised me.
 Don't sneak up on
-me with that5
+me with that. {PAUSE}{EOM}
 
 Message 62:
-{C8} {PAUSE}{EOM}My son loves
+My son loves
 to chase chickens
-around the yard. {PAUSE}
+around the yard. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 63:
-{EOM}{EOM}{EOM}{EOM}I hope she'll lay
+I hope she'll lay
 some delicious
-eggs for us
+eggs for us♥{PAUSE}{EOM}
 
 Message 64:
-♥{PAUSE}{EOM}You've heard that if
+You've heard that if
 you take care of
 your chicken while {PAUSE}
 you raise it, that
 it will lay golden
 eggs for you, right? {PAUSE}{WIPE}
 Let's take good
-care of herシ
+care of her. {PAUSE}{EOM}
 
 Message 65:
-{C8} {PAUSE}{EOM}Make sure to wash
+Make sure to wash
 your hands after
-petting the chickenぼ
+petting the chicken.{PAUSE}{EOM}{EOM}
 
 Message 66:
-{C8}{PAUSE}{EOM}{EOM}So cute.
+So cute.
 Grow up big and
-strong now0
+strong now. {PAUSE}{EOM}
 
 Message 67:
-{C8} {PAUSE}{EOM}I can't believe that
+I can't believe that
 this yellow guy can
 become so big... {PAUSE}{WIPE}
 That's quite a
-transformation2
+transformation. {PAUSE}{EOM}
 
 Message 68:
-{C8} {PAUSE}{EOM}Make sure to wash
+Make sure to wash
 your hands after
-petting the chickV
+petting the chick. {PAUSE}{EOM}
 
 Message 69:
-{C8} {PAUSE}{EOM}He sounds like he's
+He sounds like he's
 complaining about
-me.
+me. {PAUSE}{EOM}{EOM}
 
 Message 70:
- {PAUSE}{EOM}{EOM}Make sure to wash
+Make sure to wash
 your hands after
-petting the duck. 
+petting the duck. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 71:
-{PAUSE}{EOM}{EOM}{EOM}It doesn't look like
+It doesn't look like
 he knows how to
-smile... {PAUSE}
+smile... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 72:
-{EOM}{EOM}{EOM}{EOM}He's so small.
-Grow up big now.
+He's so small.
+Grow up big now. {PAUSE}{EOM}{EOM}
 
 Message 73:
- {PAUSE}{EOM}{EOM}{FACE_03000A}{S_340184}Hee hee hee♥ {PAUSE}{WIPE}
+{FACE_03000A}{S_340184}Hee hee hee♥ {PAUSE}{WIPE}
 It reminds me of how
 a friend of mine
-used to walk.
+used to walk. {PAUSE}{EOM}{EOM}
 
 Message 74:
- {PAUSE}{EOM}{EOM}Make sure to wash
+Make sure to wash
 your hands after
-petting the duck. 
+petting the duck. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 75:
-{PAUSE}{EOM}{EOM}{EOM}It's a seed right?
-What kind is it? 
+It's a seed right?
+What kind is it? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 76:
-{PAUSE}{EOM}{EOM}{EOM}I don't know much
+I don't know much
 about seeds, but
 try planting it. {PAUSE}{WIPE}
 Let's see what
-grows from it. {PAUSE}
+grows from it. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 77:
-{EOM}{EOM}{EOM}{EOM}Are those our crops?
-They look good. {PAUSE}
+Are those our crops?
+They look good. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 78:
-{EOM}{EOM}{EOM}{EOM}Let's eat it
+Let's eat it
 if you're not
-going to sell it. 
+going to sell it. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 79:
-{PAUSE}{EOM}{EOM}{EOM}I wonder how you
+I wonder how you
 would cook that? {PAUSE}{WIPE}
 You probably know
-better than meV
+better than me♥{PAUSE}{EOM}{EOM}
 
 Message 80:
-{D6}{PAUSE}{EOM}{EOM}That's some very
+That's some very
 delicious looking
-milk. 
+milk. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 81:
-{PAUSE}{EOM}{EOM}{EOM}A milk's taste
+A milk's taste
 varies on the cow it
-comes from, right? {PAUSE}
+comes from, right? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 82:
-{EOM}{EOM}{EOM}{EOM}Sweet milk is my
-favorite♪
+Sweet milk is my
+favorite♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 83:
-{PAUSE}{EOM}{EOM}{EOM}Be careful no to
-spill it. 
+Be careful no to
+spill it. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 84:
-{PAUSE}{EOM}{EOM}{EOM}That cheese looks
+That cheese looks
 yummy. {PAUSE}{WIPE}
 {NICKNAME}, did you
-make that? {PAUSE}
+make that? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 85:
-{EOM}{EOM}{EOM}{EOM}Let's have some
+Let's have some
 of that cheese
 together! {PAUSE}{WIPE}
 Did you use good
 milk when you
-made it?
+made it? {PAUSE}{EOM}{EOM}
 
 Message 86:
- {PAUSE}{EOM}{EOM}I could eat cheese
+I could eat cheese
 everyday.
-Keep it coming0
+Keep it coming. {PAUSE}{EOM}
 
 Message 87:
-{C8} {PAUSE}{EOM}That butter looks
+That butter looks
 yummy. {PAUSE}{WIPE}
 {NICKNAME}, did you
-make that? {PAUSE}
+make that? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 88:
-{EOM}{EOM}{EOM}{EOM}Let's have some
+Let's have some
 of that milk
 together! {PAUSE}{WIPE}
 Did you use good
 milk when you
-made it?
+made it? {PAUSE}{EOM}{EOM}
 
 Message 89:
- {PAUSE}{EOM}{EOM}I could eat butter
+I could eat butter
 everyday.
-Keep it coming0
+Keep it coming. {PAUSE}{EOM}
 
 Message 90:
-{C8} {PAUSE}{EOM}Is that a chicken
+Is that a chicken
 egg?
-Can we eat it? {PAUSE}
+Can we eat it? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 91:
-{EOM}{EOM}{EOM}{EOM}It can be either a
+It can be either a
 chick or an
 omelet... {PAUSE}{WIPE}
 Either way I like
 the yellow color
-it makes...
+it makes... {PAUSE}{EOM}{EOM}
 
 Message 92:
- {PAUSE}{EOM}{EOM}Hmm?
-Is that fish edible
+Hmm?
+Is that fish edible?{PAUSE}{EOM}
 
 Message 93:
-?{PAUSE}{EOM}You should cook
-that yourself...
+You should cook
+that yourself...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 94:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}That fish just
-looked at me! 
+{FACE_030009}That fish just
+looked at me! {PAUSE}{EOM}{EOM}{EOM}
 
 Message 95:
-{PAUSE}{EOM}{EOM}{EOM}What is that
+What is that
 grass? {PAUSE}{WIPE}
 Oh, those are
 wild grasses
-from the mountain! {PAUSE}
+from the mountain! {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 96:
-{EOM}{EOM}{EOM}{EOM}Wild grasses are
-very healthy.
+Wild grasses are
+very healthy. {PAUSE}{EOM}{EOM}
 
 Message 97:
- {PAUSE}{EOM}{EOM}That dish looks
+That dish looks
 yummy. {PAUSE}{WIPE}
 Does it taste as
 good as it looks?
 {CHOICE2 DEF0}
 Try it yourself.
-It does indeedシ
+It does indeed.{EOM}{EOM}{EOM}
 
 Message 98:
-{C8}{EOM}{EOM}{EOM}{FACE_03000A}Really?
+{FACE_03000A}Really?
 I'm so happy I
-married you♥
+married you♥{PAUSE}{EOM}{EOM}{EOM}
 
 Message 99:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_030004}Hmph!
+{FACE_030004}Hmph!
 You're just gonna
-eat it yourself! {PAUSE}
+eat it yourself! {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 100:
-{EOM}{EOM}{EOM}{EOM}That looks good. {PAUSE}
+That looks good. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 101:
-{EOM}{EOM}{EOM}{EOM}It's a hoe.
+It's a hoe.
 Planning on digging
-up the ground?
+up the ground? {PAUSE}{EOM}{EOM}
 
 Message 102:
- {PAUSE}{EOM}{EOM}Good luck with your
-cultivating.
+Good luck with your
+cultivating. {PAUSE}{EOM}{EOM}
 
 Message 103:
- {PAUSE}{EOM}{EOM}It's a hoe.
+It's a hoe.
 Planning on digging
-up the ground?
+up the ground? {PAUSE}{EOM}{EOM}
 
 Message 104:
- {PAUSE}{EOM}{EOM}Good luck with your
-cultivating.
+Good luck with your
+cultivating. {PAUSE}{EOM}{EOM}
 
 Message 105:
- {PAUSE}{EOM}{EOM}Do you like your
-new hoeそ
+Do you like your
+new hoe? {PAUSE}{EOM}
 
 Message 106:
-{CA} {PAUSE}{EOM}Good luck with your
-cultivating.
+Good luck with your
+cultivating. {PAUSE}{EOM}{EOM}
 
 Message 107:
- {PAUSE}{EOM}{EOM}It's a hoe.
+It's a hoe.
 Planning on digging
-up the ground?
+up the ground? {PAUSE}{EOM}{EOM}
 
 Message 108:
- {PAUSE}{EOM}{EOM}Good luck with your
-cultivating.
+Good luck with your
+cultivating. {PAUSE}{EOM}{EOM}
 
 Message 109:
- {PAUSE}{EOM}{EOM}You want to get
-a new hoe? {PAUSE}
+You want to get
+a new hoe? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 110:
-{EOM}{EOM}{EOM}{EOM}Good luck with your
-cultivating.
+Good luck with your
+cultivating. {PAUSE}{EOM}{EOM}
 
 Message 111:
- {PAUSE}{EOM}{EOM}It's a sickle.
+It's a sickle.
 Planning on reaping
-something?
+something? {PAUSE}{EOM}{EOM}
 
 Message 112:
- {PAUSE}{EOM}{EOM}Good luck with your
-reaping.
+Good luck with your
+reaping. {PAUSE}{EOM}{EOM}
 
 Message 113:
- {PAUSE}{EOM}{EOM}It's a sickle.
+It's a sickle.
 Planning on reaping
-something?
+something? {PAUSE}{EOM}{EOM}
 
 Message 114:
- {PAUSE}{EOM}{EOM}Good luck with your
-reaping.
+Good luck with your
+reaping. {PAUSE}{EOM}{EOM}
 
 Message 115:
- {PAUSE}{EOM}{EOM}Do you like your
-new sickle? 
+Do you like your
+new sickle? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 116:
-{PAUSE}{EOM}{EOM}{EOM}Good luck with your
-reaping.
+Good luck with your
+reaping. {PAUSE}{EOM}{EOM}
 
 Message 117:
- {PAUSE}{EOM}{EOM}It's a sickle.
+It's a sickle.
 Planning on reaping
-something?
+something? {PAUSE}{EOM}{EOM}
 
 Message 118:
- {PAUSE}{EOM}{EOM}Good luck with your
-reaping.
+Good luck with your
+reaping. {PAUSE}{EOM}{EOM}
 
 Message 119:
- {PAUSE}{EOM}{EOM}You want to get
-a new sickle?
+You want to get
+a new sickle? {PAUSE}{EOM}{EOM}
 
 Message 120:
- {PAUSE}{EOM}{EOM}Good luck with your
-reaping.
+Good luck with your
+reaping. {PAUSE}{EOM}{EOM}
 
 Message 121:
- {PAUSE}{EOM}{EOM}Are you going to
+Are you going to
 water something
-with that? 
+with that? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 122:
-{PAUSE}{EOM}{EOM}{EOM}Good luck with
-your watering. {PAUSE}
+Good luck with
+your watering. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 123:
-{EOM}{EOM}{EOM}{EOM}Do you like your new
-watering can? {PAUSE}
+Do you like your new
+watering can? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 124:
-{EOM}{EOM}{EOM}{EOM}Good luck with
-your watering. {PAUSE}
+Good luck with
+your watering. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 125:
-{EOM}{EOM}{EOM}{EOM}Are you going to
+Are you going to
 water something
-with that? 
+with that? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 126:
-{PAUSE}{EOM}{EOM}{EOM}Good luck with
-your watering. {PAUSE}
+Good luck with
+your watering. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 127:
-{EOM}{EOM}{EOM}{EOM}You want to get a
-new watering can? 
+You want to get a
+new watering can? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 128:
-{PAUSE}{EOM}{EOM}{EOM}Good luck with
-your watering. {PAUSE}
+Good luck with
+your watering. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 129:
-{EOM}{EOM}{EOM}{EOM}{S_340184}Do you like your
-new milker? {PAUSE}
+{S_340184}Do you like your
+new milker? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 130:
-{EOM}{EOM}{EOM}{EOM}I hope you can get
+I hope you can get
 a lot of milk
-with that.
+with that. {PAUSE}{EOM}{EOM}
 
 Message 131:
- {PAUSE}{EOM}{EOM}It's a milker.
+It's a milker.
 It looks like it
-hurts the cow... 
+hurts the cow... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 132:
-{PAUSE}{EOM}{EOM}{EOM}I hope you can get
+I hope you can get
 a lot of milk
-with that.
+with that. {PAUSE}{EOM}{EOM}
 
 Message 133:
- {PAUSE}{EOM}{EOM}I don't know how
+I don't know how
 you're supposed to
 use it but... {PAUSE}{WIPE}
 Just be gentle on
-the cows with it.
+the cows with it. {PAUSE}{EOM}{EOM}
 
 Message 134:
- {PAUSE}{EOM}{EOM}You want to get a
+You want to get a
 new milker? {PAUSE}{WIPE}
 I think you should
-too... {PAUSE}
+too... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 135:
-{EOM}{EOM}{EOM}{EOM}I hope you can get
+I hope you can get
 a lot of milk
-with that.
+with that. {PAUSE}{EOM}{EOM}
 
 Message 136:
- {PAUSE}{EOM}{EOM}Those are shears.
+Those are shears.
 It's amazing you can
-cut hair by hand. {PAUSE}
+cut hair by hand. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 137:
-{EOM}{EOM}{EOM}{EOM}Good luck with
-your shearing. {PAUSE}
+Good luck with
+your shearing. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 138:
-{EOM}{EOM}{EOM}{EOM}I'm sure the sheep
+I'm sure the sheep
 will appreciate the
-new shears.
+new shears. {PAUSE}{EOM}{EOM}
 
 Message 139:
- {PAUSE}{EOM}{EOM}Good luck with
-your shearing. {PAUSE}
+Good luck with
+your shearing. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 140:
-{EOM}{EOM}{EOM}{EOM}Those are sheep
-shears. 
+Those are sheep
+shears. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 141:
-{PAUSE}{EOM}{EOM}{EOM}Good luck with
-your shearing. {PAUSE}
+Good luck with
+your shearing. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 142:
-{EOM}{EOM}{EOM}{EOM}You want to get
+You want to get
 new shears? {PAUSE}{WIPE}
 That might make it
-easier for you. 
+easier for you. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 143:
-{PAUSE}{EOM}{EOM}{EOM}Good luck with
-your shearing. {PAUSE}
+Good luck with
+your shearing. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 144:
-{EOM}{EOM}{EOM}{EOM}Do you like your
-new toolsV
+Do you like your
+new tools? {PAUSE}{EOM}
 
 Message 145:
-{CA} {PAUSE}{EOM}Do your best!
+Do your best! {PAUSE}{EOM}{EOM}
 
 Message 146:
- {PAUSE}{EOM}{EOM}What? It must be
+What? It must be
 fascinating for you,
-{NICKNAME}.
+{NICKNAME}. {PAUSE}{EOM}{EOM}
 
 Message 147:
- {PAUSE}{EOM}{EOM}{FACE_030009}Sorry...
-I don't understandす
+{FACE_030009}Sorry...
+I don't understand. {PAUSE}{EOM}
 
 Message 148:
-{C8} {PAUSE}{EOM}{FACE_030009}That's really
-dirty lookingす
+{FACE_030009}That's really
+dirty looking. {PAUSE}{EOM}
 
 Message 149:
-{C8} {PAUSE}{EOM}Well...
-Do your best... 
+Well...
+Do your best... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 150:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_03000A}That's a very
+{FACE_03000A}That's a very
 beautiful stone♥
 Where did you
-buy it from?
+buy it from? {PAUSE}{EOM}{EOM}
 
 Message 151:
- {PAUSE}{EOM}{EOM}You say you found
+You say you found
 it yourself? {PAUSE}{WIPE}
 I wonder if there
 are anymore like
-that...
+that... {PAUSE}{EOM}{EOM}
 
 Message 152:
- {PAUSE}{EOM}{EOM}That stone would
+That stone would
 make a pretty
-ornament. {PAUSE}
+ornament. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 153:
-{EOM}{EOM}{EOM}{EOM}I wonder if you
+I wonder if you
 could sell that
-stone for a lot? {PAUSE}
+stone for a lot? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 154:
-{EOM}{EOM}{EOM}{EOM}Eeek!
-What's that...?
+Eeek!
+What's that...? {PAUSE}{EOM}{EOM}
 
 Message 155:
- {PAUSE}{EOM}{EOM}Is that something
-expensive...? 
+Is that something
+expensive...? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 156:
-{PAUSE}{EOM}{EOM}{EOM}The plants around
+The plants around
 here seem to possess
-strange qualities. {PAUSE}
+strange qualities. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 157:
-{EOM}{EOM}{EOM}{EOM}Those are plants
-from around here. 
+Those are plants
+from around here. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 158:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_03000A}{S_340184}That's a record.
-It's wonderful! 
+{FACE_03000A}{S_340184}That's a record.
+It's wonderful! {PAUSE}{EOM}{EOM}{EOM}
 
 Message 159:
-{PAUSE}{EOM}{EOM}{EOM}I wonder if it's a
+I wonder if it's a
 good song. {PAUSE}{WIPE}
 If it is, then we
 have to dance to
-it♪{PAUSE}
+it♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 160:
-{EOM}{EOM}{EOM}{EOM}That's some kind
+That's some kind
 of ingredient right? {PAUSE}{WIPE}
 You must have gotten
-that from {RUBY}し
+that from {RUBY}.{PAUSE}{EOM}{EOM}
 
 Message 161:
-{C8}{PAUSE}{EOM}{EOM}If you use that,
+If you use that,
 you can make food
-just as good as her. {PAUSE}
+just as good as her. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 162:
-{EOM}{EOM}{EOM}{EOM}Isn't that Wally's
-medal? 
+Isn't that Wally's
+medal? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 163:
-{PAUSE}{EOM}{EOM}{EOM}That's a pretty
-medalゆ
+That's a pretty
+medal. {PAUSE}{EOM}
 
 Message 164:
-{C8} {PAUSE}{EOM}What a strange
+What a strange
 necklace. {PAUSE}{WIPE}
 I bet you could get
-a good price for it.
+a good price for it. {PAUSE}{EOM}{EOM}
 
 Message 165:
- {PAUSE}{EOM}{EOM}Treasure that. 
+Treasure that. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 166:
-{PAUSE}{EOM}{EOM}{EOM}What song is thatケ
+What song is that? {PAUSE}{EOM}
 
 Message 167:
-{CA} {PAUSE}{EOM}Can you play any
+Can you play any
 instruments,
-{NICKNAME}? {PAUSE}
+{NICKNAME}? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 168:
-{EOM}{EOM}{EOM}{EOM}Ooh, fireworks!
-Those are amazing!
+Ooh, fireworks!
+Those are amazing! {PAUSE}{EOM}{EOM}
 
 Message 169:
- {PAUSE}{EOM}{EOM}{FACE_030009}That's a little
+{FACE_030009}That's a little
 scary. {PAUSE}{WIPE}
 Won't it explode and
-blow up everything? 
+blow up everything? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 170:
-{PAUSE}{EOM}{EOM}{EOM}What are you going
-to do with that? 
+What are you going
+to do with that? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 171:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}I was separated from
+{FACE_030009}I was separated from
 my parents when I
 was very little. {PAUSE}{WIPE}
 I never saw any
 other children,
 just adults... {PAUSE}{WIPE}
 It was so boring
-for me as a child. 
+for me as a child. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 172:
-{PAUSE}{EOM}{EOM}{EOM}I'm glad that
+I'm glad that
 our son won't
-ever be like that. 
+ever be like that. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 173:
-{PAUSE}{EOM}{EOM}{EOM}Animals have it so
+Animals have it so
 much easier. {PAUSE}{WIPE}
 They don't have to
 hide their true
-feelings. {PAUSE}
+feelings. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 174:
-{EOM}{EOM}{EOM}{EOM}If I compare my life
+If I compare my life
 now to when I was in
 the {C14}{STRUC_31}{C17}, I have a{PAUSE}
 much higher quality
-of life here.
+of life here. {PAUSE}{EOM}{EOM}
 
 Message 175:
- {PAUSE}{EOM}{EOM}I felt as if
+I felt as if
 {C14}{STRUC_30}{C17}
 were like the edge of{PAUSE}
-the world. {PAUSE}
+the world. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 176:
-{EOM}{EOM}{EOM}{EOM}There are so many
+There are so many
 fun loving people in
 {C14}{STRUC_30}{C17}. {PAUSE}{WIPE}
 Don't you think so
 too? {PAUSE}{WIPE}
 But I just didn't
 like the feeling
-that I escaped here
+that I escaped here.{PAUSE}{EOM}
 
 Message 177:
-.{PAUSE}{EOM}{FACE_03000A}{NICKNAME}, I think
+{FACE_03000A}{NICKNAME}, I think
 your cooking is
 delicious. {PAUSE}{WIPE}
 {S_340184}You really know what
-I like too♥
+I like too♥{PAUSE}{EOM}{EOM}{EOM}
 
 Message 178:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_03000A}I ate the food that
+{FACE_03000A}I ate the food that
 you gave me. {PAUSE}{WIPE}
 It was very good,
-thank you.
+thank you. {PAUSE}{EOM}{EOM}
 
 Message 179:
- {PAUSE}{EOM}{EOM}{FACE_03000A}Hey, {NICKNAME},
+{FACE_03000A}Hey, {NICKNAME},
 you're amazing... {PAUSE}{WIPE}
 Everyone's saying
 how you've become a
-great farmerヲ
+great farmer. {PAUSE}{EOM}
 
 Message 180:
-{C8} {PAUSE}{EOM}{FACE_03000A}Hey, {NICKNAME},
+{FACE_03000A}Hey, {NICKNAME},
 you're amazing... {PAUSE}{WIPE}
 Every says how good
 the crops from
-your field areす
+your field are. {PAUSE}{EOM}
 
 Message 181:
-{C8} {PAUSE}{EOM}{FACE_03000A}Your cooking is
+{FACE_03000A}Your cooking is
 so good, {NICKNAME}♥ {PAUSE}{WIPE}
 You could have
-your own restaurantし
+your own restaurant!{PAUSE}{EOM}{EOM}
 
 Message 182:
-{CB}{PAUSE}{EOM}{EOM}I wondered if you'd
+I wondered if you'd
 be able to adapt to
 farm life... {PAUSE}{WIPE}
 You're doing a real
-good job {NICKNAME}シ
+good job {NICKNAME}. {PAUSE}{EOM}
 
 Message 183:
-{C8} {PAUSE}{EOM}You're growing crops
+You're growing crops
 well. {PAUSE}{WIPE}
 You must like
-growing things. 
+growing things. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 184:
-{PAUSE}{EOM}{EOM}{EOM}You're cooking is
+You're cooking is
 better than mine,
 {NICKNAME}. {PAUSE}{WIPE}
 I've got to try
-harder... 
+harder... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 185:
-{PAUSE}{EOM}{EOM}{EOM}Why don't you try
+Why don't you try
 harder with the
 dairy products? {PAUSE}{WIPE}
 I'd like to eat
 tastier milk
-and eggs. 
+and eggs. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 186:
-{PAUSE}{EOM}{EOM}{EOM}Why don't you try
+Why don't you try
 a little harder
 with your crops? {PAUSE}{WIPE}
 I'm sure you'll
 be able to figure
-it outy
+it out. {PAUSE}{EOM}
 
 Message 187:
-{C8} {PAUSE}{EOM}I really wish I
+I really wish I
 could eat someone's
 yummy cooking. {PAUSE}{WIPE}
 Dear, why don't you
 try learning how to
-cook more? 
+cook more? {PAUSE}{EOM}{EOM}{EOM}
 
 Message 188:
-{PAUSE}{EOM}{EOM}{EOM}I would never have
+I would never have
 believed I'd live
-like this somedayぽ
+like this someday. {PAUSE}{EOM}
 
 Message 189:
-{C8} {PAUSE}{EOM}When I first met you,
+When I first met you,
 I often dreamed of
 being married to you{PAUSE}
-in this town.
+in this town.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 190:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_030019}It's a nice place
+{FACE_030019}It's a nice place
 to live, but I was
-lonely... 
+lonely... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 191:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_030019}I was beginning to
+{FACE_030019}I was beginning to
 give up on ever
-getting married..i
+getting married... {PAUSE}{EOM}
 
 Message 192:
-{C8} {PAUSE}{EOM}{FACE_030019}I'm not dissatisfied
+{FACE_030019}I'm not dissatisfied
 with my life now... {PAUSE}{WIPE}
 But I wouldn't mind
 if it were a little
-more exciting...
+more exciting... {PAUSE}{EOM}{EOM}
 
 Message 193:
- {PAUSE}{EOM}{EOM}{FACE_030019}There's no reason to
+{FACE_030019}There's no reason to
 be dissatisfied with
-my lifestyle. {PAUSE}
+my lifestyle. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 194:
-{EOM}{EOM}{EOM}{EOM}{FACE_030019}It's not easy to
+{FACE_030019}It's not easy to
 find the perfect
-life, you knowe
+life, you know. {PAUSE}{EOM}
 
 Message 195:
-{C8} {PAUSE}{EOM}I feel so relaxed
-when I come here. 
+I feel so relaxed
+when I come here. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 196:
-{PAUSE}{EOM}{EOM}{EOM}I think you like
-it here too?
+I think you like
+it here too? {PAUSE}{EOM}{EOM}
 
 Message 197:
- {PAUSE}{EOM}{EOM}It's gotten nice
-and warm.
+It's gotten nice
+and warm. {PAUSE}{EOM}{EOM}
 
 Message 198:
- {PAUSE}{EOM}{EOM}Bugs came out...
+Bugs came out...
 I don't like
-bugs...
+bugs...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 199:
-{PAUSE}{EOM}{EOM}{EOM}I wish it could be
-like this forever. 
+I wish it could be
+like this forever. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 200:
-{PAUSE}{EOM}{EOM}{EOM}It's really hot.
+It's really hot.
 I don't feel like
-doing anything.
+doing anything. {PAUSE}{EOM}{EOM}
 
 Message 201:
- {PAUSE}{EOM}{EOM}My makeup gets
+My makeup gets
 smeared easily when
-it's this hot. {PAUSE}
+it's this hot. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 202:
-{EOM}{EOM}{EOM}{EOM}You'll get sunburned
+You'll get sunburned
 if you're not
-careful.
+careful. {PAUSE}{EOM}{EOM}
 
 Message 203:
- {PAUSE}{EOM}{EOM}I don't feel like
+I don't feel like
 eating anything. {PAUSE}{WIPE}
 But why don't I
-get any thinnerV
+get any thinner? {PAUSE}{EOM}
 
 Message 204:
-{CA} {PAUSE}{EOM}It's gotten so nice
-and cool now.
+It's gotten so nice
+and cool now. {PAUSE}{EOM}{EOM}
 
 Message 205:
- {PAUSE}{EOM}{EOM}I feel like some
+I feel like some
 music. {PAUSE}{WIPE}
 Maybe I'll go listen
-to {GRIFFIN}せ
+to {GRIFFIN}. {PAUSE}{EOM}
 
 Message 206:
-{C8} {PAUSE}{EOM}The weather is nice,
+The weather is nice,
 so my appetite
 increases... {PAUSE}{WIPE}
 Still, I've got to
-watch my weightC
+watch my weight. {PAUSE}{EOM}
 
 Message 207:
-{C8} {PAUSE}{EOM}Our son likes to
+Our son likes to
 go show me things he
-gets in the woods.
+gets in the woods. {PAUSE}{EOM}{EOM}
 
 Message 208:
- {PAUSE}{EOM}{EOM}{FACE_030002}So c-cold.
 {FACE_030002}So c-cold.
-I'm really cold. {PAUSE}
+{FACE_030002}So c-cold.
+I'm really cold. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 209:
-{EOM}{EOM}{EOM}{EOM}{FACE_030002}It'd be nice if we
+{FACE_030002}It'd be nice if we
 had some hot water
-in the kitchen... 
+in the kitchen... {PAUSE}{EOM}{EOM}{EOM}
 
 Message 210:
-{PAUSE}{EOM}{EOM}{EOM}My feet have been
+My feet have been
 cold lately... {PAUSE}{WIPE}
 They were never
 like that when I
-was younger..ヲ
+was younger... {PAUSE}{EOM}
 
 Message 211:
-{C8} {PAUSE}{EOM}wasn't in the
-kitchen..V
+wasn't in the
+kitchen... {PAUSE}{EOM}
 
 Message 212:
-{C8} {PAUSE}{EOM}{FACE_030019}I'm going to go
+{FACE_030019}I'm going to go
 buy some new
-dishes..ぽ
+dishes... {PAUSE}{EOM}
 
 Message 213:
-{C8} {PAUSE}{EOM}I don't want to
-see a messy room. 
+I don't want to
+see a messy room. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 214:
-{PAUSE}{EOM}{EOM}{EOM}Make sure you keep
-an eye on your son.
+Make sure you keep
+an eye on your son. {PAUSE}{EOM}{EOM}
 
 Message 215:
- {PAUSE}{EOM}{EOM}I wonder if our son
+I wonder if our son
 has a girl he likes.{PAUSE}{WIPE}
 Maybe not in this
-town...
+town... {PAUSE}{EOM}{EOM}
 
 Message 216:
- {PAUSE}{EOM}{EOM}I wonder what boys
+I wonder what boys
 his age are into
-these daysざ
+these days? {PAUSE}{EOM}
 
 Message 217:
-{CA} {PAUSE}{EOM}{FACE_03001A}Oh, {NICKNAME}.
+{FACE_03001A}Oh, {NICKNAME}.
 {S_340184}Just having a little
-break♥
+break♥{PAUSE}{EOM}{EOM}{EOM}
 
 Message 218:
-{PAUSE}{EOM}{EOM}{EOM}I read the book I
+I read the book I
 bought in {C14}{STRUC_31}{C17}. {PAUSE}{WIPE}
 It was really only
 a magazine but
-still...
+still... {PAUSE}{EOM}{EOM}
 
 Message 219:
- {PAUSE}{EOM}{EOM}Oh no. {PAUSE}{WIPE}
+Oh no. {PAUSE}{WIPE}
 Time really flies
 when you're having
-fun reading. {PAUSE}
+fun reading. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 220:
-{EOM}{EOM}{EOM}{EOM}{S_340184}I'm so happy here.
+{S_340184}I'm so happy here.
 {FACE_03000A}Home is where the
-heart is... {PAUSE}
+heart is... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 221:
-{EOM}{EOM}{EOM}{EOM}I was just thinking
+I was just thinking
 how I now have a
-family. 
+family. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 222:
-{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}This TV doesn't get
+{FACE_030009}This TV doesn't get
 any of my favorite
-shows! {PAUSE}
+shows! {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 223:
-{EOM}{EOM}{EOM}{EOM}My son says he'll
-take care of meぽ
+My son says he'll
+take care of me♥{PAUSE}{EOM}{EOM}
 
 Message 224:
-{D6}{PAUSE}{EOM}{EOM}......
+...... {PAUSE}{EOM}{EOM}
 
 Message 225:
- {PAUSE}{EOM}{EOM}...... {NICKNAME}...... {PAUSE}
+...... {NICKNAME}...... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 226:
-{EOM}{EOM}{EOM}{EOM}......
+...... {PAUSE}{EOM}{EOM}
 
 Message 227:
- {PAUSE}{EOM}{EOM}......
+...... {PAUSE}{EOM}{EOM}
 
 Message 228:
- {PAUSE}{EOM}{EOM}......
+...... {PAUSE}{EOM}{EOM}
 
 Message 229:
- {PAUSE}{EOM}{EOM}......
+...... {PAUSE}{EOM}{EOM}
 
 Message 230:
- {PAUSE}{EOM}{EOM}......
+...... {PAUSE}{EOM}{EOM}
 
 Message 231:
- {PAUSE}{EOM}{EOM}......
+...... {PAUSE}{EOM}{EOM}
 
 Message 232:
- {PAUSE}{EOM}{EOM}......
+...... {PAUSE}{EOM}{EOM}
 
 Message 233:
- {PAUSE}{EOM}{EOM}......
+...... {PAUSE}{EOM}{EOM}
 
 Message 234:
- {PAUSE}{EOM}{EOM}......
+...... {PAUSE}{EOM}{EOM}
 
 Message 235:
- {PAUSE}{EOM}{EOM}I'm glad, but I
+I'm glad, but I
 can't really get
-that right now. 
+that right now. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 236:
-{PAUSE}{EOM}{EOM}{EOM}Next time okay?
+Next time okay? {PAUSE}{EOM}{EOM}
 
 Message 237:
- {PAUSE}{EOM}{EOM}{FACE_03000A}Baby♪
+{FACE_03000A}Baby♪
 Make sure Mommy
-cleans you good. {PAUSE}
+cleans you good. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 238:
-{EOM}{EOM}{EOM}{EOM}{FACE_03000A}All clean♥{PAUSE}
+{FACE_03000A}All clean♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 239:
-{EOM}{EOM}{EOM}{EOM}{FACE_030005}It wouldn't hurt
+{FACE_030005}It wouldn't hurt
 you to go in the
 bath with him! {PAUSE}{EOM}{EOM}{EOM}{EOM}
 

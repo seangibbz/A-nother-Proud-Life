@@ -919,494 +919,494 @@ them so much!{PAUSE}{EOM}{EOM}
 Message 176:
 I would love to have
 someone like you
-as a wife!{PAUSE}{EOM}{EOM}{EOM}We す
+as a wife!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 177:
-{DF}ave our whole
+We have our whole
 lives together now!{PAUSE}{WIPE}
 I can't wait to help
-you out on the farm!{PAUSE}{EOM}{EOM}{EOM}Hah
+you out on the farm!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 178:
-...♥♥♥♥{PAUSE}{EOM}{EOM}{EOM}...
+Hah...♥♥♥♥{PAUSE}{EOM}{EOM}{EOM}
 
 Message 179:
-Okay, I see now.{PAUSE}{WIPE}
+...Okay, I see now.{PAUSE}{WIPE}
 You've been in LOVE
 with me since the
-very beginning.{PAUSE}{EOM}{EOM}{EOM}{EOM} {PAUSE}{EOM}{EOM}I
+very beginning.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 180:
- d0
+ {PAUSE}{EOM}{EOM}
 
 Message 181:
-{E6}n't care about
+I don't care about
 that kind of thing,
 though.{PAUSE}{WIPE}
 You gave me a
 {C13}Blue Feather{C17}{PAUSE}{WIPE}. That's
-all that counts.{PAUSE}{EOM}{EOM}{EOM}I wむ
+all that counts.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 182:
-{E6}nder how you
+I wonder how you
 got it... I'm so
-shocked♥♥♥♥{PAUSE}{EOM}...
+shocked♥♥♥♥{PAUSE}{EOM}
 
 Message 183:
-.....Truly?{PAUSE}{EOM}{EOM}{EOM}If ず
+........Truly?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 184:
-{F0}ou are joking,
+If you are joking,
 tell me now, okay? {PAUSE}{WIPE}
 Don't tell me you
 want this feather
-back, either!{PAUSE}{EOM}{EOM}I gゆ
+back, either!{PAUSE}{EOM}{EOM}
 
 Message 185:
-{E6}t so depressed
+I got so depressed
 after you turned me
 down.{PAUSE}{WIPE}
 That's why this is
 difficult for me to
-accept.{PAUSE}{EOM}{EOM}{EOM}{EOM}I'l
+accept.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 186:
-l try to make ours
+I'll try to make ours
 the happiest
-family ever!{PAUSE}{EOM}...
+family ever!{PAUSE}{EOM}
 
 Message 187:
-That's OK.
+...That's OK.
 I'm used to this
 kind of thing.{PAUSE}{WIPE}
 I don't even know
 why I came here.
-Talk about stupid...{PAUSE}{EOM}{EOM}I wぁ
+Talk about stupid...{PAUSE}{EOM}{EOM}
 
 Message 188:
-{D8}s serious
-about you.{PAUSE}{EOM}{EOM}{EOM}Ha つ
+I was serious
+about you.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 189:
-{DF}a! You look cute
+Ha ha! You look cute
 when you're
-surprised.{PAUSE}{EOM}{EOM}{EOM}{EOM}Hey
+surprised.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 190:
-, what this is?{PAUSE}{EOM}{EOM}The
+Hey, what this is?{PAUSE}{EOM}{EOM}
 
 Message 191:
-re's that
-surprised face again!{PAUSE}{EOM}{EOM}{EOM}I tと
+There's that
+surprised face again!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 192:
-{EC}rned you down
+I turned you down
 then, but I was
 really happy inside.{PAUSE}{WIPE}
 I was just too
-scared to show it...{PAUSE}{EOM}{EOM}{EOM}It'
+scared to show it...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 193:
-s true.{PAUSE}{EOM}{EOM}{EOM}{EOM}Won
+It's true.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 194:
-'t you say some-
+Won't you say some-
 thing, please?
 For instance...{PAUSE}{WIPE}
 What do you want
 me to do with this?
 {CHOICE2 DEF0}
 Propose.
-Take it back.{EOM}{EOM}{EOM}I'm
+Take it back.{EOM}{EOM}{EOM}
 
 Message 195:
- so glad! I just
+I'm so glad! I just
 know we'll be happy
 together!{PAUSE}{WIPE}
 I'm sure we'll build
-a great family!{PAUSE}{EOM}I'l
+a great family!{PAUSE}{EOM}
 
 Message 196:
-l go tell
+I'll go tell
 {GRIFFIN} about
 our marriage!{PAUSE}{WIPE}
 I'm sure he'll be a
 little sad, but glad
-at the same time.{PAUSE}{EOM}{EOM}{P_3300C8}.e
+at the same time.{PAUSE}{EOM}{EOM}
 
 Message 197:
-{C8}.......{PAUSE}{EOM}{EOM}Whe
+{P_3300C8}.........{PAUSE}{EOM}{EOM}
 
 Message 198:
-n I thought I was
+When I thought I was
 ready for this...{PAUSE}{WIPE}
 I'm going home now.
 Don't worry, I won't
-ask you again.{PAUSE}{EOM}{EOM}{EOM}I dこ
+ask you again.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 199:
-{E0}dn't know you had
+I didn't know you had
 one of these. You
 never gave it to me,{PAUSE}
 after all. How
-humiliating!{PAUSE}{EOM}{EOM}{EOM}Did
+humiliating!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 200:
- you know how
-I felt about you?{PAUSE}{EOM}{EOM}I wぽ
+Did you know how
+I felt about you?{PAUSE}{EOM}{EOM}
 
 Message 201:
-{D8}s waiting for you
+I was waiting for you
 all that time! What
 were you going to{PAUSE}{WIPE}
 do with this?!
 {CHOICE2 DEF0}
 Propose.
-I'm keeping it.{EOM}{EOM}{EOM}{EOM}You
+I'm keeping it.{EOM}{EOM}{EOM}{EOM}
 
 Message 202:
- almost waited
+You almost waited
 too long, but you
 just asked in time!{PAUSE}{WIPE}
-Congratulations♪{PAUSE}{EOM}{EOM}{EOM}{EOM}Wha
+Congratulations♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 203:
-t!? You mean it's
-not for me after all?{PAUSE}{EOM}{EOM}{EOM}I gる
+What!? You mean it's
+not for me after all?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 204:
-{EC}ess you don't
+I guess you don't
 need a wife .{PAUSE}{WIPE}
 You're doing fine
 by yourself.{PAUSE}{WIPE}
 All you care about
 is work, anyway. I
-won't come again.{PAUSE}{EOM}{EOM}Why
+won't come again.{PAUSE}{EOM}{EOM}
 
 Message 205:
- didn't I take
+Why didn't I take
 this from you back
-then...?{PAUSE}{EOM}But
+then...?{PAUSE}{EOM}
 
 Message 206:
-...I didn't know
+But...I didn't know
 how you really
 felt.{PAUSE}{WIPE}
 You were cold to me
-before too...{PAUSE}{EOM}{EOM}I sV
+before too...{PAUSE}{EOM}{EOM}
 
 Message 207:
-{DF}ould have had the
+I should have had the
 courage to accept
 this then. How silly.
 {CHOICE2 DEF0}
 Propose.
-Take it back.{EOM}{EOM}{EOM}{EOM}Rea
+Take it back.{EOM}{EOM}{EOM}{EOM}
 
 Message 208:
-lly? This time
+Really? This time
 I'll be honest, and
-say how glad I am...!{PAUSE}{EOM}{EOM}{EOM}{EOM}I'm
+say how glad I am...!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 209:
- going home.
+I'm going home.
 Let's still be
-friends.{PAUSE}{EOM}{EOM}{EOM}I'm
+friends.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 210:
- sorry about
+I'm sorry about
 that time.
-You see...{PAUSE}{EOM}{EOM}{EOM}You
+You see...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 211:
- just dumped me,
-so we are even now.{PAUSE}{EOM}May
+You just dumped me,
+so we are even now.{PAUSE}{EOM}
 
 Message 212:
-be we're just not
+Maybe we're just not
 meant to be.{PAUSE}{WIPE}
 What do you think?
 Would you still
 give this to me?
 {CHOICE2 DEF0}
 Propose.
-Take it back.{EOM}{EOM}{EOM}{EOM}Tha
+Take it back.{EOM}{EOM}{EOM}{EOM}
 
 Message 213:
-nk you.{PAUSE}{EOM}{EOM}{EOM}{EOM}...
+Thank you.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 214:
-I guess you're
-right.{PAUSE}{EOM}{EOM}I wV
+...I guess you're
+right.{PAUSE}{EOM}{EOM}
 
 Message 215:
-{D8}s so happy when
+I was so happy when
 you proposed to me.{PAUSE}{WIPE}
 I was just a little
 scared... I kind of
-regret it...{PAUSE}{EOM}{EOM}{EOM}{EOM}I dシ
+regret it...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 216:
-{E0}dn't know any-
+I didn't know any-
 thing about you
 then...
 {CHOICE2 DEF0}
 Propose.
-Take it back.{PAUSE}{EOM}Rea
+Take it back.{PAUSE}{EOM}
 
 Message 217:
-lly? I'm so happy!{PAUSE}{EOM}{EOM}{EOM}{EOM}Goo
+Really? I'm so happy!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 218:
-d morning,
+Good morning,
 {PETE}.{PAUSE}{WIPE}
 Sorry to come so
-early.{PAUSE}{EOM}{EOM}{EOM}{EOM}Wha
+early.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 219:
-t? Oh yes.
-Right, {PETE}?{PAUSE}{EOM}Wha
+What? Oh yes.
+Right, {PETE}?{PAUSE}{EOM}
 
 Message 220:
-t's this,
-{GRIFFIN}...?{PAUSE}{EOM}You
+What's this,
+{GRIFFIN}...?{PAUSE}{EOM}
 
 Message 221:
-'re like Cupid,
-{GRIFFIN}!{PAUSE}{EOM}{EOM}{EOM}{EOM}Why
+You're like Cupid,
+{GRIFFIN}!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 222:
-?
-I'm living here.{PAUSE}{EOM}{EOM}{EOM}{EOM}Wow
+Why?
+I'm living here.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 223:
-! {PAUSE}{EOM}{EOM}Did
+Wow! {PAUSE}{EOM}{EOM}
 
 Message 224:
- you hear?
-I guess it's true.{PAUSE}{EOM}Let
+Did you hear?
+I guess it's true.{PAUSE}{EOM}
 
 Message 225:
-'s listen to what
-Cupid has to say.{PAUSE}{EOM}{EOM}Wha
+Let's listen to what
+Cupid has to say.{PAUSE}{EOM}{EOM}
 
 Message 226:
-t's wrong,
-{GRIFFIN}?{PAUSE}{EOM}Wha
+What's wrong,
+{GRIFFIN}?{PAUSE}{EOM}
 
 Message 227:
-t? What are you
+What? What are you
 talking about?!{PAUSE}{WIPE}
 You say {PETE}
-hates me?{PAUSE}{EOM}{EOM}{EOM}But
+hates me?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 228:
-....!{PAUSE}{EOM}{EOM}{EOM}Tha
+But....!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 229:
-t's impossible!{PAUSE}{EOM}{EOM}{EOM}{EOM}You
+That's impossible!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 230:
- were trying to
+You were trying to
 surprise me, right?{PAUSE}{WIPE}
-Too bad, I found it.{PAUSE}{EOM}{EOM}...
+Too bad, I found it.{PAUSE}{EOM}{EOM}
 
 Message 231:
-I'm just glad I
+...I'm just glad I
 know how you
-feel about me.{PAUSE}{EOM}{EOM}{EOM}{EOM}Can
+feel about me.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 232:
- I keep this?
+Can I keep this?
 {CHOICE2 DEF0}
 Propose.
-Take it back.{EOM}{EOM}I t.
+Take it back.{EOM}{EOM}
 
 Message 233:
-{E9}uly think we can
-be happy together!{PAUSE}{EOM}{EOM}{EOM}{EOM}...
+I truly think we can
+be happy together!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 234:
-What?{PAUSE}{EOM}{EOM}{EOM}...
+...What?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 235:
-This is like a bad
+...This is like a bad
 dream... {PAUSE}{WIPE}
 I can't believe I
 ever thought you were
-serious about me!{PAUSE}{EOM}{EOM}{EOM}{EOM}...
+serious about me!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 236:
-...Are you sure?{PAUSE}{EOM}{EOM}{EOM}Why
+......Are you sure?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 237:
- are you
+Why are you
 proposing to me?{PAUSE}{WIPE}
 I don't understand
-you at all...{PAUSE}{EOM}{EOM}I'l
+you at all...{PAUSE}{EOM}{EOM}
 
 Message 238:
-l accept! You must
+I'll accept! You must
 be the happiest guy
-in the whole world!{PAUSE}{EOM}{EOM}{EOM}{EOM}Oh 0
+in the whole world!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 239:
-{F0}eah...
+Oh yeah...
 Now that we're
 married, we need{PAUSE}
 nicknames for
 each other.{PAUSE}{WIPE}
 What do you want
-to be called?{PAUSE}{EOM}{EOM}{EOM}{EOM}Dar
+to be called?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 240:
 
 
 Message 241:
-n! I forgot to
+Darn! I forgot to
 make {NAMI} pay
 again...
 {CHOICE2 DEF0}
 I'll pay.
-Ha ha ha!{PAUSE}{EOM}{EOM}Gee
+Ha ha ha!{PAUSE}{EOM}{EOM}
 
 Message 242:
-! Really?
+Gee! Really?
 You're so nice,
 {PETE}♥{PAUSE}{WIPE}
 A Moon Trip and a
 Special will be
-256G.{PAUSE}{EOM}Rea
+256G.{PAUSE}{EOM}
 
 Message 243:
-lly? You checked
+Really? You checked
 your pockets?{PAUSE}{WIPE}
 Oh well, too bad!
-Hee hee...{PAUSE}{EOM}{EOM}{EOM}Nev
+Hee hee...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 244:
-er mind. Next time
+Never mind. Next time
 when {NAMI} comes
 back, you'll have{PAUSE}
 forgotten all about
-it anyways.{PAUSE}{EOM}{EOM}{EOM}{EOM}Tha
+it anyways.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 245:
-nks.
+Thanks.
 Next time, buy me
-a drink too♥{PAUSE}{EOM}{EOM}Sto
+a drink too♥{PAUSE}{EOM}{EOM}
 
 Message 246:
-p it! This isn't
-funny!{PAUSE}{EOM}{EOM}{EOM}Buy
+Stop it! This isn't
+funny!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 247:
- me a drink
-next time♥{PAUSE}{EOM}{EOM}Wel
+Buy me a drink
+next time♥{PAUSE}{EOM}{EOM}
 
 Message 248:
-l...okay.{PAUSE}{EOM}{EOM}{EOM}Goo
+Well...okay.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 249:
-d evening.
+Good evening.
 Would you like to
 sit here?
 {CHOICE2 DEF0}
 Thanks!
-Sorry.{EOM}{EOM}Tha
+Sorry.{EOM}{EOM}
 
 Message 250:
-t's too bad...{PAUSE}{EOM}{EOM}{EOM}You
+That's too bad...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 251:
- like playing with
+You like playing with
 your mother, don't
-you, {TATSUYA}?♥{PAUSE}{EOM}Hey
+you, {TATSUYA}?♥{PAUSE}{EOM}
 
 Message 252:
-, {NICKNAME}.
+Hey, {NICKNAME}.
 I want to raise
 {TATSUYA} to be{PAUSE}
 smart and handsome.
 What do you think?
 {CHOICE2 DEF0}
 I agree.
-I don't like it.{EOM}{EOM}I'm
+I don't like it.{EOM}{EOM}
 
 Message 253:
- glad you think so
+I'm glad you think so
 too! Now I've got to
-think up a plan...{PAUSE}{EOM}{EOM}{FACE_030004}W
+think up a plan...{PAUSE}{EOM}{EOM}
 
 Message 254:
-hy not? You can't
+{FACE_030004}Why not? You can't
 get by in this world
 without smarts!{PAUSE}{WIPE}
 {FACE_030009}....But...
 Just as long as he's
-happy, I guess.{PAUSE}{EOM}{EOM}Tim
+happy, I guess.{PAUSE}{EOM}{EOM}
 
 Message 255:
-e for bed now,
-{TATSUYA}. Come here.{PAUSE}{EOM}{EOM}{EOM}Oh,
+Time for bed now,
+{TATSUYA}. Come here.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 256:
- I almost forgot,
-{NICKNAME}.{PAUSE}{EOM}{EOM}The
+Oh, I almost forgot,
+{NICKNAME}.{PAUSE}{EOM}{EOM}
 
 Message 257:
- refrigerator is
+The refrigerator is
 almost out of food.
 Will you restock it?{PAUSE}{WIPE}
-Thanks. Good night.{PAUSE}{EOM}{EOM}Wel
+Thanks. Good night.{PAUSE}{EOM}{EOM}
 
 Message 258:
-come home.{PAUSE}{EOM}{EOM}{TATSUYA} jび
+Welcome home.{PAUSE}{EOM}{EOM}
 
 Message 259:
-{EC}st
-went to bed.{PAUSE}{EOM}I tだ
+{TATSUYA} just
+went to bed.{PAUSE}{EOM}
 
 Message 260:
-{DF}ink {TATSUYA}
+I think {TATSUYA}
 might be a good
-farmer. Today...{PAUSE}{EOM}{EOM}{EOM}Tod
+farmer. Today...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 261:
-ay he went into
+Today he went into
 the tool shed, and
-I followed him.{PAUSE}{EOM}{EOM}{EOM}???
+I followed him.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 262:
-{EOM}{EOM}???
+???{EOM}{EOM}
 
 Message 263:
-?{EOM}{EOM}{EOM}{EOM}???
+????{EOM}{EOM}{EOM}{EOM}
 
 Message 264:
-?{EOM}{EOM}{EOM}{EOM}♪Da
+????{EOM}{EOM}{EOM}{EOM}
 
 Message 265:
--da-da♪
-  ♪Da-da-daaa...♪{PAUSE}{EOM}{EOM}♪Da
+♪Da-da-da♪
+  ♪Da-da-daaa...♪{PAUSE}{EOM}{EOM}
 
 Message 266:
--da-da♪
-  ♪Da-da-daaa...♪{PAUSE}{EOM}{EOM}Tha
+♪Da-da-da♪
+  ♪Da-da-daaa...♪{PAUSE}{EOM}{EOM}
 
 Message 267:
-t's a good boy,
+That's a good boy,
 {TATSUYA}. Just wait
-a little longer♪{PAUSE}{EOM}{EOM}{EOM}{EOM}Tha
+a little longer♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 268:
-t was great,
+That was great,
 {TATSUYA}!{PAUSE}{WIPE}
 Sing it for your
-mother, too!{PAUSE}{EOM}{EOM}Hi,
+mother, too!{PAUSE}{EOM}{EOM}
 
 Message 269:
- {NICKNAME}!{PAUSE}{WIPE}
+Hi, {NICKNAME}!{PAUSE}{WIPE}
 {TATSUYA} has become
 a great singer!{PAUSE}{WIPE}
 When I sing, he
@@ -1414,129 +1414,129 @@ copies me perfectly!
 He must be a prodigy!
 {CHOICE2 DEF0}
 You're right.
-Too young to tell.{EOM}{FACE_030003}I
+Too young to tell.{EOM}
 
 Message 270:
- can't wait
+{FACE_030003}I can't wait
 until he becomes
-a star♪{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}W
+a star♪{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 271:
-hat are you
+{FACE_030004}What are you
 talking about!?{PAUSE}{WIPE}
 I'm sure any son of
 mine would be
 talented!{PAUSE}{WIPE}
 {FACE_030003}All we have to
-do is encourage him!{PAUSE}{EOM}{EOM}{EOM}{EOM}Yaa
+do is encourage him!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 272:
 
 
 Message 273:
-awn....{PAUSE}{EOM}{EOM}{EOM}Goo
+Yaaawn....{PAUSE}{EOM}{EOM}{EOM}
 
 Message 274:
-d morning.
-You're up early...{PAUSE}{EOM}{EOM}{EOM}Goo
+Good morning.
+You're up early...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 275:
-d morning,
-{NICKNAME}♥{PAUSE}{EOM}{EOM}Goo
+Good morning,
+{NICKNAME}♥{PAUSE}{EOM}{EOM}
 
 Message 276:
-d morning♪
-You're up early...{PAUSE}{EOM}{EOM}{EOM}Tim
+Good morning♪
+You're up early...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 277:
-e to wake up,
+Time to wake up,
 {TATSUYA}!
-It's morning!{PAUSE}{EOM}{EOM}{EOM}I'm
+It's morning!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 278:
- going to bed
-now, {NICKNAME}.{PAUSE}{EOM}Oh,
+I'm going to bed
+now, {NICKNAME}.{PAUSE}{EOM}
 
 Message 279:
- look what time
+Oh, look what time
 it is. {TATSUYA},
-time to go to bed.{PAUSE}{EOM}{EOM}{EOM}{EOM}It'
+time to go to bed.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 280:
-s your bedtime,
+It's your bedtime,
 {TATSUYA}. You won't
 be able to grow up{PAUSE}
 smart if you don't go
-to bed early.{PAUSE}{EOM}{EOM}{EOM}{EOM}{TATSUYA}! ケ
+to bed early.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 281:
-{PREV_80}{DF}y can't
+{TATSUYA}! Why can't
 you do as you're
-told?! Hmmph!!{PAUSE}{EOM}{EOM}{EOM}Tha
+told?! Hmmph!!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 282:
-t's a good boy♪
+That's a good boy♪
 Can you say good
-night to your Mommy?{PAUSE}{EOM}{EOM}{TATSUYA}--
+night to your Mommy?{PAUSE}{EOM}{EOM}
 
 Message 283:
-!{PAUSE}{EOM}{EOM}{EOM}{FACE_03001F}O
+{TATSUYA}--!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 284:
-h my goodness!
+{FACE_03001F}Oh my goodness!
 We have to go looking
-for {TATSUYA}!{PAUSE}{EOM}{EOM}{EOM}{EOM}It'
+for {TATSUYA}!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 285:
-s so late!
-Where could he be?!{PAUSE}{EOM}{EOM}{EOM}{FACE_03001F}L
+It's so late!
+Where could he be?!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 286:
-ook what time
+{FACE_03001F}Look what time
 it is!
-It's so late!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}W
+It's so late!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 287:
-e have to go
+{FACE_030004}We have to go
 search for
-{TATSUYA}!{PAUSE}{EOM}{EOM}{EOM}{FACE_030004}D
+{TATSUYA}!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 288:
-o you know how
+{FACE_030004}Do you know how
 worried we were,
-{TATSUYA}?{PAUSE}{EOM}{EOM}{EOM}{EOM}You
+{TATSUYA}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 289:
- have to pay more
+You have to pay more
 attention too,
-{NICKNAME}!{PAUSE}{EOM}{EOM}{EOM}It'
+{NICKNAME}!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 290:
-s time for bed
-now!{PAUSE}{EOM}{EOM}{EOM}Go ぽ
+It's time for bed
+now!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 291:
-{EB}o bed, I said!{PAUSE}{EOM}{EOM}{EOM}{TATSUYA}!{PAUSE}{WIPE}
+Go to bed, I said!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 292:
-
+{TATSUYA}!{PAUSE}{WIPE}
 How many times do I
 have to tell you
-to go to bed!?{PAUSE}{EOM}{EOM}Wel
+to go to bed!?{PAUSE}{EOM}{EOM}
 
 Message 293:
-come home♥{PAUSE}{EOM}{EOM}{TATSUYA} jび
+Welcome home♥{PAUSE}{EOM}{EOM}
 
 Message 294:
-{EC}st went
-to bed.{PAUSE}{EOM}He'
+{TATSUYA} just went
+to bed.{PAUSE}{EOM}
 
 Message 295:
-s been watching
-a lot of TV lately.{PAUSE}{EOM}{EOM}I w0
+He's been watching
+a lot of TV lately.{PAUSE}{EOM}{EOM}
 
 Message 296:
-{E6}nder if he's
+I wonder if he's
 interested in farm
 work?{PAUSE}{WIPE}
 He gets so serious
@@ -1546,258 +1546,258 @@ What do you think,
 {NICKNAME}?
 {CHOICE2 DEF0}
 You must be right!
-I don't think so.{EOM}{EOM}I ke
+I don't think so.{EOM}{EOM}
 
 Message 297:
-{E5}ew it♪
+I knew it♪
 I bet soon he'll want
-to start helping out.{PAUSE}{EOM}{EOM}{FACE_03001A}M
+to start helping out.{PAUSE}{EOM}{EOM}
 
 Message 298:
-aybe you're
+{FACE_03001A}Maybe you're
 right, but I bet he
 will still want to{PAUSE}
-help out eventually.{PAUSE}{EOM}{EOM}{EOM}♪A V
+help out eventually.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 299:
-{E5}ecklace of...♪
-♪White flowers...♪{PAUSE}{EOM}♪Th
+♪A necklace of...♪
+♪White flowers...♪{PAUSE}{EOM}
 
 Message 300:
-e necklace...♪
-♪You gave me...♪{PAUSE}{EOM}{EOM}{EOM}Tha
+♪The necklace...♪
+♪You gave me...♪{PAUSE}{EOM}{EOM}{EOM}
 
 Message 301:
-t's a good boy,
+That's a good boy,
 {TATSUYA}. Wait just
-a little longer.{PAUSE}{EOM}{EOM}{EOM}{EOM}Tha
+a little longer.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 302:
-t's a good boy!
+That's a good boy!
 Sing that song
-for Mommy★{PAUSE}{EOM}{EOM}{EOM}Hi,
+for Mommy★{PAUSE}{EOM}{EOM}{EOM}
 
 Message 303:
- {NICKNAME}!
+Hi, {NICKNAME}!
 {TATSUYA} has turned
 into a great singer!{PAUSE}{WIPE}
 He repeats songs
 right after I do!{PAUSE}{WIPE}
 I think he's got
-a talent!{PAUSE}{EOM}{FACE_030003}I
+a talent!{PAUSE}{EOM}
 
 Message 304:
-'m sure he does!
-He could be a star♪{PAUSE}{EOM}{FACE_030004}W
+{FACE_030003}I'm sure he does!
+He could be a star♪{PAUSE}{EOM}
 
 Message 305:
-hat are you
+{FACE_030004}What are you
 talking about!?{PAUSE}{WIPE}
 I'm sure any son of
 mine would be
 talented!{PAUSE}{WIPE}
 {FACE_030003}All we have to
-do is encourage him!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030003}W
+do is encourage him!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 306:
-hat are you
+{FACE_030003}What are you
 drawing a picture
-of, {TATSUYA}?{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030009}.
+of, {TATSUYA}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 307:
-..Mommy?{PAUSE}{WIPE}
+{FACE_030009}...Mommy?{PAUSE}{WIPE}
 {FACE_030019}It looks just
-like your mother...{PAUSE}{EOM}{TATSUYA} d0
+like your mother...{PAUSE}{EOM}
 
 Message 308:
-{E9}ew this!
+{TATSUYA} drew this!
 What do you think
 it is?
 {CHOICE3 DEF0}
 A flower.
 Me, of course.
-I don't know.{EOM}Ha V
+I don't know.{EOM}
 
 Message 309:
-{DF}a...So it looks
+Ha ha...So it looks
 like a flower to
 you, too?{PAUSE}{WIPE}
 He said "Mommy", {S_3204B0}
 but I still think
-it's good, don't you?{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}R
+it's good, don't you?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 310:
-eally? Hmm...
+{FACE_030009}Really? Hmm...
 {FACE_030003}I think could
-has real talent...{PAUSE}{EOM}{EOM}{EOM}{EOM}Rea
+has real talent...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 311:
-lly? It looks
+Really? It looks
 like a flower to me,{PAUSE}{WIPE}
 but {TATSUYA} says
-its his Mommy!{PAUSE}{EOM}{EOM}{EOM}{EOM}...
+its his Mommy!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 312:
-I bet we just
+...I bet we just
 can't see it, but...
 {FACE_030003}I'm sure of it!{PAUSE}{WIPE}
 He must be an
-artistic prodigy!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030003}W
+artistic prodigy!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 313:
-hat are you doing,
-{TATSUYA}? {PAUSE}{EOM}{EOM}{FACE_030003}W
+{FACE_030003}What are you doing,
+{TATSUYA}? {PAUSE}{EOM}{EOM}
 
 Message 314:
-hat a good job
-you're doing!{PAUSE}{EOM}{EOM}Don
+{FACE_030003}What a good job
+you're doing!{PAUSE}{EOM}{EOM}
 
 Message 315:
-'t you think
+Don't you think
 {TATSUYA} has good hand
 eye coordination?
 {CHOICE2 DEF0}
 Really?
-Of course he does!{EOM}{EOM}He み
+Of course he does!{EOM}{EOM}
 
 Message 316:
-{E3}oves to jump and
+He loves to jump and
 play. Maybe he'll be
-a sports star...{PAUSE}{EOM}{EOM}He V
+a sports star...{PAUSE}{EOM}{EOM}
 
 Message 317:
-{E0}s your son,
+He is your son,
 after all!{PAUSE}{WIPE}
 {FACE_030003}We've got to
 encourage him all
-we can!{PAUSE}{EOM}{EOM}{EOM}{EOM}You
+we can!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 318:
- know, {NICKNAME},
+You know, {NICKNAME},
 {TATSUYA} loves
 to read.{PAUSE}{WIPE}
 Even just the other
-day, he was...{PAUSE}{EOM}{EOM}{EOM}{FACE_030003}W
+day, he was...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 319:
-hat book are you
-reading, {TATSUYA}?{PAUSE}{EOM}{EOM}{TATSUYA}, そ
+{FACE_030003}What book are you
+reading, {TATSUYA}?{PAUSE}{EOM}{EOM}
 
 Message 320:
-{C13} asked
-you a question...{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_03001E}D
+{TATSUYA}, I asked
+you a question...{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 321:
-on't ignore me!{PAUSE}{WIPE}
+{FACE_03001E}Don't ignore me!{PAUSE}{WIPE}
 {FACE_030001}Well, It's time to
 make dinner, anyway.
-Keep reading!{PAUSE}{EOM}{EOM}{EOM}{EOM}Are
+Keep reading!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 322:
- you still
-reading, {TATSUYA}?{PAUSE}{EOM}{FACE_030003}Y
+Are you still
+reading, {TATSUYA}?{PAUSE}{EOM}
 
 Message 323:
-ou're going to
+{FACE_030003}You're going to
 become a scholar
 when you grow up,{PAUSE}
 aren't you,
-{TATSUYA}?♪{PAUSE}{EOM}{EOM}{TATSUYA} jV
+{TATSUYA}?♪{PAUSE}{EOM}{EOM}
 
 Message 324:
-{EC}st
+{TATSUYA} just
 loves to read!★{PAUSE}{WIPE}
 I'm sure he'll become
 a scholar when he
 grows up!
 {CHOICE2 DEF0}
 I agree.
-Don't be silly.{EOM}{EOM}{EOM}{EOM}{FACE_030003}T
+Don't be silly.{EOM}{EOM}{EOM}{EOM}
 
 Message 325:
-hat's right!
+{FACE_030003}That's right!
 My dream will come
-true♪ Cool!{PAUSE}{EOM}{EOM}{FACE_030004}H
+true♪ Cool!{PAUSE}{EOM}{EOM}
 
 Message 326:
-ow can you say that?
+{FACE_030004}How can you say that?
 I'm sure he'll become
-a famous scholar!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}H
+a famous scholar!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 327:
-ey, {NICKNAME}.
+{FACE_030004}Hey, {NICKNAME}.
 I heard from
 {TAKAKURA} that{PAUSE}
 you weren't selling
 much. Is it true?
 {CHOICE2 DEF0}
 I'll try harder.
-Who cares?{EOM}{FACE_030004}A
+Who cares?{EOM}
 
 Message 328:
-re you serious?
+{FACE_030004}Are you serious?
 {CHOICE2 DEF0}
 Just kidding!
-Sure I am!{EOM}{EOM}{FACE_030009}P
+Sure I am!{EOM}{EOM}
 
 Message 329:
-lease say you're
+{FACE_030009}Please say you're
 joking!
 {CHOICE2 DEF0}
 I am. Don't worry.
-Not at all!{EOM}{EOM}{EOM}So す
+Not at all!{EOM}{EOM}{EOM}
 
 Message 330:
-{F0}ou really don't
+So you really don't
 care about the farm
 at all?!
 {CHOICE2 DEF0}
 Sorry for the joke.
-Yep, that's right.{EOM}{EOM}{EOM}{FACE_030004}W
+Yep, that's right.{EOM}{EOM}{EOM}
 
 Message 331:
-hat kind of joke
+{FACE_030004}What kind of joke
 is that!?
-{FACE_030009}I can't believe you!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}D
+{FACE_030009}I can't believe you!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 332:
-on't joke like that!
+{FACE_030004}Don't joke like that!
 {FACE_030009}But, if you promise
-to try harder...{PAUSE}{EOM}{FACE_030007}.
+to try harder...{PAUSE}{EOM}
 
 Message 333:
-..! {S_3203E8}{PAUSE}{WIPE}
+{FACE_030007}...! {S_3203E8}{PAUSE}{WIPE}
 {FACE_030004}I was so worried
 you weren't joking!{PAUSE}{WIPE}
 {FACE_030007}...Please just try
-harder, okay?{PAUSE}{EOM}{EOM}{EOM}{FACE_03001E}W
+harder, okay?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 334:
-hat!? {S_320514}{EOM}{EOM}{EOM}{EOM}{FACE_03001E}W
+{FACE_03001E}What!? {S_320514}{EOM}{EOM}{EOM}{EOM}
 
 Message 335:
-hat are you
-saying!?{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}I
+{FACE_03001E}What are you
+saying!?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 336:
- can't believe it!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}I
+{FACE_030004}I can't believe it!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 337:
- give up!
+{FACE_030004}I give up!
 Do whatever you
-want!{PAUSE}{EOM}I hぽ
+want!{PAUSE}{EOM}
 
 Message 338:
-{DC}ar a beautiful
+I hear a beautiful
 voice...Is that
-{GUSTAFA}?{PAUSE}{EOM}{EOM}{EOM}Wai
+{GUSTAFA}?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 339:
-t...Was it
-{TATSUYA}?{PAUSE}{EOM}Hey
+Wait...Was it
+{TATSUYA}?{PAUSE}{EOM}
 
 Message 340:
-, {NICKNAME},
+Hey, {NICKNAME},
 I think {TATSUYA}
 may be musically{PAUSE}
 inclined.{PAUSE}{WIPE}
@@ -1806,78 +1806,78 @@ praised him.{PAUSE}{WIPE}
 What do you think?
 {CHOICE2 DEF0}
 I agree.
-I doubt it.{EOM}{EOM}I'm
+I doubt it.{EOM}{EOM}
 
 Message 341:
- glad you think
+I'm glad you think
 so too!{PAUSE}{WIPE}
 I want him to find
 something he loves
-to do...{PAUSE}{EOM}{EOM}But
+to do...{PAUSE}{EOM}{EOM}
 
 Message 342:
- I just hope he
+But I just hope he
 doesn't give up on
-his studies...{PAUSE}{EOM}Rea
+his studies...{PAUSE}{EOM}
 
 Message 343:
-lly? But...I've
+Really? But...I've
 never heard a voice
 so beautiful...{PAUSE}{WIPE}
 I do think we
 should encourage
-him, though!{PAUSE}{EOM}{EOM}{EOM}{EOM}But
+him, though!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 344:
-...We can't let
+But...We can't let
 him give up on his
-studies...!{PAUSE}{EOM}I wぞ
+studies...!{PAUSE}{EOM}
 
 Message 345:
-{E6}nder if {TATSUYA}
+I wonder if {TATSUYA}
 has the makings of
 an artist...{PAUSE}{WIPE}
 What do you think?
 {CHOICE2 DEF0}
 I think he does.
-It's too early.{EOM}If {PETE}
+It's too early.{EOM}
 
 Message 346:
-{C15} says so,
+If {CODY} says so,
 then it must be true!{PAUSE}{WIPE}
 I wonder what kind
 of art he'll make
-when he gets older...{PAUSE}{EOM}You
+when he gets older...{PAUSE}{EOM}
 
 Message 347:
-'re right...It is
+You're right...It is
 too early to know.{PAUSE}{WIPE}
 If he is artistic
 like {CODY} says,{PAUSE}
 we should encourage
-him all we can!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}W
+him all we can!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 348:
-hat are you doing!?
-{FACE_030009}You surprised me!{PAUSE}{EOM}Of づ
+{FACE_030004}What are you doing!?
+{FACE_030009}You surprised me!{PAUSE}{EOM}
 
 Message 349:
-{DA}ourse he
+Of course he
 couldn't win against
-{HUGH}!{PAUSE}{EOM}{TATSUYA} iと
+{HUGH}!{PAUSE}{EOM}
 
 Message 350:
-{EA} a really
+{TATSUYA} is a really
 fast runner, {NICKNAME}.{PAUSE}{WIPE}
 Even {WALLY} said so.
 Do you think he could
 be an athlete?
 {CHOICE2 DEF0}
 Maybe he could.
-I doubt it.{EOM}{EOM}{EOM}{EOM}He た
+I doubt it.{EOM}{EOM}{EOM}{EOM}
 
 Message 351:
-{E3}ikes to practice
+He likes to practice
 so much...He could be
 a pro athlete!{PAUSE}{WIPE}
 {FACE_030009}But I'm not sure
@@ -1885,19 +1885,19 @@ I want him to turn
 out like {WALLY}...{PAUSE}{WIPE}
 I bet he could be
 {HUGH}'s rival,
-though...!{PAUSE}{EOM}{EOM}{EOM}{FACE_030003}Y
+though...!{PAUSE}{EOM}{EOM}{EOM}
 
 Message 352:
-ou're right...{PAUSE}{WIPE}
+{FACE_030003}You're right...{PAUSE}{WIPE}
 {FACE_03000C}He is fast, though.
 {FACE_030001}And he does
 like to practice...{PAUSE}{WIPE}
 {FACE_030009}I hope it just
 doesn't interfere
-with his studies...{PAUSE}{EOM}{EOM}{EOM}You
+with his studies...{PAUSE}{EOM}{EOM}{EOM}
 
 Message 353:
- know that
+You know that
 scholar wanted
 {TATSUYA} for an{PAUSE}{WIPE}
 assistant? I think
@@ -1906,151 +1906,151 @@ academic type.{PAUSE}{WIPE}
 What do you think?
 {CHOICE2 DEF0}
 I agree.
-Nah, I doubt it.{EOM}{EOM}{EOM}Yes
+Nah, I doubt it.{EOM}{EOM}{EOM}
 
 Message 354:
-, our {TATSUYA}
+Yes, our {TATSUYA}
 will probably grow up
 to be a scholar...!{PAUSE}{WIPE}
 We've got to
 encourage him
-all we can!{PAUSE}{EOM}But
+all we can!{PAUSE}{EOM}
 
 Message 355:
-, he's so smart
+But, he's so smart
 he's been scouted by
 a real scholar!{PAUSE}{WIPE}
 His future is
 already set♪
-Go {TATSUYA}!{PAUSE}{EOM}{EOM}{FACE_030004}H
+Go {TATSUYA}!{PAUSE}{EOM}{EOM}
 
 Message 356:
-ey, {NICKNAME}.
+{FACE_030004}Hey, {NICKNAME}.
 I heard from
 {TAKAKURA} that{PAUSE}
 you weren't selling
 much. Is it true?
 {CHOICE2 DEF0}
 I'll try harder.
-I hate farming.{EOM}{EOM}{EOM}{EOM}{FACE_030004}A
+I hate farming.{EOM}{EOM}{EOM}{EOM}
 
 Message 357:
-re you serious?
+{FACE_030004}Are you serious?
 {CHOICE2 DEF0}
 Just kidding!
-Of course!{EOM}{FACE_030009}P
+Of course!{EOM}
 
 Message 358:
-lease say you're
+{FACE_030009}Please say you're
 joking!
 {CHOICE2 DEF0}
 I am. Don't worry.
-Not at all!{EOM}{EOM}{EOM}So す
+Not at all!{EOM}{EOM}{EOM}
 
 Message 359:
-{F0}ou really don't
+So you really don't
 care about the farm
 at all?!
 {CHOICE2 DEF0}
 Sorry for the joke.
-Yep, that's right.{EOM}{EOM}{EOM}{FACE_030004}W
+Yep, that's right.{EOM}{EOM}{EOM}
 
 Message 360:
-hat kind of joke
+{FACE_030004}What kind of joke
 is that!?
-{FACE_030009}I can't believe you!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}D
+{FACE_030009}I can't believe you!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 361:
-on't joke like that!
+{FACE_030004}Don't joke like that!
 {FACE_030009}But, if you promise
-to try harder...{PAUSE}{EOM}{FACE_030007}.
+to try harder...{PAUSE}{EOM}
 
 Message 362:
-..! {S_3203E8}{PAUSE}{WIPE}
+{FACE_030007}...! {S_3203E8}{PAUSE}{WIPE}
 {FACE_030004}I was so worried
 you weren't joking!{PAUSE}{WIPE}
 {FACE_030007}...Please just try
-harder, okay?{PAUSE}{EOM}{EOM}{EOM}{FACE_03001E}W
+harder, okay?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 363:
-hat?! {S_320514}{EOM}{EOM}{EOM}{EOM}{FACE_03001E}W
+{FACE_03001E}What?! {S_320514}{EOM}{EOM}{EOM}{EOM}
 
 Message 364:
-hat are you
-saying!?{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}I
+{FACE_03001E}What are you
+saying!?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 365:
- can't believe it!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}I
+{FACE_030004}I can't believe it!{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 366:
- give up!
+{FACE_030004}I give up!
 I don't care anymore!
-Good bye!!{PAUSE}{EOM}{FACE_030004}I
+Good bye!!{PAUSE}{EOM}
 
 Message 367:
-'m just saying
+{FACE_030004}I'm just saying
 these things for
-your own good!{S_3203E8}{EOM}{EOM}{EOM}{FACE_030004}W
+your own good!{S_3203E8}{EOM}{EOM}{EOM}
 
 Message 368:
-hat!!?
-You say... {S_3203E8}{EOM}{EOM}{FACE_030004}W
+{FACE_030004}What!!?
+You say... {S_3203E8}{EOM}{EOM}
 
 Message 369:
-hat!{PAUSE}{EOM}Wha
+{FACE_030004}What!{PAUSE}{EOM}
 
 Message 370:
-t are you
-reading?{PAUSE}{EOM}{EOM}{EOM}{EOM}Do ま
+What are you
+reading?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 371:
-{F0}ou want
-a snack?{PAUSE}{EOM}{EOM}{EOM}...
+Do you want
+a snack?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 372:
-What?{PAUSE}{EOM}{EOM}{EOM}Wha
+...What?{PAUSE}{EOM}{EOM}{EOM}
 
 Message 373:
-t is it...?
-Is everything okay?{PAUSE}{EOM}{EOM}{EOM}{EOM}Go と
+What is it...?
+Is everything okay?{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 374:
-{D8}sk your mother.
+Go ask your mother.
 She'd be glad to
-teach you♪{PAUSE}{EOM}{EOM}{EOM}{EOM}I ざ
+teach you♪{PAUSE}{EOM}{EOM}
 
 Message 375:
-{E2}now what you mean.
+{EOM}{EOM}I know what you mean.
 I'll go ask him
 first, then you{PAUSE}
 wait for a good
-moment, okay?{PAUSE}{EOM}Hi
+moment, okay?
 
 Message 376:
-, {NICKNAME}.
-About {TATSUYA}...{PAUSE}{EOM}He
+{PAUSE}{EOM}Hi, {NICKNAME}.
+About {TATSUYA}...
 
 Message 377:
-'s so interested in
+{PAUSE}{EOM}He's so interested in
 the farm lately.{PAUSE}{WIPE}
 If he comes and
 asks you, will you
 teach him about it?{PAUSE}{WIPE}
 {CHOICE2 DEF0}
 Of course.
-I'm too busy.{EOM}{EOM}{EOM}{EOM}{FACE_030003}
+I'm too busy.{EOM}{EOM}
 
 Message 378:
-I'm so glad!
+{EOM}{EOM}{FACE_030003}I'm so glad!
 There's a limit to
 what I can teach{PAUSE}{WIPE}
 him, after all!
 And, I think he
 wants to get closer{PAUSE}
-to you, {NICKNAME}.{PAUSE}{EOM}{EOM}{EOM}{FACE_030004}
+to you, {NICKNAME}.{PAUSE}{EOM}
 
 Message 379:
-How can you say
+{EOM}{EOM}{FACE_030004}How can you say
 that!? Can't you see
 he wants to get{PAUSE}
 closer to you to
@@ -2059,87 +2059,87 @@ If you are so busy,
 why not letting him
 help you? {FACER_000000}
 {?_39}
-Don't you agree?{PAUSE}{EOM}{EOM}{EOM}Do
+Don't you agree?{PAUSE}{EOM}
 
 Message 380:
- you have a
-minute, {NICKNAME}?{PAUSE}{EOM}I と
+{EOM}{EOM}Do you have a
+minute, {NICKNAME}?
 
 Message 381:
-{EE}onder if {TATSUYA}
+{PAUSE}{EOM}I wonder if {TATSUYA}
 is interested in
 farm work at all...
 {CHOICE2 DEF0}
 I doubt it.
-He might be.{EOM}{EOM}{EOM}I V
+He might be.{EOM}
 
 Message 382:
-{EB}hink you're right.
+{EOM}{EOM}I think you're right.
 That's okay, though. {PAUSE}{WIPE}
 He should decide
 what he likes and
-live his own life.{PAUSE}{EOM}Hm
+live his own life.
 
 Message 383:
-m...If you think
+{PAUSE}{EOM}Hmm...If you think
 so, {NICKNAME}.{PAUSE}{WIPE}
 If he isn't,
 though, he should do
 whatever he likes.{PAUSE}{WIPE}
-Don't you agree?{PAUSE}{EOM}{EOM}{EOM}Ho
+Don't you agree?{PAUSE}{EOM}
 
 Message 384:
-w is the farm
+{EOM}{EOM}How is the farm
 these days...?
 {CHOICE2 DEF0}
 Just fine.
-Not so great.{EOM}Re
+Not so greatぽ
 
 Message 385:
-ally? {FACE_030023}
+{C8}{EOM}Really? {FACE_030023}
 If you say so...{PAUSE}{WIPE}
 {TAKAKURA} says
 differently, but...{PAUSE}{WIPE}
 {FACE_030009}Now that {TATSUYA}
 is older, you'll have
-to work even harder.{PAUSE}{EOM}{EOM}{EOM}{FACE_030004}
+to work even harder.{PAUSE}{EOM}
 
 Message 386:
-What are you
+{EOM}{EOM}{FACE_030004}What are you
 talking about!?
 Now that {TATSUYA}'s{PAUSE}{WIPE}
 older, you'll have to
-work even harder!{PAUSE}{EOM}Mu
+work even harder!
 
 Message 387:
-sic is fine,
+{PAUSE}{EOM}Music is fine,
 but you should help
-your mother out, too.{PAUSE}{EOM}Ar
+your mother out, too.
 
 Message 388:
-t is fine,
+{PAUSE}{EOM}Art is fine,
 but you should help
-your mother out, too.{PAUSE}{EOM}Sp
+your mother out, too.
 
 Message 389:
-orts are fine,
+{PAUSE}{EOM}Sports are fine,
 but you should help
-your mother out, too.{PAUSE}{EOM}St
+your mother out, too.
 
 Message 390:
-udying is fine,
+{PAUSE}{EOM}Studying is fine,
 but you should help
-your mother out, too.{PAUSE}{EOM}{EOM}{EOM}I'
+your mother out, too.{PAUSE}{EOM}
 
 Message 391:
-m glad you like
+{EOM}{EOM}I'm glad you like
 helping out on the
 farm, but you should{PAUSE}
 try to expand your
-horizons some more.{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030009}
+horizons some more.{PAUSE}{EOM}{EOM}
 
 Message 392:
-{TATSUYA} isn't back
+{EOM}{EOM}{FACE_030009}{TATSUYA} isn't back
 yet. What could he be
 doing out so late?{PAUSE}{WIPE}
 {FACE_030004}I bet he's over
@@ -2148,167 +2148,167 @@ Would you go look for
 him, {NICKNAME}?
 {CHOICE2 DEF0}
 Sure.
-He's grown up now.{EOM}{EOM}{EOM}{EOM}I キ
+He's grown up now.{EOM}{EOM}
 
 Message 393:
-{E2}now...But it's so
+{EOM}{EOM}I know...But it's so
 late!If you don't go,
 I will!
 {CHOICE2 DEF0}
 I'll go.
-He'll come back.{EOM}{EOM}{EOM}{FACE_030009}
+He'll come back.{EOM}
 
 Message 394:
-Thanks!{PAUSE}{EOM}I 0
+{EOM}{EOM}{FACE_030009}Thanks!
 
 Message 395:
-{E2}new he was at
+{PAUSE}{EOM}I knew he was at
 {GRIFFIN}'s!
 I'll go over{PAUSE}{WIPE}
 later and complain.
 But...I wonder if he
 has the makings of a{PAUSE}
-musician...?{PAUSE}{EOM}{EOM}{EOM}{FACE_030004}
+musician...?{PAUSE}{EOM}
 
 Message 396:
-Okay, but if he
+{EOM}{EOM}{FACE_030004}Okay, but if he
 doesn't come back in
 30 minutes, I'm going{PAUSE}
 to give both of you
-a good talking to!{PAUSE}{EOM}{EOM}{EOM}{EOM}Lo
+a good talking to!{PAUSE}{EOM}{EOM}
 
 Message 397:
-ok! He's back!{PAUSE}{EOM}{FACE_030004}
+{EOM}{EOM}Look! He's back!
 
 Message 398:
-What do you
+{PAUSE}{EOM}{FACE_030004}What do you
 think you're doing
-staying out so late?!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}
+staying out so late?!{PAUSE}{EOM}{EOM}
 
 Message 399:
-Hey, wait...!
+{EOM}{EOM}{FACE_030004}Hey, wait...!
 I'm trying to talk
-to you...!!{PAUSE}{EOM}{EOM}{FACE_030004}
+to you...!!{PAUSE}
 
 Message 400:
-I knew he was at
+{EOM}{EOM}{FACE_030004}I knew he was at
 {GRIFFIN}'s!
 I'll go over{PAUSE}{WIPE}
 later and complain.
 But...I wonder if he
 has the makings of a{PAUSE}
-musician...?{PAUSE}{EOM}{EOM}{EOM}Ca
+musician...?{PAUSE}{EOM}
 
 Message 401:
-n I ask a
+{EOM}{EOM}Can I ask a
 funny question?
 {CHOICE2 DEF0}
 No.
-Sure.{EOM}{EOM}{FACE_030004}
+Sure.
 
 Message 402:
-Please?
+{EOM}{EOM}{FACE_030004}Please?
 It'll just take
-a second!{PAUSE}{EOM}{EOM}{FACE_030000}
+a second!{PAUSE}
 
 Message 403:
-Here goes...
+{EOM}{EOM}{FACE_030000}Here goes...
 Can a round
 object look square?{PAUSE}
 {CHOICE2 DEF0}
 ???
-Of course not!{EOM}{FACE_030003}
+Of course notと
 
 Message 404:
-Ha! I knew that
-would confuse you!{PAUSE}{EOM}I と
+{CB}{EOM}{FACE_030003}Ha! I knew that
+would confuse you!
 
 Message 405:
-{DB}on't understand
-it either.{PAUSE}{EOM}{TATSUYA} へ
+{PAUSE}{EOM}I don't understand
+it either.
 
 Message 406:
-{D8}sked me
+{PAUSE}{EOM}{TATSUYA} asked me
 the same thing
-all the sudden.{PAUSE}{EOM}Wh
+all the sudden.
 
 Message 407:
-at did you say...?{PAUSE}{EOM}{EOM}{FACE_030009}
+{PAUSE}{EOM}What did you say...?{PAUSE}
 
 Message 408:
-Are you feeling
+{EOM}{EOM}{FACE_030009}Are you feeling
 well, {TATSUYA}?{PAUSE}{WIPE}
 What are you
-talking about?{PAUSE}{EOM}{EOM}..
+talking about?{PAUSE}
 
 Message 409:
-.I'm afraid I just
+{EOM}{EOM}...I'm afraid I just
 don't understand.{PAUSE}{WIPE}
 Round things look
-round, right...?{PAUSE}{EOM}..
+round, right...?
 
 Message 410:
-.That's what
-happened.{PAUSE}{EOM}I て
+{PAUSE}{EOM}...That's what
+happened.
 
 Message 411:
-{D9}et he's going to
+{PAUSE}{EOM}I bet he's going to
 be an artist...{PAUSE}{WIPE}
 I don't understand
 art, but that's
-okay...{PAUSE}{EOM}{EOM}{EOM}..
+okay...{PAUSE}{EOM}
 
 Message 412:
-.What?
-What do you want?{PAUSE}{EOM}{EOM}{EOM}Al
+{EOM}{EOM}...What?
+What do you want?{PAUSE}{EOM}
 
 Message 413:
-right.
-What should I do?{PAUSE}{EOM}{EOM}{EOM}Go
+{EOM}{EOM}Alright.
+What should I do?{PAUSE}{EOM}
 
 Message 414:
-t it.{PAUSE}{EOM}{EOM}Re
+{EOM}{EOM}Got it.{PAUSE}
 
 Message 415:
-ady?{PAUSE}{EOM}{EOM}{EOM}On
+{EOM}{EOM}Ready?{PAUSE}{EOM}
 
 Message 416:
- your marks...
-GO!{PAUSE}{EOM}{EOM}Be
+{EOM}{EOM}On your marks...
+GO!{PAUSE}
 
 Message 417:
-at him, {TATSUYA}!{PAUSE}{EOM}Fi
+{EOM}{EOM}Beat him, {TATSUYA}!
 
 Message 418:
-nished!{PAUSE}{EOM}{FACE_030009}
+{PAUSE}{EOM}Finished!
 
 Message 419:
-Why did you lose,
-{TATSUYA}!?{PAUSE}{EOM}He
+{PAUSE}{EOM}{FACE_030009}Why did you lose,
+{TATSUYA}!?
 
 Message 420:
-y, {NICKNAME}.{FACE_030009}
+{PAUSE}{EOM}Hey, {NICKNAME}.{FACE_030009}
 {TATSUYA} is not back
 yet.{PAUSE}{WIPE}
 {FACE_030004}Where did he go
 so late?
 {CHOICE2 DEF0}
 I'll go look.
-He's an adult now.{EOM}{EOM}{EOM}I む
+He's an adult now.{EOM}
 
 Message 421:
-{E2}now, but I can't
+{EOM}{EOM}I know, but I can't
 help but worry. Won't
 you look for him?
 {CHOICE2 DEF0}
 If you want me to.
-He's fine, I'm sure.{EOM}{EOM}{EOM}{EOM}Th
+He's fine, I'm sure.{EOM}{EOM}
 
 Message 422:
-anks so much...{PAUSE}{EOM}{EOM}{EOM}{FACE_03001E}
+{EOM}{EOM}Thanks so much...{PAUSE}{EOM}
 
 Message 423:
-So he was with
+{EOM}{EOM}{FACE_03001E}So he was with
 {DARYL}, was he?{PAUSE}{WIPE}
 {FACE_030009}I don't mind him
 helping him, but I
@@ -2317,30 +2317,30 @@ get worried so late!{PAUSE}{WIPE}
 the makings of a
 scholar...{PAUSE}{WIPE}
 {FACE_030003}Wouldn't that
-be grand...♪{PAUSE}{EOM}{EOM}{EOM}{FACE_030004}
+be grand...♪{PAUSE}{EOM}
 
 Message 424:
-Okay, but if he
+{EOM}{EOM}{FACE_030004}Okay, but if he
 doesn't come back in
 30 minutes, I'm going{PAUSE}
 to give both of you
-a good talking to!{PAUSE}{EOM}{EOM}{EOM}{EOM}Lo
+a good talking to!{PAUSE}{EOM}{EOM}
 
 Message 425:
-ok, he's back!{PAUSE}{EOM}{FACE_030004}
+{EOM}{EOM}Look, he's back!
 
 Message 426:
-What do you
+{PAUSE}{EOM}{FACE_030004}What do you
 think you're doing
-staying out so late?!{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030004}
+staying out so late?!{PAUSE}{EOM}{EOM}
 
 Message 427:
-Hey, wait...!
+{EOM}{EOM}{FACE_030004}Hey, wait...!
 I'm trying to talk
-to you...!!{PAUSE}{EOM}{EOM}{FACE_03001E}
+to you...!!{PAUSE}
 
 Message 428:
-So he was with
+{EOM}{EOM}{FACE_03001E}So he was with
 {DARYL}, was he?{PAUSE}{WIPE}
 {FACE_030009}I don't mind him
 helping him, but I
@@ -2349,14 +2349,14 @@ get worried so late!{PAUSE}{WIPE}
 the makings of a
 scholar...{PAUSE}{WIPE}
 {FACE_030003}Wouldn't that
-be grand...♪{PAUSE}{EOM}{EOM}{EOM}Wh
+be grand...♪{PAUSE}{EOM}
 
 Message 429:
-at are you doing
-by yourself?{PAUSE}{EOM}{EOM}Wh
+{EOM}{EOM}What are you doing
+by yourself?{PAUSE}
 
 Message 430:
-y...? I don't know
+{EOM}{EOM}Why...? I don't know
 the details, but
 before you were born,{PAUSE}
 in the spring,
@@ -2364,124 +2364,124 @@ in the spring,
 with your mother. {PAUSE}{WIPE}
 He had come once
 before, with someone
-else...{PAUSE}{EOM}{EOM}Ac
+else...{PAUSE}
 
 Message 431:
-cording to
+{EOM}{EOM}According to
 {TAKAKURA}, that person
 was your mother's{PAUSE}
 father. In other
 words, your
-grandfather.{PAUSE}{EOM}I む
+grandfather.
 
 Message 432:
-{DB}on't know any-
+{PAUSE}{EOM}I don't know any-
 thing else, though.{PAUSE}{WIPE}
 {TAKAKURA} won't tell
-me any more.{PAUSE}{EOM}{EOM}{EOM}Yo
+me any more.{PAUSE}{EOM}
 
 Message 433:
-ur mother doesn't
+{EOM}{EOM}Your mother doesn't
 like to talk about
 it, either.{PAUSE}{WIPE}
 She just says she took
 over the farm{PAUSE}
 because her father
-wanted her to.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+wanted her toぞ
 
 Message 434:
-...Really?
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}...Really?
 I'm sure that'll make
-your mother happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+your mother happyと
 
 Message 435:
-Good timing♪
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Good timing♪
 Just wait in the
-other room...!{PAUSE}{EOM}{EOM}
+other room..!
 
 Message 436:
-You came at just the
+{C8}!{PAUSE}{EOM}{EOM}You came at just the
 right time. Griffin's
-about to play.{PAUSE}{EOM}{EOM}{EOM}
+about to play
 
 Message 437:
-Oh, no! You'll stay
+.{PAUSE}{EOM}{EOM}{EOM}Oh, no! You'll stay
 to listen to him
-play, right?{PAUSE}{EOM}{EOM}
+play, righo
 
 Message 438:
-Tee-hee!...
+{EB}?{PAUSE}{EOM}{EOM}Tee-hee!...
 Look, he's
-starting!{PAUSE}{EOM}{EOM}
+startinぽ
 
 Message 439:
-I had a good time.{PAUSE}{EOM}{EOM}{EOM}
+{DE}!{PAUSE}{EOM}{EOM}I had a good time
 
 Message 440:
-He looks so handsome
-when he plays...{PAUSE}{EOM}{EOM}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}He looks so handsome
+when he plays..
 
 Message 441:
-Why don't you want
-to listen?{PAUSE}{EOM}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}Why don't you want
+to listeへ
 
 Message 442:
-Okay... I don't
+{E5}?{PAUSE}{EOM}{EOM}Okay... I don't
 understand you
-at all, {PETE}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+at all, {PETE}で
 
 Message 443:
-I think he knows
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}I think he knows
 why I can't
 concentrate on my{PAUSE}
-work now...{PAUSE}{EOM}
+work now.
 
 Message 444:
-{S_340040}Darn it!! Why does it
+..{PAUSE}{EOM}{S_340040}Darn it!! Why does it
 take so long to
-get things done...{PAUSE}{EOM}{EOM}{EOM}
+get things done..
 
 Message 445:
-What are you doing?{S_3201F4}
-Why the long faces?{PAUSE}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}What are you doing?{S_3201F4}
+Why the long face
 
 Message 446:
-What? {S_3201F4}What's wrong?
+s?{PAUSE}{EOM}What? {S_3201F4}What's wrong?
 {CHOICE2 DEF0}
 Nothing.
-Girl troubles.{EOM}
+Girl troublざ
 
 Message 447:
-{FACE_030004}Why don't you tell
+{DC}s.{EOM}{FACE_030004}Why don't you tell
 me?!{S_3201F4}{PAUSE}{WIPE}
 {FACE_03000B}You're talking about
 a girl...Right?{PAUSE}{WIPE}
 {FACE_030000}Oh, I don't care...
 I guess {TATSUYA}'s
-that age now, anyway.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+that age now, anywayる
 
 Message 448:
-...There it is! {S_3201F4}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}...There it is! {S_3201F4}
 Now who put it here,
-I wonder...?{PAUSE}{EOM}{EOM}
+I wonder..た
 
 Message 449:
-{FACE_030003}I see! {S_3203E8}That's great♪{PAUSE}{WIPE}
+{C8}?{PAUSE}{EOM}{EOM}{FACE_030003}I see! {S_3203E8}That's great♪{PAUSE}{WIPE}
 I don't know who
 the lucky girl is,
-but good luck!{PAUSE}{EOM}{EOM}
+but good lucV
 
 Message 450:
-{S_340040}What? {S_3201F4}A girl...?{PAUSE}{EOM}{EOM}{EOM}
+{E2}!{PAUSE}{EOM}{EOM}{S_340040}What? {S_3201F4}A girl...
 
 Message 451:
-{FACE_030003}Now.... {S_3201F4}If I know my
+?{PAUSE}{EOM}{EOM}{EOM}{FACE_030003}Now.... {S_3201F4}If I know my
 {TATSUYA}...{PAUSE}{WIPE}
 {FACE_030001}I bet it's... {S_32012C}
-Kate! Am I right?♥{PAUSE}{EOM}{EOM}
+Kate! Am I rightし
 
 Message 452:
-You are worried
+{CA}♥{PAUSE}{EOM}{EOM}You are worried
 about Hugh?{PAUSE}{WIPE}
 Hmm... {S_3201F4}It doesn't
 matter, though.{PAUSE}{WIPE}
@@ -2490,1469 +2490,1469 @@ best you can...That's
 how to become a man!{PAUSE}{WIPE}
 {FACE_030003}That's my son,
 alright...Setting his
-sights high!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+sights highV
 
 Message 453:
-Oh, no!{S_3201F4} Really!?{PAUSE}{EOM}{EOM}
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}Oh, no!{S_3201F4} Reallyむ
 
 Message 454:
-{FACE_030003}He's becoming a
-cool guy...♥{PAUSE}{EOM}{EOM}{EOM}
+{CB}?{PAUSE}{EOM}{EOM}{FACE_030003}He's becoming a
+cool guy...
 
 Message 455:
-{FACE_03000C}At least...I think
-he's cool...♪{PAUSE}{EOM}{EOM}{EOM}
+♥{PAUSE}{EOM}{EOM}{EOM}{FACE_03000C}At least...I think
+he's cool...
 
 Message 456:
-{FACE_03001F}Oh my gosh! {S_3201F4}
-I left the stove on!{PAUSE}{EOM}{EOM}
+♪{PAUSE}{EOM}{EOM}{EOM}{FACE_03001F}Oh my gosh! {S_3201F4}
+I left the stove oと
 
 Message 457:
-What are you looking
-at, {NICKNAME}?{PAUSE}{EOM}{EOM}{EOM}
+{E5}!{PAUSE}{EOM}{EOM}What are you looking
+at, {NICKNAME}
 
 Message 458:
-What are you
-thinking about...?{PAUSE}{EOM}
+?{PAUSE}{EOM}{EOM}{EOM}What are you
+thinking about..
 
 Message 459:
-...It's been a long
-time since then.{PAUSE}{EOM}
+.?{PAUSE}{EOM}...It's been a long
+time since the
 
 Message 460:
-Our son has grown up,
+n.{PAUSE}{EOM}Our son has grown up,
 and we've grown
-old...{PAUSE}{EOM}{EOM}{EOM}
+old..
 
 Message 461:
-Your hair is all
+.{PAUSE}{EOM}{EOM}{EOM}Your hair is all
 gray, and your face
-is all wrinkly...{PAUSE}{EOM}
+is all wrinkly.
 
 Message 462:
-...What?
+..{PAUSE}{EOM}...What?
 {CHOICE2 DEF0}
 You too.
-You're still pretty.{EOM}{EOM}
+You're still prett
 
 Message 463:
-{FACE_030004}How rude can
+y.{EOM}{EOM}{FACE_030004}How rude can
 you be!? Of course
 I'm still pretty...{PAUSE}{WIPE}
 {FACE_03001A}...I'm just
 kidding! I just don't
-like to admit it...{PAUSE}{EOM}{EOM}
+like to admit it.び
 
 Message 464:
-{FACE_03000A}I'm glad you
+{C8}.{PAUSE}{EOM}{EOM}{FACE_03000A}I'm glad you
 think so♥ You're in a
-good mood today.{PAUSE}{EOM}{EOM}{EOM}
+good mood today
 
 Message 465:
-We've still got a
+.{PAUSE}{EOM}{EOM}{EOM}We've still got a
 lot ahead of us,
 though!{PAUSE}{WIPE}
 Look how healthy
-{TAKAKURA} is!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{TAKAKURA} isほ
 
 Message 466:
-{NICKNAME}....
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}{NICKNAME}....
 {NICKNAME}....
 What's wrong...?{PAUSE}{WIPE}
 ..................!?
 {NICKNAME}!....{NICKNAME}!!{PAUSE}{WIPE}
 {TATSUYA}! Go
-get {HARDY}! Now!!{PAUSE}{EOM}
+get {HARDY}! Now
 
 Message 467:
-Hang in there,
-{NICKNAME}...!{PAUSE}{EOM}{EOM}{EOM}
+!!{PAUSE}{EOM}Hang in there,
+{NICKNAME}...
 
 Message 468:
-What could be
-wrong...!?{PAUSE}{EOM}{EOM}
+!{PAUSE}{EOM}{EOM}{EOM}What could be
+wrong...ぞ
 
 Message 469:
-I can't believe....
+{CB}?{PAUSE}{EOM}{EOM}I can't believe....
 ...How could this
-be happening...?{PAUSE}{EOM}{EOM}
+be happening..ぽ
 
 Message 470:
-I think he lived a
+{C8}?{PAUSE}{EOM}{EOM}I think he lived a
 happy life, though.{PAUSE}{WIPE}
 He loved his family,
-and his friends...{PAUSE}{EOM}{EOM}{EOM}
+and his friends..
 
 Message 471:
-Won't you sing
+.{PAUSE}{EOM}{EOM}{EOM}Won't you sing
 something in his
-memory, Griffin...?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+memory, Griffin...し
 
 Message 472:
-Oh, I see you're
-open.{PAUSE}{EOM}{EOM}{EOM}
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}Oh, I see you're
+open
 
 Message 473:
-Can I take a look?{PAUSE}{EOM}{EOM}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}Can I take a look
 
 Message 474:
-Do you have
+?{PAUSE}{EOM}{EOM}{EOM}Do you have
 anything especially
-good?{PAUSE}{EOM}{EOM}
+gooば
 
 Message 475:
-{PETE}...
+{DB}?{PAUSE}{EOM}{EOM}{PETE}...
 What are you
-selling?{PAUSE}{EOM}{EOM}{EOM}
+selling
 
 Message 476:
-You're not selling
-anything. How odd!{PAUSE}{EOM}{EOM}
+?{PAUSE}{EOM}{EOM}{EOM}You're not selling
+anything. How odぷ
 
 Message 477:
-Bye now,
-{PETE}.{PAUSE}{EOM}{EOM}{EOM}
+{DB}!{PAUSE}{EOM}{EOM}Bye now,
+{PETE}
 
 Message 478:
-I'm not looking for
+.{PAUSE}{EOM}{EOM}{EOM}I'm not looking for
 anything in
 particular.{PAUSE}{WIPE}
 Just searching for
 bargains, that's
-all...{PAUSE}{EOM}
+all.
 
 Message 479:
-I'll come back
-later.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+..{PAUSE}{EOM}I'll come back
+laterぞ
 
 Message 480:
-How much is
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}How much is
 that {VAR_00}?
 {CHOICE3 DEF2}
 For you, {GOLD_0105}G.
 It's {GOLD_0205}G.
-Not for sale.{EOM}
+Not for saぽ
 
 Message 481:
-{S_340184}Are you giving
+{E3}e.{EOM}{S_340184}Are you giving
 me a bargain?
 Thanks♪{PAUSE}
-I'll take it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+I'll take itr
 
 Message 482:
-In that case,
-I'll take one.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}In that case,
+I'll take oneへ
 
 Message 483:
-Hmm...I think I'll
-buy it.{PAUSE}{EOM}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Hmm...I think I'll
+buy it
 
 Message 484:
-That's too bad.
+.{PAUSE}{EOM}{EOM}{EOM}That's too bad.
 I'll have to pick
-out something else.{PAUSE}{EOM}{EOM}
+out something elsち
 
 Message 485:
-I like the
+{DC}.{PAUSE}{EOM}{EOM}I like the
 {VAR_00}.
 How much is it?
 {CHOICE3 DEF2}
 For you, {GOLD_0105}G.
 It's {GOLD_0205}G.
-Not for sale.{PAUSE}{EOM}{EOM}{EOM}
+Not for sale
 
 Message 486:
-I hope you sell
-a lot.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}I hope you sell
+a lotそ
 
 Message 487:
-{FACE_030009}Ahh....{PETE}...{PAUSE}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030009}Ahh....{PETE}.
 
 Message 488:
-{FACE_030009}Oh, nothing.
-Don't mind me.{PAUSE}{EOM}
+..{PAUSE}{EOM}{FACE_030009}Oh, nothing.
+Don't mind m
 
 Message 489:
-{FACE_030009}Just leave me
-alone, okay?{PAUSE}{EOM}{EOM}{EOM}
+e.{PAUSE}{EOM}{FACE_030009}Just leave me
+alone, okay
 
 Message 490:
-{FACE_030009}Thanks for worrying,
+?{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}Thanks for worrying,
 but please just
-leave me alone.{PAUSE}{EOM}{EOM}{EOM}
+leave me alone
 
 Message 491:
-{FACE_030002}Aargh...Today I'm
+.{PAUSE}{EOM}{EOM}{EOM}{FACE_030002}Aargh...Today I'm
 just not in a
-good mood.{PAUSE}{EOM}{EOM}
+good mooざ
 
 Message 492:
-{FACE_030002}I'm just in an
-awful mood today.{PAUSE}{EOM}
+{DB}.{PAUSE}{EOM}{EOM}{FACE_030002}I'm just in an
+awful mood toda
 
 Message 493:
-{FACE_030004}Please! I asked
+y.{PAUSE}{EOM}{FACE_030004}Please! I asked
 you to leave me
-alone, didn't I...?{PAUSE}{EOM}{EOM}
+alone, didn't I..ち
 
 Message 494:
-Maybe I just need to
+{C8}?{PAUSE}{EOM}{EOM}Maybe I just need to
 go out for a
-while!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+while2
 
 Message 495:
-{FACE_030009}Oh...
-Good morning!{PAUSE}{EOM}{EOM}{EOM}
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030009}Oh...
+Good morning
 
 Message 496:
-{FACE_030009}You're in a good
-mood so early!{PAUSE}{EOM}{EOM}{EOM}
+!{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}You're in a good
+mood so early
 
 Message 497:
-{FACE_030009}I have low blood
+!{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}I have low blood
 pressure, that's all.{PAUSE}{WIPE}
 It's bothered me
-since my office days.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+since my office daysヲ
 
 Message 498:
-{S_340184}Hi there, {PETE}!{PAUSE}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{S_340184}Hi there, {CHAR_61}
 
 Message 499:
-{S_340184}Are you all
-through with work?{PAUSE}{EOM}
+{EOM}!{PAUSE}{EOM}{EOM}{S_340184}Are you all
+through with wor
 
 Message 500:
-{S_340184}Come to the
+k?{PAUSE}{EOM}{S_340184}Come to the
 {C14}{STRUC_33}{C17} if
 you have time.{PAUSE}{WIPE}
-I'll be waiting♥{PAUSE}{EOM}{EOM}
+I'll be waitin.
 
 Message 501:
-What are you doing
-at this hour?!{PAUSE}{EOM}{EOM}{EOM}
+{DE}♥{PAUSE}{EOM}{EOM}What are you doing
+at this hour?
 
 Message 502:
-You're up late!
+!{PAUSE}{EOM}{EOM}{EOM}You're up late!
 Don't you have to get
-up early on the farm?{PAUSE}{EOM}
+up early on the far
 
 Message 503:
-{S_340184}Welcome in!
+m?{PAUSE}{EOM}{S_340184}Welcome in!
 Make yourself
-at home.{PAUSE}{EOM}
+at hom
 
 Message 504:
-You can order from
+e.{PAUSE}{EOM}You can order from
 {GRIFFIN} at
-the bar.{PAUSE}{EOM}{EOM}
+the baち
 
 Message 505:
-{S_340184}Take a load off
-and enjoy yourself!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{E9}.{PAUSE}{EOM}{EOM}{S_340184}Take a load off
+and enjoy yourselfl
 
 Message 506:
-{S_340184}Welcome.
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}{S_340184}Welcome.
 Make yourself
-comfortable!{PAUSE}{EOM}
+comfortabl
 
 Message 507:
-You can order from
+e!{PAUSE}{EOM}You can order from
 {GRIFFIN} at
-the bar.{PAUSE}{EOM}{EOM}
+the baち
 
 Message 508:
-It's always a good
+{E9}.{PAUSE}{EOM}{EOM}It's always a good
 idea to take a break
-once in a while!{PAUSE}{EOM}{EOM}{EOM}
+once in a while
 
 Message 509:
-What are you doing up
-so late, {PETE}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+!{PAUSE}{EOM}{EOM}{EOM}What are you doing up
+so late, {PETE}ぽ
 
 Message 510:
-I just couldn't get
-to sleep tonight...{PAUSE}{EOM}{EOM}{EOM}
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}I just couldn't get
+to sleep tonight..
 
 Message 511:
-Hi there, {PETE}!{PAUSE}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}Hi there, 
 
 Message 512:
-I just came over
-to say hi.{PAUSE}{EOM}{EOM}{EOM}
+{PETE}!{PAUSE}{EOM}I just came over
+to say hi
 
 Message 513:
-{FACE_030003}That looks great!
+.{PAUSE}{EOM}{EOM}{EOM}{FACE_030003}That looks great!
 I've always loved
 that♥
 {CHOICE2 DEF0}
 You can have it.
-Is that so?{EOM}{EOM}
+Is that s
 
 Message 514:
-{FACE_030003}Honest?
-{S_340184}You're sweet, {PETE}♥{PAUSE}{EOM}{EOM}{EOM}
+o?{EOM}{EOM}{FACE_030003}Honest?
+{S_340184}You're sweet, {PETE}
 
 Message 515:
-{FACE_03001A}Really?
+♥{PAUSE}{EOM}{EOM}{EOM}{FACE_03001A}Really?
 What will your wife
-say?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+sayと
 
 Message 516:
-{FACE_030009}.............
-{FACE_03001A}Bye bye.{PAUSE}{EOM}
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030009}.............
+{FACE_03001A}Bye by
 
 Message 517:
-That looks tasty!{PAUSE}{EOM}{EOM}{EOM}
+e.{PAUSE}{EOM}That looks tasty
 
 Message 518:
-Go and see how your
-wife likes it!{PAUSE}{EOM}{EOM}
+!{PAUSE}{EOM}{EOM}{EOM}Go and see how your
+wife likes iぽ
 
 Message 519:
-{FACE_030003}I love that♥{PAUSE}{WIPE}
+{EB}!{PAUSE}{EOM}{EOM}{FACE_030003}I love that♥{PAUSE}{WIPE}
 Whoever that's for
 is one lucky person!
 {CHOICE2 DEF0}
 It's for you.
-Really...?{PAUSE}{EOM}
+Really..
 
 Message 520:
-{S_340184}{FACE_030003}I just happen to
+.?{PAUSE}{EOM}{S_340184}{FACE_030003}I just happen to
 love those♥{PAUSE}{WIPE}
 {FACE_03001A}Isn't it a present
 for your wife? I'm
 so envious!
 {CHOICE2 DEF0}
 It's for you.
-That's right.{EOM}{EOM}{EOM}{EOM}
+That's right
 
 Message 521:
-{FACE_03001A}Are you sure...?
+.{EOM}{EOM}{EOM}{EOM}{FACE_03001A}Are you sure...?
 {S_340184}Thanks a lot!
-I'll treasure it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+I'll treasure itな
 
 Message 522:
-{FACE_03001A}Are you sure?
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_03001A}Are you sure?
 Won't your wife get
-mad?{PAUSE}{EOM}{EOM}
+maV
 
 Message 523:
-{FACE_030009}........I see. {FACE_03001A}
+{DB}?{PAUSE}{EOM}{EOM}{FACE_030009}........I see. {FACE_03001A}
 I guess I should
-have known...Bye now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+have known...Bye nowす
 
 Message 524:
-{S_340184}Lovely!{PAUSE}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{S_340184}Lovele
 
 Message 525:
-That's great! Go give
-it to your wife!{PAUSE}{EOM}{EOM}
+{F0}!{PAUSE}{EOM}{EOM}That's great! Go give
+it to your wifた
 
 Message 526:
-{FACE_030009}What is that!?
+{DC}!{PAUSE}{EOM}{EOM}{FACE_030009}What is that!?
 {FACE_030007}Sorry, I just
-can't stand that...{PAUSE}{EOM}{EOM}{EOM}
+can't stand that..
 
 Message 527:
-{FACE_030007}Sorry, but I really
-don't like that!{PAUSE}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}{FACE_030007}Sorry, but I really
+don't like tha
 
 Message 528:
-{FACE_030009}....What is
-that?{PAUSE}{EOM}{EOM}{EOM}
+t!{PAUSE}{EOM}{FACE_030009}....What is
+that
 
 Message 529:
-{FACE_030009}Please don't get
-too close with that!{PAUSE}{EOM}{EOM}{EOM}
+?{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}Please don't get
+too close with that
 
 Message 530:
-{FACE_030003}{S_340184}He's so cuuute!
-My name is {MUFFY}♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+!{PAUSE}{EOM}{EOM}{EOM}{FACE_030003}{S_340184}He's so cuuute!
+My name is {MUFFY}ぽ
 
 Message 531:
-I bet you looked like
+{D6}{PAUSE}{EOM}{EOM}{EOM}{EOM}I bet you looked like
 him when you were
-a baby, {PETE}.{PAUSE}{EOM}{EOM}
+a baby, {CHAR_80}
 
 Message 532:
-{FACE_03001A}{CELIA} must get
+{EOM}.{PAUSE}{EOM}{EOM}{FACE_03001A}{CELIA} must get
 worried to let him
 out of her sight{PAUSE}
 because he's too
-cute!{PAUSE}{EOM}{EOM}
+cutむ
 
 Message 533:
-{FACE_030003}{S_340184}He's so cuuute!
+{DC}!{PAUSE}{EOM}{EOM}{FACE_030003}{S_340184}He's so cuuute!
 My name is
-{MUFFY}♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{MUFFY}ぽ
 
 Message 534:
-I bet you looked like
+{D6}{PAUSE}{EOM}{EOM}{EOM}{EOM}I bet you looked like
 this when you were
-a baby, {PETE}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+a baby, {PETE}N
 
 Message 535:
-Looking at a baby
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Looking at a baby
 this cute makes me
-want one of my own♥{PAUSE}{EOM}{EOM}{EOM}
+want one of my own
 
 Message 536:
-Eeek!{PAUSE}{WIPE}
+♥{PAUSE}{EOM}{EOM}{EOM}Eeek!{PAUSE}{WIPE}
 That dog scared me!
-Is it yours, {PETE}?{PAUSE}{EOM}{EOM}{EOM}
+Is it yours, {PETE}
 
 Message 537:
-{FACE_030009}{S_340184}Hee hee hee...
+?{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}{S_340184}Hee hee hee...
 That's a good
-doggy...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+doggy..0
 
 Message 538:
-{FACE_030003}{S_340184}Look at this cat♥
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030003}{S_340184}Look at this cat♥
 It's so cute when
-it purrs like that.{PAUSE}{EOM}
+it purrs like tha
 
 Message 539:
-I've never seen a cat
+t.{PAUSE}{EOM}I've never seen a cat
 with a tail and fur
-so cute♥{PAUSE}{EOM}{EOM}
+so cut2
 
 Message 540:
-Oh! That chicken
-startled me!{PAUSE}{EOM}
+{DC}♥{PAUSE}{EOM}{EOM}Oh! That chicken
+startled m
 
 Message 541:
-I like chickens
+e!{PAUSE}{EOM}I like chickens
 because they lay
-eggs. Is this a girl?{PAUSE}{EOM}
+eggs. Is this a gir
 
 Message 542:
-Do any chickens on
+l?{PAUSE}{EOM}Do any chickens on
 {FARM} Farm lay
 golden eggs?{PAUSE}{WIPE}
 I'd love to see
-one...{PAUSE}{EOM}
+one.
 
 Message 543:
-This chick is so
+..{PAUSE}{EOM}This chick is so
 cuuute! When was
-it born?{PAUSE}{EOM}{EOM}{EOM}
+it born
 
 Message 544:
-It's so fuzzy...!{PAUSE}{EOM}{EOM}{EOM}
+?{PAUSE}{EOM}{EOM}{EOM}It's so fuzzy...
 
 Message 545:
-It's crying,you know.
-Maybe it's hungry...?{PAUSE}{EOM}{EOM}
+!{PAUSE}{EOM}{EOM}{EOM}It's crying,you know.
+Maybe it's hungry..つ
 
 Message 546:
-...A duck!
+{C8}?{PAUSE}{EOM}{EOM}...A duck!
 Is it yours,
-{PETE}?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{PETE}V
 
 Message 547:
-Its face is so
-adorable...!{PAUSE}{EOM}
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}Its face is so
+adorable..
 
 Message 548:
-It's so cute!
-Is it still a baby?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+.!{PAUSE}{EOM}It's so cute!
+Is it still a babyぽ
 
 Message 549:
-What soft feathers!
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}What soft feathers!
 And they sparkle
-in the sun.{PAUSE}{EOM}{EOM}{EOM}
+in the sun
 
 Message 550:
-I wonder if this
+.{PAUSE}{EOM}{EOM}{EOM}I wonder if this
 duck will turn into a
 swan when it gets{PAUSE}
 older? My mom told
 me that story when
-I was a girl...{PAUSE}{EOM}{EOM}
+I was a girl.る
 
 Message 551:
-Is that a flower
-seed?{PAUSE}{EOM}{EOM}{EOM}
+{C8}.{PAUSE}{EOM}{EOM}Is that a flower
+seed
 
 Message 552:
-That reminds me...
+?{PAUSE}{EOM}{EOM}{EOM}That reminds me...
 I haven't been to the
 field we're supposed{PAUSE}
 to be sharing with
 the {C14}{STRUC_35}{C17}
-in a long time.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+in a long timeシ
 
 Message 553:
-I always forget to
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}I always forget to
 look after our crops
 when I get busy!{PAUSE}{WIPE}
 That's why I admire
-you so much!{PAUSE}{EOM}
+you so muc
 
 Message 554:
-What a beautiful
-vegetable that is!{PAUSE}{EOM}{EOM}
+h!{PAUSE}{EOM}What a beautiful
+vegetable that iと
 
 Message 555:
-The only vegetables I
+{EA}!{PAUSE}{EOM}{EOM}The only vegetables I
 use are for salad. {PAUSE}{WIPE}
 All I do is tear up
 the lettuce, then
 pour on dressing from{PAUSE}
-the {C14}{STRUC_31}{C17}.{PAUSE}{EOM}
+the {C14}{STRUC_125}
 
 Message 556:
-That milk looks
+{1F}{C17}.{PAUSE}{EOM}That milk looks
 delicious♥
 {CHOICE2 DEF0}
 Try it.
-Doesn't it?{EOM}{EOM}{EOM}{EOM}
+Doesn't it
 
 Message 557:
-You mean it?
+?{EOM}{EOM}{EOM}{EOM}You mean it?
 It's great having
-a farm nearby♥{PAUSE}{EOM}
+a farm nearb
 
 Message 558:
-I love sweet, fresh
-milk♪{PAUSE}{EOM}
+y♥{PAUSE}{EOM}I love sweet, fresh
+mil
 
 Message 559:
-Fresh milk is just
-the best, isn't it?{PAUSE}{EOM}{EOM}
+k♪{PAUSE}{EOM}Fresh milk is just
+the best, isn't iと
 
 Message 560:
-That cheese looks
+{EB}?{PAUSE}{EOM}{EOM}That cheese looks
 great! Do you make it
 at {FARM} Farm?
 {CHOICE2 DEF0}
 Try it.
-All mine.{EOM}{EOM}{EOM}{EOM}
+All mine
 
 Message 561:
-You mean it?
+.{EOM}{EOM}{EOM}{EOM}You mean it?
 It's great having
-a farm nearby♥{PAUSE}{EOM}
+a farm nearb
 
 Message 562:
-I like all kinds of
+y♥{PAUSE}{EOM}I like all kinds of
 cheeses. They go
-great on salads.{PAUSE}{EOM}{EOM}{EOM}
+great on salads
 
 Message 563:
-It must be great to
+.{PAUSE}{EOM}{EOM}{EOM}It must be great to
 make your own
-cheese.{PAUSE}{EOM}
+chees
 
 Message 564:
-That butter looks
+e.{PAUSE}{EOM}That butter looks
 great! Do you make it
 at {FARM} Farm?
 {CHOICE2 DEF0}
 Try it.
-All mine.{EOM}{EOM}{EOM}{EOM}
+All mine
 
 Message 565:
-You mean it?
+.{EOM}{EOM}{EOM}{EOM}You mean it?
 It's great having
-a farm nearby!{PAUSE}{EOM}
+a farm nearb
 
 Message 566:
-I put butter on
+y!{PAUSE}{EOM}I put butter on
 everything!{PAUSE}{WIPE}
 I must use a
-pack a week.{PAUSE}{EOM}{EOM}
+pack a weeせ
 
 Message 567:
-I bet butter made
+{E2}.{PAUSE}{EOM}{EOM}I bet butter made
 from fresh milk is
-delicious!{PAUSE}{EOM}
+deliciou
 
 Message 568:
-Does that become
-a chicken?{PAUSE}{EOM}
+s!{PAUSE}{EOM}Does that become
+a chicke
 
 Message 569:
-I like my eggs half
+n?{PAUSE}{EOM}I like my eggs half
 done. Nice and runny
-is the best!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+is the bestと
 
 Message 570:
-I love eggs...You can
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}I love eggs...You can
 cook anything with
 them!{PAUSE}{WIPE}
 At least that's
-what they say...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+what they say..ヲ
 
 Message 571:
-I'm pretty picky
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}I'm pretty picky
 about fish. I love
 {ITEM_0471}, but{PAUSE}
 can't stand
-{ITEM_047E}...{PAUSE}{EOM}
+{ITEM_047E}.
 
 Message 572:
-Yikes! I think that
+..{PAUSE}{EOM}Yikes! I think that
 fish is looking at
-me!{PAUSE}{EOM}{EOM}{EOM}
+me
 
 Message 573:
-I think I'm going
+!{PAUSE}{EOM}{EOM}{EOM}I think I'm going
 to have nightmares
-about this....{PAUSE}{EOM}
+about this..
 
 Message 574:
-What are those weeds?
+..{PAUSE}{EOM}What are those weeds?
 Oh...They're wild
-plants...?{PAUSE}{EOM}
+plants..
 
 Message 575:
-You can pick them
-on the mountain?{PAUSE}{EOM}
+.?{PAUSE}{EOM}You can pick them
+on the mountai
 
 Message 576:
-Did you make this
+n?{PAUSE}{EOM}Did you make this
 yourself? I'm
-impressed!{PAUSE}{EOM}
+impresse
 
 Message 577:
-Really? I can have
+d!{PAUSE}{EOM}Really? I can have
 it? {S_340184}Thanks so much!
-I'll have it later.{PAUSE}{EOM}{EOM}{EOM}
+I'll have it later
 
 Message 578:
-If it works out, make
+.{PAUSE}{EOM}{EOM}{EOM}If it works out, make
 some for me
-next time!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+next timeシ
 
 Message 579:
-I love men who can
-cook!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}I love men who can
+cookだ
 
 Message 580:
-What's that?{PAUSE}{WIPE}
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}What's that?{PAUSE}{WIPE}
 A hoe.......? It's
-for farming, right?{PAUSE}{EOM}{EOM}
+for farming, righし
 
 Message 581:
-It sure is shaped
-funny...{PAUSE}{EOM}{EOM}{EOM}
+{EB}?{PAUSE}{EOM}{EOM}It sure is shaped
+funny..
 
 Message 582:
-What's that?{PAUSE}{WIPE}
+.{PAUSE}{EOM}{EOM}{EOM}What's that?{PAUSE}{WIPE}
 A hoe.......? It's
-for farming, right?{PAUSE}{EOM}{EOM}
+for farming, righし
 
 Message 583:
-...What a dirty tool!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EB}?{PAUSE}{EOM}{EOM}...What a dirty toolろ
 
 Message 584:
-What's that?{PAUSE}{WIPE}
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}What's that?{PAUSE}{WIPE}
 A hoe.......? It's
-for farming, right?{PAUSE}{EOM}{EOM}
+for farming, righo
 
 Message 585:
-Even I can tell that
-hoe's still new.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{EB}?{PAUSE}{EOM}{EOM}Even I can tell that
+hoe's still newぼ
 
 Message 586:
-What's that?{PAUSE}{WIPE}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}What's that?{PAUSE}{WIPE}
 A hoe.......? It's
-for farming, right?{PAUSE}{EOM}{EOM}
+for farming, righe
 
 Message 587:
-Good luck on
-the farm.{PAUSE}{EOM}{EOM}{EOM}
+{EB}?{PAUSE}{EOM}{EOM}Good luck on
+the farm
 
 Message 588:
-What's that?{PAUSE}{WIPE}
+.{PAUSE}{EOM}{EOM}{EOM}What's that?{PAUSE}{WIPE}
 A hoe.......? It's
-for farming, right?{PAUSE}{EOM}{EOM}
+for farming, righe
 
 Message 589:
-That hoe looks so
-old...{PAUSE}{EOM}{EOM}{EOM}
+{EB}?{PAUSE}{EOM}{EOM}That hoe looks so
+old..
 
 Message 590:
-What's that?{PAUSE}{WIPE}
+.{PAUSE}{EOM}{EOM}{EOM}What's that?{PAUSE}{WIPE}
 A sickle....? It's
-for farming, right?{PAUSE}{EOM}{EOM}
+for farming, righし
 
 Message 591:
-What an odd
-sickle that is!{PAUSE}{EOM}{EOM}
+{EB}?{PAUSE}{EOM}{EOM}What an odd
+sickle that iぺ
 
 Message 592:
-What's that?{PAUSE}{WIPE}
+{EA}!{PAUSE}{EOM}{EOM}What's that?{PAUSE}{WIPE}
 A sickle.......? It's
-for farming, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+for farming, rightV
 
 Message 593:
-What a funny sickle.{PAUSE}{EOM}{EOM}
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}What a funny sicklぽ
 
 Message 594:
-What's that?{PAUSE}{WIPE}
+{DC}.{PAUSE}{EOM}{EOM}What's that?{PAUSE}{WIPE}
 A sickle.......? It's
-for farming, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+for farming, rightV
 
 Message 595:
-Even I can tell that
-sickle's new.{PAUSE}{EOM}
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}Even I can tell that
+sickle's ne
 
 Message 596:
-What's that?{PAUSE}{WIPE}
+w.{PAUSE}{EOM}What's that?{PAUSE}{WIPE}
 A sickle.......? It's
-for farming, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+for farming, rightV
 
 Message 597:
-...That thing kind of
-frightens me!{PAUSE}{EOM}{EOM}
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}...That thing kind of
+frightens mと
 
 Message 598:
-What's that?{PAUSE}{WIPE}
+{DC}!{PAUSE}{EOM}{EOM}What's that?{PAUSE}{WIPE}
 A sickle.......? It's
-for farming, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+for farming, rightV
 
 Message 599:
-Can that old thing
-really cut anything?{PAUSE}{EOM}{EOM}{EOM}
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}Can that old thing
+really cut anything
 
 Message 600:
-What is that?
+?{PAUSE}{EOM}{EOM}{EOM}What is that?
 Is it for watering
-your plants?{PAUSE}{EOM}
+your plant
 
 Message 601:
-It must be true that
+s?{PAUSE}{EOM}It must be true that
 pros use better
-tools.{PAUSE}{EOM}
+tool
 
 Message 602:
-Do you use that
+s.{PAUSE}{EOM}Do you use that
 watering can for
-your flowers?{PAUSE}{EOM}{EOM}{EOM}
+your flowers
 
 Message 603:
-Sorry...I didn't
+?{PAUSE}{EOM}{EOM}{EOM}Sorry...I didn't
 realize it was for
-crops.{PAUSE}{EOM}
+crop
 
 Message 604:
-I bet you're diligent
+s.{PAUSE}{EOM}I bet you're diligent
 about using that
 watering can{PAUSE}
-every day. {PAUSE}{EOM}{EOM}{EOM}
+every dayス
 
 Message 605:
-I love flowers, but
+{C8} {PAUSE}{EOM}{EOM}{EOM}I love flowers, but
 I can never keep
 them from wilting.{PAUSE}{WIPE}
 They always look
 so sad after a
-few days...{PAUSE}{EOM}{EOM}
+few days.パ
 
 Message 606:
-I can tell how much
+{C8}.{PAUSE}{EOM}{EOM}I can tell how much
 that watering can's
-been used!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+been usedシ
 
 Message 607:
-{FACE_030003}Are you sure there
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030003}Are you sure there
 aren't more holes in
 there than there are{PAUSE}
-supposed to be?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+supposed to beし
 
 Message 608:
-What a strange
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}What a strange
 machine. What
-does it do?{PAUSE}{EOM}{EOM}
+does it dシ
 
 Message 609:
-So you milk cows with
+{E6}?{PAUSE}{EOM}{EOM}So you milk cows with
 that? {FACE_030003}That must
-look funny!{PAUSE}{EOM}{EOM}
+look funnせ
 
 Message 610:
-What a strange
+{F0}!{PAUSE}{EOM}{EOM}What a strange
 machine. What
-does it do?{PAUSE}{EOM}{EOM}
+does it dシ
 
 Message 611:
-So you milk cows with
+{E6}?{PAUSE}{EOM}{EOM}So you milk cows with
 that? {FACE_030003}That must
-look funny!{PAUSE}{EOM}{EOM}
+look funnシ
 
 Message 612:
-What a strange
+{F0}!{PAUSE}{EOM}{EOM}What a strange
 machine. What
-does it do?{PAUSE}{EOM}{EOM}
+does it dシ
 
 Message 613:
-So you milk cows with
+{E6}?{PAUSE}{EOM}{EOM}So you milk cows with
 that, do you?{PAUSE}{WIPE}
 {FACE_030009}Can't you clean
 it up a little? Who
-wants dirty milk!{PAUSE}{EOM}
+wants dirty mil
 
 Message 614:
-You use those to
+k!{PAUSE}{EOM}You use those to
 shear sheep?{PAUSE}{WIPE}
 You can use them
 for poodles too,
-right?{PAUSE}{EOM}{EOM}
+righと
 
 Message 615:
-It must be so hard
-to shear a sheep!{PAUSE}{EOM}{EOM}{EOM}
+{EB}?{PAUSE}{EOM}{EOM}It must be so hard
+to shear a sheep
 
 Message 616:
-Those clippers look
+!{PAUSE}{EOM}{EOM}{EOM}Those clippers look
 new. They're for
-shearing sheep?{PAUSE}{EOM}{EOM}
+shearing sheeシ
 
 Message 617:
-I think sheep look
+{E7}?{PAUSE}{EOM}{EOM}I think sheep look
 cuter with their fur
-on, personally.{PAUSE}{EOM}{EOM}
+on, personallぽ
 
 Message 618:
-Those are for sheep
-shearing, right?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{F0}.{PAUSE}{EOM}{EOM}Those are for sheep
+shearing, right2
 
 Message 619:
-I think sheep look
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}I think sheep look
 cuter with their fur
-on, personally.{PAUSE}{EOM}{EOM}
+on, personall.
 
 Message 620:
-Do you use those
+{F0}.{PAUSE}{EOM}{EOM}Do you use those
 clippers on your
-sheep?{PAUSE}{EOM}{EOM}
+sheeシ
 
 Message 621:
-I hope you know how
+{E7}?{PAUSE}{EOM}{EOM}I hope you know how
 to use those without
-hurting your sheep!{PAUSE}{EOM}{EOM}
+hurting your sheeす
 
 Message 622:
-Is that a new tool?
+{E7}!{PAUSE}{EOM}{EOM}Is that a new tool?
 It must be nice
-to work with!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+to work withし
 
 Message 623:
-Keep up the
-good work!{PAUSE}{EOM}{EOM}{EOM}
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}Keep up the
+good work
 
 Message 624:
-{FACE_030009}Working again
+!{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}Working again
 today? I admire your
-persistence!{PAUSE}{EOM}{EOM}{EOM}
+persistence
 
 Message 625:
-Keep up the good
-work.{PAUSE}{EOM}{EOM}{EOM}
+!{PAUSE}{EOM}{EOM}{EOM}Keep up the good
+work
 
 Message 626:
-{FACE_030009}That tool looks
+.{PAUSE}{EOM}{EOM}{EOM}{FACE_030009}That tool looks
 almost too old to
-use. Is it?{PAUSE}{EOM}{EOM}
+use. Is iざ
 
 Message 627:
-{FACE_030009}Of course, it
+{EB}?{PAUSE}{EOM}{EOM}{FACE_030009}Of course, it
 doesn't matter how a
-tool looks.{PAUSE}{EOM}{EOM}{EOM}
+tool looks
 
 Message 628:
-What a pretty stone.
-Did you dig this up?{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}What a pretty stone.
+Did you dig this up?
 
 Message 629:
-I think {CARTER}
+{PAUSE}{WIPE}{EOM}{EOM}{EOM}{EOM}I think {CARTER}
 gave me one like
-that...{PAUSE}{EOM}{EOM}
+that.ぽ
 
 Message 630:
-{FACE_030002}You should go
-throw that away!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{C8}.{PAUSE}{EOM}{EOM}{FACE_030002}You should go
+throw that awayぽ
 
 Message 631:
-{FACE_030009}Why do you care
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030009}Why do you care
 about that so much?{PAUSE}{WIPE}
 You're still like a
-little boy!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+little boyみ
 
 Message 632:
-What a pretty flower!
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}What a pretty flower!
 A present for me?
 {CHOICE3 DEF1}
 Yes.
 If you want it.
-No.{EOM}{EOM}
+N
 
 Message 633:
-{S_340184}Thanks!
+o.{EOM}{EOM}{S_340184}Thanks!
 I can't wait to put
-it in my room.{PAUSE}{EOM}
+it in my roo
 
 Message 634:
-...Really?
+m.{PAUSE}{EOM}...Really?
 {S_340184}Thanks!
-I love flowers.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+I love flowersy
 
 Message 635:
-That's too bad...{PAUSE}{EOM}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}That's too bad..
 
 Message 636:
-What a pretty flower.
+.{PAUSE}{EOM}{EOM}{EOM}What a pretty flower.
 Are you going to put
 them in your room?{PAUSE}
-...How nice....{PAUSE}{EOM}{EOM}
+...How nice..み
 
 Message 637:
-...What a pretty
-flower you have.{PAUSE}{EOM}{EOM}
+{C8}.{PAUSE}{EOM}{EOM}...What a pretty
+flower you havぽ
 
 Message 638:
-This reminds me of
+{DC}.{PAUSE}{EOM}{EOM}This reminds me of
 when I used to listen
-to music often...{PAUSE}{EOM}{EOM}
+to music often.V
 
 Message 639:
-There used to be a
+{C8}.{PAUSE}{EOM}{EOM}There used to be a
 cafe with great
 records near where{PAUSE}
 I lived. I would go
 there all the time to
-listen to music.{PAUSE}{EOM}
+listen to musi
 
 Message 640:
-Did {RUBY} give you
+c.{PAUSE}{EOM}Did {RUBY} give you
 that? She's a great
-cook, isn't she?{PAUSE}{EOM}{EOM}{EOM}
+cook, isn't she
 
 Message 641:
-Spices make food
+?{PAUSE}{EOM}{EOM}{EOM}Spices make food
 taste so much better,
-don't they?{PAUSE}{EOM}{EOM}{EOM}
+don't they
 
 Message 642:
-{S_3400DA}{S_3205DC}....What a
-mysterious sound.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+?{PAUSE}{EOM}{EOM}{EOM}{S_3400DA}{S_3205DC}....What a
+mysterious soundぽ
 
 Message 643:
-{S_3400DA}{S_3205DC}What an odd
-drum that is.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{S_3400DA}{S_3205DC}What an odd
+drum that isへ
 
 Message 644:
-Did you win a
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Did you win a
 competition or
-something?{PAUSE}{EOM}{EOM}{EOM}
+something
 
 Message 645:
-What a pretty
-medal.{PAUSE}{EOM}{EOM}
+?{PAUSE}{EOM}{EOM}{EOM}What a pretty
+medaぺ
 
 Message 646:
-That's nice...But
+{E3}.{PAUSE}{EOM}{EOM}That's nice...But
 could it be
-cursed?{PAUSE}{WIPE}{EOM}
+curseぞ
 
 Message 647:
-I don't think that
+{DB}?{PAUSE}{WIPE}{EOM}I don't think that
 suits me. When would
-I wear it?{PAUSE}{EOM}
+I wear i
 
 Message 648:
-That music sure
+t?{PAUSE}{EOM}That music sure
 does look
-difficult.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+difficultぞ
 
 Message 649:
-I can read music, you
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}I can read music, you
 know. I used to sing
-in a choir.{PAUSE}{EOM}{EOM}{EOM}
+in a choir
 
 Message 650:
-Where did you get
-that?!?{PAUSE}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}Where did you get
+that?
 
 Message 651:
-He tried to give me
+!?{PAUSE}{EOM}He tried to give me
 a present, too, but
 I asked him to light{PAUSE}
 one off for
-me instead.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+me insteadぶ
 
 Message 652:
-...Isn't that nice. {PAUSE}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}...Isn't that nice
 
 Message 653:
-That's nice.
+. {PAUSE}{EOM}{EOM}That's nice.
 As long as you
-like it.{PAUSE}{EOM}{EOM}
+like iと
 
 Message 654:
-It must be hard
+{EB}.{PAUSE}{EOM}{EOM}It must be hard
 running a farm. I
 think a man who{PAUSE}
 works hard is
-sexy, though.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+sexy, thoughと
 
 Message 655:
-Sometimes I fall in
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Sometimes I fall in
 love for the wrong
 reasons, which is{PAUSE}
 why it doesn't work
-out.{PAUSE}{EOM}{EOM}{EOM}
+out
 
 Message 656:
-I like
+.{PAUSE}{EOM}{EOM}{EOM}I like
 {C14}{STRUC_30}{C17},
 but I miss{PAUSE}
 my cherry pie and
-bowling!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+bowlingぞ
 
 Message 657:
-I wasn't too good at
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}I wasn't too good at
 bowling, but I had
 fun playing with{PAUSE}
 my friends. We
-used to bet pies.{PAUSE}{EOM}{EOM}
+used to bet pie0
 
 Message 658:
-I used to like men
+{EA}.{PAUSE}{EOM}{EOM}I used to like men
 who were like the
 heros in movies.{PAUSE}{WIPE}
 Then I figured out
 that those men
-weren't very nice!{PAUSE}{EOM}{EOM}
+weren't very nicl
 
 Message 659:
-I do think men should
-be strong, though.{PAUSE}{EOM}{EOM}
+{DC}!{PAUSE}{EOM}{EOM}I do think men should
+be strong, thougぽ
 
 Message 660:
-I really liked the
+{DF}.{PAUSE}{EOM}{EOM}I really liked the
 {VAR_00} you gave
-me. Thanks♥{PAUSE}{EOM}
+me. Thank
 
 Message 661:
-{FACE_030009}I hate to say it,
+s♥{PAUSE}{EOM}{FACE_030009}I hate to say it,
 but...I didn't like
-that {VAR_00}.{PAUSE}{EOM}{EOM}
+that {VAR_61}
 
 Message 662:
-{FACE_03000A}That cheese was
+{EOM}.{PAUSE}{EOM}{EOM}{FACE_03000A}That cheese was
 really good♥{PAUSE}{WIPE}
 I didn't share with
-{GRIFFIN}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{GRIFFIN}ぼ
 
 Message 663:
-That cheese you gave
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}That cheese you gave
 me had a funny odor.{PAUSE}{WIPE}
 Just a little was
-enough.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+enoughV
 
 Message 664:
-That cheese you gave
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}That cheese you gave
 me was really good.{PAUSE}{WIPE}
 It seemed rare, so I
 didn't give any to
-{GRIFFIN}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{GRIFFIN}ぶ
 
 Message 665:
-Thanks for that
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Thanks for that
 cheese. {GRIFFIN}
-liked it, too.{PAUSE}{EOM}{EOM}
+liked it, toe
 
 Message 666:
-{FACE_03000A}That butter was
+{E6}.{PAUSE}{EOM}{EOM}{FACE_03000A}That butter was
 nice and rich. You
 can give me more{PAUSE}
-any time♥{PAUSE}{EOM}{EOM}{EOM}{EOM}
+any timeス
 
 Message 667:
-{FACE_030009}That butter you
+{D6}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030009}That butter you
 gave me was a little
 too strong.{PAUSE}{WIPE}
 Sorry, but I just
-didn't like it.{PAUSE}{EOM}
+didn't like i
 
 Message 668:
-That butter was
+t.{PAUSE}{EOM}That butter was
 excellent! It's rare,
-isn't it? Thanks♥{PAUSE}{EOM}
+isn't it? Thank
 
 Message 669:
-{FACE_03000A}Thanks for that
-butter! It was great.{PAUSE}{EOM}{EOM}{EOM}
+s♥{PAUSE}{EOM}{FACE_03000A}Thanks for that
+butter! It was great
 
 Message 670:
-{FACE_03000A}That {VAR_00}
+.{PAUSE}{EOM}{EOM}{EOM}{FACE_03000A}That {VAR_00}
 you gave me was
 delicious!{PAUSE}{WIPE}
 {FACE_030000}Any woman would
 be lucky to
-marry you!{PAUSE}{EOM}{EOM}{EOM}
+marry you
 
 Message 671:
-{FACE_03000A}Thanks for that
+!{PAUSE}{EOM}{EOM}{EOM}{FACE_03000A}Thanks for that
 {VAR_00}. I can tell
-you like cooking.{PAUSE}{EOM}{EOM}
+you like cookinぞ
 
 Message 672:
-I can tell you like
+{DE}.{PAUSE}{EOM}{EOM}I can tell you like
 farming. If you
 didn't, you wouldn't{PAUSE}
-be so good at it!{PAUSE}{EOM}
+be so good at i
 
 Message 673:
-I hear you're a good
+t!{PAUSE}{EOM}I hear you're a good
 cook. Will you teach
-me, too?{PAUSE}{EOM}
+me, to
 
 Message 674:
-Hi there! What are
-you doing here?{PAUSE}{EOM}
+o?{PAUSE}{EOM}Hi there! What are
+you doing her
 
 Message 675:
-{FACE_030003}You wanted to
+e?{PAUSE}{EOM}{FACE_030003}You wanted to
 see me? What for?
 {CHOICE3 DEF0}
 I wanted to talk.
 Just to see you.
-I have a funny joke.{EOM}{EOM}
+I have a funny jok
 
 Message 676:
-Really?
+e.{EOM}{EOM}Really?
 {FACE_03000A}{S_340184}I like talking
-to you, too!{PAUSE}{EOM}{EOM}{EOM}{EOM}
+to you, tooV
 
 Message 677:
-Me? {S_340184}Hee hee...{PAUSE}{WIPE}
+{CB}{PAUSE}{EOM}{EOM}{EOM}{EOM}Me? {S_340184}Hee hee...{PAUSE}{WIPE}
 I'm the same as
-yesterday!{PAUSE}{EOM}{EOM}{EOM}
+yesterday
 
 Message 678:
-Why don't you go tell
+!{PAUSE}{EOM}{EOM}{EOM}Why don't you go tell
 it to the kid across
-the street?{PAUSE}{EOM}{EOM}
+the streeし
 
 Message 679:
-Thanks for coming.{PAUSE}{EOM}
+{EB}?{PAUSE}{EOM}{EOM}Thanks for comin
 
 Message 680:
-Welcome. Make
-yourself comfortable.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+g.{PAUSE}{EOM}Welcome. Make
+yourself comfortableな
 
 Message 681:
-{FACE_03000A}Hi there.
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_03000A}Hi there.
 Did you need
 something?
 {CHOICE3 DEF0}
 I'm tired today!
 I have a good story.
-How are you?{EOM}
+How are yオ
 
 Message 682:
-{FACE_03001A}That farm must
+{E6}u?{EOM}{FACE_03001A}That farm must
 wear you out! Come
-take a load off.{PAUSE}{EOM}
+take a load of
 
 Message 683:
-What?
+f.{PAUSE}{EOM}What?
 {FACE_03000A}{S_340184}You're a funny
-guy, you know that?{PAUSE}{EOM}{EOM}{EOM}
+guy, you know that
 
 Message 684:
-{FACE_03001F}...I'm fine, but...{PAUSE}{WIPE}
+?{PAUSE}{EOM}{EOM}{EOM}{FACE_03001F}...I'm fine, but...{PAUSE}{WIPE}
 {FACE_03001A}What is it, all
-of a sudden?{PAUSE}{EOM}{EOM}
+of a suddeV
 
 Message 685:
-A drink at the Blue
+{E5}?{PAUSE}{EOM}{EOM}A drink at the Blue
 Bar is the best thing
-after a hard day.{PAUSE}{EOM}{EOM}
+after a hard daV
 
 Message 686:
-Just don't drink
-too much, now!{PAUSE}{EOM}{EOM}
+{F0}.{PAUSE}{EOM}{EOM}Just don't drink
+too much, noつ
 
 Message 687:
-Hi there.
+{EE}!{PAUSE}{EOM}{EOM}Hi there.
 Are you here to see
-me or Griffin?{PAUSE}{EOM}{EOM}{EOM}{EOM}
+me or Griffinぼ
 
 Message 688:
-Hi, what is it?
+{CA}{PAUSE}{EOM}{EOM}{EOM}{EOM}Hi, what is it?
 {CHOICE3 DEF0}
 Wanted to see you.
 Wanted to talk.
-Nothing particular.{EOM}
+Nothing particulし
 
 Message 689:
-{FACE_03001A}What!?
+{D8}r.{EOM}{FACE_03001A}What!?
 You're making
-me embarrassed...!{PAUSE}{EOM}
+me embarrassed..
 
 Message 690:
-What? Is it a
-secret or something?{PAUSE}{EOM}
+.!{PAUSE}{EOM}What? Is it a
+secret or somethin
 
 Message 691:
-Oh...I see.
+g?{PAUSE}{EOM}Oh...I see.
 In that case...
-See you later.{PAUSE}{EOM}{EOM}
+See you late0
 
 Message 692:
-...Thanks for coming.{PAUSE}{EOM}{EOM}{EOM}
+{E9}.{PAUSE}{EOM}{EOM}...Thanks for coming
 
 Message 693:
-What's up? Did
+.{PAUSE}{EOM}{EOM}{EOM}What's up? Did
 something bad happen
 at work?
 {CHOICE3 DEF0}
 Yes.
 No.
-Something good.{EOM}{EOM}
+Something goo
 
 Message 694:
-{FACE_03001A}That's too bad.
+d.{EOM}{EOM}{FACE_03001A}That's too bad.
 Come in and forget
-your worries.{PAUSE}{EOM}{EOM}{EOM}
+your worries
 
 Message 695:
-Good. I have enough
-worries of my own...{PAUSE}{EOM}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}Good. I have enough
+worries of my own.ぽ
 
 Message 696:
-I'm glad. Your farm
+{C8}.{PAUSE}{EOM}{EOM}I'm glad. Your farm
 seems like so much
-fun!{PAUSE}{EOM}
+fu
 
 Message 697:
-Come any time you
-get tired.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+n!{PAUSE}{EOM}Come any time you
+get tiredへ
 
 Message 698:
-It's gotten warmer,
-hasn't it?{PAUSE}{EOM}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}It's gotten warmer,
+hasn't it
 
 Message 699:
-Spring always makes
-me feel so free!{PAUSE}{EOM}
+?{PAUSE}{EOM}{EOM}{EOM}Spring always makes
+me feel so fre
 
 Message 700:
-This summer heat
+e!{PAUSE}{EOM}This summer heat
 sucks all the energy
-out of me...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+out of me..o
 
 Message 701:
-But, summers are
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}But, summers are
 nicer here than in
-{C14}{STRUC_31}{C17}.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{C14}{STRUC_31}{C17}ス
 
 Message 702:
-It's gotten
-cooler, hasn't it?{PAUSE}{EOM}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}It's gotten
+cooler, hasn't it
 
 Message 703:
-It's easy to sleep
+?{PAUSE}{EOM}{EOM}{EOM}It's easy to sleep
 late in the fall
 since mornings{PAUSE}
-don't get hot.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+don't get hotし
 
 Message 704:
-Brrr...! It sure it
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Brrr...! It sure it
 cold! Sometimes I
 wish the seasons{PAUSE}
-wouldn't change!{PAUSE}{EOM}{EOM}{EOM}
+wouldn't change
 
 Message 705:
-I wish I could fly
+!{PAUSE}{EOM}{EOM}{EOM}I wish I could fly
 south for the
-winter!{PAUSE}{EOM}{EOM}{EOM}
+winter
 
 Message 706:
-A drink to revive
+!{PAUSE}{EOM}{EOM}{EOM}A drink to revive
 yourself when you're
-tired is always nice!{PAUSE}{EOM}
+tired is always nic
 
 Message 707:
-Griffin is the only
+e!{PAUSE}{EOM}Griffin is the only
 one who knows how
-to make the drinks.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+to make the drinksV
 
 Message 708:
-Griffin plays
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Griffin plays
 his guitar sometimes
 at night.{PAUSE}{WIPE}
 If you're lucky,
-you can see him play.{PAUSE}{EOM}
+you can see him pla
 
 Message 709:
-Take your time.{PAUSE}{EOM}{EOM}{EOM}
+y.{PAUSE}{EOM}Take your time
 
 Message 710:
-Remember, I'm working
+.{PAUSE}{EOM}{EOM}{EOM}Remember, I'm working
 when I'm behind
-the counter.{PAUSE}{EOM}{EOM}
+the counteて
 
 Message 711:
-{FACE_030019}...What's wrong?
+{E9}.{PAUSE}{EOM}{EOM}{FACE_030019}...What's wrong?
 Are you going home
-now...?{PAUSE}{EOM}{EOM}{EOM}
+now...
 
 Message 712:
-Don't you just love
+?{PAUSE}{EOM}{EOM}{EOM}Don't you just love
 your son? You look
-so happy.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+so happye
 
 Message 713:
-{FACE_030019}I know this isn't
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030019}I know this isn't
 like me, but I don't
 feel much like{PAUSE}
 talking to people
-today.{PAUSE}{EOM}
+toda
 
 Message 714:
-{FACE_030019}...Good bye.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+y.{PAUSE}{EOM}{FACE_030019}...Good byeキ
 
 Message 715:
-{FACE_030005}Sorry, but I don't
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030005}Sorry, but I don't
 want to talk to
 you right now.{PAUSE}{WIPE}
 If you keep talking
 to me, you'll
-regret it.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+regret it0
 
 Message 716:
-{FACE_030005}What!?!
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_030005}What!?!
 This is the first
 time something{PAUSE}
 like this has
-happened to me!{PAUSE}{EOM}{EOM}
+happened to mへ
 
 Message 717:
-{FACE_030006}I'm so mad at you!
+{DC}!{PAUSE}{EOM}{EOM}{FACE_030006}I'm so mad at you!
 Get out of my
-sight!{PAUSE}{EOM}{EOM}
+sighシ
 
 Message 718:
-{FACE_030003}{S_340184}Hi♥{PAUSE}{EOM}{EOM}
+{EB}!{PAUSE}{EOM}{EOM}{FACE_030003}{S_340184}He
 
 Message 719:
-{FACE_03000A}When we get married,
+{E0}♥{PAUSE}{EOM}{EOM}{FACE_03000A}When we get married,
 will you buy us a
 queen size bed?{PAUSE}{WIPE}
 {S_340185}I want to put
-silk sheets on it!{PAUSE}{EOM}{EOM}{EOM}
+silk sheets on it
 
 Message 720:
-To be honest, I want
+!{PAUSE}{EOM}{EOM}{EOM}To be honest, I want
 to start living
 together right now.{PAUSE}{WIPE}
 I feel so lonely
-by myself.{PAUSE}{EOM}
+by mysel
 
 Message 721:
-{S_340184}Let's have a big
+f.{PAUSE}{EOM}{S_340184}Let's have a big
 family. We'll be
-very happy!{PAUSE}{EOM}{EOM}
+very happざ
 
 Message 722:
-Boy, you surprised
+{F0}!{PAUSE}{EOM}{EOM}Boy, you surprised
 me. Are you asking
 me out?{PAUSE}{WIPE}
-I'm just kidding.{PAUSE}{EOM}{EOM}
+I'm just kiddinス
 
 Message 723:
-I'm so bored.
+{DE}.{PAUSE}{EOM}{EOM}I'm so bored.
 How can we have fun
-together now?{PAUSE}{EOM}{EOM}
+together noざ
 
 Message 724:
-{FACE_030003}{S_340184}Hi♥{PAUSE}{EOM}{EOM}
+{EE}?{PAUSE}{EOM}{EOM}{FACE_030003}{S_340184}He
 
 Message 725:
-Don't make me worry
+{E0}♥{PAUSE}{EOM}{EOM}Don't make me worry
 about you!
-I'm serious.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+I'm seriousつ
 
 Message 726:
-Not many people know
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Not many people know
 about us.{PAUSE}{WIPE}
 A lot of guys still
 ask me out on
-dates!{PAUSE}{EOM}{EOM}
+dateむ
 
 Message 727:
-{FACE_03000A}{S_340184}Let's go on
+{EA}!{PAUSE}{EOM}{EOM}{FACE_03000A}{S_340184}Let's go on
 another date, even
 though you can't{PAUSE}
 go anywhere in
 this town without
-being seen.{PAUSE}{EOM}{EOM}{EOM}
+being seen
 
 Message 728:
-{FACE_030002}How can you expect
+.{PAUSE}{EOM}{EOM}{EOM}{FACE_030002}How can you expect
 to talk to me like
-nothing's happened?{PAUSE}{EOM}{EOM}{EOM}
+nothing's happened
 
 Message 729:
-{FACE_030002}I don't care if you
+?{PAUSE}{EOM}{EOM}{EOM}{FACE_030002}I don't care if you
 regret what you
 did.{PAUSE}{WIPE}
 I won't give you
 another chance
-to hurt me!{PAUSE}{EOM}{EOM}
+to hurt mべ
 
 Message 730:
-I don't want to
-talk right now...{PAUSE}{EOM}{EOM}{EOM}
+{DC}!{PAUSE}{EOM}{EOM}I don't want to
+talk right now..
 
 Message 731:
-Thanks! But, I'm
+.{PAUSE}{EOM}{EOM}{EOM}Thanks! But, I'm
 too busy right
-now. Sorry...{PAUSE}{EOM}{EOM}{EOM}{EOM}
+now. Sorry..ざ
 
 Message 732:
-Try me again
-later, okay?{PAUSE}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Try me again
+later, oka
 
 Message 733:
-It's time for me
-to go to bed...{PAUSE}{EOM}{EOM}
+y?{PAUSE}{EOM}It's time for me
+to go to bed.て
 
 Message 734:
-I have to go to bed.
-Will you leave?{PAUSE}{EOM}{EOM}{EOM}
+{C8}.{PAUSE}{EOM}{EOM}I have to go to bed.
+Will you leave
 
 Message 735:
-...Good night.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+?{PAUSE}{EOM}{EOM}{EOM}...Good nightぅ
 
 Message 736:
-I have to leave
-now.{PAUSE}{EOM}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}I have to leave
+now
 
 Message 737:
-I'm going out,
-so....{PAUSE}{EOM}{EOM}{EOM}{EOM}
+.{PAUSE}{EOM}{EOM}{EOM}I'm going out,
+so...ぞ
 
 Message 738:
-Bye now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}Bye nowe
 
 Message 739:
-{FACE_03000A}{TATSUYA}♪
+{C8}{PAUSE}{EOM}{EOM}{EOM}{EOM}{FACE_03000A}{TATSUYA}♪
 Have Mommy wash
-you, okay?{PAUSE}{EOM}{EOM}
+you, okaて
 
 Message 740:
-{FACE_03000A}{TATSUYA}'s all
-clean now♥{PAUSE}{EOM}{EOM}
+{F0}?{PAUSE}{EOM}{EOM}{FACE_03000A}{TATSUYA}'s all
+clean noぺ
 
 Message 741:
-{FACE_030005}Why don't you
+{EE}♥{PAUSE}{EOM}{EOM}{FACE_030005}Why don't you
 wanna take a bath
 with him!?{PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
 

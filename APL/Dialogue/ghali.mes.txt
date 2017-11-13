@@ -1099,24 +1099,24 @@ change your mind. {PAUSE}{EOM}
 Message 177:
 {FACE_11000A}Nina would be happy
 if you were to tend
-to her grave. 
+to her grave. {PAUSE}{EOM}
 
 Message 178:
-{PAUSE}{EOM}{S_34015F}Hey, do you like
-to go fishing? {CHOICE Y/N DEF0}
+{S_34015F}Hey, do you like
+to go fishing? {CHOICE Y/N DEF0}{EOM}{EOM}
 
 Message 179:
-{EOM}{EOM}{S_34015F}{FACE_11000A}Oh, well in that
+{S_34015F}{FACE_11000A}Oh, well in that
 case, take this. {PAUSE}{WIPE}
 This is by favorite
 fishing rod. {PAUSE}{WIPE}
 I'm always kept
 busy with my bonsai,
 so I don't fish {PAUSE}
-as much as I used to. {PAUSE}
+as much as I used to. {PAUSE}{EOM}{EOM}
 
 Message 180:
-{EOM}{EOM}{S_34015E}I see, that's fine.
+{S_34015E}I see, that's fine.
 Well take this for
 the time being. {PAUSE}{WIPE}
 It's my favorite
@@ -1124,33 +1124,33 @@ fishing rod. {PAUSE}{WIPE}
 I'm always kept
 busy with my bonsai,
 so I don't fish {PAUSE}
-as much as I used to.{PAUSE}
+as much as I used to.{PAUSE}{EOM}{EOM}
 
 Message 181:
-{EOM}{EOM}{S_34015F}It's unfortunate but
+{S_34015F}It's unfortunate but
 I'll have to do it
-next time. {PAUSE}{EOM}{EOM}
+next time. {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 182:
-{EOM}{EOM}I guess I'll go
-to sleep... 
+I guess I'll go
+to sleep... {PAUSE}{EOM}
 
 Message 183:
-{PAUSE}{EOM}I'm going t bed,
-so please go home. {PAUSE}{EOM}
+I'm going t bed,
+so please go home. {PAUSE}{EOM}{EOM}{EOM}
 
 Message 184:
-{EOM}{EOM}I'm going to
-sleep now... {PAUSE}{EOM}{EOM}
+I'm going to
+sleep now... {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 185:
-{EOM}{EOM}I really need to
-get going... 
+I really need to
+get going... {PAUSE}{EOM}
 
 Message 186:
-{PAUSE}{EOM}I need to be
-going now... 
+I need to be
+going now... {PAUSE}{EOM}
 
 Message 187:
-{PAUSE}{EOM}See you later... {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
+See you later... {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
 

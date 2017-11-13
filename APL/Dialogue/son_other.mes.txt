@@ -238,86 +238,86 @@ Message 71:
 Message 72:
 {S_3401A7}Stop it Mom.
 I'm not a little
-baby anymoreK okay?
+baby anymore, okay? {PAUSE}{EOM}{EOM}
 
 Message 73:
- {PAUSE}{EOM}{EOM}{S_3401A7}Mom, I'm not a
-child anymore.
+{S_3401A7}Mom, I'm not a
+child anymore. {PAUSE}{EOM}{EOM}
 
 Message 74:
- {PAUSE}{EOM}{EOM}{S_3401A7}Stop it.
+{S_3401A7}Stop it.
 Can't you see I'm
-not a baby anymore? {PAUSE}
+not a baby anymore? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 75:
-{EOM}{EOM}{EOM}{EOM}{S_3401A7}Just stop
-okay, Mom?
+{S_3401A7}Just stop
+okay, Mom? {PAUSE}{EOM}{EOM}
 
 Message 76:
- {PAUSE}{EOM}{EOM}{S_3401A9}Hey, stop.
-I'm not kiddingへ
+{S_3401A9}Hey, stop.
+I'm not kidding. {PAUSE}{EOM}
 
 Message 77:
-{C8} {PAUSE}{EOM}{S_3401A8}Hey, I'm not
-a kid anymore.
+{S_3401A8}Hey, I'm not
+a kid anymore. {PAUSE}{EOM}{EOM}
 
 Message 78:
- {PAUSE}{EOM}{EOM}{S_3401A9}What the heck,
-Ma! {PAUSE}{EOM}{EOM}
+{S_3401A9}What the heck,
+Ma! {PAUSE}{EOM}{EOM}{EOM}{EOM}{S_340165}
 
 Message 79:
-{EOM}{EOM}{S_3401A9}What the heck,
-Ma! {PAUSE}{EOM}{EOM}{EOM}{EOM}
+{A9}What the heck,
+Ma! {PAUSE}{EOM}{EOM}{EOM}{EOM}Pl
 
 Message 80:
-Please stop it. {PAUSE}{EOM}{EOM}
+ease stop it. {PAUSE}{EOM}{EOM}Pl
 
 Message 81:
-Please stop it. {PAUSE}{EOM}{EOM}
+ease stop it. {PAUSE}{EOM}{EOM}..
 
 Message 82:
-... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+. {PAUSE}{EOM}{EOM}{EOM}{EOM}..
 
 Message 83:
-... {PAUSE}{EOM}{EOM}{EOM}{EOM}
+. {PAUSE}{EOM}{EOM}{EOM}{EOM}{S_3401A8}0
 
 Message 84:
-{S_3401A8}Stop messing around
+{1D}top messing around
 with me. I'm not some
-little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}{S_3401A8}ス
 
 Message 85:
-{S_3401A8}Stop messing around
+{1D}top messing around
 with me. I'm not some
-little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}{S_3401A8}ス
 
 Message 86:
-{S_3401A8}Stop messing around
+{1D}top messing around
 with me. I'm not some
-little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}{S_3401A8}ス
 
 Message 87:
-{S_3401A8}Stop messing around
+{1D}top messing around
 with me. I'm not some
-little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}{S_3401A8}ス
 
 Message 88:
-{S_3401A8}Stop messing around
+{1D}top messing around
 with me. I'm not some
-little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}{S_3401A8}ス
 
 Message 89:
-{S_3401A8}Stop messing around
+{1D}top messing around
 with me. I'm not some
-little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}{S_3401A8}ス
 
 Message 90:
-{S_3401A8}Stop messing around
+{1D}top messing around
 with me. I'm not some
-little kid anymore. {PAUSE}{EOM}{EOM}{EOM}
+little kid anymore. {PAUSE}{EOM}{EOM}{EOM}{S_3401A8}ス
 
 Message 91:
-{S_3401A8}Stop messing around
+{1D}top messing around
 with me. I'm not some
 little kid anymore. {PAUSE}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}{EOM}
 
