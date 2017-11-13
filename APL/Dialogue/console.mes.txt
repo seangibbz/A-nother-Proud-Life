@@ -969,10 +969,10 @@ To the Ledger.{PAUSE}{EOM}
 
 Message 230:
 To the Dairy
-Shipping Bin.{PAUSE}{EOM}{EOM}{EOM}Display と
+Shipping Bin.{PAUSE}{EOM}{EOM}{EOM}
 
 Message 231:
-{D8}ll crops
+Display all crops
 in the Rucksack.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 232:

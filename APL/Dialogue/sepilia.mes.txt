@@ -3246,17 +3246,17 @@ to do anything now.{PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 612:
 Aren't the autumn
-leaves beautiful? {PAUSE}{EOM}{EOM}{EOM}{EOM}It's getting cold.
-Are you rし
+leaves beautiful? {PAUSE}{EOM}{EOM}{EOM}{EOM}
 
 Message 613:
-{DC}ady for
+It's getting cold.
+Are you ready for
 winter? {PAUSE}{EOM}
 
 Message 614:
 Make sure your
 animals don't catch
-cold. {PAUSE}{WIPE}
+a cold. {PAUSE}{WIPE}
 Or you either! {PAUSE}{EOM}{EOM}
 
 Message 615:
