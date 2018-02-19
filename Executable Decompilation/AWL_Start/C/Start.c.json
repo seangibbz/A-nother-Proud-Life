@@ -1,0 +1,156 @@
+{
+   "architecture" : {
+      "bitSize" : 32,
+      "endian" : "big",
+      "name" : "powerpc"
+   },
+   "classes" : [],
+   "date" : "2018-02-19",
+   "decompParams" : {
+      "abiPaths" : [],
+      "completedFrontendPasses" : [],
+      "frontEndOutputFile" : "C:/Users/sean_d_gibbons/OneDrive/Start/Start.c.frontend.ll",
+      "frontendFunctions" : [],
+      "keepAllFuncs" : false,
+      "libraryTypeInfoPaths" : [
+         "C:/Users/sean_d_gibbons/Downloads/retdec/bin/../share/generic/types/arm.json",
+         "C:/Users/sean_d_gibbons/Downloads/retdec/bin/../share/generic/types/cstdlib.json",
+         "C:/Users/sean_d_gibbons/Downloads/retdec/bin/../share/generic/types/linux.json",
+         "C:/Users/sean_d_gibbons/Downloads/retdec/bin/../share/generic/types/windows.json",
+         "C:/Users/sean_d_gibbons/Downloads/retdec/bin/../share/generic/types/windrivers.json"
+      ],
+      "outputFile" : "C:/Users/sean_d_gibbons/OneDrive/Start/Start.c",
+      "selectedDecodeOnly" : false,
+      "selectedFunctions" : [],
+      "selectedNotFoundFncs" : [],
+      "selectedRanges" : [],
+      "staticSignPaths" : [
+         "C:/Users/sean_d_gibbons/Downloads/retdec/bin/../share/generic/yara_patterns/static-code/elf/32/be/powerpc/ppc32-gcc-4.5.2.yara"
+      ],
+      "userStaticSignPaths" : [],
+      "verboseOut" : false
+   },
+   "entryPoint" : 2147496276,
+   "fileFormat" : "elf32",
+   "fileType" : "executable",
+   "functions" : [],
+   "globals" : [],
+   "inputFile" : "C:/Users/sean_d_gibbons/OneDrive/Start/Start.elf",
+   "languages" : [],
+   "patterns" : [
+      {
+         "description" : "zinflate_distanceExtraBits (32-bit, big endian)",
+         "endian" : "big",
+         "matches" : [
+            {
+               "address" : 2149929416,
+               "entrySize" : 4,
+               "offset" : 2433883,
+               "size" : 120,
+               "type" : "integral"
+            }
+         ],
+         "name" : "zinflate_distanceExtraBits",
+         "type" : "crypto",
+         "yaraRule" : "zinflate_distanceExtraBits__32_big_120_"
+      },
+      {
+         "description" : "libavcodec_ff_zigzag_direct (8-bit, big endian)",
+         "endian" : "big",
+         "matches" : [
+            {
+               "address" : 2150197704,
+               "entrySize" : 1,
+               "offset" : 2702171,
+               "size" : 64,
+               "type" : "integral"
+            }
+         ],
+         "name" : "libavcodec_ff_zigzag_direct",
+         "type" : "crypto",
+         "yaraRule" : "libavcodec_ff_zigzag_direct__8_byt_64_"
+      },
+      {
+         "description" : "padding_used_in_hashing_algorithms__0x80_0_____0_ (8-bit, big endian)",
+         "endian" : "big",
+         "matches" : [
+            {
+               "address" : 2149904097,
+               "entrySize" : 1,
+               "offset" : 2408564,
+               "size" : 64,
+               "type" : "integral"
+            },
+            {
+               "address" : 2149913669,
+               "entrySize" : 1,
+               "offset" : 2418136,
+               "size" : 64,
+               "type" : "integral"
+            },
+            {
+               "address" : 2149935717,
+               "entrySize" : 1,
+               "offset" : 2440184,
+               "size" : 64,
+               "type" : "integral"
+            },
+            {
+               "address" : 2150286895,
+               "entrySize" : 1,
+               "offset" : 2791362,
+               "size" : 64,
+               "type" : "integral"
+            },
+            {
+               "address" : 2150411027,
+               "entrySize" : 1,
+               "offset" : 2915494,
+               "size" : 64,
+               "type" : "integral"
+            },
+            {
+               "address" : 2150523827,
+               "entrySize" : 1,
+               "offset" : 3028294,
+               "size" : 64,
+               "type" : "integral"
+            }
+         ],
+         "name" : "padding_used_in_hashing_algorithms__0x80_0_____0_",
+         "type" : "crypto",
+         "yaraRule" : "padding_used_in_hashing_algorithms__0x80_0_____0___8_byt_64_"
+      },
+      {
+         "description" : "zinflate_distanceExtraBits (32-bit, little endian)",
+         "endian" : "little",
+         "matches" : [
+            {
+               "address" : 2149929419,
+               "entrySize" : 4,
+               "offset" : 2433886,
+               "size" : 120,
+               "type" : "integral"
+            }
+         ],
+         "name" : "zinflate_distanceExtraBits",
+         "type" : "crypto",
+         "yaraRule" : "zinflate_distanceExtraBits__32_lil_120_"
+      }
+   ],
+   "registers" : [],
+   "segments" : [],
+   "structures" : [],
+   "time" : "02:52:19",
+   "tools" : [
+      {
+         "heuristics" : false,
+         "identicalSignificantNibbles" : 64,
+         "name" : "gc",
+         "percentage" : 32.820512820512818,
+         "totalSignificantNibbles" : 195,
+         "type" : "compiler"
+      }
+   ],
+   "vtables" : []
+}
